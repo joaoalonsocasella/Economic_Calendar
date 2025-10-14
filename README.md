@@ -1,126 +1,61 @@
-# Global Economic Calendar Feeds (by João Casella)
+# 🌍 Global Economic Calendar Feeds  
+### by [João Casella](https://github.com/joaoalonsocasella)
 
-A simple code to get the most recent economic calendar into your Google or Outlook Calendar.
+This repository hosts a continuously updated collection of **global economic calendars** — one for each country — provided in the standard **ICS (iCalendar)** format.  
 
-**EconomicCalendar** is an open-source project that aggregates and distributes **global macroeconomic events** in standardized **ICS (iCalendar)** format — country by country — for direct integration with **Outlook**, **Google Calendar**, **Apple Calendar**, and any other iCalendar-compatible platform.
-
-All calendars are **automatically updated** via [GitHub Actions](.github/workflows/update.yml) every day, ensuring analysts, traders, and researchers always have an up-to-date view of upcoming economic releases and events.
-
-
-## Purpose
-
-Provide a **modular, continuously updated economic calendar** where each country can be subscribed to or toggled independently within any calendar app.
-
-
-## Data Source
-
-All economic events and releases included in these calendars are collected from  
-[**MarketPulse – Economic Calendar**](https://www.marketpulse.com/tools/economic-calendar/),  
-a public tool provided by OANDA featuring global macroeconomic schedules and indicators.
-
-The project’s backend scripts periodically fetch and normalize MarketPulse data into the  
-iCalendar (ICS) format, ensuring consistent time zones, ISO country tags, and clean event titles.
-
-> ⚠️ *Disclaimer:* This repository is an independent, non-commercial implementation for educational  
-and analytical purposes. Data is publicly available through MarketPulse’s website and no proprietary  
-APIs or credentials are used.
-
-
-
-## How It Works
-
-Inside the **`scripts/`** directory, you’ll find three core Python files:
-
-| Script | Purpose |
-|---------|----------|
-| `Update.py` | Runs all individual country scrapers and regenerates `.ics` files |
-| `Combine.py` | Merges all `.ics` files into a single global calendar |
-| `GenerateLinks.py` | Creates Markdown and HTML subscription links automatically |
-
-This modular setup was intentional — running all scrapers in a single process was prone to bugs and made debugging harder, so splitting them by country keeps the process cleaner and more reliable.
-
-All scripts are orchestrated by **GitHub Actions**, which run automatically every day.  
-Each run regenerates the `.ics` calendars, updates the subscription links, and commits them back to the repository — so your subscribed calendars always stay synchronized.
-
-
-## Subscription Links
-
-Below are the public links to subscribe directly to the economic calendars.
-
-You can **subscribe to all countries at once**, or **select individual countries** to keep your Outlook/Google Calendar organized.
-
-> ✅ *These are live calendars — once you subscribe, they will update automatically whenever this repository updates.*
+All calendars are automatically updated through **GitHub Actions** and can be easily subscribed to from **Outlook**, **Google Calendar**, **Apple Calendar**, or any other calendar app supporting iCalendar feeds.
 
 ---
 
-### **Subscribe to All**
+## 📅 Access the Live Calendar Page
 
-- **Outlook (webcal):**  
-  [Add Global Calendar (Outlook)](webcal://raw.githubusercontent.com/joaocasella/econ-calendar/main/calendar.ics)
-- **Google Calendar (https):**  
-  [Add Global Calendar (Google)](https://raw.githubusercontent.com/joaocasella/econ-calendar/main/calendar.ics)
+👉 **View and subscribe to all country calendars here:**  
+🔗 [https://joaocasella.github.io/Economic_Calendar/](https://joaocasella.github.io/Economic_Calendar/)
+
+From this page, you can:
+- Subscribe to individual country calendars (Outlook or Google)
+- Subscribe to the combined global calendar
+- Automatically receive updates every time new data is fetched
 
 ---
 
-### **Subscribe Individually**
-<!-- AUTO-LINKS:START -->
-| Country | Outlook (webcal://) | Google (https://) |
-|----------|--------------------|-------------------|
-| 🇧🇷 BRA | [Add Outlook](webcal://raw.githubusercontent.com/joaocasella/econ-calendar/main/data/raw/ICS/BRA_2026.ics) | [Add Google](https://raw.githubusercontent.com/joaocasella/econ-calendar/main/data/raw/ICS/BRA_2026.ics) |
-| 🇺🇸 USA | [Add Outlook](webcal://raw.githubusercontent.com/joaocasella/econ-calendar/main/data/raw/ICS/USA_2026.ics) | [Add Google](https://raw.githubusercontent.com/joaocasella/econ-calendar/main/data/raw/ICS/USA_2026.ics) |
-| 🇪🇺 EUR | [Add Outlook](webcal://raw.githubusercontent.com/joaocasella/econ-calendar/main/data/raw/ICS/EUR_2026.ics) | [Add Google](https://raw.githubusercontent.com/joaocasella/econ-calendar/main/data/raw/ICS/EUR_2026.ics) |
-<!-- AUTO-LINKS:END -->
+## 🧠 About the Project
 
-*(This table is automatically updated by GitHub Actions — do not edit manually.)*
+**EconomicCalendar** is an open-source project designed to aggregate and distribute global **macroeconomic event data** in a clean and machine-readable format.
 
+All data is sourced from:  
+[**MarketPulse – Economic Calendar**](https://www.marketpulse.com/tools/economic-calendar/)
 
+---
 
-### Last Updated
-*Generated automatically at:*  
-`2025-10-14 09:00 UTC`
+## ⚙️ How It Works
 
+1. Each country’s data is scraped using an individual script inside the `scripts/single_country_request/` folder.  
+2. The script `Update.py` runs daily through **GitHub Actions**, updating and regenerating all `.ics` files.  
+3. The script `Combine.py` merges them into a single global `.ics`.  
+4. Finally, `GenerateLinks.py` updates the live HTML page and the README if needed.
 
+---
 
-## Notes
+## 🕓 Automation
 
-Each `.ics` file represents a **standalone subscription**.  
-When you click a `webcal://` link, Outlook (or any iCalendar client) will **subscribe** to it as a separate calendar —  
-not import the events — meaning it will update automatically whenever new data is pushed by GitHub Actions.
+The GitHub Actions workflow (`.github/workflows/update.yml`) automatically:
+- Scrapes new data from MarketPulse  
+- Regenerates all `.ics` calendars  
+- Commits changes to the repo  
+- Keeps the hosted version up-to-date on GitHub Pages  
 
+No manual action is needed — subscribed calendars update automatically.
 
+---
 
-## Automation Summary
+## ⚠️ Disclaimer
 
-This repository uses **GitHub Actions** to run automatically every day:
+This project is a **non-commercial educational initiative**.  
+All information originates from publicly available sources, and no proprietary or credentialed APIs are used.
 
-1. Execute scrapers (`Update.py`) for each country  
-2. Combine all `.ics` files into `calendar.ics`  
-3. Generate subscription links (`GenerateLinks.py`)  
-4. Insert links into the README dynamically  
-5. Commit & push all updates automatically
+---
 
-
-
-## Tech Stack
-
-| Component | Description |
-|------------|-------------|
-| **Python 3.11** | Main scripting environment |
-| **icalendar** | Library for creating and parsing `.ics` files |
-| **Playwright / BeautifulSoup** | Used for scraping MarketPulse |
-| **GitHub Actions** | Automates updates and publishing |
-| **Raw GitHub URLs (`webcal://`)** | Enable live Outlook/Google Calendar subscriptions |
-
-
-
-## License
-
-This project is distributed under the **MIT License** —  
-you are free to use, modify, and redistribute it with proper attribution.
-
-
-
-## Author
-
-**João Alonso Casella**  
-• [GitHub](https://github.com/joaocasella)
+**Maintained by:** João Alonso Casella  
+📧 [@joaocasella](https://github.com/joaocasella)  
+🌐 [https://joaocasella.github.io/Economic_Calendar/](https://joaocasella.github.io/Economic_Calendar/)
