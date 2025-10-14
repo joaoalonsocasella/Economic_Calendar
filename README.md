@@ -6,13 +6,11 @@ A simple code to get the most recent economic calendar into your Google or Outlo
 
 All calendars are **automatically updated** via [GitHub Actions](.github/workflows/update.yml) every day, ensuring analysts, traders, and researchers always have an up-to-date view of upcoming economic releases and events.
 
----
 
 ## Purpose
 
 Provide a **modular, continuously updated economic calendar** where each country can be subscribed to or toggled independently within any calendar app.
 
----
 
 ## Data Source
 
@@ -27,7 +25,7 @@ iCalendar (ICS) format, ensuring consistent time zones, ISO country tags, and cl
 and analytical purposes. Data is publicly available through MarketPulse’s website and no proprietary  
 APIs or credentials are used.
 
----
+
 
 ## How It Works
 
@@ -44,7 +42,6 @@ This modular setup was intentional — running all scrapers in a single process 
 All scripts are orchestrated by **GitHub Actions**, which run automatically every day.  
 Each run regenerates the `.ics` calendars, updates the subscription links, and commits them back to the repository — so your subscribed calendars always stay synchronized.
 
----
 
 ## Subscription Links
 
@@ -57,10 +54,11 @@ You can **subscribe to all countries at once**, or **select individual countries
 ---
 
 ### **Subscribe to All**
+
 - **Outlook (webcal):**  
-  `webcal://raw.githubusercontent.com/joaocasella/econ-calendar/main/calendar.ics`
+  [Add Global Calendar (Outlook)](webcal://raw.githubusercontent.com/joaocasella/econ-calendar/main/calendar.ics)
 - **Google Calendar (https):**  
-  `https://raw.githubusercontent.com/joaocasella/econ-calendar/main/calendar.ics`
+  [Add Global Calendar (Google)](https://raw.githubusercontent.com/joaocasella/econ-calendar/main/calendar.ics)
 
 ---
 
@@ -68,20 +66,20 @@ You can **subscribe to all countries at once**, or **select individual countries
 <!-- AUTO-LINKS:START -->
 | Country | Outlook (webcal://) | Google (https://) |
 |----------|--------------------|-------------------|
-| 🇧🇷 BRA | `webcal://raw.githubusercontent.com/joaocasella/econ-calendar/main/data/raw/ICS/BRA_2026.ics` | `https://raw.githubusercontent.com/joaocasella/econ-calendar/main/data/raw/ICS/BRA_2026.ics` |
-| 🇺🇸 USA | `webcal://raw.githubusercontent.com/joaocasella/econ-calendar/main/data/raw/ICS/USA_2026.ics` | `https://raw.githubusercontent.com/joaocasella/econ-calendar/main/data/raw/ICS/USA_2026.ics` |
-| 🇪🇺 EUR | `webcal://raw.githubusercontent.com/joaocasella/econ-calendar/main/data/raw/ICS/EUR_2026.ics` | `https://raw.githubusercontent.com/joaocasella/econ-calendar/main/data/raw/ICS/EUR_2026.ics` |
+| 🇧🇷 BRA | [Add Outlook](webcal://raw.githubusercontent.com/joaocasella/econ-calendar/main/data/raw/ICS/BRA_2026.ics) | [Add Google](https://raw.githubusercontent.com/joaocasella/econ-calendar/main/data/raw/ICS/BRA_2026.ics) |
+| 🇺🇸 USA | [Add Outlook](webcal://raw.githubusercontent.com/joaocasella/econ-calendar/main/data/raw/ICS/USA_2026.ics) | [Add Google](https://raw.githubusercontent.com/joaocasella/econ-calendar/main/data/raw/ICS/USA_2026.ics) |
+| 🇪🇺 EUR | [Add Outlook](webcal://raw.githubusercontent.com/joaocasella/econ-calendar/main/data/raw/ICS/EUR_2026.ics) | [Add Google](https://raw.githubusercontent.com/joaocasella/econ-calendar/main/data/raw/ICS/EUR_2026.ics) |
 <!-- AUTO-LINKS:END -->
 
 *(This table is automatically updated by GitHub Actions — do not edit manually.)*
 
----
+
 
 ### Last Updated
 *Generated automatically at:*  
 `2025-10-14 09:00 UTC`
 
----
+
 
 ## Notes
 
@@ -89,7 +87,7 @@ Each `.ics` file represents a **standalone subscription**.
 When you click a `webcal://` link, Outlook (or any iCalendar client) will **subscribe** to it as a separate calendar —  
 not import the events — meaning it will update automatically whenever new data is pushed by GitHub Actions.
 
----
+
 
 ## Automation Summary
 
@@ -101,7 +99,7 @@ This repository uses **GitHub Actions** to run automatically every day:
 4. Insert links into the README dynamically  
 5. Commit & push all updates automatically
 
----
+
 
 ## Tech Stack
 
@@ -113,14 +111,14 @@ This repository uses **GitHub Actions** to run automatically every day:
 | **GitHub Actions** | Automates updates and publishing |
 | **Raw GitHub URLs (`webcal://`)** | Enable live Outlook/Google Calendar subscriptions |
 
----
+
 
 ## License
 
 This project is distributed under the **MIT License** —  
 you are free to use, modify, and redistribute it with proper attribution.
 
----
+
 
 ## Author
 
