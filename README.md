@@ -10,7 +10,7 @@ All calendars are automatically updated through **GitHub Actions** and can be ea
 ## Access the Live Calendar Page
 
 **View and subscribe to all country calendars here:**  
-🔗 [https://joaocasella.github.io/Economic_Calendar/](https://joaocasella.github.io/Economic_Calendar/)
+🔗 [https://joaoalonsocasella.github.io/Economic_Calendar/](https://joaoalonsocasella.github.io/Economic_Calendar/)
 
 From this page, you can:
 - Subscribe to individual country calendars (Outlook or Google)
