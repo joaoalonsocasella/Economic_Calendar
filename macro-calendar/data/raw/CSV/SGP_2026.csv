@@ -1,0 +1,43 @@
+Id,Start,Name,Impact,Currency
+2d8941bf-803f-4ef9-9c85-02bec6a29e3c,10/20/2025 16:00:00,Deepavali,NONE,SGD
+8b7293c7-691e-44b0-a701-2891fb5130ab,10/23/2025 05:00:00,Consumer Price Index (YoY),LOW,SGD
+7e7fffc0-3a2e-4d58-a0fe-3cf0eaaba5b8,10/24/2025 05:00:00,Industrial Production (MoM),LOW,SGD
+b9d238d0-5383-4a20-a3a6-f506ae324430,10/24/2025 05:00:00,Industrial Production (YoY),LOW,SGD
+3d7e9d2c-0466-4a4f-80c8-dd1582f19350,10/28/2025 01:30:00,Unemployment rate,LOW,SGD
+839acca1-4b5a-45e3-8783-f7b076e30bfa,11/03/2025 13:00:00,Manufacturing PMI,LOW,SGD
+7d4e01dc-1af4-472d-8ec8-b6ef163440e2,11/04/2025 05:00:00,Retail Sales (MoM),LOW,SGD
+4f44e0b6-2ddd-4d19-8d09-6b44f370802c,11/04/2025 05:00:00,Retail Sales (YoY),LOW,SGD
+1daca617-0695-4e8a-8b7e-a51c241bc6c4,11/07/2025 09:00:00,Foreign Reserves (MoM),LOW,SGD
+79733221-84cb-4c96-8f6c-c5a16cb8848b,11/24/2025 05:00:00,Consumer Price Index (YoY),LOW,SGD
+9da7d668-98a3-40a3-81e8-56cdb3378481,11/26/2025 00:00:00,Gross Domestic Product (QoQ),LOW,SGD
+740625ef-8f83-4650-8884-edcc6a2fa1a1,11/26/2025 00:00:00,Gross Domestic Product (YoY),LOW,SGD
+62130273-52da-4094-a1a1-2d04dd20e1d6,11/26/2025 05:00:00,Industrial Production (MoM),LOW,SGD
+ef983b3e-fa49-4448-bf2c-729fc5411daa,11/26/2025 05:00:00,Industrial Production (YoY),LOW,SGD
+78a73037-d426-43dd-b027-95084cbee42c,12/01/2025 13:00:00,Manufacturing PMI,LOW,SGD
+f0e5bb4f-ec74-4c3b-892b-91a4327e1d93,12/05/2025 05:00:00,Retail Sales (MoM),LOW,SGD
+f760b5b9-51e7-424b-96e8-3204bfbdb369,12/05/2025 05:00:00,Retail Sales (YoY),LOW,SGD
+fdb94001-3afb-4415-8a9a-cb54e59da0e4,12/08/2025 09:00:00,Foreign Reserves (MoM),LOW,SGD
+38ea3bdf-4b48-414c-9d76-33d7c16c73c9,12/09/2025 01:30:00,Unemployment rate,LOW,SGD
+2ff88af7-67d2-4fd6-99b9-c61626555f06,12/24/2025 05:00:00,Consumer Price Index (YoY),LOW,SGD
+1f9daecf-8348-49e3-8e00-94d39395cbb9,12/24/2025 16:00:00,Christmas Day,NONE,SGD
+d00821eb-c242-428e-b851-9ab7c838e5a4,12/26/2025 05:00:00,Industrial Production (MoM),LOW,SGD
+3be25e0c-15d1-4c8f-948f-91931c753ea3,12/26/2025 05:00:00,Industrial Production (YoY),LOW,SGD
+e904f829-1762-4940-92e0-d0e3708d6ab4,12/31/2025 16:00:00,New Year's Day,NONE,SGD
+f8e4438b-30c3-427b-b014-bafc31592b4e,01/01/2026 16:00:00,New Year's holiday,NONE,SGD
+276ff0c8-a44b-4a6d-8282-6b1e214c70cd,01/02/2026 13:00:00,Manufacturing PMI,LOW,SGD
+a9741d61-b390-4210-a229-a38dac7a1af4,01/05/2026 05:00:00,Retail Sales (MoM),LOW,SGD
+6351bbe3-6d73-4dd4-a655-974c382fb990,01/05/2026 05:00:00,Retail Sales (YoY),LOW,SGD
+17a60b75-7a67-443f-bcac-fa50e84dee02,01/07/2026 09:00:00,Foreign Reserves (MoM),LOW,SGD
+40af8444-254d-48cc-a782-4ceca549ec48,01/14/2026 00:00:00,Gross Domestic Product (QoQ),LOW,SGD
+e47229a1-de17-4b67-925d-f597de13b1cb,01/14/2026 00:00:00,Gross Domestic Product (YoY),LOW,SGD
+7e45bc77-1dbb-4288-9a99-b1513c3eb050,01/23/2026 05:00:00,Consumer Price Index (YoY),LOW,SGD
+87e35f98-5439-4ec3-a1b5-092531eae9f4,01/26/2026 05:00:00,Industrial Production (MoM),LOW,SGD
+af40713e-cc9e-42c0-a74f-2a4e1e6e38d3,01/26/2026 05:00:00,Industrial Production (YoY),LOW,SGD
+dfc6f10f-d497-4f78-a3e3-0439de2bb956,01/29/2026 01:30:00,Unemployment rate,LOW,SGD
+3069d55a-deb4-47fa-814f-70b76de92c36,02/16/2026 16:00:00,Chinese New Year,NONE,SGD
+dccd2c63-16c9-40d2-8d5d-db7dcd5a7a4b,02/26/2026 00:00:00,Gross Domestic Product (QoQ),LOW,SGD
+e1eeb499-38d4-46e1-ade1-8d5c46143a30,02/26/2026 00:00:00,Gross Domestic Product (YoY),LOW,SGD
+ff9b26c5-306f-4cf5-99d7-ae9df0c1b7df,03/19/2026 16:00:00,Hari Raya Puasa,NONE,SGD
+3c4c222a-6533-4b83-81f8-79738a831b35,04/02/2026 16:00:00,Good Friday,NONE,SGD
+5d64e02b-f8e6-4e45-876b-38ba0cf52682,04/30/2026 16:00:00,Labour day,NONE,SGD
+b6b8d87d-7da8-4598-b082-872cb3a41b15,08/08/2026 16:00:00,National Day,NONE,SGD

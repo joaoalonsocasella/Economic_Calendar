@@ -1,0 +1,59 @@
+Id,Start,Name,Impact,Currency
+ac93e4ef-c814-4c8d-a678-b1f835a4f2f0,10/15/2025 07:00:00,Core Inflation (MoM),LOW,EUR
+b7921e7d-c07b-4566-8275-311890d9d50e,10/15/2025 07:00:00,Core Inflation (YoY),LOW,EUR
+3760968b-d719-4e8b-9438-3c032867eb68,10/15/2025 07:00:00,Headline Inflation (MoM),LOW,EUR
+d620e548-d11a-4bab-82ae-1cea238deafa,10/15/2025 07:00:00,Headline Inflation (YoY),LOW,EUR
+e7bd346a-1a8b-4db6-b3f7-5d3bbdb9b4b2,10/17/2025 07:00:00,EU Norm Inflation (MoM),LOW,EUR
+995eedc9-a062-485b-a144-e8b91554627a,10/17/2025 07:00:00,EU Norm Inflation (YoY),LOW,EUR
+5fa47392-68f6-4e02-9558-531dd6ee0b17,10/20/2025 08:00:00,Unemployment Rate,LOW,EUR
+95d59ab2-8d73-4f1a-afd1-cdaf608de996,10/22/2025 09:00:00,Current Account Balance EUR,LOW,EUR
+ae9d4040-425e-409e-8209-3d80c2e97074,10/31/2025 23:00:00,All Saints' Day,NONE,EUR
+0acb7019-c742-40d4-b374-1bfefbcc6702,11/07/2025 08:00:00,Foreign Trade Balance,LOW,EUR
+91715931-bc70-416a-8cfe-f90af13d9a5d,11/10/2025 08:00:00,Industrial Output (YoY),LOW,EUR
+7003afe8-3d64-49b2-81d8-c122a0aa2648,11/14/2025 08:00:00,Core Inflation (MoM),LOW,EUR
+449dc982-e1fd-4aa0-a7f3-eebbe8a80b61,11/14/2025 08:00:00,Core Inflation (YoY),LOW,EUR
+7ec2a980-bb70-44d8-8609-f08949c95659,11/14/2025 08:00:00,Headline Inflation (MoM),LOW,EUR
+d2392fb0-6c71-4df9-9dc9-b2166d6a694f,11/14/2025 08:00:00,Headline Inflation (YoY),LOW,EUR
+be14269a-b05c-4d6c-b571-a6ad0883a310,11/16/2025 23:00:00,"Struggle for Freedom and Democracy Day ",NONE,EUR
+95b10aad-cb82-4c77-be4d-eaf51a919abd,11/18/2025 08:00:00,EU Norm Inflation (MoM),LOW,EUR
+a5b0c8cb-753a-436d-90e4-ba8185df693a,11/18/2025 08:00:00,EU Norm Inflation (YoY),LOW,EUR
+9e22ae1d-9da9-4098-b966-ae9602246f5f,11/18/2025 08:00:00,Gross Domestic Product Prelim (YoY),LOW,EUR
+0807b7f2-d56f-44b0-9b4a-c37e9adb044c,11/19/2025 10:00:00,Current Account Balance EUR,LOW,EUR
+988b45fa-bb6f-4468-b0c8-87730e88e9ff,11/20/2025 09:00:00,Unemployment Rate,LOW,EUR
+67753dd3-bedb-4528-92b1-42f053db19f9,12/04/2025 08:00:00,Gross Domestic Product Qtr Final (YoY),LOW,EUR
+eb29733b-5292-4867-bab6-984490608db9,12/09/2025 08:00:00,Foreign Trade Balance,LOW,EUR
+04b0f4b0-5943-430d-8368-5ab0e6cb96d4,12/10/2025 08:00:00,Industrial Output (YoY),LOW,EUR
+3d609550-0a56-49c6-b2d8-3a8899d02580,12/15/2025 08:00:00,Core Inflation (MoM),LOW,EUR
+02da9236-b807-4f8b-8d40-f29c8443d351,12/15/2025 08:00:00,Core Inflation (YoY),LOW,EUR
+81480047-ecc7-4cf0-9973-46332ffb6c64,12/15/2025 08:00:00,Headline Inflation (MoM),LOW,EUR
+c68b898e-9b11-43de-a88e-e90c24688206,12/15/2025 08:00:00,Headline Inflation (YoY),LOW,EUR
+7565cc31-10bc-4fba-bf0d-9229025756c5,12/17/2025 08:00:00,EU Norm Inflation (MoM),LOW,EUR
+c65daab8-42bf-475f-ba1e-b57c341c799b,12/17/2025 08:00:00,EU Norm Inflation (YoY),LOW,EUR
+2e6a7dcd-8f6a-4baf-9cd8-ce33f73ebc8b,12/19/2025 09:00:00,Unemployment Rate,LOW,EUR
+f92c7ea8-8046-46d3-94fa-9ed1f4df5b24,12/19/2025 10:00:00,Current Account Balance EUR,LOW,EUR
+d96fc155-922b-4dab-a7c9-75da9fb63d4c,12/23/2025 23:00:00,"Christmas Eve ",NONE,EUR
+51f71f24-dadb-4a9a-ab43-6df869cefb99,12/24/2025 23:00:00,"Christmas Day ",NONE,EUR
+a6e409a0-94c9-4ade-bfde-b1915cfc6b48,12/26/2025 23:00:00,St. Stephen's Day,NONE,EUR
+e1511f4b-7921-4d1f-a0ac-e4dc6039e24c,12/31/2025 23:00:00,"Day of the Establishment of the Slovak Republic ",NONE,EUR
+ecab01cc-9a22-41bb-bf3d-05953198207c,01/05/2026 23:00:00,Epiphany,NONE,EUR
+0e45d8e4-25db-4ff5-aa4a-c71b4657e688,01/09/2026 08:00:00,Foreign Trade Balance,LOW,EUR
+63823824-0348-40c5-8609-0a0ed9b51122,01/09/2026 08:00:00,Industrial Output (YoY),LOW,EUR
+8cde12ac-f0f2-46af-a7f1-1e9c9625953f,01/15/2026 08:00:00,Core Inflation (MoM),LOW,EUR
+9438fdc4-b1a0-4508-b95f-ab38a5651584,01/15/2026 08:00:00,Core Inflation (YoY),LOW,EUR
+05624210-b1cf-494a-b254-2cc17a7209b8,01/15/2026 08:00:00,Headline Inflation (MoM),LOW,EUR
+debc02f1-968e-402f-8aaf-632448d903fa,01/15/2026 08:00:00,Headline Inflation (YoY),LOW,EUR
+8979b490-0fba-4a47-b8a0-961cafc4aea4,01/19/2026 08:00:00,EU Norm Inflation (MoM),LOW,EUR
+979aad02-0e95-4586-8574-ac551254f052,01/19/2026 08:00:00,EU Norm Inflation (YoY),LOW,EUR
+f00eda42-6c60-4c2d-b313-1b864498e041,01/20/2026 09:00:00,Unemployment Rate,LOW,EUR
+9410a541-fcdc-4fad-b59c-400e92c2d771,01/21/2026 10:00:00,Current Account Balance EUR,LOW,EUR
+231e525f-e0b9-4cef-aff7-c41d233dc018,02/17/2026 08:00:00,Gross Domestic Product Prelim (YoY),LOW,EUR
+e0a8f01e-9807-4d6c-aaa9-201136e9bc1b,03/05/2026 08:00:00,Gross Domestic Product Qtr Final (YoY),LOW,EUR
+90c6a1bd-5d03-4eab-aad3-0099cf4b28dc,04/02/2026 23:00:00,"Good Friday ",NONE,EUR
+fd19dc00-098e-49ba-91f4-e1eef6f12d69,04/05/2026 23:00:00,Easter Monday,NONE,EUR
+16db41e2-443d-498c-8032-10b67b702789,04/30/2026 23:00:00,Labour Day,NONE,EUR
+7ccf1ca0-1899-46b8-a4ea-32384cc388de,05/07/2026 23:00:00,"Day of victory over fascism ",NONE,EUR
+4016c92f-1906-49eb-89d2-1d45d412a764,07/04/2026 23:00:00,St Cyril and Methodius Day,NONE,EUR
+785796be-59cb-4814-b8a9-eeaef3725a7a,08/28/2026 23:00:00,"Slovak National Uprising anniversary ",NONE,EUR
+99cb3dc8-034c-44e3-8e6a-850094ce1b63,08/31/2026 23:00:00,"Day of the Constitution of the Slovak Republic ",NONE,EUR
+5aac49f7-0532-4e37-9372-8586d041ef0c,09/14/2026 23:00:00,"Day of Our Lady of Sorrows, patron saint of Slovakia ",NONE,EUR
+2c4d9405-5667-434f-af6f-3de629b5984e,10/31/2026 23:00:00,All Saints' Day,NONE,EUR

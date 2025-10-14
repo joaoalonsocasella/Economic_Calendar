@@ -1,0 +1,56 @@
+Id,Start,Name,Impact,Currency
+ae170445-48ec-4240-a29b-0e8d6b79b2ab,10/16/2025 13:00:00,Central Bank Reserves $,LOW,RUB
+e10d2f9b-b76f-4aca-9d8d-94bd69a5f7f6,10/22/2025 16:00:00,Industrial Output,LOW,RUB
+689132b7-9532-4997-8e1e-5b7a7ba95dce,10/22/2025 16:00:00,Producer Price Index (MoM),LOW,RUB
+4c1e4dc1-90a6-48d2-9d58-3ab1f087bfc5,10/22/2025 16:00:00,Producer Price Index (YoY),LOW,RUB
+77c850e3-2f4e-492c-8f8b-0e84728a7ce8,10/23/2025 13:00:00,Central Bank Reserves $,LOW,RUB
+8858aacd-547e-4ea3-bda5-ca9354e019d3,10/24/2025 10:30:00,Interest Rate Decision,MEDIUM,RUB
+27c99fa0-0019-4e0b-970c-880cabaea126,10/29/2025 16:00:00,Unemployment Rate,LOW,RUB
+ab2cb121-4787-4587-8c9e-13012e37102f,10/30/2025 13:00:00,Central Bank Reserves $,LOW,RUB
+b3208bb3-2ef7-47a6-a6f1-623a58bad976,11/03/2025 06:00:00,S&P Global Manufacturing PMI,LOW,RUB
+6ee1b7b8-91fb-4a96-9373-4b12ce8585b6,11/03/2025 21:00:00,"Day of Unity ",NONE,RUB
+e29def44-777c-40e5-b2ae-76c6489b344f,11/05/2025 06:00:00,S&P Global Services PMI,LOW,RUB
+448a4e2b-1b0e-42fc-b3ad-6e4dd7088363,11/06/2025 13:00:00,Central Bank Reserves $,LOW,RUB
+c17fe6d0-e1a1-43f8-9d7e-8cf8eb245eaf,11/10/2025 16:00:00,Consumer Price Index (MoM),LOW,RUB
+d0455a62-0504-44aa-9a97-1ce7c83807bf,11/12/2025 14:00:00,Foreign Trade,LOW,RUB
+f8177ed6-c8e5-4b31-a57f-aded298f221e,11/13/2025 13:00:00,Central Bank Reserves $,LOW,RUB
+053d4c75-e723-43f6-afa4-a14890ef47a8,11/19/2025 16:00:00,Producer Price Index (MoM),LOW,RUB
+e5c4a9a5-afd2-4777-aab5-8b255de502a5,11/19/2025 16:00:00,Producer Price Index (YoY),LOW,RUB
+1600d956-cfba-4e1c-b864-3876cd84003c,11/20/2025 13:00:00,Central Bank Reserves $,LOW,RUB
+141d9a8b-4a60-4a95-8dfe-88b4146833d4,11/26/2025 16:00:00,Industrial Output,LOW,RUB
+baa22e35-a0b8-403c-8a84-f40fead8778d,11/26/2025 16:00:00,Unemployment Rate,LOW,RUB
+0ae8bb7f-281b-4da2-8b2e-7ed1b7a8df41,11/27/2025 13:00:00,Central Bank Reserves $,LOW,RUB
+5fd55dcf-917b-42c2-974f-430cbb720ae3,12/01/2025 06:00:00,S&P Global Manufacturing PMI,LOW,RUB
+de80f494-4db7-4ae4-a6be-a323884e0476,12/03/2025 06:00:00,S&P Global Services PMI,LOW,RUB
+3d03ef0b-83e9-49fc-9594-1bd8414df148,12/04/2025 13:00:00,Central Bank Reserves $,LOW,RUB
+b4be854d-89c2-4416-9ca1-ab3c98048a62,12/11/2025 13:00:00,Central Bank Reserves $,LOW,RUB
+bb247367-f407-4e0b-8308-c6576ab2ec43,12/11/2025 14:00:00,Foreign Trade,LOW,RUB
+7db821ec-79b2-4ac1-8675-96a55631783e,12/12/2025 16:00:00,Consumer Price Index (MoM),LOW,RUB
+d5950ef1-c7d4-4b42-b42e-89dbbdb800e4,12/17/2025 16:00:00,Producer Price Index (MoM),LOW,RUB
+30caac30-9a1d-477a-882e-76007a732c59,12/17/2025 16:00:00,Producer Price Index (YoY),LOW,RUB
+a63495a1-1cf4-426d-9fe8-abc8a3d7fc23,12/18/2025 13:00:00,Central Bank Reserves $,LOW,RUB
+ae48b7d6-5c5f-49ea-a1ef-31a99c0a7de8,12/19/2025 10:30:00,Interest Rate Decision,MEDIUM,RUB
+f0046609-4014-4e93-9df0-729639d956ae,12/25/2025 13:00:00,Central Bank Reserves $,LOW,RUB
+071e31e1-c34a-4ddb-a489-5fd840f46de6,12/26/2025 16:00:00,Unemployment Rate,LOW,RUB
+69dbc08c-f997-4964-afe5-d0089f576d01,12/31/2025 16:00:00,Industrial Output,LOW,RUB
+af4489e8-0af8-4382-9c1e-998766de6550,12/31/2025 21:00:00,New Year's Day,NONE,RUB
+d4add0a5-0c80-43fa-a025-a0259308c33a,01/01/2026 13:00:00,Central Bank Reserves $,LOW,RUB
+40cac812-3195-4f9a-a40e-db1460f3a024,01/02/2026 06:00:00,S&P Global Manufacturing PMI,LOW,RUB
+238e1942-69ec-4eaf-b898-69f514ff3fe4,01/05/2026 06:00:00,S&P Global Services PMI,LOW,RUB
+9ce55325-ba2d-4fa1-91f7-9d79b18e837d,01/06/2026 21:00:00,"Orthodox Christmas Day ",NONE,RUB
+e7b71e8b-d001-47b0-bec6-63e9932ef9db,01/08/2026 13:00:00,Central Bank Reserves $,LOW,RUB
+d7891378-109a-4659-a40a-b1a81befdd37,01/13/2026 14:00:00,Foreign Trade,LOW,RUB
+7be63cb4-833a-42b2-a310-3b3ea3b4b31e,01/14/2026 16:00:00,Consumer Price Index (MoM),LOW,RUB
+8cb9bc52-ace9-45e8-ac69-c8f32d31323a,01/15/2026 13:00:00,Central Bank Reserves $,LOW,RUB
+86adda59-7a84-4b90-9ca7-cd9e81087d12,01/16/2026 10:30:00,Interest Rate Decision,MEDIUM,RUB
+09859501-fc0b-4f0d-b832-b7f960a8e309,01/21/2026 16:00:00,Producer Price Index (MoM),LOW,RUB
+3dcfda67-e122-41d7-b429-a8388e41eb04,01/21/2026 16:00:00,Producer Price Index (YoY),LOW,RUB
+af43b868-9c17-4e30-9b88-607f5424c725,01/22/2026 13:00:00,Central Bank Reserves $,LOW,RUB
+6cfdb4b3-12c9-48f3-84e9-80b54e4c5272,01/28/2026 16:00:00,Industrial Output,LOW,RUB
+4db73b54-c848-49d4-b3f8-ede905107387,01/29/2026 13:00:00,Central Bank Reserves $,LOW,RUB
+9be59557-073c-41a3-972d-4920e2b9840f,02/04/2026 16:00:00,Unemployment Rate,LOW,RUB
+3a4b8592-f71d-47a7-9b6f-e04e0a9bfd85,02/22/2026 21:00:00,Defence of the Fatherland,NONE,RUB
+b9309a75-89b5-4e7f-b1f3-0e2a259507d8,03/07/2026 21:00:00,Women's Day,NONE,RUB
+5892a68f-d2f4-48c6-a9d4-f42f0ca69a17,04/30/2026 21:00:00,Labour Day,NONE,RUB
+9b9e8906-afe5-47bb-ab09-6f202083bd08,05/08/2026 21:00:00,"Victory Day ",NONE,RUB
+300f91aa-50f6-4519-b06a-353b8e4d0a09,06/11/2026 21:00:00,"National Day ",NONE,RUB
