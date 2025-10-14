@@ -18,7 +18,7 @@ from datetime import datetime
 # === Configuration ===
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 INPUT_DIR = os.path.join(BASE_DIR, "..", "data", "raw", "ICS")
-OUTPUT_FILE = os.path.join(BASE_DIR, "..","data", "calendar.ics")
+OUTPUT_FILE = os.path.join(BASE_DIR, "..","calendar.ics")
 
 def combine_calendars():
     print(f"\n[INFO] Starting calendar combination at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
