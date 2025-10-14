@@ -30,7 +30,7 @@ WEB_GLOBAL_URL = "webcal://raw.githubusercontent.com/joaocasella/econ-calendar/m
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 INPUT_DIR = os.path.join(BASE_DIR, "..", "data", "raw", "ICS")
 OUTPUT_MD = os.path.join(BASE_DIR, "..", "CALENDAR_LINKS.md")
-OUTPUT_HTML = os.path.join(BASE_DIR, "..", "calendar_links.html")
+OUTPUT_HTML = os.path.join(BASE_DIR, "..", "index.html")
 
 # ISO3 flags (you can extend this dictionary)
 FLAGS = {
