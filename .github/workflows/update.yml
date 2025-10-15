@@ -1,5 +1,8 @@
 name: Update Economic Calendar Data
 
+permissions:
+  contents: write   # dá permissão para commit/push
+
 on:
   schedule:
     - cron: "0 9 * * *"  # Runs daily at 09:00 UTC (~06:00 BRT)
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -32,7 +37,6 @@ jobs:
         run: python macro-calendar/scripts/Automation/Combine.py
 
       # 3. Generate index.html download page
-        # (and optionally CALENDAR_LINKS.md if your script does that)
       - name: Generate HTML index and download links
         run: python macro-calendar/scripts/Automation/GenerateLinks.py
 
@@ -43,4 +47,4 @@ jobs:
           git config user.email "actions@github.com"
           git add macro-calendar/data/raw/ICS/*.ics macro-calendar/calendar.ics index.html macro-calendar/CALENDAR_LINKS.md README.md || echo "No files to add"
           git commit -m "Automated update: refreshed ICS data and links" || echo "No changes to commit"
-          git push
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
