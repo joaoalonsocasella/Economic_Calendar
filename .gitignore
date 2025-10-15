@@ -1,0 +1,4 @@
+# Ignore local secrets and sensitive files
+secrets/
+*.toml
+.env
