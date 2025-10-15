@@ -56,4 +56,4 @@ Below are the public subscription links for each country's economic calendar.
 
 **🌍 Global calendar:** `webcal://raw.githubusercontent.com/joaocasella/econ-calendar/main/calendar.ics`
 
-*Last updated: 2025-10-14 21:06:22*
+*Last updated: 2025-10-14 21:08:18*
