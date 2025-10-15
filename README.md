@@ -56,5 +56,5 @@ All information originates from publicly available sources, and no proprietary o
 
 
 **Maintained by:** João Alonso Casella  
-📧 [@joaocasella](https://github.com/joaocasella)  
-🌐 [https://joaocasella.github.io/Economic_Calendar/](https://joaocasella.github.io/Economic_Calendar/)
+📧 [@joaoalonsocasella](https://github.com/joaoalonsocasella)  
+🌐 [https://joaocasella.github.io/Economic_Calendar/](https://joaoalonsocasella.github.io/Economic_Calendar/)
