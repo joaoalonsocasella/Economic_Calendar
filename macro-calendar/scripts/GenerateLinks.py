@@ -22,8 +22,8 @@ import os
 from datetime import datetime
 
 # === Configuration ===
-BASE_URL = "https://joaocasella.github.io/Economic_Calendar/macro-calendar/data/raw/ICS"
-GLOBAL_URL = "https://joaocasella.github.io/Economic_Calendar/macro-calendar/calendar.ics"
+BASE_URL = "https://joaoalonsocasella.github.io/Economic_Calendar/macro-calendar/data/raw/ICS"
+GLOBAL_URL = "https://joaoalonsocasella.github.io/Economic_Calendar/macro-calendar/calendar.ics"
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 INPUT_DIR = os.path.join(BASE_DIR, "..", "data", "raw", "ICS")
