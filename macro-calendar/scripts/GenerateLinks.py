@@ -23,9 +23,9 @@ from datetime import datetime
 
 # === Configuration ===
 # === Configuration ===
-BASE_URL = "https://joaocasella.github.io/Economic_Calendar/macro-calendar/data/raw/ICS"
+BASE_URL = "https://joaoalonsocasella.github.io/Economic_Calendar/macro-calendar/data/raw/ICS"
 WEB_URL  = BASE_URL  # usar HTTPS também
-GLOBAL_URL = "https://joaocasella.github.io/Economic_Calendar/macro-calendar/calendar.ics"
+GLOBAL_URL = "https://joaoalonsocasella.github.io/Economic_Calendar/macro-calendar/calendar.ics"
 WEB_GLOBAL_URL = GLOBAL_URL  # usar HTTPS também
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
