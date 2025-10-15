@@ -22,10 +22,11 @@ import os
 from datetime import datetime
 
 # === Configuration ===
-BASE_URL = "https://raw.githubusercontent.com/joaoalonsocasella/econ-calendar/main/data/raw/ICS"
-WEB_URL  = "webcal://raw.githubusercontent.com/joaoalonsocasella/econ-calendar/main/data/raw/ICS"
-GLOBAL_URL = "https://raw.githubusercontent.com/joaoalonsocasella/econ-calendar/main/calendar.ics"
-WEB_GLOBAL_URL = "webcal://raw.githubusercontent.com/joaoalonsocasella/econ-calendar/main/calendar.ics"
+# === Configuration ===
+BASE_URL = "https://joaocasella.github.io/Economic_Calendar/macro-calendar/data/raw/ICS"
+WEB_URL  = BASE_URL  # usar HTTPS também
+GLOBAL_URL = "https://joaocasella.github.io/Economic_Calendar/macro-calendar/calendar.ics"
+WEB_GLOBAL_URL = GLOBAL_URL  # usar HTTPS também
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 INPUT_DIR = os.path.join(BASE_DIR, "..", "data", "raw", "ICS")
