@@ -1,7 +1,8 @@
 name: Update Economic Calendar Data
 
 permissions:
-  contents: write   # dá permissão para commit/push
+  id-token: write
+  contents: write
 
 on:
   schedule:
