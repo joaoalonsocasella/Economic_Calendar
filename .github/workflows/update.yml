@@ -25,25 +25,26 @@ jobs:
 
       # 1. Run your main scraper (generates individual .ics files per country)
       - name: Run scraper
-        run: python scripts/scrape_investing_calendar.py
+        run: python macro-calendar/scripts/scrape_investing_calendar.py
 
       # 2. Combine all country .ics files into one global calendar
+        # Combina tudo em macro-calendar/calendar.ics
       - name: Combine ICS files
-        run: python scripts/Combine.py
+        run: python macro-calendar/scripts/Combine.py
 
       # 3. Generate Markdown + HTML link pages with subscription links
       - name: Generate subscription links
-        run: python scripts/GenerateLinks.py
+        run: python macro-calendar/scripts/GenerateLinks.py
 
       # 4. (Optional) Update README or metadata if you want to embed links automatically
       - name: Update README
-        run: python scripts/update_readme.py
+        run: python macro-calendar/scripts/Update.py
 
       # 5. Commit and push all updated data, ICS files, and link pages
       - name: Commit & push changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add data/**/*.json data/**/*.ics calendar.ics CALENDAR_LINKS.md calendar_links.html README.md
+          git add macro-calendar/data/raw/ICS/*.ics macro-calendar/calendar.ics macro-calendar/CALENDAR_LINKS.md index.html README.md
           git commit -m "update data, ICS calendars, and subscription links" || echo "No changes to commit"
           git push
