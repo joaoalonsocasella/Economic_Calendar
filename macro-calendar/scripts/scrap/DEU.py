@@ -6,7 +6,7 @@ def run(playwright: Playwright) -> None:
     download_dir = os.path.join(os.getcwd(), "macro-calendar/data/raw")
     os.makedirs(download_dir, exist_ok=True)
 
-    browser = playwright.chromium.launch(headless=False, slow_mo=200)
+    browser = playwright.chromium.launch(headless=True, slow_mo=200)
     context = browser.new_context(accept_downloads=True)
     page = context.new_page()
 

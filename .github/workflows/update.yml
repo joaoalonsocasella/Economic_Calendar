@@ -3,7 +3,7 @@ name: Update Economic Calendar Data
 on:
   schedule:
     - cron: "0 9 * * *"  # Runs daily at 09:00 UTC (~06:00 BRT)
-  workflow_dispatch:
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
   update:
@@ -23,28 +23,24 @@ jobs:
           pip install requests playwright beautifulsoup4 python-dateutil pytz ics icalendar
           python -m playwright install --with-deps chromium
 
-      # 1. Run your main scraper (generates individual .ics files per country)
-      - name: Run scraper
-        run: python macro-calendar/scripts/scrape_investing_calendar.py
-
-      # 2. Combine all country .ics files into one global calendar
-        # Combina tudo em macro-calendar/calendar.ics
-      - name: Combine ICS files
-        run: python macro-calendar/scripts/Combine.py
-
-      # 3. Generate Markdown + HTML link pages with subscription links
-      - name: Generate subscription links
-        run: python macro-calendar/scripts/GenerateLinks.py
-
-      # 4. (Optional) Update README or metadata if you want to embed links automatically
-      - name: Update README
+      # 1. Run main scraper (updates data and country-specific ICS)
+      - name: Update data and individual ICS files
         run: python macro-calendar/scripts/Update.py
 
-      # 5. Commit and push all updated data, ICS files, and link pages
+      # 2. Combine all ICS into one global calendar
+      - name: Combine ICS files into global calendar
+        run: python macro-calendar/scripts/Combine.py
+
+      # 3. Generate index.html download page
+        # (and optionally CALENDAR_LINKS.md if your script does that)
+      - name: Generate HTML index and download links
+        run: python macro-calendar/scripts/GenerateLinks.py
+
+      # 4. Commit and push all updated files
       - name: Commit & push changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add macro-calendar/data/raw/ICS/*.ics macro-calendar/calendar.ics macro-calendar/CALENDAR_LINKS.md index.html README.md
-          git commit -m "update data, ICS calendars, and subscription links" || echo "No changes to commit"
+          git add macro-calendar/data/raw/ICS/*.ics macro-calendar/calendar.ics index.html macro-calendar/CALENDAR_LINKS.md README.md || echo "No files to add"
+          git commit -m "Automated update: refreshed ICS data and links" || echo "No changes to commit"
           git push

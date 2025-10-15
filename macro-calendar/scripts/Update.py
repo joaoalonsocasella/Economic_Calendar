@@ -4,7 +4,7 @@ from datetime import datetime
 
 # Caminho para a pasta contendo os scripts individuais
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-TARGET_DIR = os.path.join(BASE_DIR, "single_country_request")
+TARGET_DIR = os.path.join(BASE_DIR, "scrap")
 
 def run_scripts():
     print(f"\n[INFO] Starting batch execution at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
@@ -13,7 +13,7 @@ def run_scripts():
     scripts = sorted([f for f in os.listdir(TARGET_DIR) if f.endswith(".py") and f != "Update.py"])
 
     if not scripts:
-        print("[WARN] No Python scripts found in single_country_request folder.")
+        print("[WARN] No Python scripts found in scrap folder.")
         return
 
     for idx, script in enumerate(scripts, start=1):
