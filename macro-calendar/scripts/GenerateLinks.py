@@ -1,7 +1,8 @@
 """
 GenerateLinks.py
 ----------------
-Creates a simple HTML index page listing download links for each country's .ICS file.
+Creates a simple HTML index page listing links for each country's .ICS file.
+When opened in the browser, clicking a link triggers an automatic download.
 
 Repository structure:
 macro-calendar/
@@ -30,18 +31,23 @@ INPUT_DIR = os.path.join(BASE_DIR, "..", "data", "raw", "ICS")
 OUTPUT_HTML = os.path.join(BASE_DIR, "..", "..", "index.html")
 
 def generate_links():
-    print(f"\n[INFO] Generating calendar download page at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"\n[INFO] Generating calendar download page at {datetime.now():%Y-%m-%d %H:%M:%S}")
 
-    ics_files = sorted([f for f in os.listdir(INPUT_DIR) if f.endswith(".ics")])
+    if not os.path.exists(INPUT_DIR):
+        print(f"[ERROR] Input directory not found: {INPUT_DIR}")
+        return
+
+    ics_files = sorted([f for f in os.listdir(INPUT_DIR) if f.lower().endswith(".ics")])
     if not ics_files:
         print("[WARN] No .ics files found in input directory.")
         return
 
+    # --- HTML HEADER ---
     html_header = """<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Economic Calendar ICS Downloads</title>
+<title>Economic Calendar ICS Files</title>
 <style>
 body { font-family: Arial, sans-serif; margin: 40px; background: #fafafa; color: #222; }
 h1 { margin-bottom: 10px; }
@@ -56,34 +62,36 @@ footer { margin-top: 40px; font-size: 0.9em; color: #555; }
 </head>
 <body>
 <h1>Global Economic Calendar Data</h1>
-<p>Below are direct download links for each country's <code>.ics</code> file. These calendars are updated automatically via GitHub Actions.</p>
+<p>Below are links for each country's <code>.ics</code> file. Clicking a link will download or open it directly.</p>
 
 <table>
-<tr><th>Country</th><th>Download Link</th></tr>
+<tr><th>Country</th><th>ICS File</th></tr>
 """
 
+    # --- HTML ROWS ---
     html_rows = ""
     for f in ics_files:
         country = os.path.splitext(f)[0].split("_")[0].upper()
-        country_name = country  # No flags or fancy formatting
-        file_link = f"{BASE_URL}/{f}"
-        html_rows += f"<tr><td>{country_name}</td><td><a href='{file_link}' download>Download {f}</a></td></tr>\n"
+        link = f"{BASE_URL}/{f}"
+        html_rows += f"<tr><td>{country}</td><td><a href='{link}'>{f}</a></td></tr>\n"
 
+    # --- HTML FOOTER ---
     html_footer = f"""
-<tr><td><strong>GLOBAL</strong></td><td><a href='{GLOBAL_URL}' download>Download calendar.ics</a></td></tr>
+<tr><td><strong>GLOBAL</strong></td><td><a href='{GLOBAL_URL}'>calendar.ics</a></td></tr>
 </table>
 
 <footer>
-<p>Generated automatically on {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}.</p>
+<p>Generated automatically on {datetime.now():%Y-%m-%d %H:%M:%S}.</p>
 <p>Maintained by João Alonso Casella — Economic Calendar Project.</p>
 </footer>
 </body></html>
 """
 
+    # --- WRITE OUTPUT ---
     with open(OUTPUT_HTML, "w", encoding="utf-8") as html:
         html.write(html_header + html_rows + html_footer)
 
-    print(f"[INFO] HTML download page written to: {OUTPUT_HTML}\n")
+    print(f"[INFO] HTML index successfully written to: {OUTPUT_HTML}\n")
 
 
 if __name__ == "__main__":
