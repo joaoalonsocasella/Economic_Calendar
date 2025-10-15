@@ -3,21 +3,7 @@
 
 This repository hosts a continuously updated collection of **global economic calendars** — one for each country — provided in the standard **ICS (iCalendar)** format.  
 
-All calendars are automatically updated through **GitHub Actions** and can be easily subscribed to from **Outlook**, **Google Calendar**, **Apple Calendar**, or any other calendar app supporting iCalendar feeds.
-
-
-
-## Access the Live Calendar Page
-
-**View and subscribe to all country calendars here:**  
-🔗 [https://joaoalonsocasella.github.io/Economic_Calendar/](https://joaoalonsocasella.github.io/Economic_Calendar/)
-
-From this page, you can:
-- Subscribe to individual country calendars (Outlook or Google)
-- Subscribe to the combined global calendar
-- Automatically receive updates every time new data is fetched
-
-
+All calendars are automatically updated through **GitHub Actions** and can be easily downloaded and added to **Outlook**, **Google Calendar**, **Apple Calendar**, or any other calendar app supporting iCalendar feeds.
 
 ## About the Project
 
@@ -48,11 +34,21 @@ No manual action is needed — subscribed calendars update automatically.
 
 
 
+## Download Calendar Page
+
+**Access all country calendars here:**  
+🔗 [https://joaoalonsocasella.github.io/Economic_Calendar/](https://joaoalonsocasella.github.io/Economic_Calendar/)
+
+After Downloading the `.ics`, you may want to choose:
+
+- **Static**: Import it to your own calendar by dragging and dropping;
+- **Dynamic** (recommended): Add it as a subscription - Copy the URL in the table and paste it in your own calendar (designated area)
+
+
 ## ⚠️ Disclaimer
 
 This project is a **non-commercial educational initiative**.  
 All information originates from publicly available sources, and no proprietary or credentialed APIs are used.
-
 
 
 **Maintained by:** João Alonso Casella  

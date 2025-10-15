@@ -25,16 +25,16 @@ jobs:
 
       # 1. Run main scraper (updates data and country-specific ICS)
       - name: Update data and individual ICS files
-        run: python macro-calendar/scripts/Update.py
+        run: python macro-calendar/scripts/Automation/Update.py
 
       # 2. Combine all ICS into one global calendar
       - name: Combine ICS files into global calendar
-        run: python macro-calendar/scripts/Combine.py
+        run: python macro-calendar/scripts/Automation/Combine.py
 
       # 3. Generate index.html download page
         # (and optionally CALENDAR_LINKS.md if your script does that)
       - name: Generate HTML index and download links
-        run: python macro-calendar/scripts/GenerateLinks.py
+        run: python macro-calendar/scripts/Automation/GenerateLinks.py
 
       # 4. Commit and push all updated files
       - name: Commit & push changes

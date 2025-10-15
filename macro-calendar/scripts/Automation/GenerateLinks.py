@@ -4,19 +4,7 @@ GenerateLinks.py
 Creates a simple HTML index page listing links for each country's .ICS file.
 When opened in the browser, clicking a link triggers an automatic download.
 
-Repository structure:
-macro-calendar/
- ├── data/
- │   └── raw/
- │       └── ICS/
- │           ├── BRA_2026.ics
- │           ├── USA_2026.ics
- │           ├── ...
- ├── calendar.ics
- └── scripts/GenerateLinks.py
-
 Author: João Alonso Casella
-Last updated: 2025-10-15
 """
 
 import os
