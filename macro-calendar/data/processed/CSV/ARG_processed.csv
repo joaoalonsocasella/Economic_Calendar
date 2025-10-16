@@ -1,37 +1,18 @@
 ﻿Id,Start,Name,Impact,Currency,MacroCateg
-a72f3d75-2248-4f0a-ad3a-ed533e417af9,10/14/2025 19:00:00,Consumer Price Index (MoM),LOW,ARS,Inflation
 31e02776-59ae-4987-81fd-149141990660,10/20/2025 19:00:00,Trade Balance (MoM),LOW,ARS,Trade and External
 c587d071-a0fd-4a86-af82-7a0e32726db7,11/03/2025 19:00:00,Tax Revenue (MoM),LOW,ARS,Inflation
 6273985b-3089-470e-b7ca-38d360a63a4c,11/07/2025 19:00:00,Industrial Output n.s.a (YoY),LOW,ARS,Growth
 81e6b810-a575-4ac3-96b2-2213202aedcf,11/12/2025 19:00:00,Consumer Price Index (MoM),LOW,ARS,Inflation
-d873775f-53f8-4712-a14f-1f4a2f25f767,11/17/2025 03:00:00,Day of National Sovereignty,NONE,ARS,Monetary Policy
 1b7098d0-8853-4c3f-ae8f-81b8689fcf3c,11/19/2025 19:00:00,Trade Balance (MoM),LOW,ARS,Trade and External
 b5ce8b8d-00f7-43a3-9496-1e6d270434d3,12/02/2025 19:00:00,Tax Revenue (MoM),LOW,ARS,Inflation
-dd91344b-34a5-4789-9103-4878e378316d,12/08/2025 03:00:00,Immaculate Conception,NONE,ARS,Monetary Policy
 d5f1c94c-5670-4971-afb1-5d38ec44f732,12/09/2025 19:00:00,Industrial Output n.s.a (YoY),LOW,ARS,Growth
 ec00453f-6fea-4624-9684-5bfa9e924db0,12/11/2025 19:00:00,Consumer Price Index (MoM),LOW,ARS,Inflation
 2c3b0a33-f8ba-4cfd-8c5c-e2fa6566af8a,12/16/2025 19:00:00,Gross Domestic Product (YoY)	,LOW,ARS,Growth
 4ba9a74d-bd25-4334-9de6-b93f5e8d1faf,12/18/2025 19:00:00,Trade Balance (MoM),LOW,ARS,Trade and External
 333244f5-14c8-48b5-b6d6-5c6dfd8bb570,12/18/2025 19:00:00,Unemployment Rate (QoQ)	,LOW,ARS,Labor Market
-4b4460fe-7416-42c2-8ae8-22c9cf84ffde,12/25/2025 03:00:00,Christmas Day,NONE,ARS,Monetary Policy
 8c801f4a-79b2-4dfa-b9da-0d746d659f51,01/02/2026 19:00:00,Tax Revenue (MoM),LOW,ARS,Inflation
-a4421eb3-29cf-40fb-8065-a0437971bec4,01/06/2026 03:00:00,Epiphany,NONE,ARS,Monetary Policy
 ef5c82ac-05d1-45f0-bc59-ec8321554b23,01/07/2026 19:00:00,Industrial Output n.s.a (YoY),LOW,ARS,Growth
 79ebc57a-f529-4dda-80e8-a7dadd73eeee,01/14/2026 19:00:00,Consumer Price Index (MoM),LOW,ARS,Inflation
 028e2e05-144d-4ebc-93e4-1cc62378a441,01/19/2026 19:00:00,Trade Balance (MoM),LOW,ARS,Trade and External
-db1560a0-1268-4a4a-8384-2e2fa808eba8,01/20/2026 03:00:00,Flag Day,NONE,ARS,Monetary Policy
-9b255356-f8ac-49a3-a44a-298241a1c2ef,02/16/2026 03:00:00,Carnival,NONE,ARS,Monetary Policy
-b3fbb022-238e-4954-886a-ef83567b181d,02/17/2026 03:00:00,Carnival,NONE,ARS,Monetary Policy
 f30459f2-d8e4-48c0-9699-e10f5e1d7865,03/19/2026 19:00:00,Unemployment Rate (QoQ)	,LOW,ARS,Labor Market
 0f5b86e0-559d-43b1-abff-b4cb429848d6,03/23/2026 19:00:00,Gross Domestic Product (YoY)	,LOW,ARS,Growth
-7d91a130-03a2-4c47-91b5-6d79deef085e,03/24/2026 03:00:00,Day of Remembrance for Truth and Justice,NONE,ARS,Monetary Policy
-2a376f09-4b80-4fe8-95fb-9b9bdd34b10d,04/01/2026 03:00:00,Maundy Thursday,NONE,ARS,Monetary Policy
-7c159725-f11b-4efc-b589-7e8755264cc7,04/02/2026 03:00:00,Veteran and fallen soldiers in Malvinas war day,NONE,ARS,Labor Market
-cf99af2f-c41d-445b-b172-f3406c9e01ba,04/03/2026 03:00:00,Good Friday,NONE,ARS,Monetary Policy
-4caca125-0e5f-41e5-a96b-cfd80a99f6fa,04/05/2026 03:00:00,Easter,NONE,ARS,Monetary Policy
-9f1a521b-b223-41db-88bf-d6719b3c9a96,05/01/2026 03:00:00,Labour Day,NONE,ARS,Monetary Policy
-accf383c-1b39-4539-bc66-7f180580dd59,05/25/2026 03:00:00,May Revolution,NONE,ARS,Growth
-fe126a28-4764-4992-b1ed-39c9f3fa442a,06/17/2026 03:00:00,Martin Miguel de Guemes day,NONE,ARS,Monetary Policy
-c07480bb-343d-456f-86be-505a127a0c70,07/09/2026 03:00:00,Independence Day,NONE,ARS,Monetary Policy
-3dba53c6-18c4-4598-b285-792cceeb5a83,08/17/2026 03:00:00,Day of general José de San Martín,NONE,ARS,Monetary Policy
-bdbc7cf0-c6fd-4834-8c65-61cba38c59f4,10/12/2026 03:00:00,Columbus Day,NONE,ARS,Monetary Policy

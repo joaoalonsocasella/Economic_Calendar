@@ -1,10 +1,8 @@
 ﻿Id,Start,Name,Impact,Currency,MacroCateg
-d0b7ef1c-8e79-44aa-90ee-46e820421ecc,10/15/2025 06:00:00,Consumer Price Index (MoM),LOW,KWD,Inflation
-6d56f131-2eb4-41dc-813a-5cbf97641c14,10/15/2025 06:00:00,Consumer Price Index (YoY),LOW,KWD,Inflation
-081dfbf9-638b-4c2c-9ba3-a5723782e10f,10/15/2025 14:00:00,Exports,LOW,KWD,Trade and External
-0d517a63-1ae6-40a5-ba3f-9d121b37d4e8,10/15/2025 14:00:00,Imports,LOW,KWD,Trade and External
 39318520-ea11-488e-ad8f-66ae6089c13c,10/17/2025 06:00:00,Consumer Price Index (MoM),LOW,KWD,Inflation
 6edd3dea-e20a-4615-ae62-a9a4bb6a5344,10/17/2025 06:00:00,Consumer Price Index (YoY),LOW,KWD,Inflation
+d0b7ef1c-8e79-44aa-90ee-46e820421ecc,10/17/2025 14:00:00,Consumer Price Index (MoM),LOW,KWD,Inflation
+6d56f131-2eb4-41dc-813a-5cbf97641c14,10/17/2025 14:00:00,Consumer Price Index (YoY),LOW,KWD,Inflation
 d9c7d099-ad3e-466e-855c-694ad8cdc52c,11/14/2025 08:00:00,M2 Money Supply,LOW,KWD,Monetary Policy
 808c46d6-43e4-4137-abf4-93a6a2a27ac4,11/19/2025 06:00:00,Consumer Price Index (MoM),LOW,KWD,Inflation
 0bfa66c0-96a7-4dc7-947a-d634de4383d1,11/19/2025 06:00:00,Consumer Price Index (YoY),LOW,KWD,Inflation

@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,MacroCateg
-a25abf04-b064-43b7-9c05-838bde569737,10/15/2025 06:00:00,Consumer Price Index (MoM),LOW,SEK,Inflation
-1978cde4-325e-4603-afae-ef44aa9969c0,10/15/2025 06:00:00,Consumer Price Index (YoY),LOW,SEK,Inflation
 bc3d19fc-62e3-4cc3-848e-54e3455f4fcd,10/17/2025 06:00:00,Unemployment Rate,LOW,SEK,Labor Market
 4b8bd571-01a8-497c-8475-705f42a88bd3,10/24/2025 06:00:00,Producer Price Index (MoM),LOW,SEK,Inflation
 c9b3d809-26c0-4ec5-8d18-e49ffea806ac,10/24/2025 06:00:00,Producer Price Index (YoY),LOW,SEK,Inflation
@@ -8,7 +6,6 @@ aa7c8d6a-55d4-4931-831c-a1eb348dbdcc,10/28/2025 07:00:00,Trade Balance (MoM),LOW
 3212c7e9-fd2a-402d-b7d8-21623dddc0b3,10/30/2025 07:00:00,Retail Sales (MoM),LOW,SEK,Growth
 0cb16d47-1320-47b2-a0c1-80d4febb111c,10/30/2025 07:00:00,Retail Sales (YoY),LOW,SEK,Growth
 f43a1d7a-a1d4-46eb-8a75-05d028d50fa6,10/30/2025 08:00:00,Consumer Confidence (MoM),LOW,SEK,Confidence
-2b5d0bfa-a66f-40b6-bb38-ac20b9940d9b,10/31/2025 22:00:00,All Saints' Day,NONE,SEK,Growth
 8fc9333a-78c4-46a3-baa0-dcdcb6c7aee6,11/03/2025 07:30:00,Manufacturing PMI,LOW,SEK,Growth
 6d2301cd-7d60-4792-9d75-4f77a9009edc,11/05/2025 08:30:00,Riksbank Interest Rate Decision,MEDIUM,SEK,Monetary Policy
 fbe13491-9cdc-42db-b5e7-15ad1ea333f6,11/10/2025 07:00:00,Industrial Production Value (MoM),LOW,SEK,Growth
@@ -40,14 +37,8 @@ c77d2c2d-a405-4902-9387-a44b580d44c8,12/19/2025 07:00:00,Retail Sales (MoM),LOW,
 aaa17dd3-67cd-4f95-90f4-fadf4eefbbf1,12/23/2025 07:00:00,Producer Price Index (MoM),LOW,SEK,Inflation
 7e8f785f-331f-4d97-b979-3eea719557e4,12/23/2025 07:00:00,Producer Price Index (YoY),LOW,SEK,Inflation
 0c3a3720-8832-4267-a253-435f9f51a314,12/23/2025 08:00:00,Consumer Confidence (MoM),LOW,SEK,Confidence
-73e1578b-72d4-4cef-a8bb-293fb8dc1f7c,12/23/2025 22:00:00,Christmas Eve ,NONE,SEK,Monetary Policy
-4d0c32a9-e5f7-4838-9210-0b1b84a63e74,12/24/2025 22:00:00,Christmas Day,NONE,SEK,Monetary Policy
-4bc7c1a5-cfe7-403c-bdae-fc8f9ff4defb,12/25/2025 22:00:00,Second Day of Christmas,NONE,SEK,Monetary Policy
 a7893805-85aa-4f43-be68-43f4505b062c,12/29/2025 07:00:00,Trade Balance (MoM),LOW,SEK,Trade and External
-1fea68f5-2ac2-4a52-9248-136b670d51fc,12/30/2025 22:00:00,New Years Eve,NONE,SEK,Money and Credit
-d85831fb-af40-4add-b0e8-8bef882f42ff,12/31/2025 22:00:00,New Year's Day,NONE,SEK,Money and Credit
 1f34573f-03df-4b76-a298-0e92ce2f316b,01/02/2026 07:30:00,Manufacturing PMI,LOW,SEK,Growth
-05167f83-9714-4f07-9ed9-1a1f62067f70,01/05/2026 22:00:00,Epiphany,NONE,SEK,Monetary Policy
 721bf39e-9e9c-4118-970b-abcb01d9aaa5,01/09/2026 07:00:00,Industrial Production Value (MoM),LOW,SEK,Growth
 5ea92666-9068-4343-beaa-33984742c656,01/09/2026 07:00:00,Industrial Production Value (YoY),LOW,SEK,Growth
 95fd65a4-a609-4c8c-95c7-a5685fc82176,01/09/2026 07:00:00,New Orders Manufacturing (YoY),LOW,SEK,Growth
@@ -64,11 +55,3 @@ c1dfcc18-5325-4459-9840-49f71565f38b,01/30/2026 07:00:00,Retail Sales (YoY),LOW,
 1745391e-c359-462d-a8c8-d647b9ed099e,02/27/2026 07:00:00,Gross Domestic Product (QoQ),LOW,SEK,Growth
 3fb131bb-fdaf-4798-b046-9420fc25cfb1,02/27/2026 07:00:00,Gross Domestic Product (YoY),LOW,SEK,Growth
 49d38c7b-dfcc-4f5e-8375-477d6203d0f1,03/04/2026 07:00:00,Current Account (QoQ),LOW,SEK,Trade and External
-7efce859-bcde-4483-99a1-a5a132237121,04/02/2026 22:00:00,Good Friday,NONE,SEK,Monetary Policy
-23e9b6e3-f404-4a70-a4cf-00f3316517f8,04/05/2026 22:00:00,Easter Monday,NONE,SEK,Monetary Policy
-d0cf7e3f-511b-49bb-83fb-0d3896e6eb20,04/30/2026 22:00:00,Labour Day,NONE,SEK,Monetary Policy
-4106ee52-fdbb-4802-80af-8964ac583ce2,05/13/2026 22:00:00,Ascension Day,NONE,SEK,Monetary Policy
-f29fa2fd-cb1c-4ce7-ad70-1852cb018879,06/05/2026 22:00:00,National Day,NONE,SEK,Monetary Policy
-dcf9bd8c-8636-4fab-81ef-565b541962f7,06/18/2026 22:00:00,Midsummer´s Eve,NONE,SEK,Monetary Policy
-cf623767-d1af-4f97-9798-63e93d4ed159,06/19/2026 22:00:00,Midsummer Day,NONE,SEK,Monetary Policy
-226af524-fcf4-40b5-9920-669fca035908,10/30/2026 22:00:00,All Saints' Day,NONE,SEK,Growth

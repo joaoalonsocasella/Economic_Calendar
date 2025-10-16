@@ -13,7 +13,7 @@ from icalendar import Calendar
 from datetime import datetime
 
 # === Configuration ===
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 INPUT_DIR = os.path.join(BASE_DIR, "..", "data", "raw", "ICS")
 OUTPUT_FILE = os.path.join(BASE_DIR, "..", "data","processed","calendar.ics")
 

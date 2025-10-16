@@ -1,12 +1,10 @@
 ﻿Id,Start,Name,Impact,Currency,MacroCateg
 4f5cbaf3-2350-4a14-904f-8f20c76a2918,10/17/2025 07:00:00,HICP (MoM),LOW,EUR,Inflation
 6225bbb5-1624-4fcd-b532-ad3285c6726c,10/17/2025 07:00:00,HICP (YoY),LOW,EUR,Inflation
-85f28cdd-de40-4511-9d2f-4e6f02eecca1,10/25/2025 22:00:00,National Day ,NONE,EUR,Monetary Policy
 2ed692cc-1c17-4193-9004-ea777054dea6,10/29/2025 09:00:00,UniCredit Bank Manufacturing PMI,LOW,EUR,Growth
 843dea43-d0d2-4807-accf-c803f55f62a6,10/30/2025 08:00:00,Gross Domestic Product (QoQ),LOW,EUR,Growth
 44a3dbc6-326a-4b63-a06a-b2735d72fbb1,10/30/2025 08:00:00,Producer Price Index (MoM),LOW,EUR,Inflation
 959fba5b-b0bd-41c3-80af-42df9e004c1d,10/30/2025 08:00:00,Producer Price Index (YoY),LOW,EUR,Inflation
-26e05cec-bd18-4f45-9375-594e468a21f5,10/31/2025 22:00:00,All Saints' Day ,NONE,EUR,Growth
 47a572e4-c3ad-47ef-b670-d0cf053602b0,11/03/2025 08:00:00,Unemployment,LOW,EUR,Labor Market
 9b99f166-d983-410c-8c8e-3800c7456d26,11/03/2025 08:00:00,Unemployment Rate,LOW,EUR,Labor Market
 ba5f33a9-08c2-4bf8-92bc-fcd21d693b75,11/07/2025 07:00:00,Wholesale Prices n.s.a (YoY),LOW,EUR,Trade and External
@@ -24,19 +22,14 @@ bab1020f-9f7b-44e1-bdfb-1ec897c0262a,12/01/2025 08:00:00,Unemployment Rate,LOW,E
 52e14928-1db0-4c71-97b6-3a7baac52540,12/05/2025 08:00:00,Trade Balance,LOW,EUR,Trade and External
 37aecfa6-20d3-4187-a7a6-3ed94a3e6af6,12/05/2025 08:00:00,Wholesale Prices n.s.a (MoM),LOW,EUR,Growth
 a7c7a5e6-b5ca-4b6c-930f-3ce374806984,12/05/2025 08:00:00,Wholesale Prices n.s.a (YoY),LOW,EUR,Trade and External
-d67b4e2c-0b6c-4c65-af54-872813765ca7,12/07/2025 23:00:00,Immaculate Conception ,NONE,EUR,Monetary Policy
 132a901b-1bbe-46cf-a2ba-7db46dce2ed9,12/10/2025 08:00:00,Industrial Production (YoY),LOW,EUR,Growth
 ed2f1346-9a45-4325-b457-962a4a2b3108,12/18/2025 08:00:00,HICP (MoM),LOW,EUR,Inflation
 48f31c4e-d9d8-4bf1-9427-d1f17356a23c,12/18/2025 08:00:00,HICP (YoY),LOW,EUR,Inflation
-f3f20d2a-9d89-45d9-b203-fc5c4411ae59,12/24/2025 23:00:00,Christmas Day ,NONE,EUR,Monetary Policy
-c040d9db-5a22-414e-a218-e3b88061598a,12/25/2025 23:00:00,St. Stephen's Day,NONE,EUR,Monetary Policy
 2f98b4a3-40da-475e-a19b-0f769e89d9ae,12/26/2025 09:00:00,UniCredit Bank Manufacturing PMI,LOW,EUR,Growth
 3b1a944c-d3f4-4cab-8b61-56a32246c8f1,12/30/2025 08:00:00,Producer Price Index (MoM),LOW,EUR,Inflation
 9893ea1b-28b0-4ec1-84c5-1a7d7ccf06d0,12/30/2025 08:00:00,Producer Price Index (YoY),LOW,EUR,Inflation
-198127f8-93ef-49c2-a896-f908caeb2615,12/31/2025 23:00:00,New Year's Day,NONE,EUR,Money and Credit
 ba7ef613-d8ae-4763-9a53-c94ed35698f6,01/02/2026 08:00:00,Unemployment,LOW,EUR,Labor Market
 b7a54d02-9d3a-480c-a144-af9115a6c1de,01/02/2026 08:00:00,Unemployment Rate,LOW,EUR,Labor Market
-b0ccc819-31e4-471a-90ff-6cdd18c36e1c,01/05/2026 22:00:00,Epiphany,NONE,EUR,Monetary Policy
 e860cf9b-dc35-45b6-a99e-9b2bee0ffe34,01/07/2026 08:00:00,Trade Balance,LOW,EUR,Trade and External
 00399afd-92eb-413b-bd48-1f90cc019a86,01/07/2026 08:00:00,Wholesale Prices n.s.a (MoM),LOW,EUR,Growth
 6745becc-15b5-4728-92a4-61352d1a5400,01/07/2026 08:00:00,Wholesale Prices n.s.a (YoY),LOW,EUR,Trade and External
@@ -47,12 +40,3 @@ e860cf9b-dc35-45b6-a99e-9b2bee0ffe34,01/07/2026 08:00:00,Trade Balance,LOW,EUR,T
 6eb58135-0bfc-471c-87e3-e9c9d19b389d,01/29/2026 08:00:00,Producer Price Index (YoY),LOW,EUR,Inflation
 117dba5f-384f-469e-b083-bad5ab2ed267,01/29/2026 09:00:00,UniCredit Bank Manufacturing PMI,LOW,EUR,Growth
 d9068969-80a6-4904-8ad1-aa5eb64b7642,01/30/2026 08:00:00,Gross Domestic Product (QoQ),LOW,EUR,Growth
-1072e077-111f-4bfe-bbbe-215105d6e85b,04/02/2026 22:00:00,Good friday,NONE,EUR,Monetary Policy
-58faef81-54f8-4f65-aebc-63e87b7cd8dd,04/05/2026 22:00:00,Easter Monday,NONE,EUR,Monetary Policy
-72523ce8-1616-4870-a414-af5bb1068316,04/30/2026 22:00:00,Labour Day,NONE,EUR,Monetary Policy
-9bc0b1b6-b77e-4e69-afe1-1af7f79ae223,05/13/2026 22:00:00,Ascension Day,NONE,EUR,Monetary Policy
-7e815ed4-dd18-4065-b765-1efce5621a18,05/24/2026 22:00:00,Whit Monday,NONE,EUR,Monetary Policy
-71ca441e-0225-4c6c-a142-275757a69b71,06/03/2026 22:00:00,Corpus Christi ,NONE,EUR,Monetary Policy
-a47b0550-a7cd-45d8-8026-7c0e1c52bbe6,08/14/2026 22:00:00,Assumption Day,NONE,EUR,Monetary Policy
-d135fd2d-2b50-4ad8-abd5-95cb4c06cf0d,10/25/2026 22:00:00,National Day ,NONE,EUR,Monetary Policy
-474fb11a-e700-4dd8-a4a8-4b307b141eae,10/31/2026 22:00:00,All Saints' Day ,NONE,EUR,Growth

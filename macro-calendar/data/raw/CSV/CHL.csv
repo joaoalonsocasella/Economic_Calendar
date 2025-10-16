@@ -2,8 +2,6 @@ Id,Start,Name,Impact,Currency
 c87a0cca-fba1-4b3c-9f70-f84e9d66e3bb,10/28/2025 22:00:00,BCCH Interest Rate,LOW,CLP
 d0c66e38-f5b6-4a49-8e9e-c2036c1473bf,10/30/2025 12:00:00,Industrial Production (YoY),LOW,CLP
 5e615d13-e5ec-4b3b-93a0-d87c9ba3c74e,10/30/2025 12:00:00,Unemployment rate,LOW,CLP
-48bd550b-cd10-4e0e-9f5f-65fd084db643,10/31/2025 04:00:00,Evangelical Churches Day,NONE,CLP
-c2831286-d4f8-4ffb-86b8-72a045d99985,11/01/2025 04:00:00,All Saints' Day,NONE,CLP
 ffceb644-8c5f-47f1-88b1-b91248a08370,11/03/2025 11:30:00,IMACEC,LOW,CLP
 7fe3b1ec-e254-4132-9bb0-6ae0e23f3447,11/07/2025 11:00:00,Consumer Price Index (Inflation) (MoM),LOW,CLP
 f39620ae-6b31-4a81-a153-acd1070ed1c1,11/07/2025 11:00:00,Core Consumer Price Index (Inflation) (MoM),LOW,CLP
@@ -12,15 +10,12 @@ f39620ae-6b31-4a81-a153-acd1070ed1c1,11/07/2025 11:00:00,Core Consumer Price Ind
 59d79c0c-423b-4349-b8bc-7d9e5cdfb345,11/28/2025 12:00:00,Industrial Production (YoY),LOW,CLP
 c220168a-e14b-4d7f-860d-001d51402d5b,11/28/2025 12:00:00,Unemployment rate,LOW,CLP
 08f90d0d-f743-4a5a-a084-0083978a3fad,12/01/2025 11:30:00,IMACEC,LOW,CLP
-d9feaca7-4473-4312-8d7b-bdf3501de73f,12/08/2025 04:00:00,Immaculate Conception,NONE,CLP
 0bab256e-81e9-4991-80cb-930805727f3f,12/08/2025 11:00:00,Consumer Price Index (Inflation) (MoM),LOW,CLP
 f8fa2ccf-0714-46fe-b8b5-f18db00384d1,12/08/2025 11:00:00,Core Consumer Price Index (Inflation) (MoM),LOW,CLP
 2682e4c2-56a4-4164-85e9-549c3b37ac58,12/09/2025 11:30:00,Trade Balance,LOW,CLP
 48140eb4-5096-46c4-a96d-c36906fb562f,12/17/2025 22:00:00,BCCH Interest Rate,LOW,CLP
-81ca76cb-6dd9-442d-b632-82a81e6231e9,12/25/2025 04:00:00,Christmas Day,NONE,CLP
 48e4dbe6-db0d-403d-ac9a-02190fcbbc26,12/30/2025 12:00:00,Unemployment rate,LOW,CLP
 ccac7437-7a68-45d8-8472-09148c6af5b5,12/31/2025 12:00:00,Industrial Production (YoY),LOW,CLP
-402df7bb-4f8a-4eea-97e5-5e32f5d82c05,01/01/2026 04:00:00,New Year's day,NONE,CLP
 79423004-9346-4d18-862b-5323a1f2560c,01/02/2026 11:30:00,IMACEC,LOW,CLP
 3e505fa8-b1ba-4e4a-9b8e-a225935555ab,01/07/2026 11:30:00,Trade Balance,LOW,CLP
 51029ed5-dcaa-4d9e-b14b-9a629ba085fd,01/08/2026 11:00:00,Consumer Price Index (Inflation) (MoM),LOW,CLP
@@ -28,14 +23,3 @@ ccac7437-7a68-45d8-8472-09148c6af5b5,12/31/2025 12:00:00,Industrial Production (
 2e25512d-d613-48d1-aca8-5312c83858f6,01/30/2026 12:00:00,Industrial Production (YoY),LOW,CLP
 3288f647-27e6-4856-a17a-a5d93e7eb625,01/30/2026 12:00:00,Unemployment rate,LOW,CLP
 7bc37827-bb04-4b67-871f-10565d67ffe2,03/18/2026 11:30:00,Gross Domestic Product (YoY),LOW,CLP
-244d3ef8-ca00-4e91-8610-d4787d72eb7b,04/03/2026 04:00:00,Good Friday,NONE,CLP
-2396e3ee-c9c9-45bd-b518-0ffe18a07802,05/01/2026 04:00:00,Labour Day,NONE,CLP
-d02b5ea5-fe97-4a3b-89cc-e356d72ae434,05/21/2026 04:00:00,"Navy Day ",NONE,CLP
-636b9c61-fd1d-43af-9dca-4f5f940581af,06/29/2026 04:00:00,"Saint Peter and Saint Paul ",NONE,CLP
-2be241f0-1f64-462e-8c78-d124c6bf6ec5,07/16/2026 04:00:00,Our Lady of Mount Carmel,NONE,CLP
-eec5ea4a-faa6-4e0d-8fa3-cd7bfab99e29,08/15/2026 04:00:00,Assumption Day,NONE,CLP
-2d37bd48-8ef1-48d0-a828-0ace2b2c05df,09/17/2026 04:00:00,"Public Holiday ",NONE,CLP
-8b1ca97e-b448-4318-b0ce-48103d3b8d0a,09/18/2026 04:00:00,Independence Day of Chile,NONE,CLP
-2488c55f-62e5-45e2-ade2-e646d7634734,09/19/2026 04:00:00,Army Day,NONE,CLP
-095863af-cec9-47aa-a1bf-5fea18d449f7,10/12/2026 04:00:00,"Columbus Day ",NONE,CLP
-baee560d-df06-4d5d-a171-fe323aaaec93,10/31/2026 04:00:00,Evangelical Churches Day,NONE,CLP

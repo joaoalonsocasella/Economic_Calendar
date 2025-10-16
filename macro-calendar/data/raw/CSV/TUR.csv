@@ -1,12 +1,10 @@
 Id,Start,Name,Impact,Currency
-5c3270a9-33cd-4a7a-864d-5be79cd2a4a4,10/15/2025 08:00:00,Budget Balance,LOW,TRY
 5b335bc5-e77d-4a8f-b8ac-08756801bba3,10/23/2025 07:00:00,Consumer Confidence,LOW,TRY
 0cbb28bd-bdfe-4d6d-b463-ed41351f142f,10/23/2025 11:00:00,CBRT Interest Rate Decision,MEDIUM,TRY
 97baae83-5272-4249-97f8-28c056ce18a5,10/24/2025 07:00:00,Capacity Utilization,LOW,TRY
 fdd87eca-c050-4ef2-b4b4-9e995036f982,10/24/2025 07:00:00,Manufacturing Confidence,LOW,TRY
 b9878949-122d-471d-ab40-1870ff5502d4,10/24/2025 08:00:00,Foreign Arrivals,LOW,TRY
 58230192-a2c0-428d-a504-20c88a0bd7dc,10/27/2025 07:00:00,Unemployment Rate,LOW,TRY
-f902e4dd-122f-4c79-b7a4-7135d58aad30,10/28/2025 23:00:00,"Republic Day ",NONE,TRY
 3b13cae0-5faa-44f9-a0ca-cecaadc70b9f,10/30/2025 07:00:00,Economic Confidence Index,LOW,TRY
 ed14cd8d-002d-414d-b486-ed9c7fa577ec,10/31/2025 07:00:00,Trade Balance,LOW,TRY
 11a50689-a5b0-4b1c-89a0-6f793f0a098d,11/04/2025 07:00:00,Consumer Price Index (MoM),LOW,TRY
@@ -44,7 +42,6 @@ a876eb5a-f473-4f2d-a394-c6dd558d8991,12/25/2025 07:00:00,Capacity Utilization,LO
 a44de55c-583c-4281-80ee-cc6ca8118fcf,12/30/2025 07:00:00,Economic Confidence Index,LOW,TRY
 06124d57-eba6-4bc3-86f6-80dbcfd90eb7,12/30/2025 07:00:00,Unemployment Rate,LOW,TRY
 be3f4cfb-6af3-4d6d-aada-7cac549f33f9,12/31/2025 07:00:00,Trade Balance,LOW,TRY
-c829b0a4-48a8-4157-8531-d153a5e3a440,12/31/2025 23:00:00,New Year's Day,NONE,TRY
 26058e23-59e6-4135-ac20-d5988e2e0608,01/02/2026 08:00:00,Exports,LOW,TRY
 80f3c4c6-f0d8-4cf0-854c-e787580224d2,01/05/2026 07:00:00,Consumer Price Index (MoM),LOW,TRY
 2fdc42d1-a8de-409c-ba2d-159752fd78c6,01/05/2026 07:00:00,Consumer Price Index (YoY),MEDIUM,TRY
@@ -62,11 +59,3 @@ d664d154-dbbc-4577-9e6e-8386d2700d19,01/23/2026 07:00:00,Capacity Utilization,LO
 e32b20de-1d0c-48bf-bbb9-d073d012aedd,01/29/2026 07:00:00,Economic Confidence Index,LOW,TRY
 dd5e3658-fec5-4d5c-9b16-a55a0d966593,01/30/2026 07:00:00,Trade Balance,LOW,TRY
 7c2372d9-c750-48fb-9bb9-98ec5c042c09,02/27/2026 07:00:00,Quarterly Gross Domestic Product,LOW,TRY
-70578b32-7b38-4427-b19f-88c7ec734380,03/19/2026 23:00:00,Ramazan Feast,NONE,TRY
-95c216af-97d7-4560-abaa-cf27c13eff7b,04/22/2026 23:00:00,"National Sovereignty and Children's Day ",NONE,TRY
-9a27a1d4-77dd-424b-a61d-cd02c5b1b41a,04/30/2026 23:00:00,Labour Day,NONE,TRY
-1f070df5-0913-470d-acff-8a6e5eedefde,05/18/2026 23:00:00,"Commemoration of Ataturk, Youth and Sports Day",NONE,TRY
-131cbede-0766-4e33-a67a-28baeea6b4be,05/26/2026 23:00:00,Sacrifice Feast,NONE,TRY
-c915d2c3-2975-4449-8f0e-76850ddb7ee1,07/14/2026 23:00:00,Democracy and National Solidarity Day,NONE,TRY
-868d82d9-8851-493a-9dbe-9b6133ff86f2,08/29/2026 23:00:00,"Victory Day ",NONE,TRY
-1916e5a2-adea-46eb-9b56-ca0b9dfb51cc,10/28/2026 23:00:00,"Republic Day ",NONE,TRY

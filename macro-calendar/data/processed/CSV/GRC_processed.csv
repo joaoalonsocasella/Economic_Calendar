@@ -1,6 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,MacroCateg
 5f77f0f8-8814-4d29-a11b-ad61e86c0c2c,10/21/2025 08:00:00,Current Account (YoY),LOW,EUR,Trade and External
-150c162a-3d48-468f-a68f-f25c202433cd,10/27/2025 22:00:00,The Ochi day,NONE,EUR,Monetary Policy
 407e26a1-6787-4d94-b154-74d6f0ed9c5e,10/30/2025 10:00:00,Producer Price Index (YoY),LOW,EUR,Inflation
 63745319-ce86-4377-97a2-6977a4737dca,10/30/2025 10:00:00,Unemployment Rate (MoM),LOW,EUR,Labor Market
 f436f828-4fe6-4330-b232-8549dc988735,10/31/2025 10:00:00,Retail Sales (YoY),LOW,EUR,Growth
@@ -19,11 +18,8 @@ dc164f00-794e-4dc0-b7fc-8f31ccc00916,12/09/2025 10:00:00,Consumer Price Index - 
 fb63b1f1-70de-484b-b028-5ebe7aea2a5c,12/09/2025 10:00:00,Consumer Price Index (YoY),LOW,EUR,Inflation
 03dbc7e0-b359-4d3e-a40b-65a8c47f49e4,12/10/2025 10:00:00,Industrial Production (YoY),LOW,EUR,Growth
 2f25201a-7ed2-4312-be6b-87c7b128ad9f,12/19/2025 09:00:00,Current Account (YoY),LOW,EUR,Trade and External
-561544d1-9c05-4a8d-8bc6-982b53e19d70,12/24/2025 22:00:00,Christmas Day ,NONE,EUR,Monetary Policy
-4f2090af-5fc7-4c51-a274-07da58c65bae,12/25/2025 22:00:00,Boxing Day ,NONE,EUR,Monetary Policy
 a0ef2467-affa-4715-8131-2a1ae4adc98d,12/30/2025 10:00:00,Producer Price Index (YoY),LOW,EUR,Inflation
 9912eb18-a6e3-4203-a3d3-8f014edd8de0,12/31/2025 10:00:00,Retail Sales (YoY),LOW,EUR,Growth
-7d476ea1-0fe0-4448-815b-d6bab8038f24,12/31/2025 22:00:00,New Year's Day,NONE,EUR,Money and Credit
 8f1b4136-9f21-43c5-a5f1-f78c7ad3a61b,01/02/2026 09:00:00,S&P Global Manufacturing PMI,LOW,EUR,Growth
 5b270b7a-3c24-4fba-a64e-f6377a22714d,01/02/2026 10:00:00,Unemployment Rate (MoM),LOW,EUR,Labor Market
 82ec065d-5d1c-49a3-ad91-c657095caaa1,01/09/2026 10:00:00,Consumer Price Index - Harmonized (YoY),LOW,EUR,Inflation
@@ -33,11 +29,3 @@ a0ef2467-affa-4715-8131-2a1ae4adc98d,12/30/2025 10:00:00,Producer Price Index (Y
 6484c89e-8db5-46b8-af00-7a99f5fc5320,01/30/2026 10:00:00,Producer Price Index (YoY),LOW,EUR,Inflation
 eb350b43-0226-4f03-a22c-9fe72552256a,01/30/2026 10:00:00,Retail Sales (YoY),LOW,EUR,Growth
 5c1cee51-e335-420a-a7f6-956c460bcf81,03/06/2026 10:00:00,Gross Domestic Product s.a (YoY),LOW,EUR,Growth
-49fd24f9-1c76-4d11-a827-285da70cf3ac,03/24/2026 22:00:00,Independence Day ,NONE,EUR,Monetary Policy
-2d64a739-8572-4bab-9031-27f02041a99c,04/09/2026 22:00:00,Orthodox Good Friday ,NONE,EUR,Monetary Policy
-80e789e6-4752-4efc-b049-917d1ca586af,04/12/2026 22:00:00,Orthodox Easter Monday ,NONE,EUR,Monetary Policy
-85f69946-d1dc-4c62-84d8-f1d88f72b9bd,04/30/2026 21:00:00,Labour Day,NONE,EUR,Monetary Policy
-7bf3ef2a-c00e-4343-a9df-aa4c3c3c7c8b,05/31/2026 22:00:00,Holy Spirit Monday ,NONE,EUR,Monetary Policy
-f5da0270-5f30-4d57-acde-82d9e6b969b6,06/05/2026 21:00:00,Epiphany,NONE,EUR,Monetary Policy
-a96e6d3f-bf49-4b1e-85bc-5d842a11a122,08/14/2026 21:00:00,Assumption Day ,NONE,EUR,Monetary Policy
-b7f873bc-01a7-4966-ac2e-f103d40afaf2,10/27/2026 22:00:00,The Ochi day,NONE,EUR,Monetary Policy

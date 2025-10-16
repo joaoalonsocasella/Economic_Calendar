@@ -6,7 +6,6 @@ a93b1508-cec9-4d48-a6d1-da3ca113ffcd,10/30/2025 09:30:00,Business Confidence,LOW
 8c915b10-c499-474b-87b2-577bb50f06a3,10/30/2025 09:30:00,Gross Domestic Product (YoY),LOW,EUR
 f6a689e6-131e-451f-a8ef-eb7d8c94b9be,10/31/2025 11:00:00,Consumer Price Index (MoM),LOW,EUR
 6170eac1-5340-4015-87d0-2e21046ba65a,10/31/2025 11:00:00,Consumer Price Index (YoY),LOW,EUR
-2fe75768-5a3b-4eac-a69c-ed3be910d126,10/31/2025 23:00:00,All Saints' Day,NONE,EUR
 d1cdec41-575e-4c72-afca-ebd48bb928f0,11/10/2025 11:00:00,Global Trade Balance,LOW,EUR
 f3ace16c-1cd6-462d-920c-5895e30303ed,11/11/2025 11:00:00,Consumer Price Index (MoM),LOW,EUR
 1ad4c802-dd45-4db5-8ef7-7765787327b0,11/11/2025 11:00:00,Consumer Price Index (YoY),LOW,EUR
@@ -18,14 +17,10 @@ d09e6baa-8a9b-4519-a8e5-c7ec77b6e1a4,11/28/2025 11:00:00,Consumer Price Index (M
 8c2ec5be-8b5d-4a32-bd9e-bc40cf699fbc,11/28/2025 11:00:00,Consumer Price Index (YoY),LOW,EUR
 dae777b5-c3e9-4aae-86fa-de644bd33bbd,11/28/2025 11:00:00,Gross Domestic Product (QoQ),LOW,EUR
 5a431b9b-dae8-4549-8e20-98d06a8e73fc,11/28/2025 11:00:00,Gross Domestic Product (YoY),LOW,EUR
-1e10c73f-a19a-43a7-8e8b-a870525886d9,12/07/2025 23:00:00,Immaculate Conception Day,NONE,EUR
 c2ea684e-2e6f-4dc2-a1e0-bdcfb5e4ea22,12/11/2025 11:00:00,Consumer Price Index (MoM),LOW,EUR
 0a623a79-aabc-43d2-a969-2d29bc7a9a40,12/11/2025 11:00:00,Consumer Price Index (YoY),LOW,EUR
 c9bdcf92-d202-4e2b-aa66-60e89ee6c9ad,12/11/2025 11:00:00,Global Trade Balance,LOW,EUR
 ce40d38b-5526-4d24-ada7-1a54fc894869,12/19/2025 11:00:00,Current Account Balance,LOW,EUR
-ec3012e0-ede4-49f6-9774-c14e688933da,12/23/2025 23:00:00,Christmas Eve,NONE,EUR
-011673b7-f1c0-4c4e-bbde-6e75e5c73899,12/24/2025 23:00:00,"Christmas Day ",NONE,EUR
-6ec69757-c5c6-44e7-8407-a6fa10038ff5,12/31/2025 23:00:00,New Year's Day,NONE,EUR
 c6819eda-704a-493b-8fe5-7a9498e75256,01/02/2026 09:30:00,Business Confidence,LOW,EUR
 98760493-a943-43e9-95c4-f48d2ac12886,01/02/2026 09:30:00,Consumer Confidence,LOW,EUR
 6105055d-f525-4bab-a590-a9ab4234cc43,01/09/2026 11:00:00,Consumer Price Index (MoM),LOW,EUR
@@ -39,11 +34,3 @@ b19f3b0f-f1ed-4748-8788-c77b382da883,01/30/2026 09:30:00,Gross Domestic Product 
 87921ba3-28a5-424f-a0b9-28c3a95d23eb,01/30/2026 11:00:00,Consumer Price Index (MoM),LOW,EUR
 b3dd4f54-2bbd-4922-95b8-7ac14ee476b4,01/30/2026 11:00:00,Consumer Price Index (YoY),LOW,EUR
 17037bfb-6417-4654-8ae7-beb8e99bc215,02/11/2026 11:00:00,Unemployment Rate,LOW,EUR
-84802c23-ec19-40bc-9035-512aad28ef3d,04/02/2026 23:00:00,Good Friday,NONE,EUR
-93dc86cc-d182-4dbc-ac82-e3a5f6cfcc2e,04/24/2026 23:00:00,Freedom Day,NONE,EUR
-78908481-15b6-40e8-89b4-9cde37f4c844,04/30/2026 23:00:00,Labour Day,NONE,EUR
-e7e16aaa-7507-412e-86a4-1dd70544d47b,06/03/2026 23:00:00,Corpus Christi,NONE,EUR
-5914edc3-9ebf-4817-b6eb-a4868482bc6a,06/09/2026 23:00:00,Portugal Day,NONE,EUR
-364af71f-046d-42e8-a4a7-843c109db419,08/14/2026 23:00:00,"Assumption Day ",NONE,EUR
-e9a68a33-d817-4191-8829-9274d76b46af,10/05/2026 23:00:00,Republic Day,NONE,EUR
-2ce73ee8-ee23-4bcc-9346-e228530d3ebf,10/31/2026 23:00:00,All Saints' Day,NONE,EUR

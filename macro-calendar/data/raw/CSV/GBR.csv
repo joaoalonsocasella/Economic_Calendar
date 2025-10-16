@@ -1,15 +1,4 @@
 Id,Start,Name,Impact,Currency
-f0c1758f-57ad-467f-abda-28725ee1c898,10/14/2025 06:00:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
-0c0dc869-5295-4e7d-a3ff-1e4533a77698,10/14/2025 06:00:00,Average Earnings Including Bonus (3Mo/Yr),MEDIUM,GBP
-4c911095-8226-4216-97a0-ecbcaad05ad3,10/14/2025 06:00:00,Claimant Count Change,HIGH,GBP
-5d17d89f-b62e-4095-b3f5-bbac5fa52b0c,10/14/2025 06:00:00,Claimant Count Rate,MEDIUM,GBP
-00b51a66-60f6-470f-b495-fddba93dd2f3,10/14/2025 06:00:00,Employment Change (3M),HIGH,GBP
-93367ef1-a8bf-4a2d-8d46-875b14365dc3,10/14/2025 06:00:00,ILO Unemployment Rate (3M),HIGH,GBP
-e77e7213-2308-4056-8cc8-39633cc656e2,10/14/2025 12:00:00,BoE's Taylor speech,MEDIUM,GBP
-648d4e76-86a0-4ee4-b439-7e68595597ff,10/14/2025 17:00:00,BoE's Governor Bailey speech,HIGH,GBP
-e2966c01-18e4-417b-95b2-b6c9b9a2f41f,10/15/2025 08:00:00,BoE's Ramsden speech,MEDIUM,GBP
-670b2a9a-f192-4a59-b193-190685c1bc02,10/15/2025 15:45:00,BoE's Breeden speech,MEDIUM,GBP
-4773d266-ec4f-42f3-bb23-7991bedf94ca,10/15/2025 18:00:00,BoE's Breeden speech,MEDIUM,GBP
 6476f7b7-121f-4023-8c47-9be48cf436ee,10/16/2025 06:00:00,Goods Trade Balance,LOW,GBP
 d7e71433-6f25-4f78-b863-0a297107fdc2,10/16/2025 06:00:00,Gross Domestic Product (MoM),MEDIUM,GBP
 a34fc669-bbf2-4404-b0cd-11c3c01cf2ef,10/16/2025 06:00:00,Index of Services (3M/3M),LOW,GBP
@@ -21,6 +10,7 @@ be8c0f60-4799-421f-9eec-0473f367a9ba,10/16/2025 06:00:00,Manufacturing Productio
 0a9001a1-aab8-4f69-97a7-a51793f4f757,10/16/2025 06:00:00,Trade Balance; non-EU,LOW,GBP
 c01bc0fc-c479-48f2-b0b2-f4b667f4c26d,10/16/2025 08:30:00,BoE Credit Conditions Survey,LOW,GBP
 7fedbdce-9f3e-43f1-b11d-d1f64da3ba19,10/16/2025 11:00:00,NIESR GDP Estimate (3M),LOW,GBP
+5c125184-afb2-49df-bb91-449beb887650,10/16/2025 14:45:00,BoE's Mann speech,MEDIUM,GBP
 640c7fd3-cd8c-4f8b-8085-08fcd4a22908,10/16/2025 18:30:00,BoE's Greene speech,MEDIUM,GBP
 e6ab6038-e395-4fe8-b6d2-ad2fa480598e,10/17/2025 09:35:00,BoE's Pill speech,MEDIUM,GBP
 00cc21be-cef8-4b33-a140-c4c978701b02,10/17/2025 11:00:00,BoE's Greene speech,MEDIUM,GBP
@@ -197,13 +187,10 @@ e3137b23-5a98-4f91-ae6d-6726b2abcbee,12/22/2025 07:00:00,Gross Domestic Product 
 654e4c00-fe63-4ea0-8374-63a760970af4,12/22/2025 07:00:00,Gross Domestic Product (YoY),HIGH,GBP
 0ef350bb-19b8-41c3-981b-efda7425f44c,12/22/2025 07:00:00,Total Business Investment (QoQ),LOW,GBP
 3f7744eb-c14d-409f-b3fd-1224cd79ad6e,12/22/2025 07:00:00,Total Business Investment (YoY),LOW,GBP
-d3e42fb2-1cfd-424d-81cd-c053e0f68359,12/25/2025 00:00:00,Christmas Day,NONE,GBP
-d25b4279-0a48-4c6e-b6d2-dd02dec8b49e,12/26/2025 00:00:00,Boxing Day,NONE,GBP
 86ea7915-e5c7-44c9-882b-341576889fda,12/29/2025 00:01:00,BRC Shop Price Index (YoY),LOW,GBP
 50a1a39a-e832-4a1d-97d2-da4e570c4042,12/29/2025 07:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP
 4990f86a-1df1-44a0-9a7a-8f7f8f98bbe9,12/29/2025 07:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP
 caeb18c0-b156-43ca-ab12-a90c2d9530e4,12/29/2025 20:30:00,CFTC GBP NC Net Positions,LOW,GBP
-ecc25174-6a69-4fb9-9fbf-4888ea10916d,12/31/2025 23:00:00,New Year's Day,NONE,GBP
 1fce37a3-b1a3-4de6-ade4-2009604c4dca,01/02/2026 09:30:00,Consumer Credit,LOW,GBP
 01b880b6-1198-47ba-884a-8f114a6c6c14,01/02/2026 09:30:00,M4 Money Supply (MoM),LOW,GBP
 63a540ea-1325-4752-838d-71dc2dcacb01,01/02/2026 09:30:00,M4 Money Supply (YoY),LOW,GBP
@@ -271,6 +258,7 @@ d57742f4-21bb-49c6-a5bc-6b1bd52a6ad9,01/30/2026 09:30:00,M4 Money Supply (YoY),L
 c7fe128b-09d8-412b-affd-e9dde4978d54,01/30/2026 09:30:00,Net Lending to Individuals (MoM),LOW,GBP
 b70851f3-f22d-476f-a966-6eb46f08bdd2,01/30/2026 20:30:00,CFTC GBP NC Net Positions,LOW,GBP
 ae1a5427-9671-490c-8501-8fac3e9d7ddd,02/02/2026 09:30:00,S&P Global Manufacturing PMI,LOW,GBP
+4744ad29-88ba-432f-ace5-dcd43360107f,02/03/2026 00:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP
 930e1664-0e16-4233-a3c5-858c47c2b1a4,02/04/2026 09:30:00,S&P Global Composite PMI,LOW,GBP
 588c7df1-cce1-4acd-ae00-5f5a9d329c7a,02/04/2026 09:30:00,S&P Global Services PMI,LOW,GBP
 d0abeba5-a243-4acc-b681-f3c38973779e,02/05/2026 09:30:00,S&P Global Construction PMI,LOW,GBP
@@ -321,6 +309,7 @@ fba41dfd-c4c5-4e8d-b2ba-c56756e1c634,02/18/2026 07:00:00,Producer Price Index - 
 8727f9aa-a5c1-4634-a426-7a390ce86555,02/18/2026 07:00:00,Retail Price Index (MoM),MEDIUM,GBP
 62a69f42-3247-452e-b1dc-4bed6a672b2f,02/18/2026 07:00:00,Retail Price Index (YoY),MEDIUM,GBP
 aacda365-3f4c-4d57-93eb-fa418e0c3792,02/18/2026 09:30:00,DCLG House Price Index (YoY),LOW,GBP
+082dc7f0-d64c-449b-a1ec-648353144f58,02/20/2026 00:01:00,GfK Consumer Confidence,MEDIUM,GBP
 fad31139-2144-4de4-9f70-b50819a82209,02/20/2026 07:00:00,Public Sector Net Borrowing,LOW,GBP
 b0ce72d9-aabc-4664-89ad-18506d9ee683,02/20/2026 07:00:00,Retail Sales (MoM),HIGH,GBP
 2fb5e617-6c66-4080-a977-0648e52bebfd,02/20/2026 07:00:00,Retail Sales (YoY),MEDIUM,GBP
@@ -331,6 +320,7 @@ b0ce72d9-aabc-4664-89ad-18506d9ee683,02/20/2026 07:00:00,Retail Sales (MoM),HIGH
 6ce50567-8242-4b58-b888-bb16d6e556ff,02/20/2026 09:30:00,S&P Global Services PMI,HIGH,GBP
 ea6a64b4-a3c0-4e64-b705-62f3a4d087b5,02/20/2026 20:30:00,CFTC GBP NC Net Positions,LOW,GBP
 3e8c5011-9b04-4036-9c94-147bdde64bd5,02/27/2026 20:30:00,CFTC GBP NC Net Positions,LOW,GBP
+055eee22-718c-4407-909e-adf71d63c404,03/02/2026 00:01:00,BRC Shop Price Index (YoY),LOW,GBP
 8c19704b-0b77-4184-9c68-366afad18591,03/02/2026 07:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP
 72e15728-4797-46fb-96b9-c00ed2ce4299,03/02/2026 07:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP
 b7721f99-5c19-4659-873c-5dcf19522ade,03/02/2026 09:30:00,Consumer Credit,LOW,GBP
@@ -339,6 +329,7 @@ b7721f99-5c19-4659-873c-5dcf19522ade,03/02/2026 09:30:00,Consumer Credit,LOW,GBP
 b97b8cf1-74d2-42de-8a25-2bffb16e5ee2,03/02/2026 09:30:00,Mortgage Approvals,LOW,GBP
 c6ace623-80fe-458b-974e-6db555615e60,03/02/2026 09:30:00,Net Lending to Individuals (MoM),LOW,GBP
 156aced2-08a4-49c3-beff-5a609abb7da0,03/02/2026 09:30:00,S&P Global Manufacturing PMI,LOW,GBP
+c840304e-dac3-4f8d-8dd5-72797e75d5b8,03/03/2026 00:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP
 20064a7f-1126-4365-bf2e-fbc19fd041d4,03/04/2026 09:30:00,S&P Global Composite PMI,LOW,GBP
 f03025e2-4168-4a95-be15-016197868f48,03/04/2026 09:30:00,S&P Global Services PMI,LOW,GBP
 0fb30aa2-0680-4f03-9503-baa8a10407ed,03/05/2026 09:30:00,S&P Global Construction PMI,LOW,GBP
@@ -372,6 +363,7 @@ ea852b0d-05f5-4159-b1cc-210431e59b10,03/19/2026 12:00:00,BoE Monetary Policy Sum
 af9295ba-006e-457b-95cd-d36aa7463c2d,03/19/2026 12:00:00,BoE MPC Vote Rate Cut,HIGH,GBP
 f2b9326d-2f6f-4810-a37d-79c121ec0d6f,03/19/2026 12:00:00,BoE MPC Vote Rate Hike,HIGH,GBP
 9ccdbf3c-39c4-48ca-b0f7-382abfa38ec0,03/19/2026 12:00:00,BoE MPC Vote Rate Unchanged,HIGH,GBP
+cca93488-6cb0-4082-9715-0bfc19c06931,03/19/2026 23:01:00,GfK Consumer Confidence,MEDIUM,GBP
 7c10495a-eb52-4506-a26f-3818fa3ae648,03/20/2026 06:00:00,Public Sector Net Borrowing,LOW,GBP
 eeafb7c1-8ca8-48b0-950e-49278c6285f2,03/20/2026 07:00:00,Retail Sales (MoM),HIGH,GBP
 d39bf635-ab6d-492b-b1cc-607d46f65bc3,03/20/2026 07:00:00,Retail Sales (YoY),MEDIUM,GBP
@@ -402,18 +394,18 @@ ee799c1d-0af4-40e5-b46f-0c7a28d6fbb1,03/30/2026 06:00:00,Total Business Investme
 33d146a1-ca47-4bd4-a0fa-71f37a05d8f9,03/31/2026 06:00:00,Current Account,LOW,GBP
 7509e9b3-3abc-4a66-be05-2007744e5872,03/31/2026 06:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP
 fe2e62a1-efb2-44be-ba54-c63973e740fd,03/31/2026 06:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP
+9b25515a-7205-4d1f-a380-945c4760a54c,03/31/2026 23:01:00,BRC Shop Price Index (YoY),LOW,GBP
 7b579ad1-1535-45d2-9417-56ee641fc997,04/01/2026 08:30:00,Consumer Credit,LOW,GBP
 a61fd2b0-c224-4e65-8636-3580b627623a,04/01/2026 08:30:00,M4 Money Supply (MoM),LOW,GBP
 982f54e8-f837-421d-bf1d-e2c91f7213e4,04/01/2026 08:30:00,M4 Money Supply (YoY),LOW,GBP
 7e47e48f-6067-4c22-842b-58f3756a34d8,04/01/2026 08:30:00,Mortgage Approvals,LOW,GBP
 9801056b-0479-4b39-900e-ebdb5d503440,04/01/2026 08:30:00,Net Lending to Individuals (MoM),LOW,GBP
 0a6fd546-9c8a-4de4-91cd-fd2d803dc72f,04/01/2026 08:30:00,S&P Global Manufacturing PMI,LOW,GBP
-6d2e8787-3398-4630-8a9a-aad59a4d450a,04/02/2026 23:00:00,Good Friday,NONE,GBP
 eef2963b-71a4-46f9-a37a-e075255b253c,04/03/2026 08:30:00,S&P Global Composite PMI,LOW,GBP
 f2dbb88d-190f-4cb3-b2c6-e4cf9af6a3a7,04/03/2026 08:30:00,S&P Global Services PMI,LOW,GBP
 ec660f07-7129-473c-9f38-c25711783b69,04/03/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
-de6e1860-cebb-4baf-9897-c140c81c6585,04/05/2026 23:00:00,Easter Monday,NONE,GBP
 aa47216d-ccea-4430-8df7-0c5688ced8ca,04/06/2026 08:30:00,S&P Global Construction PMI,LOW,GBP
+8e5b4bf6-610f-420e-973b-4671801947e7,04/06/2026 23:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP
 ca6a2121-fa7e-48c4-8598-780d785eedb3,04/08/2026 06:00:00,Halifax House Prices (MoM),LOW,GBP
 7a44f840-e08f-4c9d-b072-910c0a6b77a7,04/08/2026 06:00:00,Halifax House Prices (YoY/3m),LOW,GBP
 f247f044-029c-402b-81d9-e60e2f56dd6c,04/08/2026 23:01:00,RICS Housing Price Balance,LOW,GBP
@@ -450,6 +442,7 @@ a77e046e-1405-4070-b14e-9fb65a50544a,04/22/2026 06:00:00,Producer Price Index - 
 50e636ca-ffda-433b-8270-aa3666bd3b7f,04/22/2026 06:00:00,Retail Price Index (MoM),MEDIUM,GBP
 9fea74f3-5fb7-4c1a-9447-27658cec855d,04/22/2026 06:00:00,Retail Price Index (YoY),MEDIUM,GBP
 62f29053-fba6-40ca-bd38-d7e63e0eb0e0,04/22/2026 08:30:00,DCLG House Price Index (YoY),LOW,GBP
+59368c89-c449-4eb7-b527-bf2e5c820b78,04/23/2026 23:01:00,GfK Consumer Confidence,MEDIUM,GBP
 ca4884ab-144c-4dce-bd23-5d07fa891114,04/24/2026 06:00:00,Retail Sales (MoM),HIGH,GBP
 d2fd8845-f8d6-491e-8151-e47568b780be,04/24/2026 06:00:00,Retail Sales (YoY),MEDIUM,GBP
 837c54aa-03d4-469f-a398-d51682360742,04/24/2026 06:00:00,Retail Sales ex-Fuel (MoM),MEDIUM,GBP
@@ -458,6 +451,7 @@ ac5ed9ac-cde7-42ad-9263-6a47d259b8a5,04/24/2026 08:30:00,S&P Global Composite PM
 153793cf-dfdc-4843-8976-15a3c9de29f0,04/24/2026 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP
 64bcc218-8fa8-4eaa-9399-4d874b2f149b,04/24/2026 08:30:00,S&P Global Services PMI,HIGH,GBP
 ef967df4-8c01-4d59-b265-5a9bd64ce851,04/24/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
+51bd9a48-6309-4a8c-9fc8-03781aa5a688,04/29/2026 23:01:00,BRC Shop Price Index (YoY),LOW,GBP
 f7167531-043e-4bca-a508-174b310fde37,04/30/2026 06:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP
 5919ae71-f4f9-416b-9a1e-12ecfe761ed5,04/30/2026 06:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP
 a57f69e2-32ac-492e-bd48-7cadd1a5318c,04/30/2026 08:30:00,Consumer Credit,LOW,GBP
@@ -475,7 +469,7 @@ f6a38bb0-99a8-419b-9f0f-b9ed9913827f,04/30/2026 11:00:00,BoE MPC Vote Rate Hike,
 52f92a5d-7274-4bf2-bd59-1e0b527160da,04/30/2026 11:30:00,BoE's Governor Bailey speech,HIGH,GBP
 3bc8fbf0-fb3f-47ab-8954-69b60e555831,05/01/2026 08:30:00,S&P Global Manufacturing PMI,LOW,GBP
 feb547ff-bf0e-4ca4-827e-7db0ae67d549,05/01/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
-14316ed6-cf8f-4926-8be4-eec9802752f0,05/03/2026 23:00:00,Early May,NONE,GBP
+f24e38e3-099d-4d2a-915b-f48958defee7,05/04/2026 23:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP
 59a7dbac-32d3-4f54-812d-2808efff4fa4,05/05/2026 08:30:00,S&P Global Composite PMI,LOW,GBP
 8d37e60b-ab71-420e-b25c-39746779601c,05/05/2026 08:30:00,S&P Global Services PMI,LOW,GBP
 703b2f50-4bbe-491c-9f73-4225a1bda917,05/06/2026 08:30:00,S&P Global Construction PMI,LOW,GBP
@@ -521,12 +515,14 @@ cc17ccaf-c891-487c-96ea-1a9280581490,05/20/2026 08:30:00,DCLG House Price Index 
 0f77311a-5174-4333-b0cb-87b1ee705192,05/21/2026 08:30:00,S&P Global Composite PMI,HIGH,GBP
 22eb93ef-4bfc-4236-a1cb-c5e6d75205b1,05/21/2026 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP
 397b7753-5b79-4513-a1e3-2638b68a6adf,05/21/2026 08:30:00,S&P Global Services PMI,HIGH,GBP
+a711c212-3fc0-4447-bdd0-9d0b7d533d85,05/21/2026 23:01:00,GfK Consumer Confidence,MEDIUM,GBP
 b00c99ad-c857-4b5b-a844-b281c4172e87,05/22/2026 06:00:00,Public Sector Net Borrowing,LOW,GBP
 e301abbc-5bc1-462f-8c1b-804889efb09c,05/22/2026 06:00:00,Retail Sales (MoM),HIGH,GBP
 ca562839-b9bf-42be-a5e4-e4db1c36784e,05/22/2026 06:00:00,Retail Sales (YoY),MEDIUM,GBP
 fc3e9a6a-d03f-409f-ba85-50833a7013f2,05/22/2026 06:00:00,Retail Sales ex-Fuel (MoM),MEDIUM,GBP
 f902effe-8fef-4f0a-8365-e7aa595ee3a4,05/22/2026 06:00:00,Retail Sales ex-Fuel (YoY),MEDIUM,GBP
 5abada10-08df-4366-98a5-977892eb048e,05/22/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
+c385a895-8942-46df-bb4f-7d7797d4b438,05/28/2026 23:01:00,BRC Shop Price Index (YoY),LOW,GBP
 1ec1fd6f-dd77-436b-abd2-ae1b91c2e56b,05/29/2026 06:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP
 a6503154-bb47-4023-9d6e-69d070c3a58d,05/29/2026 06:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP
 92bc079e-8972-456f-99dd-f71e6b70a633,05/29/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
@@ -542,6 +538,7 @@ af481e19-d5ce-4f92-934d-e4b8a19c82d2,06/03/2026 08:30:00,S&P Global Services PMI
 3aaf8787-d4f7-4510-8715-0275fc0d2cf8,06/05/2026 06:00:00,Halifax House Prices (MoM),LOW,GBP
 96819571-1e89-4bcf-97bd-a454b66b2aff,06/05/2026 06:00:00,Halifax House Prices (YoY/3m),LOW,GBP
 3cb25717-8c74-4d96-81e0-c51c5d9da70e,06/05/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
+236c02d2-bccf-4049-b2d3-95f979432e4e,06/08/2026 23:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP
 f6bf12ee-3f6a-4edd-900d-bd9b6d6e3d82,06/10/2026 23:01:00,RICS Housing Price Balance,LOW,GBP
 5fd91087-0c29-4340-b4f4-72a6b870c5c9,06/11/2026 06:00:00,Gross Domestic Product (MoM),MEDIUM,GBP
 da917775-7e7a-4e15-87ce-f03d6cea968f,06/12/2026 06:00:00,Goods Trade Balance,LOW,GBP
@@ -552,6 +549,7 @@ da917775-7e7a-4e15-87ce-f03d6cea968f,06/12/2026 06:00:00,Goods Trade Balance,LOW
 4e20fcf8-3fdd-4101-832f-683d47fbaf31,06/12/2026 06:00:00,Manufacturing Production (YoY),LOW,GBP
 e7808224-2de8-4eaf-86b7-f09ffc13b83b,06/12/2026 06:00:00,Total Trade Balance,LOW,GBP
 376f1ac9-8a52-4152-920d-c098717c24ab,06/12/2026 06:00:00,Trade Balance; non-EU,LOW,GBP
+80a3852f-6a3c-4f61-abcb-0bbde767e765,06/12/2026 08:30:00,Consumer Inflation Expectations,MEDIUM,GBP
 bf38210c-360a-44b9-b46c-130c374f8d6d,06/12/2026 11:00:00,NIESR GDP Estimate (3M),LOW,GBP
 e9ccfba5-36d6-4d8d-8172-f3d89647f093,06/12/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
 28c4675e-36fc-489f-83b7-a3312885cf31,06/14/2026 23:01:00,Rightmove House Price Index (MoM),LOW,GBP
@@ -580,6 +578,7 @@ aeab45a5-da8d-4b5f-b732-311d7e36d0dd,06/17/2026 06:00:00,Retail Price Index (YoY
 85972367-e114-4e0a-8d98-98908f90ab63,06/18/2026 11:00:00,BoE MPC Vote Rate Cut,HIGH,GBP
 6bb0b68c-29c8-4d7f-9aad-89ec1d26d2aa,06/18/2026 11:00:00,BoE MPC Vote Rate Hike,HIGH,GBP
 4cf95e0a-4e5f-4ca0-a271-7ad8281f5330,06/18/2026 11:00:00,BoE MPC Vote Rate Unchanged,HIGH,GBP
+7fce0724-0e2b-45c5-95f2-b52d899abda1,06/18/2026 23:01:00,GfK Consumer Confidence,MEDIUM,GBP
 4d4e801f-0333-443d-bbe1-278d70d7a74c,06/19/2026 06:00:00,Retail Sales (MoM),HIGH,GBP
 45706252-c704-401b-b646-fd0235774cc1,06/19/2026 06:00:00,Retail Sales (YoY),MEDIUM,GBP
 d88964f1-531a-49bd-9780-08509e55230e,06/19/2026 06:00:00,Retail Sales ex-Fuel (MoM),MEDIUM,GBP
@@ -590,6 +589,7 @@ f617368e-708e-4200-bfec-0bcd7a48731d,06/23/2026 06:00:00,Public Sector Net Borro
 eea6373b-75f7-4aa4-b7b6-34a4407a15fd,06/23/2026 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP
 f05db088-4bb2-4e5d-b3bd-ae88339dc18c,06/23/2026 08:30:00,S&P Global Services PMI,HIGH,GBP
 3f3a941f-9bc9-4a15-90d5-38ab0a0bf9b1,06/26/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
+89700c88-3df5-43e7-b8fd-3053829d9332,06/29/2026 23:01:00,BRC Shop Price Index (YoY),LOW,GBP
 10102caf-635a-4b5a-b572-3f042014638c,06/30/2026 06:00:00,Current Account,LOW,GBP
 f4efe6b0-2901-431b-a2ae-de65391a533c,06/30/2026 06:00:00,Gross Domestic Product (QoQ),HIGH,GBP
 ec4d9aba-7806-4975-a6ae-06d88dd665ca,06/30/2026 06:00:00,Gross Domestic Product (YoY),HIGH,GBP
@@ -607,6 +607,7 @@ e4611968-7e90-42d7-9d20-809bf8e5045a,07/01/2026 08:30:00,S&P Global Manufacturin
 25c0d7d5-a794-4f67-9622-77a869571116,07/03/2026 08:30:00,S&P Global Services PMI,LOW,GBP
 fae77ba6-6d78-4b48-9bdc-d5b23a68175c,07/03/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
 994fa952-07e0-48c6-ad63-e90d4d96a259,07/06/2026 08:30:00,S&P Global Construction PMI,LOW,GBP
+8b220551-246d-4b75-bfcf-c20d7e68835f,07/06/2026 23:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP
 2d27b828-1f5c-4bf3-b8d8-4fd4eacb2348,07/07/2026 06:00:00,Halifax House Prices (MoM),LOW,GBP
 beec13f9-85ef-4961-80b5-0cebd64abefe,07/07/2026 06:00:00,Halifax House Prices (YoY/3m),LOW,GBP
 c12fdb6b-eea6-4d0c-be49-071ecf919002,07/08/2026 23:01:00,RICS Housing Price Balance,LOW,GBP
@@ -647,6 +648,7 @@ f9999bab-a27d-43c9-84d4-537bd11fb64c,07/22/2026 06:00:00,Producer Price Index - 
 d6e5429e-2bad-47d8-a3a2-57be863ec90b,07/22/2026 06:00:00,Retail Price Index (MoM),MEDIUM,GBP
 66dfa341-4a11-4c57-abc3-76b98d773ce5,07/22/2026 06:00:00,Retail Price Index (YoY),MEDIUM,GBP
 35cbdc53-6f12-49e8-85ef-e5e2cdc23b0b,07/22/2026 08:30:00,DCLG House Price Index (YoY),LOW,GBP
+7e554e50-f2a3-47e2-b5c4-a5e28df19ac1,07/23/2026 23:01:00,GfK Consumer Confidence,MEDIUM,GBP
 50053521-0dfd-4e9e-9062-095ef4a905a5,07/24/2026 08:30:00,S&P Global Composite PMI,HIGH,GBP
 6edd0653-4656-4cb0-a8d8-eedd1b83206c,07/24/2026 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP
 c85f7f00-7a6b-40c4-a516-93f9b43ec721,07/24/2026 08:30:00,S&P Global Services PMI,HIGH,GBP
@@ -659,6 +661,7 @@ a7d30a75-32c5-4758-81a5-b92cc9cfbaf5,07/30/2026 11:00:00,BoE Monetary Policy Rep
 b1722e1b-9b42-43b4-9bf5-2121fdfbd5ac,07/30/2026 11:00:00,BoE MPC Vote Rate Hike,HIGH,GBP
 11b27115-4619-4de2-a0f8-59a0d6a887dc,07/30/2026 11:00:00,BoE MPC Vote Rate Unchanged,HIGH,GBP
 b90b67e0-8db3-42a6-9258-6c443786b0d8,07/30/2026 11:30:00,BoE's Governor Bailey speech,HIGH,GBP
+58c83b58-a2b4-49a6-9498-ef334931a23d,07/30/2026 23:01:00,BRC Shop Price Index (YoY),LOW,GBP
 72494b81-ff23-411f-a829-7dce363644d7,07/31/2026 06:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP
 691b37b7-da58-4ae3-8cbe-50fd3635edfa,07/31/2026 06:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP
 ea562825-5bfc-4cd6-881a-9060e8a6fb84,07/31/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
@@ -674,6 +677,7 @@ f9d594bf-6245-43ad-b1b4-0b430f649022,08/05/2026 08:30:00,S&P Global Composite PM
 d378decd-b56e-4c33-ace1-51ff667577d4,08/06/2026 06:00:00,Halifax House Prices (YoY/3m),LOW,GBP
 7e421772-6430-4d8d-a996-4884116d0c48,08/06/2026 08:30:00,S&P Global Construction PMI,LOW,GBP
 137f6db7-2b56-41a9-bef7-6b833a0be44b,08/07/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
+0da8a3d2-3ce7-4d97-83b5-9d074a7e6fff,08/10/2026 23:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP
 75a2b71e-f7a6-423b-ab45-456bb83cfbe1,08/12/2026 23:01:00,RICS Housing Price Balance,LOW,GBP
 b6ad9f8a-98c5-452e-82af-b518dbe67a57,08/13/2026 06:00:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
 02941cb5-d737-4df4-83b5-f021de1c3e1d,08/13/2026 06:00:00,Average Earnings Including Bonus (3Mo/Yr),MEDIUM,GBP
@@ -711,6 +715,7 @@ f708c951-317b-4741-bf6d-3b1f9b13bf1b,08/19/2026 06:00:00,Retail Price Index (MoM
 cb43ddf0-7714-43be-b6b8-e713d793bc84,08/19/2026 06:00:00,Retail Price Index (YoY),MEDIUM,GBP
 1198c97f-0395-4825-a0e5-aaef09993dfe,08/19/2026 08:30:00,DCLG House Price Index (YoY),LOW,GBP
 76d3f462-3f54-4ac6-9e55-8a636d9a8b14,08/20/2026 06:00:00,Public Sector Net Borrowing,LOW,GBP
+5fafd2f3-4278-4644-aa33-7647c4e7ff9f,08/20/2026 23:01:00,GfK Consumer Confidence,MEDIUM,GBP
 4fc90060-f20f-4dfc-adbe-f179eae9eb4b,08/21/2026 06:00:00,Retail Sales (MoM),HIGH,GBP
 886ab849-bc95-453e-9600-f6329c5e9f3e,08/21/2026 06:00:00,Retail Sales (YoY),MEDIUM,GBP
 c2695a09-3174-4fae-a2f8-7d7520564260,08/21/2026 06:00:00,Retail Sales ex-Fuel (MoM),MEDIUM,GBP
@@ -720,7 +725,6 @@ c2695a09-3174-4fae-a2f8-7d7520564260,08/21/2026 06:00:00,Retail Sales ex-Fuel (M
 8dcae26e-a244-47f9-b80d-e9188db34145,08/21/2026 08:30:00,S&P Global Services PMI,HIGH,GBP
 2284ad08-0751-40b9-8fd1-b3fb71a634ad,08/21/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
 f0f46116-4975-4f83-8d4a-a0b31305d2bd,08/28/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
-925d6f30-550c-4e32-b075-d6ff6ac08cd5,08/30/2026 23:00:00,Summer Bank Holiday,NONE,GBP
 2d99654d-ba1e-40be-a906-9ad23b90c522,08/31/2026 06:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP
 e4ba0f5d-cf24-496e-abcf-2d6e07486636,08/31/2026 06:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP
 f0d30c19-4941-4e52-becc-cee07b0d560e,08/31/2026 08:30:00,Consumer Credit,LOW,GBP
@@ -728,6 +732,7 @@ e0e0c7f2-4d1f-4ea0-b7b6-0ebbefa1e4fb,08/31/2026 08:30:00,M4 Money Supply (MoM),L
 be3f67b0-d22b-44b8-a6f4-be2eb6b08d9d,08/31/2026 08:30:00,M4 Money Supply (YoY),LOW,GBP
 b3941392-10cd-4e9c-a70e-f7c6ca15e6fe,08/31/2026 08:30:00,Mortgage Approvals,LOW,GBP
 9bbaf5a6-7868-49c5-82a9-e74ab54cd0d6,08/31/2026 08:30:00,Net Lending to Individuals (MoM),LOW,GBP
+5f0937ba-244f-4c6e-8804-612410cfbd67,08/31/2026 23:01:00,BRC Shop Price Index (YoY),LOW,GBP
 8fbd6130-621e-4962-a499-5b611c7a67d6,09/01/2026 08:30:00,S&P Global Manufacturing PMI,LOW,GBP
 3a4ae99d-0769-4d20-951c-75f36d9a58c1,09/03/2026 08:30:00,S&P Global Composite PMI,LOW,GBP
 2a16ed72-dfc5-4a19-beee-85ae0580513e,09/03/2026 08:30:00,S&P Global Services PMI,LOW,GBP
@@ -745,8 +750,10 @@ ebcd4e70-2ec5-44fa-885b-77adc36127c2,09/11/2026 06:00:00,Industrial Production (
 c3abce82-e12c-465c-b28c-f596c1e44614,09/11/2026 06:00:00,Manufacturing Production (YoY),LOW,GBP
 f643622a-3248-46b6-8bc5-ce6558004517,09/11/2026 06:00:00,Total Trade Balance,LOW,GBP
 4ad67ae0-883f-486e-9734-59679fe66f11,09/11/2026 06:00:00,Trade Balance; non-EU,LOW,GBP
+df5b6899-53c8-47aa-ab9d-e427e8d19907,09/11/2026 08:30:00,Consumer Inflation Expectations,MEDIUM,GBP
 b985232f-90a4-4f1f-8e06-67aa81ac5ca5,09/11/2026 11:00:00,NIESR GDP Estimate (3M),LOW,GBP
 56c6eb8b-2dc0-45b2-8b2b-6365c702390f,09/11/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
+1ed09b70-877b-468b-bdff-1350a7e1792a,09/14/2026 23:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP
 5b154396-8236-4145-b47e-fb04fedbfa19,09/15/2026 06:00:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
 a17953a0-3f19-4d04-86f6-de9cff58f5c8,09/15/2026 06:00:00,Average Earnings Including Bonus (3Mo/Yr),MEDIUM,GBP
 778a30c8-6ffe-449d-932d-b02d820807a3,09/15/2026 06:00:00,Claimant Count Change,HIGH,GBP
@@ -782,6 +789,7 @@ fd082c2d-6626-4ebe-8238-796f5e96a06f,09/20/2026 23:01:00,Rightmove House Price I
 8c7d0b11-ef4e-41e6-8715-9e307c03f3d7,09/22/2026 08:30:00,S&P Global Composite PMI,HIGH,GBP
 5b5bd3f6-cfe3-4f4f-a9e3-33fd581fb366,09/22/2026 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP
 08180bcc-44cf-406a-973e-66758e05c0e4,09/22/2026 08:30:00,S&P Global Services PMI,HIGH,GBP
+a3b54d8a-fcfc-4253-873b-ae0f35d076f2,09/24/2026 23:01:00,GfK Consumer Confidence,MEDIUM,GBP
 13a04d65-130f-43bb-b325-c9053d2e1a80,09/25/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
 901441fd-f652-4be6-afce-f4cc42806ae0,09/29/2026 06:00:00,Gross Domestic Product (QoQ),HIGH,GBP
 4a083ad3-c77d-4d5a-b983-6c1c64e0e920,09/29/2026 06:00:00,Gross Domestic Product (YoY),HIGH,GBP
@@ -792,6 +800,7 @@ bd820afe-aa05-49e0-8220-6393c73fab3e,09/29/2026 08:30:00,Consumer Credit,LOW,GBP
 ac4d4e23-7209-4d63-ac6c-4ccfb3a0c039,09/29/2026 08:30:00,M4 Money Supply (YoY),LOW,GBP
 4a7375cd-8399-4b4b-b764-3b5cda3c259a,09/29/2026 08:30:00,Mortgage Approvals,LOW,GBP
 eb07ba1e-f0f7-473a-8704-9ff8e7b8f6c0,09/29/2026 08:30:00,Net Lending to Individuals (MoM),LOW,GBP
+542de4f9-92ff-419a-baca-64d1c8739164,09/29/2026 23:01:00,BRC Shop Price Index (YoY),LOW,GBP
 33398440-b002-48a0-8037-1a9dc4219d25,09/30/2026 06:00:00,Current Account,LOW,GBP
 ea12b895-fd0f-411c-8234-fba9e75433d2,09/30/2026 06:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP
 6d80cc37-b00a-4645-b765-c3cde6fa862a,09/30/2026 06:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP
@@ -803,6 +812,7 @@ c5359a4e-475f-44ad-942c-a56bad91ae98,10/05/2026 08:30:00,S&P Global Composite PM
 afabfe00-ec93-4e56-bc54-79a8cb9105d4,10/08/2026 06:00:00,Halifax House Prices (MoM),LOW,GBP
 899f110c-d6e1-4cbc-b630-c76d3040f3ac,10/08/2026 06:00:00,Halifax House Prices (YoY/3m),LOW,GBP
 c5ec23ed-d05e-4979-8965-e78ac5a79b36,10/09/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
+1d5a44a5-7b52-40b5-8d79-05f497c9dcf6,10/12/2026 23:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP
 cbf57517-1655-4bda-b85f-db6b0833e2cb,10/13/2026 06:00:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
 983217b1-2999-4794-8460-993f5903d30c,10/13/2026 06:00:00,Average Earnings Including Bonus (3Mo/Yr),MEDIUM,GBP
 5ccf44c5-efff-4308-afcb-a4c5fabc10a2,10/13/2026 06:00:00,Claimant Count Change,HIGH,GBP
@@ -830,11 +840,17 @@ e4fb558f-0675-4631-adc4-066bf13fba21,10/21/2026 06:00:00,Core Consumer Price Ind
 bf0d51a4-4c0b-4a24-af74-d55d44b20ced,10/21/2026 06:00:00,Retail Price Index (YoY),MEDIUM,GBP
 db041505-fc75-45e5-a6a4-ef5a8be25c02,10/21/2026 08:30:00,DCLG House Price Index (YoY),LOW,GBP
 fd67442c-cf5b-4fd5-a990-a731732b2e18,10/22/2026 06:00:00,Public Sector Net Borrowing,LOW,GBP
+b8907aa7-59b3-4e76-8072-c7a1efc9121b,10/22/2026 23:01:00,GfK Consumer Confidence,MEDIUM,GBP
+20649167-422a-4f73-be26-e8fa16e19360,10/23/2026 06:00:00,Retail Sales (MoM),HIGH,GBP
+c628aac7-fd61-45a8-b6fa-979075b65bae,10/23/2026 06:00:00,Retail Sales (YoY),MEDIUM,GBP
+7b27b5fd-8981-45c5-bfe7-6ae2543fea70,10/23/2026 06:00:00,Retail Sales ex-Fuel (MoM),MEDIUM,GBP
+929ed0fc-fba5-428b-9b2a-6fa145a16bcd,10/23/2026 06:00:00,Retail Sales ex-Fuel (YoY),MEDIUM,GBP
 453f2afb-18a4-4ae8-9113-630427fec44b,10/23/2026 08:30:00,S&P Global Composite PMI,HIGH,GBP
 cdd54880-a534-4d7e-8a83-1bd621ffec85,10/23/2026 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP
 c0edb875-9ab3-4d8b-bf26-d037e839d684,10/23/2026 08:30:00,S&P Global Services PMI,HIGH,GBP
 ae1d9dda-b78d-4721-b265-a4fc328a62bb,10/23/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
 585a104e-2bb2-4da2-b3f3-351c4b47a285,10/25/2026 02:00:00,Daylight Saving Time ends,NONE,GBP
+5f4f7ce8-82a2-49fa-8954-8eedd8370fdd,10/29/2026 00:01:00,BRC Shop Price Index (YoY),LOW,GBP
 8f9153ca-434a-48f4-bec5-0b784c169fc3,10/30/2026 07:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP
 ecdffecc-e012-410d-8f0b-bc82666db6a8,10/30/2026 07:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP
 497810b9-c908-4a6d-934f-66e5ba37a93b,10/30/2026 09:30:00,Consumer Credit,LOW,GBP

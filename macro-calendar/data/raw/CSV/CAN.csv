@@ -1,7 +1,4 @@
 Id,Start,Name,Impact,Currency
-37462c21-3086-4324-b167-8b03729a4dd0,10/14/2025 12:30:00,Building Permits (MoM),LOW,CAD
-ab7e3951-5883-4a16-bc7a-69328e20bf28,10/15/2025 12:30:00,Manufacturing Sales (MoM),LOW,CAD
-02c7c9b2-a456-4b8f-80af-94ae280e55e8,10/15/2025 12:30:00,Wholesale Sales (MoM),LOW,CAD
 8b3e99a0-2c61-493d-9e3b-319bf745051b,10/16/2025 12:15:00,Housing Starts s.a (YoY),LOW,CAD
 f2b72c38-02d4-4a3d-b27a-81899cbd6004,10/16/2025 17:30:00,BoC's Governor Macklem speech,HIGH,CAD
 463c76bc-48c3-4601-8e33-be2bcc4f9703,10/17/2025 12:30:00,Canadian Portfolio Investment in Foreign Securities,LOW,CAD
@@ -36,7 +33,6 @@ a3b7110d-52f7-4744-b5ca-808de4db0145,11/06/2025 15:00:00,Ivey Purchasing Manager
 5bea291d-442d-4a70-b377-f4744ce75180,11/07/2025 13:30:00,Net Change in Employment,HIGH,CAD
 d37f3ff0-3d47-40d9-8cbe-69c972546280,11/07/2025 13:30:00,Participation Rate,LOW,CAD
 905c7acb-647d-4900-bc45-4e8a57e06686,11/07/2025 13:30:00,Unemployment Rate,HIGH,CAD
-851ca650-99ff-4f3b-b923-41d337f66572,11/11/2025 05:00:00,Remembrance Day,NONE,CAD
 ad38eb75-f593-4c71-aa94-305dbe838aa0,11/12/2025 13:30:00,Building Permits (MoM),LOW,CAD
 066eb529-d712-4f1a-91e6-1cfd44b2fa1e,11/12/2025 18:30:00,BoC Summary of Deliberations,MEDIUM,CAD
 4ef5d23b-7af6-4655-a278-91db37fa4c74,11/14/2025 13:30:00,Manufacturing Sales (MoM),LOW,CAD
@@ -94,9 +90,6 @@ b917201b-8c2f-4d80-92f7-e0b880b79116,12/22/2025 13:30:00,New Housing Price Index
 01b1746d-2d78-41b8-89e1-fd09ed02aa94,12/22/2025 13:30:00,Raw Material Price Index,LOW,CAD
 227d5df3-50c6-47f4-93bb-713e07cbb2d9,12/23/2025 13:30:00,Gross Domestic Product (MoM),MEDIUM,CAD
 4b51f295-3b4b-46f3-a143-21a7267bfefd,12/23/2025 18:30:00,BoC Summary of Deliberations,MEDIUM,CAD
-220e2fcb-6fe0-44e4-bccb-4d0ed9affa01,12/25/2025 05:00:00,Christmas Day,NONE,CAD
-c93292a4-71c3-46a9-bc7b-109ebc1214d9,12/26/2025 05:00:00,Boxing Day,NONE,CAD
-6567d4c0-9d2a-4902-b675-4d7a32385b3f,01/01/2026 05:00:00,New Year's Day,NONE,CAD
 2efb70c2-7d2f-4f72-93ea-c3981aa3d7d1,01/02/2026 14:30:00,S&P Global Manufacturing PMI,MEDIUM,CAD
 8c901dc9-e881-4d84-89c9-1724c87c0075,01/06/2026 15:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD
 620bd571-ea04-49d3-b469-4fc472e57ed1,01/06/2026 15:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD
@@ -144,7 +137,6 @@ eba246cd-0593-4869-bfbe-45090c6083a2,02/06/2026 13:30:00,Average Hourly Wages (Y
 7e7c792c-50a8-4ee6-b988-902cd5c9d88a,02/13/2026 13:30:00,Building Permits (MoM),LOW,CAD
 f55c0245-5a77-44df-a65c-02c04bc59061,02/13/2026 13:30:00,Manufacturing Sales (MoM),LOW,CAD
 e07ef337-0919-4a87-a526-63ef07870266,02/13/2026 13:30:00,Wholesale Sales (MoM),LOW,CAD
-a6fcfb25-ee66-4e95-9f6e-afa7a4951e85,02/16/2026 05:00:00,Family Day,NONE,CAD
 c6535907-5fb2-4056-880e-3af8cf82365e,02/16/2026 13:15:00,Housing Starts s.a (YoY),LOW,CAD
 549c9e3d-9e1a-4fc2-94eb-46305d25cbc4,02/16/2026 13:30:00,BoC Consumer Price Index Core (MoM),MEDIUM,CAD
 caf53858-0e02-4576-b4a0-b3ef5bc77d2a,02/16/2026 13:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD
@@ -200,8 +192,6 @@ a1b0dc94-84a2-4df1-b773-ea6f99fd38c9,03/20/2026 12:30:00,New Housing Price Index
 6322b64b-0853-4709-9643-d1750974e5b4,03/20/2026 12:30:00,Retail Sales ex Autos (MoM),MEDIUM,CAD
 9ff2dc29-e611-4cc2-a721-c6b598cdc652,03/27/2026 12:30:00,Gross Domestic Product (MoM),MEDIUM,CAD
 3ce81da2-c6ca-438b-a0c5-668bd2138469,04/01/2026 13:30:00,S&P Global Manufacturing PMI,MEDIUM,CAD
-52124f32-65df-4514-8490-7496e3b95d3f,04/03/2026 05:00:00,Good Friday,NONE,CAD
-badb59d5-bd3a-428c-8e25-7b450876fe82,04/06/2026 05:00:00,Easter Monday,NONE,CAD
 928457b6-302f-4465-b18e-2087219c1941,04/07/2026 12:30:00,Exports,LOW,CAD
 1a0b6416-fc0c-4437-a8e2-ce02967bbf17,04/07/2026 12:30:00,Imports,LOW,CAD
 97ebb610-686b-439e-a88b-2cd1b7b69619,04/07/2026 12:30:00,International Merchandise Trade,LOW,CAD
@@ -253,7 +243,6 @@ e9cf0378-86b6-417b-80ff-cc45ec58ce36,05/14/2026 12:30:00,Consumer Price Index (M
 a655e207-ec31-41be-9d1e-36d1e60dccd9,05/14/2026 12:30:00,Consumer Price Index (YoY),HIGH,CAD
 69cef433-3f88-4f1d-a8fd-822544dd9c9e,05/15/2026 12:30:00,Manufacturing Sales (MoM),LOW,CAD
 a0b3cdb4-320f-4439-b0f3-72c4f7b11227,05/15/2026 12:30:00,Wholesale Sales (MoM),LOW,CAD
-9788df16-fd9f-4c25-a2c7-3033d7365706,05/18/2026 05:00:00,Victoria Day,NONE,CAD
 34d491e3-d929-49bf-94d9-e6590c48349e,05/18/2026 12:15:00,Housing Starts s.a (YoY),LOW,CAD
 d9188e8a-5799-43fe-8832-343c6fa05748,05/18/2026 12:30:00,Canadian Portfolio Investment in Foreign Securities,LOW,CAD
 d3d127d9-5323-4699-8246-029985c80741,05/18/2026 12:30:00,Foreign Portfolio Investment in Canadian Securities,LOW,CAD
@@ -303,7 +292,6 @@ cab75f14-3228-45f8-8501-ba5c4f77e9f8,06/24/2026 12:30:00,New Housing Price Index
 ad19c73e-9f3e-444a-b0de-0d142cb2662a,06/24/2026 12:30:00,Retail Sales (MoM),MEDIUM,CAD
 882fa73c-1da3-4ff2-86cc-145ac076596c,06/24/2026 12:30:00,Retail Sales ex Autos (MoM),MEDIUM,CAD
 2bfe4549-1520-40aa-82d6-a11295d44cb1,06/30/2026 12:30:00,Gross Domestic Product (MoM),MEDIUM,CAD
-3db00a49-7d3a-4b65-8f26-d954cac70078,07/01/2026 05:00:00,Canada Day,NONE,CAD
 be4a9672-425a-4b16-aa35-6eb854155888,07/01/2026 13:30:00,S&P Global Manufacturing PMI,MEDIUM,CAD
 31dae276-0267-405b-adbf-20b4c61b8bc1,07/06/2026 14:30:00,Bank of Canada Business Outlook Survey,MEDIUM,CAD
 878ff5c6-fe72-4bb0-b065-3047d76561de,07/07/2026 12:30:00,Exports,LOW,CAD
@@ -338,7 +326,6 @@ a19f8fa9-29b9-446e-8bd9-6562443bc82e,07/24/2026 12:30:00,New Housing Price Index
 5aa6542f-7e1b-4459-8a9c-6f04f64aa545,07/24/2026 12:30:00,Retail Sales (MoM),MEDIUM,CAD
 f6e25421-dfef-4d4a-9750-24764a156bf1,07/24/2026 12:30:00,Retail Sales ex Autos (MoM),MEDIUM,CAD
 bdc3b376-32ae-4b6a-8c2e-8df576af3154,07/31/2026 12:30:00,Gross Domestic Product (MoM),MEDIUM,CAD
-d08cf0fa-dac9-4f2e-b720-1b6168dd9e8b,08/03/2026 05:00:00,August Civic Holiday,NONE,CAD
 d4922b58-3c89-4e23-a681-789cc41b2817,08/03/2026 13:30:00,S&P Global Manufacturing PMI,MEDIUM,CAD
 b9ca29e0-6e44-4fa6-8eda-89f77b28ed33,08/06/2026 12:30:00,Exports,LOW,CAD
 a9d45df1-2ebc-4200-bed2-f20b88ceb2cd,08/06/2026 12:30:00,Imports,LOW,CAD
@@ -379,7 +366,6 @@ ddf40a44-eacb-41ee-90b6-621b677e7518,09/02/2026 13:45:00,BoC Monetary Policy Sta
 352d37b0-8b8c-4e8a-9748-bd89ec19dcb4,09/03/2026 12:30:00,Exports,LOW,CAD
 8c0c4f86-33e5-432e-9a26-a2940c7b07be,09/03/2026 12:30:00,Imports,LOW,CAD
 beb6a696-183d-44cf-9d11-33b2ce405549,09/03/2026 12:30:00,International Merchandise Trade,LOW,CAD
-834170a1-a7e4-4e8d-a0ef-620409179439,09/07/2026 05:00:00,Labor Day,NONE,CAD
 2cb4b718-4aa3-4aa7-86e5-301aa49a5a2f,09/08/2026 14:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD
 af2143e3-beb1-46cd-9792-95f9fef11e92,09/08/2026 14:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD
 839db2e9-dfcc-4dc8-a4f2-2141ead23226,09/11/2026 12:30:00,Average Hourly Wages (YoY),MEDIUM,CAD
@@ -416,7 +402,6 @@ f6846434-0b31-4e85-a23e-1dd3bad16389,10/06/2026 12:30:00,International Merchandi
 beb43555-5621-4b3b-8c5b-6110443e9ce7,10/09/2026 12:30:00,Net Change in Employment,MEDIUM,CAD
 d94b70a4-94d7-427a-b74e-e7e5743610ac,10/09/2026 12:30:00,Participation Rate,LOW,CAD
 407585b8-2351-4d13-b0bd-2ff8ae3ec458,10/09/2026 12:30:00,Unemployment Rate,HIGH,CAD
-a70a3baf-f16f-4bb0-8e7a-a906ddb6d352,10/12/2026 05:00:00,Thanksgiving Day,NONE,CAD
 b9267ff4-62be-4507-b351-87608f633cb8,10/14/2026 12:30:00,Building Permits (MoM),LOW,CAD
 6b8b796d-75e9-4f1b-a9fa-033ffa44aefb,10/15/2026 12:15:00,Housing Starts s.a (YoY),LOW,CAD
 0bcef3c0-08bc-45fd-9e3b-dea851b2593f,10/15/2026 12:30:00,BoC Consumer Price Index Core (MoM),MEDIUM,CAD

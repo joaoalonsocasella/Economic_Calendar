@@ -1,7 +1,6 @@
 Id,Start,Name,Impact,Currency
 644a5f45-a318-4f3c-b674-8a14de1e9ec8,10/20/2025 08:30:00,Unemployment rate,LOW,HKD
 7270b934-fa24-4365-911b-427232bdac53,10/23/2025 08:30:00,Consumer Price Index,LOW,HKD
-f34c4fb7-062a-417d-8a4f-2182f94c2e0a,10/28/2025 16:00:00,Chung Yeung Festival,NONE,HKD
 e619f958-f378-4a55-a6af-dccc6a182d6e,10/31/2025 08:30:00,Retail Sales,LOW,HKD
 c0032327-8ce3-44ca-84a8-54a6dfeec73c,11/05/2025 00:30:00,S&P Global PMI,LOW,HKD
 0a088556-2b9a-4f9d-aade-3d25241070ef,11/14/2025 08:30:00,Gross Domestic Product (QoQ),LOW,HKD
@@ -12,32 +11,9 @@ c012c280-4bfe-4ca4-ade2-19bb45fa13e5,12/01/2025 08:30:00,Retail Sales,LOW,HKD
 a56b1d32-ed6e-48d4-8cab-378b13396b30,12/04/2025 00:30:00,S&P Global PMI,LOW,HKD
 599a2eeb-99b1-4491-a82b-96c6345a5113,12/16/2025 08:30:00,Unemployment rate,LOW,HKD
 21d39639-1566-4267-a0af-85668abe3f86,12/22/2025 08:30:00,Consumer Price Index,LOW,HKD
-aa693733-ac06-4cb3-ae06-62e65ff3fb0f,12/24/2025 16:00:00,Christmas Day,NONE,HKD
-8378e4ae-4308-4dd3-bc25-12e6d7a209c2,12/25/2025 16:00:00,Boxing day,NONE,HKD
-d54ca375-07be-45e0-81ab-d1796693cc4f,12/25/2025 16:00:00,The first weekday after Christmas Day,NONE,HKD
-95b1a5ed-52b9-470e-b56b-590adfbbd0d3,12/30/2025 16:00:00,New Year's Holiday,NONE,HKD
-fa11a7a6-217a-4c15-bf52-d845058f7584,12/31/2025 16:00:00,New Year's Day,NONE,HKD
 07558c86-f8ea-44ce-ba6c-be8f8fcb98de,01/02/2026 08:30:00,Retail Sales,LOW,HKD
 f5d7e427-a8f0-47cc-b186-7705acc33efd,01/05/2026 00:30:00,S&P Global PMI,LOW,HKD
 3497870d-7c62-4568-ba5c-64e345f8e42b,01/19/2026 08:30:00,Unemployment rate,LOW,HKD
 7c605648-926c-4633-a916-d6b23af30baa,01/22/2026 08:30:00,Consumer Price Index,LOW,HKD
-de789f01-e833-4ae6-b337-8f2d383a9dba,02/16/2026 16:00:00,Lunar New Year,NONE,HKD
-0d28e552-4544-4e2f-a1bd-ac8d16eb5eea,02/17/2026 16:00:00,Lunar New Year,NONE,HKD
-97a8bc3b-6622-45e4-a644-5dadf0537502,02/18/2026 16:00:00,Lunar New Year,NONE,HKD
 1d392e5e-97e8-4e6f-b560-cd114d668485,02/25/2026 08:30:00,Gross Domestic Product (QoQ),LOW,HKD
 4b1afd41-a6a4-440f-ba88-a23fe065112c,02/25/2026 08:30:00,Gross Domestic Product (YoY),LOW,HKD
-4dbb8050-24fd-40e4-8511-98c3ae561487,04/02/2026 16:00:00,Good friday,NONE,HKD
-5b11c5a8-52e8-4a9e-9a66-67e711304350,04/03/2026 16:00:00,The day following Good Friday,NONE,HKD
-b142d4a6-7f1b-47c4-88f0-c8f6dc45e73b,04/04/2026 16:00:00,Ching Ming festival,NONE,HKD
-d8412989-aaaa-4fc4-afb6-172b9743809d,04/04/2026 16:00:00,The day following Ching Ming Festival,NONE,HKD
-8505f71b-937a-4aef-b278-9d47be5770b3,04/05/2026 16:00:00,Easter Monday,NONE,HKD
-6ab6babc-a0f2-4849-8015-c41a844794c4,04/06/2026 16:00:00,The day following Easter Monday,NONE,HKD
-652fe6a2-2843-45aa-931a-2a28688fb24c,04/30/2026 16:00:00,Labour Day,NONE,HKD
-e1080faa-0375-4e2b-9fbc-4f75b11306ee,05/23/2026 16:00:00,The Birthday of the Buddha,NONE,HKD
-ef8987d9-8101-465f-a748-f465b8c90810,06/18/2026 16:00:00,Dragon Boat Festival,NONE,HKD
-a39ba660-20c6-4cfb-a26d-45b4bc80a03a,06/18/2026 16:00:00,Tuen Ng Festival,NONE,HKD
-a32345b3-876c-45c9-aeb0-4081715f07cc,06/30/2026 16:00:00,Hong Kong Special Administrative Region Establishment Day,NONE,HKD
-f9dc9a20-c975-49db-bc86-c83f0be32d7e,09/24/2026 16:00:00,Chinese Mid Autumn Festival,NONE,HKD
-ee90704c-74c5-42f3-bac5-9e239aae0ce5,09/25/2026 16:00:00,The day following the Chinese Mid-Autumn Festival,NONE,HKD
-7e3d2d2c-6b41-45d7-ac1b-3fcf37e86a0c,09/30/2026 16:00:00,National Day,NONE,HKD
-c0847e60-88a3-448c-87a6-1347a84fc019,10/18/2026 16:00:00,Chung Yeung Festival,NONE,HKD

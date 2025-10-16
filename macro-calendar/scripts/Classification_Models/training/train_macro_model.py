@@ -8,7 +8,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.metrics import classification_report, accuracy_score
 import re
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
 DATASET_PATH = os.path.join(BASE_DIR, "data","datasets","ec_calend_1418_labeled.xlsx")
 MODEL_DIR = os.path.join(BASE_DIR,"data","models")
 MODEL_PATH = os.path.join(MODEL_DIR, "macro_model.pkl")

@@ -14,7 +14,7 @@ from datetime import datetime
 BASE_URL = "https://joaoalonsocasella.github.io/Economic_Calendar/macro-calendar/data/raw/ICS"
 GLOBAL_URL = "https://joaoalonsocasella.github.io/Economic_Calendar/macro-calendar/data/processed/calendar.ics"
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 INPUT_DIR = os.path.join(BASE_DIR, "..", "data", "raw", "ICS")
 OUTPUT_HTML = os.path.join(BASE_DIR, "..", "..", "index.html")
 

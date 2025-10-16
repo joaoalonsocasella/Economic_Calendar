@@ -1,7 +1,4 @@
 Id,Start,Name,Impact,Currency
-2fe93353-46de-4c46-809b-8145c5ccb8ef,10/15/2025 06:45:00,Consumer Price Index (EU norm) (MoM),LOW,EUR
-757e6b27-ca20-41a9-b2e2-35853bd8ef3b,10/15/2025 06:45:00,Consumer Price Index (EU norm) (YoY),MEDIUM,EUR
-1d524063-41ff-4790-a479-163ab9b336e1,10/15/2025 06:45:00,Inflation ex-tobacco (MoM),LOW,EUR
 da8b11c9-cc6a-4fb9-b936-f992a0fb4e01,10/24/2025 06:45:00,Business Climate in Manufacturing,LOW,EUR
 885dcc85-83a2-4279-9089-ccb13621e594,10/24/2025 06:45:00,Consumer Confidence,LOW,EUR
 ebf08745-72fe-4307-99fb-d654ed7b4395,10/24/2025 07:15:00,HCOB Composite PMI,MEDIUM,EUR
@@ -12,7 +9,6 @@ ebf08745-72fe-4307-99fb-d654ed7b4395,10/24/2025 07:15:00,HCOB Composite PMI,MEDI
 c109a9d0-2d54-4b06-a648-e1f25f1469cb,10/31/2025 07:45:00,Consumer Price Index (EU norm) (YoY),MEDIUM,EUR
 c97d4876-bf82-4417-a67b-9bc8292d9a07,10/31/2025 07:45:00,Consumer Spending (MoM),LOW,EUR
 45d6afbf-1da2-4640-b642-3e548ff40cf2,10/31/2025 07:45:00,Producer Prices (MoM),LOW,EUR
-aee13ea8-e241-4b8a-bcee-99fd67bf77a2,10/31/2025 23:00:00,All Saints' Day,NONE,EUR
 b87d20a7-710e-4a5f-a53a-973daef3d331,11/03/2025 08:50:00,HCOB Manufacturing PMI,LOW,EUR
 a953aa39-7541-4827-97a9-a0f949d4ecc6,11/04/2025 07:45:00,Budget Balance,LOW,EUR
 6273bdfe-ae63-45bf-a701-ee116c6623c4,11/05/2025 07:45:00,Industrial Output (MoM),LOW,EUR
@@ -23,7 +19,6 @@ ff2c2902-30bc-40d9-a038-8c4fcb92b0a4,11/07/2025 07:45:00,"Exports, EUR",LOW,EUR
 529e5dca-e589-403b-b1a0-a59609a864ec,11/07/2025 07:45:00,"Imports, EUR",LOW,EUR
 2951939c-a195-42b2-83e4-76d2c872cf0f,11/07/2025 07:45:00,Nonfarm Payrolls (QoQ),LOW,EUR
 1402e045-6687-415f-8fcd-a740eddf3823,11/07/2025 07:45:00,Trade Balance EUR,LOW,EUR
-132eb32a-2012-4f6d-8e3c-30a30b8bcb22,11/10/2025 22:00:00,Armistice Day,NONE,EUR
 a0833459-bd6d-43d0-a04e-25c287366ced,11/14/2025 07:45:00,Consumer Price Index (EU norm) (MoM),LOW,EUR
 b7ef3ca6-6553-42c7-a4a4-44d518b97e7a,11/14/2025 07:45:00,Consumer Price Index (EU norm) (YoY),MEDIUM,EUR
 862280db-cc7d-431e-90ea-0fd38596b2ed,11/14/2025 07:45:00,Inflation ex-tobacco (MoM),LOW,EUR
@@ -56,9 +51,6 @@ e4a699f6-8efe-4dda-afcc-75974efe7e67,12/16/2025 08:15:00,HCOB Composite PMI,MEDI
 44a4b273-6133-432a-aed0-61d2b3b4b31e,12/16/2025 08:15:00,HCOB Services PMI,MEDIUM,EUR
 fecf2728-b76a-408c-be7f-aa6e0dab991e,12/19/2025 07:45:00,Business Climate in Manufacturing,LOW,EUR
 6cc96e52-143d-4fef-87c9-6b4c817a3fab,12/19/2025 07:45:00,Producer Prices (MoM),LOW,EUR
-ff390aa1-bdd2-426c-b6c7-8b7adb3fb54e,12/24/2025 22:00:00,Christmas Day,NONE,EUR
-f6e60ba3-d6b2-4031-a8bd-4793b2d69ae8,12/25/2025 22:00:00,Boxing Day,NONE,EUR
-c88b0760-0c52-4e46-b030-a397145d1962,12/31/2025 23:00:00,New Year's Day,NONE,EUR
 8047600d-e06d-4c0f-9820-251cf3e68573,01/02/2026 07:45:00,Consumer Price Index (EU norm) (MoM),LOW,EUR
 570743bb-22f1-4a6f-8e57-ffdfccad4b3b,01/02/2026 07:45:00,Consumer Price Index (EU norm) (YoY),MEDIUM,EUR
 b7e72cb6-ac59-4cd4-98d1-d5dd9110e4f9,01/02/2026 08:50:00,HCOB Manufacturing PMI,LOW,EUR
@@ -89,10 +81,3 @@ b168043e-360c-495a-86ba-c1a4400aa3d9,02/06/2026 07:45:00,Nonfarm Payrolls (QoQ),
 7e16da51-ba6c-4323-b6cd-89e24947a361,02/11/2026 06:30:00,ILO Unemployment,LOW,EUR
 26714991-621e-4ae4-bd58-72ea71a99b5d,02/27/2026 07:45:00,Gross Domestic Product (QoQ),LOW,EUR
 6fb41932-e9a5-4f90-b3ae-8c10da1b0397,02/27/2026 07:45:00,Nonfarm Payrolls (QoQ),LOW,EUR
-d5cb359c-5cdd-48cb-b865-52b020098dcd,04/05/2026 22:00:00,Easter Monday,NONE,EUR
-f8a270e4-94c2-4446-9c6a-22517d65ad06,04/30/2026 22:00:00,"Labour Day ",NONE,EUR
-d1dc5203-8992-4dc6-8b72-7e15ef45eb9e,05/07/2026 22:00:00,Victory in Europe Day,NONE,EUR
-ecf58257-0f88-4fec-ba06-39893da0830a,05/24/2026 22:00:00,"Whit Monday ",NONE,EUR
-816e3ac2-840e-4b36-bd78-93e1c7a859ad,07/13/2026 22:00:00,Bastille Day,NONE,EUR
-97dcfe39-039f-4efb-85ab-2e04ed98ed0f,08/14/2026 22:00:00,Assumption Day,NONE,EUR
-beedf6cd-daae-4d16-9210-de348e0afbe4,10/31/2026 23:00:00,All Saints' Day,NONE,EUR

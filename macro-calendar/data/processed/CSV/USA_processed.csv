@@ -1,45 +1,16 @@
 ﻿Id,Start,Name,Impact,Currency,MacroCateg
-7de52266-c002-4195-b3a5-130057cf7c28,10/14/2025 10:00:00,NFIB Business Optimism Index,LOW,USD,Confidence
-7b603f67-6f05-40be-b47a-00b45df2b0e0,10/14/2025 12:45:00,Fed's Bowman speech,MEDIUM,USD,Monetary Policy
-089c78cd-d4e6-4a17-99c5-764535ac966f,10/14/2025 12:55:00,Redbook Index (YoY),LOW,USD,Inflation
-b5b00beb-bb9d-4aae-a7d0-0b47a420cccf,10/14/2025 15:30:00,3-Month Bill Auction,LOW,USD,Money and Credit
-d26bec8a-4c67-4ba8-b3e9-8fda8038bb8a,10/14/2025 15:30:00,6-Month Bill Auction,LOW,USD,Money and Credit
-47c3c551-af89-43cc-add9-a8cac7718a19,10/14/2025 16:20:00,Fed's Chair Powell speech,HIGH,USD,Monetary Policy
-78522dae-a014-4434-92b2-2c6dca000e17,10/14/2025 18:00:00,Monthly Budget Statement,MEDIUM,USD,Monetary Policy
-1605f464-6894-4e8c-adc6-246fe1a10c68,10/14/2025 19:25:00,Fed's Waller speech,MEDIUM,USD,Monetary Policy
-06334e82-c8e1-4548-8e26-1a029c503b34,10/14/2025 19:30:00,Fed's Collins speech,MEDIUM,USD,Monetary Policy
-51f74c8f-6fe9-4c42-a97f-0da2498391e1,10/15/2025 00:00:00,IMF Meeting,MEDIUM,USD,Monetary Policy
-2fdfe830-1d2e-4398-b5ae-88f255adbea4,10/15/2025 11:00:00,MBA Mortgage Applications,LOW,USD,Money and Credit
-b1669cb4-f14b-4912-9df3-3eab6321c2b2,10/15/2025 12:30:00,NY Empire State Manufacturing Index,MEDIUM,USD,Growth
-31cb588c-c4f5-4e5d-950f-ad4efc144740,10/15/2025 13:30:00,Fed's Miran speech,MEDIUM,USD,Monetary Policy
-3741b5d4-98ed-4a85-8c7d-b1d9b22eb4ad,10/15/2025 16:30:00,Fed's Miran speech,MEDIUM,USD,Monetary Policy
-238ceaa7-3474-4073-ba4b-9e8060375681,10/15/2025 17:00:00,Fed's Waller speech,MEDIUM,USD,Monetary Policy
-148e6a74-01f2-4402-af5f-50da57ae6f77,10/15/2025 17:35:00,Fed's Schmid speech,MEDIUM,USD,Monetary Policy
-b38db6ba-49de-4c5c-8158-15a08a1ba429,10/15/2025 18:00:00,Fed's Beige Book,MEDIUM,USD,Confidence
-9f97ccfe-1e2d-42d7-b194-77b38648a642,10/15/2025 20:30:00,API Weekly Crude Oil Stock,LOW,USD,Trade and External
-edead1b8-5947-472f-927f-53a31bea0a40,10/16/2025 00:00:00,IMF Meeting,MEDIUM,USD,Monetary Policy
-78ab468c-fefc-46f7-9288-394102d9ef3c,10/16/2025 12:30:00,Continuing Jobless Claims,LOW,USD,Labor Market
-b8d305d0-bf2a-4470-b5cb-08cb9edea206,10/16/2025 12:30:00,Initial Jobless Claims,MEDIUM,USD,Labor Market
-4cd85c51-5fa4-45c7-b18c-855d1477e178,10/16/2025 12:30:00,Initial Jobless Claims 4-week average,LOW,USD,Labor Market
+cbcf17f5-ec4f-4cb7-8ec8-290d4a0c3f28,10/16/2025 11:25:00,Fed's Miran speech,MEDIUM,USD,Monetary Policy
 f428ae6c-c749-4495-b49f-0fcf78e30cc0,10/16/2025 12:30:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD,Growth
-dd523eb6-02e6-45ba-bcdc-77e126af7f67,10/16/2025 12:30:00,Producer Price Index (MoM),MEDIUM,USD,Inflation
-41a5b032-2d38-4bda-94e8-5301589801d5,10/16/2025 12:30:00,Producer Price Index (YoY),MEDIUM,USD,Inflation
-dbcdefce-1fd1-4397-aeb5-ba461ce5b2d5,10/16/2025 12:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD,Inflation
-3dd777dd-699d-4adf-a4c7-3879fdbf2166,10/16/2025 12:30:00,Producer Price Index ex Food & Energy (YoY),HIGH,USD,Trade and External
-008d3526-f01f-4839-859a-a8de54b7223c,10/16/2025 12:30:00,Retail Sales (MoM),HIGH,USD,Growth
-9bdd40bc-4096-4197-9d43-211bd18ace63,10/16/2025 12:30:00,Retail Sales (YoY),LOW,USD,Growth
-70bdd130-429c-44b8-9d5d-b79ae692ef44,10/16/2025 12:30:00,Retail Sales Control Group,HIGH,USD,Growth
-5c5944db-e45a-4fbc-9a93-b87ce963fa24,10/16/2025 12:30:00,Retail Sales ex Autos (MoM),MEDIUM,USD,Growth
 a15c7769-6924-4395-9101-f79ff1a9de66,10/16/2025 13:00:00,Fed's Barr speech,MEDIUM,USD,Monetary Policy
 ee5b7bf5-2b33-4e10-a4ac-aad35018358f,10/16/2025 13:00:00,Fed's Miran speech,MEDIUM,USD,Monetary Policy
 30e58c2d-eba6-4a57-ad01-db793f4591cb,10/16/2025 13:00:00,Fed's Waller speech,MEDIUM,USD,Monetary Policy
-c3803ef9-d8eb-4143-89df-34048e2ade58,10/16/2025 14:00:00,Business Inventories,LOW,USD,Growth
 c43fccba-786e-4745-be7d-b68156dbfaeb,10/16/2025 14:00:00,Fed's Bowman speech,MEDIUM,USD,Monetary Policy
 b82380ab-d7d8-47cd-85cb-a02b8597099e,10/16/2025 14:00:00,NAHB Housing Market Index,LOW,USD,Housing
 5091924c-f65c-46db-b4cc-b4da50b88fdd,10/16/2025 14:30:00,EIA Natural Gas Storage Change,LOW,USD,Labor Market
 c16c34a6-a547-4d9b-aaf0-fd2930d51c4d,10/16/2025 15:30:00,4-Week Bill Auction,LOW,USD,Money and Credit
 85c54a4e-5f2f-4eda-a83e-90772792b63a,10/16/2025 18:00:00,EIA Crude Oil Stocks Change,LOW,USD,Trade and External
 c1f4a662-f758-4dd0-ab9e-c4cf297570e7,10/16/2025 20:15:00,Fed's Miran speech,MEDIUM,USD,Monetary Policy
+9f97ccfe-1e2d-42d7-b194-77b38648a642,10/16/2025 20:30:00,API Weekly Crude Oil Stock,LOW,USD,Trade and External
 983fb2cf-47ef-452d-a793-88199707ed0f,10/16/2025 22:00:00,Fed's Kashkari speech,MEDIUM,USD,Monetary Policy
 8b7b409b-9302-4176-9d67-920ab3744c9b,10/17/2025 00:00:00,IMF Meeting,MEDIUM,USD,Monetary Policy
 3f67a2bd-17fc-4e37-b3ee-e07bc904e31c,10/17/2025 12:30:00,Building Permits (MoM),MEDIUM,USD,Housing
@@ -197,7 +168,6 @@ d5c1c5dd-2f6a-42d2-bb44-43b82d71dc58,11/07/2025 20:30:00,CFTC S&P 500 NC Net Pos
 a276a5f1-d8c7-4caa-ba2f-eaaef1b12b16,11/10/2025 16:30:00,3-Month Bill Auction,LOW,USD,Money and Credit
 1dd902db-86c1-4dee-adbe-7e4788680e36,11/10/2025 16:30:00,6-Month Bill Auction,LOW,USD,Money and Credit
 58d0f54f-363a-4dbb-9273-30a5a2dbdf14,11/10/2025 17:00:00,USDA WASDE Report,LOW,USD,Monetary Policy
-08e531e5-3b57-4eb2-9ec9-baf4d3e00473,11/11/2025 05:00:00,Veterans Day,NONE,USD,Monetary Policy
 869e948d-0210-4aee-80c3-c3e281614ed3,11/11/2025 11:00:00,NFIB Business Optimism Index,LOW,USD,Confidence
 d890d275-cd9d-443f-a2ff-6d0fff3d2114,11/11/2025 13:55:00,Redbook Index (YoY),LOW,USD,Inflation
 dc3ad7a7-26ef-446e-a497-c4a5a07c227f,11/11/2025 18:00:00,10-Year Note Auction,LOW,USD,Money and Credit
@@ -308,7 +278,6 @@ bd8f1623-d093-49a1-8255-5b937f8f28f4,11/26/2025 13:30:00,Wholesale Inventories,L
 4f8c2c89-9653-4ed9-8f0b-147324b83ded,11/26/2025 15:00:00,Personal Spending,MEDIUM,USD,Growth
 57bd9541-892f-4cd8-ac4d-e55cd933385f,11/26/2025 15:30:00,EIA Crude Oil Stocks Change,LOW,USD,Trade and External
 f6dd20da-7b0c-49a7-bc20-4ad5982697bd,11/26/2025 18:00:00,5-Year Note Auction,LOW,USD,Money and Credit
-b5b4d6f8-9bd3-4c6e-bb2d-257ac4b60efe,11/27/2025 05:00:00,Thanksgiving Day,NONE,USD,Monetary Policy
 6a78ade1-5573-49a6-b1d1-e57672f627a8,11/27/2025 13:30:00,Continuing Jobless Claims,LOW,USD,Labor Market
 baca2e30-4448-4bd2-9aaf-fdb3bf28c0d6,11/27/2025 13:30:00,Initial Jobless Claims,MEDIUM,USD,Labor Market
 31b6c0d6-ea10-4bf1-8d7d-8a4199a5c134,11/27/2025 13:30:00,Initial Jobless Claims 4-week average,LOW,USD,Labor Market
@@ -492,7 +461,6 @@ cb2df15e-ec80-4220-bce3-bbc033c4b35a,12/24/2025 13:30:00,Durable Goods Orders ex
 0d5e2f5b-9514-4cb8-9525-e03ad507883c,12/24/2025 15:00:00,New Home Sales (MoM),LOW,USD,Housing
 e7ea5b55-b19f-464f-a1ec-97b42c2ec7b2,12/24/2025 15:00:00,New Home Sales Change (MoM),MEDIUM,USD,Housing
 f2ceb070-4b81-488c-85f5-cc4b6b7df22a,12/24/2025 15:30:00,EIA Crude Oil Stocks Change,LOW,USD,Trade and External
-ade642b5-a4b8-4c32-866b-67d58d98c08c,12/25/2025 05:00:00,Christmas Day,NONE,USD,Monetary Policy
 27e4dbfc-d17e-4aa7-a349-d0b183f97f00,12/25/2025 13:30:00,Chicago Fed National Activity Index ,LOW,USD,Growth
 17934c9c-7381-4fce-a476-a8a558235b77,12/25/2025 13:30:00,Continuing Jobless Claims,LOW,USD,Labor Market
 74da48e3-4439-4206-a0fe-b82b3ce97337,12/25/2025 13:30:00,Initial Jobless Claims,MEDIUM,USD,Labor Market
@@ -519,7 +487,6 @@ c2ea34da-3e9d-45d0-a821-7c00cd9a742b,12/30/2025 15:00:00,Pending Home Sales (YoY
 3f2b7479-1d17-44cb-a34e-a9c8392478fe,12/30/2025 21:30:00,API Weekly Crude Oil Stock,LOW,USD,Trade and External
 8b033642-822d-4d7b-923c-0a0e8e10734e,12/31/2025 12:00:00,MBA Mortgage Applications,LOW,USD,Money and Credit
 f301b395-f080-49e8-8786-a001fc5ca003,12/31/2025 15:30:00,EIA Crude Oil Stocks Change,LOW,USD,Trade and External
-65b852ea-ac2d-43ca-b8e4-945939f926a7,01/01/2026 05:00:00,New Year's Day,NONE,USD,Money and Credit
 6002016a-32bc-4f53-91df-646e02eca98d,01/01/2026 12:30:00,Challenger Job Cuts,MEDIUM,USD,Labor Market
 09ec69fa-5c75-4f31-a883-5b88fb33abff,01/01/2026 13:30:00,Continuing Jobless Claims,LOW,USD,Labor Market
 3e33f982-e2f2-467a-b185-46c569325b94,01/01/2026 13:30:00,Initial Jobless Claims,MEDIUM,USD,Labor Market
@@ -628,7 +595,6 @@ a18167d2-6b72-4df9-84eb-6536521fc58e,01/16/2026 20:30:00,CFTC Gold NC Net Positi
 70ceeeb3-3633-46d8-a117-a510bac43743,01/16/2026 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Money and Credit
 94eab8fa-bcc9-463d-9245-ff6c852082ee,01/16/2026 21:00:00,Net Long-Term TIC Flows,LOW,USD,Money and Credit
 61bc9bef-e24f-4dee-8507-91550e752ff7,01/16/2026 21:00:00,Total Net TIC Flows,LOW,USD,Money and Credit
-b946fd96-4e73-4642-931e-9ff56debd67c,01/19/2026 05:00:00,Martin L. King's Birthday,NONE,USD,Monetary Policy
 38f4ae49-7f90-4ce7-aa02-556f5030037e,01/19/2026 16:30:00,3-Month Bill Auction,LOW,USD,Money and Credit
 2ca025ec-e4be-4115-96c8-ce24a5b27899,01/19/2026 16:30:00,6-Month Bill Auction,LOW,USD,Money and Credit
 076a6bc4-3e38-48e5-8701-8e3050c163c5,01/20/2026 13:55:00,Redbook Index (YoY),LOW,USD,Inflation
@@ -790,7 +756,6 @@ f709f48c-7b0f-4a4e-aab9-b251327637ed,02/13/2026 18:00:00,Baker Hughes US Oil Rig
 219d4593-d3d6-4eae-90ac-37170558be3f,02/13/2026 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Money and Credit
 855de2f5-fbe4-4ee2-bd5e-bd4c91c91c0e,02/13/2026 20:30:00,CFTC Oil NC Net Positions,LOW,USD,Trade and External
 228d3838-7b6e-421b-a5cd-8ffb4efbb1d7,02/13/2026 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Money and Credit
-5568d4d6-5c99-4075-b6f6-8ae00f6c890f,02/16/2026 05:00:00,Presidents' Day,NONE,USD,Monetary Policy
 d09fc34f-e7cb-4261-856b-00d3588c93c0,02/16/2026 13:30:00,NY Empire State Manufacturing Index,MEDIUM,USD,Growth
 8aa88ee2-92e0-4109-862a-e420982b63a5,02/16/2026 16:30:00,3-Month Bill Auction,LOW,USD,Money and Credit
 627c3b76-9ab3-4e38-89af-5bf38ebf11ad,02/16/2026 16:30:00,6-Month Bill Auction,LOW,USD,Money and Credit
@@ -1081,7 +1046,6 @@ c11cd7d2-f5da-4f8c-a2e9-07a301425222,04/01/2026 14:30:00,EIA Crude Oil Stocks Ch
 a3d7f754-3a30-4385-ba17-1309d38f4f70,04/02/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD,Labor Market
 0444d9b9-1c59-4e65-89ae-3c4da6377c3d,04/02/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD,Labor Market
 cbfa41ad-5de4-4c42-828f-e16e267cd2d5,04/02/2026 15:30:00,4-Week Bill Auction,LOW,USD,Money and Credit
-4888c723-a044-4678-b9ac-4960e0982b36,04/03/2026 05:00:00,Good Friday,NONE,USD,Monetary Policy
 19b62c60-8e5a-40ad-a58c-fee34bf337ed,04/03/2026 12:30:00,Average Hourly Earnings (MoM),HIGH,USD,Labor Market
 e301893e-0392-410b-96eb-443eb2940081,04/03/2026 12:30:00,Average Hourly Earnings (YoY),HIGH,USD,Labor Market
 3faa00a6-3054-4133-b4aa-7c457f4f9666,04/03/2026 12:30:00,Average Weekly Hours,LOW,USD,Labor Market
@@ -1381,7 +1345,6 @@ f3825610-0755-4a09-940d-13f59eaef8c9,05/21/2026 17:00:00,10-year TIPS Auction,LO
 00458061-478a-466c-8515-c0105c479fbe,05/22/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Money and Credit
 15e71d89-c60e-43a9-9c2a-ce6a558f17cf,05/22/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD,Trade and External
 3fe803aa-cfff-4475-92be-0d7b87085f49,05/22/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Money and Credit
-f0a4abcb-d4c6-4ed3-9b9e-e1ecd9f5ea30,05/25/2026 05:00:00,Memorial Day,NONE,USD,Monetary Policy
 df20251f-9365-4ebb-979f-210d267e3101,05/25/2026 12:30:00,Chicago Fed National Activity Index ,LOW,USD,Growth
 da407e9d-0572-4b0c-bcff-56954a8c0516,05/25/2026 14:00:00,New Home Sales (MoM),LOW,USD,Housing
 37dee026-22bd-4a38-a4ca-6d4f4fb72850,05/25/2026 14:00:00,New Home Sales Change (MoM),MEDIUM,USD,Housing
@@ -1552,7 +1515,6 @@ b711574e-0841-42d2-b1bc-e8ccd130ec4f,06/18/2026 14:30:00,EIA Natural Gas Storage
 944f3e19-e903-494d-b862-8a7c9f31b36d,06/18/2026 17:00:00,5-year TIPS Auction,LOW,USD,Money and Credit
 c0f60588-0ac6-4aec-b8c3-b298b906e303,06/18/2026 20:00:00,Net Long-Term TIC Flows,LOW,USD,Money and Credit
 cc66bab8-f142-4aa9-8c5f-00297402e70f,06/18/2026 20:00:00,Total Net TIC Flows,LOW,USD,Money and Credit
-1d3ffe91-5bc9-47f7-9971-69e41410cb70,06/19/2026 05:00:00,Juneteenth,NONE,USD,Monetary Policy
 1ba86c52-abab-4d05-80b4-e7289d034299,06/19/2026 17:00:00,Baker Hughes US Oil Rig Count,LOW,USD,Trade and External
 87c7b390-ad77-4f17-b319-82f1aa1c5dbb,06/19/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Money and Credit
 41d894eb-6ae8-4f23-9cf9-f176048638e9,06/19/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD,Trade and External
@@ -1651,7 +1613,6 @@ fc652edc-28c2-4fe3-93ab-ef56438b81b0,07/03/2026 14:00:00,ISM Services PMI,HIGH,U
 2620bde9-43e8-417a-894e-b901bc14f96e,07/03/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Money and Credit
 b940b1d7-bb8e-4c4f-a793-91fd900a95f6,07/03/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD,Trade and External
 619ea8f3-c594-4754-a47d-9c1ac9b3713c,07/03/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Money and Credit
-aa7ae995-942d-4880-a0ce-610cd7ab7de4,07/04/2026 05:00:00,Independence Day,NONE,USD,Monetary Policy
 212344ac-8ad0-432d-a33d-4408ab00df22,07/06/2026 15:30:00,3-Month Bill Auction,LOW,USD,Money and Credit
 578a4387-51f4-4245-a127-0c0ceed91236,07/06/2026 15:30:00,6-Month Bill Auction,LOW,USD,Money and Credit
 588e434e-41bb-4ba5-b905-7c2569bca86a,07/07/2026 12:30:00,Goods and Services Trade Balance,LOW,USD,Trade and External
@@ -2018,7 +1979,6 @@ b6cbee14-a861-40f8-b100-4bbda119a8cd,09/03/2026 15:30:00,4-Week Bill Auction,LOW
 2fb2b0d4-6170-49c2-90fd-3d4512c03eff,09/04/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Money and Credit
 009c5c5a-941a-4783-bd57-03523aa8f696,09/04/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD,Trade and External
 1acb8f8a-be51-4dc3-96f1-82e288ab80c6,09/04/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Money and Credit
-404fa6dc-a226-4a45-bfc1-e4018daa66ff,09/07/2026 05:00:00,Labor Day,NONE,USD,Labor Market
 a80d1d7c-4dd1-411e-b635-9fef866fbc5a,09/07/2026 15:30:00,3-Month Bill Auction,LOW,USD,Money and Credit
 a7e648a1-a7ea-4d5c-b52a-afaf801733af,09/07/2026 15:30:00,6-Month Bill Auction,LOW,USD,Money and Credit
 768e09dd-9c7f-4179-ba7f-9c74617d4a98,09/07/2026 19:00:00,Consumer Credit Change,LOW,USD,Confidence
@@ -2222,7 +2182,6 @@ b7f5af83-7cad-4bb9-b850-52fa3e78b305,10/09/2026 19:30:00,CFTC Gold NC Net Positi
 6be6fde5-a346-43f2-bd51-ca0f7534298e,10/09/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD,Trade and External
 9914478c-8c91-48eb-8eea-c43b15c85815,10/09/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Money and Credit
 a07e6ac5-50fb-4ed1-8f83-ae563f7a278f,10/12/2026 00:00:00,IMF Meeting,MEDIUM,USD,Monetary Policy
-0ac8900e-02b4-421c-a744-ad24866d4875,10/12/2026 05:00:00,Columbus Day,NONE,USD,Monetary Policy
 0d25e56f-12ca-430f-997c-cfd240e5631f,10/12/2026 15:30:00,3-Month Bill Auction,LOW,USD,Money and Credit
 15864a26-d75b-40d4-8751-b448012f6db8,10/12/2026 15:30:00,6-Month Bill Auction,LOW,USD,Money and Credit
 8292c36b-4806-4a20-9e73-0dc891fa5e5e,10/12/2026 18:00:00,Monthly Budget Statement,MEDIUM,USD,Monetary Policy

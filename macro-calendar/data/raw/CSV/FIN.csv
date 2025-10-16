@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-6486eb20-59de-4333-a608-115a8fa9b7a4,10/14/2025 05:00:00,Consumer Price Index (YoY),LOW,EUR
 55b8f192-e5b7-432e-8152-d6bb502e520d,10/21/2025 05:00:00,Unemployment Rate,LOW,EUR
 e02b566c-083e-474c-b60f-4ecd0b4d118b,10/24/2025 05:00:00,Export Prices (YoY),LOW,EUR
 0c4b58e8-7759-4f7f-8963-d5db633a0a4a,10/24/2025 05:00:00,Import Prices (YoY),LOW,EUR
@@ -7,7 +6,6 @@ aede7a27-e584-468e-bf6d-5574c82794df,10/24/2025 05:00:00,Producer Price Index (Y
 67a47277-9e41-4458-b5ac-aa6ab5160620,10/27/2025 06:00:00,Consumer Confidence,LOW,EUR
 59f2d1e5-8ee2-4407-892e-5063acc17cb6,10/27/2025 06:00:00,Industrial Confidence,LOW,EUR
 32bf1828-433b-4c41-a89e-0010abf0c646,10/30/2025 06:00:00,Gross Domestic Product (YoY),LOW,EUR
-a1ef8421-ba7a-40df-a4e4-df0c00ef040d,10/31/2025 22:00:00,All Saints' Day,NONE,EUR
 826b750f-d132-4795-bff0-23fbce2e6a79,11/07/2025 07:00:00,Trade Balance,LOW,EUR
 21844a4e-25fa-4ffb-a376-dcf48079bf84,11/10/2025 06:00:00,Industrial Output (MoM),LOW,EUR
 8129a0bc-fda3-474f-ad6b-d361ab747c6b,11/12/2025 06:00:00,Current Account,LOW,EUR
@@ -22,7 +20,6 @@ f4497921-7c5b-41c7-8595-84d58b6d7d1e,11/27/2025 06:00:00,Consumer Confidence,LOW
 8907851a-ec32-44ef-8cd3-b04267f11eda,11/28/2025 06:00:00,Gross Domestic Product (YoY),LOW,EUR
 dd6ca648-a284-4e77-a3fc-ec04be192a2c,11/28/2025 06:00:00,Gross Domestic Product Qtr Prelim (YoY),LOW,EUR
 9a290f30-e3ef-422b-b591-be2fa43d81c3,12/05/2025 07:00:00,Trade Balance,LOW,EUR
-7137a434-12d8-4c06-b848-1d3fc78bd894,12/05/2025 22:00:00,Independence Day,NONE,EUR
 ffecbe9b-a512-4ad6-ba82-8c7b1c0b9dd0,12/10/2025 06:00:00,Industrial Output (MoM),LOW,EUR
 dd93adad-44f0-4473-b9f5-bd07e9e5286f,12/12/2025 06:00:00,Current Account,LOW,EUR
 575c5e72-a1f2-40d7-92dd-f84603d13e8d,12/15/2025 06:00:00,Consumer Price Index (YoY),LOW,EUR
@@ -30,14 +27,9 @@ dd93adad-44f0-4473-b9f5-bd07e9e5286f,12/12/2025 06:00:00,Current Account,LOW,EUR
 1d714241-339d-428c-81b3-2725b7b2dd4a,12/22/2025 06:00:00,Import Prices (YoY),LOW,EUR
 001d69b1-8cbf-4c68-9522-56c8b40b4e5f,12/22/2025 06:00:00,Producer Price Index (YoY),LOW,EUR
 ed5014e4-a327-4591-b8a6-b87bb2fb76ee,12/23/2025 06:00:00,Unemployment Rate,LOW,EUR
-2d69dfc1-dfb1-4968-a1ae-abfd3722d827,12/23/2025 22:00:00,Christmas Eve,NONE,EUR
-da97412b-8194-4ff5-80e5-ba62dcb9559f,12/24/2025 22:00:00,Christmas Day,NONE,EUR
-79a16ad9-4f37-4102-a1de-9a27906e3726,12/25/2025 22:00:00,Boxing Day,NONE,EUR
 1a8e9bdb-7378-4c7f-b5a2-567bf24d6769,12/29/2025 06:00:00,Consumer Confidence,LOW,EUR
 331785ed-a056-4fc9-ab23-e424d31138c3,12/29/2025 06:00:00,Gross Domestic Product (YoY),LOW,EUR
 1241c373-ab0f-4f60-8985-00651326d2bc,12/29/2025 06:00:00,Industrial Confidence,LOW,EUR
-fa7e57b9-a7d5-4cb1-99ae-1f615b242c61,12/31/2025 22:00:00,New Year's Day,NONE,EUR
-a5461e2e-6766-4cf2-8223-02fce8bd9d1e,01/05/2026 22:00:00,Epiphany,NONE,EUR
 88e25956-03c5-4427-9ccc-600407f701cb,01/08/2026 07:00:00,Trade Balance,LOW,EUR
 9f9c9bd1-bd9f-4a1a-b6e6-8c9f8b1c9176,01/09/2026 06:00:00,Industrial Output (MoM),LOW,EUR
 118b566d-cc7c-490f-ab09-40908de5f611,01/12/2026 06:00:00,Current Account,LOW,EUR
@@ -50,10 +42,3 @@ a15284af-52a1-47dd-9ecd-a2bed5864f38,01/27/2026 06:00:00,Consumer Confidence,LOW
 4d714ad1-3b69-4ad9-8428-f723976c23a4,01/27/2026 06:00:00,Industrial Confidence,LOW,EUR
 923022eb-606b-4572-9472-a226f7a6ba13,02/27/2026 06:00:00,Gross Domestic Product (QoQ),LOW,EUR
 1c981680-077a-43cf-974b-b3b9be184576,02/27/2026 06:00:00,Gross Domestic Product Qtr Prelim (YoY),LOW,EUR
-1d9e28eb-13e8-44c3-8ebe-4c2cf04ed463,04/02/2026 21:00:00,Good Friday,NONE,EUR
-334f229e-6742-437f-8686-8362bc32fca8,04/05/2026 21:00:00,Easter Monday,NONE,EUR
-a968f7a6-11ed-4696-81cd-21ccb6bb719d,04/30/2026 21:00:00,May Day,NONE,EUR
-66ced684-de06-4af9-a22f-f951fef2eb53,05/13/2026 21:00:00,Ascension Day,NONE,EUR
-cf6fa4da-e777-4bc6-b8b4-e70224f205a5,06/18/2026 21:00:00,Midsummer’s Eve,NONE,EUR
-9a655bde-5f23-44fb-bf39-6038dac1343e,06/19/2026 21:00:00,Midsummer day,NONE,EUR
-95685230-8c43-4d9d-9358-dc6f3571d383,10/30/2026 22:00:00,All Saints' Day,NONE,EUR

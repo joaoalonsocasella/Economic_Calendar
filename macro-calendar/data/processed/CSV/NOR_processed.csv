@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,MacroCateg
-f0ac6e67-b6f8-4b06-8300-a2158339dafe,10/15/2025 06:00:00,Trade Balance,LOW,NOK,Trade and External
 bdf63f43-4c1f-4864-a585-a079b6f97ef9,10/23/2025 06:00:00,Credit Indicator,LOW,NOK,Money and Credit
 beb3834f-ebda-41f2-97df-783d8e38fd4f,10/29/2025 07:00:00,Retail Sales ,LOW,NOK,Growth
 6f2bb88a-0e7f-4437-8bf4-0a45294808cc,10/31/2025 09:00:00,Registered Unemployment n.s.a,LOW,NOK,Labor Market
@@ -30,10 +29,7 @@ ac7e22f2-50bb-4e99-9e56-fcfcd57c3f56,12/15/2025 07:00:00,Trade Balance,LOW,NOK,T
 5be12225-fda3-4144-9e7c-38fec4fb09eb,12/19/2025 09:00:00,Registered Unemployment n.s.a,LOW,NOK,Labor Market
 0ad386a6-8ae8-4540-93d6-92c64152d8c4,12/19/2025 09:00:00,Registered Unemployment s.a,LOW,NOK,Labor Market
 7d6a0091-ad20-433b-af88-70e01e10e041,12/22/2025 07:00:00,Credit Indicator,LOW,NOK,Money and Credit
-1531120a-dd6f-4f2e-938e-0856829b92aa,12/24/2025 23:00:00,Christmas Day,NONE,NOK,Monetary Policy
-c86741ef-6b9d-49eb-b8a1-06e6f5f305ed,12/25/2025 23:00:00,Boxing Day,NONE,NOK,Monetary Policy
 680be6ab-1883-46c4-a54b-39eabb96e908,12/26/2025 07:00:00,Retail Sales ,LOW,NOK,Growth
-e846cf8f-c10c-41a2-8108-085c22372819,12/31/2025 23:00:00,New Year's Day,NONE,NOK,Money and Credit
 41c7cefc-ba6c-4a61-aea6-934bfc5b4d25,01/08/2026 07:00:00,Manufacturing Output,LOW,NOK,Growth
 182d3008-c64c-479e-a20b-d9dfc7cd3ea3,01/09/2026 07:00:00,Consumer Price Index (MoM),LOW,NOK,Inflation
 2b31c091-02da-4bac-a784-1af992020a49,01/09/2026 07:00:00,Consumer Price Index (YoY),LOW,NOK,Inflation
@@ -57,14 +53,7 @@ e8df5bd0-b809-489f-af16-1c546d21fcac,02/16/2026 07:00:00,Gross Domestic Product 
 b8728065-7d2a-4dd3-9830-6f0e59fdb739,03/10/2026 07:00:00,Consumer Price Index (YoY),LOW,NOK,Inflation
 a49493be-3257-439e-9ec1-849b78d578d2,03/10/2026 07:00:00,Core Inflation (MoM),LOW,NOK,Inflation
 486f74fa-1b90-4584-9bdf-a6176d9453b3,03/10/2026 07:00:00,Core Inflation (YoY),LOW,NOK,Inflation
-b130648e-c9d6-4672-ae87-ffce49fcdff3,04/01/2026 23:00:00,Maundy Thursday,NONE,NOK,Monetary Policy
-54bb4340-bf1b-42ef-a052-05b75c146c85,04/02/2026 23:00:00,Good Friday,NONE,NOK,Monetary Policy
-5f9cd731-bd91-46cf-814c-27f98fcc3dd1,04/05/2026 22:00:00,Easter Monday,NONE,NOK,Monetary Policy
 0a50f28c-d0da-46b7-8a6e-eebb4f70a2fe,04/10/2026 06:00:00,Consumer Price Index (MoM),LOW,NOK,Inflation
 db2dcb47-5c58-4b11-88ae-d1703109699f,04/10/2026 06:00:00,Consumer Price Index (YoY),LOW,NOK,Inflation
 0d8aea9f-fead-4d81-99c1-a49b7761da88,04/10/2026 06:00:00,Core Inflation (MoM),LOW,NOK,Inflation
 3c7064a1-cfe3-48ae-b0ba-c3fc6159dfd5,04/10/2026 06:00:00,Core Inflation (YoY),LOW,NOK,Inflation
-b8d56c5b-b927-4dfc-965c-7100972455c1,04/30/2026 23:00:00,Labour Day,NONE,NOK,Monetary Policy
-23a6e519-3a66-4bbf-b0af-806f96d1e77e,05/13/2026 22:00:00,Ascension Day,NONE,NOK,Monetary Policy
-2b6922e6-cc3e-4a1f-a07a-2b771450cce5,05/16/2026 22:00:00,Constitution Day,NONE,NOK,Monetary Policy
-f75a9d88-0f74-4a03-bc68-a852e174682e,05/24/2026 22:00:00,Whit monday,NONE,NOK,Monetary Policy

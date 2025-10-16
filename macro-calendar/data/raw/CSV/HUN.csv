@@ -1,13 +1,10 @@
 Id,Start,Name,Impact,Currency
-2701d9d0-a52e-442e-9df5-c321aec637b3,10/14/2025 06:30:00,Industrial Output (YoY),LOW,HUF
 916bd7ba-e6e5-4e8b-ae92-37fc0ccccdd0,10/17/2025 06:30:00,Gross Wages (YoY),LOW,HUF
 1ead104c-0756-4cc4-9292-0a1eff08d3d8,10/21/2025 12:00:00,MNB Interest Rate Decision,LOW,HUF
 9b81c51e-cdaf-445c-9435-bb3c9912f50d,10/22/2025 06:30:00,Unemployment Rate (3M),LOW,HUF
-03a0e970-1c61-43c2-a469-06dd54fc5cfc,10/22/2025 23:00:00,"Republic Day ",NONE,HUF
 87f9e9f6-15ed-4a71-8d9f-c1bfb0acec79,10/29/2025 07:30:00,Trade Balance,LOW,HUF
 1aba97a5-3fe3-465c-aed5-9a06f24927cc,10/30/2025 07:30:00,Gross Domestic Product (YoY),LOW,HUF
 a7dea8d5-9b30-4531-830c-2b675d6fc621,10/31/2025 07:30:00,Producer Price Index (YoY),LOW,HUF
-3799eb5a-8fdd-4bbd-9b0d-59774935919c,10/31/2025 22:00:00,All Saints' Day,NONE,HUF
 d251111d-c8ce-42e3-bbd9-1e6131431138,11/03/2025 08:00:00,HALPIM Manufacturing PMI,LOW,HUF
 3fb60151-adaa-4066-a278-43fe3bf9935b,11/06/2025 07:30:00,Industrial Output (YoY),LOW,HUF
 9f62e33a-6506-4111-a50b-a86d311446bd,11/06/2025 07:30:00,Retail Sales (YoY),LOW,HUF
@@ -32,10 +29,7 @@ fa010834-2380-415b-b40e-ba72b2971e8b,12/12/2025 07:30:00,Industrial Output (YoY)
 29da3f38-600b-4714-a7b9-95563fab6d3d,12/19/2025 07:30:00,Gross Wages (YoY),LOW,HUF
 d25a04a7-d19c-4127-9d39-3f4470ee45bf,12/22/2025 07:30:00,Current Account Balance (QoQ),LOW,HUF
 4d8f3dba-1d25-4d08-b53e-f6bfb9766199,12/23/2025 13:00:00,MNB Interest Rate Decision,LOW,HUF
-85db25d6-ea99-48f2-a609-a91ee4030c77,12/24/2025 23:00:00,Christmas Day,NONE,HUF
-06025aed-1d0f-4605-a0dc-333b72e7b57f,12/25/2025 23:00:00,"Second Day of Christmas ",NONE,HUF
 99fe202a-af45-47fb-84ad-b6fdf7ccc8d8,12/30/2025 07:30:00,Producer Price Index (YoY),LOW,HUF
-c6029782-8a23-491d-b7cf-aadd29431bca,12/31/2025 23:00:00,New Year's Day,NONE,HUF
 83527ff1-07e9-4c9a-ad1a-68b84ed76727,01/02/2026 08:00:00,HALPIM Manufacturing PMI,LOW,HUF
 a36f9688-4d8c-4280-a20e-039512ddf30c,01/06/2026 07:30:00,Unemployment Rate (3M),LOW,HUF
 85c878b3-17df-4089-bf29-c527a1c1742e,01/07/2026 07:30:00,Retail Sales (YoY),LOW,HUF
@@ -46,13 +40,4 @@ a36f9688-4d8c-4280-a20e-039512ddf30c,01/06/2026 07:30:00,Unemployment Rate (3M),
 71a8b6cd-1f61-49c8-aa75-0f4862bf0150,01/23/2026 07:30:00,Unemployment Rate (3M),LOW,HUF
 e9ece1cb-48db-4615-8367-abe3d8087628,01/30/2026 07:30:00,Trade Balance,LOW,HUF
 5fe614f5-da11-48ad-9d61-c817ddea4e16,02/10/2026 07:30:00,Gross Domestic Product (YoY),LOW,HUF
-894125df-053e-4549-ab2b-a046fbe43c5c,03/14/2026 23:00:00,"National Day ",NONE,HUF
 f24348bd-28de-44c8-8873-467af16ca828,03/25/2026 07:30:00,Current Account Balance (QoQ),LOW,HUF
-6b2799e8-8dbc-48dc-b8c5-ae4e71e149b7,04/04/2026 22:00:00,"Easter Sunday ",NONE,HUF
-f36aa7e8-c3cf-4848-883e-69fff9bfd819,04/05/2026 22:00:00,"Easter Monday ",NONE,HUF
-64d96ae5-ca4a-4eb5-9a33-9fdf7fa05336,04/30/2026 22:00:00,Labour day,NONE,HUF
-a72e81eb-0a61-49b4-947d-2136802f1968,05/23/2026 23:00:00,"Pentecost Sunday ",NONE,HUF
-59a0fe18-cde3-4778-88e5-cd3ecb992f29,05/24/2026 23:00:00,"Pentecost Monday ",NONE,HUF
-4986a475-56eb-44d9-a6ad-c4a872938f77,08/19/2026 22:00:00,Saint Stephen's Day,NONE,HUF
-61621633-bc96-41f4-8d64-27a3dd704ab1,10/22/2026 23:00:00,"Republic Day ",NONE,HUF
-e5090a69-172a-4efc-a355-b5d4070024b8,10/31/2026 22:00:00,All Saints' Day,NONE,HUF

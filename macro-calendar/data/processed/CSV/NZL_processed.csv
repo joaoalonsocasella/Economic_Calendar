@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,MacroCateg
-6ec4e8d0-f74a-437a-a270-9ca2f35acd93,10/15/2025 21:45:00,Food Price Index (MoM),LOW,NZD,Inflation
 be61f460-1c0f-4f9e-8197-4b98453cf514,10/19/2025 21:45:00,Consumer Price Index (QoQ),HIGH,NZD,Inflation
 f02b1d3d-55e8-44ef-833c-dab2c672e579,10/19/2025 21:45:00,Consumer Price Index (YoY),HIGH,NZD,Inflation
 86da2abe-af8d-43c2-831d-cb7968ed293b,10/20/2025 21:45:00,Exports,MEDIUM,NZD,Trade and External
@@ -8,7 +7,6 @@ f02b1d3d-55e8-44ef-833c-dab2c672e579,10/19/2025 21:45:00,Consumer Price Index (Y
 680293e0-bb2c-4750-81c9-573b87e92681,10/20/2025 21:45:00,Trade Balance NZD (YoY),MEDIUM,NZD,Trade and External
 88aea309-2341-47e5-a3e3-2db88a3f6023,10/21/2025 02:00:00,Credit Card Spending (YoY),LOW,NZD,Growth
 ae64badb-066b-494b-bf19-bfda9029856d,10/21/2025 15:00:00,GDT Price Index,LOW,NZD,Trade and External
-eb2293ff-b3c2-47f7-8039-12760f8bbdc0,10/26/2025 12:00:00,Labour Day,NONE,NZD,Monetary Policy
 fb9f2cd1-4c30-4656-9f14-4d8f19cdbcaf,10/30/2025 00:00:00,ANZ Activity Outlook,LOW,NZD,Confidence
 0bcca132-fd8b-47d1-a04e-07b8ead0d239,10/30/2025 00:00:00,ANZ Business Confidence,LOW,NZD,Confidence
 30ed7bfd-dac7-40d8-9488-8bd4465c2dbb,10/30/2025 21:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Confidence
@@ -68,10 +66,6 @@ b540e794-be35-466f-b0bd-a5a7ba56bbfe,12/18/2025 21:45:00,Exports,MEDIUM,NZD,Trad
 5ff744ed-a949-47b7-9b5d-61098a9bc5d9,12/18/2025 21:45:00,Trade Balance NZD (MoM),LOW,NZD,Trade and External
 14e730a6-2ec0-4529-ac6b-7fd0a10af90d,12/18/2025 21:45:00,Trade Balance NZD (YoY),MEDIUM,NZD,Trade and External
 88920b1c-63c8-4e18-be02-222b998d4d89,12/19/2025 02:00:00,Credit Card Spending (YoY),LOW,NZD,Growth
-2a51e273-a133-44af-bdbb-88c47c7ab4cc,12/24/2025 12:00:00,Christmas Day,NONE,NZD,Monetary Policy
-d3255b88-d348-479e-a155-9f47f365c396,12/25/2025 12:00:00,Boxing Day,NONE,NZD,Monetary Policy
-1c7dd8d6-be3f-4370-bd9f-1afe38e9bbbe,12/31/2025 12:00:00,New Year's Day ,NONE,NZD,Money and Credit
-f7c93420-ff18-40cf-8643-0746639858f1,01/01/2026 12:00:00,Day after New Year's Day ,NONE,NZD,Money and Credit
 bfa7763f-7457-4c90-b7c9-76b32053629f,01/04/2026 21:45:00,Building Permits s.a. (MoM),MEDIUM,NZD,Housing
 4d6f5861-9576-4310-9778-1d4b9757536c,01/05/2026 00:00:00,ANZ Commodity Price,LOW,NZD,Confidence
 f54d46b9-a55c-48c6-83c9-aef4285ec18e,01/06/2026 15:00:00,GDT Price Index,LOW,NZD,Trade and External
@@ -100,7 +94,6 @@ a9cd98ef-372b-40cc-b310-68290af60bb4,02/03/2026 21:45:00,Labour Cost Index (QoQ)
 2b053198-e575-4d7e-a337-dd662f118411,02/03/2026 21:45:00,Labour Cost Index (YoY),LOW,NZD,Inflation
 ed3c26b7-54c9-4c57-b4d1-6181bef1d956,02/03/2026 21:45:00,Participation Rate,MEDIUM,NZD,Labor Market
 a73045b1-4618-439d-80ca-212f5cc4f2e1,02/03/2026 21:45:00,Unemployment Rate,HIGH,NZD,Labor Market
-aec73c89-6f32-4652-8357-72f066208e42,02/05/2026 16:00:00,Waitangi Day ,NONE,NZD,Monetary Policy
 8560248c-82af-4acc-85f1-2278671512a1,02/12/2026 02:00:00,RBNZ Inflation Expectations (QoQ),HIGH,NZD,Inflation
 93a03b6e-0bf6-41eb-90d8-94ff924587ab,02/17/2026 21:45:00,Producer Price Index - Input (QoQ),LOW,NZD,Inflation
 3ff74077-b616-4507-934e-916856a5611d,02/17/2026 21:45:00,Producer Price Index - Output (QoQ),MEDIUM,NZD,Inflation
@@ -113,12 +106,9 @@ e4a648e0-fe85-452f-9e61-24d220c6851d,03/17/2026 21:45:00,Current Account - GDP R
 54d7f59a-a06a-4d06-a33b-576fed3a66d2,03/18/2026 21:45:00,Gross Domestic Product (QoQ),HIGH,NZD,Growth
 0d6b89ff-490a-47d7-859f-3706aa3ce044,03/18/2026 21:45:00,Gross Domestic Product (YoY),HIGH,NZD,Growth
 2abf190a-10d2-4175-b2b3-d321513782c8,03/19/2026 20:00:00,Westpac Consumer Survey,MEDIUM,NZD,Confidence
-150c2d8f-ee30-4d4d-b277-9d04b273bfc1,04/02/2026 16:00:00,Good Friday,NONE,NZD,Monetary Policy
 ee52da80-0210-49cf-84d3-9228330d5f82,04/04/2026 16:00:00,Daylight Saving Time Ends,NONE,NZD,Monetary Policy
-657d3226-5980-498e-870d-eb3be94808cb,04/05/2026 12:00:00,Easter Monday,NONE,NZD,Monetary Policy
 a9e255c8-fd22-4906-bb91-539a60fc27cd,04/16/2026 22:45:00,Consumer Price Index (QoQ),HIGH,NZD,Inflation
 2c6589f3-d981-4c6f-83e7-d13f48c52a3a,04/16/2026 22:45:00,Consumer Price Index (YoY),HIGH,NZD,Inflation
-a32cbcf6-9c9a-4097-8708-8956529dd39c,04/24/2026 16:00:00,ANZAC Day,NONE,NZD,Monetary Policy
 08e45a3d-7a8a-4f68-ac14-21561a8b45be,05/05/2026 22:45:00,Employment Change,HIGH,NZD,Labor Market
 d828c05a-0afd-4acd-b3da-326bd07f5803,05/05/2026 22:45:00,Labour Cost Index (QoQ),MEDIUM,NZD,Labor Market
 1da6f8ba-5826-4bf2-abfa-ea8dd34c89ce,05/05/2026 22:45:00,Labour Cost Index (YoY),LOW,NZD,Inflation
@@ -144,4 +134,3 @@ e1c58351-e883-4cce-952d-c529e3a0eda6,09/16/2026 21:45:00,Gross Domestic Product 
 0d5617b8-d6a7-4c1e-9101-2d5165b41a00,09/26/2026 16:00:00,Daylight Saving Time,NONE,NZD,Monetary Policy
 51f28c3f-b1ae-45d0-9ff6-c59cd6d72f2a,10/21/2026 21:45:00,Consumer Price Index (QoQ),HIGH,NZD,Inflation
 ee859bd9-516c-4db6-afa0-5088e83afda5,10/21/2026 21:45:00,Consumer Price Index (YoY),HIGH,NZD,Inflation
-e53961eb-3598-480a-8aac-b4e1ff9ee6aa,10/25/2026 12:00:00,Labour Day,NONE,NZD,Monetary Policy
