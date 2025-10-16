@@ -1,0 +1,68 @@
+﻿Id,Start,Name,Impact,Currency,MacroCateg
+31042406-964e-4752-98ed-14038bd4b446,10/15/2025 12:00:00,Retail Sales (MoM),LOW,BRL,Growth
+58e68769-594d-4ba3-bf31-578ed457b543,10/24/2025 12:00:00,Mid-month Inflation,LOW,BRL,Inflation
+87adcbd5-6f37-4d1b-a2eb-f42f21c958db,10/24/2025 12:30:00,Current Account,LOW,BRL,Trade and External
+0886d3da-9686-4327-9bc1-44c82e87b7d4,10/30/2025 11:00:00,Inflation Index/IGP-M,LOW,BRL,Inflation
+75e5c513-d6cc-45c3-a971-fb08d0bddb3a,10/31/2025 11:30:00,Nominal Budget Balance,LOW,BRL,Trade and External
+87d44d2f-1c08-4b01-9a79-832d6a145937,10/31/2025 11:30:00,Primary Budget Surplus,LOW,BRL,Monetary Policy
+720d6bb4-025d-4547-9cfb-89fb4bbeb023,10/31/2025 12:00:00,Unemployment Rate,LOW,BRL,Labor Market
+eee0eaee-1849-4028-a9f2-942b9d956fc8,11/01/2025 03:00:00,All Saints' Day,NONE,BRL,Growth
+bcc2f9d4-b240-427e-979f-632f523c59cc,11/02/2025 03:00:00,All Souls Day,NONE,BRL,Growth
+e5b4c19a-0c2d-400e-96c9-fd6097f538d5,11/03/2025 13:00:00,S&P Global Manufacturing PMI,LOW,BRL,Growth
+196ece71-02d1-450e-a9e9-80e52819c933,11/04/2025 08:00:00,Fipe's IPC Inflation,LOW,BRL,Inflation
+e3e70862-cb5e-484f-a46a-ccb3963fe1ef,11/04/2025 12:00:00,Industrial Output (MoM),LOW,BRL,Growth
+aad33b81-fdf7-4fc3-8c45-d02baafd3ea4,11/04/2025 12:00:00,Industrial Output (YoY),LOW,BRL,Growth
+778e47e1-ec7d-4e90-b1c2-5487eba6a317,11/05/2025 21:00:00,Interest Rate Decision,LOW,BRL,Monetary Policy
+f8d7d717-fe19-4201-96d9-59c12d2e7588,11/06/2025 18:00:00,Trade Balance,LOW,BRL,Trade and External
+7dd7e6c8-8913-4003-b812-5d9d61dc2d9d,11/11/2025 12:00:00,IPCA Inflation,LOW,BRL,Inflation
+dd0e80eb-2794-473f-8ae0-cf88fabed9b9,11/13/2025 12:00:00,Retail Sales (MoM),LOW,BRL,Growth
+6e9c8089-561e-4efb-a363-ab13066884f5,11/15/2025 03:00:00,Republic Day,NONE,BRL,Monetary Policy
+acbb969f-01a0-4d21-a43c-d2d7c490115a,11/20/2025 03:00:00,Zumbi dos Palmares ,NONE,BRL,Monetary Policy
+8b7591b7-4334-4f52-94c3-5797e78d8900,11/25/2025 12:00:00,Mid-month Inflation,LOW,BRL,Inflation
+97e1ea49-c6d7-4209-8c90-5a9d9dc29f2b,11/25/2025 12:30:00,Current Account,LOW,BRL,Trade and External
+16156dd0-db3f-4684-aa66-3f24c9d1d400,11/27/2025 11:00:00,Inflation Index/IGP-M,LOW,BRL,Inflation
+73e16c0e-7059-43be-a05d-df4a3dfb35ef,11/28/2025 11:30:00,Nominal Budget Balance,LOW,BRL,Trade and External
+0e88a170-1dc2-403d-8234-274d01d525e2,11/28/2025 11:30:00,Primary Budget Surplus,LOW,BRL,Monetary Policy
+55b4ab2d-1ffb-4b2e-98d8-a1afae0e02e9,11/28/2025 12:00:00,Unemployment Rate,LOW,BRL,Labor Market
+23363d1b-e78b-4e05-bbb4-fe9b4b663428,12/01/2025 13:00:00,S&P Global Manufacturing PMI,LOW,BRL,Growth
+f9ec8149-c2e9-4f08-947e-03164a2a2008,12/03/2025 12:00:00,Industrial Output (MoM),LOW,BRL,Growth
+232baa2a-310f-47ad-b8bc-6f272742276b,12/03/2025 12:00:00,Industrial Output (YoY),LOW,BRL,Growth
+31bafbfd-c9e1-4052-b2fd-6c1693cbd40d,12/04/2025 08:00:00,Fipe's IPC Inflation,LOW,BRL,Inflation
+dc4412a4-6b07-44fa-8203-2b320c0538d9,12/04/2025 12:00:00,Gross Domestic Product (QoQ),LOW,BRL,Growth
+7caf2f11-ceaf-46dc-86f9-39aff6862760,12/04/2025 12:00:00,Gross Domestic Product (YoY),LOW,BRL,Growth
+d9babc08-782e-41d7-a309-e46e9504fd7e,12/04/2025 18:00:00,Trade Balance,LOW,BRL,Trade and External
+201cb9be-07b3-4138-bcf0-fb73696c70a4,12/10/2025 12:00:00,IPCA Inflation,LOW,BRL,Inflation
+ca30d9e0-5c4d-4244-9d47-45fd32967c9d,12/10/2025 21:00:00,Interest Rate Decision,LOW,BRL,Monetary Policy
+2c6cd7c4-41a9-4847-beb6-0aae655bd656,12/11/2025 12:00:00,Retail Sales (MoM),LOW,BRL,Growth
+06d18b56-c2a4-4de1-8cfa-dffbd3836029,12/23/2025 12:00:00,Mid-month Inflation,LOW,BRL,Inflation
+0a1dd031-f63e-4c7d-992c-0c6782873cf9,12/23/2025 12:30:00,Current Account,LOW,BRL,Trade and External
+754dba39-6491-4734-8052-e2efbac147e2,12/25/2025 03:00:00,Christmas Day,NONE,BRL,Monetary Policy
+67ed4059-6be2-4eb5-a2e3-ee786e06a6f0,12/29/2025 11:00:00,Inflation Index/IGP-M,LOW,BRL,Inflation
+59a3fb16-a109-4c4b-b6b4-0d6772be6e05,12/30/2025 11:30:00,Nominal Budget Balance,LOW,BRL,Trade and External
+20bf6a30-777a-414b-8117-d10387034792,12/30/2025 11:30:00,Primary Budget Surplus,LOW,BRL,Monetary Policy
+51fbb105-44ee-47fa-8a39-d74e862a0a8a,12/30/2025 12:00:00,Unemployment Rate,LOW,BRL,Labor Market
+abdbe01f-37b3-45cc-8e59-a292632b0ef1,01/01/2026 03:00:00,New Year's Day,NONE,BRL,Money and Credit
+2e4cded0-baf2-4dce-8038-8f03cb33fcd2,01/02/2026 13:00:00,S&P Global Manufacturing PMI,LOW,BRL,Growth
+14816090-7124-45af-b35a-efe86d583b8d,01/06/2026 08:00:00,Fipe's IPC Inflation,LOW,BRL,Inflation
+c2313992-d392-4d80-94ed-1ccb37c51d92,01/06/2026 12:00:00,Industrial Output (MoM),LOW,BRL,Growth
+93e3a815-169d-440a-9720-ac5e699521c4,01/06/2026 12:00:00,Industrial Output (YoY),LOW,BRL,Growth
+6bb29ce3-cc9d-48f1-86f9-a6bebe73d2bc,01/08/2026 18:00:00,Trade Balance,LOW,BRL,Trade and External
+cf993ab1-df8b-4234-b2cf-bdb4b38315a6,01/09/2026 12:00:00,IPCA Inflation,LOW,BRL,Inflation
+543c7f77-8ab9-4775-96ee-ea049ba1b6f9,01/15/2026 12:00:00,Retail Sales (MoM),LOW,BRL,Growth
+549504d0-94e7-4a7e-8fc5-507b0c118f4e,01/23/2026 12:30:00,Current Account,LOW,BRL,Trade and External
+d9853584-a87c-40fe-8aad-b5ed62e0f433,01/27/2026 12:00:00,Mid-month Inflation,LOW,BRL,Inflation
+97de7e81-927f-4172-8919-e4d2b2423fd6,01/28/2026 12:00:00,Unemployment Rate,LOW,BRL,Labor Market
+f0fc7ae6-6aea-4c78-b698-590bf787f90b,01/29/2026 11:00:00,Inflation Index/IGP-M,LOW,BRL,Inflation
+ec599d23-0762-444d-801c-7ba0b05616e7,01/30/2026 11:30:00,Nominal Budget Balance,LOW,BRL,Trade and External
+73b50186-37f6-4711-a056-ebfb423db240,01/30/2026 11:30:00,Primary Budget Surplus,LOW,BRL,Monetary Policy
+9c207beb-b354-42bf-ac25-29bfa0a636c9,02/02/2026 13:00:00,S&P Global Manufacturing PMI,LOW,BRL,Growth
+b03edbd8-9ad8-4680-80c8-d23e47937c7b,02/17/2026 03:00:00,Carnival,NONE,BRL,Monetary Policy
+b7b91bac-920f-409b-8611-e206d2082975,02/18/2026 03:00:00,Ash Wednesday,NONE,BRL,Monetary Policy
+1ec8172d-0e34-4477-a0c5-ec4edbeae849,03/05/2026 12:00:00,Gross Domestic Product (QoQ),LOW,BRL,Growth
+7897fa38-0c2b-4af7-8669-3fe0899ff827,03/05/2026 12:00:00,Gross Domestic Product (YoY),LOW,BRL,Growth
+3eb5912d-acc2-413a-a8fc-fc09e61ec5da,04/03/2026 03:00:00,Good Friday ,NONE,BRL,Monetary Policy
+0aecb95f-baf8-4658-8935-8eb6c15a4fd4,04/21/2026 03:00:00,Tiradentes Day,NONE,BRL,Monetary Policy
+d1ba2fa0-620b-4038-b54f-8d07e1e56f00,05/01/2026 03:00:00,Labour Day,NONE,BRL,Monetary Policy
+7110db92-5967-4f47-87a5-84ffcab9bebe,06/04/2026 03:00:00,Corpus Christi ,NONE,BRL,Monetary Policy
+c1a591d3-7f68-4de0-b54f-acc50f6664ca,09/07/2026 03:00:00,Independence Day,NONE,BRL,Monetary Policy
+05ce4add-7d13-4be7-8b69-e4425a8684b5,10/12/2026 03:00:00,Lady of Aparecida ,NONE,BRL,Monetary Policy

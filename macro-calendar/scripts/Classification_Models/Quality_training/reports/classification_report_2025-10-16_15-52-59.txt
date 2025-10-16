@@ -1,0 +1,18 @@
+[INFO] Accuracy: 0.9055
+
+                    precision    recall  f1-score   support
+
+        Confidence       0.83      0.82      0.82      4315
+       Consumption       0.02      0.95      0.04        37
+            Growth       0.93      0.84      0.88     14316
+           Housing       0.99      0.96      0.98      4333
+         Inflation       1.00      0.98      0.99      9287
+      Labor Market       0.99      1.00      0.99      6341
+   Monetary Policy       0.98      0.99      0.99      7654
+  Money and Credit       0.71      0.68      0.70      1571
+             Other       0.82      0.94      0.88      7768
+Trade and External       0.94      0.76      0.84      5635
+
+          accuracy                           0.91     61257
+         macro avg       0.82      0.89      0.81     61257
+      weighted avg       0.93      0.91      0.92     61257

@@ -1,0 +1,78 @@
+{
+    "accuracy": 0.8267300063666193,
+    "report": {
+        "Confidence": {
+            "precision": 0.7769197769197769,
+            "recall": 0.8393974507531866,
+            "f1-score": 0.806951097248524,
+            "support": 4315.0
+        },
+        "Consumption": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 37.0
+        },
+        "Growth": {
+            "precision": 0.9343314763231197,
+            "recall": 0.9372031293657446,
+            "f1-score": 0.93576509973497,
+            "support": 14316.0
+        },
+        "Housing": {
+            "precision": 0.9883909914093336,
+            "recall": 0.9824601892453265,
+            "f1-score": 0.9854166666666667,
+            "support": 4333.0
+        },
+        "Inflation": {
+            "precision": 0.9980312807612381,
+            "recall": 0.9825562614407236,
+            "f1-score": 0.9902333152468801,
+            "support": 9287.0
+        },
+        "Labor Market": {
+            "precision": 0.9892305291087873,
+            "recall": 0.9995268885033907,
+            "f1-score": 0.9943520552243489,
+            "support": 6341.0
+        },
+        "Monetary Policy": {
+            "precision": 0.9732785200411099,
+            "recall": 0.9898092500653253,
+            "f1-score": 0.9814742842337091,
+            "support": 7654.0
+        },
+        "Money and Credit": {
+            "precision": 0.2529929577464789,
+            "recall": 0.9147040101845958,
+            "f1-score": 0.3963591228796028,
+            "support": 1571.0
+        },
+        "Other": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 7768.0
+        },
+        "Trade and External": {
+            "precision": 0.5464437962755216,
+            "recall": 0.8644188110026619,
+            "f1-score": 0.6695992851742388,
+            "support": 5635.0
+        },
+        "accuracy": 0.8267300063666193,
+        "macro avg": {
+            "precision": 0.6459619328585366,
+            "recall": 0.7510075990560956,
+            "f1-score": 0.676015092640894,
+            "support": 61257.0
+        },
+        "weighted avg": {
+            "precision": 0.7750715873902189,
+            "recall": 0.8267300063666193,
+            "f1-score": 0.7926894408067772,
+            "support": 61257.0
+        }
+    }
+}

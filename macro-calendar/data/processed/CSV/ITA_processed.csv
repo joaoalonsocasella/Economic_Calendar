@@ -1,0 +1,111 @@
+﻿Id,Start,Name,Impact,Currency,MacroCateg
+e5ed2948-2802-402a-adb2-8092436d8118,10/16/2025 08:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR,Inflation
+b26e0cd7-7300-497c-8670-e52df7e1a816,10/16/2025 08:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR,Inflation
+a2428927-8e95-428c-ab86-232766b37e15,10/16/2025 08:00:00,Consumer Price Index (MoM),LOW,EUR,Inflation
+cfbd870f-3d65-48fb-8bb4-4efabb607c29,10/16/2025 08:00:00,Consumer Price Index (YoY),MEDIUM,EUR,Inflation
+dab3558f-1bc2-418e-bd3c-376dc5b2d39e,10/16/2025 09:00:00,Global Trade Balance,LOW,EUR,Trade and External
+8a2a278a-810b-4aa9-9ecc-a0afd0f87182,10/16/2025 09:00:00,Trade Balance EU,LOW,EUR,Trade and External
+deae1285-52a7-40ba-a573-6447cd926050,10/28/2025 09:00:00,Business Confidence,LOW,EUR,Confidence
+6050c9f6-423a-4285-b5c7-4ee27149232b,10/28/2025 09:00:00,Consumer Confidence,LOW,EUR,Confidence
+8559a603-48d8-45cb-a5db-10f9b925f737,10/29/2025 09:00:00,Trade Balance non-EU,LOW,EUR,Trade and External
+eaeb753b-ee46-466c-80e4-9bbc5d461a16,10/30/2025 09:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR,Growth
+0030c19a-cfa7-4033-8503-4b7d3da2ba2a,10/30/2025 09:00:00,Gross Domestic Product (YoY),MEDIUM,EUR,Growth
+8628bec4-14e5-424b-b6bc-ed4a1b40d31b,10/30/2025 10:00:00,Producer Price Index (MoM),LOW,EUR,Inflation
+089e88df-3cd3-4ab7-b002-3368aabc452b,10/30/2025 10:00:00,Producer Price Index (YoY),LOW,EUR,Inflation
+b892ff14-59a3-4a55-af0a-b27bc8dcac82,10/30/2025 10:00:00,Unemployment,LOW,EUR,Labor Market
+4f073588-2ece-4e68-9d87-48766b681684,10/30/2025 10:30:00,10-y Bond Auction,LOW,EUR,Money and Credit
+b7319d21-e193-435f-a890-4528be2ffc4b,10/30/2025 10:30:00,5-y Bond Auction,LOW,EUR,Money and Credit
+0e3bec59-8762-45ea-a182-24b22f231c20,10/30/2025 11:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR,Growth
+06cbdf4b-f974-4509-9082-0903aa448c54,10/30/2025 11:00:00,Industrial Sales s.a. (MoM),LOW,EUR,Growth
+e32766f2-6208-479e-8924-99e061ed420d,10/31/2025 10:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR,Inflation
+e59922fc-6a10-4cb6-93c3-a261948d4a7f,10/31/2025 10:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR,Inflation
+4a5a1816-d1e0-4123-8e87-114f2827d8ad,10/31/2025 10:00:00,Consumer Price Index (MoM),LOW,EUR,Inflation
+4831b7ad-5219-4508-ad88-12c7fdcdc6d5,10/31/2025 10:00:00,Consumer Price Index (YoY),MEDIUM,EUR,Inflation
+ad4f9ee1-70ee-4539-a305-04952526d7ca,10/31/2025 22:00:00,All Saints' Day,NONE,EUR,Growth
+dee7ab45-b9c5-4e12-b509-59bf771b2727,11/03/2025 08:45:00,HCOB Manufacturing PMI,MEDIUM,EUR,Growth
+2a45adc6-bfbe-458b-80ba-92606c6db2be,11/05/2025 08:45:00,HCOB Services PMI,LOW,EUR,Growth
+88fc95b8-3548-463e-b718-f1f8725cf080,11/06/2025 09:00:00,Retail Sales n.s.a (YoY),LOW,EUR,Growth
+5f035af8-c0fe-4f1a-93a7-2f283c370f3b,11/06/2025 09:00:00,Retail Sales s.a. (MoM),LOW,EUR,Growth
+d69c72c5-9fd7-4a2d-952f-3098b1ef0102,11/07/2025 09:00:00,Industrial Output s.a. (MoM),LOW,EUR,Growth
+7d76f7f0-a4b2-449b-8f7b-e9b6e0e8b317,11/07/2025 09:00:00,Industrial Output w.d.a (YoY),LOW,EUR,Growth
+e43234ab-2ef2-4d22-8e5e-1c89631f035d,11/14/2025 09:00:00,Global Trade Balance,LOW,EUR,Trade and External
+1d3f3b91-42ed-4f8d-8d92-71f8b630ef30,11/14/2025 09:00:00,Trade Balance EU,LOW,EUR,Trade and External
+72aee8d8-6947-4cdb-8a7e-85f084cd85b1,11/17/2025 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR,Inflation
+cf5eda70-9516-4363-9e5e-d074cc5459c1,11/17/2025 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR,Inflation
+c196f569-2517-4a7c-8580-f3b75f004b51,11/17/2025 09:00:00,Consumer Price Index (MoM),LOW,EUR,Inflation
+c4845efa-50dd-45a0-b293-bbda15fec5b9,11/17/2025 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR,Inflation
+3f47118d-d386-4cef-ab9f-9d3b50dff24f,11/28/2025 09:00:00,Business Confidence,LOW,EUR,Confidence
+c69a4f3d-af0e-4f68-a674-deeeda398212,11/28/2025 09:00:00,Consumer Confidence,LOW,EUR,Confidence
+c2b0b8c3-abd8-4792-baf5-a73ec68b5c08,11/28/2025 09:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR,Growth
+829222e2-14ad-4274-b535-6ad3636a3036,11/28/2025 09:00:00,Industrial Sales s.a. (MoM),LOW,EUR,Growth
+35a8781f-36ac-4eab-b293-c3278c27cb2e,11/28/2025 09:00:00,Trade Balance non-EU,LOW,EUR,Trade and External
+c50d75af-a65e-4df0-b398-d3a0358113d6,11/28/2025 09:00:00,Unemployment,LOW,EUR,Labor Market
+1ce8d86a-00c4-4a0d-82c7-1a24ed4db8e3,11/28/2025 10:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR,Inflation
+3695691a-4787-4a04-aa84-0a57436f5e7c,11/28/2025 10:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR,Inflation
+8756fe64-dbc8-4fdd-9bcc-630abf08fb75,11/28/2025 10:00:00,Consumer Price Index (MoM),LOW,EUR,Inflation
+bb38ab66-3ee5-44cc-b63a-5cee4c3efe56,11/28/2025 10:00:00,Consumer Price Index (YoY),MEDIUM,EUR,Inflation
+94467760-5507-4d2f-a153-72e2e9799750,11/28/2025 10:00:00,Producer Price Index (MoM),LOW,EUR,Inflation
+0fb3ff86-3a5b-47c3-9a0f-d96d26ca1ec6,11/28/2025 10:00:00,Producer Price Index (YoY),LOW,EUR,Inflation
+1a6fefd0-cc86-4f0f-8fe9-391ad86f73fe,12/01/2025 08:45:00,HCOB Manufacturing PMI,MEDIUM,EUR,Growth
+6f3f7175-22df-4c08-8103-b79e5ff7af4a,12/01/2025 09:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR,Growth
+45553b86-c646-48d1-8d2c-8b7d73a70ef6,12/01/2025 09:00:00,Gross Domestic Product (YoY),MEDIUM,EUR,Growth
+f2910e92-b790-49a6-aafa-5a6c19fa8a62,12/03/2025 08:45:00,HCOB Services PMI,LOW,EUR,Growth
+d9a3c691-ebba-4d93-889f-dad8411a1c74,12/05/2025 09:00:00,Retail Sales n.s.a (YoY),LOW,EUR,Growth
+77fa7ae2-3bd7-4463-91a0-41096adc8642,12/05/2025 09:00:00,Retail Sales s.a. (MoM),LOW,EUR,Growth
+48c82cf6-0824-4dc0-8d6b-9bc027b860a0,12/07/2025 22:00:00,Immaculate Conception Day,NONE,EUR,Monetary Policy
+6b970ee5-92ba-4932-ba83-5a83c9eefbd8,12/10/2025 09:00:00,Industrial Output s.a. (MoM),LOW,EUR,Growth
+df0b23fb-2e58-4b9f-8ac3-2d15fafccee4,12/10/2025 09:00:00,Industrial Output w.d.a (YoY),LOW,EUR,Growth
+6008f448-c274-4cac-a38f-41e4b6217f58,12/16/2025 09:00:00,Global Trade Balance,LOW,EUR,Trade and External
+741f6975-187e-44ef-ac96-79ff43cf0b22,12/16/2025 09:00:00,Trade Balance EU,LOW,EUR,Trade and External
+4de862d3-4dac-4145-8029-f6d48a9c6fc7,12/17/2025 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR,Inflation
+4cfd0f89-6722-4784-8e34-a6182dd5f2d9,12/17/2025 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR,Inflation
+69048805-c0b0-4b4f-a4a5-51b1afffeff4,12/17/2025 09:00:00,Consumer Price Index (MoM),LOW,EUR,Inflation
+0cd1d2b0-13ab-4882-b217-39a34f10768c,12/17/2025 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR,Inflation
+21e9ac7e-eba6-4119-bf7a-47385d400650,12/19/2025 09:00:00,Business Confidence,LOW,EUR,Confidence
+87523891-f739-4434-8d33-fe2b73236579,12/19/2025 09:00:00,Consumer Confidence,LOW,EUR,Confidence
+846785bc-cf38-4464-ae8b-87627a57e9ef,12/19/2025 09:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR,Growth
+11059421-ad5b-4eaf-9cba-981eccf8f909,12/19/2025 09:00:00,Industrial Sales s.a. (MoM),LOW,EUR,Growth
+e2553418-b85c-4dec-8b99-deb3e4cd81e1,12/19/2025 10:00:00,Producer Price Index (MoM),LOW,EUR,Inflation
+2b7acbb7-e3b1-4d53-9b84-b5ceafe09702,12/19/2025 10:00:00,Producer Price Index (YoY),LOW,EUR,Inflation
+6a388c69-3079-4b11-84b0-4903ae88ef89,12/22/2025 09:00:00,Trade Balance non-EU,LOW,EUR,Trade and External
+451d88b2-f97e-4377-8ccd-eb269a2fb4a6,12/24/2025 22:00:00,Christmas Day ,NONE,EUR,Monetary Policy
+6ace7f17-ab1c-46da-9358-d90429df6e64,12/31/2025 22:00:00,New Year's Day,NONE,EUR,Money and Credit
+a71f2751-d594-4c7c-86c9-0d0f8bf27ab4,01/02/2026 08:45:00,HCOB Manufacturing PMI,MEDIUM,EUR,Growth
+0ac9a333-95b7-4203-a291-ea06d69428c3,01/05/2026 08:45:00,HCOB Services PMI,LOW,EUR,Growth
+dd04a0c0-cbe5-496b-a79d-ecd175423c14,01/05/2026 22:00:00,Epiphany,NONE,EUR,Monetary Policy
+78b10d7d-3639-442a-895a-161c8c291eee,01/06/2026 09:00:00,Public Deficit/GDP,LOW,EUR,Growth
+90be43c1-c179-407b-9a98-9b081ba0d3f6,01/06/2026 10:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR,Inflation
+f6cc418a-a988-4d01-a2bc-c7656cbcc60e,01/06/2026 10:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR,Inflation
+9d8b6094-381a-40ff-9440-2b7a6e7719ae,01/06/2026 10:00:00,Consumer Price Index (MoM),LOW,EUR,Inflation
+5d5d3041-8984-46ae-bffa-d59baa41f614,01/06/2026 10:00:00,Consumer Price Index (YoY),MEDIUM,EUR,Inflation
+da4eb025-9eaa-48d8-9bd3-677364696525,01/08/2026 09:00:00,Retail Sales n.s.a (YoY),LOW,EUR,Growth
+9d01a8e8-b3f0-41dd-a8e3-f4032ed2cae3,01/08/2026 09:00:00,Retail Sales s.a. (MoM),LOW,EUR,Growth
+63eef3f1-9e8a-4bbe-b396-859fd52b43b9,01/08/2026 09:00:00,Unemployment,LOW,EUR,Labor Market
+873a3a3d-e648-4d1c-91a7-27a5f3ddcdb4,01/09/2026 09:00:00,Industrial Output s.a. (MoM),LOW,EUR,Growth
+9cc7d973-1003-48ba-a0ea-08d63e5c2f5e,01/09/2026 09:00:00,Industrial Output w.d.a (YoY),LOW,EUR,Growth
+2b7babdd-4f84-495a-8733-aa2f8e40e165,01/15/2026 09:00:00,Global Trade Balance,LOW,EUR,Trade and External
+729078cb-ff9f-4bb8-8dfe-3a7186af2ed5,01/15/2026 09:00:00,Trade Balance EU,LOW,EUR,Trade and External
+642d0867-99f2-4a10-bb4d-117fb5ba3317,01/16/2026 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR,Inflation
+b5911769-107a-464f-a238-0be45602d7e1,01/16/2026 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR,Inflation
+e0481602-cac6-4518-b8cd-307bab78cbb1,01/16/2026 09:00:00,Consumer Price Index (MoM),LOW,EUR,Inflation
+5fa02048-7509-41bb-91a0-f173ba10564b,01/16/2026 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR,Inflation
+ab45858a-9f56-4d5d-98cf-4aa435b24d0d,01/29/2026 09:00:00,Business Confidence,LOW,EUR,Confidence
+06376ef2-33ab-4009-b7e0-879a1d9d1310,01/29/2026 09:00:00,Consumer Confidence,LOW,EUR,Confidence
+35a196be-409f-4e85-8340-dea836881c28,01/30/2026 09:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR,Growth
+00bfcd12-2b2c-4b14-80ed-348a3b267c26,01/30/2026 09:00:00,Gross Domestic Product (YoY),MEDIUM,EUR,Growth
+44d1f290-dbdf-4ea3-a99b-3f1198d85c65,01/30/2026 09:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR,Growth
+d4a58ecb-3cf3-4e33-ab5b-4fea2b1d3c07,01/30/2026 09:00:00,Industrial Sales s.a. (MoM),LOW,EUR,Growth
+10ab6d9e-1ff6-4b43-8002-3cc970cc4c51,01/30/2026 09:00:00,Trade Balance non-EU,LOW,EUR,Trade and External
+ce604854-5f80-4509-948b-3adfb41f0a4e,01/30/2026 09:00:00,Unemployment,LOW,EUR,Labor Market
+f83a0c2d-4373-4f3d-9f14-c164956d2e55,01/30/2026 10:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR,Inflation
+9e23327b-c559-458c-a011-2c5de0d148f0,01/30/2026 10:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR,Inflation
+b5da7e17-f3b1-4344-848d-217a81445eeb,01/30/2026 10:00:00,Consumer Price Index (MoM),LOW,EUR,Inflation
+28209268-385e-4789-9432-ab6bf25f7037,01/30/2026 10:00:00,Consumer Price Index (YoY),MEDIUM,EUR,Inflation
+624d2f5f-8480-4e8a-8e82-868f1f5d02d5,01/30/2026 10:00:00,Producer Price Index (MoM),LOW,EUR,Inflation
+c03c6612-9052-42c4-9371-bd5b1b9d088a,01/30/2026 10:00:00,Producer Price Index (YoY),LOW,EUR,Inflation
+8e50adda-f0c3-4811-9581-6885b29259e7,04/05/2026 22:00:00,Easter Monday,NONE,EUR,Monetary Policy
+aa9bbaf7-cd4f-44f3-9904-37890fcd934b,04/24/2026 22:00:00,Liberation Day,NONE,EUR,Monetary Policy
+db3a0b1f-154a-45f9-aeac-a56b6d3e7791,04/30/2026 22:00:00,Labour Day ,NONE,EUR,Monetary Policy
+4eacdf75-5097-49c1-9156-c84c7cf9f9ac,06/01/2026 22:00:00,Republic Day,NONE,EUR,Monetary Policy
+5fc0df2e-2fbf-43ba-8233-790840978363,08/14/2026 22:00:00,Assumption Day,NONE,EUR,Monetary Policy
+b56ed67e-658e-4187-a864-2da399e7bb1c,10/31/2026 22:00:00,All Saints' Day,NONE,EUR,Growth

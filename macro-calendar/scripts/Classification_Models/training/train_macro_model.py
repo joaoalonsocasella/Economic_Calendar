@@ -17,13 +17,24 @@ MODEL_PATH = os.path.join(MODEL_DIR, "macro_model.pkl")
 os.makedirs(MODEL_DIR, exist_ok=True)
 
 def clean_text(text: str) -> str:
-    text - str(text).lower()
+    text = str(text).lower()
     text = re.sub(r"[^a-zA-Z0-9\s]","",text)
     text = re.sub(r"\s+"," ",text).strip()
     return text
 
 print(f"[INFO] Loading dataset: {DATASET_PATH}")
 df = pd.read_excel(DATASET_PATH)
+
+def merge_categories(df):
+    mapping = {
+        "Consumption": "Growth"
+        #"Confidence": "Growth"
+    }
+    df["MacroCateg"] = df["MacroCateg"].replace(mapping)
+    return df
+df = df[df["MacroCateg"] != "Other"]
+df = merge_categories(df)
+
 
 required = ["Event", "MacroCateg"]
 for col in required:
@@ -49,12 +60,13 @@ print("tf(t) is the term frequency and idf(t) is the rarity of the term across a
 
 pipeline = Pipeline([
     ("tfidf", TfidfVectorizer(
-        ngram_range=(1,2),
+        ngram_range=(1,3),
         min_df=2,
         max_df=0.95,
         sublinear_tf=True)),
         ("clf", LogisticRegression(
-            max_iter=1000,
+            C=2,
+            max_iter=2000,
             class_weight="balanced",
             n_jobs=-1,
             solver="lbfgs",

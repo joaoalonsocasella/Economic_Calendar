@@ -23,6 +23,20 @@ def run(playwright: Playwright) -> None:
     page.wait_for_timeout(1200)
     page.get_by_role("checkbox", name="Greece Greece").check()
     page.wait_for_timeout(1200)
+
+    # --- UNCHECK HOLIDAYS ---
+    print("[INFO] Unchecking 'Holidays' checkbox...")
+    try:
+        holidays_box = page.get_by_role("checkbox", name="Holidays")
+        if holidays_box.is_checked():
+            holidays_box.uncheck()
+            print("[OK] 'Holidays' unchecked successfully.")
+        else:
+            print("[INFO] 'Holidays' was already unchecked.")
+    except Exception as e:
+        print(f"[WARN] Could not uncheck 'Holidays' ({e})")
+
+    page.wait_for_timeout(1200)
     page.get_by_role("button", name="Apply filter").click()
     page.wait_for_timeout(1200)
 

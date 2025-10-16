@@ -1,0 +1,47 @@
+﻿Id,Start,Name,Impact,Currency,MacroCateg
+65c0920f-c974-4833-bf8b-6bcc37645dcd,10/26/2025 23:00:00,October Holiday (Halloween) ,NONE,EUR,Monetary Policy
+90051bd7-81ff-4a1e-8091-e11761fa18f7,10/28/2025 00:01:00,Consumer Confidence,LOW,EUR,Confidence
+3258c782-b0a2-4aae-add7-ae428c38f447,10/30/2025 11:00:00,Retail Sales (MoM),LOW,EUR,Growth
+6e1b1766-d63e-4a60-8193-44c216397c66,10/30/2025 11:00:00,Retail Sales (YoY),LOW,EUR,Growth
+0d25b654-dc15-4eb7-8730-df9cb5dd8817,11/03/2025 01:01:00,AIB Manufacturing PMI,LOW,EUR,Growth
+07265689-3f82-4b3f-a981-e5ca6ed85ece,11/05/2025 01:01:00,AIB Services PMI,LOW,EUR,Growth
+8c07b1df-3a37-4bf2-b397-4c19ce860ce9,11/13/2025 11:00:00,Consumer Price Index (MoM),LOW,EUR,Inflation
+eb3a6065-adf6-4e05-935d-0265bf93ede2,11/13/2025 11:00:00,Consumer Price Index (YoY),LOW,EUR,Inflation
+17e79f0a-c320-41b7-8301-47ebb38b1daf,11/13/2025 11:00:00,HICP (MoM),LOW,EUR,Inflation
+0732d116-9e20-4acf-83a6-1b2ce70211ec,11/13/2025 11:00:00,HICP (YoY),LOW,EUR,Inflation
+911fa6e1-7585-428d-a077-c47407001323,11/27/2025 00:01:00,Consumer Confidence,LOW,EUR,Confidence
+1ea87520-a88e-4e8a-950b-d0a4c46b12a5,11/28/2025 11:00:00,Retail Sales (MoM),LOW,EUR,Growth
+8bc58ee4-46d6-4d51-bc81-e277be4f1a16,11/28/2025 11:00:00,Retail Sales (YoY),LOW,EUR,Growth
+28806156-b944-41bf-88a5-77e23530d469,12/01/2025 01:01:00,AIB Manufacturing PMI,LOW,EUR,Growth
+9773cdd8-baad-443c-9875-19bcf56016ad,12/03/2025 01:01:00,AIB Services PMI,LOW,EUR,Growth
+02331b7c-b969-4c2c-a5bf-4693bd7252ed,12/04/2025 11:00:00,Gross Domestic Product (QoQ),LOW,EUR,Growth
+0177a837-5b3f-4f7d-bed1-9541f2ecf4e1,12/04/2025 11:00:00,Gross Domestic Product (YoY),LOW,EUR,Growth
+458a1ee9-ee05-417f-a6cd-deed4ee3e2e1,12/11/2025 11:00:00,Consumer Price Index (MoM),LOW,EUR,Inflation
+4c36f6e0-ef47-4986-b6e6-749b3e666608,12/11/2025 11:00:00,Consumer Price Index (YoY),LOW,EUR,Inflation
+3f09f34b-5d87-4d68-b199-913b702aca20,12/11/2025 11:00:00,HICP (MoM),LOW,EUR,Inflation
+5ca3d392-fbb1-4d13-b6e7-75a0fe924017,12/11/2025 11:00:00,HICP (YoY),LOW,EUR,Inflation
+8ded77d4-b2a2-462e-be94-16100c9ec1bf,12/19/2025 00:01:00,Consumer Confidence,LOW,EUR,Confidence
+fc9b0236-eb71-4151-adf0-f401021ddf8c,12/24/2025 23:00:00,Christmas Day ,NONE,EUR,Monetary Policy
+3c8fce6c-e57a-42e7-a23a-eaaf94b666dd,12/25/2025 23:00:00,St. Stephen's Day,NONE,EUR,Monetary Policy
+5efcf387-8e2f-469e-a7fc-73ef816320b5,12/31/2025 23:00:00,New Year's Day,NONE,EUR,Money and Credit
+feffae43-cb95-47c1-bb2b-d0672ed7338e,01/01/2026 23:00:00,New Year's Holiday,NONE,EUR,Money and Credit
+6e5d91d6-5f7c-481b-8412-e8736bec46a6,01/02/2026 01:01:00,AIB Manufacturing PMI,LOW,EUR,Growth
+c278975c-1135-42b6-ab4c-80452efa372f,01/05/2026 01:01:00,AIB Services PMI,LOW,EUR,Growth
+4217751c-648b-49a1-8816-c0e0f9a5a2b0,01/08/2026 11:00:00,Retail Sales (MoM),LOW,EUR,Growth
+33e226be-6e0a-49a7-8e1c-8ed3d71f1fd7,01/08/2026 11:00:00,Retail Sales (YoY),LOW,EUR,Growth
+f7ba8fb4-a329-4acd-8412-39d501d86b2e,01/15/2026 11:00:00,Consumer Price Index (MoM),LOW,EUR,Inflation
+acd1366a-4a7f-4bd9-9d46-8e35b0cb3e37,01/15/2026 11:00:00,Consumer Price Index (YoY),LOW,EUR,Inflation
+68f95727-28a1-4189-bad6-5b6207337a4a,01/15/2026 11:00:00,HICP (MoM),LOW,EUR,Inflation
+2c971176-fefe-4dd6-8345-dcdd656a63f3,01/15/2026 11:00:00,HICP (YoY),LOW,EUR,Inflation
+4886db8f-a5be-4e67-aa5b-d6a75c61c273,01/27/2026 00:01:00,Consumer Confidence,LOW,EUR,Confidence
+4813726b-c036-4e60-bc14-642d56c6c54d,01/29/2026 11:00:00,Retail Sales (MoM),LOW,EUR,Growth
+19f0dc6b-1f31-4136-91ef-919dec5f0615,01/29/2026 11:00:00,Retail Sales (YoY),LOW,EUR,Growth
+7e478fc6-cc9c-43d5-8b4f-15115d95afdf,03/02/2026 11:00:00,Gross Domestic Product (QoQ),LOW,EUR,Growth
+82505b94-40e7-4e22-b512-302938d47218,03/02/2026 11:00:00,Gross Domestic Product (YoY),LOW,EUR,Growth
+fd3f876b-ed74-45b3-b892-9c13b21016e1,03/16/2026 23:00:00,St Patrick's Day,NONE,EUR,Monetary Policy
+1e903000-fba2-455e-bb97-74ce1490018d,04/02/2026 23:00:00,Good Friday,NONE,EUR,Monetary Policy
+e600495a-9e98-4525-8fde-c0cfe300dfc5,04/05/2026 23:00:00,Easter Monday ,NONE,EUR,Monetary Policy
+9db83e1f-e416-4a89-8ee7-647dba784e4f,05/03/2026 23:00:00,May Bank Holiday,NONE,EUR,Money and Credit
+30a32935-600a-4c24-bfef-d94426fdc94e,05/31/2026 23:00:00,June Holiday ,NONE,EUR,Monetary Policy
+3a8c77ee-0199-4038-b1da-0bd7ac4fe998,08/02/2026 23:00:00,August Holiday ,NONE,EUR,Monetary Policy
+5671fa7e-faa5-44fb-bbed-8aab2c054068,10/25/2026 23:00:00,October Holiday (Halloween) ,NONE,EUR,Monetary Policy

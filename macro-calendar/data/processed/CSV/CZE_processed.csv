@@ -1,0 +1,64 @@
+﻿Id,Start,Name,Impact,Currency,MacroCateg
+ce06ef6c-febb-4f4f-ab67-ba70f4e2c8b1,10/14/2025 08:00:00,Current Account (MoM),LOW,CZK,Trade and External
+f2cd16b4-771f-406f-a2ac-344340ed718d,10/16/2025 07:00:00,Producer Price Index (MoM),LOW,CZK,Inflation
+81d9405c-ab3a-4a92-aa20-9681b746826b,10/16/2025 07:00:00,Producer Price Index (YoY),LOW,CZK,Inflation
+25d8592e-2b6a-459b-b0ae-45f048bd67ba,10/27/2025 22:00:00,Foundation of the independent Czechoslovak State ,NONE,CZK,Confidence
+f8bfa818-d200-4ae3-8a34-ebb8fa0b4e51,10/30/2025 08:00:00,Gross Domestic Product (YoY) 	,LOW,CZK,Growth
+83dc822e-a24d-484d-b7e8-5a75a00397ea,11/03/2025 08:30:00,S&P Global PMI,LOW,CZK,Growth
+b3e0c401-9e3d-4da8-9500-c4399a8138f8,11/03/2025 13:00:00,Budget Balance,LOW,CZK,Trade and External
+eb79c27e-98b6-4f54-a89e-4e5a78a4d9d5,11/06/2025 08:00:00,Construction output (YoY),LOW,CZK,Growth
+a82868ed-7e6c-4c96-9ff7-4c9cae944950,11/06/2025 08:00:00,Foreign Trade Balance (MoM),LOW,CZK,Trade and External
+8fdfc108-8df7-41f6-966d-5c4907197cb7,11/06/2025 08:00:00,Industrial Production (YoY),LOW,CZK,Growth
+5af78e08-5f6e-4530-8a18-9d19ac280cb9,11/06/2025 13:30:00,CNB Interest Rate Decision,LOW,CZK,Monetary Policy
+b7ba5680-57cd-488d-9732-5a7961fbb9df,11/07/2025 08:00:00,Retail Sales (YoY),LOW,CZK,Growth
+355b08a7-f2f0-458c-a176-0c5e468cba0f,11/07/2025 09:00:00,FX Reserves,LOW,CZK,Money and Credit
+bf55498d-c26b-4f27-8b58-5fe8ddc9a7f4,11/10/2025 08:00:00,Unemployment Rate,LOW,CZK,Labor Market
+9257c64a-bf83-4059-885c-8154290d296a,11/11/2025 08:00:00,Consumer Price Index (MoM),LOW,CZK,Inflation
+e3e95b37-0c5e-4a45-808f-d7af5228489a,11/11/2025 08:00:00,Consumer Price Index (YoY),LOW,CZK,Inflation
+8f22c01b-ad7b-4abb-8e61-8bdb5827d746,11/13/2025 09:00:00,Current Account (MoM),LOW,CZK,Trade and External
+050c3d96-195f-42d8-a91d-798b93be52df,11/16/2025 22:00:00,Struggle for Freedom and Democracy Day ,NONE,CZK,Monetary Policy
+3ed27fcd-049c-4eb4-b282-b9e514842c2b,11/18/2025 08:00:00,Producer Price Index (MoM),LOW,CZK,Inflation
+d3207db2-6b8c-4907-95ee-33093232de58,11/18/2025 08:00:00,Producer Price Index (YoY),LOW,CZK,Inflation
+185634fe-ec25-4130-9678-e7844263a5b0,11/28/2025 08:00:00,Gross Domestic Product (YoY) 	,LOW,CZK,Growth
+b22c3371-ec1d-4cea-ba30-97d5be328867,12/01/2025 08:30:00,S&P Global PMI,LOW,CZK,Growth
+f38e1609-7471-4c50-9eb7-7db72dccef53,12/02/2025 13:00:00,Budget Balance,LOW,CZK,Trade and External
+93a8a50c-c3f6-45a6-bfba-5bcf60b74604,12/05/2025 08:00:00,Retail Sales (YoY),LOW,CZK,Growth
+4a7ca20b-2a9f-4bbc-be9f-f92c49aac756,12/08/2025 08:00:00,Construction output (YoY),LOW,CZK,Growth
+b78588ae-a2e2-4564-a445-f626b396b5ac,12/08/2025 08:00:00,Foreign Trade Balance (MoM),LOW,CZK,Trade and External
+74427e17-98d5-4c9f-bb6a-1441ed6eec28,12/08/2025 08:00:00,Industrial Production (YoY),LOW,CZK,Growth
+00b9cb66-a2c3-41d6-8f13-0abfc6b1a392,12/09/2025 08:00:00,Unemployment Rate,LOW,CZK,Labor Market
+4a463c74-c1e1-4b16-9884-3f84f91c186c,12/09/2025 09:00:00,FX Reserves,LOW,CZK,Money and Credit
+44ef6385-17a8-412c-bc99-3045d6f0ee33,12/10/2025 08:00:00,Consumer Price Index (MoM),LOW,CZK,Inflation
+4945363d-756b-4899-9436-c15b387b74ae,12/10/2025 08:00:00,Consumer Price Index (YoY),LOW,CZK,Inflation
+8258d8a7-256f-4b35-be5a-c9ee8e886581,12/15/2025 09:00:00,Current Account (MoM),LOW,CZK,Trade and External
+01a03fba-6372-421e-a355-fac6e29f35fb,12/16/2025 08:00:00,Producer Price Index (MoM),LOW,CZK,Inflation
+d7dba87f-a7b0-4e28-a23f-70413f20950c,12/16/2025 08:00:00,Producer Price Index (YoY),LOW,CZK,Inflation
+c9685ff5-dbce-4076-8615-6b80376ccc58,12/18/2025 13:30:00,CNB Interest Rate Decision,LOW,CZK,Monetary Policy
+04007ecd-348d-4396-b903-ce3e2467ab23,12/22/2025 09:00:00,Foreign Debt,LOW,CZK,Trade and External
+b79866a9-6103-4379-a7bd-32f07d41e817,12/23/2025 22:00:00,Christmas Eve ,NONE,CZK,Monetary Policy
+4b49b6fa-9c02-4ffb-a4a2-37448f816701,12/24/2025 22:00:00,Christmas Day ,NONE,CZK,Monetary Policy
+74945c3c-28cf-43bb-a30c-fcffe3699279,12/26/2025 22:00:00,St. Stephen's Day,NONE,CZK,Monetary Policy
+8e6a8c8b-3001-4922-817b-7d683fcabc34,12/31/2025 22:00:00,Restoration Day of the Independent Czech State,NONE,CZK,Confidence
+6d7718d3-392e-454f-bdef-fa8aadd1b2bb,01/02/2026 08:00:00,Gross Domestic Product (YoY) 	,LOW,CZK,Growth
+5f8f54da-d790-4072-bf6d-024d660525ea,01/02/2026 08:30:00,S&P Global PMI,LOW,CZK,Growth
+4021fd62-3487-46b8-8ee7-53049e5a3484,01/02/2026 13:00:00,Budget Balance,LOW,CZK,Trade and External
+3bfe43b4-9464-41cd-bf07-874d7b11dfed,01/06/2026 08:00:00,Foreign Trade Balance (MoM),LOW,CZK,Trade and External
+99a5564d-b55c-449d-8d32-4b535d3207d9,01/07/2026 09:00:00,FX Reserves,LOW,CZK,Money and Credit
+c9083f62-aa40-407f-b46a-b9145c1bb93a,01/08/2026 08:00:00,Construction output (YoY),LOW,CZK,Growth
+1447e142-36a4-4866-b90e-bc61316d8524,01/08/2026 08:00:00,Industrial Production (YoY),LOW,CZK,Growth
+256dd210-5242-4884-a90a-a4ae22be69bc,01/08/2026 08:00:00,Unemployment Rate,LOW,CZK,Labor Market
+1be487e7-64ec-4ad4-96de-de47fe1fdd01,01/12/2026 08:00:00,Retail Sales (YoY),LOW,CZK,Growth
+00bec9bf-bbeb-4bfb-9f9d-30b2ae047dbe,01/13/2026 08:00:00,Consumer Price Index (MoM),LOW,CZK,Inflation
+b01f269d-58cc-4d59-add6-31bbc251a44f,01/13/2026 08:00:00,Consumer Price Index (YoY),LOW,CZK,Inflation
+a404f832-0257-474f-a609-bdcc5d7d2801,01/13/2026 09:00:00,Current Account (MoM),LOW,CZK,Trade and External
+e45d3373-ecbe-4566-aeb7-b39d9d22eb47,01/16/2026 08:00:00,Producer Price Index (MoM),LOW,CZK,Inflation
+2acc81cf-6f69-4ed8-8c9d-5301656bcdd3,01/16/2026 08:00:00,Producer Price Index (YoY),LOW,CZK,Inflation
+e6e9ef28-22cd-43d0-ae90-e9eefb106cda,01/30/2026 08:00:00,Gross Domestic Product (YoY) 	,LOW,CZK,Growth
+93720848-724a-4da9-b9b9-f6e30c4acd23,03/23/2026 09:00:00,Foreign Debt,LOW,CZK,Trade and External
+2627007c-7194-42e6-9760-ddbaa87e55d0,04/05/2026 22:00:00,Easter Monday ,NONE,CZK,Monetary Policy
+720a50ab-2d99-4904-a7a1-ce098941e27f,04/30/2026 22:00:00,Labour Day,NONE,CZK,Monetary Policy
+84461fc5-2b6a-479b-8f8e-fa8cd25e320c,05/07/2026 22:00:00,Liberation Day ,NONE,CZK,Monetary Policy
+c7d90811-0728-4678-8c01-f3a0812dc578,07/04/2026 22:00:00,St Cyril and Methodius Day,NONE,CZK,Monetary Policy
+e619fd60-ba7d-44fb-b752-64123ccd44a1,07/05/2026 22:00:00,Jan Hus Day ,NONE,CZK,Growth
+d5c69394-6cb7-41f9-a32f-fe2c9591c10e,09/27/2026 22:00:00,St Wenceslas Day ,NONE,CZK,Monetary Policy
+959959c1-6f9f-48c7-b85d-6f21472c9b91,10/27/2026 22:00:00,Foundation of the independent Czechoslovak State ,NONE,CZK,Confidence

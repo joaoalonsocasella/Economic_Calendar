@@ -1,0 +1,51 @@
+﻿Id,Start,Name,Impact,Currency,MacroCateg
+29450d6c-2aba-4a23-976c-8cf93870dd21,10/16/2025 03:00:00,Retail Sales (YoY),LOW,IDR,Growth
+6cfd73cd-cf36-4b3e-93ee-0b867d5220c6,10/22/2025 07:30:00,Bank Indonesia Rate,LOW,IDR,Monetary Policy
+e24385f3-f89e-41b9-929e-780ba19a9cf1,11/03/2025 00:30:00,S&P Global Manufacturing PMI,LOW,IDR,Growth
+c3db6feb-8c24-443c-93be-6322f40335b4,11/03/2025 04:00:00,Core Inflation (YoY),LOW,IDR,Inflation
+672fda95-19af-4598-b682-70524528c025,11/03/2025 04:00:00,Exports,LOW,IDR,Trade and External
+c9d1b9e0-e68c-413a-94a6-5a7d4ffbc21d,11/03/2025 04:00:00,Imports,LOW,IDR,Trade and External
+c09436f2-ccd3-4720-8756-5d1c8a0d3a48,11/03/2025 04:00:00,Inflation (MoM),LOW,IDR,Inflation
+8d567497-114b-44c6-aeb8-7df22197220f,11/03/2025 04:00:00,Inflation (YoY),LOW,IDR,Inflation
+11393d73-f1fa-4b03-918b-9a75d98b9b8a,11/03/2025 04:00:00,Trade Balance,LOW,IDR,Trade and External
+31d295d0-7fb4-4db0-bae4-2d5108f36032,11/07/2025 03:00:00,Foreign Reserves,LOW,IDR,Money and Credit
+20d083f1-b704-4dfe-86b0-74475eb23aa7,11/07/2025 04:00:00,Gross Domestic Product (QoQ),LOW,IDR,Growth
+57ac5cda-635e-4cd9-84d8-e69fd5133e1d,11/07/2025 04:00:00,Gross Domestic Product (YoY),LOW,IDR,Growth
+a4a56317-36fa-4121-aff0-12577ed4ca57,11/11/2025 03:00:00,Consumer Confidence,MEDIUM,IDR,Confidence
+51244641-dedf-4bfe-93b3-26f7183d5849,11/11/2025 03:00:00,Retail Sales (YoY),LOW,IDR,Growth
+6a56a406-4c42-485e-b341-82f714be2ff1,11/17/2025 04:00:00,Exports,LOW,IDR,Trade and External
+2c3196f8-c510-44dc-aca5-113793d3af4d,11/17/2025 04:00:00,Imports,LOW,IDR,Trade and External
+33f19772-b0bb-49ff-9a5e-e740961f7906,11/17/2025 04:00:00,Trade Balance,LOW,IDR,Trade and External
+36946ae6-9cb4-42f2-9a0d-0e54aebfec0e,11/19/2025 07:30:00,Bank Indonesia Rate,LOW,IDR,Monetary Policy
+89a2a917-2b90-46bc-8f38-24446985d681,12/01/2025 00:30:00,S&P Global Manufacturing PMI,LOW,IDR,Growth
+a3d63be7-8452-46f7-85b3-0f994dad9ea1,12/01/2025 04:00:00,Core Inflation (YoY),LOW,IDR,Inflation
+95df4e14-0f7e-4d5e-9b50-fed54466d78c,12/01/2025 04:00:00,Inflation (MoM),LOW,IDR,Inflation
+630f2676-b141-45e6-a242-d17ea7149f5d,12/01/2025 04:00:00,Inflation (YoY),LOW,IDR,Inflation
+081875c5-f265-4fb0-addb-b1360b6fb068,12/05/2025 03:00:00,Foreign Reserves,LOW,IDR,Money and Credit
+322e97ec-1aa0-42ab-ac7e-c3504542ae70,12/10/2025 03:00:00,Consumer Confidence,MEDIUM,IDR,Confidence
+ee2150a3-925a-4fe7-b5c2-97c5a95519e3,12/11/2025 03:00:00,Retail Sales (YoY),LOW,IDR,Growth
+dd93f08b-77f5-47e3-b8ce-8caf090a9349,12/16/2025 04:00:00,Exports,LOW,IDR,Trade and External
+81043626-0212-486c-804a-db99c3ad8c52,12/16/2025 04:00:00,Imports,LOW,IDR,Trade and External
+23221250-b8c6-4f0c-839d-f779c8dec12d,12/16/2025 04:00:00,Trade Balance,LOW,IDR,Trade and External
+77ee2154-6cf4-4cdb-9d3c-716ebbd7ad3f,12/17/2025 07:30:00,Bank Indonesia Rate,LOW,IDR,Monetary Policy
+1a3a6181-fc13-4933-8fe6-82f3b872a109,12/24/2025 17:00:00,Christmas Day,NONE,IDR,Monetary Policy
+834360f6-b98d-4a6e-a420-63f3adc981b4,12/31/2025 17:00:00,New Year's Day,NONE,IDR,Money and Credit
+94cf1607-0a9a-4b7b-abe5-8f47b5727a1d,01/01/2026 04:00:00,Core Inflation (YoY),LOW,IDR,Inflation
+86dfe837-bd44-4ded-92a7-ac386f12a326,01/01/2026 04:00:00,Inflation (MoM),LOW,IDR,Inflation
+bfc99d1c-fb02-4f81-b1a1-413dbd3a97a3,01/01/2026 04:00:00,Inflation (YoY),LOW,IDR,Inflation
+2e5db5e0-6717-48df-a296-8e808ad1eedc,01/02/2026 00:30:00,S&P Global Manufacturing PMI,LOW,IDR,Growth
+35ea6e45-9c48-4452-83f0-7c3ffc51fb0e,01/07/2026 03:00:00,Foreign Reserves,LOW,IDR,Money and Credit
+44f43518-3394-477b-9338-d2d7619f1195,01/09/2026 03:00:00,Consumer Confidence,MEDIUM,IDR,Confidence
+d9e38f32-79e8-449f-bc8e-8474bd773f9b,01/13/2026 03:00:00,Retail Sales (YoY),LOW,IDR,Growth
+bfd5a5fb-3615-49d2-9bad-7ab6781debac,01/15/2026 04:00:00,Exports,LOW,IDR,Trade and External
+30edc0d3-8d0d-41eb-87e2-5b24166789ae,01/15/2026 04:00:00,Imports,LOW,IDR,Trade and External
+0bd73325-9aa7-49b0-95cb-6de2ebe18d19,01/15/2026 04:00:00,Trade Balance,LOW,IDR,Trade and External
+f189412f-f7bb-43c4-99a4-823a5e37e200,01/21/2026 07:30:00,Bank Indonesia Rate,LOW,IDR,Monetary Policy
+04c3e834-5062-4159-ac66-10e93be95d25,02/02/2026 04:00:00,Core Inflation (YoY),LOW,IDR,Inflation
+b4b8a2f4-bc24-4c29-89cc-61328ea7d8bf,02/02/2026 04:00:00,Inflation (MoM),LOW,IDR,Inflation
+17bbc0df-16cc-4972-8943-8fcb2030c3c5,02/02/2026 04:00:00,Inflation (YoY),LOW,IDR,Inflation
+fcb62018-8009-40c0-8d41-fca0a8775744,02/06/2026 04:00:00,Gross Domestic Product (QoQ),LOW,IDR,Growth
+f512ad9a-b7a2-4421-bdce-9c8411bde564,02/06/2026 04:00:00,Gross Domestic Product (YoY),LOW,IDR,Growth
+e4e5a420-3c97-4c8d-8e84-682ad17a0f2e,04/30/2026 17:00:00,Labour Day,NONE,IDR,Monetary Policy
+8df30f43-b9f7-4d07-901f-2c47c9e63e36,05/31/2026 17:00:00,Pancasila Day,NONE,IDR,Monetary Policy
+3b080200-f186-4712-bf07-05501639d3f5,08/16/2026 17:00:00,Independence Day,NONE,IDR,Monetary Policy
