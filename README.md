@@ -94,7 +94,7 @@ Below is an example of the model’s parameter sensitivity curve and final class
 </p>
 
 <p align="center">
-<img src="macro-calendar\scripts\Classification_Models\Quality_training\macro_model\plots\confusion_matrix_2025-10-16_17-16-34.png" alt="Macro Model Class Distribution" width="450">
+<img src="macro-calendar\scripts\Classification_Models\Quality_training\macro_model\plots\confusion_matrix_2025-10-16_17-16-34.png" alt="Macro Model Confusion Matrix" width="450">
 </p>
 
 <p align="center">
