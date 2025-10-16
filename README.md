@@ -5,54 +5,155 @@ This repository hosts a continuously updated collection of **global economic cal
 
 All calendars are automatically updated through **GitHub Actions** and can be easily downloaded and added to **Outlook**, **Google Calendar**, **Apple Calendar**, or any other calendar app supporting iCalendar feeds.
 
+---
 
-## Download Calendar Page
+## 🌐 Download Calendar Page
 
 **Access all country calendars here:**  
 🔗 [https://joaoalonsocasella.github.io/Economic_Calendar/](https://joaoalonsocasella.github.io/Economic_Calendar/)
 
-After Downloading the `.ics`, you may want to choose:
+After downloading the `.ics`, you may choose:
 
-- **Static**: Import it to your own calendar by dragging and dropping;
-- **Dynamic** (recommended): Add it as a subscription - Copy the URL in the table and paste it in your own calendar (designated area)
+- **Static Import** → drag and drop into your calendar  
+- **Dynamic Subscription (recommended)** → copy the feed URL and paste it in your calendar’s subscription area (auto-updates)
 
-
+---
 
 ## About the Project
 
-**EconomicCalendar** is an open-source project designed to aggregate and distribute global **macroeconomic event data** in a clean and machine-readable format.
+**EconomicCalendar** is an open-source project designed to aggregate, classify, and distribute global **macroeconomic event data** in a clean and machine-readable format.
 
 All data is sourced from:  
 [**MarketPulse – Economic Calendar**](https://www.marketpulse.com/tools/economic-calendar/)
 
+---
+
+## ⚙️ Architecture Overview
+
+The project is divided into five main modules that form a complete automated pipeline:
+
+### Calendar Web-scrapping automation (`/scripts/scrap/`)
+
+| Script | Description |
+|---------|-------------|
+| `Update.py` | Runs all country scrapers in parallel to collect `.csv` and `.ics` data from MarketPulse. |
+| `Combine.py` | Merges all `.ics` files into a single unified global calendar. |
+| `GenerateLinks.py` | Updates the HTML index with calendar URLs for GitHub Pages. |
+
+**Output:**  
+Fresh calendar data saved in `data/raw/` (CSV + ICS, per country).
+
+---
+
+### API Layer (`/scripts/api/`)
+
+| Script | Description |
+|---------|-------------|
+| `GenerateJSON.py` | Converts processed CSVs into structured JSON for external access. |
+| `main.py` | FastAPI backend serving endpoints with calendar, category, and impact data. |
+| `utils.py` | Helper utilities for JSON normalization, caching, and request parsing. |
+
+**Output:**  
+Dynamic API serving real-time data through lightweight JSON endpoints.
+
+---
+
+### Teacher – Dataset Distillation with GPT (`/scripts/utils/`)
+
+| Script / File | Description |
+|----------------|-------------|
+| `LLM_destil_faster.py` | Distills macroeconomic categories using GPT, batching and checkpointing for efficiency. |
+| `ec_calend_1418.xlsx` | Historical labeled dataset (2014–2018) used for training local classifiers. |
+
+**Output:**  
+Validated labeled dataset (`data/datasets/ec_calend_1418_labeled.xlsx`) for model training.
+
+---
+
+### Classification Models (`/scripts/Classification_Models/`)
+
+For classification of economic theme, I adopted a hybrid **Logistic Regression + TF-IDF Vectorizer** pipeline:
+- Texts are preprocessed (lowercasing, token cleaning, lemmatization by regex).  
+- TF-IDF captures token importance: `tf(t,d) * (log(n/df(t)) + 1)`  
+- Logistic Regression provides robust, interpretable boundaries for sparse vectors.  
+- Parameters were tuned via cross-validation and **sensitivity analysis** to optimize generalization.
+
+This combination delivered a model that balances **explainability, scalability, and accuracy** without relying on heavy transformer-based models — ideal for continuous retraining from LLM-labeled data.
 
 
-## How It Works
+| Script | Description |
+|---------|-------------|
+| `train_macro_model.py` | Trains the macroeconomic category classifier (`MacroCateg`) |
+| `train_type_model.py` | Trains the type classifier distinguishing `Release` and `Speech`. |
+| `apply_real.py` | Applies both trained models to new MarketPulse data, generating labeled CSVs in `data/processed/`. |
 
-1. Each country’s data is scraped using an individual script inside the `scripts/single_country_request/` folder.  
-2. The script `Update.py` runs daily through **GitHub Actions**, updating and regenerating all `.ics` files.  
-3. The script `Combine.py` merges them into a single global `.ics`.  
-4. Finally, `GenerateLinks.py` updates the live HTML page and the README if needed.
+Below is an example of the model’s parameter sensitivity curve and final classification report.
 
+<p align="center">
+  <img src="scripts/Classification_Models/Quality_training/macro_model/plots/sensitivity_accuracy_2025-10-16_17-18-12.png" alt="Macro Model Sensitivity Accuracy" width="450">
+</p>
 
-## Automation
+<details>
+<summary><b>🧾 Classification Report (click to expand)</b></summary>
 
-The GitHub Actions workflow (`.github/workflows/update.yml`) automatically:
-- Scrapes new data from MarketPulse  
-- Regenerates all `.ics` calendars  
-- Commits changes to the repo  
-- Keeps the hosted version up-to-date on GitHub Pages  
+**Evaluation:**  
+Reports and confusion matrices are generated under  
+`scripts/Classification_Models/Quality_training/{macro_model, type_model}/`.
 
-No manual action is needed — subscribed calendars update automatically.
+**Output:**  
+Processed and labeled CSVs with `MacroCateg` and `Type`.
 
+---
 
+### 5️Impact Model (`/scripts/Impact/`)
+
+| Script | Description |
+|---------|-------------|
+| `Impact_model.py` | Computes a proprietary `Impact_score` combining **Macro Category × Country × Event Type**. |
+
+**Scoring thresholds:**
+| Range | Category |
+|--------|-----------|
+| `> 0.15` | **HIGH** |
+| `0.10 – 0.15` | **MEDIUM** |
+| `< 0.10` | **LOW** |
+
+**Output:**  
+Final enriched CSVs with:  
+`Id, Start, Name, Currency, Type, MacroCateg, Impact_score, Impact`
+
+---
+
+## Full Data Pipeline
+
+```text
+┌───────────────────────────────────────────────┐
+│ MarketPulse Economic Calendar (Source)       │
+└───────────────────────────────────────────────┘
+                │
+                ▼
+       [1] Scraping & Update (raw CSV/ICS)
+                │
+                ▼
+       [2] Classification (Macro + Type)
+                │
+                ▼
+       [3] Impact Model (weighted scoring)
+                │
+                ▼
+       [4] API JSON Generation
+                │
+                ▼
+     FastAPI Endpoints → GitHub Pages → Public Feed
+```
 
 ## ⚠️ Disclaimer
 
-This project is a **non-commercial educational initiative**.  
-All information originates from publicly available sources, and no proprietary or credentialed APIs are used.
+This project is a non-commercial educational initiative.
+All information originates from publicly available sources.
+No paid or credentialed APIs are used at any stage.
 
 
-**Maintained by:** João Alonso Casella  
-📧 [@joaoalonsocasella](https://github.com/joaoalonsocasella)  
-🌐 [https://joaocasella.github.io/Economic_Calendar/](https://joaoalonsocasella.github.io/Economic_Calendar/)
+Maintained by: João Alonso Casella
+📧 @joaoalonsocasella
+🌐 https://joaoalonsocasella.github.io/Economic_Calendar/
