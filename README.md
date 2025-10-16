@@ -95,6 +95,7 @@ Below is an example of the model’s parameter sensitivity curve and final class
 
 <details>
 <summary><b>🧾 Classification Report (click to expand)</b></summary>
+<embed src="scripts/Classification_Models/Quality_training/macro_model/reports/classification_report_2025-10-16_17-16-34.txt" width="100%" height="300px"> ``` </details>
 
 **Evaluation:**  
 Reports and confusion matrices are generated under  
