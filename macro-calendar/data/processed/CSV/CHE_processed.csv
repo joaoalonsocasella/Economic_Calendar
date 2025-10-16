@@ -1,94 +1,94 @@
-﻿Id,Start,Name,Impact,Currency,MacroCateg
-36cdb30a-685d-4124-b928-096c630661cd,10/16/2025 07:00:00,SECO Economic Forecasts,LOW,CHF,Confidence
-f0c80107-a5e9-436a-8a43-a4539a518f36,10/21/2025 06:00:00,Exports (MoM),LOW,CHF,Trade and External
-043c74c2-6378-47e6-ac38-4a5722d2b664,10/21/2025 06:00:00,Imports (MoM),LOW,CHF,Trade and External
-16c5ac28-b961-4c00-be7e-6fbe0cae82b3,10/21/2025 06:00:00,Trade Balance,LOW,CHF,Trade and External
-3de9fc9e-71a0-4402-9500-61dccf146d19,10/26/2025 03:00:00,Daylight Saving Time ends,NONE,CHF,Monetary Policy
-c939716d-f40e-4f95-8ffc-49e205109108,10/29/2025 09:00:00,ZEW Survey – Expectations,MEDIUM,CHF,Confidence
-5cc8deb4-9bde-466e-932a-5f746e1bce0b,10/30/2025 08:00:00,KOF Leading Indicator,LOW,CHF,Confidence
-cb929da4-e25d-4ce0-b8d4-e828db0743f6,10/31/2025 07:30:00,Real Retail Sales (YoY),MEDIUM,CHF,Growth
-631e9e33-9d7f-4d95-aa24-ccb2711b4854,11/03/2025 07:30:00,Consumer Price Index (MoM),MEDIUM,CHF,Inflation
-52b941c0-ec65-40d7-a993-2baf34807e82,11/03/2025 07:30:00,Consumer Price Index (YoY),HIGH,CHF,Inflation
-074491c9-3629-4222-a16d-c01c151edba8,11/03/2025 08:30:00,SVME - Purchasing Managers' Index,LOW,CHF,Confidence
-c0800ecf-fa14-4d6a-b23f-6c0dbf70312f,11/04/2025 08:00:00,SECO Consumer Climate (3m),LOW,CHF,Confidence
-d136a8de-fdd5-49ee-ab2f-939acb717ece,11/06/2025 06:45:00,Unemployment Rate s.a (MoM),LOW,CHF,Labor Market
-c1776ede-757d-4164-95bc-b6aa4276358b,11/07/2025 08:00:00,Foreign Currency Reserves,LOW,CHF,Money and Credit
-b65395c2-b7f3-41da-8dce-5e2b11f0a04e,11/13/2025 07:30:00,Producer and Import Prices (MoM),LOW,CHF,Inflation
-1d8b39cf-7a95-47c6-8a49-6b4e1228c1df,11/13/2025 07:30:00,Producer and Import Prices (YoY),LOW,CHF,Trade and External
-8cd6c5ee-3614-45c8-b03a-3e0e1e133470,11/17/2025 07:30:00,Industrial Production (YoY),MEDIUM,CHF,Growth
-0b5e2c20-ca6b-4d02-8936-ef81abe8ea4b,11/20/2025 07:00:00,Exports (MoM),LOW,CHF,Trade and External
-734759ef-a349-4f5f-8f5e-0dcd2e3d6d2b,11/20/2025 07:00:00,Imports (MoM),LOW,CHF,Trade and External
-1821b90b-9160-43a8-a6ef-f51e33618d45,11/20/2025 07:00:00,Trade Balance,LOW,CHF,Trade and External
-329894fc-1d70-49cb-a38e-9e306d1d6f4d,11/25/2025 07:30:00,Employment Level (QoQ),LOW,CHF,Labor Market
-b60fcbeb-86e3-4449-8324-8c570df28523,11/26/2025 09:00:00,ZEW Survey – Expectations,MEDIUM,CHF,Confidence
-60307511-b2d2-4d19-899a-d4bb83af5d42,11/28/2025 08:00:00,Gross Domestic Product (QoQ),HIGH,CHF,Growth
-a0e85f39-cdd8-48a6-960d-843bd53c5566,11/28/2025 08:00:00,Gross Domestic Product (YoY),MEDIUM,CHF,Growth
-be54ba72-2e77-4952-aaa3-f6927fa84e30,11/28/2025 08:00:00,KOF Leading Indicator,LOW,CHF,Confidence
-3280cb85-c778-449a-9c26-6c652659d41c,12/01/2025 08:30:00,SVME - Purchasing Managers' Index,LOW,CHF,Confidence
-0125b975-1c47-46ac-bf8c-f64ebfc85f1e,12/02/2025 07:30:00,Real Retail Sales (YoY),MEDIUM,CHF,Growth
-60d33f2e-d499-4d48-84ec-5a36f00aa426,12/03/2025 07:30:00,Consumer Price Index (MoM),MEDIUM,CHF,Inflation
-fe428a0f-129d-4f7e-980f-062f62ea66f5,12/03/2025 07:30:00,Consumer Price Index (YoY),HIGH,CHF,Inflation
-bac2ce65-f3f3-4a4b-92fa-f2e9882f372d,12/05/2025 06:45:00,Unemployment Rate s.a (MoM),LOW,CHF,Labor Market
-fd0e8475-ac12-4e1b-a192-7e1780383bbc,12/05/2025 08:00:00,Foreign Currency Reserves,LOW,CHF,Money and Credit
-e782eeac-7758-4c5c-ba60-02d190595304,12/11/2025 08:30:00,SNB Interest Rate Decision,HIGH,CHF,Monetary Policy
-9686dea4-e090-466d-a94c-f2b6a2c991ad,12/11/2025 08:30:00,SNB Monetary Policy Assessment,HIGH,CHF,Monetary Policy
-090c22fe-8412-4621-9876-0794c2b906c6,12/11/2025 09:00:00,SNB Press Conference,HIGH,CHF,Monetary Policy
-3cc2738e-7a0b-4d74-8840-ae1f880799a8,12/15/2025 07:30:00,Producer and Import Prices (MoM),LOW,CHF,Inflation
-3ed7b2de-13fe-4f3a-a003-697303077472,12/15/2025 07:30:00,Producer and Import Prices (YoY),LOW,CHF,Trade and External
-bf92f8e6-927f-4227-8f31-24a57ee75452,12/15/2025 08:00:00,SECO Economic Forecasts,LOW,CHF,Confidence
-b554d2b4-0b7b-4c32-9276-bfb10c37288f,12/17/2025 13:00:00,SNB Quarterly Bulletin,MEDIUM,CHF,Monetary Policy
-5e965776-9025-4047-9f1b-b470b8e0b951,12/18/2025 07:00:00,Exports (MoM),LOW,CHF,Trade and External
-857f213b-7bb0-4e74-82ca-23c05f38dd83,12/18/2025 07:00:00,Imports (MoM),LOW,CHF,Trade and External
-0e4a71b4-75b3-4dff-9eb2-c4755b19e55a,12/18/2025 07:00:00,Trade Balance,LOW,CHF,Trade and External
-07340c08-0750-4b54-8abe-ae8ece91607f,12/30/2025 08:00:00,KOF Leading Indicator,LOW,CHF,Confidence
-2f83ea10-b15c-4715-892b-c3cda817839a,12/31/2025 09:00:00,ZEW Survey – Expectations,MEDIUM,CHF,Confidence
-6ecd197b-97fc-403f-8b33-fb8421ccd515,01/05/2026 08:30:00,SVME - Purchasing Managers' Index,LOW,CHF,Confidence
-de9745b6-888f-4d2b-9c14-d06a277b221d,01/06/2026 06:45:00,Unemployment Rate s.a (MoM),LOW,CHF,Labor Market
-13dacd22-6419-44a9-9561-f2e6ac38ec6e,01/06/2026 07:30:00,Consumer Price Index (MoM),MEDIUM,CHF,Inflation
-8f5b96de-894e-42ae-8a0b-f5939ca42937,01/06/2026 07:30:00,Consumer Price Index (YoY),HIGH,CHF,Inflation
-06a4a624-106b-4b29-9451-d25481dc8ecf,01/06/2026 07:30:00,Real Retail Sales (YoY),MEDIUM,CHF,Growth
-97219405-50da-4fa1-89a8-c9471d537c22,01/09/2026 08:00:00,Foreign Currency Reserves,LOW,CHF,Money and Credit
-6a6d0f34-4173-415f-b7a4-11730ab7e83e,01/15/2026 07:30:00,Producer and Import Prices (MoM),LOW,CHF,Inflation
-66afd069-af95-4b1b-880a-eec9491fb92e,01/15/2026 07:30:00,Producer and Import Prices (YoY),LOW,CHF,Trade and External
-0025c73c-613a-4225-92ca-34e97d3f0c1e,01/28/2026 09:00:00,ZEW Survey – Expectations,MEDIUM,CHF,Confidence
-2f3b4698-c0d7-444b-9887-ef5502aa0301,01/29/2026 07:00:00,Exports (MoM),LOW,CHF,Trade and External
-735247a4-cc1e-4c5f-8d48-9b11fa433780,01/29/2026 07:00:00,Imports (MoM),LOW,CHF,Trade and External
-161fd9f5-bda7-42b4-a067-688c592279bd,01/29/2026 07:00:00,Trade Balance,LOW,CHF,Trade and External
-08dc01e2-e3d1-4270-b86b-3dfdc10845e0,01/30/2026 08:00:00,KOF Leading Indicator,LOW,CHF,Confidence
-ea95e9f1-9982-4fe0-966b-f345fb42a8ca,02/02/2026 08:30:00,SVME - Purchasing Managers' Index,LOW,CHF,Confidence
-e11bc876-3267-448f-abd5-a67ecc481dbe,02/03/2026 07:30:00,Consumer Price Index (MoM),MEDIUM,CHF,Inflation
-d949cb32-0ae9-476b-8710-c713a97683c7,02/03/2026 07:30:00,Consumer Price Index (YoY),HIGH,CHF,Inflation
-a22b701f-46c2-41b6-a453-b00c838f8b7f,02/05/2026 08:00:00,SECO Consumer Climate (3m),LOW,CHF,Confidence
-d79f8f03-7abd-4cbe-b38e-289d370b4a0f,02/19/2026 07:30:00,Industrial Production (YoY),MEDIUM,CHF,Growth
-aea6769f-8190-44b3-9dfa-0a4288c02ca7,02/26/2026 07:30:00,Employment Level (QoQ),LOW,CHF,Labor Market
-8d7a9aa2-2e85-4471-ba63-1da50b0a2817,03/03/2026 07:00:00,Gross Domestic Product (QoQ),HIGH,CHF,Growth
-53babba2-da52-4afa-b4ea-c6aafa9d56a3,03/03/2026 07:00:00,Gross Domestic Product (YoY),MEDIUM,CHF,Growth
-bed3c80d-ea31-41ac-9cba-c8642326416a,03/05/2026 07:30:00,Consumer Price Index (MoM),MEDIUM,CHF,Inflation
-edeab440-a957-48b0-a449-65c5ecce7151,03/05/2026 07:30:00,Consumer Price Index (YoY),HIGH,CHF,Inflation
-36dd71d8-8ee6-4257-8ee0-b077ad5816a7,03/19/2026 08:30:00,SNB Interest Rate Decision,HIGH,CHF,Monetary Policy
-c8dac05c-6a50-4a06-aec1-13e2a9f4af0f,03/19/2026 08:30:00,SNB Monetary Policy Assessment,HIGH,CHF,Monetary Policy
-d845e82e-c4d8-4c99-97b1-2d12a20ca26d,03/19/2026 09:00:00,SNB Press Conference,HIGH,CHF,Monetary Policy
-4c09b031-ff5a-47fd-996e-4be35afc884a,03/29/2026 01:00:00,Daylight Saving Time ,NONE,CHF,Monetary Policy
-e3760af7-f80b-407b-8c44-8b383ec2c102,04/03/2026 06:30:00,Consumer Price Index (MoM),MEDIUM,CHF,Inflation
-b3063451-90a3-45d3-8b34-3ebea788876c,04/03/2026 06:30:00,Consumer Price Index (YoY),HIGH,CHF,Inflation
-06daeafb-17f0-4c35-a80d-b81e2fdd9a81,05/06/2026 06:30:00,Consumer Price Index (MoM),MEDIUM,CHF,Inflation
-ff631349-1713-4f66-936e-81d252c45706,05/06/2026 06:30:00,Consumer Price Index (YoY),HIGH,CHF,Inflation
-620525d4-e4e5-4178-8e51-a9bb3cfb6827,06/01/2026 07:00:00,Gross Domestic Product (QoQ),HIGH,CHF,Growth
-78a296b6-4f03-4b43-b643-23903fa9642a,06/01/2026 07:00:00,Gross Domestic Product (YoY),MEDIUM,CHF,Growth
-046d8799-42a7-44ae-83d0-6ab778d2a0ae,06/04/2026 06:30:00,Consumer Price Index (MoM),MEDIUM,CHF,Inflation
-11259848-3b0b-4682-bc4c-1333130f33e6,06/04/2026 06:30:00,Consumer Price Index (YoY),HIGH,CHF,Inflation
-c5fd3217-9114-4a1a-9658-edf54591a1bc,06/18/2026 07:30:00,SNB Interest Rate Decision,HIGH,CHF,Monetary Policy
-bd86d082-7505-4d73-977b-0bde9945b4c5,06/18/2026 07:30:00,SNB Monetary Policy Assessment,HIGH,CHF,Monetary Policy
-1dc0af51-a939-4dfd-8bfb-054363530065,06/18/2026 08:00:00,SNB Press Conference,HIGH,CHF,Monetary Policy
-5cfa6d5d-a895-46d8-9b4a-2b2d60037e30,07/03/2026 06:30:00,Consumer Price Index (MoM),MEDIUM,CHF,Inflation
-a33e5698-04e3-4130-8d7c-c8d6ff054273,07/03/2026 06:30:00,Consumer Price Index (YoY),HIGH,CHF,Inflation
-7759e117-375d-41aa-af66-0429c34daeab,08/03/2026 06:30:00,Consumer Price Index (MoM),MEDIUM,CHF,Inflation
-91a8e900-9f4e-4cd9-a310-6183f52cd11f,08/03/2026 06:30:00,Consumer Price Index (YoY),HIGH,CHF,Inflation
-030db52e-1f68-46a4-97ca-6a30a3f3a9dc,09/03/2026 06:30:00,Consumer Price Index (MoM),MEDIUM,CHF,Inflation
-2cbc28ac-0541-43fe-a1e4-aef8fcf1e4be,09/03/2026 06:30:00,Consumer Price Index (YoY),HIGH,CHF,Inflation
-1db3b303-fc78-48db-bff9-8d43845f250d,09/03/2026 07:00:00,Gross Domestic Product (QoQ),HIGH,CHF,Growth
-299683ad-ba13-4966-8242-8597487e0cfa,09/03/2026 07:00:00,Gross Domestic Product (YoY),MEDIUM,CHF,Growth
-e722a23d-b084-4877-89bc-b325f0f82aa2,09/24/2026 07:30:00,SNB Interest Rate Decision,HIGH,CHF,Monetary Policy
-a1df7c23-d368-41da-bb46-d55491653d8e,09/24/2026 07:30:00,SNB Monetary Policy Assessment,HIGH,CHF,Monetary Policy
-ec575c99-e4f4-4900-90b2-db626bf83150,09/24/2026 08:00:00,SNB Press Conference,HIGH,CHF,Monetary Policy
-14a7f43a-0fc0-4e03-932b-1454c0e33761,10/25/2026 03:00:00,Daylight Saving Time ends,NONE,CHF,Monetary Policy
+﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
+36cdb30a-685d-4124-b928-096c630661cd,10/16/2025 07:00:00,SECO Economic Forecasts,MEDIUM,CHF,Release,0.14,Confidence
+f0c80107-a5e9-436a-8a43-a4539a518f36,10/21/2025 06:00:00,Exports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
+043c74c2-6378-47e6-ac38-4a5722d2b664,10/21/2025 06:00:00,Imports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
+16c5ac28-b961-4c00-be7e-6fbe0cae82b3,10/21/2025 06:00:00,Trade Balance,MEDIUM,CHF,Release,0.11,Trade and External
+3de9fc9e-71a0-4402-9500-61dccf146d19,10/26/2025 03:00:00,Daylight Saving Time ends,HIGH,CHF,Release,0.2,Monetary Policy
+c939716d-f40e-4f95-8ffc-49e205109108,10/29/2025 09:00:00,ZEW Survey – Expectations,MEDIUM,CHF,Release,0.14,Confidence
+5cc8deb4-9bde-466e-932a-5f746e1bce0b,10/30/2025 08:00:00,KOF Leading Indicator,MEDIUM,CHF,Release,0.14,Confidence
+cb929da4-e25d-4ce0-b8d4-e828db0743f6,10/31/2025 07:30:00,Real Retail Sales (YoY),HIGH,CHF,Release,0.17,Growth
+631e9e33-9d7f-4d95-aa24-ccb2711b4854,11/03/2025 07:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
+52b941c0-ec65-40d7-a993-2baf34807e82,11/03/2025 07:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation
+074491c9-3629-4222-a16d-c01c151edba8,11/03/2025 08:30:00,SVME - Purchasing Managers' Index,MEDIUM,CHF,Release,0.14,Confidence
+c0800ecf-fa14-4d6a-b23f-6c0dbf70312f,11/04/2025 08:00:00,SECO Consumer Climate (3m),MEDIUM,CHF,Release,0.14,Confidence
+d136a8de-fdd5-49ee-ab2f-939acb717ece,11/06/2025 06:45:00,Unemployment Rate s.a (MoM),HIGH,CHF,Release,0.18,Labor Market
+c1776ede-757d-4164-95bc-b6aa4276358b,11/07/2025 08:00:00,Foreign Currency Reserves,LOW,CHF,Release,0.09,Money and Credit
+b65395c2-b7f3-41da-8dce-5e2b11f0a04e,11/13/2025 07:30:00,Producer and Import Prices (MoM),HIGH,CHF,Release,0.19,Inflation
+1d8b39cf-7a95-47c6-8a49-6b4e1228c1df,11/13/2025 07:30:00,Producer and Import Prices (YoY),HIGH,CHF,Release,0.19,Inflation
+8cd6c5ee-3614-45c8-b03a-3e0e1e133470,11/17/2025 07:30:00,Industrial Production (YoY),HIGH,CHF,Release,0.17,Growth
+0b5e2c20-ca6b-4d02-8936-ef81abe8ea4b,11/20/2025 07:00:00,Exports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
+734759ef-a349-4f5f-8f5e-0dcd2e3d6d2b,11/20/2025 07:00:00,Imports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
+1821b90b-9160-43a8-a6ef-f51e33618d45,11/20/2025 07:00:00,Trade Balance,MEDIUM,CHF,Release,0.11,Trade and External
+329894fc-1d70-49cb-a38e-9e306d1d6f4d,11/25/2025 07:30:00,Employment Level (QoQ),HIGH,CHF,Release,0.18,Labor Market
+b60fcbeb-86e3-4449-8324-8c570df28523,11/26/2025 09:00:00,ZEW Survey – Expectations,MEDIUM,CHF,Release,0.14,Confidence
+60307511-b2d2-4d19-899a-d4bb83af5d42,11/28/2025 08:00:00,Gross Domestic Product (QoQ),HIGH,CHF,Release,0.17,Growth
+a0e85f39-cdd8-48a6-960d-843bd53c5566,11/28/2025 08:00:00,Gross Domestic Product (YoY),HIGH,CHF,Release,0.17,Growth
+be54ba72-2e77-4952-aaa3-f6927fa84e30,11/28/2025 08:00:00,KOF Leading Indicator,MEDIUM,CHF,Release,0.14,Confidence
+3280cb85-c778-449a-9c26-6c652659d41c,12/01/2025 08:30:00,SVME - Purchasing Managers' Index,MEDIUM,CHF,Release,0.14,Confidence
+0125b975-1c47-46ac-bf8c-f64ebfc85f1e,12/02/2025 07:30:00,Real Retail Sales (YoY),HIGH,CHF,Release,0.17,Growth
+60d33f2e-d499-4d48-84ec-5a36f00aa426,12/03/2025 07:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
+fe428a0f-129d-4f7e-980f-062f62ea66f5,12/03/2025 07:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation
+bac2ce65-f3f3-4a4b-92fa-f2e9882f372d,12/05/2025 06:45:00,Unemployment Rate s.a (MoM),HIGH,CHF,Release,0.18,Labor Market
+fd0e8475-ac12-4e1b-a192-7e1780383bbc,12/05/2025 08:00:00,Foreign Currency Reserves,LOW,CHF,Release,0.09,Money and Credit
+e782eeac-7758-4c5c-ba60-02d190595304,12/11/2025 08:30:00,SNB Interest Rate Decision,HIGH,CHF,Release,0.2,Monetary Policy
+9686dea4-e090-466d-a94c-f2b6a2c991ad,12/11/2025 08:30:00,SNB Monetary Policy Assessment,MEDIUM,CHF,Speech,0.13,Monetary Policy
+090c22fe-8412-4621-9876-0794c2b906c6,12/11/2025 09:00:00,SNB Press Conference,MEDIUM,CHF,Speech,0.13,Monetary Policy
+3cc2738e-7a0b-4d74-8840-ae1f880799a8,12/15/2025 07:30:00,Producer and Import Prices (MoM),HIGH,CHF,Release,0.19,Inflation
+3ed7b2de-13fe-4f3a-a003-697303077472,12/15/2025 07:30:00,Producer and Import Prices (YoY),HIGH,CHF,Release,0.19,Inflation
+bf92f8e6-927f-4227-8f31-24a57ee75452,12/15/2025 08:00:00,SECO Economic Forecasts,MEDIUM,CHF,Release,0.14,Confidence
+b554d2b4-0b7b-4c32-9276-bfb10c37288f,12/17/2025 13:00:00,SNB Quarterly Bulletin,HIGH,CHF,Release,0.2,Monetary Policy
+5e965776-9025-4047-9f1b-b470b8e0b951,12/18/2025 07:00:00,Exports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
+857f213b-7bb0-4e74-82ca-23c05f38dd83,12/18/2025 07:00:00,Imports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
+0e4a71b4-75b3-4dff-9eb2-c4755b19e55a,12/18/2025 07:00:00,Trade Balance,MEDIUM,CHF,Release,0.11,Trade and External
+07340c08-0750-4b54-8abe-ae8ece91607f,12/30/2025 08:00:00,KOF Leading Indicator,MEDIUM,CHF,Release,0.14,Confidence
+2f83ea10-b15c-4715-892b-c3cda817839a,12/31/2025 09:00:00,ZEW Survey – Expectations,MEDIUM,CHF,Release,0.14,Confidence
+6ecd197b-97fc-403f-8b33-fb8421ccd515,01/05/2026 08:30:00,SVME - Purchasing Managers' Index,MEDIUM,CHF,Release,0.14,Confidence
+de9745b6-888f-4d2b-9c14-d06a277b221d,01/06/2026 06:45:00,Unemployment Rate s.a (MoM),HIGH,CHF,Release,0.18,Labor Market
+13dacd22-6419-44a9-9561-f2e6ac38ec6e,01/06/2026 07:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
+8f5b96de-894e-42ae-8a0b-f5939ca42937,01/06/2026 07:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation
+06a4a624-106b-4b29-9451-d25481dc8ecf,01/06/2026 07:30:00,Real Retail Sales (YoY),HIGH,CHF,Release,0.17,Growth
+97219405-50da-4fa1-89a8-c9471d537c22,01/09/2026 08:00:00,Foreign Currency Reserves,LOW,CHF,Release,0.09,Money and Credit
+6a6d0f34-4173-415f-b7a4-11730ab7e83e,01/15/2026 07:30:00,Producer and Import Prices (MoM),HIGH,CHF,Release,0.19,Inflation
+66afd069-af95-4b1b-880a-eec9491fb92e,01/15/2026 07:30:00,Producer and Import Prices (YoY),HIGH,CHF,Release,0.19,Inflation
+0025c73c-613a-4225-92ca-34e97d3f0c1e,01/28/2026 09:00:00,ZEW Survey – Expectations,MEDIUM,CHF,Release,0.14,Confidence
+2f3b4698-c0d7-444b-9887-ef5502aa0301,01/29/2026 07:00:00,Exports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
+735247a4-cc1e-4c5f-8d48-9b11fa433780,01/29/2026 07:00:00,Imports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
+161fd9f5-bda7-42b4-a067-688c592279bd,01/29/2026 07:00:00,Trade Balance,MEDIUM,CHF,Release,0.11,Trade and External
+08dc01e2-e3d1-4270-b86b-3dfdc10845e0,01/30/2026 08:00:00,KOF Leading Indicator,MEDIUM,CHF,Release,0.14,Confidence
+ea95e9f1-9982-4fe0-966b-f345fb42a8ca,02/02/2026 08:30:00,SVME - Purchasing Managers' Index,MEDIUM,CHF,Release,0.14,Confidence
+e11bc876-3267-448f-abd5-a67ecc481dbe,02/03/2026 07:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
+d949cb32-0ae9-476b-8710-c713a97683c7,02/03/2026 07:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation
+a22b701f-46c2-41b6-a453-b00c838f8b7f,02/05/2026 08:00:00,SECO Consumer Climate (3m),MEDIUM,CHF,Release,0.14,Confidence
+d79f8f03-7abd-4cbe-b38e-289d370b4a0f,02/19/2026 07:30:00,Industrial Production (YoY),HIGH,CHF,Release,0.17,Growth
+aea6769f-8190-44b3-9dfa-0a4288c02ca7,02/26/2026 07:30:00,Employment Level (QoQ),HIGH,CHF,Release,0.18,Labor Market
+8d7a9aa2-2e85-4471-ba63-1da50b0a2817,03/03/2026 07:00:00,Gross Domestic Product (QoQ),HIGH,CHF,Release,0.17,Growth
+53babba2-da52-4afa-b4ea-c6aafa9d56a3,03/03/2026 07:00:00,Gross Domestic Product (YoY),HIGH,CHF,Release,0.17,Growth
+bed3c80d-ea31-41ac-9cba-c8642326416a,03/05/2026 07:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
+edeab440-a957-48b0-a449-65c5ecce7151,03/05/2026 07:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation
+36dd71d8-8ee6-4257-8ee0-b077ad5816a7,03/19/2026 08:30:00,SNB Interest Rate Decision,HIGH,CHF,Release,0.2,Monetary Policy
+c8dac05c-6a50-4a06-aec1-13e2a9f4af0f,03/19/2026 08:30:00,SNB Monetary Policy Assessment,MEDIUM,CHF,Speech,0.13,Monetary Policy
+d845e82e-c4d8-4c99-97b1-2d12a20ca26d,03/19/2026 09:00:00,SNB Press Conference,MEDIUM,CHF,Speech,0.13,Monetary Policy
+4c09b031-ff5a-47fd-996e-4be35afc884a,03/29/2026 01:00:00,Daylight Saving Time ,HIGH,CHF,Release,0.2,Monetary Policy
+e3760af7-f80b-407b-8c44-8b383ec2c102,04/03/2026 06:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
+b3063451-90a3-45d3-8b34-3ebea788876c,04/03/2026 06:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation
+06daeafb-17f0-4c35-a80d-b81e2fdd9a81,05/06/2026 06:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
+ff631349-1713-4f66-936e-81d252c45706,05/06/2026 06:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation
+620525d4-e4e5-4178-8e51-a9bb3cfb6827,06/01/2026 07:00:00,Gross Domestic Product (QoQ),HIGH,CHF,Release,0.17,Growth
+78a296b6-4f03-4b43-b643-23903fa9642a,06/01/2026 07:00:00,Gross Domestic Product (YoY),HIGH,CHF,Release,0.17,Growth
+046d8799-42a7-44ae-83d0-6ab778d2a0ae,06/04/2026 06:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
+11259848-3b0b-4682-bc4c-1333130f33e6,06/04/2026 06:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation
+c5fd3217-9114-4a1a-9658-edf54591a1bc,06/18/2026 07:30:00,SNB Interest Rate Decision,HIGH,CHF,Release,0.2,Monetary Policy
+bd86d082-7505-4d73-977b-0bde9945b4c5,06/18/2026 07:30:00,SNB Monetary Policy Assessment,MEDIUM,CHF,Speech,0.13,Monetary Policy
+1dc0af51-a939-4dfd-8bfb-054363530065,06/18/2026 08:00:00,SNB Press Conference,MEDIUM,CHF,Speech,0.13,Monetary Policy
+5cfa6d5d-a895-46d8-9b4a-2b2d60037e30,07/03/2026 06:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
+a33e5698-04e3-4130-8d7c-c8d6ff054273,07/03/2026 06:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation
+7759e117-375d-41aa-af66-0429c34daeab,08/03/2026 06:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
+91a8e900-9f4e-4cd9-a310-6183f52cd11f,08/03/2026 06:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation
+030db52e-1f68-46a4-97ca-6a30a3f3a9dc,09/03/2026 06:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
+2cbc28ac-0541-43fe-a1e4-aef8fcf1e4be,09/03/2026 06:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation
+1db3b303-fc78-48db-bff9-8d43845f250d,09/03/2026 07:00:00,Gross Domestic Product (QoQ),HIGH,CHF,Release,0.17,Growth
+299683ad-ba13-4966-8242-8597487e0cfa,09/03/2026 07:00:00,Gross Domestic Product (YoY),HIGH,CHF,Release,0.17,Growth
+e722a23d-b084-4877-89bc-b325f0f82aa2,09/24/2026 07:30:00,SNB Interest Rate Decision,HIGH,CHF,Release,0.2,Monetary Policy
+a1df7c23-d368-41da-bb46-d55491653d8e,09/24/2026 07:30:00,SNB Monetary Policy Assessment,MEDIUM,CHF,Speech,0.13,Monetary Policy
+ec575c99-e4f4-4900-90b2-db626bf83150,09/24/2026 08:00:00,SNB Press Conference,MEDIUM,CHF,Speech,0.13,Monetary Policy
+14a7f43a-0fc0-4e03-932b-1454c0e33761,10/25/2026 03:00:00,Daylight Saving Time ends,HIGH,CHF,Release,0.2,Monetary Policy

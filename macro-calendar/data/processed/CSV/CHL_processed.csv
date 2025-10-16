@@ -1,25 +1,25 @@
-﻿Id,Start,Name,Impact,Currency,MacroCateg
-c87a0cca-fba1-4b3c-9f70-f84e9d66e3bb,10/28/2025 22:00:00,BCCH Interest Rate,LOW,CLP,Monetary Policy
-d0c66e38-f5b6-4a49-8e9e-c2036c1473bf,10/30/2025 12:00:00,Industrial Production (YoY),LOW,CLP,Growth
-5e615d13-e5ec-4b3b-93a0-d87c9ba3c74e,10/30/2025 12:00:00,Unemployment rate,LOW,CLP,Labor Market
-ffceb644-8c5f-47f1-88b1-b91248a08370,11/03/2025 11:30:00,IMACEC,LOW,CLP,Monetary Policy
-7fe3b1ec-e254-4132-9bb0-6ae0e23f3447,11/07/2025 11:00:00,Consumer Price Index (Inflation) (MoM),LOW,CLP,Inflation
-f39620ae-6b31-4a81-a153-acd1070ed1c1,11/07/2025 11:00:00,Core Consumer Price Index (Inflation) (MoM),LOW,CLP,Inflation
-294bf7f4-9035-4cb1-82c5-f2de0b1b7971,11/07/2025 11:30:00,Trade Balance,LOW,CLP,Trade and External
-677db3fc-5b6d-48d0-acda-8d5d5f2096cc,11/18/2025 11:30:00,Gross Domestic Product (YoY),LOW,CLP,Growth
-59d79c0c-423b-4349-b8bc-7d9e5cdfb345,11/28/2025 12:00:00,Industrial Production (YoY),LOW,CLP,Growth
-c220168a-e14b-4d7f-860d-001d51402d5b,11/28/2025 12:00:00,Unemployment rate,LOW,CLP,Labor Market
-08f90d0d-f743-4a5a-a084-0083978a3fad,12/01/2025 11:30:00,IMACEC,LOW,CLP,Monetary Policy
-0bab256e-81e9-4991-80cb-930805727f3f,12/08/2025 11:00:00,Consumer Price Index (Inflation) (MoM),LOW,CLP,Inflation
-f8fa2ccf-0714-46fe-b8b5-f18db00384d1,12/08/2025 11:00:00,Core Consumer Price Index (Inflation) (MoM),LOW,CLP,Inflation
-2682e4c2-56a4-4164-85e9-549c3b37ac58,12/09/2025 11:30:00,Trade Balance,LOW,CLP,Trade and External
-48140eb4-5096-46c4-a96d-c36906fb562f,12/17/2025 22:00:00,BCCH Interest Rate,LOW,CLP,Monetary Policy
-48e4dbe6-db0d-403d-ac9a-02190fcbbc26,12/30/2025 12:00:00,Unemployment rate,LOW,CLP,Labor Market
-ccac7437-7a68-45d8-8472-09148c6af5b5,12/31/2025 12:00:00,Industrial Production (YoY),LOW,CLP,Growth
-79423004-9346-4d18-862b-5323a1f2560c,01/02/2026 11:30:00,IMACEC,LOW,CLP,Monetary Policy
-3e505fa8-b1ba-4e4a-9b8e-a225935555ab,01/07/2026 11:30:00,Trade Balance,LOW,CLP,Trade and External
-51029ed5-dcaa-4d9e-b14b-9a629ba085fd,01/08/2026 11:00:00,Consumer Price Index (Inflation) (MoM),LOW,CLP,Inflation
-72e5f8b5-4066-46ee-8def-9c007b7c5b03,01/08/2026 11:00:00,Core Consumer Price Index (Inflation) (MoM),LOW,CLP,Inflation
-2e25512d-d613-48d1-aca8-5312c83858f6,01/30/2026 12:00:00,Industrial Production (YoY),LOW,CLP,Growth
-3288f647-27e6-4856-a17a-a5d93e7eb625,01/30/2026 12:00:00,Unemployment rate,LOW,CLP,Labor Market
-7bc37827-bb04-4b67-871f-10565d67ffe2,03/18/2026 11:30:00,Gross Domestic Product (YoY),LOW,CLP,Growth
+﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
+c87a0cca-fba1-4b3c-9f70-f84e9d66e3bb,10/28/2025 22:00:00,BCCH Interest Rate,HIGH,CLP,Release,0.2,Monetary Policy
+d0c66e38-f5b6-4a49-8e9e-c2036c1473bf,10/30/2025 12:00:00,Industrial Production (YoY),HIGH,CLP,Release,0.17,Growth
+5e615d13-e5ec-4b3b-93a0-d87c9ba3c74e,10/30/2025 12:00:00,Unemployment rate,HIGH,CLP,Release,0.18,Labor Market
+ffceb644-8c5f-47f1-88b1-b91248a08370,11/03/2025 11:30:00,IMACEC,HIGH,CLP,Release,0.2,Monetary Policy
+7fe3b1ec-e254-4132-9bb0-6ae0e23f3447,11/07/2025 11:00:00,Consumer Price Index (Inflation) (MoM),HIGH,CLP,Release,0.19,Inflation
+f39620ae-6b31-4a81-a153-acd1070ed1c1,11/07/2025 11:00:00,Core Consumer Price Index (Inflation) (MoM),HIGH,CLP,Release,0.19,Inflation
+294bf7f4-9035-4cb1-82c5-f2de0b1b7971,11/07/2025 11:30:00,Trade Balance,MEDIUM,CLP,Release,0.11,Trade and External
+677db3fc-5b6d-48d0-acda-8d5d5f2096cc,11/18/2025 11:30:00,Gross Domestic Product (YoY),HIGH,CLP,Release,0.17,Growth
+59d79c0c-423b-4349-b8bc-7d9e5cdfb345,11/28/2025 12:00:00,Industrial Production (YoY),HIGH,CLP,Release,0.17,Growth
+c220168a-e14b-4d7f-860d-001d51402d5b,11/28/2025 12:00:00,Unemployment rate,HIGH,CLP,Release,0.18,Labor Market
+08f90d0d-f743-4a5a-a084-0083978a3fad,12/01/2025 11:30:00,IMACEC,HIGH,CLP,Release,0.2,Monetary Policy
+0bab256e-81e9-4991-80cb-930805727f3f,12/08/2025 11:00:00,Consumer Price Index (Inflation) (MoM),HIGH,CLP,Release,0.19,Inflation
+f8fa2ccf-0714-46fe-b8b5-f18db00384d1,12/08/2025 11:00:00,Core Consumer Price Index (Inflation) (MoM),HIGH,CLP,Release,0.19,Inflation
+2682e4c2-56a4-4164-85e9-549c3b37ac58,12/09/2025 11:30:00,Trade Balance,MEDIUM,CLP,Release,0.11,Trade and External
+48140eb4-5096-46c4-a96d-c36906fb562f,12/17/2025 22:00:00,BCCH Interest Rate,HIGH,CLP,Release,0.2,Monetary Policy
+48e4dbe6-db0d-403d-ac9a-02190fcbbc26,12/30/2025 12:00:00,Unemployment rate,HIGH,CLP,Release,0.18,Labor Market
+ccac7437-7a68-45d8-8472-09148c6af5b5,12/31/2025 12:00:00,Industrial Production (YoY),HIGH,CLP,Release,0.17,Growth
+79423004-9346-4d18-862b-5323a1f2560c,01/02/2026 11:30:00,IMACEC,HIGH,CLP,Release,0.2,Monetary Policy
+3e505fa8-b1ba-4e4a-9b8e-a225935555ab,01/07/2026 11:30:00,Trade Balance,MEDIUM,CLP,Release,0.11,Trade and External
+51029ed5-dcaa-4d9e-b14b-9a629ba085fd,01/08/2026 11:00:00,Consumer Price Index (Inflation) (MoM),HIGH,CLP,Release,0.19,Inflation
+72e5f8b5-4066-46ee-8def-9c007b7c5b03,01/08/2026 11:00:00,Core Consumer Price Index (Inflation) (MoM),HIGH,CLP,Release,0.19,Inflation
+2e25512d-d613-48d1-aca8-5312c83858f6,01/30/2026 12:00:00,Industrial Production (YoY),HIGH,CLP,Release,0.17,Growth
+3288f647-27e6-4856-a17a-a5d93e7eb625,01/30/2026 12:00:00,Unemployment rate,HIGH,CLP,Release,0.18,Labor Market
+7bc37827-bb04-4b67-871f-10565d67ffe2,03/18/2026 11:30:00,Gross Domestic Product (YoY),HIGH,CLP,Release,0.17,Growth

@@ -1,75 +1,75 @@
-﻿Id,Start,Name,Impact,Currency,MacroCateg
-2c3bbfce-e7da-487b-86fb-6045ef0ee2dd,10/23/2025 12:00:00,1st half-month Core Inflation,LOW,MXN,Inflation
-dda8e8ed-2885-41ce-96de-93ea28b3ab73,10/23/2025 12:00:00,1st half-month Inflation,LOW,MXN,Inflation
-715a0b5d-5f9c-43bb-89f6-06c3c7a5a32d,10/23/2025 12:00:00,Retail Sales (MoM),LOW,MXN,Growth
-3dd90491-3e05-4a52-8d26-a6742114d7e3,10/23/2025 12:00:00,Retail Sales (YoY),LOW,MXN,Growth
-ce614c77-d26d-485c-aed0-92778c641433,10/27/2025 12:00:00,"Trade Balance s/a, $",LOW,MXN,Trade and External
-6aee3445-ef5e-4fe3-90bb-51edfddab165,10/27/2025 12:00:00,"Trade Balance, $",LOW,MXN,Trade and External
-05dfe338-2115-4e2e-9a30-ec7c1a44ba54,10/28/2025 12:00:00,Jobless Rate,LOW,MXN,Labor Market
-4e01a592-b299-4627-987d-5bdfc1cc4940,10/28/2025 12:00:00,Jobless Rate s.a,LOW,MXN,Labor Market
-f9c21d9d-d39f-4490-9889-e9ccc9ea0cf2,10/30/2025 12:00:00,Gross Domestic Product (QoQ),LOW,MXN,Growth
-9ac37dd7-3f6a-49af-bd1a-008fd3d03550,10/30/2025 12:00:00,Gross Domestic Product (YoY),LOW,MXN,Growth
-277334b0-e9e8-4850-b871-4fa18302e273,10/30/2025 21:00:00,"Fiscal Balance, pesos",LOW,MXN,Trade and External
-90628970-fdd5-4fbc-98de-d50605c0608f,11/06/2025 19:00:00,Banxico Interest Rate Decision,MEDIUM,MXN,Monetary Policy
-bbba4de7-6781-4cb8-b88a-69bbf183adfd,11/07/2025 12:00:00,12-Month Inflation,LOW,MXN,Inflation
-829f549c-8a91-4f24-af50-14c39a72c368,11/07/2025 12:00:00,Consumer Confidence,LOW,MXN,Confidence
-ec44689c-55b3-4155-a734-8f7541d61752,11/07/2025 12:00:00,Consumer Confidence s.a,LOW,MXN,Confidence
-bae7c6b7-0d11-43a8-953e-a1a54eae4a85,11/07/2025 12:00:00,Core Inflation,LOW,MXN,Inflation
-ac873678-e60e-476e-8488-11b8e59802ca,11/07/2025 12:00:00,Headline Inflation,MEDIUM,MXN,Inflation
-6fd5257d-c97f-4d8b-a8bd-dfa623da2c98,11/12/2025 12:00:00,Industrial Output (MoM),LOW,MXN,Growth
-0bd5b326-eef8-4181-8d4e-431abcc8b46e,11/12/2025 12:00:00,Industrial Output (YoY),LOW,MXN,Growth
-1f85e691-3cef-4ffb-83cc-2c27313664bf,11/20/2025 15:00:00,Banxico Monetary Policy Meeting Minutes,MEDIUM,MXN,Monetary Policy
-3e401edf-6368-44e2-b18e-122c9c836c57,11/21/2025 12:00:00,Gross Domestic Product (QoQ),LOW,MXN,Growth
-452294a5-d8b8-49d1-8ae4-1e629552089e,11/21/2025 12:00:00,Gross Domestic Product (YoY),LOW,MXN,Growth
-59e0a080-1a33-4142-9362-5ca9b288ac55,11/21/2025 12:00:00,Retail Sales (MoM),LOW,MXN,Growth
-1316a277-04a8-49d2-8e17-4d53943dec21,11/21/2025 12:00:00,Retail Sales (YoY),LOW,MXN,Growth
-61dba191-5243-4114-b8c6-112ac1e9a5d2,11/24/2025 12:00:00,1st half-month Core Inflation,LOW,MXN,Inflation
-b52a364f-9b23-4136-8d84-978b3fd64813,11/24/2025 12:00:00,1st half-month Inflation,LOW,MXN,Inflation
-1c5f4584-8479-4a76-8993-674dd2a420ab,11/25/2025 15:00:00,Accumulated Current Account/GDP,LOW,MXN,Trade and External
-b6a97c39-1e66-4524-8aa4-3d15e2309f57,11/25/2025 15:00:00,"Current Account, $ (QoQ)",LOW,MXN,Trade and External
-b0dad854-4dd6-4277-96f0-175994ff1af6,11/27/2025 12:00:00,Jobless Rate,LOW,MXN,Labor Market
-55ec3d44-dd41-4abb-b416-f587019f4a71,11/27/2025 12:00:00,Jobless Rate s.a,LOW,MXN,Labor Market
-a845d18d-af64-4e49-ad85-a18b26452c25,11/27/2025 12:00:00,"Trade Balance s/a, $",LOW,MXN,Trade and External
-c17f58ac-374b-47ac-a6e6-b414cdb5fee2,11/27/2025 12:00:00,"Trade Balance, $",LOW,MXN,Trade and External
-2018a0e3-4efb-4997-b8ae-e8acb7522b4d,11/28/2025 21:00:00,"Fiscal Balance, pesos",LOW,MXN,Trade and External
-1f45d800-fb69-4e4d-9a11-8adaddd2a543,12/05/2025 12:00:00,Consumer Confidence,LOW,MXN,Confidence
-cc6a0021-b75b-49eb-af2c-f92f670e5df4,12/05/2025 12:00:00,Consumer Confidence s.a,LOW,MXN,Confidence
-de98a475-3940-4009-acbe-74eb45cdcda0,12/09/2025 12:00:00,12-Month Inflation,LOW,MXN,Inflation
-5514e709-67f4-4c69-91e5-894380531db7,12/09/2025 12:00:00,Core Inflation,LOW,MXN,Inflation
-90308ebb-9ad6-4cd2-971c-cc407344b92b,12/09/2025 12:00:00,Headline Inflation,MEDIUM,MXN,Inflation
-c866f5de-9255-4a39-a645-08fdbae40ff5,12/12/2025 12:00:00,Industrial Output (MoM),LOW,MXN,Growth
-fbf54a21-f7e7-4081-8eae-564c639dc422,12/12/2025 12:00:00,Industrial Output (YoY),LOW,MXN,Growth
-6996e91a-1ab2-4dde-abc3-05d6b5f16972,12/17/2025 12:00:00,Retail Sales (MoM),LOW,MXN,Growth
-9ba1191e-3ced-4268-8876-9798c555b5e5,12/17/2025 12:00:00,Retail Sales (YoY),LOW,MXN,Growth
-f75607e0-e1bd-44a4-921a-e893b90f78ec,12/18/2025 19:00:00,Banxico Interest Rate Decision,MEDIUM,MXN,Monetary Policy
-07643145-9367-4088-ba28-1ad5bbc88a5d,12/19/2025 12:00:00,Private Spending (QoQ),LOW,MXN,Growth
-fc00024c-c930-42de-8134-647ff3eb5c72,12/19/2025 12:00:00,Private Spending (YoY),LOW,MXN,Growth
-c8fedbae-e009-4726-9b09-2b326d7a0355,12/22/2025 12:00:00,1st half-month Core Inflation,LOW,MXN,Inflation
-bc551143-006d-4b9d-b692-8aeef97c9619,12/22/2025 12:00:00,1st half-month Inflation,LOW,MXN,Inflation
-f47976e1-ee65-4c9e-92ef-bc6a533333fb,12/22/2025 12:00:00,"Trade Balance s/a, $",LOW,MXN,Trade and External
-6c503116-9435-4bc9-92f7-55120e051b86,12/22/2025 12:00:00,"Trade Balance, $",LOW,MXN,Trade and External
-fe1cfda9-3751-4e7c-917c-3ff7256460b4,12/29/2025 12:00:00,Jobless Rate,LOW,MXN,Labor Market
-4277bead-b0ed-4f5d-8b48-a10b3edec9ae,12/29/2025 12:00:00,Jobless Rate s.a,LOW,MXN,Labor Market
-e66b9c22-1ade-49ba-90c4-d399cb72381e,12/30/2025 21:00:00,"Fiscal Balance, pesos",LOW,MXN,Trade and External
-dc66cfaa-e6a4-46e1-8b4c-5ae09db937d0,01/07/2026 12:00:00,Consumer Confidence,LOW,MXN,Confidence
-d907bdc7-7411-48f8-8306-644e8075eaed,01/07/2026 12:00:00,Consumer Confidence s.a,LOW,MXN,Confidence
-3fcc0ee0-cc99-44e5-ac59-80d3857406b8,01/09/2026 12:00:00,12-Month Inflation,LOW,MXN,Inflation
-b6c52060-3831-43c8-8c96-d0273359a3d5,01/09/2026 12:00:00,Core Inflation,LOW,MXN,Inflation
-1ed06dba-63ca-4e96-8e9e-5a648b59c9c6,01/09/2026 12:00:00,Headline Inflation,MEDIUM,MXN,Inflation
-2909f07f-701a-4bcd-a700-1ff69b17a896,01/12/2026 12:00:00,Industrial Output (MoM),LOW,MXN,Growth
-d49784c1-fedb-40cf-88a3-8f9a77f10c70,01/12/2026 12:00:00,Industrial Output (YoY),LOW,MXN,Growth
-9c3725ed-8098-474c-8900-67b616e3e98f,01/22/2026 12:00:00,Retail Sales (MoM),LOW,MXN,Growth
-d86c8fe6-f379-4049-af2d-98fc3ca5cf54,01/22/2026 12:00:00,Retail Sales (YoY),LOW,MXN,Growth
-ea8b53e7-c8b5-4350-9e35-571f26d5974c,01/23/2026 12:00:00,1st half-month Core Inflation,LOW,MXN,Inflation
-1fdd9397-bed6-4e25-a9fc-1761b86a4b59,01/23/2026 12:00:00,1st half-month Inflation,LOW,MXN,Inflation
-6769cfd9-4565-46ae-a957-3a261f5551c3,01/27/2026 12:00:00,"Trade Balance s/a, $",LOW,MXN,Trade and External
-9eca6364-37dc-48ff-ab1f-98feb970e96d,01/27/2026 12:00:00,"Trade Balance, $",LOW,MXN,Trade and External
-5c04952b-3002-4ed9-92eb-dec03c956e98,01/29/2026 12:00:00,Jobless Rate,LOW,MXN,Labor Market
-23b621f7-82a5-462b-b61d-0b3df90a06d1,01/29/2026 12:00:00,Jobless Rate s.a,LOW,MXN,Labor Market
-d8598585-b23e-409b-b6fc-198007760808,01/30/2026 12:00:00,Gross Domestic Product (QoQ),LOW,MXN,Growth
-86fbac05-7984-4aa6-a200-c40ad834bfab,01/30/2026 12:00:00,Gross Domestic Product (YoY),LOW,MXN,Growth
-985a01c9-66d1-448d-b49d-aaaea19dc9bb,01/30/2026 21:00:00,"Fiscal Balance, pesos",LOW,MXN,Trade and External
-ecbf1f74-0369-487c-8bff-04e90039025f,02/25/2026 15:00:00,Accumulated Current Account/GDP,LOW,MXN,Trade and External
-8837160f-5031-4d78-ab05-dfa7ebf35cc9,02/25/2026 15:00:00,"Current Account, $ (QoQ)",LOW,MXN,Trade and External
-6efae430-1635-416f-b0ee-4ad57f06350b,03/20/2026 12:00:00,Private Spending (QoQ),LOW,MXN,Growth
-c6f43be8-bed8-4b01-99c0-9eae2eb7cfd7,03/20/2026 12:00:00,Private Spending (YoY),LOW,MXN,Growth
+﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
+2c3bbfce-e7da-487b-86fb-6045ef0ee2dd,10/23/2025 12:00:00,1st half-month Core Inflation,HIGH,MXN,Release,0.19,Inflation
+dda8e8ed-2885-41ce-96de-93ea28b3ab73,10/23/2025 12:00:00,1st half-month Inflation,HIGH,MXN,Release,0.19,Inflation
+715a0b5d-5f9c-43bb-89f6-06c3c7a5a32d,10/23/2025 12:00:00,Retail Sales (MoM),HIGH,MXN,Release,0.17,Growth
+3dd90491-3e05-4a52-8d26-a6742114d7e3,10/23/2025 12:00:00,Retail Sales (YoY),HIGH,MXN,Release,0.17,Growth
+ce614c77-d26d-485c-aed0-92778c641433,10/27/2025 12:00:00,"Trade Balance s/a, $",MEDIUM,MXN,Release,0.11,Trade and External
+6aee3445-ef5e-4fe3-90bb-51edfddab165,10/27/2025 12:00:00,"Trade Balance, $",MEDIUM,MXN,Release,0.11,Trade and External
+05dfe338-2115-4e2e-9a30-ec7c1a44ba54,10/28/2025 12:00:00,Jobless Rate,HIGH,MXN,Release,0.18,Labor Market
+4e01a592-b299-4627-987d-5bdfc1cc4940,10/28/2025 12:00:00,Jobless Rate s.a,HIGH,MXN,Release,0.18,Labor Market
+f9c21d9d-d39f-4490-9889-e9ccc9ea0cf2,10/30/2025 12:00:00,Gross Domestic Product (QoQ),HIGH,MXN,Release,0.17,Growth
+9ac37dd7-3f6a-49af-bd1a-008fd3d03550,10/30/2025 12:00:00,Gross Domestic Product (YoY),HIGH,MXN,Release,0.17,Growth
+277334b0-e9e8-4850-b871-4fa18302e273,10/30/2025 21:00:00,"Fiscal Balance, pesos",MEDIUM,MXN,Release,0.11,Trade and External
+90628970-fdd5-4fbc-98de-d50605c0608f,11/06/2025 19:00:00,Banxico Interest Rate Decision,HIGH,MXN,Release,0.2,Monetary Policy
+bbba4de7-6781-4cb8-b88a-69bbf183adfd,11/07/2025 12:00:00,12-Month Inflation,HIGH,MXN,Release,0.19,Inflation
+829f549c-8a91-4f24-af50-14c39a72c368,11/07/2025 12:00:00,Consumer Confidence,MEDIUM,MXN,Release,0.14,Confidence
+ec44689c-55b3-4155-a734-8f7541d61752,11/07/2025 12:00:00,Consumer Confidence s.a,MEDIUM,MXN,Release,0.14,Confidence
+bae7c6b7-0d11-43a8-953e-a1a54eae4a85,11/07/2025 12:00:00,Core Inflation,HIGH,MXN,Release,0.19,Inflation
+ac873678-e60e-476e-8488-11b8e59802ca,11/07/2025 12:00:00,Headline Inflation,HIGH,MXN,Release,0.19,Inflation
+6fd5257d-c97f-4d8b-a8bd-dfa623da2c98,11/12/2025 12:00:00,Industrial Output (MoM),HIGH,MXN,Release,0.17,Growth
+0bd5b326-eef8-4181-8d4e-431abcc8b46e,11/12/2025 12:00:00,Industrial Output (YoY),HIGH,MXN,Release,0.17,Growth
+1f85e691-3cef-4ffb-83cc-2c27313664bf,11/20/2025 15:00:00,Banxico Monetary Policy Meeting Minutes,HIGH,MXN,Release,0.2,Monetary Policy
+3e401edf-6368-44e2-b18e-122c9c836c57,11/21/2025 12:00:00,Gross Domestic Product (QoQ),HIGH,MXN,Release,0.17,Growth
+452294a5-d8b8-49d1-8ae4-1e629552089e,11/21/2025 12:00:00,Gross Domestic Product (YoY),HIGH,MXN,Release,0.17,Growth
+59e0a080-1a33-4142-9362-5ca9b288ac55,11/21/2025 12:00:00,Retail Sales (MoM),HIGH,MXN,Release,0.17,Growth
+1316a277-04a8-49d2-8e17-4d53943dec21,11/21/2025 12:00:00,Retail Sales (YoY),HIGH,MXN,Release,0.17,Growth
+61dba191-5243-4114-b8c6-112ac1e9a5d2,11/24/2025 12:00:00,1st half-month Core Inflation,HIGH,MXN,Release,0.19,Inflation
+b52a364f-9b23-4136-8d84-978b3fd64813,11/24/2025 12:00:00,1st half-month Inflation,HIGH,MXN,Release,0.19,Inflation
+1c5f4584-8479-4a76-8993-674dd2a420ab,11/25/2025 15:00:00,Accumulated Current Account/GDP,MEDIUM,MXN,Release,0.11,Trade and External
+b6a97c39-1e66-4524-8aa4-3d15e2309f57,11/25/2025 15:00:00,"Current Account, $ (QoQ)",MEDIUM,MXN,Release,0.11,Trade and External
+b0dad854-4dd6-4277-96f0-175994ff1af6,11/27/2025 12:00:00,Jobless Rate,HIGH,MXN,Release,0.18,Labor Market
+55ec3d44-dd41-4abb-b416-f587019f4a71,11/27/2025 12:00:00,Jobless Rate s.a,HIGH,MXN,Release,0.18,Labor Market
+a845d18d-af64-4e49-ad85-a18b26452c25,11/27/2025 12:00:00,"Trade Balance s/a, $",MEDIUM,MXN,Release,0.11,Trade and External
+c17f58ac-374b-47ac-a6e6-b414cdb5fee2,11/27/2025 12:00:00,"Trade Balance, $",MEDIUM,MXN,Release,0.11,Trade and External
+2018a0e3-4efb-4997-b8ae-e8acb7522b4d,11/28/2025 21:00:00,"Fiscal Balance, pesos",MEDIUM,MXN,Release,0.11,Trade and External
+1f45d800-fb69-4e4d-9a11-8adaddd2a543,12/05/2025 12:00:00,Consumer Confidence,MEDIUM,MXN,Release,0.14,Confidence
+cc6a0021-b75b-49eb-af2c-f92f670e5df4,12/05/2025 12:00:00,Consumer Confidence s.a,MEDIUM,MXN,Release,0.14,Confidence
+de98a475-3940-4009-acbe-74eb45cdcda0,12/09/2025 12:00:00,12-Month Inflation,HIGH,MXN,Release,0.19,Inflation
+5514e709-67f4-4c69-91e5-894380531db7,12/09/2025 12:00:00,Core Inflation,HIGH,MXN,Release,0.19,Inflation
+90308ebb-9ad6-4cd2-971c-cc407344b92b,12/09/2025 12:00:00,Headline Inflation,HIGH,MXN,Release,0.19,Inflation
+c866f5de-9255-4a39-a645-08fdbae40ff5,12/12/2025 12:00:00,Industrial Output (MoM),HIGH,MXN,Release,0.17,Growth
+fbf54a21-f7e7-4081-8eae-564c639dc422,12/12/2025 12:00:00,Industrial Output (YoY),HIGH,MXN,Release,0.17,Growth
+6996e91a-1ab2-4dde-abc3-05d6b5f16972,12/17/2025 12:00:00,Retail Sales (MoM),HIGH,MXN,Release,0.17,Growth
+9ba1191e-3ced-4268-8876-9798c555b5e5,12/17/2025 12:00:00,Retail Sales (YoY),HIGH,MXN,Release,0.17,Growth
+f75607e0-e1bd-44a4-921a-e893b90f78ec,12/18/2025 19:00:00,Banxico Interest Rate Decision,HIGH,MXN,Release,0.2,Monetary Policy
+07643145-9367-4088-ba28-1ad5bbc88a5d,12/19/2025 12:00:00,Private Spending (QoQ),HIGH,MXN,Release,0.17,Growth
+fc00024c-c930-42de-8134-647ff3eb5c72,12/19/2025 12:00:00,Private Spending (YoY),HIGH,MXN,Release,0.17,Growth
+c8fedbae-e009-4726-9b09-2b326d7a0355,12/22/2025 12:00:00,1st half-month Core Inflation,HIGH,MXN,Release,0.19,Inflation
+bc551143-006d-4b9d-b692-8aeef97c9619,12/22/2025 12:00:00,1st half-month Inflation,HIGH,MXN,Release,0.19,Inflation
+f47976e1-ee65-4c9e-92ef-bc6a533333fb,12/22/2025 12:00:00,"Trade Balance s/a, $",MEDIUM,MXN,Release,0.11,Trade and External
+6c503116-9435-4bc9-92f7-55120e051b86,12/22/2025 12:00:00,"Trade Balance, $",MEDIUM,MXN,Release,0.11,Trade and External
+fe1cfda9-3751-4e7c-917c-3ff7256460b4,12/29/2025 12:00:00,Jobless Rate,HIGH,MXN,Release,0.18,Labor Market
+4277bead-b0ed-4f5d-8b48-a10b3edec9ae,12/29/2025 12:00:00,Jobless Rate s.a,HIGH,MXN,Release,0.18,Labor Market
+e66b9c22-1ade-49ba-90c4-d399cb72381e,12/30/2025 21:00:00,"Fiscal Balance, pesos",MEDIUM,MXN,Release,0.11,Trade and External
+dc66cfaa-e6a4-46e1-8b4c-5ae09db937d0,01/07/2026 12:00:00,Consumer Confidence,MEDIUM,MXN,Release,0.14,Confidence
+d907bdc7-7411-48f8-8306-644e8075eaed,01/07/2026 12:00:00,Consumer Confidence s.a,MEDIUM,MXN,Release,0.14,Confidence
+3fcc0ee0-cc99-44e5-ac59-80d3857406b8,01/09/2026 12:00:00,12-Month Inflation,HIGH,MXN,Release,0.19,Inflation
+b6c52060-3831-43c8-8c96-d0273359a3d5,01/09/2026 12:00:00,Core Inflation,HIGH,MXN,Release,0.19,Inflation
+1ed06dba-63ca-4e96-8e9e-5a648b59c9c6,01/09/2026 12:00:00,Headline Inflation,HIGH,MXN,Release,0.19,Inflation
+2909f07f-701a-4bcd-a700-1ff69b17a896,01/12/2026 12:00:00,Industrial Output (MoM),HIGH,MXN,Release,0.17,Growth
+d49784c1-fedb-40cf-88a3-8f9a77f10c70,01/12/2026 12:00:00,Industrial Output (YoY),HIGH,MXN,Release,0.17,Growth
+9c3725ed-8098-474c-8900-67b616e3e98f,01/22/2026 12:00:00,Retail Sales (MoM),HIGH,MXN,Release,0.17,Growth
+d86c8fe6-f379-4049-af2d-98fc3ca5cf54,01/22/2026 12:00:00,Retail Sales (YoY),HIGH,MXN,Release,0.17,Growth
+ea8b53e7-c8b5-4350-9e35-571f26d5974c,01/23/2026 12:00:00,1st half-month Core Inflation,HIGH,MXN,Release,0.19,Inflation
+1fdd9397-bed6-4e25-a9fc-1761b86a4b59,01/23/2026 12:00:00,1st half-month Inflation,HIGH,MXN,Release,0.19,Inflation
+6769cfd9-4565-46ae-a957-3a261f5551c3,01/27/2026 12:00:00,"Trade Balance s/a, $",MEDIUM,MXN,Release,0.11,Trade and External
+9eca6364-37dc-48ff-ab1f-98feb970e96d,01/27/2026 12:00:00,"Trade Balance, $",MEDIUM,MXN,Release,0.11,Trade and External
+5c04952b-3002-4ed9-92eb-dec03c956e98,01/29/2026 12:00:00,Jobless Rate,HIGH,MXN,Release,0.18,Labor Market
+23b621f7-82a5-462b-b61d-0b3df90a06d1,01/29/2026 12:00:00,Jobless Rate s.a,HIGH,MXN,Release,0.18,Labor Market
+d8598585-b23e-409b-b6fc-198007760808,01/30/2026 12:00:00,Gross Domestic Product (QoQ),HIGH,MXN,Release,0.17,Growth
+86fbac05-7984-4aa6-a200-c40ad834bfab,01/30/2026 12:00:00,Gross Domestic Product (YoY),HIGH,MXN,Release,0.17,Growth
+985a01c9-66d1-448d-b49d-aaaea19dc9bb,01/30/2026 21:00:00,"Fiscal Balance, pesos",MEDIUM,MXN,Release,0.11,Trade and External
+ecbf1f74-0369-487c-8bff-04e90039025f,02/25/2026 15:00:00,Accumulated Current Account/GDP,MEDIUM,MXN,Release,0.11,Trade and External
+8837160f-5031-4d78-ab05-dfa7ebf35cc9,02/25/2026 15:00:00,"Current Account, $ (QoQ)",MEDIUM,MXN,Release,0.11,Trade and External
+6efae430-1635-416f-b0ee-4ad57f06350b,03/20/2026 12:00:00,Private Spending (QoQ),HIGH,MXN,Release,0.17,Growth
+c6f43be8-bed8-4b01-99c0-9eae2eb7cfd7,03/20/2026 12:00:00,Private Spending (YoY),HIGH,MXN,Release,0.17,Growth

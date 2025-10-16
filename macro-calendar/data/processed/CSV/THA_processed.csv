@@ -1,32 +1,32 @@
-﻿Id,Start,Name,Impact,Currency,MacroCateg
-b2767e8b-fae7-4b79-ad66-433afe5ddb1d,10/28/2025 03:30:00,Customs-Based Trade Balance,LOW,THB,Trade and External
-21f45714-07eb-4b0f-88f8-dbdcd50b2e00,10/31/2025 07:00:00,Current Account,LOW,THB,Trade and External
-7e4cca8e-e8a4-4951-b6f2-08fb84794a9c,10/31/2025 07:00:00,Private Consumption Index,LOW,THB,Money and Credit
-5e1f37a8-c2f4-4f0c-85a9-b2805e1963d8,10/31/2025 07:00:00,Private Investment Index,LOW,THB,Growth
-20368f6f-0eec-4fb7-8c1c-6ecb59e97188,10/31/2025 07:00:00,Trade Balance,LOW,THB,Trade and External
-56b741f3-79f8-42fa-9b6c-d0fd911c3e1e,11/05/2025 03:30:00,Consumer Price Index (YoY),LOW,THB,Inflation
-b7a6a3f6-ef50-44ea-aad3-61fe145515b3,11/05/2025 03:30:00,Core Consumer Price Index (YoY),LOW,THB,Inflation
-08092ea1-40d6-46d2-8908-713ae2fe23b8,11/17/2025 02:30:00,Gross Domestic Product (YoY),LOW,THB,Growth
-4d644a22-503b-482b-9fd4-6b5b28b87ae1,11/17/2025 02:30:00,Gross Domestic Product s.a. (QoQ),LOW,THB,Growth
-26d1e15d-69b9-4e5f-9cff-ea2ee5c383f1,11/26/2025 03:30:00,Customs-Based Trade Balance,LOW,THB,Trade and External
-e25a67b0-17b7-4b00-85d9-ccf92d891eb1,11/28/2025 07:00:00,Current Account,LOW,THB,Trade and External
-7ca50ec6-e75c-4560-93b5-13d021bc188d,11/28/2025 07:00:00,Private Consumption Index,LOW,THB,Money and Credit
-15b62995-bcc8-425e-868e-00d6fb560f87,11/28/2025 07:00:00,Private Investment Index,LOW,THB,Growth
-871b061b-814d-4dea-adad-04fd52084ea1,11/28/2025 07:00:00,Trade Balance,LOW,THB,Trade and External
-e7291650-041f-4d85-9590-1c51a27a46f0,12/04/2025 03:30:00,Consumer Price Index (YoY),LOW,THB,Inflation
-08add2dc-8c35-4228-82ad-8f6c4a615999,12/04/2025 03:30:00,Core Consumer Price Index (YoY),LOW,THB,Inflation
-0242b079-cf9c-4a56-b3d8-28fc3ef01104,12/17/2025 07:00:00,BoT Interest Rate Decision,LOW,THB,Monetary Policy
-551b2088-58d1-4145-955d-2bd589b61dec,12/23/2025 03:30:00,Customs-Based Trade Balance,LOW,THB,Trade and External
-2a2ddfbf-f537-4201-9c7d-d5361949af67,12/31/2025 07:00:00,Current Account,LOW,THB,Trade and External
-3fabe90d-0c1e-401a-9907-a1c2d724f9f6,12/31/2025 07:00:00,Private Consumption Index,LOW,THB,Money and Credit
-cc6a5b01-9851-4c5a-9777-6df1b8583265,12/31/2025 07:00:00,Private Investment Index,LOW,THB,Growth
-ab7ae6ea-85ca-46ac-85cc-abf970319b7c,12/31/2025 07:00:00,Trade Balance,LOW,THB,Trade and External
-32653195-7c8c-4191-90af-c58f245d64d8,01/06/2026 03:30:00,Consumer Price Index (YoY),LOW,THB,Inflation
-14d0f617-de2d-4b10-810f-d533e3599c9d,01/06/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB,Inflation
-abe3f359-4a1b-42b1-8a49-c62ecc6cd06e,01/27/2026 03:30:00,Customs-Based Trade Balance,LOW,THB,Trade and External
-8d186b6e-30e6-4217-9672-b6bf79d0fb96,01/30/2026 07:00:00,Current Account,LOW,THB,Trade and External
-2dcef943-274e-4c0c-b174-fc1a2bb6bfb2,01/30/2026 07:00:00,Private Consumption Index,LOW,THB,Money and Credit
-61805322-b99f-4a21-a192-d661417fd13c,01/30/2026 07:00:00,Private Investment Index,LOW,THB,Growth
-9fe57ab7-870f-40a6-b5fb-00059c4dac32,01/30/2026 07:00:00,Trade Balance,LOW,THB,Trade and External
-8dc3aa4b-6e81-4f89-aa2a-cd6590b991af,02/23/2026 02:30:00,Gross Domestic Product (YoY),LOW,THB,Growth
-e4907ae2-c567-4a8c-9f00-eda6c5958033,02/23/2026 02:30:00,Gross Domestic Product s.a. (QoQ),LOW,THB,Growth
+﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
+b2767e8b-fae7-4b79-ad66-433afe5ddb1d,10/28/2025 03:30:00,Customs-Based Trade Balance,MEDIUM,THB,Release,0.11,Trade and External
+21f45714-07eb-4b0f-88f8-dbdcd50b2e00,10/31/2025 07:00:00,Current Account,MEDIUM,THB,Release,0.11,Trade and External
+7e4cca8e-e8a4-4951-b6f2-08fb84794a9c,10/31/2025 07:00:00,Private Consumption Index,LOW,THB,Release,0.09,Money and Credit
+5e1f37a8-c2f4-4f0c-85a9-b2805e1963d8,10/31/2025 07:00:00,Private Investment Index,HIGH,THB,Release,0.17,Growth
+20368f6f-0eec-4fb7-8c1c-6ecb59e97188,10/31/2025 07:00:00,Trade Balance,MEDIUM,THB,Release,0.11,Trade and External
+56b741f3-79f8-42fa-9b6c-d0fd911c3e1e,11/05/2025 03:30:00,Consumer Price Index (YoY),HIGH,THB,Release,0.19,Inflation
+b7a6a3f6-ef50-44ea-aad3-61fe145515b3,11/05/2025 03:30:00,Core Consumer Price Index (YoY),HIGH,THB,Release,0.19,Inflation
+08092ea1-40d6-46d2-8908-713ae2fe23b8,11/17/2025 02:30:00,Gross Domestic Product (YoY),HIGH,THB,Release,0.17,Growth
+4d644a22-503b-482b-9fd4-6b5b28b87ae1,11/17/2025 02:30:00,Gross Domestic Product s.a. (QoQ),HIGH,THB,Release,0.17,Growth
+26d1e15d-69b9-4e5f-9cff-ea2ee5c383f1,11/26/2025 03:30:00,Customs-Based Trade Balance,MEDIUM,THB,Release,0.11,Trade and External
+e25a67b0-17b7-4b00-85d9-ccf92d891eb1,11/28/2025 07:00:00,Current Account,MEDIUM,THB,Release,0.11,Trade and External
+7ca50ec6-e75c-4560-93b5-13d021bc188d,11/28/2025 07:00:00,Private Consumption Index,LOW,THB,Release,0.09,Money and Credit
+15b62995-bcc8-425e-868e-00d6fb560f87,11/28/2025 07:00:00,Private Investment Index,HIGH,THB,Release,0.17,Growth
+871b061b-814d-4dea-adad-04fd52084ea1,11/28/2025 07:00:00,Trade Balance,MEDIUM,THB,Release,0.11,Trade and External
+e7291650-041f-4d85-9590-1c51a27a46f0,12/04/2025 03:30:00,Consumer Price Index (YoY),HIGH,THB,Release,0.19,Inflation
+08add2dc-8c35-4228-82ad-8f6c4a615999,12/04/2025 03:30:00,Core Consumer Price Index (YoY),HIGH,THB,Release,0.19,Inflation
+0242b079-cf9c-4a56-b3d8-28fc3ef01104,12/17/2025 07:00:00,BoT Interest Rate Decision,HIGH,THB,Release,0.2,Monetary Policy
+551b2088-58d1-4145-955d-2bd589b61dec,12/23/2025 03:30:00,Customs-Based Trade Balance,MEDIUM,THB,Release,0.11,Trade and External
+2a2ddfbf-f537-4201-9c7d-d5361949af67,12/31/2025 07:00:00,Current Account,MEDIUM,THB,Release,0.11,Trade and External
+3fabe90d-0c1e-401a-9907-a1c2d724f9f6,12/31/2025 07:00:00,Private Consumption Index,LOW,THB,Release,0.09,Money and Credit
+cc6a5b01-9851-4c5a-9777-6df1b8583265,12/31/2025 07:00:00,Private Investment Index,HIGH,THB,Release,0.17,Growth
+ab7ae6ea-85ca-46ac-85cc-abf970319b7c,12/31/2025 07:00:00,Trade Balance,MEDIUM,THB,Release,0.11,Trade and External
+32653195-7c8c-4191-90af-c58f245d64d8,01/06/2026 03:30:00,Consumer Price Index (YoY),HIGH,THB,Release,0.19,Inflation
+14d0f617-de2d-4b10-810f-d533e3599c9d,01/06/2026 03:30:00,Core Consumer Price Index (YoY),HIGH,THB,Release,0.19,Inflation
+abe3f359-4a1b-42b1-8a49-c62ecc6cd06e,01/27/2026 03:30:00,Customs-Based Trade Balance,MEDIUM,THB,Release,0.11,Trade and External
+8d186b6e-30e6-4217-9672-b6bf79d0fb96,01/30/2026 07:00:00,Current Account,MEDIUM,THB,Release,0.11,Trade and External
+2dcef943-274e-4c0c-b174-fc1a2bb6bfb2,01/30/2026 07:00:00,Private Consumption Index,LOW,THB,Release,0.09,Money and Credit
+61805322-b99f-4a21-a192-d661417fd13c,01/30/2026 07:00:00,Private Investment Index,HIGH,THB,Release,0.17,Growth
+9fe57ab7-870f-40a6-b5fb-00059c4dac32,01/30/2026 07:00:00,Trade Balance,MEDIUM,THB,Release,0.11,Trade and External
+8dc3aa4b-6e81-4f89-aa2a-cd6590b991af,02/23/2026 02:30:00,Gross Domestic Product (YoY),HIGH,THB,Release,0.17,Growth
+e4907ae2-c567-4a8c-9f00-eda6c5958033,02/23/2026 02:30:00,Gross Domestic Product s.a. (QoQ),HIGH,THB,Release,0.17,Growth

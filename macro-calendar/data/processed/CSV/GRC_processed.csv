@@ -1,31 +1,31 @@
-﻿Id,Start,Name,Impact,Currency,MacroCateg
-5f77f0f8-8814-4d29-a11b-ad61e86c0c2c,10/21/2025 08:00:00,Current Account (YoY),LOW,EUR,Trade and External
-407e26a1-6787-4d94-b154-74d6f0ed9c5e,10/30/2025 10:00:00,Producer Price Index (YoY),LOW,EUR,Inflation
-63745319-ce86-4377-97a2-6977a4737dca,10/30/2025 10:00:00,Unemployment Rate (MoM),LOW,EUR,Labor Market
-f436f828-4fe6-4330-b232-8549dc988735,10/31/2025 10:00:00,Retail Sales (YoY),LOW,EUR,Growth
-874f8048-641c-47f1-9421-2872936262f1,11/03/2025 09:00:00,S&P Global Manufacturing PMI,LOW,EUR,Growth
-d030d677-16c2-4213-bf2e-ce96579efdf6,11/10/2025 10:00:00,Consumer Price Index - Harmonized (YoY),LOW,EUR,Inflation
-accbc8d8-1066-44e8-b761-0096257503dc,11/10/2025 10:00:00,Consumer Price Index (YoY),LOW,EUR,Inflation
-03ddd2b1-23fd-422b-80c8-580e710a577a,11/10/2025 10:00:00,Industrial Production (YoY),LOW,EUR,Growth
-a6702546-e479-45c3-be8d-097076cc0101,11/20/2025 09:00:00,Current Account (YoY),LOW,EUR,Trade and External
-8e7f6d69-77d6-4a91-b548-920c034c621e,11/28/2025 10:00:00,Producer Price Index (YoY),LOW,EUR,Inflation
-64649f59-9800-4316-88bc-62858156994f,11/28/2025 10:00:00,Retail Sales (YoY),LOW,EUR,Growth
-fa0c7754-ce5a-43da-9dea-5722ca469f80,12/01/2025 09:00:00,S&P Global Manufacturing PMI,LOW,EUR,Growth
-04320e79-22e3-44e0-be6e-f3f041daa199,12/02/2025 10:00:00,Unemployment Rate (MoM),LOW,EUR,Labor Market
-bc6af78f-e10b-4848-9f02-b14d426729c4,12/04/2025 10:00:00,Unemployment Rate (QoQ),LOW,EUR,Labor Market
-99237ca8-d138-4f09-8779-40e423e5eaf6,12/05/2025 10:00:00,Gross Domestic Product s.a (YoY),LOW,EUR,Growth
-dc164f00-794e-4dc0-b7fc-8f31ccc00916,12/09/2025 10:00:00,Consumer Price Index - Harmonized (YoY),LOW,EUR,Inflation
-fb63b1f1-70de-484b-b028-5ebe7aea2a5c,12/09/2025 10:00:00,Consumer Price Index (YoY),LOW,EUR,Inflation
-03dbc7e0-b359-4d3e-a40b-65a8c47f49e4,12/10/2025 10:00:00,Industrial Production (YoY),LOW,EUR,Growth
-2f25201a-7ed2-4312-be6b-87c7b128ad9f,12/19/2025 09:00:00,Current Account (YoY),LOW,EUR,Trade and External
-a0ef2467-affa-4715-8131-2a1ae4adc98d,12/30/2025 10:00:00,Producer Price Index (YoY),LOW,EUR,Inflation
-9912eb18-a6e3-4203-a3d3-8f014edd8de0,12/31/2025 10:00:00,Retail Sales (YoY),LOW,EUR,Growth
-8f1b4136-9f21-43c5-a5f1-f78c7ad3a61b,01/02/2026 09:00:00,S&P Global Manufacturing PMI,LOW,EUR,Growth
-5b270b7a-3c24-4fba-a64e-f6377a22714d,01/02/2026 10:00:00,Unemployment Rate (MoM),LOW,EUR,Labor Market
-82ec065d-5d1c-49a3-ad91-c657095caaa1,01/09/2026 10:00:00,Consumer Price Index - Harmonized (YoY),LOW,EUR,Inflation
-095a9c2e-eb1b-43ec-b001-c70795597ddb,01/09/2026 10:00:00,Consumer Price Index (YoY),LOW,EUR,Inflation
-421e37be-3175-4fd9-ad71-6886f5a0667d,01/09/2026 10:00:00,Industrial Production (YoY),LOW,EUR,Growth
-67ab2963-4103-4d7e-914f-d7c95d7120f7,01/22/2026 09:00:00,Current Account (YoY),LOW,EUR,Trade and External
-6484c89e-8db5-46b8-af00-7a99f5fc5320,01/30/2026 10:00:00,Producer Price Index (YoY),LOW,EUR,Inflation
-eb350b43-0226-4f03-a22c-9fe72552256a,01/30/2026 10:00:00,Retail Sales (YoY),LOW,EUR,Growth
-5c1cee51-e335-420a-a7f6-956c460bcf81,03/06/2026 10:00:00,Gross Domestic Product s.a (YoY),LOW,EUR,Growth
+﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
+5f77f0f8-8814-4d29-a11b-ad61e86c0c2c,10/21/2025 08:00:00,Current Account (YoY),HIGH,EUR,Release,0.468,Trade and External
+407e26a1-6787-4d94-b154-74d6f0ed9c5e,10/30/2025 10:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+63745319-ce86-4377-97a2-6977a4737dca,10/30/2025 10:00:00,Unemployment Rate (MoM),HIGH,EUR,Release,0.765,Labor Market
+f436f828-4fe6-4330-b232-8549dc988735,10/31/2025 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+874f8048-641c-47f1-9421-2872936262f1,11/03/2025 09:00:00,S&P Global Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+d030d677-16c2-4213-bf2e-ce96579efdf6,11/10/2025 10:00:00,Consumer Price Index - Harmonized (YoY),HIGH,EUR,Release,0.807,Inflation
+accbc8d8-1066-44e8-b761-0096257503dc,11/10/2025 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+03ddd2b1-23fd-422b-80c8-580e710a577a,11/10/2025 10:00:00,Industrial Production (YoY),HIGH,EUR,Release,0.722,Growth
+a6702546-e479-45c3-be8d-097076cc0101,11/20/2025 09:00:00,Current Account (YoY),HIGH,EUR,Release,0.468,Trade and External
+8e7f6d69-77d6-4a91-b548-920c034c621e,11/28/2025 10:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+64649f59-9800-4316-88bc-62858156994f,11/28/2025 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+fa0c7754-ce5a-43da-9dea-5722ca469f80,12/01/2025 09:00:00,S&P Global Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+04320e79-22e3-44e0-be6e-f3f041daa199,12/02/2025 10:00:00,Unemployment Rate (MoM),HIGH,EUR,Release,0.765,Labor Market
+bc6af78f-e10b-4848-9f02-b14d426729c4,12/04/2025 10:00:00,Unemployment Rate (QoQ),HIGH,EUR,Release,0.765,Labor Market
+99237ca8-d138-4f09-8779-40e423e5eaf6,12/05/2025 10:00:00,Gross Domestic Product s.a (YoY),HIGH,EUR,Release,0.722,Growth
+dc164f00-794e-4dc0-b7fc-8f31ccc00916,12/09/2025 10:00:00,Consumer Price Index - Harmonized (YoY),HIGH,EUR,Release,0.807,Inflation
+fb63b1f1-70de-484b-b028-5ebe7aea2a5c,12/09/2025 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+03dbc7e0-b359-4d3e-a40b-65a8c47f49e4,12/10/2025 10:00:00,Industrial Production (YoY),HIGH,EUR,Release,0.722,Growth
+2f25201a-7ed2-4312-be6b-87c7b128ad9f,12/19/2025 09:00:00,Current Account (YoY),HIGH,EUR,Release,0.468,Trade and External
+a0ef2467-affa-4715-8131-2a1ae4adc98d,12/30/2025 10:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+9912eb18-a6e3-4203-a3d3-8f014edd8de0,12/31/2025 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+8f1b4136-9f21-43c5-a5f1-f78c7ad3a61b,01/02/2026 09:00:00,S&P Global Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+5b270b7a-3c24-4fba-a64e-f6377a22714d,01/02/2026 10:00:00,Unemployment Rate (MoM),HIGH,EUR,Release,0.765,Labor Market
+82ec065d-5d1c-49a3-ad91-c657095caaa1,01/09/2026 10:00:00,Consumer Price Index - Harmonized (YoY),HIGH,EUR,Release,0.807,Inflation
+095a9c2e-eb1b-43ec-b001-c70795597ddb,01/09/2026 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+421e37be-3175-4fd9-ad71-6886f5a0667d,01/09/2026 10:00:00,Industrial Production (YoY),HIGH,EUR,Release,0.722,Growth
+67ab2963-4103-4d7e-914f-d7c95d7120f7,01/22/2026 09:00:00,Current Account (YoY),HIGH,EUR,Release,0.468,Trade and External
+6484c89e-8db5-46b8-af00-7a99f5fc5320,01/30/2026 10:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+eb350b43-0226-4f03-a22c-9fe72552256a,01/30/2026 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+5c1cee51-e335-420a-a7f6-956c460bcf81,03/06/2026 10:00:00,Gross Domestic Product s.a (YoY),HIGH,EUR,Release,0.722,Growth

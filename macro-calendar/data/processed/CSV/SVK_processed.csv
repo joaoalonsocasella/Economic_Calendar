@@ -1,39 +1,39 @@
-﻿Id,Start,Name,Impact,Currency,MacroCateg
-e7bd346a-1a8b-4db6-b3f7-5d3bbdb9b4b2,10/17/2025 07:00:00,EU Norm Inflation (MoM),LOW,EUR,Inflation
-995eedc9-a062-485b-a144-e8b91554627a,10/17/2025 07:00:00,EU Norm Inflation (YoY),LOW,EUR,Inflation
-5fa47392-68f6-4e02-9558-531dd6ee0b17,10/20/2025 08:00:00,Unemployment Rate,LOW,EUR,Labor Market
-95d59ab2-8d73-4f1a-afd1-cdaf608de996,10/22/2025 09:00:00,Current Account Balance EUR,LOW,EUR,Trade and External
-0acb7019-c742-40d4-b374-1bfefbcc6702,11/07/2025 08:00:00,Foreign Trade Balance,LOW,EUR,Trade and External
-91715931-bc70-416a-8cfe-f90af13d9a5d,11/10/2025 08:00:00,Industrial Output (YoY),LOW,EUR,Growth
-7003afe8-3d64-49b2-81d8-c122a0aa2648,11/14/2025 08:00:00,Core Inflation (MoM),LOW,EUR,Inflation
-449dc982-e1fd-4aa0-a7f3-eebbe8a80b61,11/14/2025 08:00:00,Core Inflation (YoY),LOW,EUR,Inflation
-7ec2a980-bb70-44d8-8609-f08949c95659,11/14/2025 08:00:00,Headline Inflation (MoM),LOW,EUR,Inflation
-d2392fb0-6c71-4df9-9dc9-b2166d6a694f,11/14/2025 08:00:00,Headline Inflation (YoY),LOW,EUR,Inflation
-95b10aad-cb82-4c77-be4d-eaf51a919abd,11/18/2025 08:00:00,EU Norm Inflation (MoM),LOW,EUR,Inflation
-a5b0c8cb-753a-436d-90e4-ba8185df693a,11/18/2025 08:00:00,EU Norm Inflation (YoY),LOW,EUR,Inflation
-9e22ae1d-9da9-4098-b966-ae9602246f5f,11/18/2025 08:00:00,Gross Domestic Product Prelim (YoY),LOW,EUR,Growth
-0807b7f2-d56f-44b0-9b4a-c37e9adb044c,11/19/2025 10:00:00,Current Account Balance EUR,LOW,EUR,Trade and External
-988b45fa-bb6f-4468-b0c8-87730e88e9ff,11/20/2025 09:00:00,Unemployment Rate,LOW,EUR,Labor Market
-67753dd3-bedb-4528-92b1-42f053db19f9,12/04/2025 08:00:00,Gross Domestic Product Qtr Final (YoY),LOW,EUR,Growth
-eb29733b-5292-4867-bab6-984490608db9,12/09/2025 08:00:00,Foreign Trade Balance,LOW,EUR,Trade and External
-04b0f4b0-5943-430d-8368-5ab0e6cb96d4,12/10/2025 08:00:00,Industrial Output (YoY),LOW,EUR,Growth
-3d609550-0a56-49c6-b2d8-3a8899d02580,12/15/2025 08:00:00,Core Inflation (MoM),LOW,EUR,Inflation
-02da9236-b807-4f8b-8d40-f29c8443d351,12/15/2025 08:00:00,Core Inflation (YoY),LOW,EUR,Inflation
-81480047-ecc7-4cf0-9973-46332ffb6c64,12/15/2025 08:00:00,Headline Inflation (MoM),LOW,EUR,Inflation
-c68b898e-9b11-43de-a88e-e90c24688206,12/15/2025 08:00:00,Headline Inflation (YoY),LOW,EUR,Inflation
-7565cc31-10bc-4fba-bf0d-9229025756c5,12/17/2025 08:00:00,EU Norm Inflation (MoM),LOW,EUR,Inflation
-c65daab8-42bf-475f-ba1e-b57c341c799b,12/17/2025 08:00:00,EU Norm Inflation (YoY),LOW,EUR,Inflation
-2e6a7dcd-8f6a-4baf-9cd8-ce33f73ebc8b,12/19/2025 09:00:00,Unemployment Rate,LOW,EUR,Labor Market
-f92c7ea8-8046-46d3-94fa-9ed1f4df5b24,12/19/2025 10:00:00,Current Account Balance EUR,LOW,EUR,Trade and External
-0e45d8e4-25db-4ff5-aa4a-c71b4657e688,01/09/2026 08:00:00,Foreign Trade Balance,LOW,EUR,Trade and External
-63823824-0348-40c5-8609-0a0ed9b51122,01/09/2026 08:00:00,Industrial Output (YoY),LOW,EUR,Growth
-8cde12ac-f0f2-46af-a7f1-1e9c9625953f,01/15/2026 08:00:00,Core Inflation (MoM),LOW,EUR,Inflation
-9438fdc4-b1a0-4508-b95f-ab38a5651584,01/15/2026 08:00:00,Core Inflation (YoY),LOW,EUR,Inflation
-05624210-b1cf-494a-b254-2cc17a7209b8,01/15/2026 08:00:00,Headline Inflation (MoM),LOW,EUR,Inflation
-debc02f1-968e-402f-8aaf-632448d903fa,01/15/2026 08:00:00,Headline Inflation (YoY),LOW,EUR,Inflation
-8979b490-0fba-4a47-b8a0-961cafc4aea4,01/19/2026 08:00:00,EU Norm Inflation (MoM),LOW,EUR,Inflation
-979aad02-0e95-4586-8574-ac551254f052,01/19/2026 08:00:00,EU Norm Inflation (YoY),LOW,EUR,Inflation
-f00eda42-6c60-4c2d-b313-1b864498e041,01/20/2026 09:00:00,Unemployment Rate,LOW,EUR,Labor Market
-9410a541-fcdc-4fad-b59c-400e92c2d771,01/21/2026 10:00:00,Current Account Balance EUR,LOW,EUR,Trade and External
-231e525f-e0b9-4cef-aff7-c41d233dc018,02/17/2026 08:00:00,Gross Domestic Product Prelim (YoY),LOW,EUR,Growth
-e0a8f01e-9807-4d6c-aaa9-201136e9bc1b,03/05/2026 08:00:00,Gross Domestic Product Qtr Final (YoY),LOW,EUR,Growth
+﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
+e7bd346a-1a8b-4db6-b3f7-5d3bbdb9b4b2,10/17/2025 07:00:00,EU Norm Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+995eedc9-a062-485b-a144-e8b91554627a,10/17/2025 07:00:00,EU Norm Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+5fa47392-68f6-4e02-9558-531dd6ee0b17,10/20/2025 08:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+95d59ab2-8d73-4f1a-afd1-cdaf608de996,10/22/2025 09:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
+0acb7019-c742-40d4-b374-1bfefbcc6702,11/07/2025 08:00:00,Foreign Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+91715931-bc70-416a-8cfe-f90af13d9a5d,11/10/2025 08:00:00,Industrial Output (YoY),HIGH,EUR,Release,0.722,Growth
+7003afe8-3d64-49b2-81d8-c122a0aa2648,11/14/2025 08:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+449dc982-e1fd-4aa0-a7f3-eebbe8a80b61,11/14/2025 08:00:00,Core Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+7ec2a980-bb70-44d8-8609-f08949c95659,11/14/2025 08:00:00,Headline Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+d2392fb0-6c71-4df9-9dc9-b2166d6a694f,11/14/2025 08:00:00,Headline Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+95b10aad-cb82-4c77-be4d-eaf51a919abd,11/18/2025 08:00:00,EU Norm Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+a5b0c8cb-753a-436d-90e4-ba8185df693a,11/18/2025 08:00:00,EU Norm Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+9e22ae1d-9da9-4098-b966-ae9602246f5f,11/18/2025 08:00:00,Gross Domestic Product Prelim (YoY),HIGH,EUR,Release,0.722,Growth
+0807b7f2-d56f-44b0-9b4a-c37e9adb044c,11/19/2025 10:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
+988b45fa-bb6f-4468-b0c8-87730e88e9ff,11/20/2025 09:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+67753dd3-bedb-4528-92b1-42f053db19f9,12/04/2025 08:00:00,Gross Domestic Product Qtr Final (YoY),HIGH,EUR,Release,0.722,Growth
+eb29733b-5292-4867-bab6-984490608db9,12/09/2025 08:00:00,Foreign Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+04b0f4b0-5943-430d-8368-5ab0e6cb96d4,12/10/2025 08:00:00,Industrial Output (YoY),HIGH,EUR,Release,0.722,Growth
+3d609550-0a56-49c6-b2d8-3a8899d02580,12/15/2025 08:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+02da9236-b807-4f8b-8d40-f29c8443d351,12/15/2025 08:00:00,Core Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+81480047-ecc7-4cf0-9973-46332ffb6c64,12/15/2025 08:00:00,Headline Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+c68b898e-9b11-43de-a88e-e90c24688206,12/15/2025 08:00:00,Headline Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+7565cc31-10bc-4fba-bf0d-9229025756c5,12/17/2025 08:00:00,EU Norm Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+c65daab8-42bf-475f-ba1e-b57c341c799b,12/17/2025 08:00:00,EU Norm Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+2e6a7dcd-8f6a-4baf-9cd8-ce33f73ebc8b,12/19/2025 09:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+f92c7ea8-8046-46d3-94fa-9ed1f4df5b24,12/19/2025 10:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
+0e45d8e4-25db-4ff5-aa4a-c71b4657e688,01/09/2026 08:00:00,Foreign Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+63823824-0348-40c5-8609-0a0ed9b51122,01/09/2026 08:00:00,Industrial Output (YoY),HIGH,EUR,Release,0.722,Growth
+8cde12ac-f0f2-46af-a7f1-1e9c9625953f,01/15/2026 08:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+9438fdc4-b1a0-4508-b95f-ab38a5651584,01/15/2026 08:00:00,Core Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+05624210-b1cf-494a-b254-2cc17a7209b8,01/15/2026 08:00:00,Headline Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+debc02f1-968e-402f-8aaf-632448d903fa,01/15/2026 08:00:00,Headline Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+8979b490-0fba-4a47-b8a0-961cafc4aea4,01/19/2026 08:00:00,EU Norm Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+979aad02-0e95-4586-8574-ac551254f052,01/19/2026 08:00:00,EU Norm Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+f00eda42-6c60-4c2d-b313-1b864498e041,01/20/2026 09:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+9410a541-fcdc-4fad-b59c-400e92c2d771,01/21/2026 10:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
+231e525f-e0b9-4cef-aff7-c41d233dc018,02/17/2026 08:00:00,Gross Domestic Product Prelim (YoY),HIGH,EUR,Release,0.722,Growth
+e0a8f01e-9807-4d6c-aaa9-201136e9bc1b,03/05/2026 08:00:00,Gross Domestic Product Qtr Final (YoY),HIGH,EUR,Release,0.722,Growth

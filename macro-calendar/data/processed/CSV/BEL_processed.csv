@@ -1,20 +1,20 @@
-﻿Id,Start,Name,Impact,Currency,MacroCateg
-b97c5b84-ccfa-4cbf-9ec9-a88c4e3c408c,10/22/2025 09:00:00,Consumer Confidence Index,LOW,EUR,Confidence
-5e0c41f9-0c03-4c72-b37e-8ba5cebee13d,10/24/2025 13:00:00,Leading Indicator,LOW,EUR,Confidence
-2face923-ca4c-473a-97ca-2074b232704d,10/29/2025 10:00:00,Gross Domestic Product (QoQ),LOW,EUR,Growth
-0ef6a6ca-474a-4e9e-af16-45be0d17ef9d,10/30/2025 10:30:00,Consumer Price Index (MoM),LOW,EUR,Inflation
-0b7b17bd-3987-4a52-bf86-d65d78acd58a,10/30/2025 10:30:00,Consumer Price Index (YoY),LOW,EUR,Inflation
-920e7ad5-f015-4033-9216-2fa3557509c0,11/20/2025 10:00:00,Consumer Confidence Index,LOW,EUR,Confidence
-aa57be26-7be8-4b2f-9a74-343f04c78ad8,11/24/2025 14:00:00,Leading Indicator,LOW,EUR,Confidence
-a82169bc-a15a-4272-ae53-858f579f4f60,11/27/2025 10:30:00,Consumer Price Index (MoM),LOW,EUR,Inflation
-8242197e-8721-4be5-b5f8-af3c06fe930c,11/27/2025 10:30:00,Consumer Price Index (YoY),LOW,EUR,Inflation
-b1cb9378-81df-4784-abf1-ba2b9fd98586,11/28/2025 10:00:00,Gross Domestic Product (QoQ),LOW,EUR,Growth
-2e8b563c-0fbe-405b-b5e3-87c4ed42d012,12/18/2025 10:00:00,Consumer Confidence Index,LOW,EUR,Confidence
-d3fa7b99-540d-47ad-a494-db73a7247a64,12/19/2025 14:00:00,Leading Indicator,LOW,EUR,Confidence
-e119334f-6bed-4f02-a316-b8fc3385c0f5,12/23/2025 10:30:00,Consumer Price Index (MoM),LOW,EUR,Inflation
-ed97ade0-2c7c-44a5-a6d7-5d3f3774b876,12/23/2025 10:30:00,Consumer Price Index (YoY),LOW,EUR,Inflation
-596f2020-4cf5-4394-a3ee-97b72ef43ae8,01/22/2026 10:00:00,Consumer Confidence Index,LOW,EUR,Confidence
-9b2df7da-f274-487d-a552-463e39f1bdbb,01/27/2026 14:00:00,Leading Indicator,LOW,EUR,Confidence
-5e998160-8359-4221-8ad4-036900dd6970,01/29/2026 10:00:00,Gross Domestic Product (QoQ),LOW,EUR,Growth
-f210c209-288c-4998-8840-7b49490c7b57,01/30/2026 10:30:00,Consumer Price Index (MoM),LOW,EUR,Inflation
-679f8892-2a3f-481a-8794-651f2df2476b,01/30/2026 10:30:00,Consumer Price Index (YoY),LOW,EUR,Inflation
+﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
+b97c5b84-ccfa-4cbf-9ec9-a88c4e3c408c,10/22/2025 09:00:00,Consumer Confidence Index,HIGH,EUR,Release,0.595,Confidence
+5e0c41f9-0c03-4c72-b37e-8ba5cebee13d,10/24/2025 13:00:00,Leading Indicator,HIGH,EUR,Release,0.595,Confidence
+2face923-ca4c-473a-97ca-2074b232704d,10/29/2025 10:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+0ef6a6ca-474a-4e9e-af16-45be0d17ef9d,10/30/2025 10:30:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+0b7b17bd-3987-4a52-bf86-d65d78acd58a,10/30/2025 10:30:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+920e7ad5-f015-4033-9216-2fa3557509c0,11/20/2025 10:00:00,Consumer Confidence Index,HIGH,EUR,Release,0.595,Confidence
+aa57be26-7be8-4b2f-9a74-343f04c78ad8,11/24/2025 14:00:00,Leading Indicator,HIGH,EUR,Release,0.595,Confidence
+a82169bc-a15a-4272-ae53-858f579f4f60,11/27/2025 10:30:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+8242197e-8721-4be5-b5f8-af3c06fe930c,11/27/2025 10:30:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+b1cb9378-81df-4784-abf1-ba2b9fd98586,11/28/2025 10:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+2e8b563c-0fbe-405b-b5e3-87c4ed42d012,12/18/2025 10:00:00,Consumer Confidence Index,HIGH,EUR,Release,0.595,Confidence
+d3fa7b99-540d-47ad-a494-db73a7247a64,12/19/2025 14:00:00,Leading Indicator,HIGH,EUR,Release,0.595,Confidence
+e119334f-6bed-4f02-a316-b8fc3385c0f5,12/23/2025 10:30:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+ed97ade0-2c7c-44a5-a6d7-5d3f3774b876,12/23/2025 10:30:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+596f2020-4cf5-4394-a3ee-97b72ef43ae8,01/22/2026 10:00:00,Consumer Confidence Index,HIGH,EUR,Release,0.595,Confidence
+9b2df7da-f274-487d-a552-463e39f1bdbb,01/27/2026 14:00:00,Leading Indicator,HIGH,EUR,Release,0.595,Confidence
+5e998160-8359-4221-8ad4-036900dd6970,01/29/2026 10:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+f210c209-288c-4998-8840-7b49490c7b57,01/30/2026 10:30:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+679f8892-2a3f-481a-8794-651f2df2476b,01/30/2026 10:30:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation

@@ -1,36 +1,36 @@
-﻿Id,Start,Name,Impact,Currency,MacroCateg
-9d41e001-2a2d-4193-bc40-14057f0bd9ce,10/20/2025 10:00:00,Current Account Balance,LOW,EUR,Trade and External
-a93b1508-cec9-4d48-a6d1-da3ca113ffcd,10/30/2025 09:30:00,Business Confidence,LOW,EUR,Confidence
-8f84f951-5ed2-4913-a9a7-5dfe48a21d04,10/30/2025 09:30:00,Consumer Confidence,LOW,EUR,Confidence
-1481b955-06cc-4b68-966d-255305f47563,10/30/2025 09:30:00,Gross Domestic Product (QoQ),LOW,EUR,Growth
-8c915b10-c499-474b-87b2-577bb50f06a3,10/30/2025 09:30:00,Gross Domestic Product (YoY),LOW,EUR,Growth
-f6a689e6-131e-451f-a8ef-eb7d8c94b9be,10/31/2025 11:00:00,Consumer Price Index (MoM),LOW,EUR,Inflation
-6170eac1-5340-4015-87d0-2e21046ba65a,10/31/2025 11:00:00,Consumer Price Index (YoY),LOW,EUR,Inflation
-d1cdec41-575e-4c72-afca-ebd48bb928f0,11/10/2025 11:00:00,Global Trade Balance,LOW,EUR,Trade and External
-f3ace16c-1cd6-462d-920c-5895e30303ed,11/11/2025 11:00:00,Consumer Price Index (MoM),LOW,EUR,Inflation
-1ad4c802-dd45-4db5-8ef7-7765787327b0,11/11/2025 11:00:00,Consumer Price Index (YoY),LOW,EUR,Inflation
-bb1a8012-a3f4-40bd-9352-08ac0e480b8a,11/12/2025 11:00:00,Unemployment Rate,LOW,EUR,Labor Market
-e56445a5-51ee-4fd5-9342-4f53ed330970,11/20/2025 11:00:00,Current Account Balance,LOW,EUR,Trade and External
-365c1baa-d59d-4dc6-a0fc-9d4b2b6873c9,11/28/2025 09:30:00,Business Confidence,LOW,EUR,Confidence
-6bd3daf6-5cc9-400c-8ee4-4f74bbfba12c,11/28/2025 09:30:00,Consumer Confidence,LOW,EUR,Confidence
-d09e6baa-8a9b-4519-a8e5-c7ec77b6e1a4,11/28/2025 11:00:00,Consumer Price Index (MoM),LOW,EUR,Inflation
-8c2ec5be-8b5d-4a32-bd9e-bc40cf699fbc,11/28/2025 11:00:00,Consumer Price Index (YoY),LOW,EUR,Inflation
-dae777b5-c3e9-4aae-86fa-de644bd33bbd,11/28/2025 11:00:00,Gross Domestic Product (QoQ),LOW,EUR,Growth
-5a431b9b-dae8-4549-8e20-98d06a8e73fc,11/28/2025 11:00:00,Gross Domestic Product (YoY),LOW,EUR,Growth
-c2ea684e-2e6f-4dc2-a1e0-bdcfb5e4ea22,12/11/2025 11:00:00,Consumer Price Index (MoM),LOW,EUR,Inflation
-0a623a79-aabc-43d2-a969-2d29bc7a9a40,12/11/2025 11:00:00,Consumer Price Index (YoY),LOW,EUR,Inflation
-c9bdcf92-d202-4e2b-aa66-60e89ee6c9ad,12/11/2025 11:00:00,Global Trade Balance,LOW,EUR,Trade and External
-ce40d38b-5526-4d24-ada7-1a54fc894869,12/19/2025 11:00:00,Current Account Balance,LOW,EUR,Trade and External
-c6819eda-704a-493b-8fe5-7a9498e75256,01/02/2026 09:30:00,Business Confidence,LOW,EUR,Confidence
-98760493-a943-43e9-95c4-f48d2ac12886,01/02/2026 09:30:00,Consumer Confidence,LOW,EUR,Confidence
-6105055d-f525-4bab-a590-a9ab4234cc43,01/09/2026 11:00:00,Consumer Price Index (MoM),LOW,EUR,Inflation
-0ee6d802-589f-478d-beec-0e64d7bcaee7,01/09/2026 11:00:00,Consumer Price Index (YoY),LOW,EUR,Inflation
-d75239d2-013f-4f69-bef8-5d9457c9e168,01/09/2026 11:00:00,Global Trade Balance,LOW,EUR,Trade and External
-c5af359a-650f-44d1-8cb8-13ea362b548a,01/20/2026 11:00:00,Current Account Balance,LOW,EUR,Trade and External
-efdb2a85-ceda-4150-99ff-232ecf84146b,01/30/2026 09:30:00,Business Confidence,LOW,EUR,Confidence
-ceb1dc1b-ad98-40a2-b885-6876bb015fe5,01/30/2026 09:30:00,Consumer Confidence,LOW,EUR,Confidence
-b19f3b0f-f1ed-4748-8788-c77b382da883,01/30/2026 09:30:00,Gross Domestic Product (QoQ),LOW,EUR,Growth
-70c9e222-21a9-4b60-85fc-083e8ed00b58,01/30/2026 09:30:00,Gross Domestic Product (YoY),LOW,EUR,Growth
-87921ba3-28a5-424f-a0b9-28c3a95d23eb,01/30/2026 11:00:00,Consumer Price Index (MoM),LOW,EUR,Inflation
-b3dd4f54-2bbd-4922-95b8-7ac14ee476b4,01/30/2026 11:00:00,Consumer Price Index (YoY),LOW,EUR,Inflation
-17037bfb-6417-4654-8ae7-beb8e99bc215,02/11/2026 11:00:00,Unemployment Rate,LOW,EUR,Labor Market
+﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
+9d41e001-2a2d-4193-bc40-14057f0bd9ce,10/20/2025 10:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+a93b1508-cec9-4d48-a6d1-da3ca113ffcd,10/30/2025 09:30:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+8f84f951-5ed2-4913-a9a7-5dfe48a21d04,10/30/2025 09:30:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+1481b955-06cc-4b68-966d-255305f47563,10/30/2025 09:30:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+8c915b10-c499-474b-87b2-577bb50f06a3,10/30/2025 09:30:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
+f6a689e6-131e-451f-a8ef-eb7d8c94b9be,10/31/2025 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+6170eac1-5340-4015-87d0-2e21046ba65a,10/31/2025 11:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+d1cdec41-575e-4c72-afca-ebd48bb928f0,11/10/2025 11:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+f3ace16c-1cd6-462d-920c-5895e30303ed,11/11/2025 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+1ad4c802-dd45-4db5-8ef7-7765787327b0,11/11/2025 11:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+bb1a8012-a3f4-40bd-9352-08ac0e480b8a,11/12/2025 11:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+e56445a5-51ee-4fd5-9342-4f53ed330970,11/20/2025 11:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+365c1baa-d59d-4dc6-a0fc-9d4b2b6873c9,11/28/2025 09:30:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+6bd3daf6-5cc9-400c-8ee4-4f74bbfba12c,11/28/2025 09:30:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+d09e6baa-8a9b-4519-a8e5-c7ec77b6e1a4,11/28/2025 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+8c2ec5be-8b5d-4a32-bd9e-bc40cf699fbc,11/28/2025 11:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+dae777b5-c3e9-4aae-86fa-de644bd33bbd,11/28/2025 11:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+5a431b9b-dae8-4549-8e20-98d06a8e73fc,11/28/2025 11:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
+c2ea684e-2e6f-4dc2-a1e0-bdcfb5e4ea22,12/11/2025 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+0a623a79-aabc-43d2-a969-2d29bc7a9a40,12/11/2025 11:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+c9bdcf92-d202-4e2b-aa66-60e89ee6c9ad,12/11/2025 11:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+ce40d38b-5526-4d24-ada7-1a54fc894869,12/19/2025 11:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+c6819eda-704a-493b-8fe5-7a9498e75256,01/02/2026 09:30:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+98760493-a943-43e9-95c4-f48d2ac12886,01/02/2026 09:30:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+6105055d-f525-4bab-a590-a9ab4234cc43,01/09/2026 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+0ee6d802-589f-478d-beec-0e64d7bcaee7,01/09/2026 11:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+d75239d2-013f-4f69-bef8-5d9457c9e168,01/09/2026 11:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+c5af359a-650f-44d1-8cb8-13ea362b548a,01/20/2026 11:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+efdb2a85-ceda-4150-99ff-232ecf84146b,01/30/2026 09:30:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+ceb1dc1b-ad98-40a2-b885-6876bb015fe5,01/30/2026 09:30:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+b19f3b0f-f1ed-4748-8788-c77b382da883,01/30/2026 09:30:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+70c9e222-21a9-4b60-85fc-083e8ed00b58,01/30/2026 09:30:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
+87921ba3-28a5-424f-a0b9-28c3a95d23eb,01/30/2026 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+b3dd4f54-2bbd-4922-95b8-7ac14ee476b4,01/30/2026 11:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+17037bfb-6417-4654-8ae7-beb8e99bc215,02/11/2026 11:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
