@@ -137,7 +137,7 @@ Final enriched CSVs with:
 
 ```text
 ┌───────────────────────────────────────────────┐
-│ MarketPulse Economic Calendar (Source)       │
+│ MarketPulse Economic Calendar (Source)        │
 └───────────────────────────────────────────────┘
                 │
                 ▼
