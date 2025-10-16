@@ -93,6 +93,15 @@ Below is an example of the model’s parameter sensitivity curve and final class
   <img src="macro-calendar/scripts/Classification_Models/Quality_training/macro_model/plots/sensitivity_accuracy_2025-10-16_17-18-12.png" alt="Macro Model Sensitivity Accuracy" width="450">
 </p>
 
+<p align="center">
+<img src="macro-calendar\scripts\Classification_Models\Quality_training\macro_model\plots\confusion_matrix_2025-10-16_17-16-34.png" alt="Macro Model Class Distribution" width="450">
+</p>
+
+<p align="center">
+<img src="macro-calendar\scripts\Classification_Models\Quality_training\macro_model\plots\class_distribution_2025-10-16_17-16-34.png" alt="Macro Model Class Distribution" width="450">
+</p>
+
+
 [Final Accuracy Report](macro-calendar/scripts/Classification_Models/Quality_training/macro_model/reports/classification_report_2025-10-16_17-16-34.txt)
 
 
