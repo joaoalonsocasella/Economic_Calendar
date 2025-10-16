@@ -68,7 +68,7 @@ def run(playwright: Playwright) -> None:
     with page.expect_download() as ics_info:
         page.get_by_role("button", name="ICS").click()
     ics_download = ics_info.value
-    ics_path = os.path.join(download_dir, f"ICS/CZE_{last_year}.ics")
+    ics_path = os.path.join(download_dir, f"ICS/CZE.ics")
     ics_download.save_as(ics_path)
     print(f"ICS saved to: {ics_path}")
     page.wait_for_timeout(1200)
@@ -79,7 +79,7 @@ def run(playwright: Playwright) -> None:
     with page.expect_download() as csv_info:
         page.get_by_role("button", name="CSV").click()
     csv_download = csv_info.value
-    csv_path = os.path.join(download_dir, f"CSV/CZE_{last_year}.csv")
+    csv_path = os.path.join(download_dir, f"CSV/CZE.csv")
     csv_download.save_as(csv_path)
     print(f"CSV saved to: {csv_path}")
     page.wait_for_timeout(1200)

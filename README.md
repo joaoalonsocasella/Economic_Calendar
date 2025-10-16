@@ -5,6 +5,19 @@ This repository hosts a continuously updated collection of **global economic cal
 
 All calendars are automatically updated through **GitHub Actions** and can be easily downloaded and added to **Outlook**, **Google Calendar**, **Apple Calendar**, or any other calendar app supporting iCalendar feeds.
 
+
+## Download Calendar Page
+
+**Access all country calendars here:**  
+🔗 [https://joaoalonsocasella.github.io/Economic_Calendar/](https://joaoalonsocasella.github.io/Economic_Calendar/)
+
+After Downloading the `.ics`, you may want to choose:
+
+- **Static**: Import it to your own calendar by dragging and dropping;
+- **Dynamic** (recommended): Add it as a subscription - Copy the URL in the table and paste it in your own calendar (designated area)
+
+
+
 ## About the Project
 
 **EconomicCalendar** is an open-source project designed to aggregate and distribute global **macroeconomic event data** in a clean and machine-readable format.
@@ -32,17 +45,6 @@ The GitHub Actions workflow (`.github/workflows/update.yml`) automatically:
 
 No manual action is needed — subscribed calendars update automatically.
 
-
-
-## Download Calendar Page
-
-**Access all country calendars here:**  
-🔗 [https://joaoalonsocasella.github.io/Economic_Calendar/](https://joaoalonsocasella.github.io/Economic_Calendar/)
-
-After Downloading the `.ics`, you may want to choose:
-
-- **Static**: Import it to your own calendar by dragging and dropping;
-- **Dynamic** (recommended): Add it as a subscription - Copy the URL in the table and paste it in your own calendar (designated area)
 
 
 ## ⚠️ Disclaimer
