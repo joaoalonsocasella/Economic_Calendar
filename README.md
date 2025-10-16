@@ -164,5 +164,7 @@ No paid or credentialed APIs are used at any stage.
 
 
 Maintained by: João Alonso Casella
+
 📧 @joaoalonsocasella
+
 🌐 https://joaoalonsocasella.github.io/Economic_Calendar/
