@@ -6,7 +6,7 @@ from functools import lru_cache
 
 
 # ============================================================
-# 🔹 CONFIGURAÇÕES GERAIS
+# # CONFIGURAÇÕES GERAIS
 # ============================================================
 
 DATA_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "raw", "CSV")
@@ -17,7 +17,7 @@ OPTIONAL_COLUMNS = ["MacroCateg", "Release", "URL_ICS"]
 
 
 # ============================================================
-# 🔹 FUNÇÃO DE LEITURA DE CSV
+# # FUNÇÃO DE LEITURA DE CSV
 # ============================================================
 
 @lru_cache(maxsize=32)
@@ -46,7 +46,7 @@ def load_calendar(country_iso3: str) -> pd.DataFrame:
 
 
 # ============================================================
-# 🔹 FILTROS / CONSULTAS
+# # FILTROS / CONSULTAS
 # ============================================================
 
 def filter_events(
@@ -76,7 +76,7 @@ def filter_events(
 
 
 # ============================================================
-# 🔹 FORMATAÇÃO / UTILS DE DATA
+# # FORMATAÇÃO / UTILS DE DATA
 # ============================================================
 
 def parse_datetime(dt_str: str) -> datetime:
@@ -95,7 +95,7 @@ def format_datetime(dt: datetime) -> str:
 
 
 # ============================================================
-# 🔹 PREVIEW DOS DADOS (para debug ou testes)
+# # PREVIEW DOS DADOS (para debug ou testes)
 # ============================================================
 
 def preview_country_data(country_iso3: str, n: int = 5):
