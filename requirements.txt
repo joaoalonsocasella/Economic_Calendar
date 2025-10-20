@@ -1,4 +1,7 @@
 requests
+fastapi
+python-multipart
+uvicorn
 pandas
 beautifulsoup4
 playwright
