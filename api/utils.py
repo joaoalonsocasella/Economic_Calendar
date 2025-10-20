@@ -66,8 +66,8 @@ def filter_events(
     df: pd.DataFrame,
     impact: str = None,
     name_contains: str = None,
-    start_after: str = None,
-    start_before: str = None,
+    start_date: str = None,
+    end_date: str = None,
 ):
     """
     Filtra o DataFrame com base nos parâmetros fornecidos.
@@ -79,11 +79,11 @@ def filter_events(
     if name_contains:
         df = df[df["Name"].str.contains(name_contains, case=False, na=False)]
 
-    if start_after:
-        df = df[df["Start"] >= start_after]
+    if start_date:
+        df = df[df["Start"] >= start_date]
 
-    if start_before:
-        df = df[df["Start"] <= start_before]
+    if end_date:
+        df = df[df["Start"] <= end_date]
 
     return df
 

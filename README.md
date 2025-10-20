@@ -55,9 +55,32 @@ Fresh calendar data saved in `data/raw/` (CSV + ICS, per country).
 To start the API in your own machine:
 `uvicorn api.main:app --reload`
 
-To request a country's economic calendar info (generic port):
-`http://127.0.0.1:8000/country/USA`
 
+Base Adress (generic output from FastAPI):
+`http://127.0.0.1:8000`
+
+#### API Filters:
+
+- Country's entire economic calendar info:
+  - add `/events?country={iso3}`
+  - Example: `http://127.0.0.1:8000/events?country=BRA`
+- Country's calendar events filtered by **Impact** (LOW | MEDIUM | HIGH):
+  - add `&impact={impact_level}` to the country query
+  - Example: `http://127.0.0.1:8000/events?country=BRA&impact=HIGH`
+- Country's calendar events filtered by **macroeconomic theme** (Inflation | Growth | Labor Market | Monetary Policy | Confidence | Trade and External | Housing | Money and Credit):
+  - add `&macrocateg={categ}` to the country query
+  - Example: `http://127.0.0.1:8000/events?country=BRA&macrocateg=Labor%20Market`
+- Country's calendar events filtered by **Event Name**:
+  - add `&release={event_name}` to the country query`
+  - Example: `http://127.0.0.1:8000/events?country=BRA&release=PMI`
+- Country's calendar events filtered by **Event Type** (Release or Speech):
+  - add `&type=Release` to the country query
+  - Example: `http://127.0.0.1:8000/events?country=BRA&type=Release`
+- Country's calendar events filtered by **Start Date & End Date**:
+  - add `&start_date={yyyy-mm-dd}&end_date={yyyy-mm-dd}` to the country query
+  - Example: `http://127.0.0.1:8000/events/?country=BRA&start_date=2025-10-01&end_date=2026-12-31`
+  
+Of course, you can use multiple filters at the same time, apart from filtering multiple countries at once.
 
 **Output:**  
 Dynamic API serving real-time data through lightweight JSON endpoints.
