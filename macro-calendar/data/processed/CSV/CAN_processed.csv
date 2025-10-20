@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
-8b3e99a0-2c61-493d-9e3b-319bf745051b,10/16/2025 12:15:00,Housing Starts s.a (YoY),LOW,CAD,Release,0.07,Housing
-f2b72c38-02d4-4a3d-b27a-81899cbd6004,10/16/2025 17:30:00,BoC's Governor Macklem speech,MEDIUM,CAD,Speech,0.13,Monetary Policy
-463c76bc-48c3-4601-8e33-be2bcc4f9703,10/17/2025 12:30:00,Canadian Portfolio Investment in Foreign Securities,MEDIUM,CAD,Release,0.11,Trade and External
-ade979c4-046d-4e98-a8df-4bf004f3fa50,10/17/2025 12:30:00,Foreign Portfolio Investment in Canadian Securities,MEDIUM,CAD,Release,0.11,Trade and External
 fb64f274-5a18-4b2d-a642-b86972bd77d6,10/20/2025 12:30:00,Industrial Product Price (MoM),HIGH,CAD,Release,0.19,Inflation
 c395db04-18ae-4d59-bc9b-435bf4b4b803,10/20/2025 12:30:00,Raw Material Price Index,MEDIUM,CAD,Release,0.11,Trade and External
 8f1c08ed-9ddc-43e7-87b9-852b61aaa793,10/20/2025 14:30:00,Bank of Canada Business Outlook Survey,MEDIUM,CAD,Release,0.14,Confidence
@@ -23,6 +19,7 @@ ea74e472-3ff8-4481-a8c6-c77f9d384f69,10/24/2025 12:30:00,New Housing Price Index
 00569cca-9fa9-47a6-9fdd-cc4ef41e7b82,10/31/2025 12:30:00,Gross Domestic Product (MoM),LOW,CAD,Release,0.07,Housing
 8dae372a-0c7b-453d-993e-316b1164e4ef,11/02/2025 07:00:00,Daylight Saving Time ends,HIGH,CAD,Release,0.2,Monetary Policy
 a5bcaa9b-fcb4-4581-9dfa-ffbeec14efc3,11/03/2025 14:30:00,S&P Global Manufacturing PMI,HIGH,CAD,Release,0.17,Growth
+9c4618ff-5471-42de-985a-a7d881f3d3ce,11/03/2025 18:30:00,BoC's Governor Macklem speech,MEDIUM,CAD,Speech,0.13,Monetary Policy
 dd2f5852-cce6-456b-b9ec-b80c5ac917ea,11/04/2025 13:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
 f163c470-a665-477c-b679-85f941573d14,11/04/2025 13:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
 8fc20620-dc89-4b1e-ba75-ce4ed218bfa3,11/04/2025 13:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External

@@ -1,8 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
-e7bd346a-1a8b-4db6-b3f7-5d3bbdb9b4b2,10/17/2025 07:00:00,EU Norm Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
-995eedc9-a062-485b-a144-e8b91554627a,10/17/2025 07:00:00,EU Norm Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
-5fa47392-68f6-4e02-9558-531dd6ee0b17,10/20/2025 08:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
-95d59ab2-8d73-4f1a-afd1-cdaf608de996,10/22/2025 09:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
+95d59ab2-8d73-4f1a-afd1-cdaf608de996,10/20/2025 07:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
+5fa47392-68f6-4e02-9558-531dd6ee0b17,10/20/2025 14:30:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
 0acb7019-c742-40d4-b374-1bfefbcc6702,11/07/2025 08:00:00,Foreign Trade Balance,HIGH,EUR,Release,0.468,Trade and External
 91715931-bc70-416a-8cfe-f90af13d9a5d,11/10/2025 08:00:00,Industrial Output (YoY),HIGH,EUR,Release,0.722,Growth
 7003afe8-3d64-49b2-81d8-c122a0aa2648,11/14/2025 08:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation

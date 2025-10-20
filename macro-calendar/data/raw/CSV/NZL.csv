@@ -1,6 +1,4 @@
 Id,Start,Name,Impact,Currency
-be61f460-1c0f-4f9e-8197-4b98453cf514,10/19/2025 21:45:00,Consumer Price Index (QoQ),HIGH,NZD
-f02b1d3d-55e8-44ef-833c-dab2c672e579,10/19/2025 21:45:00,Consumer Price Index (YoY),HIGH,NZD
 86da2abe-af8d-43c2-831d-cb7968ed293b,10/20/2025 21:45:00,Exports,MEDIUM,NZD
 331f5edd-924c-4395-9844-b23a0ff4c8b3,10/20/2025 21:45:00,Imports,MEDIUM,NZD
 512a65d8-278b-4952-b8ca-287e734925d1,10/20/2025 21:45:00,Trade Balance NZD (MoM),LOW,NZD
@@ -10,7 +8,7 @@ ae64badb-066b-494b-bf19-bfda9029856d,10/21/2025 15:00:00,GDT Price Index,LOW,NZD
 fb9f2cd1-4c30-4656-9f14-4d8f19cdbcaf,10/30/2025 00:00:00,ANZ Activity Outlook,LOW,NZD
 0bcca132-fd8b-47d1-a04e-07b8ead0d239,10/30/2025 00:00:00,ANZ Business Confidence,LOW,NZD
 30ed7bfd-dac7-40d8-9488-8bd4465c2dbb,10/30/2025 21:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD
-0d9067d6-b027-44ba-89a4-d4d9b28b0e99,11/03/2025 21:45:00,Building Permits s.a. (MoM),MEDIUM,NZD
+0d9067d6-b027-44ba-89a4-d4d9b28b0e99,11/02/2025 21:45:00,Building Permits s.a. (MoM),MEDIUM,NZD
 8af2a5de-62a2-4e5a-bd82-5a58e5041e4f,11/04/2025 15:00:00,GDT Price Index,LOW,NZD
 b74d16ba-c0d7-4b32-861d-285ef14f1b49,11/04/2025 21:45:00,Employment Change,HIGH,NZD
 bd6de8d9-da6f-4681-9e48-0c50f3185ab7,11/04/2025 21:45:00,Labour Cost Index (QoQ),MEDIUM,NZD

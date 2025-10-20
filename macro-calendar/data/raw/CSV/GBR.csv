@@ -1,24 +1,4 @@
 Id,Start,Name,Impact,Currency
-6476f7b7-121f-4023-8c47-9be48cf436ee,10/16/2025 06:00:00,Goods Trade Balance,LOW,GBP
-d7e71433-6f25-4f78-b863-0a297107fdc2,10/16/2025 06:00:00,Gross Domestic Product (MoM),MEDIUM,GBP
-a34fc669-bbf2-4404-b0cd-11c3c01cf2ef,10/16/2025 06:00:00,Index of Services (3M/3M),LOW,GBP
-615282dc-1a1e-4e9b-87ed-194ead53f241,10/16/2025 06:00:00,Industrial Production (MoM),MEDIUM,GBP
-a4733c55-8a06-4686-949b-f64ecaa949b7,10/16/2025 06:00:00,Industrial Production (YoY),LOW,GBP
-5461d32a-f65d-4147-b791-1d49517676ec,10/16/2025 06:00:00,Manufacturing Production (MoM),MEDIUM,GBP
-be8c0f60-4799-421f-9eec-0473f367a9ba,10/16/2025 06:00:00,Manufacturing Production (YoY),LOW,GBP
-10c5b286-c35c-40e7-b012-f9c5be6bac6d,10/16/2025 06:00:00,Total Trade Balance,LOW,GBP
-0a9001a1-aab8-4f69-97a7-a51793f4f757,10/16/2025 06:00:00,Trade Balance; non-EU,LOW,GBP
-c01bc0fc-c479-48f2-b0b2-f4b667f4c26d,10/16/2025 08:30:00,BoE Credit Conditions Survey,LOW,GBP
-7fedbdce-9f3e-43f1-b11d-d1f64da3ba19,10/16/2025 11:00:00,NIESR GDP Estimate (3M),LOW,GBP
-5c125184-afb2-49df-bb91-449beb887650,10/16/2025 14:45:00,BoE's Mann speech,MEDIUM,GBP
-640c7fd3-cd8c-4f8b-8085-08fcd4a22908,10/16/2025 18:30:00,BoE's Greene speech,MEDIUM,GBP
-e6ab6038-e395-4fe8-b6d2-ad2fa480598e,10/17/2025 09:35:00,BoE's Pill speech,MEDIUM,GBP
-00cc21be-cef8-4b33-a140-c4c978701b02,10/17/2025 11:00:00,BoE's Greene speech,MEDIUM,GBP
-dc0c5eaf-2e0e-4579-b45e-8f8b95858dbc,10/17/2025 16:30:00,BoE's Breeden speech,MEDIUM,GBP
-7c59a2fe-a2ae-436b-abaf-0dcc3b6584a7,10/17/2025 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
-6084c38f-74f1-4343-9c04-c91f78c3efe9,10/18/2025 13:00:00,BoE's Governor Bailey speech,HIGH,GBP
-1e04786d-a438-4bdc-807a-375bad17911e,10/19/2025 23:01:00,Rightmove House Price Index (MoM),LOW,GBP
-48be1abd-3bbe-4385-8274-e827f85b0fa5,10/19/2025 23:01:00,Rightmove House Price Index (YoY),LOW,GBP
 3d1447b3-1096-4b66-b666-63dd231ca67b,10/21/2025 06:00:00,Public Sector Net Borrowing,LOW,GBP
 67d0063e-6538-42c4-b369-4ef0b9ed2532,10/22/2025 06:00:00,Consumer Price Index (MoM),HIGH,GBP
 c73d6929-ad2b-4e95-943f-0d85f29ed188,10/22/2025 06:00:00,Consumer Price Index (YoY),HIGH,GBP
@@ -52,7 +32,6 @@ e4debcd2-51a2-406c-a78a-a2b4587506da,10/31/2025 07:00:00,Nationwide Housing Pric
 bc2b0b54-55eb-4a22-8692-6131947445b7,10/31/2025 07:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP
 6fd96138-ab24-4fdc-913b-d25790246a96,10/31/2025 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
 509532db-5995-4ba0-a7e5-4e30259c756a,11/03/2025 09:30:00,S&P Global Manufacturing PMI,LOW,GBP
-06b022c6-eac3-44a8-8f72-cee81bd227a1,11/04/2025 00:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP
 63846e13-44ea-4b05-95b6-d9ceb725aef3,11/05/2025 09:30:00,S&P Global Composite PMI,LOW,GBP
 d7c74738-de1b-43fa-ab83-aa9abbaf3bfc,11/05/2025 09:30:00,S&P Global Services PMI,LOW,GBP
 23ea962c-faa4-4c13-abc4-3ceb0acc0b7e,11/06/2025 09:30:00,S&P Global Construction PMI,LOW,GBP
@@ -67,6 +46,7 @@ c0c8a324-1770-455d-adbb-25cc7c836b92,11/06/2025 12:30:00,BoE's Governor Bailey s
 c5e73520-dc69-43e5-a137-fe4cc3066541,11/07/2025 07:00:00,Halifax House Prices (MoM),LOW,GBP
 1b4f0720-147f-4cb7-8ffb-d28d1d0f3b10,11/07/2025 07:00:00,Halifax House Prices (YoY/3m),LOW,GBP
 0ccac07a-4ddf-4c2a-9236-d98821f6b6bb,11/07/2025 20:30:00,CFTC GBP NC Net Positions,LOW,GBP
+06b022c6-eac3-44a8-8f72-cee81bd227a1,11/11/2025 00:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP
 ac8e95fb-396c-4cf4-a0e9-d26743db6781,11/11/2025 07:00:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
 80ce8fe8-3e24-4d40-a7b2-fdb8eb04e5c1,11/11/2025 07:00:00,Average Earnings Including Bonus (3Mo/Yr),MEDIUM,GBP
 f1bca7e9-4600-4703-836b-60b8ed45858b,11/11/2025 07:00:00,Claimant Count Change,HIGH,GBP

@@ -1,7 +1,4 @@
 Id,Start,Name,Impact,Currency
-e6cadd12-15d4-4c47-9361-6c6a999d404c,10/16/2025 21:00:00,Export Price Growth (YoY),LOW,KRW
-a67dd8a9-f016-4858-b663-d5d8b0741c2e,10/16/2025 21:00:00,Import Price Growth (YoY),LOW,KRW
-ab5a43a4-b674-4935-b6c9-c6e7e063a224,10/16/2025 23:00:00,Unemployment Rate,LOW,KRW
 28d43f12-4dca-4d93-b9f8-d7a2accc20dc,10/21/2025 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
 59cf6b87-1cdf-47ee-97b7-5ed70d3f502f,10/21/2025 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
 118c0cc4-ff4c-461a-9008-0a6e91e155d6,10/23/2025 01:00:00,BoK Interest Rate Decision,MEDIUM,KRW
@@ -14,10 +11,10 @@ ad6202eb-f3b3-4a7f-965d-f972a5a29c47,10/28/2025 21:00:00,BOK Manufacturing BSI,L
 a22e0e89-2152-4bf0-b11e-662adb5bafc7,10/30/2025 23:00:00,Service Sector Output,LOW,KRW
 7aa37db7-0ff8-4a23-b4f7-5c6e05c69bd9,11/01/2025 00:00:00,Trade Balance,LOW,KRW
 3f65c7b3-b7af-4ea3-9198-a96c1835071b,11/03/2025 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
-915a4c79-01cf-4951-bc0d-c893656614b2,11/03/2025 21:00:00,FX Reserves,LOW,KRW
 7c2d91bb-fec0-4faf-a6e3-61a5291046ac,11/03/2025 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
 c6f3b01c-0a42-40af-888c-fea29467f4c7,11/03/2025 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
-402c1be8-8cd1-46a1-a0b8-b0ac32a2f955,11/06/2025 23:00:00,Current Account Balance,LOW,KRW
+915a4c79-01cf-4951-bc0d-c893656614b2,11/04/2025 21:00:00,FX Reserves,LOW,KRW
+402c1be8-8cd1-46a1-a0b8-b0ac32a2f955,11/05/2025 23:00:00,Current Account Balance,LOW,KRW
 e52056cc-e1d6-4cee-9125-94077ad290f5,11/11/2025 23:00:00,Unemployment Rate,LOW,KRW
 fffcf7a7-8f64-4af8-9ac1-d8b8a3dbd16c,11/13/2025 21:00:00,Export Price Growth (YoY),LOW,KRW
 343c23e2-a5a9-4076-b8ae-7c3c79f66373,11/13/2025 21:00:00,Import Price Growth (YoY),LOW,KRW
