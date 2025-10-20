@@ -57,3 +57,11 @@ def get_filtered(
     df = load_calendar(country)
     df = filter_events(df, impact, name_contains, start_after, start_before)
     return df.to_dict(orient="records")
+
+
+@app.get("/")
+def root():
+    return {
+        "message": "Macro Calendar API is running.",
+        "routes": ["/country/{country_iso3}", "/filter", "/docs"]
+    }

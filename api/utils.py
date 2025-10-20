@@ -9,7 +9,7 @@ from functools import lru_cache
 # ============================================================
 
 # Caminho para os arquivos processados
-DATA_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "processed", "CSV")
+DATA_PATH = os.path.join(os.path.dirname(__file__), "..", "macro-calendar", "data", "processed", "CSV")
 
 # Base pública para os links de download ICS
 GITHUB_BASE_URL = (
