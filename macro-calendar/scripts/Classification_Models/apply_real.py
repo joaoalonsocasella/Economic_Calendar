@@ -45,7 +45,7 @@ for file in tqdm(os.listdir(RAW_DIR), desc="Processing CSV files"):
     df["MacroCateg"] = macro_model.predict(df["Name"])
 
     # --- Apply Type model ---
-    df["Type"] = type_model.predict(df["Name"])
+    df["Event_Type"] = type_model.predict(df["Name"])
 
     # --- Save processed CSV ---
     file_name, _ = os.path.splitext(file)

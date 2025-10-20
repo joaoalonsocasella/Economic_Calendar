@@ -60,7 +60,7 @@ def compute_impact_score(row):
     """Compute continuous impact score."""
     macro = row.get("MacroCateg", "")
     currency = row.get("Currency", "")
-    event_type = row.get("Type", "")
+    event_type = row.get("Event_Type", "")
 
     macro_score = macro_weights.get(macro, DEFAULT_MACRO_WEIGHT)
     country_score = country_weights.get(currency, DEFAULT_COUNTRY_WEIGHT)
@@ -90,7 +90,7 @@ for file in tqdm(files, desc="Applying Impact Model"):
     path = os.path.join(INPUT_DIR, file)
     df = pd.read_csv(path)
 
-    if not all(col in df.columns for col in ["MacroCateg", "Currency", "Type"]):
+    if not all(col in df.columns for col in ["MacroCateg", "Currency", "Event_Type"]):
         print(f"[WARN] Skipping {file}: missing required columns.")
         continue
 

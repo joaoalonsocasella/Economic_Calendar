@@ -43,7 +43,7 @@ def get_events(
         df = df[df["Currency"].astype(str).str.upper() == currency.upper()]
 
     if event_type:
-        df = df[df["Type"].astype(str).str.upper() == event_type.upper()]
+        df = df[df["Event_Type"].astype(str).str.upper() == event_type.upper()]
 
     # === Filtros de data (conversão YYYY-MM-DD → datetime) ===
     if start_date:

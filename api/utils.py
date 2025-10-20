@@ -17,7 +17,7 @@ GITHUB_BASE_URL = (
 )
 
 REQUIRED_COLUMNS = ["Id", "Start", "Name", "Impact", "Currency"]
-OPTIONAL_COLUMNS = ["Type", "Impact_score", "MacroCateg", "Release", "URL_ICS"]
+OPTIONAL_COLUMNS = ["Event_Type", "Impact_score", "MacroCateg", "Release", "URL_ICS"]
 
 # ============================================================
 # FUNÇÃO DE LEITURA
@@ -50,7 +50,7 @@ def load_calendar(country_iso3: str) -> pd.DataFrame:
     # Reordena as colunas
     ordered_cols = [
         "Id", "Start", "Name", "Impact", "Currency",
-        "Type", "Impact_score", "MacroCateg", "Release",
+        "Event_Type", "Impact_score", "MacroCateg", "Release",
         "Country", "URL_ICS"
     ]
     df = df[[col for col in ordered_cols if col in df.columns]]
