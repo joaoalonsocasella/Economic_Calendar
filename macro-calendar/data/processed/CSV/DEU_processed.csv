@@ -1,19 +1,15 @@
 ﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
-2609e569-0c7f-4029-a734-47c5987d69e4,10/16/2025 10:00:00,German Buba Monthly Report,HIGH,EUR,Release,0.85,Monetary Policy
 cc7100b0-5b10-47d5-9514-4f886663457b,10/20/2025 06:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 5eeda276-e90c-46a8-9688-109dadd078ef,10/20/2025 06:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 d665b864-0025-4b3d-bf4f-d5c01e6c4bcf,10/24/2025 07:30:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 a7785af0-8158-455c-b284-73b7b270a592,10/24/2025 07:30:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 6e406afe-3ac9-4079-91ac-986f4797d9bb,10/24/2025 07:30:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
-a57b01a1-6531-42d7-9b14-1cdda9a2f323,10/27/2025 08:00:00,IFO – Business Climate,HIGH,EUR,Release,0.595,Confidence
-a6b02ef1-be94-4e51-9295-9a3432f1fb56,10/27/2025 08:00:00,IFO – Current Assessment,HIGH,EUR,Release,0.595,Confidence
-68e75f4b-cd1a-4757-8d1f-8195fd0eacda,10/27/2025 08:00:00,IFO – Expectations,HIGH,EUR,Release,0.595,Confidence
+a57b01a1-6531-42d7-9b14-1cdda9a2f323,10/27/2025 09:00:00,IFO – Business Climate,HIGH,EUR,Release,0.595,Confidence
+a6b02ef1-be94-4e51-9295-9a3432f1fb56,10/27/2025 09:00:00,IFO – Current Assessment,HIGH,EUR,Release,0.595,Confidence
+68e75f4b-cd1a-4757-8d1f-8195fd0eacda,10/27/2025 09:00:00,IFO – Expectations,HIGH,EUR,Release,0.595,Confidence
 154b4fa9-47d4-47df-912f-2954d1b32d5d,10/28/2025 07:00:00,GfK Consumer Confidence Survey,HIGH,EUR,Release,0.595,Confidence
 4a4f74cf-29cb-415c-ae5c-e2cdd059e524,10/28/2025 10:30:00,5-y Note Auction,HIGH,EUR,Release,0.383,Money and Credit
 7535f4c6-4fba-4eab-9ba3-9aacecab8409,10/29/2025 10:30:00,10-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
-e544f516-2290-4453-91e2-9619e91a0214,10/30/2025 07:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
-512823d9-1adb-4eb8-9dff-86e13797acf2,10/30/2025 07:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
-1e038397-a1c5-405e-87a7-dd1ae05921b4,10/30/2025 07:00:00,Gross Domestic Product w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
 92b4ec70-3d97-4db4-ad94-26ba431af28c,10/30/2025 08:55:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
 b345cb41-c169-4108-87b8-575cdfcc1570,10/30/2025 08:55:00,Unemployment Rate s.a.,HIGH,EUR,Release,0.765,Labor Market
 f5b2a117-610e-4b87-b188-6169364dc82d,10/30/2025 09:00:00,Baden-Wuerttemberg CPI (MoM),HIGH,EUR,Release,0.807,Inflation
@@ -22,6 +18,9 @@ d9a2d41d-4746-491b-8afc-dcf9350b3200,10/30/2025 09:00:00,Bavaria CPI (MoM),HIGH,
 42be34fe-1dad-483a-9f18-502bd77ce3ed,10/30/2025 09:00:00,Bavaria CPI (YoY),HIGH,EUR,Release,0.807,Inflation
 f6e26dd0-baf7-43bd-8271-79dbff571b4f,10/30/2025 09:00:00,Brandenburg CPI (MoM),HIGH,EUR,Release,0.807,Inflation
 0eac84f6-fe3a-4a51-89a1-ac8166305337,10/30/2025 09:00:00,Brandenburg CPI (YoY),HIGH,EUR,Release,0.807,Inflation
+e544f516-2290-4453-91e2-9619e91a0214,10/30/2025 09:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+512823d9-1adb-4eb8-9dff-86e13797acf2,10/30/2025 09:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
+1e038397-a1c5-405e-87a7-dd1ae05921b4,10/30/2025 09:00:00,Gross Domestic Product w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
 2325a5cc-80f2-4870-9df0-b487313ce49d,10/30/2025 09:00:00,Hesse CPI (MoM),HIGH,EUR,Release,0.807,Inflation
 56708b18-930b-41fd-beee-4cbdb32c50b6,10/30/2025 09:00:00,Hesse CPI (YoY),HIGH,EUR,Release,0.807,Inflation
 e348fe91-159e-4ef3-8c74-5ec60bf62100,10/30/2025 09:00:00,North Rhine-Westphalia CPI (MoM),HIGH,EUR,Release,0.807,Inflation
@@ -211,6 +210,8 @@ dee83ee3-b8ab-4771-96d6-5db2cf928cd8,02/04/2026 08:55:00,HCOB Services PMI,HIGH,
 40ad8f1a-8a16-4117-87d8-268190861924,02/13/2026 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 8aaf7182-6356-4c2a-bc5b-f97ae9e8c507,02/13/2026 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 77921288-890b-46ec-9635-64cd15133448,02/13/2026 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+13592567-27e4-4f72-ae0e-dc70a2408c4b,02/17/2026 10:00:00,ZEW Survey – Current Situation,HIGH,EUR,Release,0.595,Confidence
+33ae5cb4-c5ec-47b1-b3c0-f764b72f57e3,02/17/2026 10:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
 477bc3b7-a53d-4f5e-a795-c1f3a030e996,02/23/2026 08:30:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 75850ac7-bc9c-4149-958f-76df026b8d58,02/23/2026 08:30:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 50c0812e-e894-4fce-9120-de9f9e93b548,02/23/2026 08:30:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
@@ -244,6 +245,8 @@ f42be969-d2e5-4e3c-9cbb-2591f526dfb7,03/02/2026 08:55:00,HCOB Manufacturing PMI,
 98b32629-595d-4f64-88d5-026780ca3d86,03/13/2026 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 87ac6b9a-86f3-4ce3-88a6-3587ffbd1e30,03/13/2026 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 5bfc6520-4cc0-458d-91b7-ddeebe7693e4,03/13/2026 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+0432910d-f7c7-44bc-84d8-fb51c44de50e,03/17/2026 10:00:00,ZEW Survey – Current Situation,HIGH,EUR,Release,0.595,Confidence
+a3a307dc-3e8d-439d-b975-df0d772d0ab8,03/17/2026 10:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
 9c3b0139-0dfd-4ab2-bec4-5c8331f81997,03/24/2026 08:30:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 3327ec10-59d6-48bd-8373-e6e4c9e4153d,03/24/2026 08:30:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 dd03c5e1-8467-4de8-929a-e8ebfa740ac7,03/24/2026 08:30:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
@@ -272,6 +275,8 @@ da18c14a-6341-4cbf-a724-96e08cd2aca5,04/10/2026 06:00:00,Consumer Price Index (M
 f61601c4-d231-4ad7-99e8-5cae55965100,04/10/2026 06:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 c2f18e9a-b834-4391-a257-3fdfe46fbdb0,04/10/2026 06:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 2223bdb9-a59c-4883-bbde-a7556a378438,04/10/2026 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+52308861-7817-4623-ab3a-fde4d2aca840,04/14/2026 09:00:00,ZEW Survey – Current Situation,HIGH,EUR,Release,0.595,Confidence
+c3a0ac4e-ee75-4854-a259-d2984b3d8193,04/14/2026 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
 f43abcce-da5e-4dad-b93f-fd8fb797bde5,04/24/2026 07:30:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 9bd7f85c-2839-45e6-83e0-8dc0452c7b9e,04/24/2026 07:30:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 a1bd88c0-9552-4836-9057-40229628d29d,04/24/2026 07:30:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
@@ -303,6 +308,8 @@ bc56330e-6296-4596-b1a9-8a975f7cb8b1,05/15/2026 06:00:00,Consumer Price Index (M
 59b81362-f19c-45f1-afd8-73542d58789f,05/15/2026 06:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 e0920c2e-ca2a-475c-af78-b27c8f70b16c,05/15/2026 06:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 50e97eb3-c70d-4d35-b43a-3b942f9ff12b,05/15/2026 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+5f98030c-3065-425a-b226-73d6c00cf68e,05/19/2026 09:00:00,ZEW Survey – Current Situation,HIGH,EUR,Release,0.595,Confidence
+6da6109c-8bab-4734-9695-8701ca9f7939,05/19/2026 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
 c1e0a86f-cfa5-4020-8769-eee9bcd8f3b8,05/22/2026 06:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 82009fb2-465d-4e0e-98db-e90a12ae0580,05/22/2026 06:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
 fc7845fe-0cad-4638-a58f-4c93cb55ec4e,05/22/2026 06:00:00,Gross Domestic Product w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
@@ -334,6 +341,8 @@ d461ca8b-3376-4f3d-b55b-be7fa2184d99,06/12/2026 06:00:00,Consumer Price Index (M
 b875d1cb-fdb4-421c-bb31-851ca2574419,06/12/2026 06:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 f5e2e0cd-3c5b-40ab-b097-627d0ec4d014,06/12/2026 06:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 d5f24d34-9aad-4428-bf8a-1c84b1e34037,06/12/2026 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+74fba07d-e47d-4afe-885f-a11583c9263c,06/16/2026 09:00:00,ZEW Survey – Current Situation,HIGH,EUR,Release,0.595,Confidence
+b3d4f2cd-2e7d-4619-b902-fb917107d73c,06/16/2026 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
 0f6007bb-89a9-41d9-96b8-cb3da08c1c3d,06/24/2026 07:30:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 de403ef8-bd21-44dc-9c77-f0476a429f33,06/24/2026 07:30:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 571e5622-4d2b-44b5-8d02-2776604a98ce,06/24/2026 07:30:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
@@ -350,6 +359,8 @@ f9827ed3-e0c6-45d1-9fb7-d2f49497d3c6,07/03/2026 07:55:00,HCOB Services PMI,HIGH,
 10c56b91-80ab-4061-9cdc-cb1d27d263c1,07/14/2026 06:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 b71dceb1-15c1-48e7-be4c-3ffd28109767,07/14/2026 06:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 10bf2c44-4557-4c11-b9e1-0ad333e36fc9,07/14/2026 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+a11675dd-b61c-459f-bf52-faf13557ffd1,07/21/2026 09:00:00,ZEW Survey – Current Situation,HIGH,EUR,Release,0.595,Confidence
+3e2eed38-3be9-4f54-932d-8cb92ec7da57,07/21/2026 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
 99d972bf-d756-4059-8ce5-adc27142f5ed,07/23/2026 07:30:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 dac6d42b-7262-4417-8e32-51a92645745c,07/23/2026 07:30:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 56bf2230-a94b-4673-afee-ccf15a56163a,07/23/2026 07:30:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
@@ -369,6 +380,8 @@ a7314dab-5cf2-48a4-92c6-db541bd81afc,08/11/2026 06:00:00,Consumer Price Index (M
 28a4fd56-e7fd-411f-b8b5-546c0f9331d7,08/11/2026 06:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 68bfcadd-a17b-42be-b13c-ce4df93aa401,08/11/2026 06:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 72b99f3f-a194-4b9d-b907-1ea4fac6d508,08/11/2026 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+a87e2f7c-35ab-4a5d-8781-e9fa63c81441,08/18/2026 09:00:00,ZEW Survey – Current Situation,HIGH,EUR,Release,0.595,Confidence
+b05ef84e-ba1b-470d-8f42-c9801f5fc352,08/18/2026 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
 138116a5-a317-47e9-929b-e06b13059a51,08/21/2026 06:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 9da80988-24c6-4197-b7a6-de3104bf681d,08/21/2026 06:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
 51c5fc00-0705-4991-ae28-aca406f4718a,08/21/2026 06:00:00,Gross Domestic Product w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
@@ -388,6 +401,8 @@ d6886fc6-994a-42b7-92a2-595a0951b96b,08/31/2026 12:00:00,Harmonized Index of Con
 65c97258-a8db-4f5b-adea-711bb086b36c,09/11/2026 06:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 1f784f15-7728-4c98-af7d-90ea0ae98e0a,09/11/2026 06:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 3d5d82b8-9c59-4cea-9878-50741b5303ee,09/11/2026 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+7e47cc88-045a-4e93-8f09-44ba9b8171b7,09/15/2026 09:00:00,ZEW Survey – Current Situation,HIGH,EUR,Release,0.595,Confidence
+ca2d5d7f-6875-4d26-bdc8-05bed1e54d9d,09/15/2026 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
 4f973288-7134-4d91-ad78-1c08e8813000,09/24/2026 07:30:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 105acd5b-d0b2-4302-a0fd-dd06579b9284,09/24/2026 07:30:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 cb33c3c9-700e-4ec7-afab-cf714ea820d2,09/24/2026 07:30:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
@@ -397,6 +412,8 @@ aff7ff26-9949-4841-b105-a27a12a0cc56,09/30/2026 06:00:00,Retail Sales (MoM),HIGH
 37176296-e3a4-4c8c-9d02-b32b267d4a24,09/30/2026 12:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 137df470-b7e8-4e92-91b0-c1de8cba22b9,09/30/2026 12:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 3b4c1742-2543-4e9d-939d-297978af0475,09/30/2026 12:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+eace7dfe-5c70-44ef-8e0b-85cf7a516185,10/20/2026 09:00:00,ZEW Survey – Current Situation,HIGH,EUR,Release,0.595,Confidence
+bb41a99b-c00a-4385-91c7-fc273097caa8,10/20/2026 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
 84d0b0b0-1302-4a98-93c3-bd17895edfff,10/30/2026 07:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 6211a08d-0a37-416e-a4b5-0a4bd9f49ebb,10/30/2026 07:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
 b3a3d110-97fd-4e37-8cdd-c1c140f7962e,10/30/2026 07:00:00,Gross Domestic Product w.d.a (YoY),HIGH,EUR,Release,0.722,Growth

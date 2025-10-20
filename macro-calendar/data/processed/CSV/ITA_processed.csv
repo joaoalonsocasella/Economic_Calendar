@@ -1,17 +1,9 @@
 ﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
-e5ed2948-2802-402a-adb2-8092436d8118,10/16/2025 08:00:00,Consumer Price Index (EU Norm) (MoM),HIGH,EUR,Release,0.807,Inflation
-b26e0cd7-7300-497c-8670-e52df7e1a816,10/16/2025 08:00:00,Consumer Price Index (EU Norm) (YoY),HIGH,EUR,Release,0.807,Inflation
-a2428927-8e95-428c-ab86-232766b37e15,10/16/2025 08:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-cfbd870f-3d65-48fb-8bb4-4efabb607c29,10/16/2025 08:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-dab3558f-1bc2-418e-bd3c-376dc5b2d39e,10/16/2025 09:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
-8a2a278a-810b-4aa9-9ecc-a0afd0f87182,10/16/2025 09:00:00,Trade Balance EU,HIGH,EUR,Release,0.468,Trade and External
 deae1285-52a7-40ba-a573-6447cd926050,10/28/2025 09:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
 6050c9f6-423a-4285-b5c7-4ee27149232b,10/28/2025 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 8559a603-48d8-45cb-a5db-10f9b925f737,10/29/2025 09:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
 eaeb753b-ee46-466c-80e4-9bbc5d461a16,10/30/2025 09:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 0030c19a-cfa7-4033-8503-4b7d3da2ba2a,10/30/2025 09:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
-8628bec4-14e5-424b-b6bc-ed4a1b40d31b,10/30/2025 10:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-089e88df-3cd3-4ab7-b002-3368aabc452b,10/30/2025 10:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 b892ff14-59a3-4a55-af0a-b27bc8dcac82,10/30/2025 10:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
 4f073588-2ece-4e68-9d87-48766b681684,10/30/2025 10:30:00,10-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 b7319d21-e193-435f-a890-4528be2ffc4b,10/30/2025 10:30:00,5-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
@@ -23,10 +15,12 @@ e59922fc-6a10-4cb6-93c3-a261948d4a7f,10/31/2025 10:00:00,Consumer Price Index (E
 4831b7ad-5219-4508-ad88-12c7fdcdc6d5,10/31/2025 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 dee7ab45-b9c5-4e12-b509-59bf771b2727,11/03/2025 08:45:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 2a45adc6-bfbe-458b-80ba-92606c6db2be,11/05/2025 08:45:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
-88fc95b8-3548-463e-b718-f1f8725cf080,11/06/2025 09:00:00,Retail Sales n.s.a (YoY),HIGH,EUR,Release,0.722,Growth
-5f035af8-c0fe-4f1a-93a7-2f283c370f3b,11/06/2025 09:00:00,Retail Sales s.a. (MoM),HIGH,EUR,Release,0.722,Growth
+88fc95b8-3548-463e-b718-f1f8725cf080,11/05/2025 09:00:00,Retail Sales n.s.a (YoY),HIGH,EUR,Release,0.722,Growth
+5f035af8-c0fe-4f1a-93a7-2f283c370f3b,11/05/2025 09:00:00,Retail Sales s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 d69c72c5-9fd7-4a2d-952f-3098b1ef0102,11/07/2025 09:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 7d76f7f0-a4b2-449b-8f7b-e9b6e0e8b317,11/07/2025 09:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
+8628bec4-14e5-424b-b6bc-ed4a1b40d31b,11/12/2025 09:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+089e88df-3cd3-4ab7-b002-3368aabc452b,11/12/2025 09:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 e43234ab-2ef2-4d22-8e5e-1c89631f035d,11/14/2025 09:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
 1d3f3b91-42ed-4f8d-8d92-71f8b630ef30,11/14/2025 09:00:00,Trade Balance EU,HIGH,EUR,Release,0.468,Trade and External
 72aee8d8-6947-4cdb-8a7e-85f084cd85b1,11/17/2025 09:00:00,Consumer Price Index (EU Norm) (MoM),HIGH,EUR,Release,0.807,Inflation
