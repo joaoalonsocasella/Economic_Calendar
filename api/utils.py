@@ -4,43 +4,56 @@ from fastapi import HTTPException
 from datetime import datetime
 from functools import lru_cache
 
-
 # ============================================================
-# # CONFIGURAÇÕES GERAIS
+# CONFIGURAÇÕES GERAIS
 # ============================================================
 
-DATA_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "raw", "CSV")
+# Caminho para os arquivos processados
+DATA_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "processed", "CSV")
 
-# Define as colunas esperadas no dataset
+# Base pública para os links de download ICS
+GITHUB_BASE_URL = (
+    "https://joaoalonsocasella.github.io/Economic_Calendar/macro-calendar/data/raw/ICS"
+)
+
 REQUIRED_COLUMNS = ["Id", "Start", "Name", "Impact", "Currency"]
-OPTIONAL_COLUMNS = ["MacroCateg", "Release", "URL_ICS"]
-
+OPTIONAL_COLUMNS = ["Type", "Impact_score", "MacroCateg", "Release", "URL_ICS"]
 
 # ============================================================
-# # FUNÇÃO DE LEITURA DE CSV
+# FUNÇÃO DE LEITURA
 # ============================================================
 
 @lru_cache(maxsize=32)
 def load_calendar(country_iso3: str) -> pd.DataFrame:
     """
-    Lê o CSV de um país (macro-calendar/data/raw/CSV/{country}.csv)
-    e garante as colunas padrão.
+    Lê o CSV processado de um país (processed/CSV/{country_iso3}_processed.csv)
+    e injeta metadados úteis como o link público do .ICS e o país.
     """
     country_iso3 = country_iso3.upper()
-    csv_path = os.path.join(DATA_PATH, f"{country_iso3}.csv")
+    csv_path = os.path.join(DATA_PATH, f"{country_iso3}_processed.csv")
 
     if not os.path.exists(csv_path):
         raise HTTPException(status_code=404, detail=f"CSV não encontrado para {country_iso3}")
 
     df = pd.read_csv(csv_path)
 
-    # Corrige colunas faltantes
+    # Garantir colunas opcionais
     for col in OPTIONAL_COLUMNS:
         if col not in df.columns:
             df[col] = None
 
-    # Ordena as colunas para manter consistência
-    df = df[[*REQUIRED_COLUMNS, *OPTIONAL_COLUMNS]]
+    # Adiciona colunas extras
+    df["Country"] = country_iso3
+    df["URL_ICS"] = f"{GITHUB_BASE_URL}/{country_iso3}.ics"
+
+    df = df.fillna("")
+    # Reordena as colunas
+    ordered_cols = [
+        "Id", "Start", "Name", "Impact", "Currency",
+        "Type", "Impact_score", "MacroCateg", "Release",
+        "Country", "URL_ICS"
+    ]
+    df = df[[col for col in ordered_cols if col in df.columns]]
 
     return df
 
