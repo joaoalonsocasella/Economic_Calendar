@@ -13,10 +13,10 @@ router = APIRouter(prefix="/events", tags=["Events"])
 def get_events(
     country: str,
     impact: Optional[str] = None,
-    macrocat: Optional[str] = None,
+    macrocateg: Optional[str] = None,
     release: Optional[str] = None,
     currency: Optional[str] = None,
-    type_: Optional[str] = Query(None, alias="type"),
+    event_type: Optional[str] = Query(None, alias="type"),
     start_date: Optional[str] = None,
     end_date: Optional[str] = None,
 ):
@@ -33,8 +33,8 @@ def get_events(
     if impact:
         df = df[df["Impact"].astype(str).str.upper() == impact.upper()]
 
-    if macrocat:
-        df = df[df["MacroCateg"].astype(str).str.contains(macrocat, case=False, na=False, regex=False)]
+    if macrocateg:
+        df = df[df["MacroCateg"].astype(str).str.contains(macrocateg, case=False, na=False, regex=False)]
 
     if release:
         df = df[df["Name"].astype(str).str.contains(release, case=False, na=False, regex=False)]
@@ -42,8 +42,8 @@ def get_events(
     if currency:
         df = df[df["Currency"].astype(str).str.upper() == currency.upper()]
 
-    if type_:
-        df = df[df["Type"].astype(str).str.upper() == type_.upper()]
+    if event_type:
+        df = df[df["Type"].astype(str).str.upper() == event_type.upper()]
 
     # === Filtros de data (conversão YYYY-MM-DD → datetime) ===
     if start_date:
@@ -68,10 +68,10 @@ def get_events(
         "count": len(events),
         "filters_applied": {
             "impact": impact,
-            "macrocat": macrocat,
+            "macrocateg": macrocateg,
             "release": release,
             "currency": currency,
-            "type": type_,
+            "event_type": event_type,
             "start_date": start_date,
             "end_date": end_date,
         },
