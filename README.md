@@ -52,6 +52,10 @@ Fresh calendar data saved in `data/raw/` (CSV + ICS, per country).
 | `main.py` | FastAPI backend serving endpoints with calendar, category, and impact data. |
 | `utils.py` | Helper utilities for JSON normalization, caching, and request parsing. |
 
+#### Web adress
+`https://economic-calendar-api-h9hr.onrender.com`
+
+#### Run Locally
 To start the API in your own machine:
 `uvicorn api.main:app --reload`
 
