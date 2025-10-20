@@ -1,23 +1,17 @@
-name: Update Economic Calendar Data
-
-permissions:
-  id-token: write
-  contents: write
+name: Run Economic Calendar Scripts
 
 on:
+  workflow_dispatch:  # Permite rodar manualmente
   schedule:
-    - cron: "0 9 * * *"  # Runs daily at 09:00 UTC (~06:00 BRT)
-  workflow_dispatch:  # Allows manual trigger
+    - cron: "0 9 * * *"  # Roda todos os dias às 09:00 UTC (~06:00 BRT)
 
 jobs:
-  update:
+  run_scripts:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          persist-credentials: true
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -26,26 +20,29 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests playwright beautifulsoup4 python-dateutil pytz ics icalendar
+          pip install requests pandas beautifulsoup4 playwright pytz ics icalendar openpyxl
           python -m playwright install --with-deps chromium
 
-      # 1. Run main scraper (updates data and country-specific ICS)
-      - name: Update data and individual ICS files
+      # Executa os 5 scripts em sequência
+      - name: Run Update.py
         run: python macro-calendar/scripts/Automation/Update.py
 
-      # 2. Combine all ICS into one global calendar
-      - name: Combine ICS files into global calendar
+      - name: Run Combine.py
         run: python macro-calendar/scripts/Automation/Combine.py
 
-      # 3. Generate index.html download page
-      - name: Generate HTML index and download links
+      - name: Run GenerateLinks.py
         run: python macro-calendar/scripts/Automation/GenerateLinks.py
 
-      # 4. Commit and push all updated files
-      - name: Commit & push changes
+      - name: Run apply_real.py
+        run: python macro-calendar/scripts/Classification_Models/apply_real.py
+
+      - name: Run Impact_model.py
+        run: python macro-calendar/scripts/Impact/Impact_model.py
+
+      - name: Commit & Push changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add macro-calendar/data/raw/ICS/*.ics macro-calendar/calendar.ics index.html macro-calendar/CALENDAR_LINKS.md README.md || echo "No files to add"
-          git commit -m "Automated update: refreshed ICS data and links" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
+          git add . || echo "No files changed"
+          git commit -m "Automated data update" || echo "No changes to commit"
+          git push
