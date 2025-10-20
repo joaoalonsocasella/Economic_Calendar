@@ -49,9 +49,15 @@ Fresh calendar data saved in `data/raw/` (CSV + ICS, per country).
 
 | Script | Description |
 |---------|-------------|
-| `GenerateJSON.py` | Converts processed CSVs into structured JSON for external access. |
 | `main.py` | FastAPI backend serving endpoints with calendar, category, and impact data. |
 | `utils.py` | Helper utilities for JSON normalization, caching, and request parsing. |
+
+To start the API in your own machine:
+`uvicorn api.main:app --reload`
+
+To request a country's economic calendar info (generic port):
+`http://127.0.0.1:8000/country/USA`
+
 
 **Output:**  
 Dynamic API serving real-time data through lightweight JSON endpoints.

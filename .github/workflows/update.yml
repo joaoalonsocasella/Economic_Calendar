@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests pandas beautifulsoup4 playwright pytz ics icalendar openpyxl
+          pip install -r requirements.txt
           python -m playwright install --with-deps chromium
 
       # Executa os 5 scripts em sequência
