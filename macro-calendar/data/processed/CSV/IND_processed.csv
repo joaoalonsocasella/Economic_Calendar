@@ -1,4 +1,4 @@
-﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
+﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 29137fe1-f4c0-4c23-a79c-91b17bb56d94,10/24/2025 05:00:00,HSBC Composite PMI,HIGH,INR,Release,0.17,Growth
 a5f6b4eb-22bd-49de-bd9a-1b853ca7f78b,10/24/2025 05:00:00,HSBC Manufacturing PMI,HIGH,INR,Release,0.17,Growth
 44a710a9-feae-4191-81e7-eb964fc18da2,10/24/2025 05:00:00,HSBC Services PMI,HIGH,INR,Release,0.17,Growth

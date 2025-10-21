@@ -1,4 +1,4 @@
-﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
+﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 4a29a95a-df7f-445b-b281-05055dfe1352,10/21/2025 15:00:00,Trade Balance,MEDIUM,COP,Release,0.11,Trade and External
 20976fbf-8292-48b0-88ca-5dd848c35239,10/31/2025 15:00:00,National Jobless Rate,HIGH,COP,Release,0.18,Labor Market
 ea254584-abba-444e-a0a6-31c2e6b78bb1,10/31/2025 18:00:00,Interest rate,HIGH,COP,Release,0.2,Monetary Policy

@@ -1,4 +1,4 @@
-﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
+﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 55b8f192-e5b7-432e-8152-d6bb502e520d,10/21/2025 05:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
 e02b566c-083e-474c-b60f-4ecd0b4d118b,10/24/2025 05:00:00,Export Prices (YoY),HIGH,EUR,Release,0.468,Trade and External
 0c4b58e8-7759-4f7f-8963-d5db633a0a4a,10/24/2025 05:00:00,Import Prices (YoY),HIGH,EUR,Release,0.807,Inflation

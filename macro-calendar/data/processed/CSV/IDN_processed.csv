@@ -1,4 +1,4 @@
-﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
+﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 6cfd73cd-cf36-4b3e-93ee-0b867d5220c6,10/22/2025 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
 e24385f3-f89e-41b9-929e-780ba19a9cf1,11/03/2025 00:30:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 c3db6feb-8c24-443c-93be-6322f40335b4,11/03/2025 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation

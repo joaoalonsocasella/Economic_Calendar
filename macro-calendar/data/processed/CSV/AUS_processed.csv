@@ -1,4 +1,4 @@
-﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
+﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 eca909aa-adb7-4d59-ae2e-130c727ea338,10/23/2025 22:00:00,S&P Global Composite PMI,HIGH,AUD,Release,0.17,Growth
 4d525221-fc68-4889-9a43-916dd705837c,10/23/2025 22:00:00,S&P Global Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
 18ecec38-04bd-45b8-bea2-0fd3e9a8dcf7,10/23/2025 22:00:00,S&P Global Services PMI,HIGH,AUD,Release,0.17,Growth

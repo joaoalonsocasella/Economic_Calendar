@@ -1,4 +1,4 @@
-﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
+﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 2ed692cc-1c17-4193-9004-ea777054dea6,10/29/2025 09:00:00,UniCredit Bank Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 843dea43-d0d2-4807-accf-c803f55f62a6,10/30/2025 08:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 44a3dbc6-326a-4b63-a06a-b2735d72fbb1,10/30/2025 08:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation

@@ -1,11 +1,4 @@
-﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
-48bac11d-d61a-4ed9-b1a0-4df51d70e02e,10/20/2025 01:15:00,PBoC Interest Rate Decision,HIGH,CNY,Release,0.2,Monetary Policy
-c2211998-c1c8-4700-a9be-e512b2524534,10/20/2025 01:30:00,House Price Index ,LOW,CNY,Release,0.07,Housing
-54eaa84e-91b8-4628-80c1-ee450453759f,10/20/2025 02:00:00,Fixed Asset Investment (YTD) (YoY),HIGH,CNY,Release,0.17,Growth
-35fa041f-b692-4350-8e36-10de33eb1018,10/20/2025 02:00:00,Gross Domestic Product (QoQ),HIGH,CNY,Release,0.17,Growth
-614fb3d3-abd8-4304-9ab0-681902b5aa01,10/20/2025 02:00:00,Gross Domestic Product (YoY),HIGH,CNY,Release,0.17,Growth
-30d65787-6c73-42a0-bb01-86dcd0b407e4,10/20/2025 02:00:00,Industrial Production (YoY),HIGH,CNY,Release,0.17,Growth
-1a966fc9-bf65-45a9-9dca-219514f39724,10/20/2025 02:00:00,Retail Sales (YoY),HIGH,CNY,Release,0.17,Growth
+﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 6630725e-aacd-4929-8b9b-ac51281a5909,10/24/2025 09:00:00,FDI - Foreign Direct Investment (YTD) (YoY),HIGH,CNY,Release,0.17,Growth
 ddafeee9-e549-407c-80c3-5ed9e160ef4a,10/31/2025 01:30:00,NBS Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 1826eb4b-57aa-49a1-b4a2-3420894fbeae,10/31/2025 01:30:00,NBS Non-Manufacturing PMI,HIGH,CNY,Release,0.17,Growth

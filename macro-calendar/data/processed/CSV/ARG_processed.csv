@@ -1,5 +1,4 @@
-﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
-31e02776-59ae-4987-81fd-149141990660,10/20/2025 19:00:00,Trade Balance (MoM),MEDIUM,ARS,Release,0.11,Trade and External
+﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 c587d071-a0fd-4a86-af82-7a0e32726db7,11/03/2025 19:00:00,Tax Revenue (MoM),HIGH,ARS,Release,0.19,Inflation
 6273985b-3089-470e-b7ca-38d360a63a4c,11/07/2025 19:00:00,Industrial Output n.s.a (YoY),HIGH,ARS,Release,0.17,Growth
 81e6b810-a575-4ac3-96b2-2213202aedcf,11/12/2025 19:00:00,Consumer Price Index (MoM),HIGH,ARS,Release,0.19,Inflation

@@ -1,4 +1,4 @@
-﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
+﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 b2767e8b-fae7-4b79-ad66-433afe5ddb1d,10/28/2025 03:30:00,Customs-Based Trade Balance,MEDIUM,THB,Release,0.11,Trade and External
 21f45714-07eb-4b0f-88f8-dbdcd50b2e00,10/31/2025 07:00:00,Current Account,MEDIUM,THB,Release,0.11,Trade and External
 7e4cca8e-e8a4-4951-b6f2-08fb84794a9c,10/31/2025 07:00:00,Private Consumption Index,LOW,THB,Release,0.09,Money and Credit

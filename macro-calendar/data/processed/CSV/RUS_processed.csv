@@ -1,4 +1,4 @@
-﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
+﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 e10d2f9b-b76f-4aca-9d8d-94bd69a5f7f6,10/22/2025 16:00:00,Industrial Output,HIGH,RUB,Release,0.17,Growth
 689132b7-9532-4997-8e1e-5b7a7ba95dce,10/22/2025 16:00:00,Producer Price Index (MoM),HIGH,RUB,Release,0.19,Inflation
 4c1e4dc1-90a6-48d2-9d58-3ab1f087bfc5,10/22/2025 16:00:00,Producer Price Index (YoY),HIGH,RUB,Release,0.19,Inflation

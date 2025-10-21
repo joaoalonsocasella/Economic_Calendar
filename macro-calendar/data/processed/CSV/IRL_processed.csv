@@ -1,4 +1,4 @@
-﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
+﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 90051bd7-81ff-4a1e-8091-e11761fa18f7,10/28/2025 00:01:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 3258c782-b0a2-4aae-add7-ae428c38f447,10/30/2025 11:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
 6e1b1766-d63e-4a60-8193-44c216397c66,10/30/2025 11:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth

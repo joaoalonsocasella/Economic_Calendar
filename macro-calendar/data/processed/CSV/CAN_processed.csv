@@ -1,7 +1,4 @@
-﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
-fb64f274-5a18-4b2d-a642-b86972bd77d6,10/20/2025 12:30:00,Industrial Product Price (MoM),HIGH,CAD,Release,0.19,Inflation
-c395db04-18ae-4d59-bc9b-435bf4b4b803,10/20/2025 12:30:00,Raw Material Price Index,MEDIUM,CAD,Release,0.11,Trade and External
-8f1c08ed-9ddc-43e7-87b9-852b61aaa793,10/20/2025 14:30:00,Bank of Canada Business Outlook Survey,MEDIUM,CAD,Release,0.14,Confidence
+﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 d4a64296-2df6-470d-afe6-a85d4a830358,10/21/2025 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
 5357a500-8158-4acc-8d6d-8566e4607552,10/21/2025 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
 15b370f1-6950-4e3c-ab43-91b26ae67e1b,10/21/2025 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation

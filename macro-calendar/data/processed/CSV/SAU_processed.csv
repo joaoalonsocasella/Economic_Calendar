@@ -1,4 +1,4 @@
-﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
+﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 51dc9da7-cf1d-485a-bab6-435c33f36008,10/24/2025 14:00:00,Private Sector Loans (YoY),LOW,SAR,Release,0.09,Money and Credit
 29adce8c-8cdc-4a04-80bc-10ded81b2da3,10/24/2025 16:00:00,M3 Money Supply (YoY),HIGH,SAR,Release,0.19,Inflation
 2c7e3515-5f1d-4d77-bbc0-08141097d995,11/04/2025 04:15:00,Riyad Bank PMI,MEDIUM,SAR,Release,0.14,Confidence

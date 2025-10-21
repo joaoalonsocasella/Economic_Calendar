@@ -1,12 +1,4 @@
-﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
-28594ca9-ac09-4d18-b3ac-e2edd8beebe7,10/20/2025 08:00:00,Current Account n.s.a,HIGH,EUR,Release,0.468,Trade and External
-06f48eca-61b0-45c2-bb42-4278964009f9,10/20/2025 08:00:00,Current Account s.a,HIGH,EUR,Release,0.468,Trade and External
-317cdd02-95f2-4b20-8e78-ff6fef5d2187,10/20/2025 08:00:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-53b4d9a1-a2fa-449c-8790-1ab6af322808,10/20/2025 09:00:00,Construction Output  s.a (MoM),HIGH,EUR,Release,0.297,Housing
-4f95cf62-982b-4ecf-9a6c-ac9f2af1bfd8,10/20/2025 09:00:00,Construction Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
-40e81011-e2a2-4de2-ab05-aa2964ec349d,10/20/2025 14:00:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-99c6413d-3310-458e-abba-d71753203d7e,10/20/2025 17:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-ad4d6c50-b40e-4e42-8dab-4cdde3a4d2b8,10/20/2025 22:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
+﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 c94eda34-f3c1-48f3-a2fd-a7946c48b5fa,10/21/2025 07:00:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
 b6dec8e2-8488-45dd-aa7a-2b75cd06a561,10/21/2025 09:35:00,ECB's Escrivá speech,HIGH,EUR,Speech,0.552,Monetary Policy
 2f264e05-c5b9-4138-be51-ec9ff73ee120,10/21/2025 11:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy

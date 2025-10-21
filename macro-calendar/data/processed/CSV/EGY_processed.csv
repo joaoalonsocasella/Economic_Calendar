@@ -1,4 +1,4 @@
-﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
+﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 6decbcda-af43-466d-af9a-c1fc3a117b1c,11/10/2025 12:00:00,Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
 879f6269-8680-44d3-b117-6f1d7deb4c07,11/10/2025 12:00:00,Core Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
 eab032ef-8eeb-47ff-9385-5516066328a1,11/20/2025 17:00:00,CBE Interest Rate Decision,HIGH,EGP,Release,0.2,Monetary Policy

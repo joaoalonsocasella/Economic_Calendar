@@ -1,4 +1,4 @@
-﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
+﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 f0c80107-a5e9-436a-8a43-a4539a518f36,10/21/2025 06:00:00,Exports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
 043c74c2-6378-47e6-ac38-4a5722d2b664,10/21/2025 06:00:00,Imports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
 16c5ac28-b961-4c00-be7e-6fbe0cae82b3,10/21/2025 06:00:00,Trade Balance,MEDIUM,CHF,Release,0.11,Trade and External

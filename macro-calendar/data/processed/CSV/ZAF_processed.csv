@@ -1,4 +1,4 @@
-﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
+﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 0b789eb6-bf17-4222-9f6e-6bef3d192d3d,10/22/2025 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
 459e0f3c-5612-4032-a354-aa7944fd45b1,10/22/2025 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
 cf9ce604-e5a6-479c-a653-5b272503909e,10/29/2025 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation

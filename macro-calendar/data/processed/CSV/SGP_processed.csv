@@ -1,4 +1,4 @@
-﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
+﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 8b7293c7-691e-44b0-a701-2891fb5130ab,10/23/2025 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
 7e7fffc0-3a2e-4d58-a0fe-3cf0eaaba5b8,10/24/2025 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
 b9d238d0-5383-4a20-a3a6-f506ae324430,10/24/2025 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth

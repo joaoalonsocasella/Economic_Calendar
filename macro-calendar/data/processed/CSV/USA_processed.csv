@@ -1,11 +1,10 @@
-﻿Id,Start,Name,Impact,Currency,Type,Impact_score,MacroCateg
-d6660ebc-b6ae-4bf0-91a8-bfea9bbd11cd,10/20/2025 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
-6231be48-f012-4475-8889-ecc920970e4f,10/20/2025 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
+﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 4b344c5b-35d4-4c84-89e4-32cb017b4cae,10/21/2025 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 0af265e9-1b2a-4fd6-9435-e34046662879,10/21/2025 13:00:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 ef038ee5-bde1-4737-9e9c-4dfd08c6ac92,10/21/2025 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 cb35e6d8-d9e1-433e-bd13-9678bc1c3458,10/22/2025 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 cc0fdf18-472e-4b7f-a2c3-b473a7712c6a,10/22/2025 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
+f3022bbd-3935-4d78-9f0f-07192947ec57,10/22/2025 14:50:00,Fed's Musalem speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 a97dac26-7fa9-498d-8f99-1e6ddae6f67c,10/22/2025 17:00:00,20-Year Bond Auction,LOW,USD,Release,0.09,Money and Credit
 23961005-a0cf-4e1d-81ce-6dc68668c862,10/22/2025 20:00:00,Fed's Barr speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 e58dcbf4-9f60-4763-b409-68117f6cc9b7,10/23/2025 12:30:00,Chicago Fed National Activity Index ,HIGH,USD,Release,0.17,Growth
