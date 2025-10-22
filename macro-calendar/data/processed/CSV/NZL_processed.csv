@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-86da2abe-af8d-43c2-831d-cb7968ed293b,10/20/2025 21:45:00,Exports,MEDIUM,NZD,Release,0.11,Trade and External
-331f5edd-924c-4395-9844-b23a0ff4c8b3,10/20/2025 21:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External
-512a65d8-278b-4952-b8ca-287e734925d1,10/20/2025 21:45:00,Trade Balance NZD (MoM),MEDIUM,NZD,Release,0.11,Trade and External
-680293e0-bb2c-4750-81c9-573b87e92681,10/20/2025 21:45:00,Trade Balance NZD (YoY),MEDIUM,NZD,Release,0.11,Trade and External
-88aea309-2341-47e5-a3e3-2db88a3f6023,10/21/2025 02:00:00,Credit Card Spending (YoY),HIGH,NZD,Release,0.17,Growth
-ae64badb-066b-494b-bf19-bfda9029856d,10/21/2025 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 fb9f2cd1-4c30-4656-9f14-4d8f19cdbcaf,10/30/2025 00:00:00,ANZ Activity Outlook,MEDIUM,NZD,Release,0.14,Confidence
 0bcca132-fd8b-47d1-a04e-07b8ead0d239,10/30/2025 00:00:00,ANZ Business Confidence,MEDIUM,NZD,Release,0.14,Confidence
 30ed7bfd-dac7-40d8-9488-8bd4465c2dbb,10/30/2025 21:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Release,0.14,Confidence
