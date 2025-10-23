@@ -1,16 +1,5 @@
 Id,Start,Name,Impact,Currency
-67d0063e-6538-42c4-b369-4ef0b9ed2532,10/22/2025 06:00:00,Consumer Price Index (MoM),HIGH,GBP
-c73d6929-ad2b-4e95-943f-0d85f29ed188,10/22/2025 06:00:00,Consumer Price Index (YoY),HIGH,GBP
-f7750fc1-cb84-46e9-84cd-d1610c499bee,10/22/2025 06:00:00,Core Consumer Price Index (YoY),HIGH,GBP
-44a7876f-a31e-4afd-9c29-645f32d9911f,10/22/2025 06:00:00,PPI Core Output (MoM) n.s.a,MEDIUM,GBP
-e2e0868c-85d4-4c0d-8080-608ef1f63cdb,10/22/2025 06:00:00,"PPI Core Output (YoY) n.s.a ",MEDIUM,GBP
-8007a8c7-8eb7-46b5-9d7a-68e106f899fb,10/22/2025 06:00:00,Producer Price Index - Input (MoM) n.s.a,LOW,GBP
-128081bd-21b3-4f04-bcb4-aea081e14d4e,10/22/2025 06:00:00,Producer Price Index - Input (YoY) n.s.a,LOW,GBP
-bdf1fce8-07f2-448a-a50a-1823ab0d2e28,10/22/2025 06:00:00,Producer Price Index - Output (MoM) n.s.a,MEDIUM,GBP
-37d3d746-f564-4d30-9345-d3b279b6c803,10/22/2025 06:00:00,Producer Price Index - Output (YoY) n.s.a,MEDIUM,GBP
-ce5e492b-0ea1-478e-a7a7-450066650015,10/22/2025 06:00:00,Retail Price Index (MoM),MEDIUM,GBP
-5a682292-0d3c-40b1-a3d4-25f672f39891,10/22/2025 06:00:00,Retail Price Index (YoY),MEDIUM,GBP
-ab918845-3a6b-4e0c-a8ca-d6beaaca0248,10/22/2025 08:30:00,DCLG House Price Index (YoY),LOW,GBP
+515452b9-1de6-477c-8e63-b438d3558d78,10/23/2025 08:30:00,BoE's Dhingra speech,MEDIUM,GBP
 f141cd95-35ef-4467-83f8-424eafbbfab4,10/23/2025 23:01:00,GfK Consumer Confidence,MEDIUM,GBP
 c2192120-89fb-4c54-971c-68ea82470075,10/24/2025 06:00:00,Retail Sales (MoM),HIGH,GBP
 d411fcc5-d9f6-4901-801c-7ea15e777245,10/24/2025 06:00:00,Retail Sales (YoY),MEDIUM,GBP

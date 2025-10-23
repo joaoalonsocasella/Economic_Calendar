@@ -1,22 +1,14 @@
 Id,Start,Name,Impact,Currency
-4b344c5b-35d4-4c84-89e4-32cb017b4cae,10/21/2025 12:55:00,Redbook Index (YoY),LOW,USD
-0af265e9-1b2a-4fd6-9435-e34046662879,10/21/2025 13:00:00,Fed's Waller speech,MEDIUM,USD
-ef038ee5-bde1-4737-9e9c-4dfd08c6ac92,10/21/2025 20:30:00,API Weekly Crude Oil Stock,LOW,USD
-cb35e6d8-d9e1-433e-bd13-9678bc1c3458,10/22/2025 11:00:00,MBA Mortgage Applications,LOW,USD
-cc0fdf18-472e-4b7f-a2c3-b473a7712c6a,10/22/2025 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
-f3022bbd-3935-4d78-9f0f-07192947ec57,10/22/2025 14:50:00,Fed's Musalem speech,MEDIUM,USD
-a97dac26-7fa9-498d-8f99-1e6ddae6f67c,10/22/2025 17:00:00,20-Year Bond Auction,LOW,USD
-23961005-a0cf-4e1d-81ce-6dc68668c862,10/22/2025 20:00:00,Fed's Barr speech,MEDIUM,USD
 e58dcbf4-9f60-4763-b409-68117f6cc9b7,10/23/2025 12:30:00,"Chicago Fed National Activity Index ",LOW,USD
 e99f92e2-446f-4dec-9376-2f78098d8086,10/23/2025 12:30:00,Continuing Jobless Claims,LOW,USD
 cf4a5dc5-77fa-401e-94bf-73080272113c,10/23/2025 12:30:00,Initial Jobless Claims,MEDIUM,USD
 a0b09871-7f30-4e18-9fa1-9e7309d8b795,10/23/2025 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
 711c7a09-f440-41e2-aa6d-f752f92e2c2a,10/23/2025 14:00:00,Existing Home Sales (MoM),LOW,USD
 e612068d-e4d4-4c66-99f9-60ef9ac69d07,10/23/2025 14:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
-241d88db-e7f5-45aa-9c0d-2ec814699628,10/23/2025 14:00:00,Fed's Bowman speech,MEDIUM,USD
+241d88db-e7f5-45aa-9c0d-2ec814699628,10/23/2025 14:00:00,Fed's Bowman speech,LOW,USD
 8edea2f2-1071-42f6-b78f-f06fdb9b2a1d,10/23/2025 14:00:00,New Home Sales (MoM),LOW,USD
 b01f2297-ec3e-4671-904b-ff0fb3bfc401,10/23/2025 14:00:00,New Home Sales Change (MoM),MEDIUM,USD
-ca00fbff-460d-41a6-8d3c-47a85dd39bb5,10/23/2025 14:25:00,Fed's Barr speech,MEDIUM,USD
+ca00fbff-460d-41a6-8d3c-47a85dd39bb5,10/23/2025 14:25:00,Fed's Barr speech,LOW,USD
 ef66655d-ce04-47ee-a346-072db32e253d,10/23/2025 14:30:00,EIA Natural Gas Storage Change,LOW,USD
 a04e41a7-02c1-4a98-b6f2-81cac83cba09,10/23/2025 15:00:00,Kansas Fed Manufacturing Activity,LOW,USD
 2665d945-1791-445d-825c-0043336ab8be,10/23/2025 15:30:00,4-Week Bill Auction,LOW,USD
