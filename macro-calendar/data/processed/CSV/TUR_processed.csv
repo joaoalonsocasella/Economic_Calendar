@@ -1,12 +1,10 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-5b335bc5-e77d-4a8f-b8ac-08756801bba3,10/23/2025 07:00:00,Consumer Confidence,MEDIUM,TRY,Release,0.14,Confidence
-0cbb28bd-bdfe-4d6d-b463-ed41351f142f,10/23/2025 11:00:00,CBRT Interest Rate Decision,HIGH,TRY,Release,0.2,Monetary Policy
-97baae83-5272-4249-97f8-28c056ce18a5,10/24/2025 07:00:00,Capacity Utilization,HIGH,TRY,Release,0.2,Monetary Policy
-fdd87eca-c050-4ef2-b4b4-9e995036f982,10/24/2025 07:00:00,Manufacturing Confidence,MEDIUM,TRY,Release,0.14,Confidence
-b9878949-122d-471d-ab40-1870ff5502d4,10/24/2025 08:00:00,Foreign Arrivals,MEDIUM,TRY,Release,0.11,Trade and External
+97baae83-5272-4249-97f8-28c056ce18a5,10/27/2025 07:00:00,Capacity Utilization,HIGH,TRY,Release,0.2,Monetary Policy
+fdd87eca-c050-4ef2-b4b4-9e995036f982,10/27/2025 07:00:00,Manufacturing Confidence,MEDIUM,TRY,Release,0.14,Confidence
 58230192-a2c0-428d-a504-20c88a0bd7dc,10/27/2025 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
 3b13cae0-5faa-44f9-a0ca-cecaadc70b9f,10/30/2025 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
 ed14cd8d-002d-414d-b486-ed9c7fa577ec,10/31/2025 07:00:00,Trade Balance,MEDIUM,TRY,Release,0.11,Trade and External
+b9878949-122d-471d-ab40-1870ff5502d4,10/31/2025 08:00:00,Foreign Arrivals,MEDIUM,TRY,Release,0.11,Trade and External
 11a50689-a5b0-4b1c-89a0-6f793f0a098d,11/03/2025 07:00:00,Consumer Price Index (MoM),HIGH,TRY,Release,0.19,Inflation
 8f6f001a-cd43-408d-bb2e-ad9e5c03636a,11/03/2025 07:00:00,Consumer Price Index (YoY),HIGH,TRY,Release,0.19,Inflation
 3c28c9c1-1368-4d09-9ef7-99c0008d9446,11/03/2025 07:00:00,Producer Price Index (MoM),HIGH,TRY,Release,0.19,Inflation

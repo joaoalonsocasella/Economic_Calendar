@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-b5238eda-a9dd-4d5e-ad04-78d3b03b58cb,10/23/2025 08:00:00,Unemployment (MoM),HIGH,PLN,Release,0.18,Labor Market
-0670bac3-fc03-4ece-859c-fa8969ddc689,10/23/2025 12:00:00,M3 Money Supply (YoY),HIGH,PLN,Release,0.19,Inflation
 02c3133c-1371-4c06-8aff-851b133c7ad0,11/03/2025 08:00:00,S&P Global Manufacturing PMI,HIGH,PLN,Release,0.17,Growth
 501dddfc-1d4f-4324-855f-3f0321450e2a,11/05/2025 13:00:00,NBP Base rate,HIGH,PLN,Release,0.2,Monetary Policy
 b9538a62-8e59-4c97-89d7-0a9d50370fb0,11/07/2025 13:00:00,Central Bank FX Reserves,LOW,PLN,Release,0.09,Money and Credit
