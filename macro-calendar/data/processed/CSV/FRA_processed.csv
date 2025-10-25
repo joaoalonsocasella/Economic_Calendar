@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-885dcc85-83a2-4279-9089-ccb13621e594,10/24/2025 06:45:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
-ebf08745-72fe-4307-99fb-d654ed7b4395,10/24/2025 07:15:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
-533ec20d-77a7-4bdc-a28f-3d0e0c280449,10/24/2025 07:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
-9dd5f8b8-7099-4aa6-bc99-c74f06fcd522,10/24/2025 07:15:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 656452f4-2f21-457f-a29e-84ab39e08c3c,10/30/2025 07:45:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 879d77f8-177b-4a74-8460-9ece7918acac,10/31/2025 07:45:00,Consumer Price Index (EU norm) (MoM),HIGH,EUR,Release,0.807,Inflation
 c109a9d0-2d54-4b06-a648-e1f25f1469cb,10/31/2025 07:45:00,Consumer Price Index (EU norm) (YoY),HIGH,EUR,Release,0.807,Inflation

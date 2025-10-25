@@ -1,8 +1,4 @@
 Id,Start,Name,Impact,Currency
-29137fe1-f4c0-4c23-a79c-91b17bb56d94,10/24/2025 05:00:00,HSBC Composite PMI,MEDIUM,INR
-a5f6b4eb-22bd-49de-bd9a-1b853ca7f78b,10/24/2025 05:00:00,HSBC Manufacturing PMI,MEDIUM,INR
-44a710a9-feae-4191-81e7-eb964fc18da2,10/24/2025 05:00:00,HSBC Services PMI,MEDIUM,INR
-be38fa9a-ada6-4421-b134-245f3d740b78,10/24/2025 11:30:00,"FX Reserves, USD",LOW,INR
 12cc7c6a-2c82-49b5-af5d-3b4cb79c0a3b,10/28/2025 10:30:00,Cumulative Industrial Output,LOW,INR
 ba36e300-8cee-4f36-8e63-e615bc79bd86,10/28/2025 10:30:00,Industrial Output,LOW,INR
 8c1fede2-f393-4ea2-8700-1981210d304f,10/28/2025 10:30:00,Manufacturing Output,LOW,INR

@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e02b566c-083e-474c-b60f-4ecd0b4d118b,10/24/2025 05:00:00,Export Prices (YoY),HIGH,EUR,Release,0.468,Trade and External
-0c4b58e8-7759-4f7f-8963-d5db633a0a4a,10/24/2025 05:00:00,Import Prices (YoY),HIGH,EUR,Release,0.807,Inflation
-aede7a27-e584-468e-bf6d-5574c82794df,10/24/2025 05:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 67a47277-9e41-4458-b5ac-aa6ab5160620,10/27/2025 06:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 59f2d1e5-8ee2-4407-892e-5063acc17cb6,10/27/2025 06:00:00,Industrial Confidence,HIGH,EUR,Release,0.595,Confidence
 32bf1828-433b-4c41-a89e-0010abf0c646,10/30/2025 06:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth

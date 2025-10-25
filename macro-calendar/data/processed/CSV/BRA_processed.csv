@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-58e68769-594d-4ba3-bf31-578ed457b543,10/24/2025 12:00:00,Mid-month Inflation,HIGH,BRL,Release,0.19,Inflation
-87adcbd5-6f37-4d1b-a2eb-f42f21c958db,10/24/2025 12:30:00,Current Account,MEDIUM,BRL,Release,0.11,Trade and External
 0886d3da-9686-4327-9bc1-44c82e87b7d4,10/30/2025 11:00:00,Inflation Index/IGP-M,HIGH,BRL,Release,0.19,Inflation
 75e5c513-d6cc-45c3-a971-fb08d0bddb3a,10/31/2025 11:30:00,Nominal Budget Balance,MEDIUM,BRL,Release,0.11,Trade and External
 87d44d2f-1c08-4b01-9a79-832d6a145937,10/31/2025 11:30:00,Primary Budget Surplus,HIGH,BRL,Release,0.2,Monetary Policy

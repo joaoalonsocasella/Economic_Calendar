@@ -1,13 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-c2192120-89fb-4c54-971c-68ea82470075,10/24/2025 06:00:00,Retail Sales (MoM),HIGH,GBP,Release,0.17,Growth
-d411fcc5-d9f6-4901-801c-7ea15e777245,10/24/2025 06:00:00,Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
-e667e866-926f-4122-993b-38f26a22ac0a,10/24/2025 06:00:00,Retail Sales ex-Fuel (MoM),HIGH,GBP,Release,0.17,Growth
-1696fbad-a225-4cc5-aebf-5dba2fcd5ee3,10/24/2025 06:00:00,Retail Sales ex-Fuel (YoY),HIGH,GBP,Release,0.17,Growth
-58fe34e1-3c4e-47bf-883f-006751cf28dc,10/24/2025 08:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
-56f5b510-44dc-40c6-8fb2-8d56c86c0159,10/24/2025 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
-e0ac081b-49ea-446b-80fe-98b6cf3ef7cb,10/24/2025 08:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
-7af1b376-cd26-4b7a-9f65-dd9ec0591398,10/24/2025 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 2a7dd668-e0d1-40ec-83bd-3bdd9f85cf2a,10/26/2025 02:00:00,Daylight Saving Time ends,HIGH,GBP,Release,0.2,Monetary Policy
+7af1b376-cd26-4b7a-9f65-dd9ec0591398,10/27/2025 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 1a3e8127-8b2e-4fe1-85ec-ca65f3e014fb,10/28/2025 00:01:00,BRC Shop Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
 eda021a7-9fc9-4fe0-9388-1873bb1d3dbb,10/29/2025 09:30:00,Consumer Credit,MEDIUM,GBP,Release,0.14,Confidence
 83d46bea-41ed-4580-8870-07dd55d4aae6,10/29/2025 09:30:00,M4 Money Supply (MoM),HIGH,GBP,Release,0.19,Inflation
