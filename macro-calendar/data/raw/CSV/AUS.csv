@@ -1,10 +1,6 @@
 Id,Start,Name,Impact,Currency
-eca909aa-adb7-4d59-ae2e-130c727ea338,10/23/2025 22:00:00,S&P Global Composite PMI,MEDIUM,AUD
-4d525221-fc68-4889-9a43-916dd705837c,10/23/2025 22:00:00,S&P Global Manufacturing PMI,MEDIUM,AUD
-18ecec38-04bd-45b8-bea2-0fd3e9a8dcf7,10/23/2025 22:00:00,S&P Global Services PMI,MEDIUM,AUD
-7f5c3659-4c81-4ab9-aa3b-dfa9f4b7b1bd,10/24/2025 00:05:00,RBA Governor Bullock speech,HIGH,AUD
-8596f403-9394-4dab-947e-d472ebb72418,10/24/2025 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
 7184869e-4870-4fe6-9bea-523c7a1e1750,10/27/2025 08:15:00,RBA Governor Bullock speech,HIGH,AUD
+8596f403-9394-4dab-947e-d472ebb72418,10/27/2025 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
 dbd1118c-4af5-4afa-b37b-a5b72ff6a613,10/29/2025 00:30:00,Consumer Price Index (QoQ),HIGH,AUD
 e6dc3150-5e3a-4747-a4f0-60b3751550c4,10/29/2025 00:30:00,Consumer Price Index (YoY),MEDIUM,AUD
 620c6561-1bcd-46c4-956a-2ec77e092855,10/29/2025 00:30:00,Monthly Consumer Price Index (YoY),HIGH,AUD
