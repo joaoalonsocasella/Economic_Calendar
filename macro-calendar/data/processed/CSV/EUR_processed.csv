@@ -1,10 +1,8 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-44c5c177-128f-4df9-a90d-f3ea50a13598,10/26/2025 01:00:00,Daylight Saving Time ends,HIGH,EUR,Release,0.85,Monetary Policy
 a2a9dc27-9b7f-4c6a-9811-de8a4fd7a99a,10/27/2025 09:00:00,M3 Money Supply (3m),HIGH,EUR,Release,0.85,Monetary Policy
 ccfd0396-9484-438d-b94e-7b772db09cfe,10/27/2025 09:00:00,M3 Money Supply (YoY),HIGH,EUR,Release,0.807,Inflation
 51e119ef-58bf-4d70-a3be-95dc0c927a96,10/27/2025 09:00:00,Private Loans (YoY),HIGH,EUR,Release,0.383,Money and Credit
 fa8c0a8a-27d0-4aaf-969b-6d483857783b,10/27/2025 09:15:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy
-5af91dcc-8800-463a-85d4-654551453a4a,10/27/2025 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 b7805065-7240-4f72-8948-12fc3c47ae1d,10/28/2025 09:00:00,ECB Bank Lending Survey,HIGH,EUR,Release,0.85,Monetary Policy
 bfbdc662-77c2-4299-a095-50544a54cfdf,10/30/2025 10:00:00,Business Climate,HIGH,EUR,Release,0.595,Confidence
 7288ca43-8af4-475c-bdcb-7db366ffa71b,10/30/2025 10:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence

@@ -8,9 +8,6 @@ af6d60d6-2934-40b6-941f-d2efcca52cd6,10/27/2025 15:30:00,3-Month Bill Auction,LO
 67c1a1a1-3c3a-4582-8205-3d7f969b47f7,10/27/2025 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 ef5bba6c-347c-437a-92a3-96309fd544ed,10/27/2025 17:00:00,2-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 273bac2f-4900-4c38-b198-ad11127c13b7,10/27/2025 17:00:00,5-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-51ea7ab2-6efd-413f-a3e5-77bd431b80b1,10/27/2025 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-18801837-afbe-4a71-bb48-91d693b9d611,10/27/2025 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-b788c995-d836-4413-8713-4c2c3ae39483,10/27/2025 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 dd32aacd-de35-458d-91ed-92842e3475af,10/28/2025 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 0823962f-a5ff-4178-855b-0eb813ebb731,10/28/2025 13:00:00,Housing Price Index (MoM),LOW,USD,Release,0.07,Housing
 ed6ae8b2-35f6-4987-8c68-034f18804010,10/28/2025 13:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD,Release,0.07,Housing
@@ -28,6 +25,7 @@ ddcefaa9-55cc-48cc-a3fd-f0b813780022,10/29/2025 14:30:00,EIA Crude Oil Stocks Ch
 67e7d0aa-af5f-4932-9580-026b3b39f235,10/29/2025 18:00:00,Fed Interest Rate Decision,MEDIUM,USD,Speech,0.13,Monetary Policy
 cc779624-52f0-4113-bb34-a2244c66caef,10/29/2025 18:00:00,Fed Monetary Policy Statement,MEDIUM,USD,Speech,0.13,Monetary Policy
 e50c8d51-d027-42e1-900f-3cc0a22e9de1,10/29/2025 18:30:00,FOMC Press Conference,MEDIUM,USD,Speech,0.13,Monetary Policy
+c70a03d3-f806-4894-aa25-7b8bf9181d35,10/30/2025 00:00:00,Trump - Xi meeting,MEDIUM,USD,Speech,0.13,Monetary Policy
 3324d610-a6b0-4f78-aff6-968fc428959a,10/30/2025 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 25b1ac3f-7e06-4288-967c-f67095946524,10/30/2025 12:30:00,Core Personal Consumption Expenditures (QoQ),HIGH,USD,Release,0.17,Growth
 8d060f6f-4a5c-4d26-a923-1eed9e0d66e9,10/30/2025 12:30:00,Gross Domestic Product Annualized,HIGH,USD,Release,0.17,Growth
@@ -89,8 +87,11 @@ a0081b0d-85a9-40fb-bcd7-b8807ba7c414,11/06/2025 13:30:00,Nonfarm Productivity,HI
 3dab50bd-78cb-40db-8a8d-4347543dec1e,11/06/2025 13:30:00,Unit Labor Costs,HIGH,USD,Release,0.18,Labor Market
 e3f66316-6a9c-4e88-884d-a57b315549aa,11/06/2025 15:00:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
 4b18fe26-8c0a-446a-b82c-e0a1a76f20dd,11/06/2025 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
+cdfe90c8-5e72-49e0-b0c2-4129016f84fb,11/06/2025 16:00:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
 5be4e6bc-c70c-40ab-8d9c-f6cdd0d5d593,11/06/2025 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 adc2b912-0968-455a-872e-aee52fabeceb,11/06/2025 20:30:00,Fed's Musalem speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+169dc98f-f61c-4a3d-9447-02b68839a485,11/06/2025 21:30:00,Fed's Paulson speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+71c3fcb3-7448-490f-871e-e6ce0a942ae9,11/07/2025 08:00:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
 b15081f9-6157-4323-9f0a-0b97e243296e,11/07/2025 13:30:00,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market
 4eb2df82-8dbf-4227-ac66-f2fd7c48c4d2,11/07/2025 13:30:00,Average Hourly Earnings (YoY),HIGH,USD,Release,0.18,Labor Market
 90d861ba-2baa-4f0a-8dc8-7d51d2ce27fa,11/07/2025 13:30:00,Average Weekly Hours,HIGH,USD,Release,0.18,Labor Market
@@ -114,6 +115,7 @@ b66982f2-0652-4bb6-8d58-a6ee28b18013,11/11/2025 18:00:00,3-Year Note Auction,LOW
 d1ab622c-8ccd-40e9-b3a7-b7e9f78aaf33,11/11/2025 21:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 b85bc6b0-feaa-4d47-81c1-2975836b5a6d,11/12/2025 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 0c70860f-cb38-4320-a8fe-11544377b6d0,11/12/2025 12:00:00,OPEC Monthly Market Report,MEDIUM,USD,Release,0.11,Trade and External
+c6e61594-404c-4861-9f2f-0d879c980086,11/12/2025 15:00:00,Fed's Paulson speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 ea91972a-c11b-4ba9-9658-d87ef99a49b5,11/12/2025 15:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
 1a89382a-09eb-402e-85c3-fd7b0e6c8235,11/13/2025 13:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 36e37454-f5bb-422c-b922-5bd452528ab1,11/13/2025 13:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
@@ -175,6 +177,7 @@ d00065ca-acad-4b16-90d5-cc0505d2138e,11/20/2025 13:30:00,Philadelphia Fed Manufa
 a7146b4e-0719-4629-9ede-9ba2ffe7cda2,11/20/2025 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 a167f32e-7f1e-4570-a5d2-7646ad4046f7,11/20/2025 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 c95414db-ebb4-4fa2-9935-f98d73face36,11/20/2025 18:00:00,10-year TIPS Auction,LOW,USD,Release,0.09,Money and Credit
+260231c9-e5ff-4b9e-ad20-0aef560905b3,11/20/2025 18:40:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 32ad66af-6951-4967-8a39-995b25c711a8,11/21/2025 14:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
 c214a971-7443-42fd-a090-cb54dc2796a7,11/21/2025 14:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 d7babcb7-df89-470d-aa40-4817642e1788,11/21/2025 14:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
