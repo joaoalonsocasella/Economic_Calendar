@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-6deb0678-4850-42b7-81df-c09d065beb78,10/28/2025 11:00:00,Exports,MEDIUM,ILS,Release,0.11,Trade and External
-6ee06845-3990-4d27-b122-a60eef9b1658,10/28/2025 11:00:00,Imports,MEDIUM,ILS,Release,0.11,Trade and External
-73d434ea-2058-4287-9161-aff6f1837e5a,10/28/2025 11:00:00,Trade Balance,MEDIUM,ILS,Release,0.11,Trade and External
 ca01b07a-ed2c-4c03-a076-67266c81aa2f,10/30/2025 11:00:00,Industrial Production (MoM),HIGH,ILS,Release,0.17,Growth
 ee5c1aad-c419-439e-8e06-3055fb9fd2b4,11/07/2025 11:00:00,FX Reserves,LOW,ILS,Release,0.09,Money and Credit
 b7a213d4-8567-423a-a149-92a583ccd4e2,11/10/2025 10:00:00,Budget Balance - ILS,MEDIUM,ILS,Release,0.11,Trade and External

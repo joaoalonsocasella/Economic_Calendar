@@ -3,6 +3,12 @@ ddafeee9-e549-407c-80c3-5ed9e160ef4a,10/31/2025 01:30:00,NBS Manufacturing PMI,H
 1826eb4b-57aa-49a1-b4a2-3420894fbeae,10/31/2025 01:30:00,NBS Non-Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 6ad4cd93-2eca-49ad-a650-e559caf5d00d,11/03/2025 01:45:00,RatingDog Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 223894c7-3115-4b8a-864f-8a09c047a15a,11/05/2025 01:45:00,RatingDog Services PMI,HIGH,CNY,Release,0.17,Growth
+6b82e6bb-c036-422b-933a-fe152fb9861c,11/07/2025 03:00:00,Exports (YoY),MEDIUM,CNY,Release,0.11,Trade and External
+d0650229-d185-47da-bd38-0b08105251cd,11/07/2025 03:00:00,Exports (YoY) CNY,MEDIUM,CNY,Release,0.11,Trade and External
+af335731-9933-469b-a4e2-4118539b1bbd,11/07/2025 03:00:00,Imports (YoY),MEDIUM,CNY,Release,0.11,Trade and External
+803efbb7-d282-4bb8-bb6a-5cce881e748d,11/07/2025 03:00:00,Imports (YoY) CNY,MEDIUM,CNY,Release,0.11,Trade and External
+4c590586-de1b-453a-a4cd-1c4c396d65b6,11/07/2025 03:00:00,Trade Balance CNY,MEDIUM,CNY,Release,0.11,Trade and External
+4859a7b7-4a0c-4895-ae8e-555771f63765,11/07/2025 03:00:00,Trade Balance USD,MEDIUM,CNY,Release,0.11,Trade and External
 e823bd8b-a60c-42fd-a3e8-3e4fdc1b6fe3,11/07/2025 08:00:00,Foreign Exchange Reserves (MoM),LOW,CNY,Release,0.09,Money and Credit
 2b61d3f5-f70c-4dea-bbbf-587a51b10b15,11/09/2025 01:30:00,Consumer Price Index (MoM),HIGH,CNY,Release,0.19,Inflation
 a62aef08-1428-4105-8f78-5c7ff4ba49d9,11/09/2025 01:30:00,Consumer Price Index (YoY),HIGH,CNY,Release,0.19,Inflation
@@ -10,12 +16,6 @@ a62aef08-1428-4105-8f78-5c7ff4ba49d9,11/09/2025 01:30:00,Consumer Price Index (Y
 b2ff64fc-cc76-492a-aeca-bb2c3aaa35f7,11/10/2025 09:00:00,FDI - Foreign Direct Investment (YTD) (YoY),HIGH,CNY,Release,0.17,Growth
 10e7375c-beb1-470c-9831-81e6a44689b9,11/10/2025 10:00:00,M2 Money Supply (YoY),HIGH,CNY,Release,0.19,Inflation
 6d7b8304-a981-4580-9150-3ee828f79630,11/10/2025 10:00:00,New Loans,LOW,CNY,Release,0.09,Money and Credit
-6b82e6bb-c036-422b-933a-fe152fb9861c,11/13/2025 03:00:00,Exports (YoY),MEDIUM,CNY,Release,0.11,Trade and External
-d0650229-d185-47da-bd38-0b08105251cd,11/13/2025 03:00:00,Exports (YoY) CNY,MEDIUM,CNY,Release,0.11,Trade and External
-af335731-9933-469b-a4e2-4118539b1bbd,11/13/2025 03:00:00,Imports (YoY),MEDIUM,CNY,Release,0.11,Trade and External
-803efbb7-d282-4bb8-bb6a-5cce881e748d,11/13/2025 03:00:00,Imports (YoY) CNY,MEDIUM,CNY,Release,0.11,Trade and External
-4c590586-de1b-453a-a4cd-1c4c396d65b6,11/13/2025 03:00:00,Trade Balance CNY,MEDIUM,CNY,Release,0.11,Trade and External
-4859a7b7-4a0c-4895-ae8e-555771f63765,11/13/2025 03:00:00,Trade Balance USD,MEDIUM,CNY,Release,0.11,Trade and External
 2d502fa7-e3c1-4006-9ce2-d08ac22d2266,11/17/2025 01:30:00,House Price Index ,LOW,CNY,Release,0.07,Housing
 17063fef-d211-4402-9ab6-49ac9cbc1178,11/18/2025 02:00:00,Fixed Asset Investment (YTD) (YoY),HIGH,CNY,Release,0.17,Growth
 44d62a6f-7ec6-4364-ae77-74862ea9a46a,11/18/2025 02:00:00,Industrial Production (YoY),HIGH,CNY,Release,0.17,Growth

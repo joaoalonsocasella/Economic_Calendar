@@ -2,6 +2,8 @@ Id,Start,Name,Impact,Currency
 deae1285-52a7-40ba-a573-6447cd926050,10/28/2025 09:00:00,Business Confidence,LOW,EUR
 6050c9f6-423a-4285-b5c7-4ee27149232b,10/28/2025 09:00:00,Consumer Confidence,LOW,EUR
 8559a603-48d8-45cb-a5db-10f9b925f737,10/29/2025 09:00:00,Trade Balance non-EU,LOW,EUR
+8628bec4-14e5-424b-b6bc-ed4a1b40d31b,10/29/2025 11:00:00,Producer Price Index (MoM),LOW,EUR
+089e88df-3cd3-4ab7-b002-3368aabc452b,10/29/2025 11:00:00,Producer Price Index (YoY),LOW,EUR
 eaeb753b-ee46-466c-80e4-9bbc5d461a16,10/30/2025 09:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR
 0030c19a-cfa7-4033-8503-4b7d3da2ba2a,10/30/2025 09:00:00,Gross Domestic Product (YoY),MEDIUM,EUR
 b892ff14-59a3-4a55-af0a-b27bc8dcac82,10/30/2025 10:00:00,Unemployment,LOW,EUR
@@ -17,10 +19,8 @@ dee7ab45-b9c5-4e12-b509-59bf771b2727,11/03/2025 08:45:00,HCOB Manufacturing PMI,
 2a45adc6-bfbe-458b-80ba-92606c6db2be,11/05/2025 08:45:00,HCOB Services PMI,LOW,EUR
 88fc95b8-3548-463e-b718-f1f8725cf080,11/05/2025 09:00:00,Retail Sales n.s.a (YoY),LOW,EUR
 5f035af8-c0fe-4f1a-93a7-2f283c370f3b,11/05/2025 09:00:00,Retail Sales s.a. (MoM),LOW,EUR
-d69c72c5-9fd7-4a2d-952f-3098b1ef0102,11/07/2025 09:00:00,Industrial Output s.a. (MoM),LOW,EUR
-7d76f7f0-a4b2-449b-8f7b-e9b6e0e8b317,11/07/2025 09:00:00,Industrial Output w.d.a (YoY),LOW,EUR
-8628bec4-14e5-424b-b6bc-ed4a1b40d31b,11/12/2025 09:00:00,Producer Price Index (MoM),LOW,EUR
-089e88df-3cd3-4ab7-b002-3368aabc452b,11/12/2025 09:00:00,Producer Price Index (YoY),LOW,EUR
+d69c72c5-9fd7-4a2d-952f-3098b1ef0102,11/12/2025 09:00:00,Industrial Output s.a. (MoM),LOW,EUR
+7d76f7f0-a4b2-449b-8f7b-e9b6e0e8b317,11/12/2025 09:00:00,Industrial Output w.d.a (YoY),LOW,EUR
 e43234ab-2ef2-4d22-8e5e-1c89631f035d,11/14/2025 09:00:00,Global Trade Balance,LOW,EUR
 1d3f3b91-42ed-4f8d-8d92-71f8b630ef30,11/14/2025 09:00:00,Trade Balance EU,LOW,EUR
 72aee8d8-6947-4cdb-8a7e-85f084cd85b1,11/17/2025 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR

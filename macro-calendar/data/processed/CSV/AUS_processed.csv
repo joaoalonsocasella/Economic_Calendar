@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-7184869e-4870-4fe6-9bea-523c7a1e1750,10/27/2025 08:15:00,RBA Governor Bullock speech,MEDIUM,AUD,Speech,0.13,Monetary Policy
 dbd1118c-4af5-4afa-b37b-a5b72ff6a613,10/29/2025 00:30:00,Consumer Price Index (QoQ),HIGH,AUD,Release,0.19,Inflation
 e6dc3150-5e3a-4747-a4f0-60b3751550c4,10/29/2025 00:30:00,Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
 620c6561-1bcd-46c4-956a-2ec77e092855,10/29/2025 00:30:00,Monthly Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
@@ -38,16 +37,16 @@ daecd0e6-6992-4138-b23f-e23dce8167e9,11/11/2025 00:30:00,National Australia Bank
 d2577479-ca2e-4f7d-8898-36efc470ca15,11/12/2025 00:30:00,Home Loans,LOW,AUD,Release,0.09,Money and Credit
 d72bfb35-154f-4a58-86ab-7f9d881f9968,11/12/2025 00:30:00,Investment Lending for Homes,HIGH,AUD,Release,0.17,Growth
 399782ff-4157-433e-9974-482f7eb3c64b,11/13/2025 00:00:00,Consumer Inflation Expectations,MEDIUM,AUD,Release,0.14,Confidence
+a38ff802-95b9-40d5-9801-d05ea78d169e,11/13/2025 00:30:00,Employment Change s.a.,HIGH,AUD,Release,0.18,Labor Market
+c8e8c25c-11ae-4154-9f89-43a0399d0adb,11/13/2025 00:30:00,Full-Time Employment,HIGH,AUD,Release,0.18,Labor Market
+57ff25ec-bd77-4777-a6f6-0b97fcd78435,11/13/2025 00:30:00,Participation Rate,HIGH,AUD,Release,0.18,Labor Market
+b411b697-4256-4315-9e28-92a212eb4253,11/13/2025 00:30:00,Part-Time Employment,HIGH,AUD,Release,0.18,Labor Market
+8bf04634-5906-4899-ab48-94ce465b3f62,11/13/2025 00:30:00,Unemployment Rate s.a.,HIGH,AUD,Release,0.18,Labor Market
 c1accff3-9511-4152-9db2-afb276179d40,11/14/2025 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 663ca203-09c1-4fb7-9d2f-a14ef1b8302c,11/18/2025 00:30:00,RBA Meeting Minutes,MEDIUM,AUD,Speech,0.13,Monetary Policy
 e07724bf-8cc5-4e32-88b6-f696a15f5aac,11/19/2025 00:00:00,Westpac Leading Index (MoM),MEDIUM,AUD,Release,0.14,Confidence
 8754ce1b-6f46-4dac-a574-c62cdf7b449d,11/19/2025 00:30:00,Wage Price Index (QoQ),HIGH,AUD,Release,0.18,Labor Market
 4140f644-d07c-44ac-8e64-0b14691bf6a0,11/19/2025 00:30:00,Wage Price Index (YoY),HIGH,AUD,Release,0.18,Labor Market
-a38ff802-95b9-40d5-9801-d05ea78d169e,11/20/2025 00:30:00,Employment Change s.a.,HIGH,AUD,Release,0.18,Labor Market
-c8e8c25c-11ae-4154-9f89-43a0399d0adb,11/20/2025 00:30:00,Full-Time Employment,HIGH,AUD,Release,0.18,Labor Market
-57ff25ec-bd77-4777-a6f6-0b97fcd78435,11/20/2025 00:30:00,Participation Rate,HIGH,AUD,Release,0.18,Labor Market
-b411b697-4256-4315-9e28-92a212eb4253,11/20/2025 00:30:00,Part-Time Employment,HIGH,AUD,Release,0.18,Labor Market
-8bf04634-5906-4899-ab48-94ce465b3f62,11/20/2025 00:30:00,Unemployment Rate s.a.,HIGH,AUD,Release,0.18,Labor Market
 517ff801-3e3f-4307-915e-522833534286,11/20/2025 22:00:00,S&P Global Composite PMI,HIGH,AUD,Release,0.17,Growth
 d3169ef3-dbf1-4119-8cd0-a79770bbc3bc,11/20/2025 22:00:00,S&P Global Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
 d3c552fa-545e-495c-9675-14bcf712ee2e,11/20/2025 22:00:00,S&P Global Services PMI,HIGH,AUD,Release,0.17,Growth

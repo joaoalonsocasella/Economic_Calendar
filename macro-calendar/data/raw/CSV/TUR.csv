@@ -1,7 +1,4 @@
 Id,Start,Name,Impact,Currency
-97baae83-5272-4249-97f8-28c056ce18a5,10/27/2025 07:00:00,Capacity Utilization,LOW,TRY
-fdd87eca-c050-4ef2-b4b4-9e995036f982,10/27/2025 07:00:00,Manufacturing Confidence,LOW,TRY
-58230192-a2c0-428d-a504-20c88a0bd7dc,10/27/2025 07:00:00,Unemployment Rate,LOW,TRY
 3b13cae0-5faa-44f9-a0ca-cecaadc70b9f,10/30/2025 07:00:00,Economic Confidence Index,LOW,TRY
 ed14cd8d-002d-414d-b486-ed9c7fa577ec,10/31/2025 07:00:00,Trade Balance,LOW,TRY
 b9878949-122d-471d-ab40-1870ff5502d4,10/31/2025 08:00:00,Foreign Arrivals,LOW,TRY
@@ -12,8 +9,8 @@ b9878949-122d-471d-ab40-1870ff5502d4,10/31/2025 08:00:00,Foreign Arrivals,LOW,TR
 fde27b2b-7414-49ca-8d99-682703e1d614,11/04/2025 08:00:00,Exports,LOW,TRY
 47994330-c67b-4c84-85f4-b59eea4cc986,11/06/2025 11:00:00,CBRT Quarterly Inflation Report,LOW,TRY
 b883555a-685b-4940-804a-8310541088fe,11/07/2025 14:30:00,Treasury Cash Balance,LOW,TRY
-213f40b5-2d4d-4068-bb14-20e6548de08d,11/12/2025 07:00:00,Industrial Production (YoY),LOW,TRY
-edfc5269-b03c-4b53-9739-7198811a567b,11/14/2025 07:00:00,Current Account Balance,LOW,TRY
+213f40b5-2d4d-4068-bb14-20e6548de08d,11/10/2025 07:00:00,Industrial Production (YoY),LOW,TRY
+edfc5269-b03c-4b53-9739-7198811a567b,11/12/2025 07:00:00,Current Account Balance,LOW,TRY
 fef94468-4794-48aa-b332-6ff02b6597c5,11/17/2025 08:00:00,Budget Balance,LOW,TRY
 01f8867a-9bfc-443f-8944-f069137bcb57,11/20/2025 07:00:00,Consumer Confidence,LOW,TRY
 ece52f46-4b25-42e0-9e4f-d13a707d6ed1,11/24/2025 07:00:00,Capacity Utilization,LOW,TRY

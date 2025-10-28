@@ -1,10 +1,10 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 0acb7019-c742-40d4-b374-1bfefbcc6702,11/07/2025 08:00:00,Foreign Trade Balance,HIGH,EUR,Release,0.468,Trade and External
 91715931-bc70-416a-8cfe-f90af13d9a5d,11/10/2025 08:00:00,Industrial Output (YoY),HIGH,EUR,Release,0.722,Growth
-7003afe8-3d64-49b2-81d8-c122a0aa2648,11/14/2025 08:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
-449dc982-e1fd-4aa0-a7f3-eebbe8a80b61,11/14/2025 08:00:00,Core Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
-7ec2a980-bb70-44d8-8609-f08949c95659,11/14/2025 08:00:00,Headline Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
-d2392fb0-6c71-4df9-9dc9-b2166d6a694f,11/14/2025 08:00:00,Headline Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+7003afe8-3d64-49b2-81d8-c122a0aa2648,11/13/2025 08:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+449dc982-e1fd-4aa0-a7f3-eebbe8a80b61,11/13/2025 08:00:00,Core Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+7ec2a980-bb70-44d8-8609-f08949c95659,11/13/2025 08:00:00,Headline Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+d2392fb0-6c71-4df9-9dc9-b2166d6a694f,11/13/2025 08:00:00,Headline Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
 95b10aad-cb82-4c77-be4d-eaf51a919abd,11/18/2025 08:00:00,EU Norm Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
 a5b0c8cb-753a-436d-90e4-ba8185df693a,11/18/2025 08:00:00,EU Norm Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
 9e22ae1d-9da9-4098-b966-ae9602246f5f,11/18/2025 08:00:00,Gross Domestic Product Prelim (YoY),HIGH,EUR,Release,0.722,Growth

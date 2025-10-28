@@ -1,8 +1,4 @@
 Id,Start,Name,Impact,Currency
-a2a9dc27-9b7f-4c6a-9811-de8a4fd7a99a,10/27/2025 09:00:00,M3 Money Supply (3m),LOW,EUR
-ccfd0396-9484-438d-b94e-7b772db09cfe,10/27/2025 09:00:00,M3 Money Supply (YoY),LOW,EUR
-51e119ef-58bf-4d70-a3be-95dc0c927a96,10/27/2025 09:00:00,Private Loans (YoY),LOW,EUR
-fa8c0a8a-27d0-4aaf-969b-6d483857783b,10/27/2025 09:15:00,ECB's Elderson speech,MEDIUM,EUR
 b7805065-7240-4f72-8948-12fc3c47ae1d,10/28/2025 09:00:00,ECB Bank Lending Survey,HIGH,EUR
 bfbdc662-77c2-4299-a095-50544a54cfdf,10/30/2025 10:00:00,Business Climate,MEDIUM,EUR
 7288ca43-8af4-475c-bdcb-7db366ffa71b,10/30/2025 10:00:00,Consumer Confidence,MEDIUM,EUR
@@ -35,8 +31,6 @@ e3efa2de-f460-4831-b95e-735dfb49509d,11/07/2025 20:30:00,CFTC EUR NC Net Positio
 e3ddb0eb-de92-4feb-be97-994b419762df,11/10/2025 09:30:00,Sentix Investor Confidence,MEDIUM,EUR
 587621d6-923d-4346-b068-429c1ceedb57,11/11/2025 10:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
 880e3e6b-01f7-4386-9a26-01abb6269333,11/13/2025 09:00:00,Economic Bulletin,MEDIUM,EUR
-6efd3cbd-802e-41bf-82fa-ff75d5f2be57,11/13/2025 10:00:00,Construction Output  s.a (MoM),LOW,EUR
-fa2c13ca-4ca5-48cc-87f9-5e4e8a352892,11/13/2025 10:00:00,Construction Output w.d.a (YoY),LOW,EUR
 37b7469d-b5b3-4ca8-9bae-478a1e00e43c,11/13/2025 10:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
 292593b2-0323-40c2-a6d5-b9be96525362,11/13/2025 10:00:00,Industrial Production w.d.a. (YoY),LOW,EUR
 f84f0123-db83-48c8-9819-01dbdf353838,11/14/2025 10:00:00,Employment Change (QoQ),MEDIUM,EUR
@@ -53,6 +47,8 @@ e5744670-cf67-4f6f-aad6-5f624b8b3884,11/14/2025 10:00:00,Trade Balance n.s.a.,LO
 ea0a8139-b30b-448e-bcb0-382dfdf689d8,11/19/2025 10:00:00,Core Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
 41982c45-34d6-407e-8ccd-02c41bb123d8,11/19/2025 10:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 7a8a9b92-2279-4b7c-aae1-f103da411069,11/19/2025 10:00:00,Harmonized Index of Consumer Prices (YoY),LOW,EUR
+6efd3cbd-802e-41bf-82fa-ff75d5f2be57,11/20/2025 10:00:00,Construction Output  s.a (MoM),LOW,EUR
+fa2c13ca-4ca5-48cc-87f9-5e4e8a352892,11/20/2025 10:00:00,Construction Output w.d.a (YoY),LOW,EUR
 1d2399d7-bff7-4984-bf9e-9f535cdcc78f,11/20/2025 15:00:00,Consumer Confidence,MEDIUM,EUR
 a6d200b4-80fc-4f72-a8b4-28878f80b6a2,11/21/2025 09:00:00,HCOB Composite PMI,HIGH,EUR
 ca6c24b1-1e68-4e14-8965-2eb876b2128f,11/21/2025 09:00:00,HCOB Manufacturing PMI,HIGH,EUR
