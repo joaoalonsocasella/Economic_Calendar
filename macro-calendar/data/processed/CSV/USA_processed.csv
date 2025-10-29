@@ -1,12 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-dd32aacd-de35-458d-91ed-92842e3475af,10/28/2025 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
-0823962f-a5ff-4178-855b-0eb813ebb731,10/28/2025 13:00:00,Housing Price Index (MoM),LOW,USD,Release,0.07,Housing
-ed6ae8b2-35f6-4987-8c68-034f18804010,10/28/2025 13:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD,Release,0.07,Housing
-640acc87-06e2-4af1-8f24-01a40db106c0,10/28/2025 14:00:00,Consumer Confidence,MEDIUM,USD,Release,0.14,Confidence
-a51a548b-6e8d-4188-9188-65544a71a960,10/28/2025 14:00:00,Richmond Fed Manufacturing Index,HIGH,USD,Release,0.17,Growth
-5cd6888b-9ce1-4e98-9eb4-a5ed668a75e8,10/28/2025 15:30:00,52-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
-223095cb-95fe-4c42-8e62-909808730e5e,10/28/2025 17:00:00,7-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-056564c2-7d79-4753-9ebd-3f440e6e392b,10/28/2025 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 0c6b34ac-2dfe-4f9e-8e92-b522c1d04283,10/29/2025 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 0479e993-22a8-485f-b5bf-31e88193f3ce,10/29/2025 12:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 5dabf8a3-d916-45da-8fbf-de35d80b3e9b,10/29/2025 12:30:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
