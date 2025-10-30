@@ -1,6 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 c97d4876-bf82-4417-a67b-9bc8292d9a07,10/30/2025 06:30:00,Consumer Spending (MoM),HIGH,EUR,Release,0.722,Growth
-656452f4-2f21-457f-a29e-84ab39e08c3c,10/30/2025 07:45:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+656452f4-2f21-457f-a29e-84ab39e08c3c,10/30/2025 06:30:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 879d77f8-177b-4a74-8460-9ece7918acac,10/31/2025 07:45:00,Consumer Price Index (EU norm) (MoM),HIGH,EUR,Release,0.807,Inflation
 c109a9d0-2d54-4b06-a648-e1f25f1469cb,10/31/2025 07:45:00,Consumer Price Index (EU norm) (YoY),HIGH,EUR,Release,0.807,Inflation
 45d6afbf-1da2-4640-b642-3e548ff40cf2,10/31/2025 07:45:00,Producer Prices (MoM),HIGH,EUR,Release,0.807,Inflation

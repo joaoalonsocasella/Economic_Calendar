@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-8559a603-48d8-45cb-a5db-10f9b925f737,10/29/2025 09:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
-8628bec4-14e5-424b-b6bc-ed4a1b40d31b,10/29/2025 11:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-089e88df-3cd3-4ab7-b002-3368aabc452b,10/29/2025 11:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 eaeb753b-ee46-466c-80e4-9bbc5d461a16,10/30/2025 09:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 0030c19a-cfa7-4033-8503-4b7d3da2ba2a,10/30/2025 09:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
 b892ff14-59a3-4a55-af0a-b27bc8dcac82,10/30/2025 10:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market

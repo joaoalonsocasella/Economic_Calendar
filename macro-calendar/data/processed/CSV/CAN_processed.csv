@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0f9f60ba-3fed-4e21-a49b-dc80e1b6fe65,10/29/2025 13:45:00,BoC Interest Rate Decision,MEDIUM,CAD,Speech,0.13,Monetary Policy
-770da357-6d6e-48d1-be91-2d20f48628ac,10/29/2025 13:45:00,BoC Monetary Policy Report,HIGH,CAD,Release,0.2,Monetary Policy
-4bbc3cdc-073c-4dbf-ab15-f7562ce5e31a,10/29/2025 13:45:00,BoC Monetary Policy Statement,MEDIUM,CAD,Speech,0.13,Monetary Policy
-9f79914e-5b0d-4bae-9b97-5a56b84c8636,10/29/2025 14:30:00,BoC Press Conference,MEDIUM,CAD,Speech,0.13,Monetary Policy
 00569cca-9fa9-47a6-9fdd-cc4ef41e7b82,10/31/2025 12:30:00,Gross Domestic Product (MoM),LOW,CAD,Release,0.07,Housing
 8dae372a-0c7b-453d-993e-316b1164e4ef,11/02/2025 07:00:00,Daylight Saving Time ends,HIGH,CAD,Release,0.2,Monetary Policy
 a5bcaa9b-fcb4-4581-9dfa-ffbeec14efc3,11/03/2025 14:30:00,S&P Global Manufacturing PMI,HIGH,CAD,Release,0.17,Growth
@@ -410,3 +406,34 @@ bfcdec51-c026-48af-9b69-f5b5ba482bab,10/28/2026 13:45:00,BoC Interest Rate Decis
 ca541175-42f2-4ff7-afa4-34063bf55c41,10/28/2026 13:45:00,BoC Monetary Policy Statement,MEDIUM,CAD,Speech,0.13,Monetary Policy
 73ace6bf-2fd3-4e6f-9fcf-b178e888cd8c,10/28/2026 14:30:00,BoC Press Conference,MEDIUM,CAD,Speech,0.13,Monetary Policy
 1b5432e7-7e89-496e-a359-c94e72e5bdba,10/30/2026 12:30:00,Gross Domestic Product (MoM),LOW,CAD,Release,0.07,Housing
+4252c666-55b8-4d2d-bf5d-0760a91a1812,11/01/2026 07:00:00,Daylight Saving Time ends,HIGH,CAD,Release,0.2,Monetary Policy
+f1f907e1-0253-4525-b536-e577d3aee3df,11/02/2026 14:30:00,S&P Global Manufacturing PMI,HIGH,CAD,Release,0.17,Growth
+ef8bd21d-788c-4ffa-92d3-23033cb1af0c,11/05/2026 12:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
+990358e7-a27a-4f45-8106-06c3bf165173,11/05/2026 12:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
+36acbaa9-6f06-497f-ad50-1853e6e2fdd7,11/05/2026 12:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
+ec94e324-5fe0-48b8-aa33-7c4754124a8f,11/05/2026 14:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD,Release,0.14,Confidence
+3429732b-052e-4a61-a8be-cc5ff900b594,11/05/2026 14:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD,Release,0.14,Confidence
+dd2b30ed-6d68-4c1e-87f4-5591f0e5df62,11/12/2026 13:30:00,Building Permits (MoM),LOW,CAD,Release,0.07,Housing
+7bcb9ebf-fdaf-4c53-9d2a-67d084e0935e,11/13/2026 13:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
+17b6f48f-9218-4b53-99c3-7c939b521a65,11/13/2026 13:30:00,Manufacturing Sales (MoM),HIGH,CAD,Release,0.17,Growth
+885a5f56-bfde-4b2f-86eb-39b6e85ff6b8,11/13/2026 13:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
+ae83b3e8-6c4f-4389-bca3-8d6a9e6575fa,11/13/2026 13:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
+6e63b29a-c967-44a7-aedc-af675fec97e3,11/13/2026 13:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
+ce7f0564-b42e-4323-bc4a-a8711ae8ff67,11/13/2026 13:30:00,Wholesale Sales (MoM),HIGH,CAD,Release,0.17,Growth
+2e41c8f9-8beb-4aa7-94e5-fa802bab7dd9,11/16/2026 13:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
+85441e2b-dc68-4afd-b584-071ae80850f3,11/16/2026 13:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
+47f86027-6f95-4df4-a37b-e0021a0e0bc0,11/16/2026 13:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
+c09515ce-0696-438b-af8f-268403527d8e,11/16/2026 13:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
+c85052b0-d875-47c5-8612-1a1689342c55,11/16/2026 13:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
+a8215254-5e1b-45fe-9bb0-c1a04693f6a5,11/17/2026 13:30:00,Canadian Portfolio Investment in Foreign Securities,MEDIUM,CAD,Release,0.11,Trade and External
+0b97f565-329f-435e-9b02-0a62ab5eec0f,11/17/2026 13:30:00,Foreign Portfolio Investment in Canadian Securities,MEDIUM,CAD,Release,0.11,Trade and External
+d488ab50-a011-48e9-9512-6a1cc44d9a45,11/18/2026 13:15:00,Housing Starts s.a (YoY),LOW,CAD,Release,0.07,Housing
+2e12cfde-9b45-43e9-bd7d-d9dc874ad4f9,11/19/2026 13:30:00,Employment Insurance Beneficiaries Change (MoM),HIGH,CAD,Release,0.18,Labor Market
+8fda56a0-ac65-4b2f-85b2-92f20a9d5f85,11/20/2026 13:30:00,Industrial Product Price (MoM),HIGH,CAD,Release,0.19,Inflation
+fe23e633-8600-4bd1-815f-9dac5d26653f,11/20/2026 13:30:00,New Housing Price Index (MoM),LOW,CAD,Release,0.07,Housing
+c1e43bb1-6254-4a83-9c68-541ab52f6a22,11/20/2026 13:30:00,New Housing Price Index (YoY),LOW,CAD,Release,0.07,Housing
+cfe40d19-0ec6-4f01-a5d3-4c2a72b25e2a,11/20/2026 13:30:00,Raw Material Price Index,MEDIUM,CAD,Release,0.11,Trade and External
+7778882c-f48b-4ec0-8a6f-d701a8afd900,11/20/2026 13:30:00,Retail Sales (MoM),HIGH,CAD,Release,0.17,Growth
+c315eeed-17a2-47f5-8414-f61eba791243,11/20/2026 13:30:00,Retail Sales ex Autos (MoM),HIGH,CAD,Release,0.17,Growth
+63ba2498-3b32-47e0-aa21-0685ecdfc11d,11/27/2026 13:30:00,Gross Domestic Product (MoM),LOW,CAD,Release,0.07,Housing
+f7134e1b-6404-4b01-a07a-d5ac8aac5afe,11/30/2026 13:30:00,Current Account,MEDIUM,CAD,Release,0.11,Trade and External

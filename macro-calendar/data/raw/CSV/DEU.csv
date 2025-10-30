@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-7535f4c6-4fba-4eab-9ba3-9aacecab8409,10/29/2025 10:30:00,10-y Bond Auction,LOW,EUR
 92b4ec70-3d97-4db4-ad94-26ba431af28c,10/30/2025 08:55:00,Unemployment Change,MEDIUM,EUR
 b345cb41-c169-4108-87b8-575cdfcc1570,10/30/2025 08:55:00,Unemployment Rate s.a.,MEDIUM,EUR
 f5b2a117-610e-4b87-b188-6169364dc82d,10/30/2025 09:00:00,Baden-Wuerttemberg CPI (MoM),LOW,EUR
@@ -550,3 +549,34 @@ b353b532-1cd5-49d2-869f-7f4140aa4f65,10/30/2026 09:00:00,North Rhine-Westphalia 
 150cb4fa-65ec-4f45-8019-e9c21a4b71bb,10/30/2026 13:00:00,Consumer Price Index (YoY),HIGH,EUR
 13e6ba29-19a1-4077-abc0-1b19200dc7bd,10/30/2026 13:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 ae8c625c-d971-4dda-a2c1-81c4a9c42c33,10/30/2026 13:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+724946eb-fadb-4f3b-bc54-5c8f5b0fa105,11/06/2026 07:00:00,Exports (MoM),LOW,EUR
+0c47eef9-c2b3-4bba-800f-1f12c8c804ab,11/06/2026 07:00:00,Imports (MoM),LOW,EUR
+b58b2784-86fc-43d2-8f24-c7ee4b6b72ab,11/06/2026 07:00:00,Trade Balance s.a.,MEDIUM,EUR
+2f84207a-324d-4c50-81bc-c0cedce57096,11/13/2026 07:00:00,Consumer Price Index (MoM),LOW,EUR
+29a414de-2eec-4e0c-9d27-e982256a7287,11/13/2026 07:00:00,Consumer Price Index (YoY),LOW,EUR
+d158d01f-14bf-40b1-8e6e-b107d35a0930,11/13/2026 07:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
+82f81c83-7d8e-4df8-a0e4-fa3c754ec326,11/13/2026 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+e06130a7-3357-4220-9f33-d6864e4fd4c9,11/17/2026 10:00:00,ZEW Survey – Current Situation,MEDIUM,EUR
+a403f424-740d-4aab-abd2-5fc35d8f21b6,11/17/2026 10:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
+3033ecec-c2de-46c8-8c72-88871aabc101,11/27/2026 07:00:00,Import Price Index (MoM),LOW,EUR
+cc25182e-9821-4ed8-b2e3-e220875b0d79,11/27/2026 07:00:00,Import Price Index (YoY),LOW,EUR
+398272df-ff99-4199-9881-410812af33f7,11/27/2026 08:55:00,Unemployment Change,MEDIUM,EUR
+ba51343f-b6de-4ae5-b99c-7e03a7cc0aa2,11/27/2026 08:55:00,Unemployment Rate s.a.,MEDIUM,EUR
+10b668f4-0aed-4abc-81bd-8d73aa7719db,11/30/2026 07:00:00,Retail Sales (MoM),MEDIUM,EUR
+8b56deba-be73-4a31-b27b-80578a8e8ad7,11/30/2026 07:00:00,Retail Sales (YoY),HIGH,EUR
+56c8eba1-ca84-473b-8061-b685e0ab3809,11/30/2026 09:00:00,Baden-Wuerttemberg CPI (MoM),LOW,EUR
+c0a71dac-e369-4972-b701-f719f1a003b7,11/30/2026 09:00:00,Baden-Wuerttemberg CPI (YoY),LOW,EUR
+9f67838d-66fc-49cb-9d77-9ff78d3d1ebd,11/30/2026 09:00:00,Bavaria CPI (MoM),LOW,EUR
+a8ffded1-0d68-42db-8726-92bf1924d256,11/30/2026 09:00:00,Bavaria CPI (YoY),LOW,EUR
+fa5c85f2-522d-4648-a512-2a409d5035c3,11/30/2026 09:00:00,Brandenburg CPI (MoM),LOW,EUR
+1a09059e-a112-44e2-bf8b-64b736fcd833,11/30/2026 09:00:00,Brandenburg CPI (YoY),LOW,EUR
+c3fc7761-15ed-4754-9d26-288ef15142cc,11/30/2026 09:00:00,Hesse CPI (MoM),LOW,EUR
+72184f9a-7982-4686-8cc4-1433d1f053fa,11/30/2026 09:00:00,Hesse CPI (YoY),LOW,EUR
+415d5d29-6248-46f6-9daf-fffc2a26a07a,11/30/2026 09:00:00,North Rhine-Westphalia CPI (MoM),LOW,EUR
+6f2991f1-df42-403d-ba39-201495033a2c,11/30/2026 09:00:00,North Rhine-Westphalia CPI (YoY),LOW,EUR
+1bc8cc5c-9f29-4cd8-91b7-037044f3c53c,11/30/2026 09:00:00,Saxony CPI (MoM),LOW,EUR
+f106ed34-0155-44c7-b4be-f083027c2723,11/30/2026 09:00:00,Saxony CPI (YoY),LOW,EUR
+9432f73f-46b0-4e30-aaac-95ba108fea8a,11/30/2026 13:00:00,Consumer Price Index (MoM),HIGH,EUR
+20297ef8-2ae3-4b02-be51-525d787ef369,11/30/2026 13:00:00,Consumer Price Index (YoY),HIGH,EUR
+cf02c40b-3877-408e-a196-5c3476773e11,11/30/2026 13:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
+06bdc96f-b26f-4a80-82dc-0ba06567ade1,11/30/2026 13:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
