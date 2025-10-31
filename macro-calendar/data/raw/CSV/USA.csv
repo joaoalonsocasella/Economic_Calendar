@@ -1,18 +1,4 @@
 Id,Start,Name,Impact,Currency
-c70a03d3-f806-4894-aa25-7b8bf9181d35,10/30/2025 02:00:00,Trump - Xi meeting,HIGH,USD
-3324d610-a6b0-4f78-aff6-968fc428959a,10/30/2025 12:30:00,Continuing Jobless Claims,LOW,USD
-25b1ac3f-7e06-4288-967c-f67095946524,10/30/2025 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
-0479e993-22a8-485f-b5bf-31e88193f3ce,10/30/2025 12:30:00,Goods Trade Balance,LOW,USD
-8d060f6f-4a5c-4d26-a923-1eed9e0d66e9,10/30/2025 12:30:00,Gross Domestic Product Annualized,HIGH,USD
-518d182e-687c-4e8c-8f64-a73c31f7189a,10/30/2025 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD
-8a06881f-0134-42eb-a3b4-b2c8a22a6981,10/30/2025 12:30:00,Initial Jobless Claims,MEDIUM,USD
-5574d987-630f-4625-b688-21ce4978f1af,10/30/2025 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
-a95fdb7f-04d8-4558-8181-d5cceb5d1e50,10/30/2025 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
-5dabf8a3-d916-45da-8fbf-de35d80b3e9b,10/30/2025 12:30:00,Wholesale Inventories,LOW,USD
-de60221f-2fe7-480d-9e2f-5c965135f8a3,10/30/2025 13:55:00,Fed's Bowman speech,MEDIUM,USD
-f22661aa-81be-4252-9ad4-152c60e6a8f2,10/30/2025 14:30:00,EIA Natural Gas Storage Change,LOW,USD
-4bc7652e-3a54-4aa4-b49a-b82313501bdd,10/30/2025 15:30:00,4-Week Bill Auction,LOW,USD
-656bc29f-b84d-4138-9988-57ec8f4a4231,10/30/2025 17:20:00,Fed's Logan speech,MEDIUM,USD
 add56d23-3059-4c44-9299-474571d690fa,10/31/2025 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
 9160dda7-6f97-49b4-9b33-4e4c457bb950,10/31/2025 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
 7fc0b7f1-d34d-4c3d-9787-dc8a88c130a0,10/31/2025 12:30:00,Employment Cost Index,MEDIUM,USD
@@ -65,6 +51,7 @@ e3f66316-6a9c-4e88-884d-a57b315549aa,11/06/2025 15:00:00,Wholesale Inventories,L
 4b18fe26-8c0a-446a-b82c-e0a1a76f20dd,11/06/2025 15:30:00,EIA Natural Gas Storage Change,LOW,USD
 cdfe90c8-5e72-49e0-b0c2-4129016f84fb,11/06/2025 16:00:00,Fed's Williams speech,MEDIUM,USD
 5be4e6bc-c70c-40ab-8d9c-f6cdd0d5d593,11/06/2025 16:30:00,4-Week Bill Auction,LOW,USD
+a3e77855-0fb7-40e2-bea0-eb60f8f26249,11/06/2025 17:00:00,Fed's Hammack speech,MEDIUM,USD
 adc2b912-0968-455a-872e-aee52fabeceb,11/06/2025 20:30:00,Fed's Musalem speech,MEDIUM,USD
 169dc98f-f61c-4a3d-9447-02b68839a485,11/06/2025 21:30:00,Fed's Paulson speech,MEDIUM,USD
 71c3fcb3-7448-490f-871e-e6ce0a942ae9,11/07/2025 08:00:00,Fed's Williams speech,MEDIUM,USD
@@ -85,6 +72,7 @@ a276a5f1-d8c7-4caa-ba2f-eaaef1b12b16,11/10/2025 16:30:00,3-Month Bill Auction,LO
 58d0f54f-363a-4dbb-9273-30a5a2dbdf14,11/10/2025 17:00:00,USDA WASDE Report,LOW,USD
 b66982f2-0652-4bb6-8d58-a6ee28b18013,11/10/2025 18:00:00,3-Year Note Auction,LOW,USD
 869e948d-0210-4aee-80c3-c3e281614ed3,11/11/2025 11:00:00,NFIB Business Optimism Index,LOW,USD
+e1d7a862-7d2e-4a4e-bebd-816d831cae18,11/11/2025 13:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 d890d275-cd9d-443f-a2ff-6d0fff3d2114,11/11/2025 13:55:00,Redbook Index (YoY),LOW,USD
 b85bc6b0-feaa-4d47-81c1-2975836b5a6d,11/12/2025 12:00:00,MBA Mortgage Applications,LOW,USD
 0c70860f-cb38-4320-a8fe-11544377b6d0,11/12/2025 12:00:00,OPEC Monthly Market Report,LOW,USD
@@ -130,6 +118,7 @@ d6b32fad-c9d6-448a-b1b5-10ea4f1d0546,11/14/2025 20:30:00,CFTC Oil NC Net Positio
 762daa1c-85ba-4966-bcf3-3d33531cc72e,11/17/2025 15:00:00,NAHB Housing Market Index,LOW,USD
 6ee6cb07-e453-4874-8b44-bb83b9825c0f,11/17/2025 16:30:00,3-Month Bill Auction,LOW,USD
 c2cb78e5-ae12-441c-996c-751986e35b4d,11/17/2025 16:30:00,6-Month Bill Auction,LOW,USD
+3b8f0b02-408c-4f16-99e6-6d7f985d4878,11/18/2025 13:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 31f30d5f-dbe8-4476-9636-81a3bd18803f,11/18/2025 13:55:00,Redbook Index (YoY),LOW,USD
 4dec107d-c4a4-43ba-a890-5c038e6dab80,11/18/2025 14:15:00,Capacity Utilization,LOW,USD
 1516150f-31f5-4be9-ae8a-df3e3c305b2f,11/18/2025 14:15:00,Industrial Production (MoM),MEDIUM,USD
@@ -166,6 +155,7 @@ af1fb771-af56-4b1f-80c5-3e1b73835c0f,11/24/2025 15:30:00,Dallas Fed Manufacturin
 fcc3128c-960d-4811-8ba7-1280c810fd6c,11/24/2025 16:30:00,3-Month Bill Auction,LOW,USD
 5d748162-7413-44e9-bd7b-ff9a78b9ce88,11/24/2025 16:30:00,6-Month Bill Auction,LOW,USD
 fd77fa0d-4fab-4836-8099-4bcb6d930d1a,11/24/2025 18:00:00,2-Year Note Auction,LOW,USD
+ce0025e8-d478-484a-aeac-0825f43f2906,11/25/2025 13:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 c71e7a9c-f478-4e04-8aea-a45ae7e7a158,11/25/2025 13:55:00,Redbook Index (YoY),LOW,USD
 8a08f9b6-1ece-45d8-9fff-a511cab0651b,11/25/2025 14:00:00,Housing Price Index (MoM),MEDIUM,USD
 5be92588-1ff7-4f32-b024-b8c4e8b4354c,11/25/2025 14:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD
@@ -263,6 +253,7 @@ ee416a93-80c8-4e03-be45-461094b47dd8,12/08/2025 16:30:00,3-Month Bill Auction,LO
 9b01e5f4-6b16-4e4e-979b-28b61c2ed694,12/08/2025 16:30:00,6-Month Bill Auction,LOW,USD
 f50d5da1-1b80-4f9d-a78a-4412947cfe26,12/08/2025 20:00:00,Consumer Credit Change,LOW,USD
 d15d76db-67a6-46e3-86cf-7adf600a0316,12/09/2025 11:00:00,NFIB Business Optimism Index,LOW,USD
+3d18c393-c17d-49ec-96fa-126a077c5a47,12/09/2025 13:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 fe8fb799-825d-4d85-8af5-6b341b801b4e,12/09/2025 13:30:00,Nonfarm Productivity,MEDIUM,USD
 b2a137aa-292b-451f-9664-05b685769476,12/09/2025 13:30:00,Unit Labor Costs,MEDIUM,USD
 218a950f-74d7-47e0-b57d-3ddefcb279d8,12/09/2025 13:55:00,Redbook Index (YoY),LOW,USD
@@ -307,6 +298,7 @@ b818bfff-fbaa-4f41-bd52-fd78cff600ba,12/12/2025 20:30:00,CFTC Gold NC Net Positi
 6d107a6d-5ac0-4508-8895-48257b9c943d,12/15/2025 13:30:00,NY Empire State Manufacturing Index,MEDIUM,USD
 0786b799-55bf-423d-b7cb-867db7f85f2e,12/15/2025 16:30:00,3-Month Bill Auction,LOW,USD
 474b225d-7281-413b-a15f-a6e4bd97a3f7,12/15/2025 16:30:00,6-Month Bill Auction,LOW,USD
+d6668271-9384-499d-96ce-39c8a77966ea,12/16/2025 13:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 acdd95a2-cad5-4eb4-a1be-415188a82a70,12/16/2025 13:30:00,Building Permits (MoM),MEDIUM,USD
 3fb06ed4-8bea-42e4-add5-e6af92cc7a29,12/16/2025 13:30:00,Building Permits Change,LOW,USD
 d7029972-a68f-41ef-b6cf-61deb9a2c75d,12/16/2025 13:30:00,Housing Starts (MoM),MEDIUM,USD
@@ -364,6 +356,7 @@ b08dcb78-1b19-439c-872c-e8d8a657a4a4,12/19/2025 20:30:00,CFTC Oil NC Net Positio
 ac12dbd4-dca4-459d-affc-0d9a37b52de3,12/22/2025 16:30:00,3-Month Bill Auction,LOW,USD
 5f4e9c3e-7a93-4d69-bea0-806f82dfef7b,12/22/2025 16:30:00,6-Month Bill Auction,LOW,USD
 bf6f5ac6-4000-4b0f-84eb-f66c247646ce,12/22/2025 18:00:00,2-Year Note Auction,LOW,USD
+770b33f6-29bf-42f6-a36d-053aa737e41a,12/23/2025 13:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 e237df35-c0a0-4093-b0e1-7b0b07ecb37d,12/23/2025 13:30:00,Current Account,LOW,USD
 484f8282-e7fc-4fef-8435-a2c6118286a6,12/23/2025 13:55:00,Redbook Index (YoY),LOW,USD
 2be3bd03-7539-4cbd-93c1-76654ba5d2aa,12/23/2025 15:00:00,Consumer Confidence,MEDIUM,USD

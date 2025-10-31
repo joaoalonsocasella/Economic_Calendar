@@ -1,16 +1,5 @@
 Id,Start,Name,Impact,Currency
-bfbdc662-77c2-4299-a095-50544a54cfdf,10/30/2025 10:00:00,Business Climate,MEDIUM,EUR
-7288ca43-8af4-475c-bdcb-7db366ffa71b,10/30/2025 10:00:00,Consumer Confidence,MEDIUM,EUR
-ea96fdc0-c5bb-4492-8057-baae3700c37a,10/30/2025 10:00:00,Economic Sentiment Indicator,MEDIUM,EUR
-15d7961f-09a9-4b46-95a6-af05e8085982,10/30/2025 10:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR
-d38b408e-8a60-4da3-b262-7e5409efa4dd,10/30/2025 10:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR
-cf11a458-e8c0-4de3-8628-ccad9b6a7cfb,10/30/2025 10:00:00,Industrial Confidence,LOW,EUR
-f2aea182-e422-4ce8-b578-f7a92aecb37f,10/30/2025 10:00:00,Services Sentiment,LOW,EUR
-e23ac77e-aa47-405b-89c0-5fb5b2450188,10/30/2025 10:00:00,Unemployment Rate,MEDIUM,EUR
-c3d93aa9-a53c-4d3e-adbe-53ea23bae438,10/30/2025 13:15:00,ECB Main Refinancing Operations Rate,HIGH,EUR
-0dafb99f-6a3d-44a5-91ac-e30e257ef1ee,10/30/2025 13:15:00,ECB Monetary Policy Statement,HIGH,EUR
-168591a6-5e1f-48a3-876f-efce509e9c8f,10/30/2025 13:15:00,ECB Rate On Deposit Facility,HIGH,EUR
-c04b26a9-1ec1-4a0b-bb4d-064e314d9309,10/30/2025 13:45:00,ECB Press Conference,HIGH,EUR
+6e5930ec-8333-44dd-897a-6e9db74dc35a,10/31/2025 06:30:00,ECB's Kocher speech,MEDIUM,EUR
 2d8443fa-9069-4727-98ad-0e6cd9d1e454,10/31/2025 10:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR
 f3cb7f4c-774b-46b7-9d1c-555399993131,10/31/2025 10:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR
 5122d69d-e2e0-44f1-bf05-d7c59abe4572,10/31/2025 10:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR
@@ -23,6 +12,7 @@ b7782f00-84a2-4304-8438-f68f389459c7,11/05/2025 10:00:00,Producer Price Index (M
 369ef432-872b-4ade-859d-e586bf6a8774,11/05/2025 10:00:00,Producer Price Index (YoY),MEDIUM,EUR
 5a176048-2da9-4116-99d6-99a53db0e1d3,11/06/2025 10:00:00,Retail Sales (MoM),MEDIUM,EUR
 d916f565-f368-4571-b89e-eeb09b165119,11/06/2025 10:00:00,Retail Sales (YoY),HIGH,EUR
+bcc38439-17ad-4ecf-b4e9-8e4e2b79b37c,11/07/2025 09:30:00,ECB's Sleijpen speech,MEDIUM,EUR
 e3efa2de-f460-4831-b95e-735dfb49509d,11/07/2025 20:30:00,CFTC EUR NC Net Positions,LOW,EUR
 e3ddb0eb-de92-4feb-be97-994b419762df,11/10/2025 09:30:00,Sentix Investor Confidence,MEDIUM,EUR
 587621d6-923d-4346-b068-429c1ceedb57,11/11/2025 10:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
