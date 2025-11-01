@@ -1,18 +1,25 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-6e5930ec-8333-44dd-897a-6e9db74dc35a,10/31/2025 06:30:00,ECB's Kocher speech,HIGH,EUR,Speech,0.552,Monetary Policy
-2d8443fa-9069-4727-98ad-0e6cd9d1e454,10/31/2025 10:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
-f3cb7f4c-774b-46b7-9d1c-555399993131,10/31/2025 10:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.807,Inflation
-5122d69d-e2e0-44f1-bf05-d7c59abe4572,10/31/2025 10:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
-dd4b13f9-09f6-4f87-9928-f1af1f542a8f,10/31/2025 10:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
-6427038d-504d-4a08-872f-257bc796fc6d,10/31/2025 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 255734e7-e9c5-4ad6-a25c-6e2915aebf6d,11/03/2025 09:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+fbb636d7-ece2-40bc-b97a-b3e6ef895546,11/03/2025 12:00:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
+6427038d-504d-4a08-872f-257bc796fc6d,11/03/2025 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
+9de733bc-49ca-4481-8d55-3a28428229fa,11/04/2025 07:40:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
+7a2787b4-fc89-4090-b580-5ca9bd3cbedc,11/04/2025 09:45:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
+e2af3479-fa72-481d-80c4-e8fead6e69ac,11/04/2025 17:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 1699fa82-2c63-4704-bdd4-de3afa8bcc8b,11/05/2025 09:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 e44a87d3-dfd5-4d3a-99b4-10557b54a2b1,11/05/2025 09:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+190ad116-986d-4b0e-936d-661f7cd8426b,11/05/2025 10:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 b7782f00-84a2-4304-8438-f68f389459c7,11/05/2025 10:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 369ef432-872b-4ade-859d-e586bf6a8774,11/05/2025 10:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+258b3e90-950b-41f0-bac4-af5d5c57f2d3,11/06/2025 08:10:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
+d7ec880b-6fdc-4d34-99f4-6bb687292742,11/06/2025 08:30:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
 5a176048-2da9-4116-99d6-99a53db0e1d3,11/06/2025 10:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
 d916f565-f368-4571-b89e-eeb09b165119,11/06/2025 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+4ccc5283-1196-4cb5-b2d6-0d42d981ad15,11/06/2025 12:30:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
+b895fbd8-2ecd-4acb-8ab8-ae98da56445b,11/06/2025 14:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
+61d4859b-d00e-419f-9357-487049274909,11/06/2025 18:30:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
 bcc38439-17ad-4ecf-b4e9-8e4e2b79b37c,11/07/2025 09:30:00,ECB's Sleijpen speech,HIGH,EUR,Speech,0.552,Monetary Policy
+15ec4402-c08e-4442-a8c2-7085d3556384,11/07/2025 12:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
+a72870ea-cada-4456-b132-23873e2a4bb4,11/07/2025 13:30:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy
 e3efa2de-f460-4831-b95e-735dfb49509d,11/07/2025 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 e3ddb0eb-de92-4feb-be97-994b419762df,11/10/2025 09:30:00,Sentix Investor Confidence,HIGH,EUR,Release,0.595,Confidence
 587621d6-923d-4346-b068-429c1ceedb57,11/11/2025 10:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence

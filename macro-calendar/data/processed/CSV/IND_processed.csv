@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-b7b5ebad-8c61-4abb-b69d-0d7a0b9bec25,10/31/2025 11:30:00,Bank Loan Growth,LOW,INR,Release,0.09,Money and Credit
-b9f60c75-6af3-4128-9a25-01b980b91480,10/31/2025 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
 c0fd9cc2-d0ea-46f5-8072-ea39092780e4,11/04/2025 05:00:00,HSBC Manufacturing PMI,HIGH,INR,Release,0.17,Growth
 cb7c6544-697f-4b70-877d-674c175c0aa9,11/06/2025 05:00:00,HSBC Composite PMI,HIGH,INR,Release,0.17,Growth
 64b44b31-efe4-438d-9306-aeb3d2bcf63a,11/06/2025 05:00:00,HSBC Services PMI,HIGH,INR,Release,0.17,Growth
@@ -16,7 +14,6 @@ cf0e917b-5a79-4921-a637-6fa5c71a5e28,11/07/2025 11:30:00,"FX Reserves, USD",LOW,
 f347a215-cc12-4c12-ab50-b05161bcf98c,11/21/2025 05:00:00,HSBC Services PMI,HIGH,INR,Release,0.17,Growth
 3ab33a64-25be-49e9-899d-ba3e2251ca1e,11/21/2025 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
 f70eec84-68f4-4c0b-9156-0340428aeb90,11/26/2025 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy
-eca99073-a07d-4209-8792-2abea3873ed4,11/28/2025 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
 e26b34b0-3105-4a20-8d6d-b69c332596a7,11/28/2025 10:30:00,Cumulative Industrial Output,HIGH,INR,Release,0.17,Growth
 12b28c54-412c-4a32-8d9b-4c3d8d6a9768,11/28/2025 10:30:00,Gross Domestic Product Quarterly (YoY),HIGH,INR,Release,0.17,Growth
 89f59ca6-7e55-4365-a8d6-8a65461b45b2,11/28/2025 11:30:00,Bank Loan Growth,LOW,INR,Release,0.09,Money and Credit

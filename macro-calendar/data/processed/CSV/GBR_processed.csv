@@ -1,8 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e4debcd2-51a2-406c-a78a-a2b4587506da,10/31/2025 07:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP,Release,0.07,Housing
-bc2b0b54-55eb-4a22-8692-6131947445b7,10/31/2025 07:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP,Release,0.07,Housing
-6fd96138-ab24-4fdc-913b-d25790246a96,10/31/2025 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 509532db-5995-4ba0-a7e5-4e30259c756a,11/03/2025 09:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
+6fd96138-ab24-4fdc-913b-d25790246a96,11/03/2025 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 000020aa-ab88-4402-93a2-6d8b7ae91943,11/04/2025 11:40:00,BoE's Breeden speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 63846e13-44ea-4b05-95b6-d9ceb725aef3,11/05/2025 09:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
 d7c74738-de1b-43fa-ab83-aa9abbaf3bfc,11/05/2025 09:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
