@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-00e43e83-5ccb-4205-bdfb-72d17bcd0a03,11/02/2025 07:00:00,Daylight Saving Time ends,HIGH,USD,Release,0.2,Monetary Policy
 46111240-a3bf-48a0-bed8-2da10c49c7ec,11/03/2025 14:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 7b6fbd71-bf91-4939-87e1-615f9a07c0a3,11/03/2025 15:00:00,Construction Spending (MoM),HIGH,USD,Release,0.17,Growth
 e07f5bf5-7108-4054-a5ae-9c36f40be2ff,11/03/2025 15:00:00,ISM Manufacturing Employment Index,HIGH,USD,Release,0.18,Labor Market
@@ -11,9 +10,6 @@ efb15943-0659-458b-b5e4-700531a6653a,11/03/2025 16:30:00,6-Month Bill Auction,LO
 b0b5d951-bea9-4904-a89c-5b4b453d49e7,11/03/2025 17:00:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 3fa9d814-0570-413e-922f-7b3b808f8960,11/03/2025 19:00:00,Fed's Cook speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 40b1e7ea-b20a-4241-a544-65a9dd307e37,11/03/2025 19:00:00,Loan Officer Survey,MEDIUM,USD,Release,0.14,Confidence
-62727a56-9d1c-43e9-9db0-ae72e4e62867,11/03/2025 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-c249cd7d-e681-4e69-8645-d71d06c27af4,11/03/2025 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-16794038-09e8-4169-a933-cfde00b2a60a,11/03/2025 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 3545b74a-021b-4517-8075-86bc66ba93ed,11/03/2025 20:30:00,Total Vehicle Sales,HIGH,USD,Release,0.17,Growth
 a01f1c3f-6cce-40f9-8921-b0cd23493fcd,11/04/2025 11:35:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 c239178b-b32d-4fbb-9578-18fd5cc9bc35,11/04/2025 13:30:00,Goods and Services Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
@@ -71,6 +67,7 @@ e1d7a862-7d2e-4a4e-bebd-816d831cae18,11/11/2025 13:15:00,ADP Employment Change 4
 d890d275-cd9d-443f-a2ff-6d0fff3d2114,11/11/2025 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 b85bc6b0-feaa-4d47-81c1-2975836b5a6d,11/12/2025 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 0c70860f-cb38-4320-a8fe-11544377b6d0,11/12/2025 12:00:00,OPEC Monthly Market Report,MEDIUM,USD,Release,0.11,Trade and External
+616c674c-b093-4050-881b-d2251dd74c9f,11/12/2025 14:20:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
 c6e61594-404c-4861-9f2f-0d879c980086,11/12/2025 15:00:00,Fed's Paulson speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 dc3ad7a7-26ef-446e-a497-c4a5a07c227f,11/12/2025 18:00:00,10-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 d1ab622c-8ccd-40e9-b3a7-b7e9f78aaf33,11/12/2025 21:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
@@ -86,6 +83,7 @@ e1a17a91-a560-4348-a7c0-9eb04757764f,11/13/2025 13:30:00,Consumer Price Index n.
 58724bcf-0d44-457d-baba-b6027ad3d7a5,11/13/2025 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 9d94db14-8f1f-47a1-a345-a39bab0f04e6,11/13/2025 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 ea91972a-c11b-4ba9-9658-d87ef99a49b5,11/13/2025 17:00:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
+2928f456-27fc-41f6-bd79-aea050d7c2dd,11/13/2025 17:20:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 011930e8-3352-4443-b304-be5f499c8a84,11/13/2025 18:00:00,30-Year Bond Auction,LOW,USD,Release,0.09,Money and Credit
 45d3fd1c-3dcc-49cf-9afb-242c5fb40328,11/13/2025 19:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
 5aed08dc-5c39-4af6-98f7-23bf4f0cf3be,11/14/2025 13:30:00,Export Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External

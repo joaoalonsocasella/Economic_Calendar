@@ -1,6 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 509532db-5995-4ba0-a7e5-4e30259c756a,11/03/2025 09:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
-6fd96138-ab24-4fdc-913b-d25790246a96,11/03/2025 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 000020aa-ab88-4402-93a2-6d8b7ae91943,11/04/2025 11:40:00,BoE's Breeden speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 63846e13-44ea-4b05-95b6-d9ceb725aef3,11/05/2025 09:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
 d7c74738-de1b-43fa-ab83-aa9abbaf3bfc,11/05/2025 09:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
@@ -18,6 +17,8 @@ c5e73520-dc69-43e5-a137-fe4cc3066541,11/07/2025 07:00:00,Halifax House Prices (M
 1b4f0720-147f-4cb7-8ffb-d28d1d0f3b10,11/07/2025 07:00:00,Halifax House Prices (YoY/3m),LOW,GBP,Release,0.07,Housing
 97aa562d-2e82-4d0f-b9de-46c4f0f0d8c1,11/07/2025 12:15:00,BoE's Pill speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 0ccac07a-4ddf-4c2a-9236-d98821f6b6bb,11/07/2025 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+39e7e2d9-207b-4188-93ea-0b9240d4539c,11/10/2025 08:30:00,BoE's Greene speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
+d87bbe97-3dff-464a-a6ea-d454364497b9,11/10/2025 09:10:00,BoE's Lombardelli speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 06b022c6-eac3-44a8-8f72-cee81bd227a1,11/11/2025 00:01:00,BRC Like-For-Like Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
 ac8e95fb-396c-4cf4-a0e9-d26743db6781,11/11/2025 07:00:00,Average Earnings Excluding Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
 80ce8fe8-3e24-4d40-a7b2-fdb8eb04e5c1,11/11/2025 07:00:00,Average Earnings Including Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
@@ -39,6 +40,7 @@ b13d09be-a313-424b-926b-6fa58e7ccf7f,11/13/2025 07:00:00,Gross Domestic Product 
 25957f98-2bd5-4d79-8e55-80a4d4cb75d0,11/13/2025 07:00:00,Total Business Investment (YoY),HIGH,GBP,Release,0.17,Growth
 55bdeb1a-807d-48a3-9fad-3a03dab7621a,11/13/2025 07:00:00,Total Trade Balance,MEDIUM,GBP,Release,0.11,Trade and External
 a0b9b960-244e-43fa-a340-b971cdd86cd3,11/13/2025 07:00:00,Trade Balance; non-EU,MEDIUM,GBP,Release,0.11,Trade and External
+84202b4e-cfe4-4780-b0e5-6cbe8a23419f,11/13/2025 12:00:00,BoE's Greene speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 87ee3628-8a27-4b0a-9256-45813d7382bb,11/13/2025 12:00:00,NIESR GDP Estimate (3M),HIGH,GBP,Release,0.17,Growth
 fa7e983a-c483-4b67-b78a-c9f7f541e509,11/14/2025 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 fb5e6c5d-daa4-46af-9a1e-1e4df146ba1c,11/17/2025 00:01:00,Rightmove House Price Index (MoM),LOW,GBP,Release,0.07,Housing
