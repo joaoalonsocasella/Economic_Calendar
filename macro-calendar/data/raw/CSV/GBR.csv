@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-509532db-5995-4ba0-a7e5-4e30259c756a,11/03/2025 09:30:00,S&P Global Manufacturing PMI,LOW,GBP
 000020aa-ab88-4402-93a2-6d8b7ae91943,11/04/2025 11:40:00,BoE's Breeden speech,MEDIUM,GBP
 63846e13-44ea-4b05-95b6-d9ceb725aef3,11/05/2025 09:30:00,S&P Global Composite PMI,LOW,GBP
 d7c74738-de1b-43fa-ab83-aa9abbaf3bfc,11/05/2025 09:30:00,S&P Global Services PMI,LOW,GBP
@@ -57,6 +56,7 @@ eac48555-a7b3-427c-b184-cc48787de972,11/19/2025 07:00:00,Producer Price Index - 
 960ddf0a-bc8d-452a-920d-0bc6827ce125,11/19/2025 07:00:00,Retail Price Index (MoM),MEDIUM,GBP
 dd000d56-cf0e-4d44-9b0b-68b3967cb562,11/19/2025 07:00:00,Retail Price Index (YoY),MEDIUM,GBP
 b17d0bdf-5ac2-4d8b-bfd2-52937173bf29,11/19/2025 09:30:00,DCLG House Price Index (YoY),LOW,GBP
+2d0fbae9-0793-4424-be55-1d216495a1db,11/19/2025 10:30:00,10-y Bond Auction,LOW,GBP
 2ce6704c-1835-430f-b668-2c66bdfcba5f,11/21/2025 00:01:00,GfK Consumer Confidence,MEDIUM,GBP
 d59b0367-b29e-4d64-a28b-7a0817f963f2,11/21/2025 07:00:00,Public Sector Net Borrowing,LOW,GBP
 e0bdc736-ff0f-4bd2-ac6a-7d62d61d96d2,11/21/2025 07:00:00,Retail Sales (MoM),HIGH,GBP

@@ -1,6 +1,4 @@
 Id,Start,Name,Impact,Currency
-a5bcaa9b-fcb4-4581-9dfa-ffbeec14efc3,11/03/2025 14:30:00,S&P Global Manufacturing PMI,MEDIUM,CAD
-9c4618ff-5471-42de-985a-a7d881f3d3ce,11/03/2025 18:30:00,BoC's Governor Macklem speech,HIGH,CAD
 dd2f5852-cce6-456b-b9ec-b80c5ac917ea,11/04/2025 13:30:00,Exports,LOW,CAD
 f163c470-a665-477c-b679-85f941573d14,11/04/2025 13:30:00,Imports,LOW,CAD
 8fc20620-dc89-4b1e-ba75-ce4ed218bfa3,11/04/2025 13:30:00,International Merchandise Trade,LOW,CAD
@@ -15,7 +13,6 @@ ad38eb75-f593-4c71-aa94-305dbe838aa0,11/12/2025 13:30:00,Building Permits (MoM),
 066eb529-d712-4f1a-91e6-1cfd44b2fa1e,11/12/2025 18:30:00,BoC Summary of Deliberations,MEDIUM,CAD
 4ef5d23b-7af6-4655-a278-91db37fa4c74,11/14/2025 13:30:00,Manufacturing Sales (MoM),LOW,CAD
 1aa4299b-e925-41a5-b605-b05167fdf700,11/14/2025 13:30:00,Wholesale Sales (MoM),LOW,CAD
-0df4d93a-d910-441a-9871-73227631fbe9,11/17/2025 13:15:00,Housing Starts s.a (YoY),LOW,CAD
 57082488-90b8-4c05-b491-41bdebf4dc35,11/17/2025 13:30:00,BoC Consumer Price Index Core (MoM),MEDIUM,CAD
 b6289159-e845-4fe1-8719-18f52be41113,11/17/2025 13:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD
 512965a1-c7fa-484e-b291-a63ce4e9ae56,11/17/2025 13:30:00,Canadian Portfolio Investment in Foreign Securities,LOW,CAD
@@ -23,11 +20,12 @@ e5c6f4de-3acb-4ed6-9b65-c15e883ebaed,11/17/2025 13:30:00,Consumer Price Index - 
 9b53ec3d-4046-42a7-b76d-85f1dcca0442,11/17/2025 13:30:00,Consumer Price Index (MoM),MEDIUM,CAD
 4a441c52-2363-4c1e-9267-93b5b96d6822,11/17/2025 13:30:00,Consumer Price Index (YoY),HIGH,CAD
 4f870fc2-e9f0-4c77-8f80-0e6873847a89,11/17/2025 13:30:00,Foreign Portfolio Investment in Canadian Securities,LOW,CAD
+0df4d93a-d910-441a-9871-73227631fbe9,11/18/2025 13:15:00,Housing Starts s.a (YoY),LOW,CAD
 9990b996-0de1-4331-b134-b44edb995f12,11/20/2025 13:30:00,Employment Insurance Beneficiaries Change (MoM),LOW,CAD
 5ea160ee-ba3f-41fc-b582-cf1ed36e5419,11/20/2025 13:30:00,Industrial Product Price (MoM),LOW,CAD
-53a9e9b7-dcb2-4445-a5c1-883c028d62ef,11/20/2025 13:30:00,New Housing Price Index (MoM),LOW,CAD
-8eb7db23-1f62-4a92-a2a8-79818571d052,11/20/2025 13:30:00,New Housing Price Index (YoY),LOW,CAD
 5b6a8291-06f2-4199-ae64-dda232c2d7b4,11/20/2025 13:30:00,Raw Material Price Index,LOW,CAD
+53a9e9b7-dcb2-4445-a5c1-883c028d62ef,11/21/2025 13:30:00,New Housing Price Index (MoM),LOW,CAD
+8eb7db23-1f62-4a92-a2a8-79818571d052,11/21/2025 13:30:00,New Housing Price Index (YoY),LOW,CAD
 7f18a12a-4fa2-485e-9112-ed0ee8140cec,11/21/2025 13:30:00,Retail Sales (MoM),MEDIUM,CAD
 bf2b3e5e-a6bb-44ad-8d6a-6e0d9fc4ab04,11/21/2025 13:30:00,Retail Sales ex Autos (MoM),MEDIUM,CAD
 8f53c9ac-f41c-492a-a8f5-c0933993896e,11/27/2025 13:30:00,Current Account,MEDIUM,CAD

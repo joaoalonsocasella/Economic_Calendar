@@ -1,14 +1,11 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-3f65c7b3-b7af-4ea3-9198-a96c1835071b,11/03/2025 00:30:00,S&P Global Manufacturing PMI,HIGH,KRW,Release,0.17,Growth
-7c2d91bb-fec0-4faf-a6e3-61a5291046ac,11/03/2025 23:00:00,Consumer Price Index Growth (MoM),HIGH,KRW,Release,0.19,Inflation
-c6f3b01c-0a42-40af-888c-fea29467f4c7,11/03/2025 23:00:00,Consumer Price Index Growth (YoY),HIGH,KRW,Release,0.19,Inflation
 915a4c79-01cf-4951-bc0d-c893656614b2,11/04/2025 21:00:00,FX Reserves,LOW,KRW,Release,0.09,Money and Credit
 402c1be8-8cd1-46a1-a0b8-b0ac32a2f955,11/05/2025 23:00:00,Current Account Balance,MEDIUM,KRW,Release,0.11,Trade and External
 e52056cc-e1d6-4cee-9125-94077ad290f5,11/11/2025 23:00:00,Unemployment Rate,HIGH,KRW,Release,0.18,Labor Market
+fd332f95-807e-4d50-9cca-50ac58af9e3f,11/12/2025 03:00:00,Money Supply Growth,HIGH,KRW,Release,0.2,Monetary Policy
 fffcf7a7-8f64-4af8-9ac1-d8b8a3dbd16c,11/13/2025 21:00:00,Export Price Growth (YoY),MEDIUM,KRW,Release,0.11,Trade and External
 343c23e2-a5a9-4076-b8ae-7c3c79f66373,11/13/2025 21:00:00,Import Price Growth (YoY),MEDIUM,KRW,Release,0.11,Trade and External
-fd332f95-807e-4d50-9cca-50ac58af9e3f,11/14/2025 03:00:00,Money Supply Growth,HIGH,KRW,Release,0.2,Monetary Policy
-bfba2387-e1b9-4e89-9e18-4ebbc525f625,11/18/2025 23:55:00,Trade Balance,MEDIUM,KRW,Release,0.11,Trade and External
+bfba2387-e1b9-4e89-9e18-4ebbc525f625,11/16/2025 23:55:00,Trade Balance,MEDIUM,KRW,Release,0.11,Trade and External
 b5d6fec0-b888-4926-b438-d0f3d64f321f,11/20/2025 21:00:00,BOK Manufacturing BSI,HIGH,KRW,Release,0.17,Growth
 05b02d4a-ed05-496e-8f71-967376afc30c,11/20/2025 21:00:00,Producer Price Index Growth (MoM),HIGH,KRW,Release,0.19,Inflation
 f2eda661-de40-4b36-9860-796d262a5379,11/20/2025 21:00:00,Producer Price Index Growth (YoY),HIGH,KRW,Release,0.19,Inflation

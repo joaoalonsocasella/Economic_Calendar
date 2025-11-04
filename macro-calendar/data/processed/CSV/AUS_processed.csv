@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-9354ab03-9960-4366-8aec-9af8937c81f5,11/03/2025 00:00:00,TD-MI Inflation Gauge (MoM),HIGH,AUD,Release,0.19,Inflation
-1655cc48-4d63-4d7d-b28a-a99301241608,11/03/2025 00:00:00,TD-MI Inflation Gauge (YoY),HIGH,AUD,Release,0.19,Inflation
-08f0a180-59bc-46bb-946c-28d2a020f193,11/03/2025 00:30:00,ANZ Job Advertisements,HIGH,AUD,Release,0.18,Labor Market
-6d986ea7-ee30-4b7f-98c7-9357c0237734,11/03/2025 00:30:00,Building Permits (MoM),LOW,AUD,Release,0.07,Housing
-8e5901cc-f502-4bd7-92aa-60afcd0271c2,11/03/2025 00:30:00,Building Permits (YoY),LOW,AUD,Release,0.07,Housing
-8d06458d-43bb-41f0-aa98-068dcc91af2f,11/03/2025 05:30:00,RBA Commodity Index SDR (YoY),HIGH,AUD,Release,0.19,Inflation
 e2d1831a-5b8c-452c-9129-c3f03a41c98b,11/04/2025 03:30:00,RBA Interest Rate Decision,MEDIUM,AUD,Speech,0.13,Monetary Policy
 b27974df-7182-49a3-9594-a108812b5992,11/04/2025 03:30:00,RBA Monetary Policy Statement,MEDIUM,AUD,Speech,0.13,Monetary Policy
 009cab3e-23a4-49ea-8f67-2dc5bdf6dbbd,11/04/2025 03:30:00,RBA Rate Statement,MEDIUM,AUD,Speech,0.13,Monetary Policy

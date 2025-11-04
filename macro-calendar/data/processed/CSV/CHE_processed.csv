@@ -1,10 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-631e9e33-9d7f-4d95-aa24-ccb2711b4854,11/03/2025 07:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
-52b941c0-ec65-40d7-a993-2baf34807e82,11/03/2025 07:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation
-074491c9-3629-4222-a16d-c01c151edba8,11/03/2025 08:30:00,SVME - Purchasing Managers' Index,MEDIUM,CHF,Release,0.14,Confidence
-c0800ecf-fa14-4d6a-b23f-6c0dbf70312f,11/04/2025 08:00:00,SECO Consumer Climate (3m),MEDIUM,CHF,Release,0.14,Confidence
 d136a8de-fdd5-49ee-ab2f-939acb717ece,11/06/2025 06:45:00,Unemployment Rate s.a (MoM),HIGH,CHF,Release,0.18,Labor Market
 c1776ede-757d-4164-95bc-b6aa4276358b,11/07/2025 08:00:00,Foreign Currency Reserves,LOW,CHF,Release,0.09,Money and Credit
+c0800ecf-fa14-4d6a-b23f-6c0dbf70312f,11/07/2025 08:00:00,SECO Consumer Climate (3m),MEDIUM,CHF,Release,0.14,Confidence
 b65395c2-b7f3-41da-8dce-5e2b11f0a04e,11/13/2025 07:30:00,Producer and Import Prices (MoM),HIGH,CHF,Release,0.19,Inflation
 1d8b39cf-7a95-47c6-8a49-6b4e1228c1df,11/13/2025 07:30:00,Producer and Import Prices (YoY),HIGH,CHF,Release,0.19,Inflation
 8cd6c5ee-3614-45c8-b03a-3e0e1e133470,11/17/2025 07:30:00,Industrial Production (YoY),HIGH,CHF,Release,0.17,Growth

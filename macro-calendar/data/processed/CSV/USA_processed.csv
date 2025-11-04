@@ -1,16 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-46111240-a3bf-48a0-bed8-2da10c49c7ec,11/03/2025 14:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
-7b6fbd71-bf91-4939-87e1-615f9a07c0a3,11/03/2025 15:00:00,Construction Spending (MoM),HIGH,USD,Release,0.17,Growth
-e07f5bf5-7108-4054-a5ae-9c36f40be2ff,11/03/2025 15:00:00,ISM Manufacturing Employment Index,HIGH,USD,Release,0.18,Labor Market
-3d703c80-1c7e-4303-95e4-d854fa3d085d,11/03/2025 15:00:00,ISM Manufacturing New Orders Index,HIGH,USD,Release,0.17,Growth
-a2014eca-4e8f-42bf-a48e-844b0d02e623,11/03/2025 15:00:00,ISM Manufacturing PMI,HIGH,USD,Release,0.17,Growth
-491aa9a0-4f3f-4f96-95bd-502057da5b9f,11/03/2025 15:00:00,ISM Manufacturing Prices Paid,HIGH,USD,Release,0.17,Growth
-8011e2a6-86ce-46b5-8ee8-beeae2c71036,11/03/2025 16:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
-efb15943-0659-458b-b5e4-700531a6653a,11/03/2025 16:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
-b0b5d951-bea9-4904-a89c-5b4b453d49e7,11/03/2025 17:00:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-3fa9d814-0570-413e-922f-7b3b808f8960,11/03/2025 19:00:00,Fed's Cook speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-40b1e7ea-b20a-4241-a544-65a9dd307e37,11/03/2025 19:00:00,Loan Officer Survey,MEDIUM,USD,Release,0.14,Confidence
-3545b74a-021b-4517-8075-86bc66ba93ed,11/03/2025 20:30:00,Total Vehicle Sales,HIGH,USD,Release,0.17,Growth
 a01f1c3f-6cce-40f9-8921-b0cd23493fcd,11/04/2025 11:35:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 c239178b-b32d-4fbb-9578-18fd5cc9bc35,11/04/2025 13:30:00,Goods and Services Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 08aa6d16-a0ef-428f-8fa1-3cd33e997bb1,11/04/2025 13:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
@@ -52,6 +40,10 @@ d0ddcfa8-300d-4cfa-834c-fde34d06161c,11/07/2025 13:30:00,Labor Force Participati
 18b664eb-e2cb-4fd5-affd-0c60b951c212,11/07/2025 13:30:00,Nonfarm Payrolls,HIGH,USD,Release,0.18,Labor Market
 314751ec-7163-4d97-8b41-6b27189eaa59,11/07/2025 13:30:00,U6 Underemployment Rate,HIGH,USD,Release,0.2,Monetary Policy
 533beb90-3133-46a1-9a62-7e3469c794d4,11/07/2025 13:30:00,Unemployment Rate,HIGH,USD,Release,0.18,Labor Market
+4394bbe5-42d4-45f2-87e8-583920dd33aa,11/07/2025 15:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
+f5d35185-2a4c-41c1-ae55-2755dc70b6b2,11/07/2025 15:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
+25bcd8bb-f787-4480-8bce-7caea081f60f,11/07/2025 15:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
+639bc3d5-1891-4bba-9de5-92fab41b9313,11/07/2025 15:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
 914f477b-9bff-4850-aae5-8eadcb2ba07b,11/07/2025 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
 d297563a-1d19-40cb-98cd-b6807fe722b1,11/07/2025 20:00:00,Consumer Credit Change,MEDIUM,USD,Release,0.14,Confidence
 63083f40-c67e-4083-887a-3c9818ebb65c,11/07/2025 20:00:00,Fed's Miran speech,MEDIUM,USD,Speech,0.13,Monetary Policy
@@ -80,16 +72,13 @@ e1a17a91-a560-4348-a7c0-9eb04757764f,11/13/2025 13:30:00,Consumer Price Index n.
 72678eef-932e-46cd-8f2c-8a7dcdaad1e4,11/13/2025 13:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 48ede865-ce5c-403a-a44a-20c5ae5b6dbb,11/13/2025 13:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 59203bd8-051b-4c0d-9e42-8be57a842578,11/13/2025 13:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
-58724bcf-0d44-457d-baba-b6027ad3d7a5,11/13/2025 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 9d94db14-8f1f-47a1-a345-a39bab0f04e6,11/13/2025 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 ea91972a-c11b-4ba9-9658-d87ef99a49b5,11/13/2025 17:00:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
+a3681e4d-e732-4026-82a7-5b2b28da6303,11/13/2025 17:15:00,Fed's Musalem speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 2928f456-27fc-41f6-bd79-aea050d7c2dd,11/13/2025 17:20:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 011930e8-3352-4443-b304-be5f499c8a84,11/13/2025 18:00:00,30-Year Bond Auction,LOW,USD,Release,0.09,Money and Credit
 45d3fd1c-3dcc-49cf-9afb-242c5fb40328,11/13/2025 19:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
-5aed08dc-5c39-4af6-98f7-23bf4f0cf3be,11/14/2025 13:30:00,Export Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
-11918a91-4503-4862-a6d6-8439c04bc288,11/14/2025 13:30:00,Export Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
-9b75a8af-9202-489c-a566-8aad8be17e99,11/14/2025 13:30:00,Import Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
-2a17223d-afcb-4271-b6a0-2484181da50a,11/14/2025 13:30:00,Import Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
+1896a2ab-cda9-4e85-a37b-22813d773aa3,11/14/2025 13:05:00,Fed's Schmid speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 0c9f788b-cbcc-4bda-9f39-ec0e3e21f0f0,11/14/2025 13:30:00,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 849f5e70-459d-4cf1-a22e-6d611cd0187b,11/14/2025 13:30:00,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 f319fc90-598c-48b5-b254-4ca7f610fb35,11/14/2025 13:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
@@ -99,22 +88,23 @@ f9aa91c5-1f52-40e1-a70c-d2096a930b8a,11/14/2025 13:30:00,Retail Sales (MoM),HIGH
 9773fce0-4e96-4295-92ea-2ec4bf6447b0,11/14/2025 13:30:00,Retail Sales Control Group,HIGH,USD,Release,0.17,Growth
 311e02d0-86ac-4a56-b487-26cd682f203b,11/14/2025 13:30:00,Retail Sales ex Autos (MoM),HIGH,USD,Release,0.17,Growth
 c9be8dc7-5a21-4b90-8e5b-76d0487191a0,11/14/2025 15:00:00,Business Inventories,HIGH,USD,Release,0.17,Growth
-4394bbe5-42d4-45f2-87e8-583920dd33aa,11/14/2025 15:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
-f5d35185-2a4c-41c1-ae55-2755dc70b6b2,11/14/2025 15:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
-25bcd8bb-f787-4480-8bce-7caea081f60f,11/14/2025 15:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
-639bc3d5-1891-4bba-9de5-92fab41b9313,11/14/2025 15:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
+58724bcf-0d44-457d-baba-b6027ad3d7a5,11/14/2025 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 a9eab021-c552-418d-b1e0-116d89212b82,11/14/2025 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
 25cf508f-53ee-41ad-a970-ce9fd657e79a,11/14/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 d6b32fad-c9d6-448a-b1b5-10ea4f1d0546,11/14/2025 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 5cc2c67e-53fa-43e3-a72e-e3ae7583cb74,11/14/2025 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 0bab544a-6067-4363-828b-51bf6178f3db,11/17/2025 13:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
-762daa1c-85ba-4966-bcf3-3d33531cc72e,11/17/2025 15:00:00,NAHB Housing Market Index,LOW,USD,Release,0.07,Housing
 6ee6cb07-e453-4874-8b44-bb83b9825c0f,11/17/2025 16:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 c2cb78e5-ae12-441c-996c-751986e35b4d,11/17/2025 16:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 3b8f0b02-408c-4f16-99e6-6d7f985d4878,11/18/2025 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
+5aed08dc-5c39-4af6-98f7-23bf4f0cf3be,11/18/2025 13:30:00,Export Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
+11918a91-4503-4862-a6d6-8439c04bc288,11/18/2025 13:30:00,Export Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
+9b75a8af-9202-489c-a566-8aad8be17e99,11/18/2025 13:30:00,Import Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
+2a17223d-afcb-4271-b6a0-2484181da50a,11/18/2025 13:30:00,Import Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
 31f30d5f-dbe8-4476-9636-81a3bd18803f,11/18/2025 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 4dec107d-c4a4-43ba-a890-5c038e6dab80,11/18/2025 14:15:00,Capacity Utilization,HIGH,USD,Release,0.2,Monetary Policy
 1516150f-31f5-4be9-ae8a-df3e3c305b2f,11/18/2025 14:15:00,Industrial Production (MoM),HIGH,USD,Release,0.17,Growth
+762daa1c-85ba-4966-bcf3-3d33531cc72e,11/18/2025 15:00:00,NAHB Housing Market Index,LOW,USD,Release,0.07,Housing
 0b736217-5b77-43a5-8acf-f3030e248c60,11/18/2025 21:00:00,Net Long-Term TIC Flows,MEDIUM,USD,Release,0.11,Trade and External
 458d2566-23a7-4a33-b8ba-0a5feec4eddd,11/18/2025 21:00:00,Total Net TIC Flows,MEDIUM,USD,Release,0.11,Trade and External
 e38d4f9e-eeaf-402f-af4c-cc28cb5dce1d,11/18/2025 21:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
@@ -133,12 +123,17 @@ d00065ca-acad-4b16-90d5-cc0505d2138e,11/20/2025 13:30:00,Philadelphia Fed Manufa
 05fcf837-94e5-4fd8-b917-e7700253a063,11/20/2025 15:00:00,Existing Home Sales (MoM),LOW,USD,Release,0.07,Housing
 1c1291a8-62e1-4274-8e13-801780dadd3c,11/20/2025 15:00:00,Existing Home Sales Change (MoM),LOW,USD,Release,0.07,Housing
 a7146b4e-0719-4629-9ede-9ba2ffe7cda2,11/20/2025 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
+f18fb89a-382f-4231-95b3-62ae0ae8301c,11/20/2025 16:00:00,Kansas Fed Manufacturing Activity,HIGH,USD,Release,0.17,Growth
 a167f32e-7f1e-4570-a5d2-7646ad4046f7,11/20/2025 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 c95414db-ebb4-4fa2-9935-f98d73face36,11/20/2025 18:00:00,10-year TIPS Auction,LOW,USD,Release,0.09,Money and Credit
 260231c9-e5ff-4b9e-ad20-0aef560905b3,11/20/2025 18:40:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 32ad66af-6951-4967-8a39-995b25c711a8,11/21/2025 14:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
 c214a971-7443-42fd-a090-cb54dc2796a7,11/21/2025 14:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 d7babcb7-df89-470d-aa40-4817642e1788,11/21/2025 14:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
+97eacaa9-a9d1-495d-815c-496ed43ded14,11/21/2025 15:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
+5712857c-6ef8-4c28-8053-355cf573d07f,11/21/2025 15:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
+43f41031-db20-4b30-b897-17d9281865d5,11/21/2025 15:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
+f31eda35-04cb-4f27-b093-c18b8a620967,11/21/2025 15:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
 f7c2acff-c024-4f62-b4aa-3f4c2f8ab616,11/21/2025 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
 3c20e7da-cf77-4876-ba9a-1b4b4d789cbc,11/21/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 2dc04454-f9d0-486b-ac59-8c75164a74b1,11/21/2025 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
@@ -184,13 +179,8 @@ baca2e30-4448-4bd2-9aaf-fdb3bf28c0d6,11/27/2025 13:30:00,Initial Jobless Claims,
 abb19708-e28e-4ac3-a6df-572ced07d899,11/27/2025 15:00:00,Pending Home Sales (MoM),LOW,USD,Release,0.07,Housing
 6f92d361-c54e-4b88-bcfc-d0ba6fb02a08,11/27/2025 15:00:00,Pending Home Sales (YoY),LOW,USD,Release,0.07,Housing
 be5df107-1270-434b-afa0-9abdce98684b,11/27/2025 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
-f18fb89a-382f-4231-95b3-62ae0ae8301c,11/27/2025 16:00:00,Kansas Fed Manufacturing Activity,HIGH,USD,Release,0.17,Growth
 5a6a3380-7736-4d49-9036-fa7aa6877541,11/27/2025 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 775a2295-3a5a-4c10-8b59-2ae0526fe9c7,11/27/2025 18:00:00,7-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-97eacaa9-a9d1-495d-815c-496ed43ded14,11/28/2025 15:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
-5712857c-6ef8-4c28-8053-355cf573d07f,11/28/2025 15:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
-43f41031-db20-4b30-b897-17d9281865d5,11/28/2025 15:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
-f31eda35-04cb-4f27-b093-c18b8a620967,11/28/2025 15:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
 b5d07921-323b-462e-8c4d-fb26482f555a,11/28/2025 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
 8e3e8f32-718c-47f6-a748-5909400785a8,12/01/2025 14:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 4de34a54-135d-4d59-b024-0b2a14f1549a,12/01/2025 15:00:00,Construction Spending (MoM),HIGH,USD,Release,0.17,Growth

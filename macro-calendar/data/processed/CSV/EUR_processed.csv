@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-7f2a7f35-f75a-4ce7-adfa-9968904d201e,11/03/2025 05:30:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-255734e7-e9c5-4ad6-a25c-6e2915aebf6d,11/03/2025 09:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
-fbb636d7-ece2-40bc-b97a-b3e6ef895546,11/03/2025 12:00:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
-992961c4-0cdc-4c67-8ab5-7709e3c66019,11/03/2025 12:30:00,ECB's Escrivá speech,HIGH,EUR,Speech,0.552,Monetary Policy
 9de733bc-49ca-4481-8d55-3a28428229fa,11/04/2025 07:40:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
 f0b04bc3-3e65-4ca4-9310-11546caca62c,11/04/2025 09:00:00,ECB's Escrivá speech,HIGH,EUR,Speech,0.552,Monetary Policy
 7a2787b4-fc89-4090-b580-5ca9bd3cbedc,11/04/2025 09:45:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
@@ -10,12 +6,15 @@ e2af3479-fa72-481d-80c4-e8fead6e69ac,11/04/2025 17:00:00,ECB's Nagel speech,HIGH
 1699fa82-2c63-4704-bdd4-de3afa8bcc8b,11/05/2025 09:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 e44a87d3-dfd5-4d3a-99b4-10557b54a2b1,11/05/2025 09:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 190ad116-986d-4b0e-936d-661f7cd8426b,11/05/2025 10:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
+51b681fc-5bfb-4a63-ae54-5106e573ee5c,11/05/2025 10:00:00,ECB's Villeroy speech,HIGH,EUR,Speech,0.552,Monetary Policy
 b7782f00-84a2-4304-8438-f68f389459c7,11/05/2025 10:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 369ef432-872b-4ade-859d-e586bf6a8774,11/05/2025 10:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 258b3e90-950b-41f0-bac4-af5d5c57f2d3,11/06/2025 08:10:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 d7ec880b-6fdc-4d34-99f4-6bb687292742,11/06/2025 08:30:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
 5a176048-2da9-4116-99d6-99a53db0e1d3,11/06/2025 10:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
 d916f565-f368-4571-b89e-eeb09b165119,11/06/2025 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+32250bb4-9411-429c-b1f7-86cf92045d2d,11/06/2025 10:15:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
+43890763-118d-45ff-bb9e-cfd49c79cedb,11/06/2025 10:15:00,ECB's Villeroy speech,HIGH,EUR,Speech,0.552,Monetary Policy
 4ccc5283-1196-4cb5-b2d6-0d42d981ad15,11/06/2025 12:30:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 b895fbd8-2ecd-4acb-8ab8-ae98da56445b,11/06/2025 14:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 61d4859b-d00e-419f-9357-487049274909,11/06/2025 18:30:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
@@ -36,6 +35,7 @@ fcf625e8-2910-4959-bfeb-f2ebb7953eeb,11/14/2025 10:00:00,European Commission rel
 e5744670-cf67-4f6f-aad6-5f624b8b3884,11/14/2025 10:00:00,Trade Balance n.s.a.,HIGH,EUR,Release,0.468,Trade and External
 84248c2f-a65d-46c4-9dec-b91b9ab69752,11/14/2025 10:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External
 12a04410-33cc-46bd-91a2-c5642ae7dfcf,11/14/2025 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
+b47a594e-808f-46af-93ec-9db3b586885d,11/19/2025 08:00:00,Non-Monetary Policy ECB Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
 3dcee570-7978-46c9-b0e5-2d59106cada8,11/19/2025 09:00:00,Current Account n.s.a,HIGH,EUR,Release,0.468,Trade and External
 46d4d4da-ea5c-4256-a17a-0cab884cc607,11/19/2025 09:00:00,Current Account s.a,HIGH,EUR,Release,0.468,Trade and External
 3bfc083b-0b00-40c2-b384-3d3bae8bd2ab,11/19/2025 10:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
