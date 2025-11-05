@@ -63,6 +63,7 @@ c8c08a7d-7e7f-439e-9e55-0d7b50dbf95e,01/15/2026 02:00:00,Industrial Production (
 93adacd7-1864-46e5-a3db-2b085d144250,01/15/2026 02:00:00,Retail Sales (YoY),HIGH,CNY,Release,0.17,Growth
 d870387c-ed52-48a9-8ae9-32dae1c37a08,01/16/2026 02:00:00,Gross Domestic Product (QoQ),HIGH,CNY,Release,0.17,Growth
 24b280bc-7e54-4620-8adf-d924c5f95b8e,01/16/2026 02:00:00,Gross Domestic Product (YoY),HIGH,CNY,Release,0.17,Growth
+aa3b04be-398e-4b02-9dad-47b0d6006ca3,01/20/2026 01:15:00,PBoC Interest Rate Decision,HIGH,CNY,Release,0.2,Monetary Policy
 5aab08bf-3650-4e63-802c-bb2b53cce2bd,01/31/2026 01:30:00,NBS Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 308effcf-66be-4473-9e68-af8b942d18bd,01/31/2026 01:30:00,NBS Non-Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 d90995cf-da16-4e3e-bdd5-d8ae7bc15def,02/02/2026 01:45:00,RatingDog Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
@@ -70,6 +71,7 @@ d90995cf-da16-4e3e-bdd5-d8ae7bc15def,02/02/2026 01:45:00,RatingDog Manufacturing
 25e9b31c-1e9e-400c-bbde-80ef88a6d709,02/09/2026 01:30:00,Consumer Price Index (MoM),HIGH,CNY,Release,0.19,Inflation
 c2d5d883-0ceb-4aff-bf15-973570dbf3ae,02/09/2026 01:30:00,Consumer Price Index (YoY),HIGH,CNY,Release,0.19,Inflation
 ab9f46a9-5b2c-4b90-97db-dc10464d8c19,02/09/2026 01:30:00,Producer Price Index (YoY),HIGH,CNY,Release,0.19,Inflation
+9086f024-cc6c-4ff6-98aa-08f2eaf9b6ea,02/20/2026 01:15:00,PBoC Interest Rate Decision,HIGH,CNY,Release,0.2,Monetary Policy
 378d4a67-4a82-4d8a-8386-a039ed18aad1,03/01/2026 01:30:00,NBS Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 dbe9bd72-e0cf-459e-b4bf-cadc9ae5e84b,03/01/2026 01:30:00,NBS Non-Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 66145650-3f17-442a-8845-66d08c02d9c0,03/02/2026 01:45:00,RatingDog Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
@@ -80,6 +82,7 @@ d0c27b9f-dccc-4272-8613-f1cc13c7b27a,03/09/2026 01:30:00,Producer Price Index (Y
 f1109999-a30f-432a-9891-029d462326d7,03/16/2026 02:00:00,Fixed Asset Investment (YTD) (YoY),HIGH,CNY,Release,0.17,Growth
 2f68d669-5fe7-4d0e-8fe2-35514e5ba9b8,03/16/2026 02:00:00,Industrial Production (YoY),HIGH,CNY,Release,0.17,Growth
 f30802de-11f3-410b-961a-25342ecee502,03/16/2026 02:00:00,Retail Sales (YoY),HIGH,CNY,Release,0.17,Growth
+aedf054d-1f10-4c5b-9309-ba1c05c7763b,03/20/2026 01:15:00,PBoC Interest Rate Decision,HIGH,CNY,Release,0.2,Monetary Policy
 314d93c1-0112-4640-bfa6-b1cb2a2f3dfc,03/31/2026 01:30:00,NBS Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 1fc89966-7978-4831-bdb7-aaec38168079,03/31/2026 01:30:00,NBS Non-Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 d984bc45-c53a-46a4-8341-a9c9afa9a934,04/01/2026 01:45:00,RatingDog Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
@@ -92,6 +95,7 @@ bb6261f4-3d15-402a-a7d7-d4ba34467c8f,04/17/2026 02:00:00,Gross Domestic Product 
 f465ab7f-f741-4445-a4b5-347c194120c8,04/17/2026 02:00:00,Gross Domestic Product (YoY),HIGH,CNY,Release,0.17,Growth
 39c4e9d8-61e1-4008-a3fa-f20c11b5568a,04/17/2026 02:00:00,Industrial Production (YoY),HIGH,CNY,Release,0.17,Growth
 d9432166-6790-4d22-b5c1-deb1cdf4185b,04/17/2026 02:00:00,Retail Sales (YoY),HIGH,CNY,Release,0.17,Growth
+d1c940ee-5a22-4e13-8dc0-9edd975da16d,04/20/2026 01:15:00,PBoC Interest Rate Decision,HIGH,CNY,Release,0.2,Monetary Policy
 9ecb80c2-6bb4-468b-b6a8-3c3bf5b91ee7,04/30/2026 01:30:00,NBS Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 31abf453-075e-45d9-a8d0-7114e1d1f9ad,04/30/2026 01:30:00,NBS Non-Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 876a3671-0e5f-496a-93d8-d54a1e387200,05/01/2026 01:45:00,RatingDog Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
@@ -102,6 +106,7 @@ d1802138-f05e-4edf-a6ef-a0e0c5115012,05/09/2026 01:30:00,Producer Price Index (Y
 9d6238cb-db80-4b8a-bcb8-b2455b2e1c7e,05/15/2026 02:00:00,Fixed Asset Investment (YTD) (YoY),HIGH,CNY,Release,0.17,Growth
 92cc5b85-c084-481e-9c45-f909360d8ab0,05/15/2026 02:00:00,Industrial Production (YoY),HIGH,CNY,Release,0.17,Growth
 bbf9aa76-2251-4417-b626-6dbec205571c,05/15/2026 02:00:00,Retail Sales (YoY),HIGH,CNY,Release,0.17,Growth
+48ec6a1e-f4e5-43b2-9f83-721026a229a7,05/20/2026 01:15:00,PBoC Interest Rate Decision,HIGH,CNY,Release,0.2,Monetary Policy
 b2fae249-62fa-4a67-9dd6-df21077a9935,05/31/2026 01:30:00,NBS Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 bc51e881-be7b-4e01-b93a-87bc6127c19f,05/31/2026 01:30:00,NBS Non-Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 8afff155-ab35-44d7-8034-9d2277a45330,06/01/2026 01:45:00,RatingDog Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
@@ -112,6 +117,7 @@ c65db897-35ac-4e1e-a343-fbd9a1fc1443,06/03/2026 01:45:00,RatingDog Services PMI,
 b0011a0a-1766-4b8d-9268-da83b4d982c9,06/16/2026 02:00:00,Fixed Asset Investment (YTD) (YoY),HIGH,CNY,Release,0.17,Growth
 cdbd2532-3efb-4100-a5e2-e2334e5e6ca6,06/16/2026 02:00:00,Industrial Production (YoY),HIGH,CNY,Release,0.17,Growth
 a5dfb888-b6cc-43f8-85af-ae6a41c6b804,06/16/2026 02:00:00,Retail Sales (YoY),HIGH,CNY,Release,0.17,Growth
+a7efaa6a-eec4-4666-8cf1-7dddd10cd8d0,06/22/2026 01:15:00,PBoC Interest Rate Decision,HIGH,CNY,Release,0.2,Monetary Policy
 1ecb373b-1f5c-4690-b10f-533cba436177,06/30/2026 01:30:00,NBS Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 24b41ddb-8585-4e7b-af91-99a99bc4807c,06/30/2026 01:30:00,NBS Non-Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 5ff144aa-aa82-4036-bbba-3c41f48bd752,07/01/2026 01:45:00,RatingDog Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
@@ -124,6 +130,7 @@ dcb06827-743c-42b8-8c8b-290089261ba4,07/09/2026 01:30:00,Consumer Price Index (Y
 2c7627fb-2d9d-44ec-a4f4-00e5ace3b0d4,07/17/2026 02:00:00,Fixed Asset Investment (YTD) (YoY),HIGH,CNY,Release,0.17,Growth
 9296e9d9-ad90-4fa3-9c8b-a553a098e897,07/17/2026 02:00:00,Industrial Production (YoY),HIGH,CNY,Release,0.17,Growth
 bfd1c3de-8b0d-4835-b074-f07ed3d7f158,07/17/2026 02:00:00,Retail Sales (YoY),HIGH,CNY,Release,0.17,Growth
+2ceff019-d5c2-4fc7-9a30-9bb76183c1fa,07/20/2026 01:15:00,PBoC Interest Rate Decision,HIGH,CNY,Release,0.2,Monetary Policy
 8b96c4fa-a672-4b44-9542-5e61f89537c7,07/31/2026 01:30:00,NBS Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 78004b2f-a9f9-44a5-aceb-23f5c5caf77b,07/31/2026 01:30:00,NBS Non-Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 94e0ffff-bff5-425b-9c44-a779deeccda9,08/03/2026 01:45:00,RatingDog Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
@@ -134,6 +141,7 @@ bfd1c3de-8b0d-4835-b074-f07ed3d7f158,07/17/2026 02:00:00,Retail Sales (YoY),HIGH
 28e0a662-19a6-42a0-b2a8-80e5140ed444,08/18/2026 02:00:00,Fixed Asset Investment (YTD) (YoY),HIGH,CNY,Release,0.17,Growth
 9522b7a8-8fed-41fb-8571-76a685d01180,08/18/2026 02:00:00,Industrial Production (YoY),HIGH,CNY,Release,0.17,Growth
 652add54-7123-4d0d-95ba-3516f5953e2b,08/18/2026 02:00:00,Retail Sales (YoY),HIGH,CNY,Release,0.17,Growth
+1ae24410-5e3b-43b7-ae0d-0ba5edac2683,08/20/2026 01:15:00,PBoC Interest Rate Decision,HIGH,CNY,Release,0.2,Monetary Policy
 ec90b380-9a4f-4193-b852-5f078f3cbcc7,08/31/2026 01:30:00,NBS Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 cf4ac429-40d4-431d-a78c-329437fcb1cb,08/31/2026 01:30:00,NBS Non-Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 c5777f44-78c5-4a61-95ba-0d28b9a011b2,09/01/2026 01:45:00,RatingDog Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
@@ -144,7 +152,10 @@ cf2a8dc5-308c-4b53-9a8c-b12eaddd78e8,09/09/2026 01:30:00,Producer Price Index (Y
 c1bbb2dd-226c-49d1-a096-951084260b49,09/17/2026 02:00:00,Fixed Asset Investment (YTD) (YoY),HIGH,CNY,Release,0.17,Growth
 5d0d3b35-6df9-4d0a-854e-38bc2361ea78,09/17/2026 02:00:00,Industrial Production (YoY),HIGH,CNY,Release,0.17,Growth
 cea6e311-ddb3-4152-a90f-8ea31993afa5,09/17/2026 02:00:00,Retail Sales (YoY),HIGH,CNY,Release,0.17,Growth
+12ff1069-ccb5-4d3f-bea3-925f87949383,09/21/2026 01:15:00,PBoC Interest Rate Decision,HIGH,CNY,Release,0.2,Monetary Policy
 9cafad1b-045b-42b3-b4d3-c622e0c62911,09/30/2026 01:30:00,NBS Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 03f6913f-b9e1-4290-957b-5769dd7164b4,09/30/2026 01:30:00,NBS Non-Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 a884bf0f-756e-47e6-9132-d5e9c964cad2,10/16/2026 02:00:00,Gross Domestic Product (QoQ),HIGH,CNY,Release,0.17,Growth
 07cc3d1b-5831-497c-8dc4-9dece55dcd1f,10/16/2026 02:00:00,Gross Domestic Product (YoY),HIGH,CNY,Release,0.17,Growth
+12db7941-a021-4503-a46d-5491e5968220,10/21/2026 01:15:00,PBoC Interest Rate Decision,HIGH,CNY,Release,0.2,Monetary Policy
+9a90d25b-1d76-495b-bfa7-4707f1a1ca20,11/20/2026 01:15:00,PBoC Interest Rate Decision,HIGH,CNY,Release,0.2,Monetary Policy

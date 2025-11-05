@@ -174,8 +174,12 @@ dee83ee3-b8ab-4771-96d6-5db2cf928cd8,02/04/2026 08:55:00,HCOB Services PMI,MEDIU
 40ad8f1a-8a16-4117-87d8-268190861924,02/13/2026 07:00:00,Consumer Price Index (YoY),LOW,EUR
 8aaf7182-6356-4c2a-bc5b-f97ae9e8c507,02/13/2026 07:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 77921288-890b-46ec-9635-64cd15133448,02/13/2026 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+3e1ea46d-208e-49d3-8b6e-fad3f0f7215c,02/13/2026 07:00:00,Wholesale Price Index (MoM),LOW,EUR
+f2401c9b-cc40-40f5-a642-8ad52c4fa24a,02/13/2026 07:00:00,Wholesale Price Index (YoY),LOW,EUR
 13592567-27e4-4f72-ae0e-dc70a2408c4b,02/17/2026 10:00:00,ZEW Survey – Current Situation,MEDIUM,EUR
 33ae5cb4-c5ec-47b1-b3c0-f764b72f57e3,02/17/2026 10:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
+d1a8f44f-ac40-4697-b5b8-fd39b91908ad,02/20/2026 07:00:00,Producer Price Index (MoM),MEDIUM,EUR
+ce5208f4-e3ff-4dc5-aecd-f0fdd1f67ff0,02/20/2026 07:00:00,Producer Price Index (YoY),MEDIUM,EUR
 477bc3b7-a53d-4f5e-a795-c1f3a030e996,02/23/2026 08:30:00,HCOB Composite PMI,HIGH,EUR
 75850ac7-bc9c-4149-958f-76df026b8d58,02/23/2026 08:30:00,HCOB Manufacturing PMI,HIGH,EUR
 50c0812e-e894-4fce-9120-de9f9e93b548,02/23/2026 08:30:00,HCOB Services PMI,HIGH,EUR
@@ -186,6 +190,7 @@ f3889e3a-1703-4321-9b73-5830c82e35be,02/24/2026 09:00:00,IFO – Current Assessm
 6dc05d2c-0414-4844-a0f7-92ca43ff3771,02/25/2026 07:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR
 ad92cc68-b7cd-4ac5-acbd-9879bf867f81,02/25/2026 07:00:00,Gross Domestic Product (YoY),MEDIUM,EUR
 05a65d01-1cc0-46aa-8bce-3271be7b93d5,02/25/2026 07:00:00,Gross Domestic Product w.d.a (YoY),MEDIUM,EUR
+26926ff9-d47b-47da-bc14-5c383e152124,02/26/2026 07:00:00,GfK Consumer Confidence Survey,MEDIUM,EUR
 f659c8dc-68db-46a8-9ac7-219a24f52005,02/27/2026 07:00:00,Import Price Index (MoM),LOW,EUR
 20edabd7-1a6d-4f39-a1f6-328d7a470d77,02/27/2026 07:00:00,Import Price Index (YoY),LOW,EUR
 136f091e-7324-46ec-b644-744dfecea5ce,02/27/2026 07:00:00,Retail Sales (MoM),MEDIUM,EUR
@@ -214,21 +219,30 @@ f42be969-d2e5-4e3c-9cbb-2591f526dfb7,03/02/2026 08:55:00,HCOB Manufacturing PMI,
 233b848b-2c21-418b-a937-1a0a69b27381,03/04/2026 08:55:00,HCOB Services PMI,MEDIUM,EUR
 509b4628-577a-4486-b48e-caf2798118bd,03/05/2026 07:00:00,Factory Orders n.s.a. (YoY),MEDIUM,EUR
 5170da91-32a9-461b-8beb-45a38399ffc3,03/05/2026 07:00:00,Factory Orders s.a. (MoM),MEDIUM,EUR
+89577799-1ed5-4ad3-a5e7-abdbe38f99e8,03/06/2026 07:00:00,Industrial Production n.s.a. w.d.a. (YoY),MEDIUM,EUR
+08fb72dc-d6f6-483c-983d-435f9f99922a,03/06/2026 07:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
 fb02b6f3-d54b-405a-946f-b0869e69f6d1,03/09/2026 07:00:00,Exports (MoM),LOW,EUR
 5622d5af-399e-4a13-83e8-90ea15ba5124,03/09/2026 07:00:00,Imports (MoM),LOW,EUR
 f4e8de57-7d9c-41e8-b13f-9c4c731c1f13,03/09/2026 07:00:00,Trade Balance s.a.,MEDIUM,EUR
+2a348538-d862-4304-98f8-796198e34f0f,03/12/2026 13:30:00,Current Account n.s.a.,LOW,EUR
 0d8b9a26-a070-4c08-865b-fa7cc5f4c3e9,03/13/2026 07:00:00,Consumer Price Index (MoM),LOW,EUR
 98b32629-595d-4f64-88d5-026780ca3d86,03/13/2026 07:00:00,Consumer Price Index (YoY),LOW,EUR
 87ac6b9a-86f3-4ce3-88a6-3587ffbd1e30,03/13/2026 07:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 5bfc6520-4cc0-458d-91b7-ddeebe7693e4,03/13/2026 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+eb675942-460a-4e3b-96ba-3e6af52a005c,03/13/2026 07:00:00,Wholesale Price Index (MoM),LOW,EUR
+9d6e2696-5d78-4c2c-8615-789cbeab661b,03/13/2026 07:00:00,Wholesale Price Index (YoY),LOW,EUR
+fc412cbc-de3e-4190-9554-13ed1d080393,03/16/2026 11:00:00,German Buba Monthly Report,MEDIUM,EUR
 0432910d-f7c7-44bc-84d8-fb51c44de50e,03/17/2026 10:00:00,ZEW Survey – Current Situation,MEDIUM,EUR
 a3a307dc-3e8d-439d-b975-df0d772d0ab8,03/17/2026 10:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
+416ceb49-495d-4474-b482-a722bfca36cb,03/20/2026 07:00:00,Producer Price Index (MoM),MEDIUM,EUR
+f580e7be-519b-4563-ae5e-b9c6dfb41b0d,03/20/2026 07:00:00,Producer Price Index (YoY),MEDIUM,EUR
 9c3b0139-0dfd-4ab2-bec4-5c8331f81997,03/24/2026 08:30:00,HCOB Composite PMI,HIGH,EUR
 3327ec10-59d6-48bd-8373-e6e4c9e4153d,03/24/2026 08:30:00,HCOB Manufacturing PMI,HIGH,EUR
 dd03c5e1-8467-4de8-929a-e8ebfa740ac7,03/24/2026 08:30:00,HCOB Services PMI,HIGH,EUR
 e186c98e-bbe7-4656-a681-15ae4754ebaa,03/24/2026 09:00:00,IFO – Business Climate,MEDIUM,EUR
 3695838d-72e4-4016-9859-8b146e354b89,03/24/2026 09:00:00,IFO – Current Assessment,MEDIUM,EUR
 4c84f370-fcfa-4903-aa7f-5b3cc61847a2,03/24/2026 09:00:00,IFO – Expectations,MEDIUM,EUR
+99933da1-dda5-4924-b5b9-ad0c949508b2,03/26/2026 07:00:00,GfK Consumer Confidence Survey,MEDIUM,EUR
 e939dfcf-ba4a-4677-af75-bfcfcbbd2d57,03/30/2026 12:00:00,Consumer Price Index (MoM),HIGH,EUR
 7a3d8b60-d1ad-46bd-8889-775ec391f594,03/30/2026 12:00:00,Consumer Price Index (YoY),HIGH,EUR
 31eca3f8-07f7-4f1a-b0d0-70bec3e227df,03/30/2026 12:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
@@ -256,6 +270,8 @@ d760ede4-d83f-4195-9a4b-5fd730d26776,04/01/2026 07:55:00,HCOB Manufacturing PMI,
 6ce8205c-bdcc-472b-8c2e-a62da6cf6fbd,04/03/2026 07:55:00,HCOB Services PMI,MEDIUM,EUR
 2e9686a6-49f5-40d4-8607-65246305a44d,04/06/2026 06:00:00,Exports (MoM),LOW,EUR
 0d4838a6-7ddf-4515-b735-dc21fa427a61,04/06/2026 06:00:00,Imports (MoM),LOW,EUR
+b8bf483c-7bbd-4c3b-81e8-5fd8cb878234,04/06/2026 06:00:00,Industrial Production n.s.a. w.d.a. (YoY),MEDIUM,EUR
+426da9d8-a790-4c88-a8b0-40de3930002a,04/06/2026 06:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
 bc735f11-99df-43ab-a25d-e32fe393cdd6,04/06/2026 06:00:00,Trade Balance s.a.,MEDIUM,EUR
 ecf31458-b5b2-4e5c-a57d-3caa75913be6,04/07/2026 06:00:00,Factory Orders n.s.a. (YoY),MEDIUM,EUR
 f833e968-d7e2-4b40-b3e3-6d6de39c8737,04/07/2026 06:00:00,Factory Orders s.a. (MoM),MEDIUM,EUR
@@ -263,14 +279,21 @@ da18c14a-6341-4cbf-a724-96e08cd2aca5,04/10/2026 06:00:00,Consumer Price Index (M
 f61601c4-d231-4ad7-99e8-5cae55965100,04/10/2026 06:00:00,Consumer Price Index (YoY),LOW,EUR
 c2f18e9a-b834-4391-a257-3fdfe46fbdb0,04/10/2026 06:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 2223bdb9-a59c-4883-bbde-a7556a378438,04/10/2026 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+e3cf311f-9254-470b-ba1a-ca07d5051f2c,04/13/2026 12:30:00,Current Account n.s.a.,LOW,EUR
+204a8d39-cedb-416e-a417-79ce6e2602c4,04/14/2026 06:00:00,Wholesale Price Index (MoM),LOW,EUR
+b6400a69-9cd2-4f98-9f86-504a2076b4e9,04/14/2026 06:00:00,Wholesale Price Index (YoY),LOW,EUR
 52308861-7817-4623-ab3a-fde4d2aca840,04/14/2026 09:00:00,ZEW Survey – Current Situation,MEDIUM,EUR
 c3a0ac4e-ee75-4854-a259-d2984b3d8193,04/14/2026 09:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
+3f8535fa-b3e0-4cc4-b712-d19f1d8faff6,04/20/2026 06:00:00,Producer Price Index (MoM),MEDIUM,EUR
+23cb8d62-a0d1-47e8-8ef9-5b50fa4a5a5a,04/20/2026 06:00:00,Producer Price Index (YoY),MEDIUM,EUR
+3216d8b1-6a65-430d-a93b-1b3451815956,04/20/2026 10:00:00,German Buba Monthly Report,MEDIUM,EUR
 f43abcce-da5e-4dad-b93f-fd8fb797bde5,04/24/2026 07:30:00,HCOB Composite PMI,HIGH,EUR
 9bd7f85c-2839-45e6-83e0-8dc0452c7b9e,04/24/2026 07:30:00,HCOB Manufacturing PMI,HIGH,EUR
 a1bd88c0-9552-4836-9057-40229628d29d,04/24/2026 07:30:00,HCOB Services PMI,HIGH,EUR
 74fc7f00-fee4-487e-8727-b826ff6822a9,04/24/2026 08:00:00,IFO – Business Climate,MEDIUM,EUR
 6c52e5e9-a7bc-40d2-ab16-2e1c6074150b,04/24/2026 08:00:00,IFO – Current Assessment,MEDIUM,EUR
 86142df2-743e-4ca5-9197-fcc772c3bd1f,04/24/2026 08:00:00,IFO – Expectations,MEDIUM,EUR
+f7af27fe-6c49-4536-b712-5e5d8f77d5e0,04/28/2026 06:00:00,GfK Consumer Confidence Survey,MEDIUM,EUR
 8edf8beb-4d54-4ac2-9127-e6763af1ecf2,04/30/2026 06:00:00,Gross Domestic Product (QoQ),HIGH,EUR
 618e7daf-b716-4632-894d-cb22ba32632e,04/30/2026 06:00:00,Gross Domestic Product (YoY),HIGH,EUR
 51f7f34f-a171-4d3e-bdc2-f0624118d7aa,04/30/2026 06:00:00,Gross Domestic Product w.d.a (YoY),MEDIUM,EUR
@@ -303,19 +326,28 @@ f718c858-8b07-4748-9a24-26cf0d096afa,05/05/2026 07:55:00,HCOB Services PMI,MEDIU
 ebc03819-8acd-4625-81b5-8b93618e1eeb,05/06/2026 06:00:00,Factory Orders s.a. (MoM),MEDIUM,EUR
 5417005c-b4f4-46e7-a46a-a108dd12b26d,05/07/2026 06:00:00,Exports (MoM),LOW,EUR
 2609765b-aa17-4005-869f-7b238fc26bf4,05/07/2026 06:00:00,Imports (MoM),LOW,EUR
+4139e745-73d3-4a3c-a0dc-3a8bf62957a0,05/07/2026 06:00:00,Industrial Production n.s.a. w.d.a. (YoY),MEDIUM,EUR
+fc9c26fb-137c-400c-853b-7718ae682162,05/07/2026 06:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
 3580f2e9-ee9c-4011-afad-3c5da6c57b0b,05/07/2026 06:00:00,Trade Balance s.a.,MEDIUM,EUR
+65ee487e-0d4b-4c6a-a0a9-3adb4ac8679c,05/12/2026 12:30:00,Current Account n.s.a.,LOW,EUR
 bc56330e-6296-4596-b1a9-8a975f7cb8b1,05/15/2026 06:00:00,Consumer Price Index (MoM),LOW,EUR
 59b81362-f19c-45f1-afd8-73542d58789f,05/15/2026 06:00:00,Consumer Price Index (YoY),LOW,EUR
 e0920c2e-ca2a-475c-af78-b27c8f70b16c,05/15/2026 06:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 50e97eb3-c70d-4d35-b43a-3b942f9ff12b,05/15/2026 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+9d8768c5-31f4-46d0-abb9-49cd45cc092f,05/15/2026 06:00:00,Wholesale Price Index (MoM),LOW,EUR
+41acfa25-ff25-47be-a2dd-125b30c5d049,05/15/2026 06:00:00,Wholesale Price Index (YoY),LOW,EUR
+34592f74-e8c7-448c-bcc3-e13f3915aef1,05/18/2026 10:00:00,German Buba Monthly Report,MEDIUM,EUR
 5f98030c-3065-425a-b226-73d6c00cf68e,05/19/2026 09:00:00,ZEW Survey – Current Situation,MEDIUM,EUR
 6da6109c-8bab-4734-9695-8701ca9f7939,05/19/2026 09:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
+b877e19b-9f50-402b-a78e-5c4accec9878,05/21/2026 06:00:00,Producer Price Index (MoM),MEDIUM,EUR
+d43afbb6-df7d-4e1c-9e39-95ceea6d96d0,05/21/2026 06:00:00,Producer Price Index (YoY),MEDIUM,EUR
 c1e0a86f-cfa5-4020-8769-eee9bcd8f3b8,05/22/2026 06:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR
 82009fb2-465d-4e0e-98db-e90a12ae0580,05/22/2026 06:00:00,Gross Domestic Product (YoY),MEDIUM,EUR
 fc7845fe-0cad-4638-a58f-4c93cb55ec4e,05/22/2026 06:00:00,Gross Domestic Product w.d.a (YoY),MEDIUM,EUR
 472ff7f1-a531-4c01-b9b9-4dfae9a0c926,05/22/2026 07:30:00,HCOB Composite PMI,HIGH,EUR
 a9c665df-69c6-4494-abeb-35b89e9f1764,05/22/2026 07:30:00,HCOB Manufacturing PMI,HIGH,EUR
 158ccb3c-575f-49fe-b7c3-202b406dbb3a,05/22/2026 07:30:00,HCOB Services PMI,HIGH,EUR
+9b3ca7cf-5fcf-40e3-8749-667d92569f9c,05/27/2026 06:00:00,GfK Consumer Confidence Survey,MEDIUM,EUR
 946be8b0-f066-4d7f-89c0-27b5243251fa,05/27/2026 08:00:00,IFO – Business Climate,MEDIUM,EUR
 6b1b5b08-8576-4543-9a7b-e897cb273ab1,05/27/2026 08:00:00,IFO – Current Assessment,MEDIUM,EUR
 1d9011da-43bc-42f7-9074-442a633d4a47,05/27/2026 08:00:00,IFO – Expectations,MEDIUM,EUR
@@ -348,16 +380,25 @@ deac0d37-cc5a-4c41-8667-c75775ac76f7,06/03/2026 07:55:00,HCOB Composite PMI,MEDI
 42a01d51-6903-45c0-b07c-d87a26dbd6ba,06/05/2026 06:00:00,Factory Orders s.a. (MoM),MEDIUM,EUR
 4ea80b38-ffc9-483c-ac8e-aba344674e0f,06/08/2026 06:00:00,Exports (MoM),LOW,EUR
 be36e3cb-aec9-4b3c-a5e3-ea8f82a75c78,06/08/2026 06:00:00,Imports (MoM),LOW,EUR
+7eddb7ac-1229-4cbc-95ae-c85c06c13516,06/08/2026 06:00:00,Industrial Production n.s.a. w.d.a. (YoY),MEDIUM,EUR
+fa9d40e0-2613-4e60-976f-247d86af430d,06/08/2026 06:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
 2553009a-1f5b-45ac-aba7-c17e4389ff6b,06/08/2026 06:00:00,Trade Balance s.a.,MEDIUM,EUR
+31a9720b-6a82-4561-9614-f85218918616,06/11/2026 12:30:00,Current Account n.s.a.,LOW,EUR
 d461ca8b-3376-4f3d-b55b-be7fa2184d99,06/12/2026 06:00:00,Consumer Price Index (MoM),LOW,EUR
 b875d1cb-fdb4-421c-bb31-851ca2574419,06/12/2026 06:00:00,Consumer Price Index (YoY),LOW,EUR
 f5e2e0cd-3c5b-40ab-b097-627d0ec4d014,06/12/2026 06:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 d5f24d34-9aad-4428-bf8a-1c84b1e34037,06/12/2026 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+f8525b40-0faf-46b4-96c0-35eff7bcc092,06/15/2026 06:00:00,Wholesale Price Index (MoM),LOW,EUR
+95065c2f-7a43-42e6-837c-5563b87f1c32,06/15/2026 06:00:00,Wholesale Price Index (YoY),LOW,EUR
 74fba07d-e47d-4afe-885f-a11583c9263c,06/16/2026 09:00:00,ZEW Survey – Current Situation,MEDIUM,EUR
 b3d4f2cd-2e7d-4619-b902-fb917107d73c,06/16/2026 09:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
+fdc116ee-b0ac-4f0b-8808-50bf43eb65ce,06/19/2026 06:00:00,Producer Price Index (MoM),MEDIUM,EUR
+becd6d32-41d5-49a5-bd12-490591ebf775,06/19/2026 06:00:00,Producer Price Index (YoY),MEDIUM,EUR
+adfe8c6b-4b86-4915-9cf8-ea981d91e28b,06/22/2026 10:00:00,German Buba Monthly Report,MEDIUM,EUR
 0f6007bb-89a9-41d9-96b8-cb3da08c1c3d,06/24/2026 07:30:00,HCOB Composite PMI,HIGH,EUR
 de403ef8-bd21-44dc-9c77-f0476a429f33,06/24/2026 07:30:00,HCOB Manufacturing PMI,HIGH,EUR
 571e5622-4d2b-44b5-8d02-2776604a98ce,06/24/2026 07:30:00,HCOB Services PMI,HIGH,EUR
+da630a63-31ca-43f5-a08e-44d5533ca81b,06/25/2026 06:00:00,GfK Consumer Confidence Survey,MEDIUM,EUR
 2de213d4-e78f-4b11-b55c-e3c03f0b06b3,06/25/2026 08:00:00,IFO – Business Climate,MEDIUM,EUR
 ca5495a0-b79c-4e7b-90be-8f35820f724d,06/25/2026 08:00:00,IFO – Current Assessment,MEDIUM,EUR
 f67f4ee7-cad7-4dc8-bbd8-8cd716c0ff88,06/25/2026 08:00:00,IFO – Expectations,MEDIUM,EUR
@@ -390,11 +431,19 @@ f9827ed3-e0c6-45d1-9fb7-d2f49497d3c6,07/03/2026 07:55:00,HCOB Services PMI,MEDIU
 128bc1d1-912d-4c7a-8b00-53a905fe1770,07/07/2026 06:00:00,Factory Orders s.a. (MoM),MEDIUM,EUR
 f91c547c-d975-4c6d-a694-42c8eb08135c,07/09/2026 06:00:00,Exports (MoM),LOW,EUR
 c9b5b2b1-88ca-4fa1-bfec-74f7a4a1be66,07/09/2026 06:00:00,Imports (MoM),LOW,EUR
+084d8bd7-cc87-4e85-9cdc-5b89060b9598,07/09/2026 06:00:00,Industrial Production n.s.a. w.d.a. (YoY),MEDIUM,EUR
+4acf529b-6f78-4e56-983f-3e2273ad6246,07/09/2026 06:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
 0a08b523-c55b-482c-befb-509d4011e534,07/09/2026 06:00:00,Trade Balance s.a.,MEDIUM,EUR
+77db3851-54b0-4d0c-99c5-31b2ea96893c,07/13/2026 06:00:00,Wholesale Price Index (MoM),LOW,EUR
+17639747-6972-459e-92eb-99c9b5129195,07/13/2026 06:00:00,Wholesale Price Index (YoY),LOW,EUR
+2d20346a-d41c-4d29-a73f-e2125202772a,07/13/2026 12:30:00,Current Account n.s.a.,LOW,EUR
 95f51b7c-aae0-46f7-ab02-40ee5b35c4f8,07/14/2026 06:00:00,Consumer Price Index (MoM),LOW,EUR
 10c56b91-80ab-4061-9cdc-cb1d27d263c1,07/14/2026 06:00:00,Consumer Price Index (YoY),LOW,EUR
 b71dceb1-15c1-48e7-be4c-3ffd28109767,07/14/2026 06:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 10bf2c44-4557-4c11-b9e1-0ad333e36fc9,07/14/2026 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+598dfb9b-64fb-4b87-9388-abcd94bcafe2,07/20/2026 10:00:00,German Buba Monthly Report,MEDIUM,EUR
+67b6d595-9b0a-4165-bfb7-e790f7c892db,07/21/2026 06:00:00,Producer Price Index (MoM),MEDIUM,EUR
+0bc904ca-61e0-41ad-bd6f-31c79c9165c0,07/21/2026 06:00:00,Producer Price Index (YoY),MEDIUM,EUR
 a11675dd-b61c-459f-bf52-faf13557ffd1,07/21/2026 09:00:00,ZEW Survey – Current Situation,MEDIUM,EUR
 3e2eed38-3be9-4f54-932d-8cb92ec7da57,07/21/2026 09:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
 99d972bf-d756-4059-8ce5-adc27142f5ed,07/23/2026 07:30:00,HCOB Composite PMI,HIGH,EUR
@@ -403,6 +452,7 @@ dac6d42b-7262-4417-8e32-51a92645745c,07/23/2026 07:30:00,HCOB Manufacturing PMI,
 01e5739f-8a5c-43d0-9466-c2beae9fb68b,07/27/2026 08:00:00,IFO – Business Climate,MEDIUM,EUR
 a52eba11-7a07-4142-96e2-c60943afb777,07/27/2026 08:00:00,IFO – Current Assessment,MEDIUM,EUR
 de1249e3-7f4d-4c2f-bb68-185664711ace,07/27/2026 08:00:00,IFO – Expectations,MEDIUM,EUR
+5ceec16e-2647-428c-b1d4-f9a0c47ac1a6,07/28/2026 06:00:00,GfK Consumer Confidence Survey,MEDIUM,EUR
 8be7d905-cc24-4855-889d-27a7a6ac6682,07/30/2026 06:00:00,Gross Domestic Product (QoQ),HIGH,EUR
 1d0fb1f6-5f1b-458e-8d44-3bb7ba0a148f,07/30/2026 06:00:00,Gross Domestic Product (YoY),HIGH,EUR
 16cf5b96-08fb-48c4-9827-85452d82f5a3,07/30/2026 06:00:00,Gross Domestic Product w.d.a (YoY),MEDIUM,EUR
@@ -435,19 +485,28 @@ add3714a-f2cc-4d71-8adc-77974e9f95af,08/05/2026 07:55:00,HCOB Services PMI,MEDIU
 ae60b349-2cf1-432d-9786-10430c3d707f,08/06/2026 06:00:00,Factory Orders n.s.a. (YoY),MEDIUM,EUR
 4f3810b5-0008-4ff4-9c7c-4091d5f9d0ab,08/06/2026 06:00:00,Factory Orders s.a. (MoM),MEDIUM,EUR
 2f3f229b-3271-42a8-b81d-1fd6bdc98a55,08/06/2026 06:00:00,Imports (MoM),LOW,EUR
+38c77d55-8370-420a-af46-54ffc475957a,08/06/2026 06:00:00,Industrial Production n.s.a. w.d.a. (YoY),MEDIUM,EUR
+0cd4655c-f82a-43aa-a965-93f1539b9cfb,08/06/2026 06:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
 384157d7-9c60-4640-92b9-1c293fcf7633,08/06/2026 06:00:00,Trade Balance s.a.,MEDIUM,EUR
 a7314dab-5cf2-48a4-92c6-db541bd81afc,08/11/2026 06:00:00,Consumer Price Index (MoM),LOW,EUR
 28a4fd56-e7fd-411f-b8b5-546c0f9331d7,08/11/2026 06:00:00,Consumer Price Index (YoY),LOW,EUR
 68bfcadd-a17b-42be-b13c-ce4df93aa401,08/11/2026 06:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 72b99f3f-a194-4b9d-b907-1ea4fac6d508,08/11/2026 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+5a936387-b73a-4e96-8972-61e70169035c,08/12/2026 12:30:00,Current Account n.s.a.,LOW,EUR
+6265eac2-7d75-4457-b9cb-d947d309c604,08/14/2026 06:00:00,Wholesale Price Index (MoM),LOW,EUR
+b7a81121-1076-41d3-ae74-b16bcd62ea07,08/14/2026 06:00:00,Wholesale Price Index (YoY),LOW,EUR
+bc25a980-9320-4bfa-a5aa-bd7c7966319e,08/17/2026 10:00:00,German Buba Monthly Report,MEDIUM,EUR
 a87e2f7c-35ab-4a5d-8781-e9fa63c81441,08/18/2026 09:00:00,ZEW Survey – Current Situation,MEDIUM,EUR
 b05ef84e-ba1b-470d-8f42-c9801f5fc352,08/18/2026 09:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
+cc135ed0-e030-4ed7-a96f-51ded0980cb3,08/20/2026 06:00:00,Producer Price Index (MoM),MEDIUM,EUR
+92cc8e25-a4e2-4078-9db5-3ec7922ac1ee,08/20/2026 06:00:00,Producer Price Index (YoY),MEDIUM,EUR
 138116a5-a317-47e9-929b-e06b13059a51,08/21/2026 06:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR
 9da80988-24c6-4197-b7a6-de3104bf681d,08/21/2026 06:00:00,Gross Domestic Product (YoY),MEDIUM,EUR
 51c5fc00-0705-4991-ae28-aca406f4718a,08/21/2026 06:00:00,Gross Domestic Product w.d.a (YoY),MEDIUM,EUR
 1355ad81-c48c-4955-87dc-57595388ea10,08/21/2026 07:30:00,HCOB Composite PMI,HIGH,EUR
 84c65994-c070-4566-9643-4a293899971a,08/21/2026 07:30:00,HCOB Manufacturing PMI,HIGH,EUR
 a2b044a3-f59e-4c2d-8ea7-242002a721fc,08/21/2026 07:30:00,HCOB Services PMI,HIGH,EUR
+d3d90aba-c193-4555-81fd-39d9bff98162,08/27/2026 06:00:00,GfK Consumer Confidence Survey,MEDIUM,EUR
 93fd768e-1adf-47ce-9045-e62d1e28e5e2,08/27/2026 08:00:00,IFO – Business Climate,MEDIUM,EUR
 456ece35-d9d5-4e92-a56f-a8235f3790aa,08/27/2026 08:00:00,IFO – Current Assessment,MEDIUM,EUR
 a1043858-31d7-404e-b479-3e1833f90597,08/27/2026 08:00:00,IFO – Expectations,MEDIUM,EUR
@@ -478,6 +537,8 @@ d6886fc6-994a-42b7-92a2-595a0951b96b,08/31/2026 12:00:00,Harmonized Index of Con
 965f3bd7-61a7-47b3-9cf0-917aedfdb568,09/03/2026 07:55:00,HCOB Services PMI,MEDIUM,EUR
 e141f749-6491-4086-ab35-5d4ccf72afab,09/08/2026 06:00:00,Factory Orders n.s.a. (YoY),MEDIUM,EUR
 3c3961df-c3a6-4f1d-8113-67139eec549c,09/08/2026 06:00:00,Factory Orders s.a. (MoM),MEDIUM,EUR
+8d6e5bef-8612-4535-8866-fa40d8776725,09/08/2026 06:00:00,Industrial Production n.s.a. w.d.a. (YoY),MEDIUM,EUR
+6f95c88d-761b-46d7-8474-0172ab1e06bf,09/08/2026 06:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
 a584d263-a2be-46f9-bb27-264d1586b3a0,09/09/2026 06:00:00,Exports (MoM),LOW,EUR
 51ed5739-66e3-4f9d-a5dd-9d81a2cd2695,09/09/2026 06:00:00,Imports (MoM),LOW,EUR
 772b129f-67d3-48d9-a9fa-d166522c48af,09/09/2026 06:00:00,Trade Balance s.a.,MEDIUM,EUR
@@ -485,14 +546,21 @@ a584d263-a2be-46f9-bb27-264d1586b3a0,09/09/2026 06:00:00,Exports (MoM),LOW,EUR
 65c97258-a8db-4f5b-adea-711bb086b36c,09/11/2026 06:00:00,Consumer Price Index (YoY),LOW,EUR
 1f784f15-7728-4c98-af7d-90ea0ae98e0a,09/11/2026 06:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 3d5d82b8-9c59-4cea-9878-50741b5303ee,09/11/2026 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+98e62ed8-5dc9-473c-a105-7ec77a770358,09/11/2026 12:30:00,Current Account n.s.a.,LOW,EUR
+e07d9688-46b5-4959-8f93-800fa00ead90,09/15/2026 06:00:00,Wholesale Price Index (MoM),LOW,EUR
+060d1319-083b-4c25-ac3c-a79b875e1ee4,09/15/2026 06:00:00,Wholesale Price Index (YoY),LOW,EUR
 7e47cc88-045a-4e93-8f09-44ba9b8171b7,09/15/2026 09:00:00,ZEW Survey – Current Situation,MEDIUM,EUR
 ca2d5d7f-6875-4d26-bdc8-05bed1e54d9d,09/15/2026 09:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
+d6c19367-de54-4e58-bc76-fedcc6608866,09/21/2026 06:00:00,Producer Price Index (MoM),MEDIUM,EUR
+ceeebd2c-b543-4307-9b94-fe08f403c12f,09/21/2026 06:00:00,Producer Price Index (YoY),MEDIUM,EUR
+1fc18db5-168f-45b2-9eff-009cb27559ed,09/21/2026 10:00:00,German Buba Monthly Report,MEDIUM,EUR
 4f973288-7134-4d91-ad78-1c08e8813000,09/24/2026 07:30:00,HCOB Composite PMI,HIGH,EUR
 105acd5b-d0b2-4302-a0fd-dd06579b9284,09/24/2026 07:30:00,HCOB Manufacturing PMI,HIGH,EUR
 cb33c3c9-700e-4ec7-afab-cf714ea820d2,09/24/2026 07:30:00,HCOB Services PMI,HIGH,EUR
 b0a0f051-abba-47ba-aa17-93a40fef90b6,09/24/2026 08:00:00,IFO – Business Climate,MEDIUM,EUR
 a6daf3fd-aadc-42be-826a-83212fc1f39c,09/24/2026 08:00:00,IFO – Current Assessment,MEDIUM,EUR
 c613d9e1-ebea-4253-9117-a01e9a6c7f3c,09/24/2026 08:00:00,IFO – Expectations,MEDIUM,EUR
+2e431c1f-8921-422b-a691-104fdc6098c5,09/29/2026 06:00:00,GfK Consumer Confidence Survey,MEDIUM,EUR
 4ae1339b-c379-4251-812a-50a74a833a3d,09/30/2026 06:00:00,Import Price Index (MoM),LOW,EUR
 bd6bb389-b076-4400-8688-1d85481137e0,09/30/2026 06:00:00,Import Price Index (YoY),LOW,EUR
 aff7ff26-9949-4841-b105-a27a12a0cc56,09/30/2026 06:00:00,Retail Sales (MoM),MEDIUM,EUR
@@ -522,16 +590,28 @@ d34f3b96-9b86-4fa2-85aa-4b6da32f8ea6,10/06/2026 06:00:00,Factory Orders n.s.a. (
 e2304e47-45b6-4201-b7f6-66ca420a2f8a,10/06/2026 06:00:00,Factory Orders s.a. (MoM),MEDIUM,EUR
 e72e6290-c24c-437a-97a8-7723d787d310,10/08/2026 06:00:00,Exports (MoM),LOW,EUR
 4d32725c-6fcd-4082-8518-2b83b8f4b9e9,10/08/2026 06:00:00,Imports (MoM),LOW,EUR
+37feb17d-a9bc-49cd-a856-835e468b3fc1,10/08/2026 06:00:00,Industrial Production n.s.a. w.d.a. (YoY),MEDIUM,EUR
+6c099015-225c-41c7-a1a1-8a2f70affedb,10/08/2026 06:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
 47b61a07-2bd6-48d2-9e1a-59823a516083,10/08/2026 06:00:00,Trade Balance s.a.,MEDIUM,EUR
+ece274e7-a30d-4e4c-96d9-ed0842dfb1bf,10/12/2026 12:30:00,Current Account n.s.a.,LOW,EUR
+7bd74517-4e98-460b-a381-233e01a5e198,10/15/2026 06:00:00,Wholesale Price Index (MoM),LOW,EUR
+65157e98-c046-4309-9850-ff102745d881,10/15/2026 06:00:00,Wholesale Price Index (YoY),LOW,EUR
 7b3cc937-e765-4547-af96-bf73b281d738,10/16/2026 06:00:00,Consumer Price Index (MoM),LOW,EUR
 72649091-3592-4be6-a316-753972fe535b,10/16/2026 06:00:00,Consumer Price Index (YoY),LOW,EUR
 7aee7eb6-0a06-4d22-9a94-0e4024053eed,10/16/2026 06:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 3464375f-a0f0-45fa-bb3c-9d1c3e03000a,10/16/2026 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+88a888bb-6440-42ad-ac6f-72aeb6b8500e,10/19/2026 10:00:00,German Buba Monthly Report,MEDIUM,EUR
+060f43de-ad06-4210-9c63-dd80744de87a,10/20/2026 06:00:00,Producer Price Index (MoM),MEDIUM,EUR
+51111593-79ef-4962-872b-bf308ff59d2b,10/20/2026 06:00:00,Producer Price Index (YoY),MEDIUM,EUR
 eace7dfe-5c70-44ef-8e0b-85cf7a516185,10/20/2026 09:00:00,ZEW Survey – Current Situation,MEDIUM,EUR
 bb41a99b-c00a-4385-91c7-fc273097caa8,10/20/2026 09:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
+2b9c2313-2397-4d68-b9ab-69e3e91f0144,10/23/2026 07:30:00,HCOB Composite PMI,HIGH,EUR
+017ccfcc-d563-44b3-8b76-bb0c2e7215b4,10/23/2026 07:30:00,HCOB Manufacturing PMI,HIGH,EUR
+0eb454ec-477a-4831-913a-4adaa882984e,10/23/2026 07:30:00,HCOB Services PMI,HIGH,EUR
 b26e009c-b8f8-462c-aeaa-9d689fa3811f,10/27/2026 09:00:00,IFO – Business Climate,MEDIUM,EUR
 cc132ba9-0a34-4178-9b86-c036f2bc4e0a,10/27/2026 09:00:00,IFO – Current Assessment,MEDIUM,EUR
 1e76ab5c-6dd6-40e4-8f0d-c74ae8bedac9,10/27/2026 09:00:00,IFO – Expectations,MEDIUM,EUR
+56b8ffe0-9c43-49fd-b882-1f6059a649fe,10/28/2026 07:00:00,GfK Consumer Confidence Survey,MEDIUM,EUR
 84d0b0b0-1302-4a98-93c3-bd17895edfff,10/30/2026 07:00:00,Gross Domestic Product (QoQ),HIGH,EUR
 6211a08d-0a37-416e-a4b5-0a4bd9f49ebb,10/30/2026 07:00:00,Gross Domestic Product (YoY),HIGH,EUR
 b3a3d110-97fd-4e37-8cdd-c1c140f7962e,10/30/2026 07:00:00,Gross Domestic Product w.d.a (YoY),MEDIUM,EUR
@@ -564,16 +644,31 @@ d908e1f2-f331-4e7b-8bca-aec7b3cca1f8,11/05/2026 07:00:00,Factory Orders n.s.a. (
 af418b3d-7247-41c7-be9f-52b7930a3c44,11/05/2026 07:00:00,Factory Orders s.a. (MoM),MEDIUM,EUR
 724946eb-fadb-4f3b-bc54-5c8f5b0fa105,11/06/2026 07:00:00,Exports (MoM),LOW,EUR
 0c47eef9-c2b3-4bba-800f-1f12c8c804ab,11/06/2026 07:00:00,Imports (MoM),LOW,EUR
+3dc06aa1-5171-4a99-bc7c-6dee73442ca6,11/06/2026 07:00:00,Industrial Production n.s.a. w.d.a. (YoY),MEDIUM,EUR
+8f102196-003f-46d6-a8f7-6ac3633d6bbd,11/06/2026 07:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
 b58b2784-86fc-43d2-8f24-c7ee4b6b72ab,11/06/2026 07:00:00,Trade Balance s.a.,MEDIUM,EUR
+736ba35c-a7e1-4f3f-89fd-d5e6cdb6e32d,11/12/2026 13:30:00,Current Account n.s.a.,LOW,EUR
 2f84207a-324d-4c50-81bc-c0cedce57096,11/13/2026 07:00:00,Consumer Price Index (MoM),LOW,EUR
 29a414de-2eec-4e0c-9d27-e982256a7287,11/13/2026 07:00:00,Consumer Price Index (YoY),LOW,EUR
 d158d01f-14bf-40b1-8e6e-b107d35a0930,11/13/2026 07:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 82f81c83-7d8e-4df8-a0e4-fa3c754ec326,11/13/2026 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+9122f10f-2be6-46d4-b1cd-9d9257bf41dd,11/13/2026 07:00:00,Wholesale Price Index (MoM),LOW,EUR
+ddb842e7-a09a-49a7-8f6b-11087bfcd21f,11/13/2026 07:00:00,Wholesale Price Index (YoY),LOW,EUR
+f367f781-0c64-4043-88ff-cf2e274dfc69,11/16/2026 11:00:00,German Buba Monthly Report,MEDIUM,EUR
 e06130a7-3357-4220-9f33-d6864e4fd4c9,11/17/2026 10:00:00,ZEW Survey – Current Situation,MEDIUM,EUR
 a403f424-740d-4aab-abd2-5fc35d8f21b6,11/17/2026 10:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
+82431d39-a250-428d-83a4-c238190127a4,11/20/2026 07:00:00,Producer Price Index (MoM),MEDIUM,EUR
+cf1a51e5-5c6a-4c69-a56f-ed75f13f279d,11/20/2026 07:00:00,Producer Price Index (YoY),MEDIUM,EUR
+51a607ae-8549-402c-9bc5-97af8bb9182d,11/24/2026 08:30:00,HCOB Composite PMI,HIGH,EUR
+e9326071-1ffc-4c94-9af6-8850136e4f61,11/24/2026 08:30:00,HCOB Manufacturing PMI,HIGH,EUR
+e6ea5545-7b54-4d8d-ad02-829080a985f8,11/24/2026 08:30:00,HCOB Services PMI,HIGH,EUR
+bb6958b8-75f9-4d5f-b6e4-85a66c2b3419,11/25/2026 07:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR
+0623ca07-d118-4939-8017-ab5524032010,11/25/2026 07:00:00,Gross Domestic Product (YoY),MEDIUM,EUR
+b4f9f540-81e2-4956-8c53-6e606f5fe08c,11/25/2026 07:00:00,Gross Domestic Product w.d.a (YoY),MEDIUM,EUR
 266e779c-b4c3-471c-90a0-6a37709d39e9,11/25/2026 09:00:00,IFO – Business Climate,MEDIUM,EUR
 aa48cb3e-c34e-4d29-bd76-8d9ac8b7edf6,11/25/2026 09:00:00,IFO – Current Assessment,MEDIUM,EUR
 521c5214-ac5c-4271-a5e8-b28c76bb14cf,11/25/2026 09:00:00,IFO – Expectations,MEDIUM,EUR
+91147c54-976a-48e9-b537-2c8b613c49ab,11/27/2026 07:00:00,GfK Consumer Confidence Survey,MEDIUM,EUR
 3033ecec-c2de-46c8-8c72-88871aabc101,11/27/2026 07:00:00,Import Price Index (MoM),LOW,EUR
 cc25182e-9821-4ed8-b2e3-e220875b0d79,11/27/2026 07:00:00,Import Price Index (YoY),LOW,EUR
 398272df-ff99-4199-9881-410812af33f7,11/27/2026 08:55:00,Unemployment Change,MEDIUM,EUR

@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-9de733bc-49ca-4481-8d55-3a28428229fa,11/04/2025 07:40:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
-f0b04bc3-3e65-4ca4-9310-11546caca62c,11/04/2025 09:00:00,ECB's Escrivá speech,HIGH,EUR,Speech,0.552,Monetary Policy
-7a2787b4-fc89-4090-b580-5ca9bd3cbedc,11/04/2025 09:45:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
-e2af3479-fa72-481d-80c4-e8fead6e69ac,11/04/2025 17:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 1699fa82-2c63-4704-bdd4-de3afa8bcc8b,11/05/2025 09:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 e44a87d3-dfd5-4d3a-99b4-10557b54a2b1,11/05/2025 09:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 190ad116-986d-4b0e-936d-661f7cd8426b,11/05/2025 10:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
@@ -13,8 +9,6 @@ b7782f00-84a2-4304-8438-f68f389459c7,11/05/2025 10:00:00,Producer Price Index (M
 d7ec880b-6fdc-4d34-99f4-6bb687292742,11/06/2025 08:30:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
 5a176048-2da9-4116-99d6-99a53db0e1d3,11/06/2025 10:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
 d916f565-f368-4571-b89e-eeb09b165119,11/06/2025 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
-32250bb4-9411-429c-b1f7-86cf92045d2d,11/06/2025 10:15:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-43890763-118d-45ff-bb9e-cfd49c79cedb,11/06/2025 10:15:00,ECB's Villeroy speech,HIGH,EUR,Speech,0.552,Monetary Policy
 4ccc5283-1196-4cb5-b2d6-0d42d981ad15,11/06/2025 12:30:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 b895fbd8-2ecd-4acb-8ab8-ae98da56445b,11/06/2025 14:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 61d4859b-d00e-419f-9357-487049274909,11/06/2025 18:30:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy

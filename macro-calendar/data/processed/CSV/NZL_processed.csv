@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-8af2a5de-62a2-4e5a-bd82-5a58e5041e4f,11/04/2025 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
-b74d16ba-c0d7-4b32-861d-285ef14f1b49,11/04/2025 21:45:00,Employment Change,HIGH,NZD,Release,0.18,Labor Market
-bd6de8d9-da6f-4681-9e48-0c50f3185ab7,11/04/2025 21:45:00,Labour Cost Index (QoQ),HIGH,NZD,Release,0.18,Labor Market
-caee40f0-042a-40c4-9348-9aab898b660f,11/04/2025 21:45:00,Labour Cost Index (YoY),HIGH,NZD,Release,0.19,Inflation
-2d6eeb1e-f87d-4002-8cf7-99260147cb5c,11/04/2025 21:45:00,Participation Rate,HIGH,NZD,Release,0.18,Labor Market
-3e22cf56-10de-45d7-b66e-cc1d118cd2a1,11/04/2025 21:45:00,Unemployment Rate,HIGH,NZD,Release,0.18,Labor Market
 b0a2ddbd-29a0-4935-a390-b8f1a2f920f1,11/05/2025 00:00:00,ANZ Commodity Price,MEDIUM,NZD,Release,0.14,Confidence
 6289abb1-9d52-491c-b478-035757049cde,11/11/2025 02:00:00,RBNZ Inflation Expectations (QoQ),HIGH,NZD,Release,0.19,Inflation
 29e81d76-fd56-4d0f-8c6d-02d23b654325,11/12/2025 21:45:00,Electronic Card Retail Sales  (MoM),HIGH,NZD,Release,0.17,Growth
