@@ -1,11 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-1699fa82-2c63-4704-bdd4-de3afa8bcc8b,11/05/2025 09:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
-e44a87d3-dfd5-4d3a-99b4-10557b54a2b1,11/05/2025 09:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
-190ad116-986d-4b0e-936d-661f7cd8426b,11/05/2025 10:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-51b681fc-5bfb-4a63-ae54-5106e573ee5c,11/05/2025 10:00:00,ECB's Villeroy speech,HIGH,EUR,Speech,0.552,Monetary Policy
-b7782f00-84a2-4304-8438-f68f389459c7,11/05/2025 10:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-369ef432-872b-4ade-859d-e586bf6a8774,11/05/2025 10:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-258b3e90-950b-41f0-bac4-af5d5c57f2d3,11/06/2025 08:10:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
+258b3e90-950b-41f0-bac4-af5d5c57f2d3,11/06/2025 08:07:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 d7ec880b-6fdc-4d34-99f4-6bb687292742,11/06/2025 08:30:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
 5a176048-2da9-4116-99d6-99a53db0e1d3,11/06/2025 10:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
 d916f565-f368-4571-b89e-eeb09b165119,11/06/2025 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
@@ -17,6 +11,7 @@ bcc38439-17ad-4ecf-b4e9-8e4e2b79b37c,11/07/2025 09:30:00,ECB's Sleijpen speech,H
 a72870ea-cada-4456-b132-23873e2a4bb4,11/07/2025 13:30:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy
 e3efa2de-f460-4831-b95e-735dfb49509d,11/07/2025 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 e3ddb0eb-de92-4feb-be97-994b419762df,11/10/2025 09:30:00,Sentix Investor Confidence,HIGH,EUR,Release,0.595,Confidence
+386cd51c-faf1-48d4-b5fe-c973df38e988,11/11/2025 08:30:00,ECB's Sleijpen speech,HIGH,EUR,Speech,0.552,Monetary Policy
 587621d6-923d-4346-b068-429c1ceedb57,11/11/2025 10:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
 880e3e6b-01f7-4386-9a26-01abb6269333,11/13/2025 09:00:00,Economic Bulletin,HIGH,EUR,Release,0.85,Monetary Policy
 37b7469d-b5b3-4ca8-9bae-478a1e00e43c,11/13/2025 10:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth

@@ -1,6 +1,4 @@
 Id,Start,Name,Impact,Currency
-0b9fef36-af9f-4edb-96b4-e9f341743e80,11/05/2025 03:35:00,10-y Bond Auction,LOW,JPY
-9a16f4f0-fb02-4235-a4f1-70ff2a7df731,11/05/2025 23:30:00,Labor Cash Earnings (YoY),MEDIUM,JPY
 97adfa5b-fe1e-4946-9eb0-d47a9171f531,11/06/2025 00:30:00,Jibun Bank Services PMI,LOW,JPY
 fc24d4df-a21b-4c63-a1db-4dec16ba0a39,11/06/2025 23:30:00,Overall Household Spending (YoY),LOW,JPY
 cf40956d-26b4-41fa-8f4d-8342749817a9,11/06/2025 23:50:00,Foreign Bond Investment,LOW,JPY
@@ -211,10 +209,20 @@ d8cd816d-6d50-418b-b88f-51511c758750,01/30/2026 05:00:00,Construction Orders (Yo
 4f66658b-0e7c-47bc-bdeb-17fa164425a9,02/15/2026 23:50:00,Gross Domestic Product (QoQ),HIGH,JPY
 5503b33f-6d99-4352-87e7-ede0657c0cfd,02/15/2026 23:50:00,Gross Domestic Product Annualized,MEDIUM,JPY
 ef83fb25-8185-4ab3-abae-574d3d8817a4,02/15/2026 23:50:00,Gross Domestic Product Deflator (YoY),MEDIUM,JPY
+3dc6d2c2-7f4b-49fb-af25-8fc0ae230a30,02/18/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY
+871e8658-f5f6-4122-a0b7-287bad69b4bc,02/18/2026 23:50:00,Exports (YoY),MEDIUM,JPY
+c3b645d2-8a46-4305-b63e-ab5184e7bcfc,02/18/2026 23:50:00,Imports (YoY),MEDIUM,JPY
+67c7dbd3-5dcf-4d5e-959e-d34ebeaa985b,02/18/2026 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY
+851eddf6-0a2d-4d69-afb0-880cac4c1627,02/19/2026 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
+77bbb5b7-e50a-47e2-b25b-9f596abe69b3,02/19/2026 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
+a52051c9-5768-4244-8b83-a36c0f026688,02/19/2026 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
 2ffc663e-1a36-4c5c-afc0-6eb94993b714,02/20/2026 20:30:00,CFTC JPY NC Net Positions,LOW,JPY
 fe69fb8f-f745-4847-a170-0de04b40c421,02/26/2026 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 4e1db10e-085c-42d2-b9b8-2e13c0cdf89e,02/26/2026 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
 572d9659-0c18-49cb-bf60-d8a7ce665d3c,02/26/2026 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
+e05f00d2-8803-4673-b185-7e7e3edbd6bb,02/27/2026 05:00:00,Annualized Housing Starts,LOW,JPY
+5a4179bc-615c-4db6-9ca2-ae60ec61d6fd,02/27/2026 05:00:00,Construction Orders (YoY),LOW,JPY
+b0473e1b-7e3a-45d9-a0cd-00df745f62b2,02/27/2026 05:00:00,Housing Starts (YoY),LOW,JPY
 8db8430f-f152-4bde-896a-f66fb7996cc2,02/27/2026 20:30:00,CFTC JPY NC Net Positions,LOW,JPY
 2ffd140c-07ac-42be-8506-8a8cd558013e,03/01/2026 23:50:00,Capital Spending,LOW,JPY
 a0818dc8-a3cd-4d75-85af-77daa12bb9d1,03/06/2026 20:30:00,CFTC JPY NC Net Positions,LOW,JPY
@@ -223,11 +231,21 @@ f65945cb-f837-43f1-b177-d874b9b2fe01,03/09/2026 23:50:00,Gross Domestic Product 
 af240a0f-76db-4049-bf3f-ceb41648138e,03/09/2026 23:50:00,Gross Domestic Product Deflator (YoY),MEDIUM,JPY
 0ac6ec69-8421-4ab5-9dba-428a04a72794,03/11/2026 23:50:00,BSI Large Manufacturing Conditions Index (QoQ),LOW,JPY
 5e1541ef-fb63-4c97-af00-1428442164f7,03/13/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
+5f04459a-8583-4f6a-914f-9dfed9fc4b85,03/18/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY
+8fbcbcfa-326d-404e-b153-0c930ddfe774,03/18/2026 23:50:00,Exports (YoY),MEDIUM,JPY
+6328813a-abbc-4424-8069-fff80fc30573,03/18/2026 23:50:00,Imports (YoY),MEDIUM,JPY
+d6af43bd-1124-4c5b-a714-e00a8484534b,03/18/2026 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY
+dc3f6782-070a-45db-9f47-8c1b21157bfe,03/19/2026 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
+c436d1bd-80e6-40b9-85f6-0ead9c4bee28,03/19/2026 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
+7b014305-22ab-4929-b40f-b38a4e266b46,03/19/2026 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
 d3e772b3-0817-44c3-ad75-7d8349adc9a4,03/20/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 d04848e1-069c-4bd5-9d1c-ddef07168f24,03/27/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 1285ccfa-79c0-4781-9708-326c11da4e6b,03/30/2026 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 2472372e-c338-47d2-8718-d5eee24a66eb,03/30/2026 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
 804fd751-e588-4e0f-b852-1cd6b55bad5b,03/30/2026 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
+9f607ec3-9285-41da-9e76-0d99f9442dc4,03/31/2026 05:00:00,Annualized Housing Starts,LOW,JPY
+cd58a4fb-0dd9-4781-bd7e-f1d1c8272eb3,03/31/2026 05:00:00,Construction Orders (YoY),LOW,JPY
+3bd21773-8aa2-48a7-bf2a-d02f2f29902c,03/31/2026 05:00:00,Housing Starts (YoY),LOW,JPY
 aee21727-aa30-4a01-bfb6-3b16af633a0b,03/31/2026 23:50:00,Tankan Large All Industry Capex,MEDIUM,JPY
 eb9d0e6c-7323-4992-a667-40a354fb01ca,03/31/2026 23:50:00,Tankan Large Manufacturing Index,HIGH,JPY
 cb340927-23a9-4767-ad17-3a7559f1ed2c,03/31/2026 23:50:00,Tankan Large Manufacturing Outlook,MEDIUM,JPY
@@ -236,31 +254,61 @@ cb340927-23a9-4767-ad17-3a7559f1ed2c,03/31/2026 23:50:00,Tankan Large Manufactur
 3eacad9c-be11-443f-b6ee-3d1c4c3bff0a,04/03/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 a713a8f8-2b92-4d97-8c3a-02ffbbfd02b7,04/10/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 a845ebc2-e590-47b2-8ff5-9fc53837f33e,04/17/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
+ac6b5724-7062-49a0-8794-03f99eddc1e0,04/21/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY
+67961c99-9108-45c7-a4ca-56a7716e3d2a,04/21/2026 23:50:00,Exports (YoY),MEDIUM,JPY
+b10d6d4d-ca20-4f24-a11c-ef6bbf54d81e,04/21/2026 23:50:00,Imports (YoY),MEDIUM,JPY
+5aa3f96a-84a0-4957-b19f-9d7752c4799e,04/21/2026 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY
+dcf9e34f-00b1-47b2-96b2-ca7c544b7697,04/23/2026 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
+90b4565c-814e-4d36-84e3-b1667c998152,04/23/2026 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
+36b94cb6-b9c3-4b60-ba8d-35165b831333,04/23/2026 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
 69de3d04-2b73-4e9c-b3ab-48c679f8d97e,04/24/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 4e2b844f-4903-45d0-bfbf-37a0b86d4cd8,04/27/2026 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 7672c3c6-ab40-47ef-9754-9098e279e8d4,04/27/2026 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
 0db90a8a-3a34-4e5f-a0e9-312bbd128332,04/27/2026 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
+7de42bf5-83a1-4e6b-97db-6a430877d87e,04/30/2026 05:00:00,Annualized Housing Starts,LOW,JPY
+2e1cdab6-0022-4df7-b2c7-f80a6951214c,04/30/2026 05:00:00,Construction Orders (YoY),LOW,JPY
+df8d6921-37ae-4716-b75b-cc10580743fa,04/30/2026 05:00:00,Housing Starts (YoY),LOW,JPY
 d3c9de5c-3f90-49ec-a6e2-1bd92925ecf6,05/01/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 7d0e91ce-6577-4cea-87e5-20afc6a260dc,05/08/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 a7b1710e-2122-45df-b702-c126dda62e13,05/14/2026 23:50:00,Gross Domestic Product (QoQ),HIGH,JPY
 9c5288e1-4319-452a-a4e5-530a9873ac4d,05/14/2026 23:50:00,Gross Domestic Product Annualized,MEDIUM,JPY
 3735dec4-1439-43dc-8579-05dfde3b3846,05/14/2026 23:50:00,Gross Domestic Product Deflator (YoY),MEDIUM,JPY
 f5f9a10b-0b7f-41a7-9770-b3aa190078e7,05/15/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
+0dcdd0d3-a40d-49f4-a330-74e8276c9364,05/19/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY
+de758605-d714-448a-ba0c-8201aa1ec98e,05/19/2026 23:50:00,Exports (YoY),MEDIUM,JPY
+404bf631-440d-4f1c-809c-919cb8985118,05/19/2026 23:50:00,Imports (YoY),MEDIUM,JPY
+9ee3f9d9-cef8-433c-9e69-f93cb6ba3717,05/19/2026 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY
+7228f7da-6a33-4a6c-b3de-73cbd3a3083a,05/21/2026 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
+91528b3f-64d4-45fe-9ef2-d7232156fac2,05/21/2026 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
+0fb191ee-ad56-4773-963c-8803be87fdf2,05/21/2026 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
 e5d55160-2086-41b5-bc2e-d1770d892e8b,05/22/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 9038a6c0-f6f8-4d3a-b75e-b1d9cb05eb52,05/28/2026 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 f26fd11a-fdb3-4e83-97c8-c8f23ad5c8dd,05/28/2026 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
 46a89a48-bb7a-46d1-8026-4bf6d89d1853,05/28/2026 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
+a642c0e8-4f47-4af0-b078-5151933d88e4,05/29/2026 05:00:00,Annualized Housing Starts,LOW,JPY
+b638b2d2-4f74-4e83-b1e4-3e302be77d92,05/29/2026 05:00:00,Construction Orders (YoY),LOW,JPY
+372cc452-814a-4957-8ced-70e19c7c6dae,05/29/2026 05:00:00,Housing Starts (YoY),LOW,JPY
 eb5aa2c4-e004-45a6-890d-d5ecabd3ffcd,05/29/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 529d61ee-02e1-4699-b73e-d64d8fd72772,06/05/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 f4c4a221-b654-44b6-b9a2-41b9943b0113,06/07/2026 23:50:00,Gross Domestic Product (QoQ),HIGH,JPY
 0b28a002-c471-4dad-b722-056e34e667c8,06/07/2026 23:50:00,Gross Domestic Product Annualized,MEDIUM,JPY
 3a4a2817-cff1-4530-9c0b-3e1a35084be3,06/07/2026 23:50:00,Gross Domestic Product Deflator (YoY),MEDIUM,JPY
 7fbcddc2-160a-4a02-9f96-e44ac5f148b5,06/12/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
+4ac48250-dd90-4a6c-82ed-7a31db502d11,06/17/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY
+063ec4e0-be29-4773-afa9-7f2f7aa7097f,06/17/2026 23:50:00,Exports (YoY),MEDIUM,JPY
+81804ad7-82ac-4a79-ba48-feb7db7365e7,06/17/2026 23:50:00,Imports (YoY),MEDIUM,JPY
+9a1aeabf-3b62-4725-bf79-d075f653ca3b,06/17/2026 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY
+dbe7844a-6e06-4553-afc7-574ea52d1091,06/18/2026 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
+08acd7f8-c6b9-49a2-ab6a-b04f96b67658,06/18/2026 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
+45f24cef-3fb8-46ec-9e39-2e8a8335a0c3,06/18/2026 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
 f1254fde-8042-44eb-9880-0fabcf34b7b4,06/19/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 b2db5e05-6ffa-455d-a1ce-588ecab3f094,06/26/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 369c7423-f1b6-4c27-ad01-f04e206ca890,06/29/2026 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 c32e9df2-1e51-4ac4-8868-e437bd79aba8,06/29/2026 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
 89e71d0d-ddd5-4175-ad9a-82eb242c7f9d,06/29/2026 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
+8890d426-2ab1-41c2-a2d1-58546fa2deb3,06/30/2026 05:00:00,Annualized Housing Starts,LOW,JPY
+3b0ddf4b-9517-4702-a484-9943f0c5c7fb,06/30/2026 05:00:00,Construction Orders (YoY),LOW,JPY
+8439f4d9-570f-49b1-bd25-5d7db20ff3d9,06/30/2026 05:00:00,Housing Starts (YoY),LOW,JPY
 6f658ab9-566f-4f3a-b229-10f7912f8ef7,06/30/2026 23:50:00,Tankan Large All Industry Capex,MEDIUM,JPY
 73de8114-5cd5-42be-a26e-b4f67b5dada9,06/30/2026 23:50:00,Tankan Large Manufacturing Index,HIGH,JPY
 01b8bc77-36ae-4c17-b479-35e7821714ac,06/30/2026 23:50:00,Tankan Large Manufacturing Outlook,MEDIUM,JPY
@@ -269,31 +317,61 @@ c32e9df2-1e51-4ac4-8868-e437bd79aba8,06/29/2026 23:30:00,"Tokyo CPI ex Food, Ene
 ba44b579-b0ef-4f32-867c-9303e74ac2a0,07/03/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 8cd31f56-96ae-4492-bd72-14d525343e81,07/10/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 87142706-2969-4eca-a738-be6196aa6cf7,07/17/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
+1cb1754b-9525-4c71-bd5c-13174634ad95,07/22/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY
+da5e3ab9-98ea-4eea-a741-3a243b25cf6a,07/22/2026 23:50:00,Exports (YoY),MEDIUM,JPY
+7db45a84-a8c0-4a77-bc0a-2e0b148527ef,07/22/2026 23:50:00,Imports (YoY),MEDIUM,JPY
+f3895436-1006-4ec4-86b4-412ccc75a069,07/22/2026 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY
+2e2587b9-620f-4155-8752-e47aa627f394,07/23/2026 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
+37654521-46e4-42cb-8bb6-bf87eb6bc89d,07/23/2026 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
+d46c203c-6963-4ab7-8b40-cc00f32acacb,07/23/2026 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
 72769572-d55c-4b76-89c3-7dc2a7ef563c,07/24/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 94c890f5-977a-4eeb-ae01-92b949c08089,07/30/2026 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 3e38e18a-4663-42bd-8b2b-253f2a675b41,07/30/2026 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
 e7975cb5-8a4b-4348-bdee-d0142a496043,07/30/2026 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
+5bee8ee0-c75c-4892-bd6e-254c9f3fd14b,07/31/2026 05:00:00,Annualized Housing Starts,LOW,JPY
+f8f4a7ff-a4bd-4920-ba3c-546a4c117fbe,07/31/2026 05:00:00,Construction Orders (YoY),LOW,JPY
+15112952-3cc7-4231-983e-a314407b785e,07/31/2026 05:00:00,Housing Starts (YoY),LOW,JPY
 5311f8d2-80b6-4d98-9fb7-3ccdc3a1f922,07/31/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 c73ec41b-c360-4aa1-989c-8a4c5d86f566,08/07/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 192b02bf-8f4a-488e-b54c-332f3b37393b,08/13/2026 23:50:00,Gross Domestic Product (QoQ),HIGH,JPY
 fd0dfa98-53e0-485f-908a-41a32d2ec400,08/13/2026 23:50:00,Gross Domestic Product Annualized,MEDIUM,JPY
 25fa4d26-23a8-45f0-829b-3028ed59e6d4,08/13/2026 23:50:00,Gross Domestic Product Deflator (YoY),MEDIUM,JPY
 7d1ecdc3-df5e-4eb9-a5b7-cfc131f779d9,08/14/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
+2522be0c-c715-4b88-890e-365a2da2c758,08/19/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY
+66e2f41f-e943-4110-abbc-c2e9199630fc,08/19/2026 23:50:00,Exports (YoY),MEDIUM,JPY
+3a0fe828-0112-41c8-9607-3411661a3b0f,08/19/2026 23:50:00,Imports (YoY),MEDIUM,JPY
+b9b84d1b-5b1e-4c64-9d17-8a4e1a9d2049,08/19/2026 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY
+ff704f44-9f78-4a02-8acf-b82dae2b70d7,08/20/2026 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
+b692037e-48bd-42ea-ab8f-d489a9246ae8,08/20/2026 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
+4153036b-2319-48d4-be27-f08523fb39db,08/20/2026 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
 5e2b7d04-975d-4eba-9a3a-85e8d817361b,08/21/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 dea52e2b-7690-408a-9388-9918f5769972,08/27/2026 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 97e52105-4cb2-4d45-a355-15bec2fb6ea1,08/27/2026 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
 0ece72bd-004e-4cac-a584-52f8fb200c55,08/27/2026 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
 3a2df94a-49c5-48f6-a88e-83fb6b8917f9,08/28/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
+fb173ab3-b94a-4b9f-8720-3472978732f4,08/31/2026 05:00:00,Annualized Housing Starts,LOW,JPY
+251f0ed9-4274-457b-8ada-a92dcfab04ca,08/31/2026 05:00:00,Construction Orders (YoY),LOW,JPY
+070c6cda-4815-4773-a59b-a5855220248f,08/31/2026 05:00:00,Housing Starts (YoY),LOW,JPY
 16465a78-d35e-4527-939a-f5f001c50493,09/04/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 0e8768a7-ec66-45f1-8e0b-73ed77d24e4d,09/06/2026 23:50:00,Gross Domestic Product (QoQ),HIGH,JPY
 f97876b7-9520-4363-905c-d1a055d3d7c9,09/06/2026 23:50:00,Gross Domestic Product Annualized,MEDIUM,JPY
 eb9d7a8b-6424-40b7-82fe-aab47f8fba0f,09/06/2026 23:50:00,Gross Domestic Product Deflator (YoY),MEDIUM,JPY
 d956b9ad-e6ed-4ebf-bc87-c2da56f68c7e,09/11/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
+a130c745-7a2c-4602-92a9-c67c5f4a24b2,09/16/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY
+c18dd204-e1a4-466a-9990-95314526db66,09/16/2026 23:50:00,Exports (YoY),MEDIUM,JPY
+f4f047a7-970d-4638-b4c8-7e0d2879a354,09/16/2026 23:50:00,Imports (YoY),MEDIUM,JPY
+070bd7a3-37bd-4ecc-adcb-50052aeba3ae,09/16/2026 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY
+f4255e7f-bf92-4be4-8e47-6f6143676466,09/17/2026 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
+cf065e22-9fa7-4765-9ecd-3b776d6b33da,09/17/2026 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
+8605a4e9-72ad-42f3-9ccd-a9bd58a33bc3,09/17/2026 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
 023b5cd2-2e4b-4a03-a402-2f18f4a61a39,09/18/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 073cbba7-0a6b-462d-8a05-62eb86dc923d,09/25/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 6409072f-d406-4f49-882f-5987e7652fb9,09/29/2026 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 28c07540-929a-4ccb-998f-fd7f6fac4bd8,09/29/2026 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
 5273f7db-48cc-434e-95fc-8675d16f838c,09/29/2026 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
+d2c7bffa-13a5-41f6-ac62-bc4b40850a8d,09/30/2026 05:00:00,Annualized Housing Starts,LOW,JPY
+b751fd54-aac2-442d-9b9a-54496a296e84,09/30/2026 05:00:00,Construction Orders (YoY),LOW,JPY
+d6bb61dd-91ae-4c8d-81dc-d70df18a79b8,09/30/2026 05:00:00,Housing Starts (YoY),LOW,JPY
 cd93d3e0-7d50-48e0-88aa-fca08e8c993d,09/30/2026 23:50:00,Tankan Large All Industry Capex,MEDIUM,JPY
 deafc9c6-01be-41ed-b3b4-d7f66b6a1e89,09/30/2026 23:50:00,Tankan Large Manufacturing Index,HIGH,JPY
 0ba25a1c-844a-4762-9469-09b854b2d1cb,09/30/2026 23:50:00,Tankan Large Manufacturing Outlook,MEDIUM,JPY
@@ -302,12 +380,32 @@ e5c0731d-7e8e-42ae-b2e7-e0a68d55d930,09/30/2026 23:50:00,Tankan Non - Manufactur
 9fce7576-f77f-46b0-94dd-db031fa8dd3d,10/02/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 af409a84-54eb-425d-9787-dc70cd0e942b,10/09/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 a57876e7-2c83-494c-8ab0-e5df910fcb00,10/16/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
+78c2fde4-2215-44b8-ada3-36b90485881c,10/20/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY
+e5fa4dda-456b-4d35-8051-b9d960bc118c,10/20/2026 23:50:00,Exports (YoY),MEDIUM,JPY
+5e2a3937-5ea0-47e5-972a-239a2ff33daf,10/20/2026 23:50:00,Imports (YoY),MEDIUM,JPY
+3bb1cb75-6dd2-4bea-9ec8-c5d3ddd97676,10/20/2026 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY
+e28e825d-8db8-4729-a523-e7d1531ec3c0,10/22/2026 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
+26292b13-51ab-49ed-9458-e515157f59ef,10/22/2026 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
+996ef37f-769f-4c58-b6f9-5bc356267d2a,10/22/2026 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
 25da294f-0f90-432f-9e2d-23836f7376e7,10/23/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
+b4950aed-7a73-45b7-96a2-472d50542b39,10/30/2026 05:00:00,Annualized Housing Starts,LOW,JPY
+1e1abb42-6e26-4b8a-821d-735d11c0967d,10/30/2026 05:00:00,Construction Orders (YoY),LOW,JPY
+ffec7824-59ac-4f8b-8eae-b85282945b7c,10/30/2026 05:00:00,Housing Starts (YoY),LOW,JPY
 2afd1e5d-43dc-4424-b73f-e3f04e134350,10/30/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 fb72f9a8-10aa-4d76-abd3-dc55b9a09c23,11/06/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 191320d9-108e-4a3c-9ac9-c0fd2b1aac53,11/13/2026 20:30:00,CFTC JPY NC Net Positions,LOW,JPY
 14be18ad-4b90-4333-ab99-e5a653d86ef7,11/15/2026 23:50:00,Gross Domestic Product (QoQ),HIGH,JPY
 c3e9601f-befa-4e20-a252-c329d3b1e372,11/15/2026 23:50:00,Gross Domestic Product Annualized,MEDIUM,JPY
 7dca6a59-68c6-4e4e-b575-e91c9d464f6d,11/15/2026 23:50:00,Gross Domestic Product Deflator (YoY),MEDIUM,JPY
+37602ca6-9d42-4a43-b2e9-8412fcd8add6,11/18/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY
+e422a8fb-7cba-448d-8e9b-e6ef9d7ef6b1,11/18/2026 23:50:00,Exports (YoY),MEDIUM,JPY
+924fd09c-5d2a-45dd-ab0a-ce76d22c8c5f,11/18/2026 23:50:00,Imports (YoY),MEDIUM,JPY
+75cf18c1-58c2-441d-97d5-597d2bb65d3b,11/18/2026 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY
+2c361dfb-838f-4797-bb41-fb7ff6d6922d,11/19/2026 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
+28a062e3-2a8c-4bb8-be4c-63f6c44732d9,11/19/2026 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
+9560be50-5920-4977-9e63-4e9f0683f3eb,11/19/2026 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
 6d2aca1a-3610-4268-8304-618f4e4a9e16,11/20/2026 20:30:00,CFTC JPY NC Net Positions,LOW,JPY
 e6850255-a1db-4348-b55b-c073b4a0d762,11/27/2026 20:30:00,CFTC JPY NC Net Positions,LOW,JPY
+8f895f9f-dd54-4b8b-a5ea-32f801c99ad5,11/30/2026 05:00:00,Annualized Housing Starts,LOW,JPY
+aab2bb3f-7151-4bed-b851-14585e3bfd1f,11/30/2026 05:00:00,Construction Orders (YoY),LOW,JPY
+bd1ee578-4406-4643-91e3-d63408d2d67a,11/30/2026 05:00:00,Housing Starts (YoY),LOW,JPY
