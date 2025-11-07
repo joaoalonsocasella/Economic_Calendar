@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d136a8de-fdd5-49ee-ab2f-939acb717ece,11/06/2025 08:00:00,Unemployment Rate s.a (MoM),HIGH,CHF,Release,0.18,Labor Market
 c1776ede-757d-4164-95bc-b6aa4276358b,11/07/2025 08:00:00,Foreign Currency Reserves,LOW,CHF,Release,0.09,Money and Credit
 c0800ecf-fa14-4d6a-b23f-6c0dbf70312f,11/07/2025 08:00:00,SECO Consumer Climate (3m),MEDIUM,CHF,Release,0.14,Confidence
 b65395c2-b7f3-41da-8dce-5e2b11f0a04e,11/13/2025 07:30:00,Producer and Import Prices (MoM),HIGH,CHF,Release,0.19,Inflation
@@ -8,6 +7,7 @@ b65395c2-b7f3-41da-8dce-5e2b11f0a04e,11/13/2025 07:30:00,Producer and Import Pri
 0b5e2c20-ca6b-4d02-8936-ef81abe8ea4b,11/20/2025 07:00:00,Exports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
 734759ef-a349-4f5f-8f5e-0dcd2e3d6d2b,11/20/2025 07:00:00,Imports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
 1821b90b-9160-43a8-a6ef-f51e33618d45,11/20/2025 07:00:00,Trade Balance,MEDIUM,CHF,Release,0.11,Trade and External
+fff43ce8-b4dd-4d6a-be01-952e337d8fc6,11/21/2025 12:40:00,SNB Chairman Schlegel speech,MEDIUM,CHF,Speech,0.13,Monetary Policy
 329894fc-1d70-49cb-a38e-9e306d1d6f4d,11/25/2025 07:30:00,Employment Level (QoQ),HIGH,CHF,Release,0.18,Labor Market
 b60fcbeb-86e3-4449-8324-8c570df28523,11/26/2025 09:00:00,ZEW Survey – Expectations,MEDIUM,CHF,Release,0.14,Confidence
 60307511-b2d2-4d19-899a-d4bb83af5d42,11/28/2025 08:00:00,Gross Domestic Product (QoQ),HIGH,CHF,Release,0.17,Growth

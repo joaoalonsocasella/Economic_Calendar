@@ -1,21 +1,8 @@
 Id,Start,Name,Impact,Currency
-63846e13-44ea-4b05-95b6-d9ceb725aef3,11/05/2025 09:30:00,S&P Global Composite PMI,LOW,GBP
-d7c74738-de1b-43fa-ab83-aa9abbaf3bfc,11/05/2025 09:30:00,S&P Global Services PMI,LOW,GBP
-8d393744-eba4-42ec-89ff-78f8f536f7b1,11/05/2025 16:15:00,BoE's Breeden speech,MEDIUM,GBP
-23ea962c-faa4-4c13-abc4-3ceb0acc0b7e,11/06/2025 09:30:00,S&P Global Construction PMI,LOW,GBP
-1e991067-0e1a-4b26-b206-852aa15ae207,11/06/2025 12:00:00,BoE Interest Rate Decision,HIGH,GBP
-efa766b7-e0e1-4769-94b2-e588cc498db8,11/06/2025 12:00:00,BoE Minutes,HIGH,GBP
-e0c8b93c-c12b-449c-9171-7f83d5296c33,11/06/2025 12:00:00,BoE Monetary Policy Report,HIGH,GBP
-a84001b5-08d3-4f73-b5cc-162df90a778c,11/06/2025 12:00:00,BoE Monetary Policy Summary,HIGH,GBP
-c6c27fb6-afbc-4bd5-8ac7-1cea8806ede3,11/06/2025 12:00:00,BoE MPC Vote Rate Cut,HIGH,GBP
-cf7a8958-53a6-4221-b4cf-eaf31a5b7b42,11/06/2025 12:00:00,BoE MPC Vote Rate Hike,HIGH,GBP
-06fb2303-e192-4299-ba56-96fa4170ec2b,11/06/2025 12:00:00,BoE MPC Vote Rate Unchanged,HIGH,GBP
-c0c8a324-1770-455d-adbb-25cc7c836b92,11/06/2025 12:30:00,BoE's Governor Bailey speech,HIGH,GBP
 c5e73520-dc69-43e5-a137-fe4cc3066541,11/07/2025 07:00:00,Halifax House Prices (MoM),LOW,GBP
 1b4f0720-147f-4cb7-8ffb-d28d1d0f3b10,11/07/2025 07:00:00,Halifax House Prices (YoY/3m),LOW,GBP
 97aa562d-2e82-4d0f-b9de-46c4f0f0d8c1,11/07/2025 12:15:00,BoE's Pill speech,MEDIUM,GBP
 0ccac07a-4ddf-4c2a-9236-d98821f6b6bb,11/07/2025 20:30:00,CFTC GBP NC Net Positions,LOW,GBP
-39e7e2d9-207b-4188-93ea-0b9240d4539c,11/10/2025 08:30:00,BoE's Greene speech,MEDIUM,GBP
 d87bbe97-3dff-464a-a6ea-d454364497b9,11/10/2025 09:10:00,BoE's Lombardelli speech,MEDIUM,GBP
 06b022c6-eac3-44a8-8f72-cee81bd227a1,11/11/2025 00:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP
 ac8e95fb-396c-4cf4-a0e9-d26743db6781,11/11/2025 07:00:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
@@ -24,6 +11,7 @@ f1bca7e9-4600-4703-836b-60b8ed45858b,11/11/2025 07:00:00,Claimant Count Change,H
 dbd83f44-d307-4051-977e-c5e7b2ed0b1f,11/11/2025 07:00:00,Claimant Count Rate,MEDIUM,GBP
 be4e1f8f-9999-4c91-b637-afa0bc5d1d65,11/11/2025 07:00:00,Employment Change (3M),HIGH,GBP
 c8e849c4-81fc-4171-b9fa-3842666df639,11/11/2025 07:00:00,ILO Unemployment Rate (3M),HIGH,GBP
+39e7e2d9-207b-4188-93ea-0b9240d4539c,11/11/2025 08:30:00,BoE's Greene speech,MEDIUM,GBP
 3f40211f-bf4b-46fb-abfb-250d3ff9179c,11/13/2025 00:01:00,RICS Housing Price Balance,LOW,GBP
 14c034f9-26e4-4daa-8024-510b7c02a996,11/13/2025 07:00:00,Goods Trade Balance,LOW,GBP
 62771750-63a7-410c-9e0f-27d6618ecf59,11/13/2025 07:00:00,Gross Domestic Product (MoM),MEDIUM,GBP

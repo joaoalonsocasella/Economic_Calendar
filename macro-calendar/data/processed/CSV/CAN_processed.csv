@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-dd2f5852-cce6-456b-b9ec-b80c5ac917ea,11/04/2025 13:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
-f163c470-a665-477c-b679-85f941573d14,11/04/2025 13:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
-8fc20620-dc89-4b1e-ba75-ce4ed218bfa3,11/04/2025 13:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
-77e6660f-4181-4f10-a3ca-5f5ad5108fc0,11/04/2025 20:00:00,Annual Budget Release,HIGH,CAD,Release,0.2,Monetary Policy
-e2ad81f1-a726-47b3-aa5e-64d455906ee0,11/06/2025 15:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD,Release,0.14,Confidence
-a3b7110d-52f7-4744-b5ca-808de4db0145,11/06/2025 15:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD,Release,0.14,Confidence
 00f89a3f-8234-44cf-a692-331f9c2ab15f,11/07/2025 13:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
 5bea291d-442d-4a70-b377-f4744ce75180,11/07/2025 13:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
 d37f3ff0-3d47-40d9-8cbe-69c972546280,11/07/2025 13:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market

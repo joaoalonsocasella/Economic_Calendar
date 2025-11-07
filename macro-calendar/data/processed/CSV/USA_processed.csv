@@ -1,19 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-c58c6cff-c3d2-4e15-b2a9-5dc020ccb501,11/06/2025 12:30:00,Challenger Job Cuts,HIGH,USD,Release,0.18,Labor Market
-5e5c1485-27e6-4a56-a6a9-65af8e73da6c,11/06/2025 13:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
-19b9dcf4-47bd-43fe-8830-c68a086cca59,11/06/2025 13:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
-68322840-5b83-48e1-9e92-2328b424176b,11/06/2025 13:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
-a0081b0d-85a9-40fb-bcd7-b8807ba7c414,11/06/2025 13:30:00,Nonfarm Productivity,HIGH,USD,Release,0.18,Labor Market
-3dab50bd-78cb-40db-8a8d-4347543dec1e,11/06/2025 13:30:00,Unit Labor Costs,HIGH,USD,Release,0.18,Labor Market
-e3f66316-6a9c-4e88-884d-a57b315549aa,11/06/2025 15:00:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
-4b18fe26-8c0a-446a-b82c-e0a1a76f20dd,11/06/2025 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
-daaa4e24-fea1-4bed-b633-3f48a1ef7ae4,11/06/2025 16:00:00,Fed's Barr speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-cdfe90c8-5e72-49e0-b0c2-4129016f84fb,11/06/2025 16:00:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
-5be4e6bc-c70c-40ab-8d9c-f6cdd0d5d593,11/06/2025 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
-a3e77855-0fb7-40e2-bea0-eb60f8f26249,11/06/2025 17:00:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-102ba892-3d26-4856-be1b-31e10f7f6ced,11/06/2025 20:30:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-169dc98f-f61c-4a3d-9447-02b68839a485,11/06/2025 21:30:00,Fed's Paulson speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-adc2b912-0968-455a-872e-aee52fabeceb,11/06/2025 22:30:00,Fed's Musalem speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 71c3fcb3-7448-490f-871e-e6ce0a942ae9,11/07/2025 08:00:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
 2dd1fa2f-f824-4431-b056-f37631eb7a21,11/07/2025 12:00:00,Fed's Jefferson speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 b15081f9-6157-4323-9f0a-0b97e243296e,11/07/2025 13:30:00,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market
@@ -40,10 +25,13 @@ b66982f2-0652-4bb6-8d58-a6ee28b18013,11/10/2025 18:00:00,3-Year Note Auction,LOW
 869e948d-0210-4aee-80c3-c3e281614ed3,11/11/2025 11:00:00,NFIB Business Optimism Index,MEDIUM,USD,Release,0.14,Confidence
 e1d7a862-7d2e-4a4e-bebd-816d831cae18,11/11/2025 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 d890d275-cd9d-443f-a2ff-6d0fff3d2114,11/11/2025 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
+6d13a910-9929-4de5-b32d-cc4358463f36,11/11/2025 15:25:00,Fed's Barr speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 b85bc6b0-feaa-4d47-81c1-2975836b5a6d,11/12/2025 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 0c70860f-cb38-4320-a8fe-11544377b6d0,11/12/2025 12:00:00,OPEC Monthly Market Report,MEDIUM,USD,Release,0.11,Trade and External
 616c674c-b093-4050-881b-d2251dd74c9f,11/12/2025 14:20:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
 c6e61594-404c-4861-9f2f-0d879c980086,11/12/2025 15:00:00,Fed's Paulson speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+c3f4b691-1b65-4a53-b9d5-4b49913c96af,11/12/2025 15:20:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+4dbbc5f8-ffca-46b3-9e45-ee9b54e8c127,11/12/2025 17:30:00,Fed's Miran speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 dc3ad7a7-26ef-446e-a497-c4a5a07c227f,11/12/2025 18:00:00,10-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 d1ab622c-8ccd-40e9-b3a7-b7e9f78aaf33,11/12/2025 21:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 1a89382a-09eb-402e-85c3-fd7b0e6c8235,11/13/2025 13:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
