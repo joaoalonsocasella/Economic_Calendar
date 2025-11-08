@@ -1,23 +1,4 @@
 Id,Start,Name,Impact,Currency
-71c3fcb3-7448-490f-871e-e6ce0a942ae9,11/07/2025 08:00:00,Fed's Williams speech,MEDIUM,USD
-2dd1fa2f-f824-4431-b056-f37631eb7a21,11/07/2025 12:00:00,Fed's Jefferson speech,MEDIUM,USD
-b15081f9-6157-4323-9f0a-0b97e243296e,11/07/2025 13:30:00,Average Hourly Earnings (MoM),HIGH,USD
-4eb2df82-8dbf-4227-ac66-f2fd7c48c4d2,11/07/2025 13:30:00,Average Hourly Earnings (YoY),HIGH,USD
-90d861ba-2baa-4f0a-8dc8-7d51d2ce27fa,11/07/2025 13:30:00,Average Weekly Hours,LOW,USD
-d0ddcfa8-300d-4cfa-834c-fde34d06161c,11/07/2025 13:30:00,Labor Force Participation Rate,MEDIUM,USD
-18b664eb-e2cb-4fd5-affd-0c60b951c212,11/07/2025 13:30:00,Nonfarm Payrolls,HIGH,USD
-314751ec-7163-4d97-8b41-6b27189eaa59,11/07/2025 13:30:00,U6 Underemployment Rate,MEDIUM,USD
-533beb90-3133-46a1-9a62-7e3469c794d4,11/07/2025 13:30:00,Unemployment Rate,MEDIUM,USD
-4394bbe5-42d4-45f2-87e8-583920dd33aa,11/07/2025 15:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
-f5d35185-2a4c-41c1-ae55-2755dc70b6b2,11/07/2025 15:00:00,Michigan Consumer Sentiment Index,HIGH,USD
-25bcd8bb-f787-4480-8bce-7caea081f60f,11/07/2025 15:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
-639bc3d5-1891-4bba-9de5-92fab41b9313,11/07/2025 15:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD
-914f477b-9bff-4850-aae5-8eadcb2ba07b,11/07/2025 18:00:00,Baker Hughes US Oil Rig Count,LOW,USD
-d297563a-1d19-40cb-98cd-b6807fe722b1,11/07/2025 20:00:00,Consumer Credit Change,LOW,USD
-63083f40-c67e-4083-887a-3c9818ebb65c,11/07/2025 20:00:00,Fed's Miran speech,MEDIUM,USD
-7505049d-157c-402d-a8f1-c60d127447b3,11/07/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD
-273423a3-38c3-482d-b035-ede4d0b59dcf,11/07/2025 20:30:00,CFTC Oil NC Net Positions,LOW,USD
-d5c1c5dd-2f6a-42d2-bb44-43b82d71dc58,11/07/2025 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 a276a5f1-d8c7-4caa-ba2f-eaaef1b12b16,11/10/2025 16:30:00,3-Month Bill Auction,LOW,USD
 1dd902db-86c1-4dee-adbe-7e4788680e36,11/10/2025 16:30:00,6-Month Bill Auction,LOW,USD
 58d0f54f-363a-4dbb-9273-30a5a2dbdf14,11/10/2025 17:00:00,USDA WASDE Report,LOW,USD
@@ -25,7 +6,7 @@ b66982f2-0652-4bb6-8d58-a6ee28b18013,11/10/2025 18:00:00,3-Year Note Auction,LOW
 869e948d-0210-4aee-80c3-c3e281614ed3,11/11/2025 11:00:00,NFIB Business Optimism Index,LOW,USD
 e1d7a862-7d2e-4a4e-bebd-816d831cae18,11/11/2025 13:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 d890d275-cd9d-443f-a2ff-6d0fff3d2114,11/11/2025 13:55:00,Redbook Index (YoY),LOW,USD
-6d13a910-9929-4de5-b32d-cc4358463f36,11/11/2025 15:25:00,Fed's Barr speech,MEDIUM,USD
+6d13a910-9929-4de5-b32d-cc4358463f36,11/12/2025 03:25:00,Fed's Barr speech,MEDIUM,USD
 b85bc6b0-feaa-4d47-81c1-2975836b5a6d,11/12/2025 12:00:00,MBA Mortgage Applications,LOW,USD
 0c70860f-cb38-4320-a8fe-11544377b6d0,11/12/2025 12:00:00,OPEC Monthly Market Report,LOW,USD
 616c674c-b093-4050-881b-d2251dd74c9f,11/12/2025 14:20:00,Fed's Williams speech,MEDIUM,USD
@@ -121,10 +102,13 @@ c71e7a9c-f478-4e04-8aea-a45ae7e7a158,11/25/2025 13:55:00,Redbook Index (YoY),LOW
 f68afeab-945d-41ea-abfb-e992b59b9c06,11/25/2025 15:00:00,Consumer Confidence,MEDIUM,USD
 93e49409-00d4-4d4d-b669-5a3939ff6220,11/25/2025 15:00:00,New Home Sales (MoM),LOW,USD
 d4f8d570-abc8-4214-aee6-41a331c4cc95,11/25/2025 15:00:00,New Home Sales Change (MoM),MEDIUM,USD
+abb19708-e28e-4ac3-a6df-572ced07d899,11/25/2025 15:00:00,Pending Home Sales (MoM),MEDIUM,USD
+6f92d361-c54e-4b88-bcfc-d0ba6fb02a08,11/25/2025 15:00:00,Pending Home Sales (YoY),LOW,USD
 7b110e1a-45d5-4577-aa18-7689bd8c9de8,11/25/2025 15:00:00,Richmond Fed Manufacturing Index,LOW,USD
 1ed4d919-8b2e-4750-8c2d-9a486253a48d,11/25/2025 16:30:00,52-Week Bill Auction,LOW,USD
 01e9df03-7231-4435-b51e-ebf185239770,11/25/2025 21:30:00,API Weekly Crude Oil Stock,LOW,USD
 9fc84dcf-cbbb-4414-b8dc-77db6fff980f,11/26/2025 12:00:00,MBA Mortgage Applications,LOW,USD
+6a78ade1-5573-49a6-b1d1-e57672f627a8,11/26/2025 13:30:00,Continuing Jobless Claims,LOW,USD
 ba5172f3-6821-4140-988a-20f918ac48ac,11/26/2025 13:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
 5f5168d6-2fa7-4feb-b288-93281ee7f4e5,11/26/2025 13:30:00,Durable Goods Orders,MEDIUM,USD
 afdbe413-3a67-4cb5-b700-100aed422674,11/26/2025 13:30:00,Durable Goods Orders ex Defense,MEDIUM,USD
@@ -132,6 +116,8 @@ afdbe413-3a67-4cb5-b700-100aed422674,11/26/2025 13:30:00,Durable Goods Orders ex
 813749a2-fcce-40d6-acd8-b3b4ecdc6f06,11/26/2025 13:30:00,Goods Trade Balance,LOW,USD
 e9158502-b099-4caa-a637-a5551b174d57,11/26/2025 13:30:00,Gross Domestic Product Annualized,HIGH,USD
 6e913ead-332d-426b-be34-d513f1b0d1af,11/26/2025 13:30:00,Gross Domestic Product Price Index,MEDIUM,USD
+baca2e30-4448-4bd2-9aaf-fdb3bf28c0d6,11/26/2025 13:30:00,Initial Jobless Claims,MEDIUM,USD
+31b6c0d6-ea10-4bf1-8d7d-8a4199a5c134,11/26/2025 13:30:00,Initial Jobless Claims 4-week average,LOW,USD
 eab0c6f7-a781-4b44-a1ad-f2df87b2e38f,11/26/2025 13:30:00,Nondefense Capital Goods Orders ex Aircraft,MEDIUM,USD
 16468388-9829-4c07-8ed3-fc7c6610f974,11/26/2025 13:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
 bd8f1623-d093-49a1-8255-5b937f8f28f4,11/26/2025 13:30:00,Wholesale Inventories,LOW,USD
@@ -144,11 +130,6 @@ bd8f1623-d093-49a1-8255-5b937f8f28f4,11/26/2025 13:30:00,Wholesale Inventories,L
 4f8c2c89-9653-4ed9-8f0b-147324b83ded,11/26/2025 15:00:00,Personal Spending,MEDIUM,USD
 57bd9541-892f-4cd8-ac4d-e55cd933385f,11/26/2025 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
 f6dd20da-7b0c-49a7-bc20-4ad5982697bd,11/26/2025 18:00:00,5-Year Note Auction,LOW,USD
-6a78ade1-5573-49a6-b1d1-e57672f627a8,11/27/2025 13:30:00,Continuing Jobless Claims,LOW,USD
-baca2e30-4448-4bd2-9aaf-fdb3bf28c0d6,11/27/2025 13:30:00,Initial Jobless Claims,MEDIUM,USD
-31b6c0d6-ea10-4bf1-8d7d-8a4199a5c134,11/27/2025 13:30:00,Initial Jobless Claims 4-week average,LOW,USD
-abb19708-e28e-4ac3-a6df-572ced07d899,11/27/2025 15:00:00,Pending Home Sales (MoM),MEDIUM,USD
-6f92d361-c54e-4b88-bcfc-d0ba6fb02a08,11/27/2025 15:00:00,Pending Home Sales (YoY),LOW,USD
 be5df107-1270-434b-afa0-9abdce98684b,11/27/2025 15:30:00,EIA Natural Gas Storage Change,LOW,USD
 5a6a3380-7736-4d49-9036-fa7aa6877541,11/27/2025 16:30:00,4-Week Bill Auction,LOW,USD
 775a2295-3a5a-4c10-8b59-2ae0526fe9c7,11/27/2025 18:00:00,7-Year Note Auction,LOW,USD

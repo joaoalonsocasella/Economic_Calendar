@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-c5e73520-dc69-43e5-a137-fe4cc3066541,11/07/2025 07:00:00,Halifax House Prices (MoM),LOW,GBP,Release,0.07,Housing
-1b4f0720-147f-4cb7-8ffb-d28d1d0f3b10,11/07/2025 07:00:00,Halifax House Prices (YoY/3m),LOW,GBP,Release,0.07,Housing
-97aa562d-2e82-4d0f-b9de-46c4f0f0d8c1,11/07/2025 12:15:00,BoE's Pill speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
-0ccac07a-4ddf-4c2a-9236-d98821f6b6bb,11/07/2025 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 d87bbe97-3dff-464a-a6ea-d454364497b9,11/10/2025 09:10:00,BoE's Lombardelli speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 06b022c6-eac3-44a8-8f72-cee81bd227a1,11/11/2025 00:01:00,BRC Like-For-Like Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
 ac8e95fb-396c-4cf4-a0e9-d26743db6781,11/11/2025 07:00:00,Average Earnings Excluding Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market

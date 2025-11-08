@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-aff5a8eb-06c5-431f-a393-332058547019,11/07/2025 07:00:00,Exports (MoM),HIGH,EUR,Release,0.468,Trade and External
-d0805676-58d5-40d5-be84-d1a00b069447,11/07/2025 07:00:00,Imports (MoM),HIGH,EUR,Release,0.468,Trade and External
-081cbdba-eec9-41df-aef0-5bf0fc0140ec,11/07/2025 07:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External
 db635f3e-a6fa-40a5-bbe7-907ee374c39f,11/11/2025 10:00:00,ZEW Survey – Current Situation,HIGH,EUR,Release,0.595,Confidence
 39d43686-b68b-4d06-94bb-767f9e671597,11/11/2025 10:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
 824dfa68-3d4c-4d07-8703-4f9d411f42db,11/12/2025 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
