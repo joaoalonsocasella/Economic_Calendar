@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d87bbe97-3dff-464a-a6ea-d454364497b9,11/10/2025 09:10:00,BoE's Lombardelli speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 06b022c6-eac3-44a8-8f72-cee81bd227a1,11/11/2025 00:01:00,BRC Like-For-Like Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
 ac8e95fb-396c-4cf4-a0e9-d26743db6781,11/11/2025 07:00:00,Average Earnings Excluding Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
 80ce8fe8-3e24-4d40-a7b2-fdb8eb04e5c1,11/11/2025 07:00:00,Average Earnings Including Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
@@ -54,7 +53,7 @@ bd4dbb3d-0178-452c-b727-7ce6620dd71f,11/21/2025 09:30:00,S&P Global Composite PM
 84e65409-1dd7-40cb-a09b-4aa1869641ef,11/21/2025 09:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
 da23b092-f227-4f3d-8f97-67a9eaeabcae,11/21/2025 09:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
 9a08cf0a-0b1b-44e1-84b3-ed0d53d9d3a2,11/21/2025 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
-788d437f-3a5a-4a5e-977f-1e442a7ca4c8,11/26/2025 00:01:00,BRC Shop Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
+6c3b1e60-02be-41ad-a076-4031f4459d68,11/26/2025 10:00:00,Autumn Forecast Statement,MEDIUM,GBP,Speech,0.13,Monetary Policy
 3de1114a-dc34-45bb-bc96-edae6e15b8ad,11/28/2025 07:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP,Release,0.07,Housing
 ee60f1eb-6773-47fa-a1b1-b05c9400ed13,11/28/2025 07:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP,Release,0.07,Housing
 a09a447c-f696-4a58-9bdc-063cb81af0b2,12/01/2025 09:30:00,Consumer Credit,MEDIUM,GBP,Release,0.14,Confidence
@@ -64,6 +63,7 @@ ef304fd5-c8a4-46b0-a160-a68f34d98237,12/01/2025 09:30:00,M4 Money Supply (YoY),H
 b4558443-c909-4fa0-ae54-74620651fb74,12/01/2025 09:30:00,Net Lending to Individuals (MoM),MEDIUM,GBP,Release,0.11,Trade and External
 3da3d3f0-3de7-45b6-ae83-4ef7c511b421,12/01/2025 09:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
 244274d1-15f4-469a-bf48-9fecd920f1c2,12/01/2025 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+788d437f-3a5a-4a5e-977f-1e442a7ca4c8,12/02/2025 00:01:00,BRC Shop Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
 ce168aa0-d24b-4d6e-b386-080f829b27e7,12/02/2025 10:30:00,Financial Stability Report,HIGH,GBP,Release,0.2,Monetary Policy
 b3fd9c7f-7f45-481c-a6e2-efcbbb7e2342,12/03/2025 09:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
 b035dddb-f26c-4f3d-83d7-d5df04aa09cc,12/03/2025 09:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth

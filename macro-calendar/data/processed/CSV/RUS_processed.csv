@@ -1,7 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-c17fe6d0-e1a1-43f8-9d7e-8cf8eb245eaf,11/10/2025 16:00:00,Consumer Price Index (MoM),HIGH,RUB,Release,0.19,Inflation
 f8177ed6-c8e5-4b31-a57f-aded298f221e,11/13/2025 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 d0455a62-0504-44aa-9a97-1ce7c83807bf,11/14/2025 13:00:00,Foreign Trade,MEDIUM,RUB,Release,0.11,Trade and External
+c17fe6d0-e1a1-43f8-9d7e-8cf8eb245eaf,11/14/2025 16:00:00,Consumer Price Index (MoM),HIGH,RUB,Release,0.19,Inflation
 053d4c75-e723-43f6-afa4-a14890ef47a8,11/19/2025 16:00:00,Producer Price Index (MoM),HIGH,RUB,Release,0.19,Inflation
 e5c4a9a5-afd2-4777-aab5-8b255de502a5,11/19/2025 16:00:00,Producer Price Index (YoY),HIGH,RUB,Release,0.19,Inflation
 1600d956-cfba-4e1c-b864-3876cd84003c,11/20/2025 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit

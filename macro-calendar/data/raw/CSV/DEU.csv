@@ -5,10 +5,10 @@ db635f3e-a6fa-40a5-bbe7-907ee374c39f,11/11/2025 10:00:00,ZEW Survey – Current 
 2017cd92-47cd-4d2c-a8bc-e96a5eed8d62,11/12/2025 07:00:00,Consumer Price Index (YoY),LOW,EUR
 5b60031b-af3b-455c-b6a3-8e60b4ef43c3,11/12/2025 07:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 030c47e1-370e-4b33-a49c-719cc3848298,11/12/2025 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+c37c1f89-8ca1-4d92-8382-48b8db49a76a,11/12/2025 07:00:00,Wholesale Price Index (MoM),LOW,EUR
+fe8c6ced-691e-41ed-8abb-cbc066f0a8e0,11/12/2025 07:00:00,Wholesale Price Index (YoY),LOW,EUR
 3a4b3969-598b-4bd2-8187-7a948e67c984,11/12/2025 10:30:00,30-y Bond Auction,LOW,EUR
 95f6dabd-712d-44db-bc33-56e8d9e6e411,11/12/2025 13:30:00,Current Account n.s.a.,LOW,EUR
-c37c1f89-8ca1-4d92-8382-48b8db49a76a,11/14/2025 07:00:00,Wholesale Price Index (MoM),LOW,EUR
-fe8c6ced-691e-41ed-8abb-cbc066f0a8e0,11/14/2025 07:00:00,Wholesale Price Index (YoY),LOW,EUR
 0211e1ad-af8f-414b-9de6-10ce645f38e3,11/17/2025 11:00:00,German Buba Monthly Report,MEDIUM,EUR
 ef262e57-4b5b-44fc-aa41-3f55e7d6a1a4,11/20/2025 07:00:00,Producer Price Index (MoM),MEDIUM,EUR
 733cb05c-195e-4b01-88bf-4cc3e2cd3ab3,11/20/2025 07:00:00,Producer Price Index (YoY),MEDIUM,EUR
@@ -21,6 +21,8 @@ e1667f65-38c2-4929-b3f3-011e890822fa,11/24/2025 09:00:00,IFO – Expectations,ME
 abd04e3d-619d-45d1-bd59-28e0e5d37755,11/25/2025 07:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR
 838d109c-512b-43fd-9476-aca46727b084,11/25/2025 07:00:00,Gross Domestic Product (YoY),MEDIUM,EUR
 3806dfb4-ba98-4503-bdd7-b67de2fb919e,11/25/2025 07:00:00,Gross Domestic Product w.d.a (YoY),MEDIUM,EUR
+65b24738-76b1-44b7-a134-2e1b260fb94c,11/25/2025 10:30:00,5-y Note Auction,LOW,EUR
+25f14ac9-c3ba-4a47-b4cf-2f2f09e11a6c,11/26/2025 10:30:00,10-y Bond Auction,MEDIUM,EUR
 f59ea90c-f016-4134-8cf2-0ae18686dd7e,11/27/2025 07:00:00,GfK Consumer Confidence Survey,MEDIUM,EUR
 3b30398d-512a-4dd7-bf4b-27c84068db0c,11/28/2025 07:00:00,Import Price Index (MoM),LOW,EUR
 74569731-85b6-47e0-9ea3-38357ace5d49,11/28/2025 07:00:00,Import Price Index (YoY),LOW,EUR
