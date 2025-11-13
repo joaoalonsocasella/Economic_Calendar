@@ -1,15 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-6d13a910-9929-4de5-b32d-cc4358463f36,11/12/2025 03:25:00,Fed's Barr speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-b85bc6b0-feaa-4d47-81c1-2975836b5a6d,11/12/2025 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-0c70860f-cb38-4320-a8fe-11544377b6d0,11/12/2025 12:00:00,OPEC Monthly Market Report,MEDIUM,USD,Release,0.11,Trade and External
-616c674c-b093-4050-881b-d2251dd74c9f,11/12/2025 14:20:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
-c6e61594-404c-4861-9f2f-0d879c980086,11/12/2025 15:00:00,Fed's Paulson speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-c3f4b691-1b65-4a53-b9d5-4b49913c96af,11/12/2025 15:20:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-534d10ce-ee52-48d1-a3be-a678a453e844,11/12/2025 17:15:00,Fed's Bostic speech,HIGH,USD,Release,0.2,Monetary Policy
-4dbbc5f8-ffca-46b3-9e45-ee9b54e8c127,11/12/2025 17:30:00,Fed's Miran speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-dc3ad7a7-26ef-446e-a497-c4a5a07c227f,11/12/2025 18:00:00,10-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-0f5b8821-95cf-434f-88b5-4382ae8e0c3d,11/12/2025 21:00:00,Fed's Collins speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-d1ab622c-8ccd-40e9-b3a7-b7e9f78aaf33,11/12/2025 21:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 b0171e05-0b3d-47d3-93e3-b9656b02c2d1,11/13/2025 13:00:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 1a89382a-09eb-402e-85c3-fd7b0e6c8235,11/13/2025 13:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 36e37454-f5bb-422c-b922-5bd452528ab1,11/13/2025 13:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation

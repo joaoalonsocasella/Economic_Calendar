@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-cd7477a8-4a93-4b44-a885-31d0997b7779,11/12/2025 10:45:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-d04d1528-7f40-440e-8b63-303c7aa083d5,11/12/2025 11:40:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
 880e3e6b-01f7-4386-9a26-01abb6269333,11/13/2025 09:00:00,Economic Bulletin,HIGH,EUR,Release,0.85,Monetary Policy
 37b7469d-b5b3-4ca8-9bae-478a1e00e43c,11/13/2025 10:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 292593b2-0323-40c2-a6d5-b9be96525362,11/13/2025 10:00:00,Industrial Production w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth
@@ -19,6 +17,7 @@ db9d0d35-aab7-4f5b-8409-ae5838949b79,11/14/2025 15:00:00,ECB's Lane speech,HIGH,
 12a04410-33cc-46bd-91a2-c5642ae7dfcf,11/14/2025 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 366edba3-15c2-4fc4-af8b-f492f50e8061,11/15/2025 13:30:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 2b181140-fe47-442e-9bc6-0767e2932da2,11/16/2025 00:00:00,G20 Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
+8346bfc5-f869-4ab8-801a-3440afaae979,11/17/2025 00:00:00,ECB's Sleijpen speech,HIGH,EUR,Speech,0.552,Monetary Policy
 d744339c-163d-4223-b210-c213ac73709e,11/17/2025 00:00:00,G20 Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
 b47a594e-808f-46af-93ec-9db3b586885d,11/19/2025 08:00:00,Non-Monetary Policy ECB Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
 3dcee570-7978-46c9-b0e5-2d59106cada8,11/19/2025 09:00:00,Current Account n.s.a,HIGH,EUR,Release,0.468,Trade and External
