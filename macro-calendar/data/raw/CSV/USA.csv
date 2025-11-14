@@ -1,21 +1,4 @@
 Id,Start,Name,Impact,Currency
-b0171e05-0b3d-47d3-93e3-b9656b02c2d1,11/13/2025 13:00:00,Fed's Daly speech,MEDIUM,USD
-1a89382a-09eb-402e-85c3-fd7b0e6c8235,11/13/2025 13:30:00,Consumer Price Index (MoM),HIGH,USD
-36e37454-f5bb-422c-b922-5bd452528ab1,11/13/2025 13:30:00,Consumer Price Index (YoY),HIGH,USD
-c2cb5cb9-84f3-41a2-a494-5aa9192bee08,11/13/2025 13:30:00,Consumer Price Index Core s.a,LOW,USD
-68ec114c-9608-4d62-83bc-58793ffa4bea,11/13/2025 13:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
-be0b5e9d-335a-4cff-983d-0508b189a081,11/13/2025 13:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
-e1a17a91-a560-4348-a7c0-9eb04757764f,11/13/2025 13:30:00,Consumer Price Index n.s.a (MoM),LOW,USD
-72678eef-932e-46cd-8f2c-8a7dcdaad1e4,11/13/2025 13:30:00,Continuing Jobless Claims,LOW,USD
-48ede865-ce5c-403a-a44a-20c5ae5b6dbb,11/13/2025 13:30:00,Initial Jobless Claims,MEDIUM,USD
-59203bd8-051b-4c0d-9e42-8be57a842578,11/13/2025 13:30:00,Initial Jobless Claims 4-week average,LOW,USD
-5445f058-424c-414a-8319-e6b5a79044ce,11/13/2025 15:30:00,Fed's Kashkari speech,MEDIUM,USD
-9d94db14-8f1f-47a1-a345-a39bab0f04e6,11/13/2025 16:30:00,4-Week Bill Auction,LOW,USD
-ea91972a-c11b-4ba9-9658-d87ef99a49b5,11/13/2025 17:00:00,EIA Crude Oil Stocks Change,LOW,USD
-a3681e4d-e732-4026-82a7-5b2b28da6303,11/13/2025 17:15:00,Fed's Musalem speech,MEDIUM,USD
-2928f456-27fc-41f6-bd79-aea050d7c2dd,11/13/2025 17:20:00,Fed's Hammack speech,MEDIUM,USD
-011930e8-3352-4443-b304-be5f499c8a84,11/13/2025 18:00:00,30-Year Bond Auction,LOW,USD
-45d3fd1c-3dcc-49cf-9afb-242c5fb40328,11/13/2025 19:00:00,Monthly Budget Statement,MEDIUM,USD
 0c9f788b-cbcc-4bda-9f39-ec0e3e21f0f0,11/14/2025 13:30:00,Producer Price Index (MoM),MEDIUM,USD
 849f5e70-459d-4cf1-a22e-6d611cd0187b,11/14/2025 13:30:00,Producer Price Index (YoY),MEDIUM,USD
 f319fc90-598c-48b5-b254-4ca7f610fb35,11/14/2025 13:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
@@ -29,6 +12,7 @@ c9be8dc7-5a21-4b90-8e5b-76d0487191a0,11/14/2025 15:00:00,Business Inventories,LO
 58724bcf-0d44-457d-baba-b6027ad3d7a5,11/14/2025 15:30:00,EIA Natural Gas Storage Change,LOW,USD
 58d0f54f-363a-4dbb-9273-30a5a2dbdf14,11/14/2025 17:00:00,USDA WASDE Report,LOW,USD
 a9eab021-c552-418d-b1e0-116d89212b82,11/14/2025 18:00:00,Baker Hughes US Oil Rig Count,LOW,USD
+45d3fd1c-3dcc-49cf-9afb-242c5fb40328,11/14/2025 19:00:00,Monthly Budget Statement,MEDIUM,USD
 633b1b31-ece9-4091-a222-0624102c7fe5,11/14/2025 19:30:00,Fed's Logan speech,MEDIUM,USD
 12a45110-6050-4ff1-a433-5ca469f35322,11/14/2025 20:20:00,Fed's Bostic speech,MEDIUM,USD
 25cf508f-53ee-41ad-a970-ce9fd657e79a,11/14/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD
@@ -36,9 +20,11 @@ d6b32fad-c9d6-448a-b1b5-10ea4f1d0546,11/14/2025 20:30:00,CFTC Oil NC Net Positio
 5cc2c67e-53fa-43e3-a72e-e3ae7583cb74,11/14/2025 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 0bab544a-6067-4363-828b-51bf6178f3db,11/17/2025 13:30:00,NY Empire State Manufacturing Index,MEDIUM,USD
 6b44ad35-141a-4d0d-8c32-482c0e734d31,11/17/2025 14:00:00,Fed's Williams speech,MEDIUM,USD
+de60fca5-cca3-4e28-b0b0-fb7d014b98d2,11/17/2025 14:30:00,Fed's Jefferson speech,MEDIUM,USD
 6ee6cb07-e453-4874-8b44-bb83b9825c0f,11/17/2025 16:30:00,3-Month Bill Auction,LOW,USD
 c2cb78e5-ae12-441c-996c-751986e35b4d,11/17/2025 16:30:00,6-Month Bill Auction,LOW,USD
 ba00a311-bfd1-46ac-bbbc-687c999d6ae4,11/17/2025 18:00:00,Fed's Kashkari speech,MEDIUM,USD
+5cf5df27-3e22-4b20-8003-2381b3f5fb98,11/17/2025 20:35:00,Fed's Waller speech,MEDIUM,USD
 3b8f0b02-408c-4f16-99e6-6d7f985d4878,11/18/2025 13:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 5aed08dc-5c39-4af6-98f7-23bf4f0cf3be,11/18/2025 13:30:00,Export Price Index (MoM),LOW,USD
 11918a91-4503-4862-a6d6-8439c04bc288,11/18/2025 13:30:00,Export Price Index (YoY),LOW,USD
@@ -48,6 +34,7 @@ ba00a311-bfd1-46ac-bbbc-687c999d6ae4,11/17/2025 18:00:00,Fed's Kashkari speech,M
 4dec107d-c4a4-43ba-a890-5c038e6dab80,11/18/2025 14:15:00,Capacity Utilization,LOW,USD
 1516150f-31f5-4be9-ae8a-df3e3c305b2f,11/18/2025 14:15:00,Industrial Production (MoM),MEDIUM,USD
 762daa1c-85ba-4966-bcf3-3d33531cc72e,11/18/2025 15:00:00,NAHB Housing Market Index,LOW,USD
+3ce52b6d-81b4-4072-89e0-274b1aeb0952,11/18/2025 15:30:00,Fed's Barr speech,MEDIUM,USD
 0b736217-5b77-43a5-8acf-f3030e248c60,11/18/2025 21:00:00,Net Long-Term TIC Flows,LOW,USD
 458d2566-23a7-4a33-b8ba-0a5feec4eddd,11/18/2025 21:00:00,Total Net TIC Flows,LOW,USD
 e38d4f9e-eeaf-402f-af4c-cc28cb5dce1d,11/18/2025 21:30:00,API Weekly Crude Oil Stock,LOW,USD
@@ -67,11 +54,14 @@ d00065ca-acad-4b16-90d5-cc0505d2138e,11/20/2025 13:30:00,Philadelphia Fed Manufa
 05fcf837-94e5-4fd8-b917-e7700253a063,11/20/2025 15:00:00,Existing Home Sales (MoM),LOW,USD
 1c1291a8-62e1-4274-8e13-801780dadd3c,11/20/2025 15:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
 a7146b4e-0719-4629-9ede-9ba2ffe7cda2,11/20/2025 15:30:00,EIA Natural Gas Storage Change,LOW,USD
+359bbaf5-16f5-4f1e-9b73-6cb3f75b9bcf,11/20/2025 16:00:00,Fed's Cook speech,MEDIUM,USD
 f18fb89a-382f-4231-95b3-62ae0ae8301c,11/20/2025 16:00:00,Kansas Fed Manufacturing Activity,LOW,USD
 a167f32e-7f1e-4570-a5d2-7646ad4046f7,11/20/2025 16:30:00,4-Week Bill Auction,LOW,USD
 c95414db-ebb4-4fa2-9935-f98d73face36,11/20/2025 18:00:00,10-year TIPS Auction,LOW,USD
 260231c9-e5ff-4b9e-ad20-0aef560905b3,11/20/2025 18:40:00,Fed's Goolsbee speech,MEDIUM,USD
 0481f5af-7a3e-47a2-a389-b5d1f0609292,11/21/2025 12:30:00,Fed's Williams speech,MEDIUM,USD
+4bbecac8-b68b-4892-8db8-1db798b5cc4c,11/21/2025 13:30:00,Fed's Barr speech,MEDIUM,USD
+4cdd78e0-8b4b-40b6-80f2-99d0e921fad7,11/21/2025 13:45:00,Fed's Jefferson speech,MEDIUM,USD
 32ad66af-6951-4967-8a39-995b25c711a8,11/21/2025 14:45:00,S&P Global Composite PMI,MEDIUM,USD
 c214a971-7443-42fd-a090-cb54dc2796a7,11/21/2025 14:45:00,S&P Global Manufacturing PMI,HIGH,USD
 d7babcb7-df89-470d-aa40-4817642e1788,11/21/2025 14:45:00,S&P Global Services PMI,HIGH,USD
