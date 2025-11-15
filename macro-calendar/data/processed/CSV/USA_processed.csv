@@ -1,29 +1,11 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0c9f788b-cbcc-4bda-9f39-ec0e3e21f0f0,11/14/2025 13:30:00,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-849f5e70-459d-4cf1-a22e-6d611cd0187b,11/14/2025 13:30:00,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-f319fc90-598c-48b5-b254-4ca7f610fb35,11/14/2025 13:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
-ba2b618e-d26e-432d-9dba-3bb039e1f243,11/14/2025 13:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
-f9aa91c5-1f52-40e1-a70c-d2096a930b8a,11/14/2025 13:30:00,Retail Sales (MoM),HIGH,USD,Release,0.17,Growth
-86ea0003-2c2a-48c8-8784-e27af8cc5811,11/14/2025 13:30:00,Retail Sales (YoY),HIGH,USD,Release,0.17,Growth
-9773fce0-4e96-4295-92ea-2ec4bf6447b0,11/14/2025 13:30:00,Retail Sales Control Group,HIGH,USD,Release,0.17,Growth
-311e02d0-86ac-4a56-b487-26cd682f203b,11/14/2025 13:30:00,Retail Sales ex Autos (MoM),HIGH,USD,Release,0.17,Growth
-c9be8dc7-5a21-4b90-8e5b-76d0487191a0,11/14/2025 15:00:00,Business Inventories,HIGH,USD,Release,0.17,Growth
-1896a2ab-cda9-4e85-a37b-22813d773aa3,11/14/2025 15:05:00,Fed's Schmid speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-58724bcf-0d44-457d-baba-b6027ad3d7a5,11/14/2025 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
-58d0f54f-363a-4dbb-9273-30a5a2dbdf14,11/14/2025 17:00:00,USDA WASDE Report,HIGH,USD,Release,0.2,Monetary Policy
-a9eab021-c552-418d-b1e0-116d89212b82,11/14/2025 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
-45d3fd1c-3dcc-49cf-9afb-242c5fb40328,11/14/2025 19:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
-633b1b31-ece9-4091-a222-0624102c7fe5,11/14/2025 19:30:00,Fed's Logan speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-12a45110-6050-4ff1-a433-5ca469f35322,11/14/2025 20:20:00,Fed's Bostic speech,HIGH,USD,Release,0.2,Monetary Policy
-25cf508f-53ee-41ad-a970-ce9fd657e79a,11/14/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-d6b32fad-c9d6-448a-b1b5-10ea4f1d0546,11/14/2025 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-5cc2c67e-53fa-43e3-a72e-e3ae7583cb74,11/14/2025 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 0bab544a-6067-4363-828b-51bf6178f3db,11/17/2025 13:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
 6b44ad35-141a-4d0d-8c32-482c0e734d31,11/17/2025 14:00:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
 de60fca5-cca3-4e28-b0b0-fb7d014b98d2,11/17/2025 14:30:00,Fed's Jefferson speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 6ee6cb07-e453-4874-8b44-bb83b9825c0f,11/17/2025 16:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 c2cb78e5-ae12-441c-996c-751986e35b4d,11/17/2025 16:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 ba00a311-bfd1-46ac-bbbc-687c999d6ae4,11/17/2025 18:00:00,Fed's Kashkari speech,HIGH,USD,Release,0.2,Monetary Policy
+45d3fd1c-3dcc-49cf-9afb-242c5fb40328,11/17/2025 19:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
 5cf5df27-3e22-4b20-8003-2381b3f5fb98,11/17/2025 20:35:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 3b8f0b02-408c-4f16-99e6-6d7f985d4878,11/18/2025 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 5aed08dc-5c39-4af6-98f7-23bf4f0cf3be,11/18/2025 13:30:00,Export Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
@@ -209,6 +191,7 @@ fe3ac42e-2474-4351-ab4c-0294ee07814e,12/11/2025 13:30:00,Initial Jobless Claims 
 37fdfa32-e22a-4099-962f-e6bcf35080d0,12/11/2025 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 9698623e-7a05-416f-b8d7-9f309ef11a27,12/11/2025 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 66190755-2e44-485f-9f7e-b20845a68f9c,12/11/2025 18:00:00,30-Year Bond Auction,LOW,USD,Release,0.09,Money and Credit
+026a2127-b7fb-403e-8364-3ad27b894c34,12/12/2025 15:30:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 ba8e647e-4830-4f7e-8edc-e2d46d99717d,12/12/2025 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
 b818bfff-fbaa-4f41-bd52-fd78cff600ba,12/12/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 1050c13f-eec9-4110-9866-f90fddc59b1a,12/12/2025 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External

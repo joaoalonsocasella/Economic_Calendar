@@ -1,6 +1,4 @@
 Id,Start,Name,Impact,Currency
-4ef5d23b-7af6-4655-a278-91db37fa4c74,11/14/2025 13:30:00,Manufacturing Sales (MoM),LOW,CAD
-1aa4299b-e925-41a5-b605-b05167fdf700,11/14/2025 13:30:00,Wholesale Sales (MoM),LOW,CAD
 57082488-90b8-4c05-b491-41bdebf4dc35,11/17/2025 13:30:00,BoC Consumer Price Index Core (MoM),MEDIUM,CAD
 b6289159-e845-4fe1-8719-18f52be41113,11/17/2025 13:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD
 512965a1-c7fa-484e-b291-a63ce4e9ae56,11/17/2025 13:30:00,Canadian Portfolio Investment in Foreign Securities,LOW,CAD
@@ -43,6 +41,7 @@ e966865b-fa88-4ee6-8b71-3e1a4f8bf158,12/15/2025 13:30:00,BoC Consumer Price Inde
 1f4f6196-a546-4ae0-9b50-9cac0060e4ad,12/15/2025 13:30:00,Consumer Price Index (MoM),MEDIUM,CAD
 6c43a831-204e-4400-bdbe-b582e4d7400b,12/15/2025 13:30:00,Consumer Price Index (YoY),HIGH,CAD
 ba5a447f-fa92-4990-94e0-67a8fdc31534,12/15/2025 13:30:00,Manufacturing Sales (MoM),LOW,CAD
+28ae0480-9f15-4de0-82b5-81e889bf4fbf,12/16/2025 17:45:00,BoC's Governor Macklem speech,HIGH,CAD
 39f3b535-da0a-48cd-b4ad-9cb7f167ecbb,12/17/2025 13:30:00,Canadian Portfolio Investment in Foreign Securities,LOW,CAD
 01d7218d-6a5a-4c23-8351-930e89dc878a,12/17/2025 13:30:00,Foreign Portfolio Investment in Canadian Securities,LOW,CAD
 f637e827-393e-4228-9563-1c9018d92491,12/18/2025 13:30:00,Employment Insurance Beneficiaries Change (MoM),LOW,CAD

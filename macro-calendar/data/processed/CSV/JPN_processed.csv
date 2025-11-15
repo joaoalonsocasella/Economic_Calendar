@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a46613af-308f-4690-97d3-825e7222bd85,11/14/2025 04:30:00,Tertiary Industry Index (MoM),HIGH,JPY,Release,0.17,Growth
-1133cadd-675e-41a8-92a0-afa28cedffa8,11/14/2025 20:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
 3b10a365-38f5-4038-a3f8-26cb9404fccd,11/16/2025 23:50:00,Gross Domestic Product (QoQ),HIGH,JPY,Release,0.17,Growth
 ef564d1b-dd5d-4ab8-93c0-ac49a7e23f43,11/16/2025 23:50:00,Gross Domestic Product Annualized,HIGH,JPY,Release,0.17,Growth
 0e2b89e9-29a6-4cc4-a32f-496a286c6fb1,11/16/2025 23:50:00,Gross Domestic Product Deflator (YoY),HIGH,JPY,Release,0.19,Inflation
@@ -41,6 +39,7 @@ aa938a7f-7e75-41a9-9994-0cbd4f7f1e15,11/27/2025 23:50:00,Retail Trade (YoY),MEDI
 6b6a4a3f-071d-4ce5-957e-faf93f73e7f3,11/28/2025 05:00:00,Housing Starts (YoY),LOW,JPY,Release,0.07,Housing
 c7681f31-9d59-4e21-b42b-7ddefdbbc8a7,11/30/2025 23:50:00,Capital Spending,HIGH,JPY,Release,0.17,Growth
 641cb30c-2186-47ff-a973-31ce5f363f05,12/01/2025 00:30:00,Jibun Bank Manufacturing PMI,HIGH,JPY,Release,0.17,Growth
+e09aa8c1-34b3-4592-a5eb-030259228afd,12/01/2025 01:05:00,BoJ Governor Ueda speech,MEDIUM,JPY,Speech,0.13,Monetary Policy
 e7966d8f-970c-4fe8-80fb-85f8be678afc,12/01/2025 20:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
 cd28810d-c8f1-4d07-b307-98b4848645e5,12/02/2025 03:35:00,10-y Bond Auction,LOW,JPY,Release,0.09,Money and Credit
 b7ac795a-37b5-41d4-bea0-4a63afbcdeff,12/02/2025 05:00:00,Consumer Confidence Index,MEDIUM,JPY,Release,0.14,Confidence
