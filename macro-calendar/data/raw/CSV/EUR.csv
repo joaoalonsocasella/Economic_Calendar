@@ -1,20 +1,12 @@
 Id,Start,Name,Impact,Currency
-7d49433f-2a89-4830-8a6c-44127bc5af32,11/14/2025 07:05:00,ECB's Escrivá speech,MEDIUM,EUR
-f84f0123-db83-48c8-9819-01dbdf353838,11/14/2025 10:00:00,Employment Change (QoQ),MEDIUM,EUR
-c8c410cb-53cc-4001-8710-06cebe7fc9ae,11/14/2025 10:00:00,Employment Change (YoY),LOW,EUR
-fcf625e8-2910-4959-bfeb-f2ebb7953eeb,11/14/2025 10:00:00,European Commission releases Economic Growth Forecasts,MEDIUM,EUR
-3f2ad2d4-31d8-414f-9bf2-3dfd075fb562,11/14/2025 10:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR
-3ff5350e-eaaa-420f-9794-40beca0d6b31,11/14/2025 10:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR
-e5744670-cf67-4f6f-aad6-5f624b8b3884,11/14/2025 10:00:00,Trade Balance n.s.a.,LOW,EUR
-84248c2f-a65d-46c4-9dec-b91b9ab69752,11/14/2025 10:00:00,Trade Balance s.a.,LOW,EUR
-bc9dae69-b641-4fd6-ae52-28dda9417770,11/14/2025 10:30:00,ECB's Elderson speech,MEDIUM,EUR
-2341f3b1-336e-4009-a81c-3260465383ae,11/14/2025 13:30:00,ECB's Elderson speech,MEDIUM,EUR
-db9d0d35-aab7-4f5b-8409-ae5838949b79,11/14/2025 15:00:00,ECB's Lane speech,MEDIUM,EUR
-12a04410-33cc-46bd-91a2-c5642ae7dfcf,11/14/2025 20:30:00,CFTC EUR NC Net Positions,LOW,EUR
-366edba3-15c2-4fc4-af8b-f492f50e8061,11/15/2025 13:30:00,ECB's Schnabel speech,MEDIUM,EUR
 2b181140-fe47-442e-9bc6-0767e2932da2,11/16/2025 00:00:00,G20 Meeting,MEDIUM,EUR
-8346bfc5-f869-4ab8-801a-3440afaae979,11/17/2025 00:00:00,ECB's Sleijpen speech,MEDIUM,EUR
 d744339c-163d-4223-b210-c213ac73709e,11/17/2025 00:00:00,G20 Meeting,MEDIUM,EUR
+d08f4642-ea6e-4f0a-8fb0-d52047130838,11/17/2025 08:15:00,ECB's De Guindos speech,MEDIUM,EUR
+fcf625e8-2910-4959-bfeb-f2ebb7953eeb,11/17/2025 10:00:00,European Commission releases Economic Growth Forecasts,MEDIUM,EUR
+8346bfc5-f869-4ab8-801a-3440afaae979,11/17/2025 12:00:00,ECB's Sleijpen speech,MEDIUM,EUR
+0d608328-a32f-471c-a7df-d0087f7ade57,11/17/2025 14:45:00,ECB's Lane speech,MEDIUM,EUR
+a07943fc-1bb9-4356-bc0c-b045901206b2,11/17/2025 16:00:00,ECB's Cipollone speech,MEDIUM,EUR
+1b6bf0df-112f-4b18-8371-64bf85896ddb,11/18/2025 10:00:00,ECB's Elderson speech,MEDIUM,EUR
 b47a594e-808f-46af-93ec-9db3b586885d,11/19/2025 08:00:00,Non-Monetary Policy ECB Meeting,MEDIUM,EUR
 3dcee570-7978-46c9-b0e5-2d59106cada8,11/19/2025 09:00:00,Current Account n.s.a,LOW,EUR
 46d4d4da-ea5c-4256-a17a-0cab884cc607,11/19/2025 09:00:00,Current Account s.a,LOW,EUR
@@ -25,11 +17,17 @@ ea0a8139-b30b-448e-bcb0-382dfdf689d8,11/19/2025 10:00:00,Core Harmonized Index o
 6efd3cbd-802e-41bf-82fa-ff75d5f2be57,11/20/2025 10:00:00,Construction Output  s.a (MoM),LOW,EUR
 fa2c13ca-4ca5-48cc-87f9-5e4e8a352892,11/20/2025 10:00:00,Construction Output w.d.a (YoY),LOW,EUR
 1d2399d7-bff7-4984-bf9e-9f535cdcc78f,11/20/2025 15:00:00,Consumer Confidence,MEDIUM,EUR
+e83281cd-5a32-4988-a00b-63f1c7fb340b,11/21/2025 08:00:00,ECB's De Guindos speech,MEDIUM,EUR
+869a1d35-933f-416d-9ca1-795006d88223,11/21/2025 08:30:00,ECB's President Lagarde speech,HIGH,EUR
 a6d200b4-80fc-4f72-a8b4-28878f80b6a2,11/21/2025 09:00:00,HCOB Composite PMI,HIGH,EUR
 ca6c24b1-1e68-4e14-8965-2eb876b2128f,11/21/2025 09:00:00,HCOB Manufacturing PMI,HIGH,EUR
 1aa2d19e-c407-4581-b78f-ee7900c77f07,11/21/2025 09:00:00,HCOB Services PMI,HIGH,EUR
 5dd34913-85be-4dc8-9599-d0974687a19a,11/21/2025 10:00:00,Negotiated Wage Rates (QoQ),LOW,EUR
+3bad945f-1880-42e6-ab9e-906e48ddfd2d,11/21/2025 11:30:00,ECB's De Guindos speech,MEDIUM,EUR
+7f08f1ab-0faa-46e1-b415-bc59a428cf89,11/21/2025 13:00:00,ECB's Nagel speech,MEDIUM,EUR
 5e050ef1-6676-4b03-a3ca-910fb1c9522a,11/21/2025 20:30:00,CFTC EUR NC Net Positions,LOW,EUR
+d6e62ab2-e79c-4ea4-96e0-2edb5592e3ad,11/22/2025 08:00:00,ECB's President Lagarde speech,HIGH,EUR
+8d7f9add-b440-44b1-94fa-2bcf7d42d8c0,11/22/2025 11:00:00,ECB's President Lagarde speech,HIGH,EUR
 b03f04e1-b982-4d95-86da-74d1654d2979,11/26/2025 09:00:00,EU Financial Stability Review,LOW,EUR
 ee71417a-9cd9-4e3a-bcbb-900efba8b384,11/27/2025 09:00:00,M3 Money Supply (3m),LOW,EUR
 941abdd7-2bee-41fd-9a6a-f0e749168647,11/27/2025 09:00:00,M3 Money Supply (YoY),LOW,EUR
