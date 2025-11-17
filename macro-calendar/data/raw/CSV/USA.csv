@@ -2,6 +2,7 @@ Id,Start,Name,Impact,Currency
 0bab544a-6067-4363-828b-51bf6178f3db,11/17/2025 13:30:00,NY Empire State Manufacturing Index,MEDIUM,USD
 6b44ad35-141a-4d0d-8c32-482c0e734d31,11/17/2025 14:00:00,Fed's Williams speech,MEDIUM,USD
 de60fca5-cca3-4e28-b0b0-fb7d014b98d2,11/17/2025 14:30:00,Fed's Jefferson speech,MEDIUM,USD
+f6ec4fb7-5393-43a2-b3a4-d15326a2d90e,11/17/2025 15:00:00,Construction Spending (MoM),MEDIUM,USD
 6ee6cb07-e453-4874-8b44-bb83b9825c0f,11/17/2025 16:30:00,3-Month Bill Auction,LOW,USD
 c2cb78e5-ae12-441c-996c-751986e35b4d,11/17/2025 16:30:00,6-Month Bill Auction,LOW,USD
 ba00a311-bfd1-46ac-bbbc-687c999d6ae4,11/17/2025 18:00:00,Fed's Kashkari speech,MEDIUM,USD
@@ -15,24 +16,35 @@ ba00a311-bfd1-46ac-bbbc-687c999d6ae4,11/17/2025 18:00:00,Fed's Kashkari speech,M
 31f30d5f-dbe8-4476-9636-81a3bd18803f,11/18/2025 13:55:00,Redbook Index (YoY),LOW,USD
 4dec107d-c4a4-43ba-a890-5c038e6dab80,11/18/2025 14:15:00,Capacity Utilization,LOW,USD
 1516150f-31f5-4be9-ae8a-df3e3c305b2f,11/18/2025 14:15:00,Industrial Production (MoM),MEDIUM,USD
+d3484a40-d456-47fc-a353-8bd3e14eb614,11/18/2025 15:00:00,Factory Orders (MoM),MEDIUM,USD
 762daa1c-85ba-4966-bcf3-3d33531cc72e,11/18/2025 15:00:00,NAHB Housing Market Index,LOW,USD
 3ce52b6d-81b4-4072-89e0-274b1aeb0952,11/18/2025 15:30:00,Fed's Barr speech,MEDIUM,USD
+82014210-87ea-4be4-b724-a5821c18f6d1,11/18/2025 16:00:00,Fed's Barkin speech,MEDIUM,USD
 0b736217-5b77-43a5-8acf-f3030e248c60,11/18/2025 21:00:00,Net Long-Term TIC Flows,LOW,USD
 458d2566-23a7-4a33-b8ba-0a5feec4eddd,11/18/2025 21:00:00,Total Net TIC Flows,LOW,USD
 e38d4f9e-eeaf-402f-af4c-cc28cb5dce1d,11/18/2025 21:30:00,API Weekly Crude Oil Stock,LOW,USD
 ef500e78-2b5c-4c1b-a822-fbbcfbe00a63,11/19/2025 12:00:00,MBA Mortgage Applications,LOW,USD
 4cb65e48-8c5d-4f4a-94f9-fc1f71685ad4,11/19/2025 13:30:00,Building Permits (MoM),MEDIUM,USD
 2151afab-f791-46bd-9f0b-5f9592712efb,11/19/2025 13:30:00,Building Permits Change,LOW,USD
+bb85b279-88cd-4eec-83e3-93eb63d459c5,11/19/2025 13:30:00,Goods and Services Trade Balance,LOW,USD
+a8a3f8f8-fd2d-4cb9-a3ba-0b8134b70fca,11/19/2025 13:30:00,Goods Trade Balance,LOW,USD
 75807b7d-a0d6-4e25-b6b5-3469e31b7055,11/19/2025 13:30:00,Housing Starts (MoM),MEDIUM,USD
 afafb85b-c63e-4c27-befd-c4a95a8e0d6c,11/19/2025 13:30:00,Housing Starts Change,LOW,USD
 050effe4-f785-4eb3-93ab-d62e4c5af805,11/19/2025 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
 3b34f086-115b-4030-9a53-774a53edadb2,11/19/2025 18:00:00,20-Year Bond Auction,LOW,USD
 b1f4db28-9625-4621-98fe-50bd1910ca20,11/19/2025 19:00:00,Fed's Williams speech,MEDIUM,USD
 f7c20532-9307-4266-862f-749bfed9457b,11/19/2025 19:00:00,FOMC Minutes,HIGH,USD
+b0b52aa6-e69b-4612-ae29-b4cdb3c34f15,11/20/2025 13:30:00,Average Hourly Earnings (MoM),HIGH,USD
+908eb4b3-8dbe-4975-8729-dd3260000c5f,11/20/2025 13:30:00,Average Hourly Earnings (YoY),HIGH,USD
+cee19840-c0ec-46cd-9b31-e128a444021c,11/20/2025 13:30:00,Average Weekly Hours,HIGH,USD
 a7613e1c-2b67-47f2-a9cd-cc19e98689c7,11/20/2025 13:30:00,Continuing Jobless Claims,LOW,USD
 0efc35d8-a721-4204-9fc4-5fba312d43b2,11/20/2025 13:30:00,Initial Jobless Claims,MEDIUM,USD
 25630d81-15ec-497a-92a9-a0a805f31351,11/20/2025 13:30:00,Initial Jobless Claims 4-week average,LOW,USD
+17474707-7c40-4bc4-82c2-0ee50e526ec2,11/20/2025 13:30:00,Labor Force Participation Rate,HIGH,USD
+4104b299-fbb4-498d-96a4-1496514f44a3,11/20/2025 13:30:00,Nonfarm Payrolls,HIGH,USD
 d00065ca-acad-4b16-90d5-cc0505d2138e,11/20/2025 13:30:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD
+3bc5f4af-b51f-44fe-bb10-b3452b9db887,11/20/2025 13:30:00,U6 Underemployment Rate,HIGH,USD
+446e485a-666d-4d06-8626-f303bf048603,11/20/2025 13:30:00,Unemployment Rate,HIGH,USD
 05fcf837-94e5-4fd8-b917-e7700253a063,11/20/2025 15:00:00,Existing Home Sales (MoM),LOW,USD
 1c1291a8-62e1-4274-8e13-801780dadd3c,11/20/2025 15:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
 a7146b4e-0719-4629-9ede-9ba2ffe7cda2,11/20/2025 15:30:00,EIA Natural Gas Storage Change,LOW,USD

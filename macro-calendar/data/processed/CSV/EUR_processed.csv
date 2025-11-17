@@ -1,6 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-2b181140-fe47-442e-9bc6-0767e2932da2,11/16/2025 00:00:00,G20 Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
 d744339c-163d-4223-b210-c213ac73709e,11/17/2025 00:00:00,G20 Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
+3de84ce6-2725-4835-ae07-d6e6822b57f8,11/17/2025 05:15:00,ECB's Sleijpen speech,HIGH,EUR,Speech,0.552,Monetary Policy
 d08f4642-ea6e-4f0a-8fb0-d52047130838,11/17/2025 08:15:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
 fcf625e8-2910-4959-bfeb-f2ebb7953eeb,11/17/2025 10:00:00,European Commission releases Economic Growth Forecasts,HIGH,EUR,Release,0.85,Monetary Policy
 8346bfc5-f869-4ab8-801a-3440afaae979,11/17/2025 12:00:00,ECB's Sleijpen speech,HIGH,EUR,Speech,0.552,Monetary Policy
@@ -25,6 +25,7 @@ ca6c24b1-1e68-4e14-8965-2eb876b2128f,11/21/2025 09:00:00,HCOB Manufacturing PMI,
 5dd34913-85be-4dc8-9599-d0974687a19a,11/21/2025 10:00:00,Negotiated Wage Rates (QoQ),HIGH,EUR,Release,0.765,Labor Market
 3bad945f-1880-42e6-ab9e-906e48ddfd2d,11/21/2025 11:30:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
 7f08f1ab-0faa-46e1-b415-bc59a428cf89,11/21/2025 13:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
+76525fe3-5b45-4da3-9413-94ec0b1733df,11/21/2025 14:55:00,ECB's Escrivá speech,HIGH,EUR,Speech,0.552,Monetary Policy
 5e050ef1-6676-4b03-a3ca-910fb1c9522a,11/21/2025 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 d6e62ab2-e79c-4ea4-96e0-2edb5592e3ad,11/22/2025 08:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
 8d7f9add-b440-44b1-94fa-2bcf7d42d8c0,11/22/2025 11:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
