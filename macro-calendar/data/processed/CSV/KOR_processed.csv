@@ -9,13 +9,11 @@ f379d81a-110b-4d64-8f0b-6de77c6b1395,11/27/2025 23:00:00,Industrial Output (YoY)
 1facda4e-8285-4415-82a5-2e070ebb4789,11/27/2025 23:00:00,Service Sector Output,LOW,KRW,Release,0.09,Money and Credit
 b88558a1-320f-4102-b4f4-31113569aaf2,12/01/2025 00:00:00,Trade Balance,MEDIUM,KRW,Release,0.11,Trade and External
 7a13dc2b-c693-4617-877b-133ade68eabc,12/01/2025 00:30:00,S&P Global Manufacturing PMI,HIGH,KRW,Release,0.17,Growth
-b73063f9-9722-49e7-bdab-5c33f82ba29b,12/02/2025 23:00:00,Consumer Price Index Growth (MoM),HIGH,KRW,Release,0.19,Inflation
-12199e00-4220-4870-958c-e48d65ffcce5,12/02/2025 23:00:00,Consumer Price Index Growth (YoY),HIGH,KRW,Release,0.19,Inflation
-44fa2ce1-7060-4b27-a886-83c922b3a27b,12/02/2025 23:00:00,Gross Domestic Product Growth (QoQ) ,HIGH,KRW,Release,0.17,Growth
+b73063f9-9722-49e7-bdab-5c33f82ba29b,12/01/2025 23:00:00,Consumer Price Index Growth (MoM),HIGH,KRW,Release,0.19,Inflation
+12199e00-4220-4870-958c-e48d65ffcce5,12/01/2025 23:00:00,Consumer Price Index Growth (YoY),HIGH,KRW,Release,0.19,Inflation
+68789b72-09f5-4309-924b-6a5da559eded,12/02/2025 21:00:00,FX Reserves,LOW,KRW,Release,0.09,Money and Credit
 062e7284-d170-42d4-adc1-dddfcea690b0,12/02/2025 23:00:00,Gross Domestic Product Growth (QoQ) ,HIGH,KRW,Release,0.17,Growth
-051483b9-76a8-4881-9845-01f0c24c216f,12/02/2025 23:00:00,Gross Domestic Product Growth (YoY),HIGH,KRW,Release,0.17,Growth
 f1d2631a-f765-44ca-b3d6-3905009005ee,12/02/2025 23:00:00,Gross Domestic Product Growth (YoY),HIGH,KRW,Release,0.17,Growth
-68789b72-09f5-4309-924b-6a5da559eded,12/04/2025 21:00:00,FX Reserves,LOW,KRW,Release,0.09,Money and Credit
 31f76934-b48e-4f85-b880-07687f9a7bb7,12/04/2025 23:00:00,Current Account Balance,MEDIUM,KRW,Release,0.11,Trade and External
 eb4d9c0f-1c11-4551-bca4-5bbae5b70142,12/11/2025 23:00:00,Unemployment Rate,HIGH,KRW,Release,0.18,Labor Market
 020fd301-e3c4-4635-8443-1c7160279649,12/14/2025 23:55:00,Trade Balance,MEDIUM,KRW,Release,0.11,Trade and External
@@ -40,6 +38,8 @@ d002297b-de7b-466e-b6c9-136545e9619d,12/30/2025 23:00:00,Service Sector Output,L
 d91ba905-b247-444c-8134-51f3ae534685,01/15/2026 21:00:00,Export Price Growth (YoY),MEDIUM,KRW,Release,0.11,Trade and External
 1a9561cd-12eb-4cce-8193-9173f259494a,01/15/2026 21:00:00,Import Price Growth (YoY),MEDIUM,KRW,Release,0.11,Trade and External
 7af60a31-9440-408d-8c77-6b478d531f50,01/15/2026 23:55:00,Trade Balance,MEDIUM,KRW,Release,0.11,Trade and External
+44fa2ce1-7060-4b27-a886-83c922b3a27b,01/19/2026 23:00:00,Gross Domestic Product Growth (QoQ) ,HIGH,KRW,Release,0.17,Growth
+051483b9-76a8-4881-9845-01f0c24c216f,01/19/2026 23:00:00,Gross Domestic Product Growth (YoY),HIGH,KRW,Release,0.17,Growth
 ba4e3f60-71b9-4d30-9d46-52f88332b68c,01/21/2026 21:00:00,BOK Manufacturing BSI,HIGH,KRW,Release,0.17,Growth
 b305689b-2664-45d8-ba83-28f34a125a2f,01/21/2026 21:00:00,Producer Price Index Growth (MoM),HIGH,KRW,Release,0.19,Inflation
 e85a2179-ecde-4850-98ce-ebb1e2cc3bd3,01/21/2026 21:00:00,Producer Price Index Growth (YoY),HIGH,KRW,Release,0.19,Inflation

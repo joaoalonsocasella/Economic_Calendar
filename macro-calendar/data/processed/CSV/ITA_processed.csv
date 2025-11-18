@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-72aee8d8-6947-4cdb-8a7e-85f084cd85b1,11/17/2025 09:00:00,Consumer Price Index (EU Norm) (MoM),HIGH,EUR,Release,0.807,Inflation
-cf5eda70-9516-4363-9e5e-d074cc5459c1,11/17/2025 09:00:00,Consumer Price Index (EU Norm) (YoY),HIGH,EUR,Release,0.807,Inflation
-c196f569-2517-4a7c-8580-f3b75f004b51,11/17/2025 09:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-c4845efa-50dd-45a0-b293-bbda15fec5b9,11/17/2025 09:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 3f47118d-d386-4cef-ab9f-9d3b50dff24f,11/27/2025 09:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
 c69a4f3d-af0e-4f68-a674-deeeda398212,11/27/2025 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 c2b0b8c3-abd8-4792-baf5-a73ec68b5c08,11/27/2025 10:00:00,Industrial Sales n.s.a. (YoY),HIGH,EUR,Release,0.722,Growth

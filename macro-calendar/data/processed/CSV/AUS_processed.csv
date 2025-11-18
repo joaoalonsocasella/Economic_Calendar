@@ -19,6 +19,8 @@ ea55ce50-e660-47fa-935d-31e0024d06fd,12/01/2025 00:30:00,ANZ Job Advertisements,
 5fd0bace-9eef-4c78-87d8-d99f0c88ee57,12/01/2025 00:30:00,Company Gross Operating Profits (QoQ),HIGH,AUD,Release,0.17,Growth
 376fbc60-27e2-405a-a0f3-75f884072534,12/01/2025 05:30:00,RBA Commodity Index SDR (YoY),HIGH,AUD,Release,0.19,Inflation
 2bfa7d02-635c-4dcd-bfdc-6f64b1599caa,12/01/2025 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
+b48e3a7d-765c-45c6-af0b-7d9e1847d3a1,12/02/2025 00:30:00,Building Permits (MoM),LOW,AUD,Release,0.07,Housing
+c6040ab6-78ad-4d48-b06a-284ef9cce4a0,12/02/2025 00:30:00,Building Permits (YoY),LOW,AUD,Release,0.07,Housing
 be1974a4-b7fd-4311-af59-143fae7f82ad,12/02/2025 00:30:00,Current Account Balance,MEDIUM,AUD,Release,0.11,Trade and External
 77f93f0d-a675-4a94-95b8-40e345a6ab09,12/02/2025 22:00:00,Ai Group Construction PMI,HIGH,AUD,Release,0.17,Growth
 bc2beb48-bacd-4995-b076-90f5b13ed88a,12/02/2025 22:00:00,Ai Group Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
@@ -27,8 +29,6 @@ bc2beb48-bacd-4995-b076-90f5b13ed88a,12/02/2025 22:00:00,Ai Group Manufacturing 
 f192227a-32cb-41b0-aea7-57930692307b,12/02/2025 22:00:00,S&P Global Services PMI,HIGH,AUD,Release,0.17,Growth
 110e90c5-9d90-46ed-8c3e-8e7153376060,12/03/2025 00:30:00,Gross Domestic Product (QoQ),HIGH,AUD,Release,0.17,Growth
 b7107e55-bce4-4481-8b8d-bd0f66586db9,12/03/2025 00:30:00,Gross Domestic Product (YoY),HIGH,AUD,Release,0.17,Growth
-b48e3a7d-765c-45c6-af0b-7d9e1847d3a1,12/04/2025 00:30:00,Building Permits (MoM),LOW,AUD,Release,0.07,Housing
-c6040ab6-78ad-4d48-b06a-284ef9cce4a0,12/04/2025 00:30:00,Building Permits (YoY),LOW,AUD,Release,0.07,Housing
 f289505c-c404-4b47-845e-516cee828e3c,12/04/2025 00:30:00,Exports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
 05380d4e-f0d0-4b5e-96ba-107258eb8ff2,12/04/2025 00:30:00,Imports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
 d26819e9-3176-4ca8-ba27-87ba15c88449,12/04/2025 00:30:00,Trade Balance (MoM),MEDIUM,AUD,Release,0.11,Trade and External

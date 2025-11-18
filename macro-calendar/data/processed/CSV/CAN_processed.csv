@@ -1,11 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-57082488-90b8-4c05-b491-41bdebf4dc35,11/17/2025 13:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
-b6289159-e845-4fe1-8719-18f52be41113,11/17/2025 13:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
-512965a1-c7fa-484e-b291-a63ce4e9ae56,11/17/2025 13:30:00,Canadian Portfolio Investment in Foreign Securities,MEDIUM,CAD,Release,0.11,Trade and External
-e5c6f4de-3acb-4ed6-9b65-c15e883ebaed,11/17/2025 13:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
-9b53ec3d-4046-42a7-b76d-85f1dcca0442,11/17/2025 13:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
-4a441c52-2363-4c1e-9267-93b5b96d6822,11/17/2025 13:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
-4f870fc2-e9f0-4c77-8f80-0e6873847a89,11/17/2025 13:30:00,Foreign Portfolio Investment in Canadian Securities,MEDIUM,CAD,Release,0.11,Trade and External
 0df4d93a-d910-441a-9871-73227631fbe9,11/18/2025 13:15:00,Housing Starts s.a (YoY),LOW,CAD,Release,0.07,Housing
 9990b996-0de1-4331-b134-b44edb995f12,11/20/2025 13:30:00,Employment Insurance Beneficiaries Change (MoM),HIGH,CAD,Release,0.18,Labor Market
 5ea160ee-ba3f-41fc-b582-cf1ed36e5419,11/20/2025 13:30:00,Industrial Product Price (MoM),HIGH,CAD,Release,0.19,Inflation
@@ -23,12 +16,12 @@ cbbc60da-70a9-4fbd-82b7-925eb4249196,12/03/2025 13:30:00,Labor Productivity (QoQ
 d712de87-b17a-4150-8546-d69f06faa64d,12/04/2025 13:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
 d6427cdd-1212-4ae6-9d89-28caf30bd386,12/04/2025 13:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
 c62c0ddf-e230-4337-8f91-56c4d66d317d,12/04/2025 13:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
+8f144050-0823-4b7d-8d2d-5526e97d02b3,12/04/2025 15:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD,Release,0.14,Confidence
+12411f28-d225-4c3c-86cd-2119ce89a080,12/04/2025 15:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD,Release,0.14,Confidence
 625400c7-2841-41a5-94a1-b0166940d0fc,12/05/2025 13:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
 e5042c5d-3209-41b9-b96a-257854a802b1,12/05/2025 13:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
 102a9f6c-3f9f-4fc5-828a-83ba41ac5b34,12/05/2025 13:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
 179d4d94-e389-4ac6-979a-f57e507a7b92,12/05/2025 13:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
-8f144050-0823-4b7d-8d2d-5526e97d02b3,12/05/2025 15:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD,Release,0.14,Confidence
-12411f28-d225-4c3c-86cd-2119ce89a080,12/05/2025 15:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD,Release,0.14,Confidence
 ce560d9d-425b-4dad-b6f8-b475ccc95203,12/10/2025 14:45:00,BoC Interest Rate Decision,MEDIUM,CAD,Speech,0.13,Monetary Policy
 35616238-ca21-478d-876e-dda01f0b4cc3,12/10/2025 14:45:00,BoC Monetary Policy Statement,MEDIUM,CAD,Speech,0.13,Monetary Policy
 bceed3e2-5c64-424e-b64b-f9e8d2497d09,12/12/2025 13:30:00,Building Permits (MoM),LOW,CAD,Release,0.07,Housing

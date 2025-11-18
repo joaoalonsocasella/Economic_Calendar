@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-8cd6c5ee-3614-45c8-b03a-3e0e1e133470,11/17/2025 07:30:00,Industrial Production (YoY),MEDIUM,CHF
 0b5e2c20-ca6b-4d02-8936-ef81abe8ea4b,11/20/2025 07:00:00,Exports (MoM),LOW,CHF
 734759ef-a349-4f5f-8f5e-0dcd2e3d6d2b,11/20/2025 07:00:00,Imports (MoM),LOW,CHF
 1821b90b-9160-43a8-a6ef-f51e33618d45,11/20/2025 07:00:00,Trade Balance,LOW,CHF
@@ -9,11 +8,11 @@ b60fcbeb-86e3-4449-8324-8c570df28523,11/26/2025 09:00:00,ZEW Survey – Expectat
 60307511-b2d2-4d19-899a-d4bb83af5d42,11/28/2025 08:00:00,Gross Domestic Product (QoQ),HIGH,CHF
 a0e85f39-cdd8-48a6-960d-843bd53c5566,11/28/2025 08:00:00,Gross Domestic Product (YoY),MEDIUM,CHF
 be54ba72-2e77-4952-aaa3-f6927fa84e30,11/28/2025 08:00:00,KOF Leading Indicator,LOW,CHF
+0125b975-1c47-46ac-bf8c-f64ebfc85f1e,12/01/2025 07:30:00,Real Retail Sales (YoY),MEDIUM,CHF
 3280cb85-c778-449a-9c26-6c652659d41c,12/01/2025 08:30:00,SVME - Purchasing Managers' Index,LOW,CHF
-0125b975-1c47-46ac-bf8c-f64ebfc85f1e,12/02/2025 07:30:00,Real Retail Sales (YoY),MEDIUM,CHF
 60d33f2e-d499-4d48-84ec-5a36f00aa426,12/03/2025 07:30:00,Consumer Price Index (MoM),MEDIUM,CHF
 fe428a0f-129d-4f7e-980f-062f62ea66f5,12/03/2025 07:30:00,Consumer Price Index (YoY),HIGH,CHF
-bac2ce65-f3f3-4a4b-92fa-f2e9882f372d,12/05/2025 06:45:00,Unemployment Rate s.a (MoM),LOW,CHF
+bac2ce65-f3f3-4a4b-92fa-f2e9882f372d,12/04/2025 06:45:00,Unemployment Rate s.a (MoM),LOW,CHF
 fd0e8475-ac12-4e1b-a192-7e1780383bbc,12/05/2025 08:00:00,Foreign Currency Reserves,LOW,CHF
 e782eeac-7758-4c5c-ba60-02d190595304,12/11/2025 08:30:00,SNB Interest Rate Decision,HIGH,CHF
 9686dea4-e090-466d-a94c-f2b6a2c991ad,12/11/2025 08:30:00,SNB Monetary Policy Assessment,HIGH,CHF

@@ -1,11 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d744339c-163d-4223-b210-c213ac73709e,11/17/2025 00:00:00,G20 Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
-3de84ce6-2725-4835-ae07-d6e6822b57f8,11/17/2025 05:15:00,ECB's Sleijpen speech,HIGH,EUR,Speech,0.552,Monetary Policy
-d08f4642-ea6e-4f0a-8fb0-d52047130838,11/17/2025 08:15:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
-fcf625e8-2910-4959-bfeb-f2ebb7953eeb,11/17/2025 10:00:00,European Commission releases Economic Growth Forecasts,HIGH,EUR,Release,0.85,Monetary Policy
-8346bfc5-f869-4ab8-801a-3440afaae979,11/17/2025 12:00:00,ECB's Sleijpen speech,HIGH,EUR,Speech,0.552,Monetary Policy
-0d608328-a32f-471c-a7df-d0087f7ade57,11/17/2025 14:45:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
-a07943fc-1bb9-4356-bc0c-b045901206b2,11/17/2025 16:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
 1b6bf0df-112f-4b18-8371-64bf85896ddb,11/18/2025 10:00:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy
 b47a594e-808f-46af-93ec-9db3b586885d,11/19/2025 08:00:00,Non-Monetary Policy ECB Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
 3dcee570-7978-46c9-b0e5-2d59106cada8,11/19/2025 09:00:00,Current Account n.s.a,HIGH,EUR,Release,0.468,Trade and External
@@ -48,8 +41,8 @@ fcf8a57f-9351-4b7b-a4b2-f59d97a1cddc,12/02/2025 10:00:00,Harmonized Index of Con
 f154c4ca-1b6e-40d3-8a2c-ab02742e020e,12/02/2025 10:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
 30d34a4d-1b05-417c-ae42-582fe79f6c29,12/03/2025 09:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 b84f2703-398a-4195-a852-11cfe912d816,12/03/2025 09:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
-b73186df-ef29-44f0-8efd-ba291c530f90,12/04/2025 10:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-39c320eb-cc4a-4c11-99d5-e9326f29cde3,12/04/2025 10:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+b73186df-ef29-44f0-8efd-ba291c530f90,12/03/2025 10:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+39c320eb-cc4a-4c11-99d5-e9326f29cde3,12/03/2025 10:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 a90ba40b-3a0e-4b6d-b331-73986f5567a0,12/04/2025 10:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
 512937a3-a4bd-4903-8396-42262b9f98b3,12/04/2025 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 8ec5bab3-81c5-4960-998e-f0419a61df3d,12/05/2025 10:00:00,Employment Change (QoQ),HIGH,EUR,Release,0.765,Labor Market
