@@ -1,12 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-b47a594e-808f-46af-93ec-9db3b586885d,11/19/2025 08:00:00,Non-Monetary Policy ECB Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
-3dcee570-7978-46c9-b0e5-2d59106cada8,11/19/2025 09:00:00,Current Account n.s.a,HIGH,EUR,Release,0.468,Trade and External
-46d4d4da-ea5c-4256-a17a-0cab884cc607,11/19/2025 09:00:00,Current Account s.a,HIGH,EUR,Release,0.468,Trade and External
-3bfc083b-0b00-40c2-b384-3d3bae8bd2ab,11/19/2025 10:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
-ea0a8139-b30b-448e-bcb0-382dfdf689d8,11/19/2025 10:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.807,Inflation
-41982c45-34d6-407e-8ccd-02c41bb123d8,11/19/2025 10:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
-7a8a9b92-2279-4b7c-aae1-f103da411069,11/19/2025 10:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
-d8e621a6-4ba5-47d6-8c6f-8be9f884b108,11/19/2025 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 6efd3cbd-802e-41bf-82fa-ff75d5f2be57,11/20/2025 10:00:00,Construction Output  s.a (MoM),HIGH,EUR,Release,0.297,Housing
 fa2c13ca-4ca5-48cc-87f9-5e4e8a352892,11/20/2025 10:00:00,Construction Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
 1d2399d7-bff7-4984-bf9e-9f535cdcc78f,11/20/2025 15:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
@@ -19,7 +11,7 @@ ca6c24b1-1e68-4e14-8965-2eb876b2128f,11/21/2025 09:00:00,HCOB Manufacturing PMI,
 3bad945f-1880-42e6-ab9e-906e48ddfd2d,11/21/2025 11:30:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
 7f08f1ab-0faa-46e1-b415-bc59a428cf89,11/21/2025 13:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 76525fe3-5b45-4da3-9413-94ec0b1733df,11/21/2025 14:55:00,ECB's Escrivá speech,HIGH,EUR,Speech,0.552,Monetary Policy
-5e050ef1-6676-4b03-a3ca-910fb1c9522a,11/21/2025 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
+d8e621a6-4ba5-47d6-8c6f-8be9f884b108,11/21/2025 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 d6e62ab2-e79c-4ea4-96e0-2edb5592e3ad,11/22/2025 08:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
 8d7f9add-b440-44b1-94fa-2bcf7d42d8c0,11/22/2025 11:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
 fd2c9a38-4d64-4db5-85e9-5c6cce194b4d,11/25/2025 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit

@@ -1,12 +1,8 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e07724bf-8cc5-4e32-88b6-f696a15f5aac,11/19/2025 00:00:00,Westpac Leading Index (MoM),MEDIUM,AUD,Release,0.14,Confidence
-8754ce1b-6f46-4dac-a574-c62cdf7b449d,11/19/2025 00:30:00,Wage Price Index (QoQ),HIGH,AUD,Release,0.18,Labor Market
-4140f644-d07c-44ac-8e64-0b14691bf6a0,11/19/2025 00:30:00,Wage Price Index (YoY),HIGH,AUD,Release,0.18,Labor Market
-b7b6b75e-6c18-4ebe-a23b-2a073da1cf14,11/19/2025 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 517ff801-3e3f-4307-915e-522833534286,11/20/2025 22:00:00,S&P Global Composite PMI,HIGH,AUD,Release,0.17,Growth
 d3169ef3-dbf1-4119-8cd0-a79770bbc3bc,11/20/2025 22:00:00,S&P Global Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
 d3c552fa-545e-495c-9675-14bcf712ee2e,11/20/2025 22:00:00,S&P Global Services PMI,HIGH,AUD,Release,0.17,Growth
-7571f6c5-b0f8-433e-9784-5f4d302f33a2,11/21/2025 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
+b7b6b75e-6c18-4ebe-a23b-2a073da1cf14,11/21/2025 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 f64aed50-12a7-4899-8550-0fadd6a37494,11/25/2025 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 fd72be18-b439-48d6-94ab-7e1bf1837ad3,11/26/2025 00:30:00,Construction Work Done,HIGH,AUD,Release,0.17,Growth
 1955dd26-33e5-46c2-9e41-1117ddc3877f,11/26/2025 00:30:00,Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation

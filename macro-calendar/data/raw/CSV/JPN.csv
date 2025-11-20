@@ -1,7 +1,4 @@
 Id,Start,Name,Impact,Currency
-b0227140-426f-4bf6-be1c-d1ed87316ea5,11/19/2025 20:30:00,CFTC JPY NC Net Positions,LOW,JPY
-17ceb0bd-2cd4-4e9e-bbbb-eb541a985008,11/19/2025 23:50:00,Foreign Bond Investment,LOW,JPY
-1fe02c40-30c4-400f-ac5d-1af5cebe06e7,11/19/2025 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
 2138cf2d-ca64-4e6b-b622-d3acb00df2de,11/20/2025 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
 6cf7ee70-56cb-4a22-8c87-8029150080c7,11/20/2025 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
 8cdf9315-7cfc-46e2-a941-874833264103,11/20/2025 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
@@ -11,7 +8,7 @@ ce3f6e4a-075b-411b-8fab-37edc02fb799,11/20/2025 23:50:00,Imports (YoY),MEDIUM,JP
 cbdada7c-bb53-430f-89e7-3a47d54dc342,11/20/2025 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY
 2f8496f5-b789-4871-9bca-3f009fec24bf,11/21/2025 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
 14211881-670d-4bee-a4f3-a68f3a178c95,11/21/2025 00:30:00,Jibun Bank Services PMI,LOW,JPY
-21db0b06-3c5d-478e-881b-1d7bbdf0e49d,11/21/2025 20:30:00,CFTC JPY NC Net Positions,LOW,JPY
+b0227140-426f-4bf6-be1c-d1ed87316ea5,11/21/2025 20:30:00,CFTC JPY NC Net Positions,LOW,JPY
 4792ed9d-3fb4-426d-aa9d-99731a9f951e,11/25/2025 20:30:00,CFTC JPY NC Net Positions,LOW,JPY
 da7dd7b8-b008-4819-ab5f-44b6ee8c66fb,11/25/2025 23:50:00,Corporate Service Price Index (YoY),LOW,JPY
 b226cd9f-064a-4ec6-9f97-c5306c5e44eb,11/26/2025 05:00:00,Coincident Index,LOW,JPY

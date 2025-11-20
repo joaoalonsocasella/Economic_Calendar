@@ -1,20 +1,4 @@
 Id,Start,Name,Impact,Currency
-ef500e78-2b5c-4c1b-a822-fbbcfbe00a63,11/19/2025 12:00:00,MBA Mortgage Applications,LOW,USD
-4cb65e48-8c5d-4f4a-94f9-fc1f71685ad4,11/19/2025 13:30:00,Building Permits (MoM),MEDIUM,USD
-2151afab-f791-46bd-9f0b-5f9592712efb,11/19/2025 13:30:00,Building Permits Change,LOW,USD
-bb85b279-88cd-4eec-83e3-93eb63d459c5,11/19/2025 13:30:00,Goods and Services Trade Balance,LOW,USD
-a8a3f8f8-fd2d-4cb9-a3ba-0b8134b70fca,11/19/2025 13:30:00,Goods Trade Balance,LOW,USD
-75807b7d-a0d6-4e25-b6b5-3469e31b7055,11/19/2025 13:30:00,Housing Starts (MoM),MEDIUM,USD
-afafb85b-c63e-4c27-befd-c4a95a8e0d6c,11/19/2025 13:30:00,Housing Starts Change,LOW,USD
-d84a9550-df22-4123-8507-4e3579260157,11/19/2025 15:00:00,Fed's Miran speech,MEDIUM,USD
-050effe4-f785-4eb3-93ab-d62e4c5af805,11/19/2025 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
-3b34f086-115b-4030-9a53-774a53edadb2,11/19/2025 18:00:00,20-Year Bond Auction,LOW,USD
-b1f4db28-9625-4621-98fe-50bd1910ca20,11/19/2025 19:00:00,Fed's Williams speech,MEDIUM,USD
-f7c20532-9307-4266-862f-749bfed9457b,11/19/2025 19:00:00,FOMC Minutes,HIGH,USD
-45d3fd1c-3dcc-49cf-9afb-242c5fb40328,11/19/2025 19:00:00,Monthly Budget Statement,MEDIUM,USD
-251e9a0b-10e2-435f-b398-12ea00191c56,11/19/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD
-ab44fa48-4006-45d8-903f-2ad2995b13c0,11/19/2025 20:30:00,CFTC Oil NC Net Positions,LOW,USD
-ef7a16fc-c8d3-404b-8631-c0963c7a6897,11/19/2025 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 b0b52aa6-e69b-4612-ae29-b4cdb3c34f15,11/20/2025 13:30:00,Average Hourly Earnings (MoM),HIGH,USD
 908eb4b3-8dbe-4975-8729-dd3260000c5f,11/20/2025 13:30:00,Average Hourly Earnings (YoY),HIGH,USD
 cee19840-c0ec-46cd-9b31-e128a444021c,11/20/2025 13:30:00,Average Weekly Hours,HIGH,USD
@@ -28,6 +12,7 @@ d00065ca-acad-4b16-90d5-cc0505d2138e,11/20/2025 13:30:00,Philadelphia Fed Manufa
 446e485a-666d-4d06-8626-f303bf048603,11/20/2025 13:30:00,Unemployment Rate,HIGH,USD
 05fcf837-94e5-4fd8-b917-e7700253a063,11/20/2025 15:00:00,Existing Home Sales (MoM),LOW,USD
 1c1291a8-62e1-4274-8e13-801780dadd3c,11/20/2025 15:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
+9703da43-09a7-4aab-bf51-205b88ff5556,11/20/2025 15:15:00,Fed's Hammack speech,MEDIUM,USD
 a7146b4e-0719-4629-9ede-9ba2ffe7cda2,11/20/2025 15:30:00,EIA Natural Gas Storage Change,LOW,USD
 359bbaf5-16f5-4f1e-9b73-6cb3f75b9bcf,11/20/2025 16:00:00,Fed's Cook speech,MEDIUM,USD
 f18fb89a-382f-4231-95b3-62ae0ae8301c,11/20/2025 16:00:00,Kansas Fed Manufacturing Activity,LOW,USD
@@ -38,6 +23,7 @@ e6fc0f0d-c07c-4489-a895-c926c9816193,11/20/2025 23:15:00,Fed's Miran speech,MEDI
 0481f5af-7a3e-47a2-a389-b5d1f0609292,11/21/2025 12:30:00,Fed's Williams speech,MEDIUM,USD
 4bbecac8-b68b-4892-8db8-1db798b5cc4c,11/21/2025 13:30:00,Fed's Barr speech,MEDIUM,USD
 4cdd78e0-8b4b-40b6-80f2-99d0e921fad7,11/21/2025 13:45:00,Fed's Jefferson speech,MEDIUM,USD
+aab5f68a-c319-42d8-a801-16f697671c9a,11/21/2025 14:00:00,Fed's Logan speech,MEDIUM,USD
 32ad66af-6951-4967-8a39-995b25c711a8,11/21/2025 14:45:00,S&P Global Composite PMI,MEDIUM,USD
 c214a971-7443-42fd-a090-cb54dc2796a7,11/21/2025 14:45:00,S&P Global Manufacturing PMI,HIGH,USD
 d7babcb7-df89-470d-aa40-4817642e1788,11/21/2025 14:45:00,S&P Global Services PMI,HIGH,USD
@@ -45,10 +31,11 @@ d7babcb7-df89-470d-aa40-4817642e1788,11/21/2025 14:45:00,S&P Global Services PMI
 5712857c-6ef8-4c28-8053-355cf573d07f,11/21/2025 15:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD
 43f41031-db20-4b30-b897-17d9281865d5,11/21/2025 15:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
 f31eda35-04cb-4f27-b093-c18b8a620967,11/21/2025 15:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD
+ea83712b-03d3-441f-9d37-e27141c103ca,11/21/2025 15:00:00,Wholesale Inventories,LOW,USD
 f7c2acff-c024-4f62-b4aa-3f4c2f8ab616,11/21/2025 18:00:00,Baker Hughes US Oil Rig Count,LOW,USD
-3c20e7da-cf77-4876-ba9a-1b4b4d789cbc,11/21/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD
-2dc04454-f9d0-486b-ac59-8c75164a74b1,11/21/2025 20:30:00,CFTC Oil NC Net Positions,LOW,USD
-67697b1b-4df2-4067-8e06-3c4f5b5654f2,11/21/2025 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
+251e9a0b-10e2-435f-b398-12ea00191c56,11/21/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD
+ab44fa48-4006-45d8-903f-2ad2995b13c0,11/21/2025 20:30:00,CFTC Oil NC Net Positions,LOW,USD
+ef7a16fc-c8d3-404b-8631-c0963c7a6897,11/21/2025 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 ce3b4e9d-cbc8-4b9c-9bd6-ee2a6fdb7979,11/24/2025 13:30:00,"Chicago Fed National Activity Index ",LOW,USD
 af1fb771-af56-4b1f-80c5-3e1b73835c0f,11/24/2025 15:30:00,Dallas Fed Manufacturing Business Index,LOW,USD
 fcc3128c-960d-4811-8ba7-1280c810fd6c,11/24/2025 16:30:00,3-Month Bill Auction,LOW,USD
@@ -59,9 +46,14 @@ ce0025e8-d478-484a-aeac-0825f43f2906,11/25/2025 13:15:00,ADP Employment Change 4
 3e07540e-a94d-4c4e-bd66-29046e722aea,11/25/2025 13:30:00,Producer Price Index (YoY),MEDIUM,USD
 57cebe9f-cf56-477f-84cd-31235d40f680,11/25/2025 13:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
 f846354f-70ca-4ff6-9bd4-fbdc00893ce7,11/25/2025 13:30:00,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+39ff798a-f73f-4c96-802b-d3d634516c53,11/25/2025 13:30:00,Retail Sales (MoM),HIGH,USD
+f41fb869-2803-423d-8f7b-94b06d6a1401,11/25/2025 13:30:00,Retail Sales (YoY),LOW,USD
+6fd7ccbd-163c-4ce8-a83d-60e69014865a,11/25/2025 13:30:00,Retail Sales Control Group,HIGH,USD
+7bbcc556-07f0-4872-bf7c-17815bc28d23,11/25/2025 13:30:00,Retail Sales ex Autos (MoM),MEDIUM,USD
 c71e7a9c-f478-4e04-8aea-a45ae7e7a158,11/25/2025 13:55:00,Redbook Index (YoY),LOW,USD
 8a08f9b6-1ece-45d8-9fff-a511cab0651b,11/25/2025 14:00:00,Housing Price Index (MoM),MEDIUM,USD
 5be92588-1ff7-4f32-b024-b8c4e8b4354c,11/25/2025 14:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD
+3d47cf5c-c69c-4e65-b0bb-d60e2d04ef6c,11/25/2025 15:00:00,Business Inventories,LOW,USD
 f68afeab-945d-41ea-abfb-e992b59b9c06,11/25/2025 15:00:00,Consumer Confidence,MEDIUM,USD
 abb19708-e28e-4ac3-a6df-572ced07d899,11/25/2025 15:00:00,Pending Home Sales (MoM),MEDIUM,USD
 6f92d361-c54e-4b88-bcfc-d0ba6fb02a08,11/25/2025 15:00:00,Pending Home Sales (YoY),LOW,USD
@@ -91,7 +83,6 @@ eab0c6f7-a781-4b44-a1ad-f2df87b2e38f,11/26/2025 13:30:00,Nondefense Capital Good
 16468388-9829-4c07-8ed3-fc7c6610f974,11/26/2025 13:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
 2efdb5a8-be78-4152-ae23-9cfbac9e8f37,11/26/2025 13:30:00,Personal Income (MoM),MEDIUM,USD
 4f8c2c89-9653-4ed9-8f0b-147324b83ded,11/26/2025 13:30:00,Personal Spending,MEDIUM,USD
-bd8f1623-d093-49a1-8255-5b937f8f28f4,11/26/2025 13:30:00,Wholesale Inventories,LOW,USD
 0f2475c7-e79a-4fe0-83c7-d48ef22d546b,11/26/2025 14:45:00,Chicago PMI,MEDIUM,USD
 93e49409-00d4-4d4d-b669-5a3939ff6220,11/26/2025 15:00:00,New Home Sales (MoM),LOW,USD
 d4f8d570-abc8-4214-aee6-41a331c4cc95,11/26/2025 15:00:00,New Home Sales Change (MoM),MEDIUM,USD
@@ -137,14 +128,7 @@ a0d2df31-6268-4061-aabc-7d29703eb6e7,12/03/2025 15:30:00,EIA Crude Oil Stocks Ch
 b73a89be-7f51-4812-bdf4-44aa910cd376,12/04/2025 13:30:00,Initial Jobless Claims 4-week average,LOW,USD
 ad286479-31e5-44dc-a773-8b75231b8eb6,12/04/2025 15:30:00,EIA Natural Gas Storage Change,LOW,USD
 a921cba6-8f81-4297-a272-7146d7bfd5bb,12/04/2025 16:30:00,4-Week Bill Auction,LOW,USD
-57b34c04-d5e9-4cd1-8061-3fc9f3f04377,12/05/2025 13:30:00,Average Hourly Earnings (MoM),HIGH,USD
-4bf747eb-8856-4065-b363-148805176229,12/05/2025 13:30:00,Average Hourly Earnings (YoY),HIGH,USD
-1ca02ac9-746a-4b38-9699-e62d743af6c5,12/05/2025 13:30:00,Average Weekly Hours,LOW,USD
 1cdcbeb3-f638-496b-93bc-d1f019128ee7,12/05/2025 13:30:00,Goods Trade Balance,LOW,USD
-26c31dfe-97af-426b-91a9-081cae52ee2d,12/05/2025 13:30:00,Labor Force Participation Rate,MEDIUM,USD
-c7b28bbe-61a9-4fbc-9c6a-4b6a83a74a35,12/05/2025 13:30:00,Nonfarm Payrolls,HIGH,USD
-fe66cbd0-4c9b-4017-b0e9-3f1b27d93150,12/05/2025 13:30:00,U6 Underemployment Rate,MEDIUM,USD
-c1efbb37-36aa-4504-9fd6-e026f6610f47,12/05/2025 13:30:00,Unemployment Rate,MEDIUM,USD
 cd3a441b-fde2-44d8-9bc5-c0177c2c55bf,12/05/2025 15:00:00,Factory Orders (MoM),MEDIUM,USD
 59cd3573-d499-44d9-a82b-0b199294dd41,12/05/2025 15:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
 3a0a5804-01de-42ce-9f6f-fa653ac24943,12/05/2025 15:00:00,Michigan Consumer Sentiment Index,HIGH,USD
@@ -208,10 +192,17 @@ b818bfff-fbaa-4f41-bd52-fd78cff600ba,12/12/2025 20:30:00,CFTC Gold NC Net Positi
 0786b799-55bf-423d-b7cb-867db7f85f2e,12/15/2025 16:30:00,3-Month Bill Auction,LOW,USD
 474b225d-7281-413b-a15f-a6e4bd97a3f7,12/15/2025 16:30:00,6-Month Bill Auction,LOW,USD
 d6668271-9384-499d-96ce-39c8a77966ea,12/16/2025 13:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+57b34c04-d5e9-4cd1-8061-3fc9f3f04377,12/16/2025 13:30:00,Average Hourly Earnings (MoM),HIGH,USD
+4bf747eb-8856-4065-b363-148805176229,12/16/2025 13:30:00,Average Hourly Earnings (YoY),HIGH,USD
+1ca02ac9-746a-4b38-9699-e62d743af6c5,12/16/2025 13:30:00,Average Weekly Hours,LOW,USD
 acdd95a2-cad5-4eb4-a1be-415188a82a70,12/16/2025 13:30:00,Building Permits (MoM),MEDIUM,USD
 3fb06ed4-8bea-42e4-add5-e6af92cc7a29,12/16/2025 13:30:00,Building Permits Change,LOW,USD
 d7029972-a68f-41ef-b6cf-61deb9a2c75d,12/16/2025 13:30:00,Housing Starts (MoM),MEDIUM,USD
 cf218635-bb62-46bd-a49a-0b4a11584027,12/16/2025 13:30:00,Housing Starts Change,LOW,USD
+26c31dfe-97af-426b-91a9-081cae52ee2d,12/16/2025 13:30:00,Labor Force Participation Rate,MEDIUM,USD
+c7b28bbe-61a9-4fbc-9c6a-4b6a83a74a35,12/16/2025 13:30:00,Nonfarm Payrolls,HIGH,USD
+fe66cbd0-4c9b-4017-b0e9-3f1b27d93150,12/16/2025 13:30:00,U6 Underemployment Rate,MEDIUM,USD
+c1efbb37-36aa-4504-9fd6-e026f6610f47,12/16/2025 13:30:00,Unemployment Rate,MEDIUM,USD
 0d485775-df58-41bd-9edf-2afe4abc30e3,12/16/2025 13:55:00,Redbook Index (YoY),LOW,USD
 c7c755bc-040d-4d5f-b23d-ab36d343fe80,12/16/2025 14:15:00,Capacity Utilization,LOW,USD
 22428dea-834d-46a1-83b0-84f3017a4ab0,12/16/2025 14:15:00,Industrial Production (MoM),MEDIUM,USD
