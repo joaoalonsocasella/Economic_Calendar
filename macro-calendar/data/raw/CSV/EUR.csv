@@ -1,7 +1,4 @@
 Id,Start,Name,Impact,Currency
-6efd3cbd-802e-41bf-82fa-ff75d5f2be57,11/20/2025 10:00:00,Construction Output  s.a (MoM),LOW,EUR
-fa2c13ca-4ca5-48cc-87f9-5e4e8a352892,11/20/2025 10:00:00,Construction Output w.d.a (YoY),LOW,EUR
-1d2399d7-bff7-4984-bf9e-9f535cdcc78f,11/20/2025 15:00:00,Consumer Confidence,MEDIUM,EUR
 e83281cd-5a32-4988-a00b-63f1c7fb340b,11/21/2025 08:00:00,ECB's De Guindos speech,MEDIUM,EUR
 869a1d35-933f-416d-9ca1-795006d88223,11/21/2025 08:30:00,ECB's President Lagarde speech,HIGH,EUR
 a6d200b4-80fc-4f72-a8b4-28878f80b6a2,11/21/2025 09:00:00,HCOB Composite PMI,HIGH,EUR
@@ -14,6 +11,7 @@ ca6c24b1-1e68-4e14-8965-2eb876b2128f,11/21/2025 09:00:00,HCOB Manufacturing PMI,
 d8e621a6-4ba5-47d6-8c6f-8be9f884b108,11/21/2025 20:30:00,CFTC EUR NC Net Positions,LOW,EUR
 d6e62ab2-e79c-4ea4-96e0-2edb5592e3ad,11/22/2025 08:00:00,ECB's President Lagarde speech,HIGH,EUR
 8d7f9add-b440-44b1-94fa-2bcf7d42d8c0,11/22/2025 11:00:00,ECB's President Lagarde speech,HIGH,EUR
+14834d67-7f62-401b-9ad3-66173ed36d6e,11/25/2025 09:30:00,ECB's Sleijpen speech,MEDIUM,EUR
 fd2c9a38-4d64-4db5-85e9-5c6cce194b4d,11/25/2025 20:30:00,CFTC EUR NC Net Positions,LOW,EUR
 b03f04e1-b982-4d95-86da-74d1654d2979,11/26/2025 09:00:00,EU Financial Stability Review,LOW,EUR
 ee71417a-9cd9-4e3a-bcbb-900efba8b384,11/27/2025 09:00:00,M3 Money Supply (3m),LOW,EUR

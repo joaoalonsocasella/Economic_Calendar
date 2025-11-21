@@ -1,11 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-2138cf2d-ca64-4e6b-b622-d3acb00df2de,11/20/2025 23:30:00,National Consumer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
-6cf7ee70-56cb-4a22-8c87-8029150080c7,11/20/2025 23:30:00,"National CPI ex Food, Energy (YoY)",HIGH,JPY,Release,0.19,Inflation
-8cdf9315-7cfc-46e2-a941-874833264103,11/20/2025 23:30:00,National CPI ex Fresh Food (YoY),HIGH,JPY,Release,0.19,Inflation
-8bff1cb2-9e3f-468d-8411-7b0ed73c4c45,11/20/2025 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY,Release,0.11,Trade and External
-35b6e30e-c302-40c1-81ca-67fc8c59af20,11/20/2025 23:50:00,Exports (YoY),MEDIUM,JPY,Release,0.11,Trade and External
-ce3f6e4a-075b-411b-8fab-37edc02fb799,11/20/2025 23:50:00,Imports (YoY),MEDIUM,JPY,Release,0.11,Trade and External
-cbdada7c-bb53-430f-89e7-3a47d54dc342,11/20/2025 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY,Release,0.11,Trade and External
 2f8496f5-b789-4871-9bca-3f009fec24bf,11/21/2025 00:30:00,Jibun Bank Manufacturing PMI,HIGH,JPY,Release,0.17,Growth
 14211881-670d-4bee-a4f3-a68f3a178c95,11/21/2025 00:30:00,Jibun Bank Services PMI,HIGH,JPY,Release,0.17,Growth
 b0227140-426f-4bf6-be1c-d1ed87316ea5,11/21/2025 20:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
