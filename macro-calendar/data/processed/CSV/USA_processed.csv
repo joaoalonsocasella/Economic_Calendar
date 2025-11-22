@@ -1,20 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0481f5af-7a3e-47a2-a389-b5d1f0609292,11/21/2025 12:30:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
-4bbecac8-b68b-4892-8db8-1db798b5cc4c,11/21/2025 13:30:00,Fed's Barr speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-4cdd78e0-8b4b-40b6-80f2-99d0e921fad7,11/21/2025 13:45:00,Fed's Jefferson speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-aab5f68a-c319-42d8-a801-16f697671c9a,11/21/2025 14:00:00,Fed's Logan speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-32ad66af-6951-4967-8a39-995b25c711a8,11/21/2025 14:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
-c214a971-7443-42fd-a090-cb54dc2796a7,11/21/2025 14:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
-d7babcb7-df89-470d-aa40-4817642e1788,11/21/2025 14:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
-97eacaa9-a9d1-495d-815c-496ed43ded14,11/21/2025 15:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
-5712857c-6ef8-4c28-8053-355cf573d07f,11/21/2025 15:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
-43f41031-db20-4b30-b897-17d9281865d5,11/21/2025 15:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
-f31eda35-04cb-4f27-b093-c18b8a620967,11/21/2025 15:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
-ea83712b-03d3-441f-9d37-e27141c103ca,11/21/2025 15:00:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
-f7c2acff-c024-4f62-b4aa-3f4c2f8ab616,11/21/2025 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
-251e9a0b-10e2-435f-b398-12ea00191c56,11/21/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-ab44fa48-4006-45d8-903f-2ad2995b13c0,11/21/2025 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-ef7a16fc-c8d3-404b-8631-c0963c7a6897,11/21/2025 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 ce3b4e9d-cbc8-4b9c-9bd6-ee2a6fdb7979,11/24/2025 13:30:00,Chicago Fed National Activity Index ,HIGH,USD,Release,0.17,Growth
 af1fb771-af56-4b1f-80c5-3e1b73835c0f,11/24/2025 15:30:00,Dallas Fed Manufacturing Business Index,MEDIUM,USD,Release,0.14,Confidence
 fcc3128c-960d-4811-8ba7-1280c810fd6c,11/24/2025 16:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit

@@ -1,19 +1,17 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e83281cd-5a32-4988-a00b-63f1c7fb340b,11/21/2025 08:00:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
-869a1d35-933f-416d-9ca1-795006d88223,11/21/2025 08:30:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
-a6d200b4-80fc-4f72-a8b4-28878f80b6a2,11/21/2025 09:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
-ca6c24b1-1e68-4e14-8965-2eb876b2128f,11/21/2025 09:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
-1aa2d19e-c407-4581-b78f-ee7900c77f07,11/21/2025 09:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
-5dd34913-85be-4dc8-9599-d0974687a19a,11/21/2025 10:00:00,Negotiated Wage Rates (QoQ),HIGH,EUR,Release,0.765,Labor Market
-3bad945f-1880-42e6-ab9e-906e48ddfd2d,11/21/2025 11:30:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
-7f08f1ab-0faa-46e1-b415-bc59a428cf89,11/21/2025 13:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-76525fe3-5b45-4da3-9413-94ec0b1733df,11/21/2025 14:55:00,ECB's Escrivá speech,HIGH,EUR,Speech,0.552,Monetary Policy
-d8e621a6-4ba5-47d6-8c6f-8be9f884b108,11/21/2025 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 d6e62ab2-e79c-4ea4-96e0-2edb5592e3ad,11/22/2025 08:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
 8d7f9add-b440-44b1-94fa-2bcf7d42d8c0,11/22/2025 11:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
+f5761055-08f9-4fa4-9369-1edded4b9271,11/24/2025 11:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
+54dc1503-db4b-483c-b78b-35f2e3e7113e,11/24/2025 12:45:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy
+be5f9b1f-0c1a-492c-846e-9aeb913f542b,11/24/2025 14:45:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
+aad9e4c8-dc97-460b-be87-ff259c07c0b5,11/24/2025 17:45:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 14834d67-7f62-401b-9ad3-66173ed36d6e,11/25/2025 09:30:00,ECB's Sleijpen speech,HIGH,EUR,Speech,0.552,Monetary Policy
+9d78d09c-60a6-4b81-8c5e-42f8d1f25f9b,11/25/2025 14:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
 fd2c9a38-4d64-4db5-85e9-5c6cce194b4d,11/25/2025 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 b03f04e1-b982-4d95-86da-74d1654d2979,11/26/2025 09:00:00,EU Financial Stability Review,HIGH,EUR,Speech,0.552,Monetary Policy
+4fc61342-1634-40bd-942f-6f8fc67cd0ee,11/26/2025 16:05:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
+f7eb8246-3ed5-4763-8e1a-83f054568f32,11/26/2025 17:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
+b4d45871-07e0-4efb-ae95-3bb0b32d680e,11/27/2025 08:30:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
 ee71417a-9cd9-4e3a-bcbb-900efba8b384,11/27/2025 09:00:00,M3 Money Supply (3m),HIGH,EUR,Release,0.85,Monetary Policy
 941abdd7-2bee-41fd-9a6a-f0e749168647,11/27/2025 09:00:00,M3 Money Supply (YoY),HIGH,EUR,Release,0.807,Inflation
 54467a89-780a-48da-a379-9176f6cbd2e8,11/27/2025 09:00:00,Private Loans (YoY),HIGH,EUR,Release,0.383,Money and Credit
@@ -22,7 +20,9 @@ f9bea8fc-3837-4142-b441-f572cb71f6f0,11/27/2025 10:00:00,Consumer Confidence,HIG
 007895d4-9075-481a-b191-50de6fef79db,11/27/2025 10:00:00,Economic Sentiment Indicator,HIGH,EUR,Release,0.595,Confidence
 0d0dddc3-f0b6-4a3c-aabb-ea49f142e4f4,11/27/2025 10:00:00,Industrial Confidence,HIGH,EUR,Release,0.595,Confidence
 a204fc06-f315-4364-9c8a-0548bcf40654,11/27/2025 10:00:00,Services Sentiment,HIGH,EUR,Release,0.595,Confidence
+fdb55977-29a7-498e-ad61-37a1b6f45317,11/27/2025 11:00:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
 02f0af0b-85a2-4e8c-9b35-039b85ce0412,11/27/2025 12:30:00,ECB Monetary Policy Meeting Accounts,HIGH,EUR,Speech,0.552,Monetary Policy
+0737890f-1bdc-4755-b91a-b965269c4b13,11/28/2025 10:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 e6b1cd69-9fcb-4691-9b53-07f271ecee6e,12/01/2025 09:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 17ce5404-9fe4-4311-bae4-c930f29a8e9b,12/02/2025 10:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 f72bfe90-4582-496a-a7b2-332156de64b6,12/02/2025 10:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.807,Inflation
