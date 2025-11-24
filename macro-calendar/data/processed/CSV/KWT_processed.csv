@@ -1,9 +1,9 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-39318520-ea11-488e-ad8f-66ae6089c13c,11/24/2025 06:00:00,Consumer Price Index (MoM),HIGH,KWD,Release,0.19,Inflation
-6edd3dea-e20a-4615-ae62-a9a4bb6a5344,11/24/2025 06:00:00,Consumer Price Index (YoY),HIGH,KWD,Release,0.19,Inflation
 d0b7ef1c-8e79-44aa-90ee-46e820421ecc,11/24/2025 14:00:00,Consumer Price Index (MoM),HIGH,KWD,Release,0.19,Inflation
 6d56f131-2eb4-41dc-813a-5cbf97641c14,11/24/2025 14:00:00,Consumer Price Index (YoY),HIGH,KWD,Release,0.19,Inflation
 97dc6d6e-3e98-46a6-a6ae-691d36f4299d,12/15/2025 08:00:00,M2 Money Supply,HIGH,KWD,Release,0.2,Monetary Policy
+39318520-ea11-488e-ad8f-66ae6089c13c,12/17/2025 06:00:00,Consumer Price Index (MoM),HIGH,KWD,Release,0.19,Inflation
+6edd3dea-e20a-4615-ae62-a9a4bb6a5344,12/17/2025 06:00:00,Consumer Price Index (YoY),HIGH,KWD,Release,0.19,Inflation
 4849d4ec-2c25-4c33-926d-100f56637699,12/22/2025 06:00:00,Consumer Price Index (MoM),HIGH,KWD,Release,0.19,Inflation
 2a10f412-e967-4cff-a0df-f9af1dce593c,12/22/2025 06:00:00,Consumer Price Index (YoY),HIGH,KWD,Release,0.19,Inflation
 6b94b1f9-5d10-4357-9c1b-0380e2a17df5,12/31/2025 14:00:00,Exports,MEDIUM,KWD,Release,0.11,Trade and External
