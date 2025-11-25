@@ -1,7 +1,4 @@
 Id,Start,Name,Impact,Currency
-fe4ce1e8-7aff-4dbb-a6d3-951b6d7c402d,11/24/2025 09:00:00,IFO – Business Climate,MEDIUM,EUR
-7142e794-e0b6-4d3b-9c9e-7b26c1ba229b,11/24/2025 09:00:00,IFO – Current Assessment,MEDIUM,EUR
-e1667f65-38c2-4929-b3f3-011e890822fa,11/24/2025 09:00:00,IFO – Expectations,MEDIUM,EUR
 abd04e3d-619d-45d1-bd59-28e0e5d37755,11/25/2025 07:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR
 838d109c-512b-43fd-9476-aca46727b084,11/25/2025 07:00:00,Gross Domestic Product (YoY),MEDIUM,EUR
 3806dfb4-ba98-4503-bdd7-b67de2fb919e,11/25/2025 07:00:00,Gross Domestic Product w.d.a (YoY),MEDIUM,EUR
@@ -40,11 +37,11 @@ ce7ae49d-cee6-4d41-8a9d-1b42fb13d761,11/28/2025 13:00:00,Harmonized Index of Con
 682fc2ba-1ff8-4140-bbf5-05323f5c4af7,12/09/2025 07:00:00,Exports (MoM),LOW,EUR
 fa14d7aa-d9fa-4f0c-abae-df8e4019376d,12/09/2025 07:00:00,Imports (MoM),LOW,EUR
 c67cd32b-c6b9-4e56-b689-f6acfd734877,12/09/2025 07:00:00,Trade Balance s.a.,MEDIUM,EUR
-d50e1687-f2bc-480e-bd85-111f30bb2750,12/11/2025 13:30:00,Current Account n.s.a.,LOW,EUR
 0aa4e3b7-6d8a-4087-96e7-a565d1d8ed26,12/12/2025 07:00:00,Consumer Price Index (MoM),LOW,EUR
 c134455d-fe66-4381-82ff-0ad2e26704f5,12/12/2025 07:00:00,Consumer Price Index (YoY),LOW,EUR
 48058fba-55c9-4c5f-859f-9177eecc728e,12/12/2025 07:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 02750bb6-550c-4cc1-b1a6-2208bd2f58eb,12/12/2025 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+d50e1687-f2bc-480e-bd85-111f30bb2750,12/12/2025 13:30:00,Current Account n.s.a.,LOW,EUR
 064533fa-2f11-4e0e-b8cc-fb55fc7c438e,12/15/2025 07:00:00,Wholesale Price Index (MoM),LOW,EUR
 f2ed0ecd-d513-4757-abd9-10c7f1f5cee9,12/15/2025 07:00:00,Wholesale Price Index (YoY),LOW,EUR
 81061454-15ac-42b1-afb9-46c1b0a118b8,12/16/2025 08:30:00,HCOB Composite PMI,HIGH,EUR

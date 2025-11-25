@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-ece52f46-4b25-42e0-9e4f-d13a707d6ed1,11/24/2025 07:00:00,Capacity Utilization,HIGH,TRY,Release,0.2,Monetary Policy
-e2176813-f1b0-4e05-a039-fc4a54fbf6ff,11/24/2025 07:00:00,Manufacturing Confidence,MEDIUM,TRY,Release,0.14,Confidence
 f24d41b6-525c-45f6-add0-7cedd3b301e2,11/27/2025 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
 0386fc12-ff82-4a44-9b41-046fa7fca11a,11/27/2025 07:00:00,Trade Balance,MEDIUM,TRY,Release,0.11,Trade and External
 0467e8ad-e244-4789-8e98-3fbd89871517,11/28/2025 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
@@ -10,8 +8,8 @@ b30c94ab-3a7a-4d42-842f-f892a116df5c,12/02/2025 08:00:00,Exports,MEDIUM,TRY,Rele
 facf43e8-77fb-4119-b165-2b6d44903770,12/03/2025 07:00:00,Consumer Price Index (YoY),HIGH,TRY,Release,0.19,Inflation
 fe645e31-1e2c-4d74-bcce-5af3ee518542,12/03/2025 07:00:00,Producer Price Index (MoM),HIGH,TRY,Release,0.19,Inflation
 2a66ab54-6860-4a1c-bd08-7ad69a68e478,12/03/2025 07:00:00,Producer Price Index (YoY),HIGH,TRY,Release,0.19,Inflation
-08e3ab92-d64d-4d5b-af5f-54003b68e255,12/08/2025 14:30:00,Treasury Cash Balance,MEDIUM,TRY,Release,0.11,Trade and External
-0fe48952-b8f0-471f-8cd5-9a8b5f50a080,12/11/2025 07:00:00,Industrial Production (YoY),HIGH,TRY,Release,0.17,Growth
+08e3ab92-d64d-4d5b-af5f-54003b68e255,12/05/2025 14:30:00,Treasury Cash Balance,MEDIUM,TRY,Release,0.11,Trade and External
+0fe48952-b8f0-471f-8cd5-9a8b5f50a080,12/10/2025 07:00:00,Industrial Production (YoY),HIGH,TRY,Release,0.17,Growth
 01ff6798-74a0-41e5-821e-f75d2ecefca6,12/11/2025 11:00:00,CBRT Interest Rate Decision,HIGH,TRY,Release,0.2,Monetary Policy
 8896c315-46d0-4003-90bd-d66850ac8b36,12/12/2025 07:00:00,Current Account Balance,MEDIUM,TRY,Release,0.11,Trade and External
 e576f463-4352-4b46-8bd6-190b9e62da3f,12/15/2025 08:00:00,Budget Balance,MEDIUM,TRY,Release,0.11,Trade and External
