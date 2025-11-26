@@ -1,6 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 292885eb-5d11-45ab-b4e3-01e2a490f987,11/26/2025 01:00:00,RBNZ Interest Rate Decision,MEDIUM,NZD,Speech,0.13,Monetary Policy
 7857a0a1-5f82-4dd6-9409-b200ed1e988c,11/26/2025 01:00:00,RBNZ Monetary Policy Review,HIGH,NZD,Release,0.2,Monetary Policy
+bd119a43-0ec1-44e1-8296-5c84f0d2a41d,11/26/2025 01:00:00,RBNZ Monetary Policy Statement,MEDIUM,NZD,Speech,0.13,Monetary Policy
 e7c1a146-c697-45d2-ae3a-5df50d220d48,11/26/2025 02:00:00,RBNZ Press Conference,MEDIUM,NZD,Speech,0.13,Monetary Policy
 5bdaa266-f56c-4a9e-b159-977f25a0a801,11/26/2025 21:45:00,Retail Sales (QoQ),HIGH,NZD,Release,0.17,Growth
 a8611367-57ce-4019-a1bc-ff75334a1d02,11/26/2025 21:45:00,Retail Sales ex Autos (QoQ),HIGH,NZD,Release,0.17,Growth
@@ -73,6 +74,7 @@ c1051882-a242-4d0a-839a-b555d86c1a85,02/17/2026 15:00:00,GDT Price Index,MEDIUM,
 3ff74077-b616-4507-934e-916856a5611d,02/17/2026 21:45:00,Producer Price Index - Output (QoQ),HIGH,NZD,Release,0.19,Inflation
 55668356-99ff-44a4-b6d7-4cdaff7b3972,02/18/2026 01:00:00,RBNZ Interest Rate Decision,MEDIUM,NZD,Speech,0.13,Monetary Policy
 409d3e1f-7aca-4d99-928f-8587cb5c61ce,02/18/2026 01:00:00,RBNZ Monetary Policy Review,HIGH,NZD,Release,0.2,Monetary Policy
+730b3e7b-63eb-4a10-98a9-eb0962e7d0a3,02/18/2026 01:00:00,RBNZ Monetary Policy Statement,MEDIUM,NZD,Speech,0.13,Monetary Policy
 12622312-39f0-4af0-9f69-df5f12f15425,02/19/2026 21:45:00,Exports,MEDIUM,NZD,Release,0.11,Trade and External
 4b671bfb-ec9c-4f7d-bba4-039ea6fccdfd,02/19/2026 21:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External
 369b2b59-a3a5-4225-9ba4-4b55d8e29704,02/19/2026 21:45:00,Trade Balance NZD (MoM),MEDIUM,NZD,Release,0.11,Trade and External
@@ -160,6 +162,7 @@ eb145612-18d8-43fe-80e8-23c35e98e7d7,05/21/2026 22:45:00,Retail Sales (QoQ),HIGH
 2f4b425b-3360-4e75-9cf8-d52939cbda5b,05/21/2026 22:45:00,Retail Sales ex Autos (QoQ),HIGH,NZD,Release,0.17,Growth
 c59f0bf5-f0fb-4a8f-b012-94e2b5a62071,05/27/2026 02:00:00,RBNZ Interest Rate Decision,MEDIUM,NZD,Speech,0.13,Monetary Policy
 614448b0-31c0-4d42-b028-742f1872aaa8,05/27/2026 02:00:00,RBNZ Monetary Policy Review,HIGH,NZD,Release,0.2,Monetary Policy
+483091cd-28d1-4a74-9af3-231d82874e1d,05/27/2026 02:00:00,RBNZ Monetary Policy Statement,MEDIUM,NZD,Speech,0.13,Monetary Policy
 8e1f99db-0bf0-46ac-80f1-9405d137a837,05/28/2026 22:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Release,0.14,Confidence
 a20d8f70-c28a-4245-bbc5-9ad805da3e6c,05/29/2026 01:00:00,ANZ Activity Outlook,MEDIUM,NZD,Release,0.14,Confidence
 2128b07f-078a-442c-b6af-dd1b2bdbd7fb,05/29/2026 01:00:00,ANZ Business Confidence,MEDIUM,NZD,Release,0.14,Confidence
@@ -194,6 +197,7 @@ a99d981b-7a6a-4ce1-93bc-0703614315c4,06/30/2026 22:45:00,Building Permits s.a. (
 3d91f323-980a-4c8d-87f4-1ab32afb26f0,07/07/2026 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 084ba9be-484f-420c-bc76-92e6fec6b8e3,07/08/2026 02:00:00,RBNZ Interest Rate Decision,MEDIUM,NZD,Speech,0.13,Monetary Policy
 834afad3-8ecb-468d-9c93-0402fcf56c07,07/08/2026 02:00:00,RBNZ Monetary Policy Review,HIGH,NZD,Release,0.2,Monetary Policy
+5768beff-412b-483b-b9ff-9a9c5c459a1f,07/08/2026 02:00:00,RBNZ Monetary Policy Statement,MEDIUM,NZD,Speech,0.13,Monetary Policy
 2261ff17-621e-4777-a8b8-c9b95f5b5a5b,07/09/2026 22:30:00,Business NZ PMI,HIGH,NZD,Release,0.17,Growth
 efbcc47a-7c7d-41e0-b007-e06f4861e57b,07/12/2026 22:30:00,Business NZ PSI,MEDIUM,NZD,Release,0.14,Confidence
 44dfa798-3c61-4b90-8525-7c198e177b54,07/13/2026 22:45:00,Electronic Card Retail Sales  (MoM),HIGH,NZD,Release,0.17,Growth
@@ -243,6 +247,7 @@ b8d18865-3bd0-48cd-838a-a6bec3f4d134,08/31/2026 01:00:00,ANZ Business Confidence
 e2c1bdc0-f80e-4bdb-aa93-afc3f2e8b790,09/01/2026 22:45:00,Building Permits s.a. (MoM),LOW,NZD,Release,0.07,Housing
 2881fb4b-d447-408a-9300-3eb4bc0e5a9e,09/02/2026 02:00:00,RBNZ Interest Rate Decision,MEDIUM,NZD,Speech,0.13,Monetary Policy
 c28bdeb6-42d8-49d8-975c-02971c442f1e,09/02/2026 02:00:00,RBNZ Monetary Policy Review,HIGH,NZD,Release,0.2,Monetary Policy
+ac4eaa46-6def-4281-a8e2-d7e7b79a6912,09/02/2026 02:00:00,RBNZ Monetary Policy Statement,MEDIUM,NZD,Speech,0.13,Monetary Policy
 4b4da4ad-8af5-4f0b-a308-5b94d5aa9fe9,09/03/2026 01:00:00,ANZ Commodity Price,MEDIUM,NZD,Release,0.14,Confidence
 8ade3541-c934-48bd-8487-072f84ab3257,09/03/2026 22:45:00,Terms of Trade Index,MEDIUM,NZD,Release,0.11,Trade and External
 914f8838-3680-49f1-b298-3405667e846f,09/08/2026 22:45:00,Manufacturing Sales,HIGH,NZD,Release,0.17,Growth
@@ -289,6 +294,7 @@ ee859bd9-516c-4db6-afa0-5088e83afda5,10/21/2026 21:45:00,Consumer Price Index (Y
 333e0bd4-2d66-43ab-8c72-696125fbe401,10/22/2026 02:00:00,Credit Card Spending (YoY),HIGH,NZD,Release,0.17,Growth
 d558410d-6bb6-4439-88f4-8f8019f127fa,10/28/2026 01:00:00,RBNZ Interest Rate Decision,MEDIUM,NZD,Speech,0.13,Monetary Policy
 9c6aeaa6-21a7-4ef5-ba0b-97ca4fd96ffb,10/28/2026 01:00:00,RBNZ Monetary Policy Review,HIGH,NZD,Release,0.2,Monetary Policy
+871a4f21-a61f-4b34-91be-5a8b377d64ca,10/28/2026 01:00:00,RBNZ Monetary Policy Statement,MEDIUM,NZD,Speech,0.13,Monetary Policy
 3c1d4c1b-8033-4037-b8af-a5dfe6b42bc5,10/29/2026 21:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Release,0.14,Confidence
 80d48403-d0f3-4c1a-8fb7-601d3b818e62,10/30/2026 00:00:00,ANZ Activity Outlook,MEDIUM,NZD,Release,0.14,Confidence
 2bc7dbee-a300-4d93-a12e-32ad7b95fea5,10/30/2026 00:00:00,ANZ Business Confidence,MEDIUM,NZD,Release,0.14,Confidence

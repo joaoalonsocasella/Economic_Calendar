@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-4792ed9d-3fb4-426d-aa9d-99731a9f951e,11/25/2025 20:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
-da7dd7b8-b008-4819-ab5f-44b6ee8c66fb,11/25/2025 23:50:00,Corporate Service Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
 b226cd9f-064a-4ec6-9f97-c5306c5e44eb,11/26/2025 05:00:00,Coincident Index,MEDIUM,JPY,Release,0.11,Trade and External
 809f9def-2c5d-4f69-a602-17ce47092a6d,11/26/2025 05:00:00,Leading Economic Index,MEDIUM,JPY,Release,0.14,Confidence
 d755bc21-1fd9-4df6-850e-673429641647,11/27/2025 23:30:00,Jobs / Applicants Ratio,HIGH,JPY,Release,0.18,Labor Market
@@ -40,21 +38,19 @@ a7db0554-08ad-415c-a0e5-25d85bfe51b3,12/07/2025 23:50:00,Gross Domestic Product 
 316c00cc-4bc6-4913-b56e-5da86108bb3d,12/07/2025 23:50:00,Gross Domestic Product Annualized,HIGH,JPY,Release,0.17,Growth
 7c2edd1c-377e-42a4-9aef-4c329f798081,12/07/2025 23:50:00,Gross Domestic Product Deflator (YoY),HIGH,JPY,Release,0.19,Inflation
 4334892f-66b2-4903-b8b1-c87d8f6930f6,12/07/2025 23:50:00,Trade Balance - BOP Basis,MEDIUM,JPY,Release,0.11,Trade and External
+060a824f-47fd-49ae-bdeb-d6681670537b,12/08/2025 05:00:00,Eco Watchers Survey: Current,MEDIUM,JPY,Release,0.14,Confidence
+bfe4c086-8237-42a0-89cf-0adfce34b857,12/08/2025 05:00:00,Eco Watchers Survey: Outlook,MEDIUM,JPY,Release,0.14,Confidence
+bb1d9adc-531d-4ac5-bb9d-422bb16dfaf6,12/08/2025 23:50:00,Money Supply M2+CD (YoY),HIGH,JPY,Release,0.19,Inflation
 f609f2b0-2267-402a-bc52-5b50dc24fa3f,12/09/2025 06:00:00,Machine Tool Orders (YoY),HIGH,JPY,Release,0.17,Growth
 d9e7b8e1-88a9-4abf-8f5c-5e24b4228027,12/09/2025 20:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
-bb1d9adc-531d-4ac5-bb9d-422bb16dfaf6,12/09/2025 23:50:00,Money Supply M2+CD (YoY),HIGH,JPY,Release,0.19,Inflation
+4266aead-b3f9-457c-87f2-78077d0a86c7,12/09/2025 23:50:00,Producer Price Index (MoM),HIGH,JPY,Release,0.19,Inflation
+87635803-707a-4931-9df3-654c6120ffd2,12/09/2025 23:50:00,Producer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
 d8a1c050-968d-463e-ab78-440211b12fcd,12/10/2025 23:50:00,BSI Large Manufacturing Conditions Index (QoQ),MEDIUM,JPY,Release,0.14,Confidence
 c1a9e919-5c23-4f9a-871f-d4259fea1fe0,12/10/2025 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth
 2094f03f-ccb4-4153-9499-a57de4b09d20,12/10/2025 23:50:00,Foreign Investment in Japan Stocks,HIGH,JPY,Release,0.17,Growth
-673356ff-0e52-48c7-9813-1ac4fb6d9fb1,12/10/2025 23:50:00,Machinery Orders (MoM),HIGH,JPY,Release,0.17,Growth
-e95edc12-4945-42f7-9caf-3848aea91d15,12/10/2025 23:50:00,Machinery Orders (YoY),HIGH,JPY,Release,0.17,Growth
-4266aead-b3f9-457c-87f2-78077d0a86c7,12/10/2025 23:50:00,Producer Price Index (MoM),HIGH,JPY,Release,0.19,Inflation
-87635803-707a-4931-9df3-654c6120ffd2,12/10/2025 23:50:00,Producer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
 7e91bdcc-b40e-4145-af4e-137c41b61590,12/12/2025 04:30:00,Capacity Utilization,HIGH,JPY,Release,0.2,Monetary Policy
 b4392796-5195-4ece-bf67-8ae6af524565,12/12/2025 04:30:00,Industrial Production (MoM),HIGH,JPY,Release,0.17,Growth
 eb80af5f-6145-4d00-8add-695bad3fcf77,12/12/2025 04:30:00,Industrial Production (YoY),HIGH,JPY,Release,0.17,Growth
-060a824f-47fd-49ae-bdeb-d6681670537b,12/12/2025 05:00:00,Eco Watchers Survey: Current,MEDIUM,JPY,Release,0.14,Confidence
-bfe4c086-8237-42a0-89cf-0adfce34b857,12/12/2025 05:00:00,Eco Watchers Survey: Outlook,MEDIUM,JPY,Release,0.14,Confidence
 b8278d98-f247-4213-b16c-4678bc8cb4cf,12/12/2025 20:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
 f8023b1b-f488-45e1-9491-ead794ff2104,12/14/2025 23:50:00,Tankan Large All Industry Capex,HIGH,JPY,Release,0.17,Growth
 9cc9e8e6-a2c1-470e-8632-278c3acd81fc,12/14/2025 23:50:00,Tankan Large Manufacturing Index,MEDIUM,JPY,Release,0.14,Confidence
@@ -63,6 +59,8 @@ abf3edea-805b-479d-ac1f-fa7fbb4dd5ba,12/14/2025 23:50:00,Tankan Non - Manufactur
 ad1b0bee-a5fc-4e21-8f4b-14ac6c106c2a,12/14/2025 23:50:00,Tankan Non - Manufacturing Outlook,MEDIUM,JPY,Release,0.14,Confidence
 d5408fd8-3a11-4cdf-88ee-95c7f416eb71,12/16/2025 00:30:00,Jibun Bank Manufacturing PMI,HIGH,JPY,Release,0.17,Growth
 6d52d85a-b3fe-4916-8de4-e5955c1e5f9c,12/16/2025 20:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
+673356ff-0e52-48c7-9813-1ac4fb6d9fb1,12/16/2025 23:50:00,Machinery Orders (MoM),HIGH,JPY,Release,0.17,Growth
+e95edc12-4945-42f7-9caf-3848aea91d15,12/16/2025 23:50:00,Machinery Orders (YoY),HIGH,JPY,Release,0.17,Growth
 6e76ea68-a5e5-46fe-a86d-52eba005d3f9,12/17/2025 00:30:00,Jibun Bank Services PMI,HIGH,JPY,Release,0.17,Growth
 d85e0489-219e-4869-a390-3c73448e0ac9,12/17/2025 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY,Release,0.11,Trade and External
 91b5315e-9c76-442b-a193-c3846e0d2e5c,12/17/2025 23:50:00,Exports (YoY),MEDIUM,JPY,Release,0.11,Trade and External

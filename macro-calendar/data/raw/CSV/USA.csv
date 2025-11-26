@@ -1,27 +1,4 @@
 Id,Start,Name,Impact,Currency
-ce0025e8-d478-484a-aeac-0825f43f2906,11/25/2025 13:15:00,ADP Employment Change 4-week average,MEDIUM,USD
-9c3a79b8-120f-4314-aef3-2556237929bc,11/25/2025 13:30:00,Producer Price Index (MoM),MEDIUM,USD
-3e07540e-a94d-4c4e-bd66-29046e722aea,11/25/2025 13:30:00,Producer Price Index (YoY),MEDIUM,USD
-57cebe9f-cf56-477f-84cd-31235d40f680,11/25/2025 13:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
-f846354f-70ca-4ff6-9bd4-fbdc00893ce7,11/25/2025 13:30:00,Producer Price Index ex Food & Energy (YoY),HIGH,USD
-39ff798a-f73f-4c96-802b-d3d634516c53,11/25/2025 13:30:00,Retail Sales (MoM),HIGH,USD
-f41fb869-2803-423d-8f7b-94b06d6a1401,11/25/2025 13:30:00,Retail Sales (YoY),LOW,USD
-6fd7ccbd-163c-4ce8-a83d-60e69014865a,11/25/2025 13:30:00,Retail Sales Control Group,HIGH,USD
-7bbcc556-07f0-4872-bf7c-17815bc28d23,11/25/2025 13:30:00,Retail Sales ex Autos (MoM),MEDIUM,USD
-c71e7a9c-f478-4e04-8aea-a45ae7e7a158,11/25/2025 13:55:00,Redbook Index (YoY),LOW,USD
-8a08f9b6-1ece-45d8-9fff-a511cab0651b,11/25/2025 14:00:00,Housing Price Index (MoM),MEDIUM,USD
-5be92588-1ff7-4f32-b024-b8c4e8b4354c,11/25/2025 14:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD
-3d47cf5c-c69c-4e65-b0bb-d60e2d04ef6c,11/25/2025 15:00:00,Business Inventories,LOW,USD
-f68afeab-945d-41ea-abfb-e992b59b9c06,11/25/2025 15:00:00,Consumer Confidence,MEDIUM,USD
-abb19708-e28e-4ac3-a6df-572ced07d899,11/25/2025 15:00:00,Pending Home Sales (MoM),MEDIUM,USD
-6f92d361-c54e-4b88-bcfc-d0ba6fb02a08,11/25/2025 15:00:00,Pending Home Sales (YoY),LOW,USD
-7b110e1a-45d5-4577-aa18-7689bd8c9de8,11/25/2025 15:00:00,Richmond Fed Manufacturing Index,LOW,USD
-1ed4d919-8b2e-4750-8c2d-9a486253a48d,11/25/2025 16:30:00,52-Week Bill Auction,LOW,USD
-f6dd20da-7b0c-49a7-bc20-4ad5982697bd,11/25/2025 18:00:00,5-Year Note Auction,LOW,USD
-37b20648-3be8-43b1-9be2-19e54c2faa35,11/25/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD
-61d124f9-6014-4b39-b2a4-85e36b4aef26,11/25/2025 20:30:00,CFTC Oil NC Net Positions,LOW,USD
-92d938d2-50a5-4cd1-a4ab-d3bb987c82c6,11/25/2025 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
-01e9df03-7231-4435-b51e-ebf185239770,11/25/2025 21:30:00,API Weekly Crude Oil Stock,LOW,USD
 9fc84dcf-cbbb-4414-b8dc-77db6fff980f,11/26/2025 12:00:00,MBA Mortgage Applications,LOW,USD
 6a78ade1-5573-49a6-b1d1-e57672f627a8,11/26/2025 13:30:00,Continuing Jobless Claims,LOW,USD
 5f5168d6-2fa7-4feb-b288-93281ee7f4e5,11/26/2025 13:30:00,Durable Goods Orders,MEDIUM,USD
@@ -178,10 +155,6 @@ d0f8d9b7-54ca-4da9-8bdc-94c684a0bff9,12/18/2025 16:30:00,4-Week Bill Auction,LOW
 405715de-3ae2-44cf-a4e6-734e16893bee,12/18/2025 18:00:00,5-year TIPS Auction,LOW,USD
 8ddf7e30-518d-43d1-8662-5b1197edfce1,12/18/2025 21:00:00,Net Long-Term TIC Flows,LOW,USD
 906d7bae-1518-4e0b-9e77-0accdfecd2d1,12/18/2025 21:00:00,Total Net TIC Flows,LOW,USD
-f690b8b9-01d2-40f4-a20c-457110be69f1,12/19/2025 13:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
-a95ac800-bd88-44b0-ba25-7ef331b99fd3,12/19/2025 13:30:00,Gross Domestic Product Annualized,HIGH,USD
-c108cf9b-02f5-424f-a00c-ee950d067102,12/19/2025 13:30:00,Gross Domestic Product Price Index,MEDIUM,USD
-659ad193-dc1a-487d-9c26-49bde1f98517,12/19/2025 13:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
 6a2a013f-7780-49a8-94a0-c1ba70d9bdeb,12/19/2025 14:45:00,S&P Global Composite PMI,MEDIUM,USD
 d5e7aaa5-a3bc-4066-8400-4c34a033b14d,12/19/2025 14:45:00,S&P Global Manufacturing PMI,HIGH,USD
 3ae68c26-1571-4359-84b9-79d151ab7ac1,12/19/2025 14:45:00,S&P Global Services PMI,HIGH,USD
@@ -205,7 +178,11 @@ ac12dbd4-dca4-459d-affc-0d9a37b52de3,12/22/2025 16:30:00,3-Month Bill Auction,LO
 5f4e9c3e-7a93-4d69-bea0-806f82dfef7b,12/22/2025 16:30:00,6-Month Bill Auction,LOW,USD
 bf6f5ac6-4000-4b0f-84eb-f66c247646ce,12/22/2025 18:00:00,2-Year Note Auction,LOW,USD
 770b33f6-29bf-42f6-a36d-053aa737e41a,12/23/2025 13:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+f690b8b9-01d2-40f4-a20c-457110be69f1,12/23/2025 13:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
 e237df35-c0a0-4093-b0e1-7b0b07ecb37d,12/23/2025 13:30:00,Current Account,LOW,USD
+a95ac800-bd88-44b0-ba25-7ef331b99fd3,12/23/2025 13:30:00,Gross Domestic Product Annualized,HIGH,USD
+c108cf9b-02f5-424f-a00c-ee950d067102,12/23/2025 13:30:00,Gross Domestic Product Price Index,MEDIUM,USD
+659ad193-dc1a-487d-9c26-49bde1f98517,12/23/2025 13:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
 484f8282-e7fc-4fef-8435-a2c6118286a6,12/23/2025 13:55:00,Redbook Index (YoY),LOW,USD
 2be3bd03-7539-4cbd-93c1-76654ba5d2aa,12/23/2025 15:00:00,Consumer Confidence,MEDIUM,USD
 5bab7dfe-d766-44fe-9932-9ca0863c168f,12/23/2025 15:00:00,Richmond Fed Manufacturing Index,LOW,USD

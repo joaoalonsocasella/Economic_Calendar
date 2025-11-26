@@ -1,7 +1,9 @@
 Id,Start,Name,Impact,Currency
-f64aed50-12a7-4899-8550-0fadd6a37494,11/25/2025 20:30:00,CFTC AUD NC Net Positions,LOW,AUD
 fd72be18-b439-48d6-94ab-7e1bf1837ad3,11/26/2025 00:30:00,Construction Work Done,LOW,AUD
+cf6d1ed2-b901-4499-ada1-b4d3e0196548,11/26/2025 00:30:00,Consumer Price Index (MoM),MEDIUM,AUD
 1955dd26-33e5-46c2-9e41-1117ddc3877f,11/26/2025 00:30:00,Consumer Price Index (YoY),HIGH,AUD
+52ed409a-5c21-485b-9dba-5f49043661ca,11/26/2025 00:30:00,Trimmed Mean CPI (MoM),MEDIUM,AUD
+eb71b0c2-dce4-4929-b9ad-1aae12fd901a,11/26/2025 00:30:00,Trimmed Mean CPI (YoY),HIGH,AUD
 5ded77cc-7656-4f0f-bc94-9f8dc448630c,11/27/2025 00:30:00,Private Capital Expenditure,MEDIUM,AUD
 1772d14f-d8e3-4e65-9c8c-4a7485f259cf,11/28/2025 00:30:00,Private Sector Credit (MoM),LOW,AUD
 796cbb5d-8ee9-416e-92b5-7e8abe79f813,11/28/2025 00:30:00,Private Sector Credit (YoY),LOW,AUD
@@ -58,7 +60,9 @@ dde2ac5c-f958-4580-a1b4-72d45c84e466,01/02/2026 05:30:00,RBA Commodity Index SDR
 dd6c6fa3-5643-44f9-a728-4eb6fcbdf233,01/06/2026 20:30:00,CFTC AUD NC Net Positions,LOW,AUD
 b560a107-9403-4e29-a4c3-ca84768c6970,01/06/2026 22:00:00,S&P Global Composite PMI,MEDIUM,AUD
 3780d3bd-3435-4fa7-9ca0-4bfeaf7ec177,01/06/2026 22:00:00,S&P Global Services PMI,MEDIUM,AUD
+f3d73b02-8c44-4622-9a85-0e2474c2e233,01/07/2026 00:30:00,Consumer Price Index (MoM),MEDIUM,AUD
 ea19059c-74b9-469c-b73b-6412e901d6a4,01/07/2026 00:30:00,Consumer Price Index (YoY),HIGH,AUD
+febe65ac-0647-47d6-9f4e-b995f69b14fc,01/07/2026 00:30:00,Trimmed Mean CPI (MoM),MEDIUM,AUD
 3dad411f-ca35-4887-96f0-d5f8b541e278,01/08/2026 00:30:00,Building Permits (MoM),MEDIUM,AUD
 e02e9c71-bd73-44ab-b6d4-3e41ded8e386,01/08/2026 00:30:00,Building Permits (YoY),LOW,AUD
 51293bce-dad5-4acd-b9ec-7b8fefef424b,01/08/2026 00:30:00,Exports (MoM),MEDIUM,AUD
@@ -84,11 +88,11 @@ c0dedb47-93f2-475e-8164-cec6b5e0518a,01/22/2026 22:00:00,S&P Global Composite PM
 a48b539b-b940-4360-bc67-25d5dce2be30,01/22/2026 22:00:00,S&P Global Manufacturing PMI,MEDIUM,AUD
 d5c67a9b-eee5-44dd-b154-0623d6d76ee1,01/22/2026 22:00:00,S&P Global Services PMI,MEDIUM,AUD
 f5cc0d17-569b-4553-8039-dd52af75a950,01/23/2026 20:30:00,CFTC AUD NC Net Positions,LOW,AUD
-6a1c7743-52c3-40d1-999b-5c222f5d5398,01/28/2026 00:30:00,Consumer Price Index (QoQ),LOW,AUD
-c00594fc-301a-4328-8b77-ee648dd7e5ce,01/28/2026 00:30:00,Consumer Price Index (YoY),LOW,AUD
 8d6d34dc-2ef3-4cda-ac3b-c4df1c939c2e,01/28/2026 00:30:00,Consumer Price Index (YoY),HIGH,AUD
-5f834902-b412-47d6-a7eb-964c600e2780,01/28/2026 00:30:00,RBA Trimmed Mean CPI (QoQ),LOW,AUD
-08ba29d1-2029-4b8a-86f3-de794234bf62,01/28/2026 00:30:00,RBA Trimmed Mean CPI (YoY),LOW,AUD
+6a1c7743-52c3-40d1-999b-5c222f5d5398,01/28/2026 00:30:00,Quarterly Consumer Price Index (QoQ),LOW,AUD
+c00594fc-301a-4328-8b77-ee648dd7e5ce,01/28/2026 00:30:00,Quarterly Consumer Price Index (YoY),LOW,AUD
+5f834902-b412-47d6-a7eb-964c600e2780,01/28/2026 00:30:00,Quarterly RBA Trimmed Mean CPI (QoQ),LOW,AUD
+08ba29d1-2029-4b8a-86f3-de794234bf62,01/28/2026 00:30:00,Quarterly RBA Trimmed Mean CPI (YoY),LOW,AUD
 6f5f1c1e-47fe-4753-a9de-4961f821899a,01/29/2026 00:30:00,Export Price Index (QoQ),LOW,AUD
 d6cafe43-8595-41c6-98a4-452c29d060fe,01/29/2026 00:30:00,Import Price Index (QoQ),LOW,AUD
 26ba6f72-d906-4a07-a0f9-6c713b54ebf1,01/30/2026 00:30:00,Private Sector Credit (MoM),LOW,AUD
@@ -222,11 +226,11 @@ a21db20a-2b08-4688-9170-172118310f04,04/17/2026 19:30:00,CFTC AUD NC Net Positio
 9f19bc14-6217-45a3-ac70-03312782c59a,04/22/2026 23:00:00,S&P Global Services PMI,MEDIUM,AUD
 00998373-ba1a-40c9-ab1c-518a84512f5c,04/23/2026 01:30:00,National Australia Bank's Business Confidence (QoQ),MEDIUM,AUD
 7abf6782-e1e8-4fdf-ba86-ac3cee9a911e,04/24/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
-9eedb3ae-51c3-465a-9aa8-ddfb1679cdbb,04/29/2026 01:30:00,Consumer Price Index (QoQ),LOW,AUD
 33e80e35-4e01-441a-aa0f-7f8c64087434,04/29/2026 01:30:00,Consumer Price Index (YoY),HIGH,AUD
-664a5750-4da9-4eed-bcf2-38e297432006,04/29/2026 01:30:00,Consumer Price Index (YoY),LOW,AUD
-f4e35f02-7842-4993-868b-e3c63a848fef,04/29/2026 01:30:00,RBA Trimmed Mean CPI (QoQ),LOW,AUD
-ac8c2f74-a22c-42fb-a23a-fd66e351f8a7,04/29/2026 01:30:00,RBA Trimmed Mean CPI (YoY),LOW,AUD
+9eedb3ae-51c3-465a-9aa8-ddfb1679cdbb,04/29/2026 01:30:00,Quarterly Consumer Price Index (QoQ),LOW,AUD
+664a5750-4da9-4eed-bcf2-38e297432006,04/29/2026 01:30:00,Quarterly Consumer Price Index (YoY),LOW,AUD
+f4e35f02-7842-4993-868b-e3c63a848fef,04/29/2026 01:30:00,Quarterly RBA Trimmed Mean CPI (QoQ),LOW,AUD
+ac8c2f74-a22c-42fb-a23a-fd66e351f8a7,04/29/2026 01:30:00,Quarterly RBA Trimmed Mean CPI (YoY),LOW,AUD
 7eaf4638-e89a-4901-ad0f-f574db52761d,04/30/2026 01:30:00,Export Price Index (QoQ),LOW,AUD
 de13801b-f085-4afc-8542-e97bf8bfb401,04/30/2026 01:30:00,Import Price Index (QoQ),LOW,AUD
 aa16d0a0-3d79-48c9-9cc7-88f19a9ad5ff,04/30/2026 01:30:00,Private Sector Credit (MoM),LOW,AUD
@@ -359,11 +363,11 @@ fef34bfa-300d-4f6f-9ddb-d9bd9f0817a5,07/22/2026 23:00:00,S&P Global Composite PM
 6278bf99-b9c5-4183-bb4f-67dc7ca045f8,07/22/2026 23:00:00,S&P Global Services PMI,MEDIUM,AUD
 a45ce0ba-3fa7-4649-aacf-ce7aac9f028f,07/23/2026 01:30:00,National Australia Bank's Business Confidence (QoQ),MEDIUM,AUD
 2fbd5c7c-5618-4f98-8be8-a3ef4f849812,07/24/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
-1d09a3c6-20ed-4f41-94f7-59a9337b9649,07/29/2026 01:30:00,Consumer Price Index (QoQ),LOW,AUD
 2dc7213f-dd2f-4054-9c42-15b120672c39,07/29/2026 01:30:00,Consumer Price Index (YoY),HIGH,AUD
-c50e1518-5f61-4231-a8c0-b532e9040865,07/29/2026 01:30:00,Consumer Price Index (YoY),LOW,AUD
-e15fcb1f-f4bf-468d-b3be-47150e62ed84,07/29/2026 01:30:00,RBA Trimmed Mean CPI (QoQ),LOW,AUD
-1edbe5b6-7fa5-499f-9cf7-1eba7eebffbb,07/29/2026 01:30:00,RBA Trimmed Mean CPI (YoY),LOW,AUD
+1d09a3c6-20ed-4f41-94f7-59a9337b9649,07/29/2026 01:30:00,Quarterly Consumer Price Index (QoQ),LOW,AUD
+c50e1518-5f61-4231-a8c0-b532e9040865,07/29/2026 01:30:00,Quarterly Consumer Price Index (YoY),LOW,AUD
+e15fcb1f-f4bf-468d-b3be-47150e62ed84,07/29/2026 01:30:00,Quarterly RBA Trimmed Mean CPI (QoQ),LOW,AUD
+1edbe5b6-7fa5-499f-9cf7-1eba7eebffbb,07/29/2026 01:30:00,Quarterly RBA Trimmed Mean CPI (YoY),LOW,AUD
 df75c02f-1d97-4433-8207-6ef87454f848,07/30/2026 01:30:00,Export Price Index (QoQ),LOW,AUD
 60292e37-6541-4c64-8792-f37c279b2aa6,07/30/2026 01:30:00,Import Price Index (QoQ),LOW,AUD
 92345d44-4c97-422a-8190-98612148fda1,07/31/2026 01:30:00,Private Sector Credit (MoM),LOW,AUD
@@ -497,11 +501,11 @@ e8be5812-a8bc-4f9e-9649-b82daff077c8,10/21/2026 22:00:00,S&P Global Manufacturin
 2696dcc9-ec0c-4800-baf9-7aed05a3e1dc,10/21/2026 22:00:00,S&P Global Services PMI,MEDIUM,AUD
 bf8c59f6-937e-49fc-9e61-4216a13e335d,10/22/2026 00:30:00,National Australia Bank's Business Confidence (QoQ),MEDIUM,AUD
 27004ad2-e1b6-47e1-bb08-954f5208c191,10/23/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
-995c64be-fbba-4fc2-8dfd-23ce6a885d60,10/28/2026 00:30:00,Consumer Price Index (QoQ),LOW,AUD
-c71d1c15-db4b-4be9-8f4f-4d6a6a927448,10/28/2026 00:30:00,Consumer Price Index (YoY),LOW,AUD
 f53f6a44-c97b-4303-a2d3-b6aaddd2b4a7,10/28/2026 00:30:00,Consumer Price Index (YoY),HIGH,AUD
-3e17061b-7f0c-4a1e-94c0-11fe04b05a90,10/28/2026 00:30:00,RBA Trimmed Mean CPI (QoQ),LOW,AUD
-f11f67b6-e763-4c33-b10d-a037d369e21b,10/28/2026 00:30:00,RBA Trimmed Mean CPI (YoY),LOW,AUD
+995c64be-fbba-4fc2-8dfd-23ce6a885d60,10/28/2026 00:30:00,Quarterly Consumer Price Index (QoQ),LOW,AUD
+c71d1c15-db4b-4be9-8f4f-4d6a6a927448,10/28/2026 00:30:00,Quarterly Consumer Price Index (YoY),LOW,AUD
+3e17061b-7f0c-4a1e-94c0-11fe04b05a90,10/28/2026 00:30:00,Quarterly RBA Trimmed Mean CPI (QoQ),LOW,AUD
+f11f67b6-e763-4c33-b10d-a037d369e21b,10/28/2026 00:30:00,Quarterly RBA Trimmed Mean CPI (YoY),LOW,AUD
 8ebd2d23-8adc-4619-93d7-05ccae2ae4d1,10/30/2026 00:30:00,Export Price Index (QoQ),LOW,AUD
 0529baf1-c13e-421b-95e8-de1b22183200,10/30/2026 00:30:00,Import Price Index (QoQ),LOW,AUD
 42f3b716-de2d-412c-b532-515b9309fe48,10/30/2026 00:30:00,Private Sector Credit (MoM),LOW,AUD
