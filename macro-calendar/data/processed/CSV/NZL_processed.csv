@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-292885eb-5d11-45ab-b4e3-01e2a490f987,11/26/2025 01:00:00,RBNZ Interest Rate Decision,MEDIUM,NZD,Speech,0.13,Monetary Policy
-7857a0a1-5f82-4dd6-9409-b200ed1e988c,11/26/2025 01:00:00,RBNZ Monetary Policy Review,HIGH,NZD,Release,0.2,Monetary Policy
-bd119a43-0ec1-44e1-8296-5c84f0d2a41d,11/26/2025 01:00:00,RBNZ Monetary Policy Statement,MEDIUM,NZD,Speech,0.13,Monetary Policy
-e7c1a146-c697-45d2-ae3a-5df50d220d48,11/26/2025 02:00:00,RBNZ Press Conference,MEDIUM,NZD,Speech,0.13,Monetary Policy
-5bdaa266-f56c-4a9e-b159-977f25a0a801,11/26/2025 21:45:00,Retail Sales (QoQ),HIGH,NZD,Release,0.17,Growth
-a8611367-57ce-4019-a1bc-ff75334a1d02,11/26/2025 21:45:00,Retail Sales ex Autos (QoQ),HIGH,NZD,Release,0.17,Growth
 47df4ebe-4b32-459a-84d4-2016ee478428,11/27/2025 00:00:00,ANZ Activity Outlook,MEDIUM,NZD,Release,0.14,Confidence
 081739f1-8c08-44d6-aa26-5c8d3916b10f,11/27/2025 00:00:00,ANZ Business Confidence,MEDIUM,NZD,Release,0.14,Confidence
 bd7119d8-5950-48c3-9598-27671b66f3e5,11/27/2025 21:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Release,0.14,Confidence
