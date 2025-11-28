@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-3f47118d-d386-4cef-ab9f-9d3b50dff24f,11/27/2025 09:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
-c69a4f3d-af0e-4f68-a674-deeeda398212,11/27/2025 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
-c2b0b8c3-abd8-4792-baf5-a73ec68b5c08,11/27/2025 10:00:00,Industrial Sales n.s.a. (YoY),HIGH,EUR,Release,0.722,Growth
-829222e2-14ad-4274-b535-6ad3636a3036,11/27/2025 10:00:00,Industrial Sales s.a. (MoM),HIGH,EUR,Release,0.722,Growth
-95ef0358-fcbb-4e18-ac59-80ce99c7c491,11/27/2025 10:30:00,10-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
-438c9579-0be8-4a3a-b5e3-8850992a1293,11/27/2025 10:30:00,5-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 6f3f7175-22df-4c08-8103-b79e5ff7af4a,11/28/2025 09:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 45553b86-c646-48d1-8d2c-8b7d73a70ef6,11/28/2025 09:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
 1ce8d86a-00c4-4a0d-82c7-1a24ed4db8e3,11/28/2025 10:00:00,Consumer Price Index (EU Norm) (MoM),HIGH,EUR,Release,0.807,Inflation
@@ -66,3 +60,80 @@ b5da7e17-f3b1-4344-848d-217a81445eeb,01/30/2026 10:00:00,Consumer Price Index (M
 28209268-385e-4789-9432-ab6bf25f7037,01/30/2026 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 624d2f5f-8480-4e8a-8e82-868f1f5d02d5,01/30/2026 10:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 c03c6612-9052-42c4-9371-bd5b1b9d088a,01/30/2026 10:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+323c8119-ea37-427e-acf4-22af837b0a1e,02/10/2026 09:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
+997058a8-2cdd-45c7-bcb3-16dcd6d2ef5a,02/10/2026 09:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
+d3ba1f9a-2caa-492e-a08f-03ded24247b5,02/17/2026 09:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+7a38d8b8-73cf-4d0f-abf1-feddb9a931ff,02/17/2026 09:00:00,Trade Balance EU,HIGH,EUR,Release,0.468,Trade and External
+8564b06e-f2b1-4233-a04d-f9604cd4a049,02/27/2026 09:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+c9189f9e-a636-43bc-8566-38c91fa45c25,02/27/2026 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+f9d15d67-5fd3-411c-bb40-28be495b2f93,02/27/2026 09:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
+5ce5afba-8591-48f5-8b77-23069425779d,03/10/2026 09:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
+ade090e3-ada8-4ce7-aba5-db94144d9a11,03/10/2026 09:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
+7baa8199-9827-4283-97f0-59234236ef5c,03/17/2026 09:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+b5ed467f-a2d2-421b-bbd9-38bed5f9bb3f,03/17/2026 09:00:00,Trade Balance EU,HIGH,EUR,Release,0.468,Trade and External
+17a489af-d067-45ff-99b4-6ff2c3a7c920,03/27/2026 09:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+58a9f532-ad25-42f0-839c-f27548e970e2,03/27/2026 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+f7d57e74-a518-44bc-8738-3bad61912137,03/31/2026 08:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
+aa029cdb-04c7-41f2-b01e-f7899ed14a66,04/10/2026 08:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
+5ad9ef7a-f928-4856-a258-367e5ff75e31,04/10/2026 08:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
+74bfe663-63c2-4897-8819-fdd33e8bb2fc,04/17/2026 08:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+5cea6799-c849-4026-875a-1698e5d5986b,04/17/2026 08:00:00,Trade Balance EU,HIGH,EUR,Release,0.468,Trade and External
+0ed94fbc-c963-4ced-8cbc-2df4fb3daf44,04/28/2026 08:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+384a8d3f-75a8-44db-884f-384b01cbab88,04/28/2026 08:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+602bd82f-b283-42b7-bd3c-3f85eff1a928,04/30/2026 08:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
+4a03fffd-effa-4cc1-97d0-1ea72a552abd,05/12/2026 08:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
+1d69aa8e-8c2c-4471-b7de-e00b50a03de2,05/12/2026 08:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
+eea577f5-f529-434c-a92f-76ddd5f52c53,05/15/2026 08:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+f0838e8d-e83e-4b2b-b60f-5b3259aff281,05/15/2026 08:00:00,Trade Balance EU,HIGH,EUR,Release,0.468,Trade and External
+9702ba70-8b1c-46ad-85ab-590104a98cec,05/29/2026 08:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+2480981d-4a73-4d85-80cd-f0cbd8d30820,05/29/2026 08:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+2d6a991e-a7b0-4cad-89a6-0bfc9170f9e1,05/29/2026 08:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
+64e2fd01-1a4b-429e-b8a4-defd20335dcf,06/10/2026 08:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
+d4cac3bc-accc-46f9-a604-fb4a9d13e99f,06/10/2026 08:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
+dc459f13-d536-43d6-af70-3ae3080e458c,06/18/2026 08:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+a3adfd40-ad93-4498-a9f5-4afb3adfb92e,06/18/2026 08:00:00,Trade Balance EU,HIGH,EUR,Release,0.468,Trade and External
+6d6328a9-589a-46a6-8535-6328cbf8d86a,06/25/2026 08:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+42cfb373-b786-448b-8beb-2388172506d5,06/25/2026 08:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+f1a2f766-d747-4f5a-b009-add1313df024,06/30/2026 08:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
+886a0b7e-ae4e-459d-8dbf-b317dc5a84d2,07/10/2026 08:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
+7163a68b-10c0-428c-9e8f-d53bac4094a8,07/10/2026 08:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
+646ed115-fcf1-4d1e-b661-af237eaf65dc,07/16/2026 08:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+c7343506-443c-4ec4-9bea-6f177eabf92a,07/16/2026 08:00:00,Trade Balance EU,HIGH,EUR,Release,0.468,Trade and External
+c08d26c2-549e-4c70-8e28-d8b908266bac,07/28/2026 08:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+80f630a8-ddd4-4477-94b8-b1f1855c1e47,07/28/2026 08:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+bf3488f7-0e93-4328-8cde-2515701af677,07/31/2026 08:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
+d762ee1e-ef32-49fc-8534-4a5c55eaa6af,08/10/2026 08:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
+0a7cbe8a-a293-4701-9f28-b3f8314c9683,08/10/2026 08:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
+078cdc9e-1608-41e2-997e-808949f26576,08/18/2026 08:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+ab344639-ef5e-4bb8-b155-68911f2bd983,08/18/2026 08:00:00,Trade Balance EU,HIGH,EUR,Release,0.468,Trade and External
+91b79c84-c331-4248-b835-4cfa014a14a5,08/27/2026 08:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+0f051519-fe5d-45d0-a23d-3a05b5512eeb,08/27/2026 08:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+6125727d-b447-446d-bc01-a3426c541e90,08/31/2026 08:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
+8c8aceb0-b088-4cd4-9552-a440b8bfe956,09/08/2026 08:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
+2d63f81b-1fa2-4134-8328-a9148c2ead59,09/08/2026 08:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
+6ce166a9-19eb-4af5-87bb-f104ca6e42cf,09/17/2026 08:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+45671689-9420-479f-8784-54ad39bf5c83,09/17/2026 08:00:00,Trade Balance EU,HIGH,EUR,Release,0.468,Trade and External
+d5aa3a46-17ec-47e3-95ec-69f23e4bfaf3,09/25/2026 08:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+fba7fb14-5217-4568-9c26-0ad3224d7d49,09/25/2026 08:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+4c4261b7-a17f-4fb5-b7db-67292431b6d9,09/30/2026 08:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
+74644dda-73a8-47e6-bacd-ed1fd9fd48ae,10/08/2026 08:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
+63ed7678-130e-4857-a2a3-61ac4e102b4c,10/08/2026 08:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
+22dfa5da-5ebe-4d3d-8b52-c46eabdbaf89,10/16/2026 08:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+cc3b951b-7798-4c26-af22-13e81dfd230a,10/16/2026 08:00:00,Trade Balance EU,HIGH,EUR,Release,0.468,Trade and External
+923fb5c9-b7e4-4bd3-9b7e-aa30151919e1,10/28/2026 09:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+7f5a6990-ef5b-4ab3-9f01-ebcdb68465ed,10/28/2026 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+28f70978-c691-4e18-9b44-b330ba91a2b8,10/30/2026 09:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
+88ce89e4-8301-4db3-8ea2-6f3953871398,11/12/2026 09:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
+b8854fd2-904f-438b-b95b-8c0222726925,11/12/2026 09:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
+cd9421cf-ba95-4bee-8c41-207c0816fc56,11/17/2026 09:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+0e4d969a-3cad-44e1-8992-45918cc707c6,11/17/2026 09:00:00,Trade Balance EU,HIGH,EUR,Release,0.468,Trade and External
+b637e479-07f9-4baa-8c24-0da8992fdf20,11/26/2026 09:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+3df90316-b9fb-4cfd-8764-44f5e8c22987,11/26/2026 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+0aeb3470-2572-45ff-a556-2416838426ae,11/30/2026 09:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
+0464a370-8e4b-4d7c-a116-210ced5a3a6c,12/10/2026 09:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
+e9ae98b1-c763-4f27-b7d9-25693585e374,12/10/2026 09:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
+9ebadadb-ad01-404a-b0be-c7814d804a5c,12/15/2026 09:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+ec86b06c-24d1-4871-8438-1269f2d6bd2c,12/15/2026 09:00:00,Trade Balance EU,HIGH,EUR,Release,0.468,Trade and External
+8044cfdc-4125-44d5-af15-c57abc3738da,12/22/2026 09:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+4ecd5078-1240-475b-a8d1-483463092030,12/22/2026 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+49cd6500-a0f2-4266-929f-b12b8bb20af8,12/22/2026 09:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External

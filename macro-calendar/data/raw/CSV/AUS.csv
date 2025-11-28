@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-5ded77cc-7656-4f0f-bc94-9f8dc448630c,11/27/2025 00:30:00,Private Capital Expenditure,MEDIUM,AUD
 1772d14f-d8e3-4e65-9c8c-4a7485f259cf,11/28/2025 00:30:00,Private Sector Credit (MoM),LOW,AUD
 796cbb5d-8ee9-416e-92b5-7e8abe79f813,11/28/2025 00:30:00,Private Sector Credit (YoY),LOW,AUD
 1734ae4f-3fff-4fbe-bac8-89dba4aeb7cc,11/30/2025 22:00:00,S&P Global Manufacturing PMI,LOW,AUD
@@ -593,3 +592,43 @@ a2a98361-fb41-4858-9985-8e99c8fd0e8b,11/30/2026 00:00:00,TD-MI Inflation Gauge (
 d5d69fc5-49de-4418-9573-1e4528ff18a7,11/30/2026 00:30:00,Private Sector Credit (MoM),LOW,AUD
 dc6572b4-8c7b-4d43-a16a-94fa1c1ada2b,11/30/2026 00:30:00,Private Sector Credit (YoY),LOW,AUD
 620c9e8f-f6ee-4d8e-9b1f-4246759beca3,11/30/2026 22:00:00,S&P Global Manufacturing PMI,LOW,AUD
+f568dfd6-71e9-4908-b7f8-99b9e60cc3cd,12/01/2026 00:30:00,Building Permits (MoM),MEDIUM,AUD
+c1064cac-a0cb-41cb-8bb4-c2e6607a5bc8,12/01/2026 00:30:00,Building Permits (YoY),LOW,AUD
+35e23a31-6e0d-44f0-bdcb-127f06fc5412,12/01/2026 00:30:00,Current Account Balance,LOW,AUD
+bddb9bd8-3631-41f9-8d74-167dfdcb5b59,12/01/2026 05:30:00,RBA Commodity Index SDR (YoY),LOW,AUD
+6579f749-0fe7-4e19-aa01-1cdd79472031,12/01/2026 22:00:00,Ai Group Construction PMI,LOW,AUD
+020afe1d-f50b-4adc-b8a0-125719d2bcbc,12/01/2026 22:00:00,Ai Group Manufacturing PMI,LOW,AUD
+e6807620-d23d-4391-ae7d-d11c6978d792,12/01/2026 22:00:00,AiG Industry Index,MEDIUM,AUD
+8421abec-76b1-4b74-bc89-809bb2b62434,12/02/2026 00:30:00,Gross Domestic Product (QoQ),HIGH,AUD
+34a3af80-c4ae-4cf7-9993-8383bca27fa2,12/02/2026 00:30:00,Gross Domestic Product (YoY),MEDIUM,AUD
+3cbd4e27-0d97-488a-a3d9-9b62514ceb0a,12/02/2026 22:00:00,S&P Global Composite PMI,MEDIUM,AUD
+759ceea9-c4d1-404d-aac7-e775dbb5b16c,12/02/2026 22:00:00,S&P Global Services PMI,MEDIUM,AUD
+49280315-757c-421e-a310-42656efbd050,12/03/2026 00:30:00,Exports (MoM),MEDIUM,AUD
+24ae4502-0ce4-420e-ac54-65663e817d4d,12/03/2026 00:30:00,Imports (MoM),MEDIUM,AUD
+16758672-76f4-4aae-bf89-05f0bee46937,12/03/2026 00:30:00,Trade Balance (MoM),HIGH,AUD
+da8667d9-d3b1-498c-9dff-8a9cdd13f383,12/04/2026 20:30:00,CFTC AUD NC Net Positions,LOW,AUD
+113667a2-f6b2-4ce8-af3b-e50ac47e7876,12/07/2026 00:30:00,ANZ Job Advertisements,LOW,AUD
+44b029bf-ceac-4cd6-a557-158cc6237eb7,12/08/2026 00:30:00,National Australia Bank's Business Conditions,LOW,AUD
+1e400f7e-408d-4892-a36f-b23ce5feb684,12/08/2026 00:30:00,National Australia Bank's Business Confidence,LOW,AUD
+ea4d4c31-f535-4dce-983b-4f0362089c00,12/08/2026 03:30:00,RBA Interest Rate Decision,HIGH,AUD
+23f13ea9-087f-4d7e-9127-452eaee84daa,12/08/2026 03:30:00,RBA Monetary Policy Statement,HIGH,AUD
+72dd0db9-b19b-4228-a224-0a9d4ed99a3c,12/08/2026 03:30:00,RBA Rate Statement,HIGH,AUD
+c5a2c7fe-a12b-42bc-ac46-a7e71caea7ab,12/08/2026 04:30:00,RBA Press Conference,HIGH,AUD
+36b639e7-0f6a-469e-9ec2-09e93c390ecf,12/10/2026 00:00:00,Consumer Inflation Expectations,MEDIUM,AUD
+d02aafd1-903c-45af-8679-a0952429c37d,12/11/2026 20:30:00,CFTC AUD NC Net Positions,LOW,AUD
+f1345ba7-0d49-4f46-a107-e489920a2e82,12/14/2026 22:00:00,S&P Global Composite PMI,MEDIUM,AUD
+539c02fa-5174-4970-ad40-3a86b636cd90,12/14/2026 22:00:00,S&P Global Manufacturing PMI,MEDIUM,AUD
+ee9fe6a7-8a25-432e-8c4b-6d66583626fd,12/14/2026 22:00:00,S&P Global Services PMI,MEDIUM,AUD
+9453719f-02e4-44e7-a6e1-2974e287273e,12/14/2026 23:30:00,Westpac Consumer Confidence,MEDIUM,AUD
+763ca9a3-3d95-4442-bea7-98ab7dc72394,12/16/2026 00:00:00,Westpac Leading Index (MoM),LOW,AUD
+f9e77920-36e3-44c8-af6c-a90af23b81fd,12/16/2026 01:30:00,Mid-Year Economic and Fiscal Outlook,MEDIUM,AUD
+0e0a2a16-b43b-40a6-82e2-389e30491a64,12/17/2026 00:30:00,Employment Change s.a.,HIGH,AUD
+a1f81f60-2bfa-47ee-bdba-d36d03c9ee26,12/17/2026 00:30:00,Full-Time Employment,MEDIUM,AUD
+6473702d-d302-43e9-a64e-d4eeeae1b81d,12/17/2026 00:30:00,Participation Rate,MEDIUM,AUD
+8933a4be-8c3d-436a-8aa2-e0d2de7f3bb5,12/17/2026 00:30:00,Part-Time Employment,MEDIUM,AUD
+6bf86238-07b2-478b-91f8-5d932463a20d,12/17/2026 00:30:00,Unemployment Rate s.a.,HIGH,AUD
+b828bd46-3522-44fa-8474-293fb36745f4,12/18/2026 00:30:00,Private Sector Credit (MoM),LOW,AUD
+fb1fe895-556c-4308-a36a-a179e9348eaf,12/18/2026 00:30:00,Private Sector Credit (YoY),LOW,AUD
+b4c713ef-7d91-4778-81c2-025df72f8035,12/18/2026 20:30:00,CFTC AUD NC Net Positions,LOW,AUD
+9c60847c-41ae-4f9f-8160-04ee3d7a4ea8,12/22/2026 00:30:00,RBA Meeting Minutes,HIGH,AUD
+f7172829-8b51-4a7d-9300-fbcc8c30c5cf,12/25/2026 20:30:00,CFTC AUD NC Net Positions,LOW,AUD
