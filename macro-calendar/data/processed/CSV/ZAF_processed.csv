@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-f0647cbc-543f-495c-b180-9979ad2f1d22,11/28/2025 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation
-a680b2c3-98dd-4768-a23c-2397648a528e,11/28/2025 06:00:00,Private Sector Credit,LOW,ZAR,Release,0.09,Money and Credit
-b024972e-3932-49a2-8721-208523b3926d,11/28/2025 12:00:00,Trade Balance (in Rands),MEDIUM,ZAR,Release,0.11,Trade and External
 42a715cb-aa4f-4a0c-8f3e-33678bc40d8d,12/02/2025 09:30:00,Gross Domestic Product (QoQ),HIGH,ZAR,Release,0.17,Growth
 5c878125-6e53-4a63-bd3e-5aa24ede64c7,12/02/2025 09:30:00,Gross Domestic Product (YoY),HIGH,ZAR,Release,0.17,Growth
 000046f3-12a4-4c53-8faf-13d8a1e9a3ea,12/02/2025 12:00:00,Total New Vehicle Sales,LOW,ZAR,Release,0.07,Housing

@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0737890f-1bdc-4755-b91a-b965269c4b13,11/28/2025 10:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 e6b1cd69-9fcb-4691-9b53-07f271ecee6e,12/01/2025 09:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 bbbdc2c3-1b85-4043-9301-ff53baad0cf9,12/01/2025 12:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 17ce5404-9fe4-4311-bae4-c930f29a8e9b,12/02/2025 10:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
@@ -12,12 +11,19 @@ ab69f258-6d6f-45e5-8972-eec73951db6a,12/02/2025 20:30:00,CFTC EUR NC Net Positio
 b84f2703-398a-4195-a852-11cfe912d816,12/03/2025 09:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 b73186df-ef29-44f0-8efd-ba291c530f90,12/03/2025 10:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 39c320eb-cc4a-4c11-99d5-e9326f29cde3,12/03/2025 10:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+c8b32601-8d08-4cf4-beb1-1c107c4c7499,12/03/2025 10:30:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
+9ca05638-c0d9-457b-8e7d-8a8764b08ea7,12/03/2025 13:30:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
+b51bfc0a-c9ff-4227-9a4b-316867d11d8c,12/03/2025 15:30:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
 a90ba40b-3a0e-4b6d-b331-73986f5567a0,12/04/2025 10:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
 512937a3-a4bd-4903-8396-42262b9f98b3,12/04/2025 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+d677b5fb-dfb8-4d08-b536-b31cd13007c0,12/04/2025 13:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
+1ab79e1f-8a42-442c-bc35-0f16ad1d7cef,12/04/2025 15:00:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
+96dfcaf6-d811-48e3-975e-9d1d7fcae9ca,12/04/2025 18:00:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
 8ec5bab3-81c5-4960-998e-f0419a61df3d,12/05/2025 10:00:00,Employment Change (QoQ),HIGH,EUR,Release,0.765,Labor Market
 c9227cf6-2375-46d6-b5d2-a67931a9b2a0,12/05/2025 10:00:00,Employment Change (YoY),HIGH,EUR,Release,0.765,Labor Market
 3522c9eb-a75f-44fc-ae5d-5fe2825936db,12/05/2025 10:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR,Release,0.722,Growth
 8b711841-4ed7-4961-bc96-66e11aa4270d,12/05/2025 10:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR,Release,0.722,Growth
+9146a46b-f776-4ecf-b729-43bef1b403c6,12/05/2025 15:10:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
 f6a3ceed-eee7-4794-9e4c-22ade967f91b,12/05/2025 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 bf70b272-3b82-4f91-bd2c-d7df7672495b,12/08/2025 09:30:00,Sentix Investor Confidence,HIGH,EUR,Release,0.595,Confidence
 3ef0d8ef-aec9-44be-a613-d605b9dea94b,12/09/2025 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
