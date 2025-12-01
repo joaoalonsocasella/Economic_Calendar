@@ -1,11 +1,11 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 89a2a917-2b90-46bc-8f38-24446985d681,12/01/2025 00:30:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
-a3d63be7-8452-46f7-85b3-0f994dad9ea1,12/01/2025 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 6a56a406-4c42-485e-b341-82f714be2ff1,12/01/2025 04:00:00,Exports,MEDIUM,IDR,Release,0.11,Trade and External
 2c3196f8-c510-44dc-aca5-113793d3af4d,12/01/2025 04:00:00,Imports,MEDIUM,IDR,Release,0.11,Trade and External
-95df4e14-0f7e-4d5e-9b50-fed54466d78c,12/01/2025 04:00:00,Inflation (MoM),HIGH,IDR,Release,0.19,Inflation
-630f2676-b141-45e6-a242-d17ea7149f5d,12/01/2025 04:00:00,Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 33f19772-b0bb-49ff-9a5e-e740961f7906,12/01/2025 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
+a3d63be7-8452-46f7-85b3-0f994dad9ea1,12/01/2025 04:38:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
+95df4e14-0f7e-4d5e-9b50-fed54466d78c,12/01/2025 04:38:00,Inflation (MoM),HIGH,IDR,Release,0.19,Inflation
+630f2676-b141-45e6-a242-d17ea7149f5d,12/01/2025 04:38:00,Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 081875c5-f265-4fb0-addb-b1360b6fb068,12/05/2025 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
 322e97ec-1aa0-42ab-ac7e-c3504542ae70,12/09/2025 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
 ee2150a3-925a-4fe7-b5c2-97c5a95519e3,12/10/2025 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth

@@ -1,6 +1,7 @@
 Id,Start,Name,Impact,Currency
 b20655a1-f9e6-4f07-a359-f738da60557a,12/01/2025 05:00:00,HSBC Manufacturing PMI,MEDIUM,INR
 e26b34b0-3105-4a20-8d6d-b69c332596a7,12/01/2025 11:30:00,Cumulative Industrial Output,LOW,INR
+b98bd217-b097-4c1e-a566-a1bb42be60be,12/01/2025 11:30:00,Infrastructure Output (YoY),LOW,INR
 cfe8346e-d846-4d24-9213-c8244488e0cc,12/03/2025 05:00:00,HSBC Composite PMI,MEDIUM,INR
 2c3e0cd7-1509-4fc9-b3f4-cb6e12a3a164,12/03/2025 05:00:00,HSBC Services PMI,MEDIUM,INR
 b49013ec-a062-46b5-8a40-dfe7c311102b,12/05/2025 04:30:00,RBI Interest Rate Decision (Repo Rate),MEDIUM,INR
