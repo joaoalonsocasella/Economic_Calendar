@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-7710ee67-8933-4651-bb09-3462869d524b,12/01/2025 08:00:00,S&P Global Manufacturing PMI,HIGH,PLN,Release,0.17,Growth
-9c9b73a6-9e51-4541-b265-ea96a2d59d0b,12/01/2025 09:00:00,Gross Domestic Product Qtr (YoY),HIGH,PLN,Release,0.17,Growth
 2524c026-12fd-45f0-81fa-b76f598c3073,12/03/2025 13:00:00,NBP Base rate,HIGH,PLN,Release,0.2,Monetary Policy
 97f615f8-374e-4690-b295-6639c11c0f2e,12/05/2025 13:00:00,Central Bank FX Reserves,LOW,PLN,Release,0.09,Money and Credit
 04025e44-5c24-43b3-a2f9-7c41ba32b506,12/15/2025 09:00:00,Consumer Price Index (MoM),HIGH,PLN,Release,0.19,Inflation

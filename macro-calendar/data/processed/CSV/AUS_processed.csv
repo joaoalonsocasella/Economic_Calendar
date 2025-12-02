@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d45588c5-6c53-4ab9-80ee-3905a26ea229,12/01/2025 00:00:00,TD-MI Inflation Gauge (MoM),HIGH,AUD,Release,0.19,Inflation
-9af7f85b-2ca7-4ce0-b74d-def8a0baac96,12/01/2025 00:00:00,TD-MI Inflation Gauge (YoY),HIGH,AUD,Release,0.19,Inflation
-ea55ce50-e660-47fa-935d-31e0024d06fd,12/01/2025 00:30:00,ANZ Job Advertisements,HIGH,AUD,Release,0.18,Labor Market
-5fd0bace-9eef-4c78-87d8-d99f0c88ee57,12/01/2025 00:30:00,Company Gross Operating Profits (QoQ),HIGH,AUD,Release,0.17,Growth
-376fbc60-27e2-405a-a0f3-75f884072534,12/01/2025 05:30:00,RBA Commodity Index SDR (YoY),HIGH,AUD,Release,0.19,Inflation
 b48e3a7d-765c-45c6-af0b-7d9e1847d3a1,12/02/2025 00:30:00,Building Permits (MoM),LOW,AUD,Release,0.07,Housing
 c6040ab6-78ad-4d48-b06a-284ef9cce4a0,12/02/2025 00:30:00,Building Permits (YoY),LOW,AUD,Release,0.07,Housing
 be1974a4-b7fd-4311-af59-143fae7f82ad,12/02/2025 00:30:00,Current Account Balance,MEDIUM,AUD,Release,0.11,Trade and External
@@ -26,6 +21,11 @@ d2158501-3806-4bd1-96c8-6e5aa82d6561,12/05/2025 20:30:00,CFTC AUD NC Net Positio
 84b339dd-52f0-4e51-ac6b-ed16403c5229,12/09/2025 03:30:00,RBA Rate Statement,MEDIUM,AUD,Speech,0.13,Monetary Policy
 94287483-6254-4b8c-b07b-9608fe52b2fe,12/09/2025 04:30:00,RBA Press Conference,MEDIUM,AUD,Speech,0.13,Monetary Policy
 6b56a49c-4a24-4a54-a48a-9856d15dbf74,12/09/2025 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
+a3dcdc47-e144-4ea8-a2d5-986661c18506,12/11/2025 00:30:00,Employment Change s.a.,HIGH,AUD,Release,0.18,Labor Market
+307adf6f-8a47-4374-ade7-d4dd1e633156,12/11/2025 00:30:00,Full-Time Employment,HIGH,AUD,Release,0.18,Labor Market
+177b63b5-904b-46a1-9953-46f07e102d32,12/11/2025 00:30:00,Participation Rate,HIGH,AUD,Release,0.18,Labor Market
+d1e327bc-fbcf-4f70-ac4f-09e1fcfce2f4,12/11/2025 00:30:00,Part-Time Employment,HIGH,AUD,Release,0.18,Labor Market
+cc37b7fa-9382-4f4d-aec1-1c2b016625b5,12/11/2025 00:30:00,Unemployment Rate s.a.,HIGH,AUD,Release,0.18,Labor Market
 f9f09aa8-e8df-455b-8da3-6c9602d41507,12/12/2025 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 7ff66c5f-84d8-41a6-84d8-fa0dc35f641a,12/15/2025 22:00:00,S&P Global Composite PMI,HIGH,AUD,Release,0.17,Growth
 43648932-fb14-4828-8fc9-e0fc10b75153,12/15/2025 22:00:00,S&P Global Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
@@ -34,11 +34,6 @@ dd1e1f97-eae8-4808-8c21-d7f252551854,12/15/2025 23:30:00,Westpac Consumer Confid
 0a49f173-b4fe-4fbf-9ca2-bd8540f75b20,12/16/2025 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 bdfe24fc-496a-4465-8cfe-11280dda7e38,12/17/2025 00:00:00,Westpac Leading Index (MoM),MEDIUM,AUD,Release,0.14,Confidence
 701ad4ce-9f63-4b45-bed8-5b66942e7594,12/18/2025 00:00:00,Consumer Inflation Expectations,MEDIUM,AUD,Release,0.14,Confidence
-a3dcdc47-e144-4ea8-a2d5-986661c18506,12/18/2025 00:30:00,Employment Change s.a.,HIGH,AUD,Release,0.18,Labor Market
-307adf6f-8a47-4374-ade7-d4dd1e633156,12/18/2025 00:30:00,Full-Time Employment,HIGH,AUD,Release,0.18,Labor Market
-177b63b5-904b-46a1-9953-46f07e102d32,12/18/2025 00:30:00,Participation Rate,HIGH,AUD,Release,0.18,Labor Market
-d1e327bc-fbcf-4f70-ac4f-09e1fcfce2f4,12/18/2025 00:30:00,Part-Time Employment,HIGH,AUD,Release,0.18,Labor Market
-cc37b7fa-9382-4f4d-aec1-1c2b016625b5,12/18/2025 00:30:00,Unemployment Rate s.a.,HIGH,AUD,Release,0.18,Labor Market
 3d7bc0ee-6da1-4e79-804b-0fb1671a627e,12/19/2025 00:30:00,Private Sector Credit (MoM),LOW,AUD,Release,0.09,Money and Credit
 3ecda2f4-1774-4476-9361-617b929c1d7c,12/19/2025 00:30:00,Private Sector Credit (YoY),LOW,AUD,Release,0.09,Money and Credit
 1a053870-e624-4651-9407-f82d0d8f2eb8,12/19/2025 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit

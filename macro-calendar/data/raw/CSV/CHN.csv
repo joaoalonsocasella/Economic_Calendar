@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-9c42b93e-e536-4f07-866d-f51d58e3a7f1,12/01/2025 01:45:00,RatingDog Manufacturing PMI,HIGH,CNY
 a6772988-2e08-418e-b19a-2ddefeb56f50,12/03/2025 01:45:00,RatingDog Services PMI,HIGH,CNY
 679e87ca-869c-4993-92d6-665bf658dd17,12/07/2025 08:00:00,Foreign Exchange Reserves (MoM),LOW,CNY
 45196037-ff2b-41f6-aa27-a57e2b983866,12/08/2025 03:00:00,Exports (YoY),MEDIUM,CNY
@@ -15,9 +14,9 @@ ff6aaa58-6901-41d6-ab54-777bd281a7d3,12/10/2025 09:00:00,FDI - Foreign Direct In
 33db1f88-6afe-4d4a-8e0d-7e13acc2bc54,12/10/2025 10:00:00,M2 Money Supply (YoY),LOW,CNY
 1efd0387-dd53-4fa0-9fca-ee398f04b39d,12/10/2025 10:00:00,New Loans,LOW,CNY
 b6f8b4bf-b378-4a0d-a543-2b30725b390b,12/15/2025 01:30:00,"House Price Index ",LOW,CNY
-1b9326d1-ebab-4598-91fe-9d2551bd9f33,12/17/2025 02:00:00,Fixed Asset Investment (YTD) (YoY),LOW,CNY
-ae518793-0949-4a7f-a2a6-54f53c94dba8,12/17/2025 02:00:00,Industrial Production (YoY),HIGH,CNY
-2c265834-0456-44e6-99fe-7ddfc274d83e,12/17/2025 02:00:00,Retail Sales (YoY),HIGH,CNY
+1b9326d1-ebab-4598-91fe-9d2551bd9f33,12/15/2025 02:00:00,Fixed Asset Investment (YTD) (YoY),LOW,CNY
+ae518793-0949-4a7f-a2a6-54f53c94dba8,12/15/2025 02:00:00,Industrial Production (YoY),HIGH,CNY
+2c265834-0456-44e6-99fe-7ddfc274d83e,12/15/2025 02:00:00,Retail Sales (YoY),HIGH,CNY
 eb1831a6-bebe-4df2-a2bb-41bc6198a1c6,12/22/2025 01:15:00,PBoC Interest Rate Decision,MEDIUM,CNY
 a16fc136-f85a-422b-9233-9e025ad1d68d,12/31/2025 01:30:00,NBS Manufacturing PMI,HIGH,CNY
 09a13d3b-0487-46b3-b770-20f7fa27c7e4,12/31/2025 01:30:00,NBS Non-Manufacturing PMI,HIGH,CNY

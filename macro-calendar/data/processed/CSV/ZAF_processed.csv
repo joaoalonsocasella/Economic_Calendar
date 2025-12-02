@@ -1,17 +1,16 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 42a715cb-aa4f-4a0c-8f3e-33678bc40d8d,12/02/2025 09:30:00,Gross Domestic Product (QoQ),HIGH,ZAR,Release,0.17,Growth
 5c878125-6e53-4a63-bd3e-5aa24ede64c7,12/02/2025 09:30:00,Gross Domestic Product (YoY),HIGH,ZAR,Release,0.17,Growth
-000046f3-12a4-4c53-8faf-13d8a1e9a3ea,12/02/2025 12:00:00,Total New Vehicle Sales,LOW,ZAR,Release,0.07,Housing
 efc4d869-d189-4542-a3c4-c4ab4f508ef8,12/05/2025 06:00:00,Gross $Gold & Forex Reserve ,HIGH,ZAR,Release,0.2,Monetary Policy
 84780849-61e5-4531-9a15-6fbe6084198b,12/05/2025 06:00:00,Net $Gold & Forex Reserve,LOW,ZAR,Release,0.09,Money and Credit
 5044a21d-aa9c-490e-a95a-7f212f2428ab,12/10/2025 11:00:00,Retail Sales (YoY),HIGH,ZAR,Release,0.17,Growth
-c9f295c1-45fd-4ed4-93b6-a616efe4708a,12/11/2025 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
-ddc3c1bc-c237-4ca2-b08f-3a5a71ed9670,12/11/2025 09:30:00,Producer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
-a53cd904-12e4-4acc-a384-99c11be6463c,12/11/2025 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
 971dff0e-5c93-406c-ab26-5df1d9dc9077,12/11/2025 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
+a53cd904-12e4-4acc-a384-99c11be6463c,12/11/2025 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
 59b26c20-5198-4125-962f-77ff31ceb4e4,12/11/2025 11:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth
 44025331-bc9d-4ddb-8ca1-54189f310c23,12/17/2025 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
 bee8cbfa-6d59-4003-80cf-eb49e3258016,12/17/2025 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
+c9f295c1-45fd-4ed4-93b6-a616efe4708a,12/18/2025 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
+ddc3c1bc-c237-4ca2-b08f-3a5a71ed9670,12/18/2025 09:30:00,Producer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
 29893517-7d9b-4d79-ae17-57c18ff528e7,12/31/2025 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation
 1edf27b6-adf7-4880-a261-08f501408e34,12/31/2025 06:00:00,Private Sector Credit,LOW,ZAR,Release,0.09,Money and Credit
 3b5abaf7-9bad-4ed3-b19c-4cb8fc917190,12/31/2025 12:00:00,Trade Balance (in Rands),MEDIUM,ZAR,Release,0.11,Trade and External

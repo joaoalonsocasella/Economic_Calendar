@@ -1,11 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a09a447c-f696-4a58-9bdc-063cb81af0b2,12/01/2025 09:30:00,Consumer Credit,MEDIUM,GBP,Release,0.14,Confidence
-150e493a-184c-4ac2-80f1-bec5f2984399,12/01/2025 09:30:00,M4 Money Supply (MoM),HIGH,GBP,Release,0.19,Inflation
-ef304fd5-c8a4-46b0-a160-a68f34d98237,12/01/2025 09:30:00,M4 Money Supply (YoY),HIGH,GBP,Release,0.19,Inflation
-13caae3f-52ee-4ebd-ab04-9d6614d6b2ea,12/01/2025 09:30:00,Mortgage Approvals,LOW,GBP,Release,0.07,Housing
-b4558443-c909-4fa0-ae54-74620651fb74,12/01/2025 09:30:00,Net Lending to Individuals (MoM),MEDIUM,GBP,Release,0.11,Trade and External
-3da3d3f0-3de7-45b6-ae83-4ef7c511b421,12/01/2025 09:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
-f6007060-571a-458c-81b0-28ddc9da7df3,12/01/2025 15:30:00,BoE's Dhingra speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 788d437f-3a5a-4a5e-977f-1e442a7ca4c8,12/02/2025 00:01:00,BRC Shop Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
 ce168aa0-d24b-4d6e-b386-080f829b27e7,12/02/2025 07:00:00,Financial Stability Report,HIGH,GBP,Release,0.2,Monetary Policy
 7169cffc-9684-44f6-b274-e12b1e916fc4,12/02/2025 07:00:00,FPC Meeting Minutes,HIGH,GBP,Release,0.2,Monetary Policy
