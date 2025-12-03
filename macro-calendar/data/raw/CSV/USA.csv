@@ -1,27 +1,12 @@
 Id,Start,Name,Impact,Currency
-31ce1c97-fe34-414c-848c-21d7d0d56a6d,12/01/2025 13:00:00,Fed's Chair Powell speech,HIGH,USD
-8e3e8f32-718c-47f6-a748-5909400785a8,12/01/2025 14:45:00,S&P Global Manufacturing PMI,LOW,USD
-4de34a54-135d-4d59-b024-0b2a14f1549a,12/01/2025 15:00:00,Construction Spending (MoM),LOW,USD
-ae0bddb9-35a4-4c4f-b3f6-bcdb79e3f32d,12/01/2025 15:00:00,ISM Manufacturing Employment Index,MEDIUM,USD
-28165076-a493-4488-a2f3-1bdf6ad46399,12/01/2025 15:00:00,ISM Manufacturing New Orders Index,MEDIUM,USD
-88042bbd-76d1-430e-a2f0-5c797496781f,12/01/2025 15:00:00,ISM Manufacturing PMI,HIGH,USD
-8e886a9a-6ffb-4050-8851-6b76a0605c48,12/01/2025 15:00:00,ISM Manufacturing Prices Paid,MEDIUM,USD
-42506bfd-549e-4343-afc9-9fbf52bc4275,12/01/2025 16:30:00,3-Month Bill Auction,LOW,USD
-5c142a49-c5d5-410c-92de-23c6296328a5,12/01/2025 16:30:00,6-Month Bill Auction,LOW,USD
-e8ee18b6-af93-489b-986b-cabe567bcaf5,12/02/2025 13:55:00,Redbook Index (YoY),LOW,USD
-5970ac63-c8a0-4413-9765-83607a7d1193,12/02/2025 15:00:00,Fed's Bowman speech,MEDIUM,USD
-ea6b6358-4b49-4bbf-a4d7-294164cb2097,12/02/2025 15:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
-582287ea-2040-4afb-999d-3df89fcea8fd,12/02/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD
-5f8529fe-1436-47b9-9c5d-fb7eddcbe529,12/02/2025 20:30:00,CFTC Oil NC Net Positions,LOW,USD
-c1ea9941-e0ca-4a26-81df-c54896f58385,12/02/2025 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
-702199c3-f882-47a2-a77d-35da9b164d74,12/02/2025 20:30:00,Total Vehicle Sales,LOW,USD
-f778487a-43b2-418d-a31a-93ba4c7758fb,12/02/2025 21:30:00,API Weekly Crude Oil Stock,LOW,USD
 ffe84d9e-026c-4e8e-be13-435fcd4e1c6b,12/03/2025 12:00:00,MBA Mortgage Applications,LOW,USD
 fd0e14a2-37bd-471c-be4b-ef6f356879d2,12/03/2025 13:15:00,ADP Employment Change,HIGH,USD
 2f14f4bc-db96-4fcc-9a96-3028a26f451d,12/03/2025 13:30:00,Export Price Index (MoM),LOW,USD
 9935e240-eaca-4d65-98ea-a599f90d84d8,12/03/2025 13:30:00,Export Price Index (YoY),LOW,USD
 17af42a8-8fb5-4be4-8457-403ffb77af0d,12/03/2025 13:30:00,Import Price Index (MoM),LOW,USD
 8cbf68e9-3e4c-45f2-9d46-8326a8098b0d,12/03/2025 13:30:00,Import Price Index (YoY),LOW,USD
+ab9953e9-e91e-46b5-9bac-4dec3df02518,12/03/2025 14:15:00,Capacity Utilization,LOW,USD
+65ff0963-c8f9-4b17-a847-f5f832c89346,12/03/2025 14:15:00,Industrial Production (MoM),MEDIUM,USD
 e868e764-b7ce-4f5b-bf8a-782cfee7abdc,12/03/2025 14:45:00,S&P Global Composite PMI,MEDIUM,USD
 2f3e1fda-3caf-4b2c-817d-533cc0b61d73,12/03/2025 14:45:00,S&P Global Services PMI,LOW,USD
 24b8cd77-bb16-4df0-806e-bd8f78735cee,12/03/2025 15:00:00,ISM Services Employment Index,MEDIUM,USD

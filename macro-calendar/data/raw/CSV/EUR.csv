@@ -1,13 +1,4 @@
 Id,Start,Name,Impact,Currency
-00c994bb-0fb4-474e-ad55-75c91b8386a0,12/01/2025 06:30:00,ECB's De Guindos speech,MEDIUM,EUR
-e6b1cd69-9fcb-4691-9b53-07f271ecee6e,12/01/2025 09:00:00,HCOB Manufacturing PMI,LOW,EUR
-bbbdc2c3-1b85-4043-9301-ff53baad0cf9,12/01/2025 12:00:00,ECB's Nagel speech,MEDIUM,EUR
-17ce5404-9fe4-4311-bae4-c930f29a8e9b,12/02/2025 10:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR
-f72bfe90-4582-496a-a7b2-332156de64b6,12/02/2025 10:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR
-f4ff14a0-c05e-4725-adfa-c97806f9d8fa,12/02/2025 10:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR
-fcf8a57f-9351-4b7b-a4b2-f59d97a1cddc,12/02/2025 10:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
-f154c4ca-1b6e-40d3-8a2c-ab02742e020e,12/02/2025 10:00:00,Unemployment Rate,MEDIUM,EUR
-ab69f258-6d6f-45e5-8972-eec73951db6a,12/02/2025 20:30:00,CFTC EUR NC Net Positions,LOW,EUR
 30d34a4d-1b05-417c-ae42-582fe79f6c29,12/03/2025 09:00:00,HCOB Composite PMI,MEDIUM,EUR
 b84f2703-398a-4195-a852-11cfe912d816,12/03/2025 09:00:00,HCOB Services PMI,LOW,EUR
 b73186df-ef29-44f0-8efd-ba291c530f90,12/03/2025 10:00:00,Producer Price Index (MoM),MEDIUM,EUR
@@ -29,8 +20,6 @@ f6a3ceed-eee7-4794-9e4c-22ade967f91b,12/05/2025 20:30:00,CFTC EUR NC Net Positio
 bf70b272-3b82-4f91-bd2c-d7df7672495b,12/08/2025 09:30:00,Sentix Investor Confidence,MEDIUM,EUR
 3ef0d8ef-aec9-44be-a613-d605b9dea94b,12/09/2025 20:30:00,CFTC EUR NC Net Positions,LOW,EUR
 4c89a720-7369-4827-ae62-74d9ee37c13c,12/12/2025 20:30:00,CFTC EUR NC Net Positions,LOW,EUR
-1838859c-c314-416e-99a4-b1e0593c4c00,12/15/2025 10:00:00,Construction Output  s.a (MoM),LOW,EUR
-4c21aef4-7a23-489e-85b5-a921f1861444,12/15/2025 10:00:00,Construction Output w.d.a (YoY),LOW,EUR
 9a7e41ee-ad4e-4791-866b-2f43c25f7167,12/15/2025 10:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
 9f13f93c-43f2-44f7-b272-da4462473bb1,12/15/2025 10:00:00,Industrial Production w.d.a. (YoY),LOW,EUR
 3590c518-1879-47f5-992f-5579d947388f,12/16/2025 09:00:00,HCOB Composite PMI,HIGH,EUR
@@ -45,20 +34,22 @@ e359d329-d026-488f-bdec-9f048326e839,12/17/2025 10:00:00,Core Harmonized Index o
 7ee1dccd-7bf4-4b2f-b442-74d0365274c0,12/17/2025 10:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 61cdc1c0-3eb2-41a5-b3ac-f321f722fa1b,12/17/2025 10:00:00,Harmonized Index of Consumer Prices (YoY),LOW,EUR
 a4141757-767d-4ae4-bd96-2ec40d2a188f,12/17/2025 10:00:00,Labor Cost Index,LOW,EUR
+1838859c-c314-416e-99a4-b1e0593c4c00,12/18/2025 10:00:00,Construction Output  s.a (MoM),LOW,EUR
+4c21aef4-7a23-489e-85b5-a921f1861444,12/18/2025 10:00:00,Construction Output w.d.a (YoY),LOW,EUR
 fc644721-18ce-492e-a3d2-51c5c8f9ce7d,12/18/2025 13:15:00,ECB Main Refinancing Operations Rate,HIGH,EUR
 a1250fbc-49f6-4eaf-a589-6caa3a1cdb55,12/18/2025 13:15:00,ECB Monetary Policy Statement,HIGH,EUR
 cb12178b-adf6-4edd-9966-a24292ca1db7,12/18/2025 13:15:00,ECB Rate On Deposit Facility,HIGH,EUR
 79e7c666-10d9-43ba-8357-8de27817d321,12/18/2025 13:45:00,ECB Press Conference,HIGH,EUR
 b12b1dd4-8cd4-47aa-a9f3-4c64ac9a1d6e,12/19/2025 09:00:00,Current Account n.s.a,LOW,EUR
 e3279cca-2e47-4001-bdf2-4c2fa2bd9799,12/19/2025 09:00:00,Current Account s.a,LOW,EUR
-f244e5f3-d3ce-4b3e-914b-e8fa56ac204f,12/19/2025 09:00:00,M3 Money Supply (3m),LOW,EUR
-93be017c-a1fb-4ed6-bb7c-57addc131b61,12/19/2025 09:00:00,M3 Money Supply (YoY),LOW,EUR
-30467660-edfb-4610-aade-cac6512d95a5,12/19/2025 09:00:00,Private Loans (YoY),LOW,EUR
 9c54e528-45b1-47e4-9fff-d279b2ccd7fb,12/19/2025 15:00:00,Consumer Confidence,MEDIUM,EUR
 db5f4db5-b988-4dc9-bf33-47074561b53a,12/19/2025 20:30:00,CFTC EUR NC Net Positions,LOW,EUR
 43b0d2da-90d2-4b4b-b5d3-423f668425ba,12/23/2025 20:30:00,CFTC EUR NC Net Positions,LOW,EUR
 0fd2a644-5a86-4f7c-997f-52dcd5bc7669,12/30/2025 20:30:00,CFTC EUR NC Net Positions,LOW,EUR
 2eb3a858-9e6b-4669-95ee-496cc6dcd754,01/02/2026 09:00:00,HCOB Manufacturing PMI,LOW,EUR
+f244e5f3-d3ce-4b3e-914b-e8fa56ac204f,01/02/2026 09:00:00,M3 Money Supply (3m),LOW,EUR
+93be017c-a1fb-4ed6-bb7c-57addc131b61,01/02/2026 09:00:00,M3 Money Supply (YoY),LOW,EUR
+30467660-edfb-4610-aade-cac6512d95a5,01/02/2026 09:00:00,Private Loans (YoY),LOW,EUR
 413f1e25-bf49-41f8-9ac2-d3c282b7019a,01/05/2026 09:00:00,HCOB Composite PMI,MEDIUM,EUR
 75e538a7-399f-4db2-b142-a1b7729037c4,01/05/2026 09:00:00,HCOB Services PMI,LOW,EUR
 37284788-8b2c-4b93-90dd-ace8423425f5,01/05/2026 09:30:00,Sentix Investor Confidence,MEDIUM,EUR

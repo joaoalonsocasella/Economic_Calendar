@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-68789b72-09f5-4309-924b-6a5da559eded,12/02/2025 21:00:00,FX Reserves,LOW,KRW,Release,0.09,Money and Credit
-062e7284-d170-42d4-adc1-dddfcea690b0,12/02/2025 23:00:00,Gross Domestic Product Growth (QoQ) ,HIGH,KRW,Release,0.17,Growth
-f1d2631a-f765-44ca-b3d6-3905009005ee,12/02/2025 23:00:00,Gross Domestic Product Growth (YoY),HIGH,KRW,Release,0.17,Growth
 31f76934-b48e-4f85-b880-07687f9a7bb7,12/04/2025 23:00:00,Current Account Balance,MEDIUM,KRW,Release,0.11,Trade and External
 eb4d9c0f-1c11-4551-bca4-5bbae5b70142,12/09/2025 23:00:00,Unemployment Rate,HIGH,KRW,Release,0.18,Labor Market
 c80f5f6c-1b08-4737-bb36-efdd79818c71,12/11/2025 21:00:00,Export Price Growth (YoY),MEDIUM,KRW,Release,0.11,Trade and External

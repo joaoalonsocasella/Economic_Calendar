@@ -1,13 +1,11 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-cd34bc90-813d-450b-9a21-0f2299690d2d,12/01/2025 08:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
-bab1020f-9f7b-44e1-bdfb-1ec897c0262a,12/01/2025 08:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
 a68d2b6c-5fdd-4c90-bc56-0e4c34b9d889,12/04/2025 08:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 52e14928-1db0-4c71-97b6-3a7baac52540,12/05/2025 08:00:00,Trade Balance,HIGH,EUR,Release,0.468,Trade and External
 37aecfa6-20d3-4187-a7a6-3ed94a3e6af6,12/05/2025 08:00:00,Wholesale Prices n.s.a (MoM),HIGH,EUR,Release,0.722,Growth
 a7c7a5e6-b5ca-4b6c-930f-3ce374806984,12/05/2025 08:00:00,Wholesale Prices n.s.a (YoY),HIGH,EUR,Release,0.468,Trade and External
 132a901b-1bbe-46cf-a2ba-7db46dce2ed9,12/10/2025 08:00:00,Industrial Production (YoY),HIGH,EUR,Release,0.722,Growth
-ed2f1346-9a45-4325-b457-962a4a2b3108,12/18/2025 08:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
-48f31c4e-d9d8-4bf1-9427-d1f17356a23c,12/18/2025 08:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+ed2f1346-9a45-4325-b457-962a4a2b3108,12/17/2025 08:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+48f31c4e-d9d8-4bf1-9427-d1f17356a23c,12/17/2025 08:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
 2f98b4a3-40da-475e-a19b-0f769e89d9ae,12/26/2025 09:00:00,UniCredit Bank Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 3b1a944c-d3f4-4cab-8b61-56a32246c8f1,12/30/2025 08:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 9893ea1b-28b0-4ec1-84c5-1a7d7ccf06d0,12/30/2025 08:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
