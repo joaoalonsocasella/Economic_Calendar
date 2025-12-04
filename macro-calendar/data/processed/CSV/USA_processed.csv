@@ -1,35 +1,18 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-ffe84d9e-026c-4e8e-be13-435fcd4e1c6b,12/03/2025 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-fd0e14a2-37bd-471c-be4b-ef6f356879d2,12/03/2025 13:15:00,ADP Employment Change,HIGH,USD,Release,0.18,Labor Market
-2f14f4bc-db96-4fcc-9a96-3028a26f451d,12/03/2025 13:30:00,Export Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
-9935e240-eaca-4d65-98ea-a599f90d84d8,12/03/2025 13:30:00,Export Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
-17af42a8-8fb5-4be4-8457-403ffb77af0d,12/03/2025 13:30:00,Import Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
-8cbf68e9-3e4c-45f2-9d46-8326a8098b0d,12/03/2025 13:30:00,Import Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
-ab9953e9-e91e-46b5-9bac-4dec3df02518,12/03/2025 14:15:00,Capacity Utilization,HIGH,USD,Release,0.2,Monetary Policy
-65ff0963-c8f9-4b17-a847-f5f832c89346,12/03/2025 14:15:00,Industrial Production (MoM),HIGH,USD,Release,0.17,Growth
-e868e764-b7ce-4f5b-bf8a-782cfee7abdc,12/03/2025 14:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
-2f3e1fda-3caf-4b2c-817d-533cc0b61d73,12/03/2025 14:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
-24b8cd77-bb16-4df0-806e-bd8f78735cee,12/03/2025 15:00:00,ISM Services Employment Index,HIGH,USD,Release,0.18,Labor Market
-986fb9c4-9e79-44dd-8c3a-814175e8f11f,12/03/2025 15:00:00,ISM Services New Orders Index,HIGH,USD,Release,0.17,Growth
-d96b6df2-d568-40ef-9cf9-1ef2158de061,12/03/2025 15:00:00,ISM Services PMI,HIGH,USD,Release,0.17,Growth
-fa80ec93-e1f3-4a9e-b4f0-d23aed8f3a1f,12/03/2025 15:00:00,ISM Services Prices Paid,MEDIUM,USD,Release,0.14,Confidence
-a0d2df31-6268-4061-aabc-7d29703eb6e7,12/03/2025 15:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
 00beb63b-e60b-4c21-a482-5706388a54b0,12/04/2025 12:30:00,Challenger Job Cuts,HIGH,USD,Release,0.18,Labor Market
 39429f11-83c4-476a-8e33-a7c79a1a5762,12/04/2025 13:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
-55bfbe0d-45e5-4a11-8d48-8d582b72f96c,12/04/2025 13:30:00,Goods and Services Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 0f69e483-c391-4086-9217-7c506b5c9177,12/04/2025 13:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 b73a89be-7f51-4812-bdf4-44aa910cd376,12/04/2025 13:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
+f0bf4e7a-00b8-4a28-b9e1-d948df09f4da,12/04/2025 15:00:00,Factory Orders (MoM),HIGH,USD,Release,0.17,Growth
 ad286479-31e5-44dc-a773-8b75231b8eb6,12/04/2025 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 a921cba6-8f81-4297-a272-7146d7bfd5bb,12/04/2025 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 227aa2f7-24a5-4dea-95bd-b024a6e1a42b,12/04/2025 17:00:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 58913856-1928-4925-a2a1-fb72f98f7507,12/05/2025 13:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 3e3efc42-db4a-4f62-a713-9db2cca70189,12/05/2025 13:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-1cdcbeb3-f638-496b-93bc-d1f019128ee7,12/05/2025 13:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 0bd7f344-8d3e-45c3-978c-66838f8329d1,12/05/2025 13:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 818ddee8-7e19-433d-aedf-553c30dcd7ac,12/05/2025 13:30:00,Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 22b85adb-4952-4483-8874-12987a37dc65,12/05/2025 13:30:00,Personal Income (MoM),HIGH,USD,Release,0.17,Growth
 445e7e52-f7c3-4bed-8906-aae8140e8867,12/05/2025 13:30:00,Personal Spending,HIGH,USD,Release,0.17,Growth
-cd3a441b-fde2-44d8-9bc5-c0177c2c55bf,12/05/2025 15:00:00,Factory Orders (MoM),HIGH,USD,Release,0.17,Growth
 59cd3573-d499-44d9-a82b-0b199294dd41,12/05/2025 15:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
 3a0a5804-01de-42ce-9f6f-fa653ac24943,12/05/2025 15:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
 7359635d-3b9e-472f-b403-cf4c91534935,12/05/2025 15:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence

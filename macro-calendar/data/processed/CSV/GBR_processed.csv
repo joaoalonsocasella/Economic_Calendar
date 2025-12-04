@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-b3fd9c7f-7f45-481c-a6e2-efcbbb7e2342,12/03/2025 09:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
-b035dddb-f26c-4f3d-83d7-d5df04aa09cc,12/03/2025 09:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
-9fdde6c1-8151-4848-af84-4221a6131214,12/03/2025 17:00:00,BoE's Mann speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 7bb15935-bd4e-4d6c-95b8-8e2001546165,12/04/2025 09:30:00,S&P Global Construction PMI,HIGH,GBP,Release,0.17,Growth
 71e3ac65-49af-412c-87fa-613286519c0e,12/05/2025 07:00:00,Halifax House Prices (MoM),LOW,GBP,Release,0.07,Housing
 98c3c1d5-7a57-47cf-88d3-3743d8943db1,12/05/2025 07:00:00,Halifax House Prices (YoY/3m),LOW,GBP,Release,0.07,Housing

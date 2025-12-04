@@ -1,7 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-60d33f2e-d499-4d48-84ec-5a36f00aa426,12/03/2025 07:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
-fe428a0f-129d-4f7e-980f-062f62ea66f5,12/03/2025 07:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation
-bac2ce65-f3f3-4a4b-92fa-f2e9882f372d,12/04/2025 06:45:00,Unemployment Rate s.a (MoM),HIGH,CHF,Release,0.18,Labor Market
+bac2ce65-f3f3-4a4b-92fa-f2e9882f372d,12/04/2025 08:00:00,Unemployment Rate s.a (MoM),HIGH,CHF,Release,0.18,Labor Market
 3280cb85-c778-449a-9c26-6c652659d41c,12/04/2025 08:30:00,SVME - Purchasing Managers' Index,MEDIUM,CHF,Release,0.14,Confidence
 fd0e8475-ac12-4e1b-a192-7e1780383bbc,12/05/2025 08:00:00,Foreign Currency Reserves,LOW,CHF,Release,0.09,Money and Credit
 e782eeac-7758-4c5c-ba60-02d190595304,12/11/2025 08:30:00,SNB Interest Rate Decision,HIGH,CHF,Release,0.2,Monetary Policy
