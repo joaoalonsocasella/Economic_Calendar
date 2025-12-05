@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-dc4412a4-6b07-44fa-8203-2b320c0538d9,12/04/2025 12:00:00,Gross Domestic Product (QoQ),HIGH,BRL,Release,0.17,Growth
-7caf2f11-ceaf-46dc-86f9-39aff6862760,12/04/2025 12:00:00,Gross Domestic Product (YoY),HIGH,BRL,Release,0.17,Growth
-d9babc08-782e-41d7-a309-e46e9504fd7e,12/04/2025 18:00:00,Trade Balance,MEDIUM,BRL,Release,0.11,Trade and External
 201cb9be-07b3-4138-bcf0-fb73696c70a4,12/10/2025 12:00:00,IPCA Inflation,HIGH,BRL,Release,0.19,Inflation
 ca30d9e0-5c4d-4244-9d47-45fd32967c9d,12/10/2025 21:00:00,Interest Rate Decision,HIGH,BRL,Release,0.2,Monetary Policy
 2c6cd7c4-41a9-4847-beb6-0aae655bd656,12/11/2025 12:00:00,Retail Sales (MoM),HIGH,BRL,Release,0.17,Growth

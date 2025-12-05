@@ -1,15 +1,13 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d712de87-b17a-4150-8546-d69f06faa64d,12/04/2025 13:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
-d6427cdd-1212-4ae6-9d89-28caf30bd386,12/04/2025 13:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
-c62c0ddf-e230-4337-8f91-56c4d66d317d,12/04/2025 13:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
-8f144050-0823-4b7d-8d2d-5526e97d02b3,12/04/2025 15:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD,Release,0.14,Confidence
-12411f28-d225-4c3c-86cd-2119ce89a080,12/04/2025 15:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD,Release,0.14,Confidence
 625400c7-2841-41a5-94a1-b0166940d0fc,12/05/2025 13:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
 e5042c5d-3209-41b9-b96a-257854a802b1,12/05/2025 13:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
 102a9f6c-3f9f-4fc5-828a-83ba41ac5b34,12/05/2025 13:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
 179d4d94-e389-4ac6-979a-f57e507a7b92,12/05/2025 13:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
 ce560d9d-425b-4dad-b6f8-b475ccc95203,12/10/2025 14:45:00,BoC Interest Rate Decision,MEDIUM,CAD,Speech,0.13,Monetary Policy
 35616238-ca21-478d-876e-dda01f0b4cc3,12/10/2025 14:45:00,BoC Monetary Policy Statement,MEDIUM,CAD,Speech,0.13,Monetary Policy
+d712de87-b17a-4150-8546-d69f06faa64d,12/11/2025 13:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
+d6427cdd-1212-4ae6-9d89-28caf30bd386,12/11/2025 13:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
+c62c0ddf-e230-4337-8f91-56c4d66d317d,12/11/2025 13:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
 bceed3e2-5c64-424e-b64b-f9e8d2497d09,12/12/2025 13:30:00,Building Permits (MoM),LOW,CAD,Release,0.07,Housing
 73c5a9f7-80b8-4135-a6e9-26f39c44f52d,12/12/2025 13:30:00,Capacity Utilization,HIGH,CAD,Release,0.2,Monetary Policy
 7e27de46-ed7e-4a75-9ec6-ba2a6f1b0cbc,12/12/2025 13:30:00,Wholesale Sales (MoM),HIGH,CAD,Release,0.17,Growth

@@ -1,12 +1,14 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-7bb15935-bd4e-4d6c-95b8-8e2001546165,12/04/2025 09:30:00,S&P Global Construction PMI,HIGH,GBP,Release,0.17,Growth
 71e3ac65-49af-412c-87fa-613286519c0e,12/05/2025 07:00:00,Halifax House Prices (MoM),LOW,GBP,Release,0.07,Housing
 98c3c1d5-7a57-47cf-88d3-3743d8943db1,12/05/2025 07:00:00,Halifax House Prices (YoY/3m),LOW,GBP,Release,0.07,Housing
 3de52d0f-8a7c-47cb-981f-85f167b421a9,12/05/2025 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+fb1872a9-2465-463c-860e-19562e62b86e,12/08/2025 14:30:00,BoE's Taylor speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
+27e5fe9c-038c-4997-a057-98497275c677,12/08/2025 18:30:00,BoE's Lombardelli speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 3dd6cdc2-b925-49a8-8322-57df5503e05a,12/09/2025 00:01:00,BRC Like-For-Like Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
 0ae397ae-c8f2-49e4-9860-456699526db9,12/09/2025 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 35a90771-c387-4ec5-bc58-28d14c65ff1a,12/10/2025 10:30:00,10-y Bond Auction,LOW,GBP,Release,0.09,Money and Credit
 1f3630fb-4b20-43cf-bddf-a2c7ad9abd3c,12/11/2025 00:01:00,RICS Housing Price Balance,LOW,GBP,Release,0.07,Housing
+ebcb7643-78e3-42b0-bbb1-346a759c976f,12/11/2025 09:50:00,BoE's Governor Bailey speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 c072f7e2-1752-49a0-9f6b-0e949776968c,12/12/2025 07:00:00,Goods Trade Balance,MEDIUM,GBP,Release,0.11,Trade and External
 85aaa6f8-68f2-4b42-bda6-3b919e713b05,12/12/2025 07:00:00,Gross Domestic Product (MoM),LOW,GBP,Release,0.07,Housing
 89cf0de0-0099-445f-abb8-6250fab9c6b5,12/12/2025 07:00:00,Index of Services (3M/3M),MEDIUM,GBP,Release,0.14,Confidence
