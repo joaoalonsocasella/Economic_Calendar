@@ -1,17 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-430b37af-2671-4843-bff4-df9817135b68,12/04/2025 08:10:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
-a90ba40b-3a0e-4b6d-b331-73986f5567a0,12/04/2025 10:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
-512937a3-a4bd-4903-8396-42262b9f98b3,12/04/2025 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
-d677b5fb-dfb8-4d08-b536-b31cd13007c0,12/04/2025 13:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
-1ab79e1f-8a42-442c-bc35-0f16ad1d7cef,12/04/2025 15:00:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
-96dfcaf6-d811-48e3-975e-9d1d7fcae9ca,12/04/2025 18:00:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
-8ec5bab3-81c5-4960-998e-f0419a61df3d,12/05/2025 10:00:00,Employment Change (QoQ),HIGH,EUR,Release,0.765,Labor Market
-c9227cf6-2375-46d6-b5d2-a67931a9b2a0,12/05/2025 10:00:00,Employment Change (YoY),HIGH,EUR,Release,0.765,Labor Market
-3522c9eb-a75f-44fc-ae5d-5fe2825936db,12/05/2025 10:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR,Release,0.722,Growth
-8b711841-4ed7-4961-bc96-66e11aa4270d,12/05/2025 10:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR,Release,0.722,Growth
-9146a46b-f776-4ecf-b729-43bef1b403c6,12/05/2025 15:10:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
-f6a3ceed-eee7-4794-9e4c-22ade967f91b,12/05/2025 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 bf70b272-3b82-4f91-bd2c-d7df7672495b,12/08/2025 09:30:00,Sentix Investor Confidence,HIGH,EUR,Release,0.595,Confidence
+ac728f10-3e19-4162-a6a8-cc04e23a91b8,12/09/2025 08:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 3ef0d8ef-aec9-44be-a613-d605b9dea94b,12/09/2025 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 4c89a720-7369-4827-ae62-74d9ee37c13c,12/12/2025 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 9a7e41ee-ad4e-4791-866b-2f43c25f7167,12/15/2025 10:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth

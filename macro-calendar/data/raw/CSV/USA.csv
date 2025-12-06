@@ -1,26 +1,9 @@
 Id,Start,Name,Impact,Currency
-58913856-1928-4925-a2a1-fb72f98f7507,12/05/2025 13:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
-3e3efc42-db4a-4f62-a713-9db2cca70189,12/05/2025 13:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
-0bd7f344-8d3e-45c3-978c-66838f8329d1,12/05/2025 13:30:00,Personal Consumption Expenditures - Price Index (MoM),MEDIUM,USD
-818ddee8-7e19-433d-aedf-553c30dcd7ac,12/05/2025 13:30:00,Personal Consumption Expenditures - Price Index (YoY),MEDIUM,USD
-22b85adb-4952-4483-8874-12987a37dc65,12/05/2025 13:30:00,Personal Income (MoM),MEDIUM,USD
-445e7e52-f7c3-4bed-8906-aae8140e8867,12/05/2025 13:30:00,Personal Spending,MEDIUM,USD
-59cd3573-d499-44d9-a82b-0b199294dd41,12/05/2025 15:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
-3a0a5804-01de-42ce-9f6f-fa653ac24943,12/05/2025 15:00:00,Michigan Consumer Sentiment Index,HIGH,USD
-7359635d-3b9e-472f-b403-cf4c91534935,12/05/2025 15:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
-ff359bcd-c378-4f64-8756-690978fd8981,12/05/2025 15:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD
-9aac76a7-b537-40b1-a1e0-9a41eea9c887,12/05/2025 18:00:00,Baker Hughes US Oil Rig Count,LOW,USD
-f50d5da1-1b80-4f9d-a78a-4412947cfe26,12/05/2025 20:00:00,Consumer Credit Change,LOW,USD
-76406c3e-093f-4916-82c1-f83b41b98f9d,12/05/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD
-b3331f3b-3d4e-4a1a-b9fe-441de4fe1505,12/05/2025 20:30:00,CFTC Oil NC Net Positions,LOW,USD
-b646e8b0-f4c2-451c-9851-190b3f9eedf4,12/05/2025 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 ee416a93-80c8-4e03-be45-461094b47dd8,12/08/2025 16:30:00,3-Month Bill Auction,LOW,USD
 9b01e5f4-6b16-4e4e-979b-28b61c2ed694,12/08/2025 16:30:00,6-Month Bill Auction,LOW,USD
 3b2098b8-7548-4f7c-903f-a54e41f204a3,12/08/2025 18:00:00,3-Year Note Auction,LOW,USD
 d15d76db-67a6-46e3-86cf-7adf600a0316,12/09/2025 11:00:00,NFIB Business Optimism Index,LOW,USD
 3d18c393-c17d-49ec-96fa-126a077c5a47,12/09/2025 13:15:00,ADP Employment Change 4-week average,MEDIUM,USD
-fe8fb799-825d-4d85-8af5-6b341b801b4e,12/09/2025 13:30:00,Nonfarm Productivity,MEDIUM,USD
-b2a137aa-292b-451f-9664-05b685769476,12/09/2025 13:30:00,Unit Labor Costs,MEDIUM,USD
 218a950f-74d7-47e0-b57d-3ddefcb279d8,12/09/2025 13:55:00,Redbook Index (YoY),LOW,USD
 9442fcd6-7424-4ccd-b6fb-c8004383cf64,12/09/2025 15:00:00,JOLTS Job Openings,MEDIUM,USD
 8eeb878f-f1fa-40fe-9807-be20f54b651c,12/09/2025 17:00:00,USDA WASDE Report,LOW,USD
@@ -53,6 +36,7 @@ d82d4794-ae25-4dcb-9bc5-634abb9702d0,12/11/2025 15:00:00,Wholesale Inventories,L
 9698623e-7a05-416f-b8d7-9f309ef11a27,12/11/2025 16:30:00,4-Week Bill Auction,LOW,USD
 66190755-2e44-485f-9f7e-b20845a68f9c,12/11/2025 18:00:00,30-Year Bond Auction,LOW,USD
 2d52da72-6505-4b31-bd0c-aac43e4576cf,12/12/2025 13:00:00,Fed's Paulson speech,MEDIUM,USD
+5ac7e5e8-8678-4ddf-baef-bc29dd8e5cd1,12/12/2025 13:30:00,Fed's Hammack speech,MEDIUM,USD
 026a2127-b7fb-403e-8364-3ad27b894c34,12/12/2025 15:30:00,Fed's Goolsbee speech,MEDIUM,USD
 ba8e647e-4830-4f7e-8edc-e2d46d99717d,12/12/2025 18:00:00,Baker Hughes US Oil Rig Count,LOW,USD
 b818bfff-fbaa-4f41-bd52-fd78cff600ba,12/12/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD
@@ -221,6 +205,8 @@ e3c422af-b91d-44f6-8395-f995e7574d49,01/07/2026 20:00:00,Consumer Credit Change,
 987f5102-2142-427d-b420-41630aa45b0f,01/08/2026 13:30:00,Continuing Jobless Claims,LOW,USD
 e942e378-3b7f-4c3f-8b36-1545ca2c3804,01/08/2026 13:30:00,Initial Jobless Claims,MEDIUM,USD
 91a1bb1d-6ebb-4a61-a4ed-324b1be24722,01/08/2026 13:30:00,Initial Jobless Claims 4-week average,LOW,USD
+fe8fb799-825d-4d85-8af5-6b341b801b4e,01/08/2026 13:30:00,Nonfarm Productivity,MEDIUM,USD
+b2a137aa-292b-451f-9664-05b685769476,01/08/2026 13:30:00,Unit Labor Costs,MEDIUM,USD
 dcf8d439-60a2-447a-b897-10ce3c1fe46a,01/08/2026 15:00:00,Wholesale Inventories,LOW,USD
 5740e665-e60a-48b0-bb39-90a552020403,01/08/2026 15:30:00,EIA Natural Gas Storage Change,LOW,USD
 351d23f2-c488-47fe-9ba2-e07855bd5355,01/08/2026 16:30:00,4-Week Bill Auction,LOW,USD
@@ -361,7 +347,6 @@ c4624f12-ef1c-445c-b47c-8ec80c169455,01/29/2026 15:00:00,Pending Home Sales (YoY
 14d97a18-99ee-472e-94a3-0f4e0cd9a1d6,01/29/2026 18:00:00,7-Year Note Auction,LOW,USD
 db9ce46d-4849-4eed-bb9d-c23a1d4e8b43,01/30/2026 13:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
 5473bbcf-234b-470d-bc7e-552c889e0ae5,01/30/2026 13:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
-a5c4ef20-af87-450c-af38-6b75cfec673a,01/30/2026 13:30:00,Employment Cost Index,MEDIUM,USD
 2828434a-27a8-4f77-be24-7e51207f8642,01/30/2026 13:30:00,Personal Consumption Expenditures - Price Index (MoM),MEDIUM,USD
 4564ac48-d948-4d28-9c09-7d8385995cea,01/30/2026 13:30:00,Personal Consumption Expenditures - Price Index (YoY),MEDIUM,USD
 a12c73d9-1ac4-4ac1-9786-76f95234e58c,01/30/2026 13:30:00,Personal Income (MoM),MEDIUM,USD
@@ -400,7 +385,7 @@ efbebcc7-d552-44ba-a661-a6dc9fc83a43,02/05/2026 13:30:00,Goods and Services Trad
 3b4379d0-6fa8-456b-8f0c-09a6a1b8ef46,02/05/2026 13:30:00,Goods Trade Balance,LOW,USD
 faa62dde-e145-4bbf-bfb6-6bc8eaaad486,02/05/2026 13:30:00,Initial Jobless Claims,MEDIUM,USD
 660ef2cd-5283-4bce-a9b3-55c53bb693f3,02/05/2026 13:30:00,Initial Jobless Claims 4-week average,LOW,USD
-69e75725-9bae-42fd-b37e-e09ff062d2b9,02/05/2026 13:30:00,Nonfarm Productivity,MEDIUM,USD
+909c95aa-3de4-487d-a036-16109b7c1071,02/05/2026 13:30:00,Nonfarm Productivity,MEDIUM,USD
 56adee5b-3fc9-49b4-aea1-454c88107f44,02/05/2026 13:30:00,Unit Labor Costs,MEDIUM,USD
 a7a76beb-957e-443c-b28e-b81d35f82b75,02/05/2026 15:30:00,EIA Natural Gas Storage Change,LOW,USD
 5ff781eb-095d-4d41-8f8c-98af19f50ea9,02/05/2026 16:30:00,4-Week Bill Auction,LOW,USD
@@ -420,6 +405,7 @@ ccb33476-36a2-477d-a1f9-5e4d5496e112,02/09/2026 13:30:00,Wholesale Inventories,L
 9f5f858a-5395-4c0f-aa55-ba54f7d1508c,02/09/2026 16:30:00,3-Month Bill Auction,LOW,USD
 7e451162-e799-470a-a2bb-06012de083f2,02/09/2026 16:30:00,6-Month Bill Auction,LOW,USD
 c4a45cdf-7220-4ea8-b55c-4770e2b88442,02/10/2026 11:00:00,NFIB Business Optimism Index,LOW,USD
+a5c4ef20-af87-450c-af38-6b75cfec673a,02/10/2026 13:30:00,Employment Cost Index,MEDIUM,USD
 36cc2df0-b93f-4bfd-b91f-6b443399bd09,02/10/2026 13:55:00,Redbook Index (YoY),LOW,USD
 c9a50dab-9416-4a07-81f1-dfda84094b7b,02/10/2026 18:00:00,3-Year Note Auction,LOW,USD
 e8ee9536-2044-4b95-a854-7969b7b9b7a3,02/10/2026 21:30:00,API Weekly Crude Oil Stock,LOW,USD

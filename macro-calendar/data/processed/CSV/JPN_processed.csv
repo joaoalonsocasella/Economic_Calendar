@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-87bc6d7f-2e50-4e69-8587-9a42bd91f740,12/05/2025 05:00:00,Coincident Index,MEDIUM,JPY,Release,0.11,Trade and External
-a0336a6d-d783-4454-9a06-4cb6677de4e7,12/05/2025 05:00:00,Leading Economic Index,MEDIUM,JPY,Release,0.14,Confidence
-dd1e19e2-6a19-4007-b4a6-8a87e4fe0a3e,12/05/2025 20:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
 9b4d6e26-a187-4d55-b5d6-598e21e05de8,12/07/2025 23:30:00,Labor Cash Earnings (YoY),HIGH,JPY,Release,0.18,Labor Market
 48a8e90b-3411-4f9f-8e6d-6dff5abe9027,12/07/2025 23:50:00,Bank Lending (YoY),HIGH,JPY,Release,0.19,Inflation
 c3e52b4c-3980-4ff3-ab27-fedad64daf01,12/07/2025 23:50:00,Current Account n.s.a.,MEDIUM,JPY,Release,0.11,Trade and External

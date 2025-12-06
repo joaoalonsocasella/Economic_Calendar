@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a90c9aac-8a02-4380-a47a-a7437050860e,12/05/2025 07:45:00,Current Account,HIGH,EUR,Release,0.468,Trade and External
-e8fb2f12-eba5-4193-ab28-13f905f477c7,12/05/2025 07:45:00,"Exports, EUR",HIGH,EUR,Release,0.468,Trade and External
-5c2be1b6-50dd-43a9-9d02-9c5cfa838b95,12/05/2025 07:45:00,"Imports, EUR",HIGH,EUR,Release,0.468,Trade and External
-d5f951e5-494b-46b1-b8f2-6c49e4d1dfda,12/05/2025 07:45:00,Industrial Output (MoM),HIGH,EUR,Release,0.722,Growth
-12ee051e-832d-409b-b757-d5916fa1f546,12/05/2025 07:45:00,Trade Balance EUR,HIGH,EUR,Release,0.468,Trade and External
 5996b92c-1a12-4548-b8eb-cc51b53f86c1,12/12/2025 07:45:00,Consumer Price Index (EU norm) (MoM),HIGH,EUR,Release,0.807,Inflation
 07768ed2-141f-46c0-b6e9-5559f4be84d8,12/12/2025 07:45:00,Consumer Price Index (EU norm) (YoY),HIGH,EUR,Release,0.807,Inflation
 f4052366-f855-4d5a-a56a-2e6eecf255fd,12/12/2025 07:45:00,Inflation ex-tobacco (MoM),HIGH,EUR,Release,0.807,Inflation
