@@ -1,11 +1,9 @@
 Id,Start,Name,Impact,Currency
-ee416a93-80c8-4e03-be45-461094b47dd8,12/08/2025 16:30:00,3-Month Bill Auction,LOW,USD
-9b01e5f4-6b16-4e4e-979b-28b61c2ed694,12/08/2025 16:30:00,6-Month Bill Auction,LOW,USD
-3b2098b8-7548-4f7c-903f-a54e41f204a3,12/08/2025 18:00:00,3-Year Note Auction,LOW,USD
 d15d76db-67a6-46e3-86cf-7adf600a0316,12/09/2025 11:00:00,NFIB Business Optimism Index,LOW,USD
 3d18c393-c17d-49ec-96fa-126a077c5a47,12/09/2025 13:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 218a950f-74d7-47e0-b57d-3ddefcb279d8,12/09/2025 13:55:00,Redbook Index (YoY),LOW,USD
-9442fcd6-7424-4ccd-b6fb-c8004383cf64,12/09/2025 15:00:00,JOLTS Job Openings,MEDIUM,USD
+94e22c33-16db-44e6-be0f-92ce6cfdb2b4,12/09/2025 15:00:00,JOLTS Job Openings,LOW,USD
+9442fcd6-7424-4ccd-b6fb-c8004383cf64,12/09/2025 15:00:05,JOLTS Job Openings,LOW,USD
 8eeb878f-f1fa-40fe-9807-be20f54b651c,12/09/2025 17:00:00,USDA WASDE Report,LOW,USD
 d5d03e9a-1e77-4594-8b51-895403d07b76,12/09/2025 18:00:00,10-Year Note Auction,LOW,USD
 1ee2fae7-fbe9-4a2a-badb-48bd75aab467,12/09/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD
@@ -64,16 +62,15 @@ c1efbb37-36aa-4504-9fd6-e026f6610f47,12/16/2025 13:30:00,Unemployment Rate,MEDIU
 0d485775-df58-41bd-9edf-2afe4abc30e3,12/16/2025 13:55:00,Redbook Index (YoY),LOW,USD
 c7c755bc-040d-4d5f-b23d-ab36d343fe80,12/16/2025 14:15:00,Capacity Utilization,LOW,USD
 22428dea-834d-46a1-83b0-84f3017a4ab0,12/16/2025 14:15:00,Industrial Production (MoM),MEDIUM,USD
+6a2a013f-7780-49a8-94a0-c1ba70d9bdeb,12/16/2025 14:45:00,S&P Global Composite PMI,MEDIUM,USD
+d5e7aaa5-a3bc-4066-8400-4c34a033b14d,12/16/2025 14:45:00,S&P Global Manufacturing PMI,HIGH,USD
+3ae68c26-1571-4359-84b9-79d151ab7ac1,12/16/2025 14:45:00,S&P Global Services PMI,HIGH,USD
 f8a84aa7-f0b8-48ab-a399-74ca7b7128a4,12/16/2025 15:00:00,Business Inventories,LOW,USD
 05b2ad64-7c5c-44b2-88f2-fd7696b9fb2b,12/16/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD
 915cba56-09e0-4979-b5f3-2d3f52e9eb09,12/16/2025 20:30:00,CFTC Oil NC Net Positions,LOW,USD
 cb50b8bc-7232-46b2-b77e-22c1dddd4199,12/16/2025 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 5f80351e-dfe9-47e6-a289-1238fa1016a7,12/16/2025 21:30:00,API Weekly Crude Oil Stock,LOW,USD
 380196ef-5dd6-440f-a5c5-921d430a43af,12/17/2025 12:00:00,MBA Mortgage Applications,LOW,USD
-eca0dd39-c0b5-4b81-b4b3-5db4f40c62ed,12/17/2025 13:30:00,Export Price Index (MoM),LOW,USD
-db333539-b7c7-48a7-b640-2c564134c2db,12/17/2025 13:30:00,Export Price Index (YoY),LOW,USD
-64393a2e-8435-45c8-98fa-99218d144a3b,12/17/2025 13:30:00,Import Price Index (MoM),LOW,USD
-aa644803-fe6b-430c-af17-60f5fdf78a5c,12/17/2025 13:30:00,Import Price Index (YoY),LOW,USD
 8a386aa2-ff61-40ec-bb99-af384ab16275,12/17/2025 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
 8b326978-7e37-4632-969b-afe0ca0a6cc8,12/17/2025 17:30:00,Fed's Bostic speech,MEDIUM,USD
 90c7773c-aec8-4b2e-a4bc-4beca04ce05f,12/17/2025 18:00:00,20-Year Bond Auction,LOW,USD
@@ -94,9 +91,6 @@ d0f8d9b7-54ca-4da9-8bdc-94c684a0bff9,12/18/2025 16:30:00,4-Week Bill Auction,LOW
 405715de-3ae2-44cf-a4e6-734e16893bee,12/18/2025 18:00:00,5-year TIPS Auction,LOW,USD
 8ddf7e30-518d-43d1-8662-5b1197edfce1,12/18/2025 21:00:00,Net Long-Term TIC Flows,LOW,USD
 906d7bae-1518-4e0b-9e77-0accdfecd2d1,12/18/2025 21:00:00,Total Net TIC Flows,LOW,USD
-6a2a013f-7780-49a8-94a0-c1ba70d9bdeb,12/19/2025 14:45:00,S&P Global Composite PMI,MEDIUM,USD
-d5e7aaa5-a3bc-4066-8400-4c34a033b14d,12/19/2025 14:45:00,S&P Global Manufacturing PMI,HIGH,USD
-3ae68c26-1571-4359-84b9-79d151ab7ac1,12/19/2025 14:45:00,S&P Global Services PMI,HIGH,USD
 6a1b0e9c-15a3-432f-80d2-9e932768c4e2,12/19/2025 15:00:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
 8f36d2ef-af63-4c2d-9985-009ec624bab1,12/19/2025 15:00:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
 4a7328b0-47ed-4c60-9fed-f6b3060929bd,12/19/2025 15:00:00,Existing Home Sales (MoM),LOW,USD
@@ -249,6 +243,10 @@ cdaa4f61-217f-4c11-81ef-51420a8629d7,01/15/2026 13:30:00,Consumer Price Index ex
 750f257e-7b7d-473b-9029-0d4f8c5796b2,01/15/2026 13:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
 7a556aad-b33d-45eb-b0da-55e04caee866,01/15/2026 13:30:00,Consumer Price Index n.s.a (MoM),LOW,USD
 2f252577-bf66-44ab-8236-7373167c0980,01/15/2026 13:30:00,Continuing Jobless Claims,LOW,USD
+eca0dd39-c0b5-4b81-b4b3-5db4f40c62ed,01/15/2026 13:30:00,Export Price Index (MoM),LOW,USD
+db333539-b7c7-48a7-b640-2c564134c2db,01/15/2026 13:30:00,Export Price Index (YoY),LOW,USD
+64393a2e-8435-45c8-98fa-99218d144a3b,01/15/2026 13:30:00,Import Price Index (MoM),LOW,USD
+aa644803-fe6b-430c-af17-60f5fdf78a5c,01/15/2026 13:30:00,Import Price Index (YoY),LOW,USD
 74742ca6-ba68-450d-89e9-73cac8d33e32,01/15/2026 13:30:00,Initial Jobless Claims,MEDIUM,USD
 36147986-9871-48c3-a44e-838934aa7d44,01/15/2026 13:30:00,Initial Jobless Claims 4-week average,LOW,USD
 36134c9a-83f9-41b5-a30a-e4eefa51773b,01/15/2026 13:30:00,NY Empire State Manufacturing Index,MEDIUM,USD

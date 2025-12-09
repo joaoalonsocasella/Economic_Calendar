@@ -1,10 +1,10 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 53a0acda-cfc7-4f49-9dba-0275603515d0,12/10/2025 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy
 b22fc61e-e6cf-4ee9-a24f-2d3326bd71aa,12/12/2025 10:30:00,Consumer Price Index (YoY),HIGH,INR,Release,0.19,Inflation
+5a086d55-f7d8-4bd0-8544-013ec2ccec44,12/12/2025 11:00:00,Trade Deficit Government,MEDIUM,INR,Release,0.11,Trade and External
 8c623a6e-da92-4508-aa80-d2f89e25bdd4,12/12/2025 11:30:00,Bank Loan Growth,LOW,INR,Release,0.09,Money and Credit
 02f95c26-1f78-47e1-a3fe-12fba0981f5c,12/12/2025 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
 1da2a606-823b-47da-8ad8-9a52171d38e1,12/15/2025 06:30:00,WPI Inflation,HIGH,INR,Release,0.19,Inflation
-5a086d55-f7d8-4bd0-8544-013ec2ccec44,12/15/2025 11:00:00,Trade Deficit Government,MEDIUM,INR,Release,0.11,Trade and External
 131b4590-0442-44fb-9705-89faf9220071,12/16/2025 05:00:00,HSBC Composite PMI,HIGH,INR,Release,0.17,Growth
 c6ddcf46-0c5e-4c1f-8470-76a947c86735,12/16/2025 05:00:00,HSBC Manufacturing PMI,HIGH,INR,Release,0.17,Growth
 ea487df3-64fe-4533-84e1-1f8332c30eaf,12/16/2025 05:00:00,HSBC Services PMI,HIGH,INR,Release,0.17,Growth
