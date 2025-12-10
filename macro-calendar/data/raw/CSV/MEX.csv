@@ -1,7 +1,4 @@
 Id,Start,Name,Impact,Currency
-de98a475-3940-4009-acbe-74eb45cdcda0,12/09/2025 12:00:00,12-Month Inflation,LOW,MXN
-5514e709-67f4-4c69-91e5-894380531db7,12/09/2025 12:00:00,Core Inflation,LOW,MXN
-90308ebb-9ad6-4cd2-971c-cc407344b92b,12/09/2025 12:00:00,Headline Inflation,MEDIUM,MXN
 c866f5de-9255-4a39-a645-08fdbae40ff5,12/12/2025 12:00:00,Industrial Output (MoM),LOW,MXN
 fbf54a21-f7e7-4081-8eae-564c639dc422,12/12/2025 12:00:00,Industrial Output (YoY),LOW,MXN
 6996e91a-1ab2-4dde-abc3-05d6b5f16972,12/18/2025 12:00:00,Retail Sales (MoM),LOW,MXN
@@ -13,8 +10,8 @@ c8fedbae-e009-4726-9b09-2b326d7a0355,12/22/2025 12:00:00,1st half-month Core Inf
 bc551143-006d-4b9d-b692-8aeef97c9619,12/22/2025 12:00:00,1st half-month Inflation,LOW,MXN
 f47976e1-ee65-4c9e-92ef-bc6a533333fb,12/22/2025 12:00:00,"Trade Balance s/a, $",LOW,MXN
 6c503116-9435-4bc9-92f7-55120e051b86,12/22/2025 12:00:00,"Trade Balance, $",LOW,MXN
-fe1cfda9-3751-4e7c-917c-3ff7256460b4,12/29/2025 12:00:00,Jobless Rate,LOW,MXN
-4277bead-b0ed-4f5d-8b48-a10b3edec9ae,12/29/2025 12:00:00,Jobless Rate s.a,LOW,MXN
+fe1cfda9-3751-4e7c-917c-3ff7256460b4,12/24/2025 12:00:00,Jobless Rate,LOW,MXN
+4277bead-b0ed-4f5d-8b48-a10b3edec9ae,12/24/2025 12:00:00,Jobless Rate s.a,LOW,MXN
 e66b9c22-1ade-49ba-90c4-d399cb72381e,12/30/2025 21:00:00,"Fiscal Balance, pesos",LOW,MXN
 dc66cfaa-e6a4-46e1-8b4c-5ae09db937d0,01/07/2026 12:00:00,Consumer Confidence,LOW,MXN
 d907bdc7-7411-48f8-8306-644e8075eaed,01/07/2026 12:00:00,Consumer Confidence s.a,LOW,MXN

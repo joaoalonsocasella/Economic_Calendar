@@ -24,7 +24,7 @@ b796fab1-c7f7-4c34-a1b3-a94a438948ba,01/22/2026 08:00:00,Foreign Arrivals,MEDIUM
 c2a31bd5-359b-49ea-9175-833540656e84,01/22/2026 11:00:00,CBRT Interest Rate Decision,HIGH,TRY,Release,0.2,Monetary Policy
 d664d154-dbbc-4577-9e6e-8386d2700d19,01/23/2026 07:00:00,Capacity Utilization,HIGH,TRY,Release,0.2,Monetary Policy
 4eebd638-6b28-45d9-bfcf-e79fcecb07c6,01/23/2026 07:00:00,Manufacturing Confidence,MEDIUM,TRY,Release,0.14,Confidence
-e32b20de-1d0c-48bf-bbb9-d073d012aedd,01/29/2026 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
+e32b20de-1d0c-48bf-bbb9-d073d012aedd,01/30/2026 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
 dd5e3658-fec5-4d5c-9b16-a55a0d966593,01/30/2026 07:00:00,Trade Balance,MEDIUM,TRY,Release,0.11,Trade and External
 3d29a760-d6f9-4af4-a0ad-4345b6293304,01/30/2026 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
 f03b4a54-34f4-4d3c-95be-0d4cc11b9082,02/03/2026 07:00:00,Consumer Price Index (MoM),HIGH,TRY,Release,0.19,Inflation
@@ -41,6 +41,7 @@ ff80f76c-be46-4d9f-bc73-fd17554e667f,02/20/2026 08:00:00,Foreign Arrivals,MEDIUM
 871dac8b-4751-4734-83b4-1dbec20b1581,02/23/2026 07:00:00,Consumer Confidence,MEDIUM,TRY,Release,0.14,Confidence
 2f974ed1-29e9-464a-bd1c-639f090b3a4d,02/25/2026 07:00:00,Capacity Utilization,HIGH,TRY,Release,0.2,Monetary Policy
 b33c2c9a-ca69-499a-9280-2663ed89cb33,02/25/2026 07:00:00,Manufacturing Confidence,MEDIUM,TRY,Release,0.14,Confidence
+6c572c60-0a8b-4172-a7ad-40abccc4de6f,02/27/2026 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
 df19b447-f96e-4317-abae-8a3a44484393,02/27/2026 07:00:00,Trade Balance,MEDIUM,TRY,Release,0.11,Trade and External
 880e4c04-2a7d-48d8-8720-3ae8fbe09572,02/27/2026 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
 934ab23c-9828-4c05-bd20-1586b9c6b95b,03/02/2026 07:00:00,Exports,MEDIUM,TRY,Release,0.11,Trade and External
@@ -58,6 +59,7 @@ d1c3126d-e74c-41ee-a040-235c9e1f03a5,03/03/2026 07:00:00,Consumer Price Index (Y
 0fb3694b-afcb-4cc8-bccd-5c416a446715,03/23/2026 07:00:00,Consumer Confidence,MEDIUM,TRY,Release,0.14,Confidence
 227eac6e-3d5a-4b11-ac4a-4ebbd84e3445,03/25/2026 07:00:00,Capacity Utilization,HIGH,TRY,Release,0.2,Monetary Policy
 07a719c4-d724-4752-9451-9439ededfe02,03/25/2026 07:00:00,Manufacturing Confidence,MEDIUM,TRY,Release,0.14,Confidence
+eebaa1ea-5490-4a7f-a0d4-ca9c3c0e8f20,03/30/2026 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
 31a4d236-eb63-4405-a382-50472d4c7046,03/30/2026 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
 0e867966-adb1-4533-8324-6581a66c8714,03/31/2026 07:00:00,Trade Balance,MEDIUM,TRY,Release,0.11,Trade and External
 fcf1a763-20e0-4385-ab23-4e65d6775be6,04/02/2026 07:00:00,Exports,MEDIUM,TRY,Release,0.11,Trade and External
@@ -73,6 +75,7 @@ d8da97b1-1290-4cb5-a9f3-5149dedd7362,04/16/2026 11:00:00,CBRT Interest Rate Deci
 d988f1a3-d4a9-4b1c-8886-351a00dc6553,04/21/2026 07:00:00,Consumer Confidence,MEDIUM,TRY,Release,0.14,Confidence
 13f95ab7-c09c-4ea1-a9e3-41dc75dd1212,04/24/2026 07:00:00,Capacity Utilization,HIGH,TRY,Release,0.2,Monetary Policy
 97e2705b-3319-4834-a57c-42b83cb7b7cc,04/24/2026 07:00:00,Manufacturing Confidence,MEDIUM,TRY,Release,0.14,Confidence
+2bb7c830-3874-49bf-afb9-6b5998614db0,04/30/2026 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
 13573b60-4dec-4278-963f-baedc8f3c3b8,04/30/2026 07:00:00,Trade Balance,MEDIUM,TRY,Release,0.11,Trade and External
 b93c749a-5269-4e24-b13d-4c55eef878f1,04/30/2026 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
 e82fc233-4c37-4944-88e1-3ccad4485114,04/30/2026 08:00:00,Foreign Arrivals,MEDIUM,TRY,Release,0.11,Trade and External
@@ -90,6 +93,7 @@ ed714bc9-6882-4dc2-bcdd-9dc364cbea8c,05/21/2026 11:00:00,CBRT Quarterly Inflatio
 4b466259-90bc-4fa2-8f58-c81746edde88,05/22/2026 08:00:00,Foreign Arrivals,MEDIUM,TRY,Release,0.11,Trade and External
 4dd432b5-4886-44c3-9ec8-aea93e63d5ab,05/25/2026 07:00:00,Capacity Utilization,HIGH,TRY,Release,0.2,Monetary Policy
 8c1ac464-eed4-4d77-bb34-b80c798578bf,05/25/2026 07:00:00,Manufacturing Confidence,MEDIUM,TRY,Release,0.14,Confidence
+7ab6b1a2-6a0b-4c66-808d-140c52cebff1,05/29/2026 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
 34be8299-5656-49ac-b5cb-e5296b411c35,05/29/2026 07:00:00,Quarterly Gross Domestic Product,HIGH,TRY,Release,0.17,Growth
 3d90af31-b168-4bb4-907b-58b08e536e60,05/29/2026 07:00:00,Trade Balance,MEDIUM,TRY,Release,0.11,Trade and External
 d64d05c1-3f5f-44ee-8625-2999d5050813,05/29/2026 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
@@ -107,6 +111,7 @@ b08584a7-5849-4f8b-8bbe-7d8e317deacc,06/12/2026 07:00:00,Current Account Balance
 5a3c7fcd-89a1-46ad-908c-32be554fef2a,06/23/2026 08:00:00,Foreign Arrivals,MEDIUM,TRY,Release,0.11,Trade and External
 192244be-d81c-40f5-a8aa-7db43e44076e,06/24/2026 07:00:00,Capacity Utilization,HIGH,TRY,Release,0.2,Monetary Policy
 e5dc300d-be6f-43a6-8860-8c72e4ed368f,06/24/2026 07:00:00,Manufacturing Confidence,MEDIUM,TRY,Release,0.14,Confidence
+1b27fbca-7361-4234-b408-b3f5dd44c802,06/30/2026 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
 5e61c300-7940-4d56-b597-d604385241b1,06/30/2026 07:00:00,Trade Balance,MEDIUM,TRY,Release,0.11,Trade and External
 246b546d-5c9b-4e23-a1da-5dbebb20ea50,06/30/2026 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
 03b46c6b-ca85-42ce-a924-bc5d14df199d,07/02/2026 07:00:00,Exports,MEDIUM,TRY,Release,0.11,Trade and External
@@ -123,6 +128,7 @@ aaab1820-df77-4251-a98e-f4d0b18c8189,07/23/2026 11:00:00,CBRT Interest Rate Deci
 0d21ead4-136d-4ed4-b816-633e06e37e87,07/24/2026 07:00:00,Capacity Utilization,HIGH,TRY,Release,0.2,Monetary Policy
 7cff240f-ca85-4d80-9aa6-c2229f0643df,07/24/2026 07:00:00,Manufacturing Confidence,MEDIUM,TRY,Release,0.14,Confidence
 c6a47bdf-c5dc-4ff9-8ae5-5b6a5ed4e2cb,07/24/2026 08:00:00,Foreign Arrivals,MEDIUM,TRY,Release,0.11,Trade and External
+484d3417-b6d9-40e9-aa47-e0f651d53def,07/30/2026 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
 2d49048a-7331-44b0-adad-a25563b9f463,07/30/2026 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
 fc5ce0e6-ced5-4a3a-ab05-85e86020da8c,07/31/2026 07:00:00,Trade Balance,MEDIUM,TRY,Release,0.11,Trade and External
 aa2589f2-d202-46e5-96d7-1bdfabab744a,08/04/2026 07:00:00,Exports,MEDIUM,TRY,Release,0.11,Trade and External
@@ -139,6 +145,7 @@ e9f4e155-ae1f-4304-b069-b883c7c8c9ce,08/13/2026 11:00:00,CBRT Quarterly Inflatio
 c8fd7ab6-42c3-4d5e-afe0-6f8c09177251,08/21/2026 08:00:00,Foreign Arrivals,MEDIUM,TRY,Release,0.11,Trade and External
 834d9ea0-ada3-4abe-8411-e8e1a37d48ad,08/24/2026 07:00:00,Capacity Utilization,HIGH,TRY,Release,0.2,Monetary Policy
 03debf86-f6a5-4ebf-9802-7dbcc92cc7ea,08/24/2026 07:00:00,Manufacturing Confidence,MEDIUM,TRY,Release,0.14,Confidence
+5c137c7f-ce0f-4d5b-aa93-ceeb8d53b46f,08/28/2026 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
 b0167f71-2d8b-45d1-8a94-733bacf60fe7,08/31/2026 07:00:00,Quarterly Gross Domestic Product,HIGH,TRY,Release,0.17,Growth
 8c532c8b-8e11-41f6-8fbc-81e124f4cd7e,08/31/2026 07:00:00,Trade Balance,MEDIUM,TRY,Release,0.11,Trade and External
 fd10395c-a61f-4317-b5b2-27454828d963,08/31/2026 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
@@ -156,6 +163,7 @@ f79911eb-15d7-49da-8172-d4a8b120a8b6,09/22/2026 07:00:00,Consumer Confidence,MED
 2569e688-0c06-4e98-9861-ebd8f59ebf72,09/22/2026 08:00:00,Foreign Arrivals,MEDIUM,TRY,Release,0.11,Trade and External
 1992707d-442a-4e83-b5ca-dc3afaa14cdb,09/25/2026 07:00:00,Capacity Utilization,HIGH,TRY,Release,0.2,Monetary Policy
 d52c4457-d872-47ed-87ea-a04fa84019b9,09/25/2026 07:00:00,Manufacturing Confidence,MEDIUM,TRY,Release,0.14,Confidence
+60999bd9-97f3-4892-bb51-1748ecf5d20f,09/30/2026 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
 f20d6f52-bbe0-4c24-8fea-9b6387b0142f,09/30/2026 07:00:00,Trade Balance,MEDIUM,TRY,Release,0.11,Trade and External
 a38b4578-ac45-4b61-a8e2-c7264a29ea4d,09/30/2026 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
 ce4d95ec-fcca-41ca-90bb-a8d7904e0ace,10/02/2026 07:00:00,Exports,MEDIUM,TRY,Release,0.11,Trade and External
@@ -171,6 +179,7 @@ d6c14815-5ea9-42c6-88d2-6f67d32c85f7,10/15/2026 08:00:00,Budget Balance,MEDIUM,T
 5c9cb631-6ece-4323-9ffd-08beabac6d1e,10/22/2026 11:00:00,CBRT Interest Rate Decision,HIGH,TRY,Release,0.2,Monetary Policy
 325e249f-a204-4fbe-8988-8fede780ba85,10/26/2026 07:00:00,Capacity Utilization,HIGH,TRY,Release,0.2,Monetary Policy
 fb882e8f-1430-4f2f-85a2-c211bef29659,10/26/2026 07:00:00,Manufacturing Confidence,MEDIUM,TRY,Release,0.14,Confidence
+3a098eb2-91cd-476b-9435-3be335320180,10/30/2026 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
 0780d959-0fcd-45fb-9f08-9665092973be,10/30/2026 07:00:00,Trade Balance,MEDIUM,TRY,Release,0.11,Trade and External
 e72cd647-bb14-46ea-8884-9e13a663aa3e,10/30/2026 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
 d9f65c0e-6e16-4025-a6fc-c3d9447c06cb,10/30/2026 08:00:00,Foreign Arrivals,MEDIUM,TRY,Release,0.11,Trade and External
@@ -188,6 +197,7 @@ e1dab8e7-3b5e-4717-9042-39c4e4218724,11/12/2026 07:00:00,Current Account Balance
 bb163f42-b647-4184-99de-73ec483d47b3,11/20/2026 08:00:00,Foreign Arrivals,MEDIUM,TRY,Release,0.11,Trade and External
 c7d7c861-af24-46ac-965a-b00042a178da,11/25/2026 07:00:00,Capacity Utilization,HIGH,TRY,Release,0.2,Monetary Policy
 ca0a1e14-785a-470a-8f28-908766e85776,11/25/2026 07:00:00,Manufacturing Confidence,MEDIUM,TRY,Release,0.14,Confidence
+8712259b-284f-47ae-8331-13c4fefdefc6,11/30/2026 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
 ae6e19ef-a111-42d9-9cce-3bb754d3de3c,11/30/2026 07:00:00,Quarterly Gross Domestic Product,HIGH,TRY,Release,0.17,Growth
 eae12420-fd02-48fd-a8f1-6540bf67130e,11/30/2026 07:00:00,Trade Balance,MEDIUM,TRY,Release,0.11,Trade and External
 dcd22221-b55b-4df6-86bd-149ac30e99ec,11/30/2026 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
@@ -205,5 +215,6 @@ bf5af18c-69c0-4e00-b909-715d1ae94f69,12/21/2026 07:00:00,Consumer Confidence,MED
 283a082f-82e3-40f9-9afc-2fa235c95252,12/21/2026 08:00:00,Foreign Arrivals,MEDIUM,TRY,Release,0.11,Trade and External
 6e9eb8f9-7eca-4424-b21a-347430b7f089,12/25/2026 07:00:00,Capacity Utilization,HIGH,TRY,Release,0.2,Monetary Policy
 97dd6feb-fda8-41a6-94e8-3d772b2155a4,12/25/2026 07:00:00,Manufacturing Confidence,MEDIUM,TRY,Release,0.14,Confidence
+33cb9a1c-fb3c-4f3a-97b3-b93f1cfeb8c7,12/30/2026 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
 89b1cc5b-a963-4c40-92f8-8f25945354ac,12/30/2026 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
 d7d23b6b-655a-4666-bf25-ffee236b782b,12/31/2026 07:00:00,Trade Balance,MEDIUM,TRY,Release,0.11,Trade and External

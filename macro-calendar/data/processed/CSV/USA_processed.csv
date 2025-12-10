@@ -1,15 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d15d76db-67a6-46e3-86cf-7adf600a0316,12/09/2025 11:00:00,NFIB Business Optimism Index,MEDIUM,USD,Release,0.14,Confidence
-3d18c393-c17d-49ec-96fa-126a077c5a47,12/09/2025 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
-218a950f-74d7-47e0-b57d-3ddefcb279d8,12/09/2025 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
-94e22c33-16db-44e6-be0f-92ce6cfdb2b4,12/09/2025 15:00:00,JOLTS Job Openings,HIGH,USD,Release,0.18,Labor Market
-9442fcd6-7424-4ccd-b6fb-c8004383cf64,12/09/2025 15:00:05,JOLTS Job Openings,HIGH,USD,Release,0.18,Labor Market
-8eeb878f-f1fa-40fe-9807-be20f54b651c,12/09/2025 17:00:00,USDA WASDE Report,HIGH,USD,Release,0.2,Monetary Policy
-d5d03e9a-1e77-4594-8b51-895403d07b76,12/09/2025 18:00:00,10-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-1ee2fae7-fbe9-4a2a-badb-48bd75aab467,12/09/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-49a33946-698d-4421-86e9-858b3b0a6b15,12/09/2025 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-d1ca368f-73ef-4e46-b3e0-b83f9c5b9a81,12/09/2025 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-5ed9de81-4445-43a5-9ac1-8274c7be558b,12/09/2025 21:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 480b5008-2304-4cae-bf29-f57ca6c6073b,12/10/2025 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 6d643b21-5ec4-49a0-9981-9b418eada310,12/10/2025 13:30:00,Employment Cost Index,HIGH,USD,Release,0.18,Labor Market
 f1147539-360e-47fc-b2da-3fd043875b69,12/10/2025 15:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
@@ -37,9 +26,9 @@ d82d4794-ae25-4dcb-9bc5-634abb9702d0,12/11/2025 15:00:00,Wholesale Inventories,M
 5ac7e5e8-8678-4ddf-baef-bc29dd8e5cd1,12/12/2025 13:30:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 026a2127-b7fb-403e-8364-3ad27b894c34,12/12/2025 15:30:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 ba8e647e-4830-4f7e-8edc-e2d46d99717d,12/12/2025 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
-b818bfff-fbaa-4f41-bd52-fd78cff600ba,12/12/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-1050c13f-eec9-4110-9866-f90fddc59b1a,12/12/2025 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-30551746-222f-4bf9-b581-71af19a3296f,12/12/2025 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+1ee2fae7-fbe9-4a2a-badb-48bd75aab467,12/12/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+49a33946-698d-4421-86e9-858b3b0a6b15,12/12/2025 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
+d1ca368f-73ef-4e46-b3e0-b83f9c5b9a81,12/12/2025 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 6d107a6d-5ac0-4508-8895-48257b9c943d,12/15/2025 13:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
 0786b799-55bf-423d-b7cb-867db7f85f2e,12/15/2025 16:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 474b225d-7281-413b-a15f-a6e4bd97a3f7,12/15/2025 16:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
@@ -122,30 +111,30 @@ c108cf9b-02f5-424f-a00c-ee950d067102,12/23/2025 13:30:00,Gross Domestic Product 
 659ad193-dc1a-487d-9c26-49bde1f98517,12/23/2025 13:30:00,Personal Consumption Expenditures Prices (QoQ),HIGH,USD,Release,0.17,Growth
 484f8282-e7fc-4fef-8435-a2c6118286a6,12/23/2025 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 2be3bd03-7539-4cbd-93c1-76654ba5d2aa,12/23/2025 15:00:00,Consumer Confidence,MEDIUM,USD,Release,0.14,Confidence
+0d5e2f5b-9514-4cb8-9525-e03ad507883c,12/23/2025 15:00:00,New Home Sales (MoM),LOW,USD,Release,0.07,Housing
+e7ea5b55-b19f-464f-a1ec-97b42c2ec7b2,12/23/2025 15:00:00,New Home Sales Change (MoM),LOW,USD,Release,0.07,Housing
 5bab7dfe-d766-44fe-9932-9ca0863c168f,12/23/2025 15:00:00,Richmond Fed Manufacturing Index,HIGH,USD,Release,0.17,Growth
 737c822d-f754-44f9-83eb-59dbcdbf973f,12/23/2025 16:30:00,52-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
+b347105c-16e3-4fbe-8185-8acd1d82f74f,12/23/2025 18:00:00,5-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 b05f589c-d575-46ef-b859-cc24ea91724a,12/23/2025 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
 5fa70f2e-6393-41bf-9561-6de2606d6872,12/23/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 6f33f0c0-4c47-4642-8f69-51327288ceba,12/23/2025 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 16030093-9a07-4473-9d5d-5fa7a7b0c40d,12/23/2025 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 b61909d6-84d4-4748-9380-5743dbcfb8bb,12/23/2025 21:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 1c26d14d-365c-4700-9d9d-378b984fb17b,12/24/2025 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-0d5e2f5b-9514-4cb8-9525-e03ad507883c,12/24/2025 15:00:00,New Home Sales (MoM),LOW,USD,Release,0.07,Housing
-e7ea5b55-b19f-464f-a1ec-97b42c2ec7b2,12/24/2025 15:00:00,New Home Sales Change (MoM),LOW,USD,Release,0.07,Housing
+17934c9c-7381-4fce-a476-a8a558235b77,12/24/2025 13:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
+74da48e3-4439-4206-a0fe-b82b3ce97337,12/24/2025 13:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
+549bbed2-18b6-42bc-896b-4a09e27e7f92,12/24/2025 13:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
 f2ceb070-4b81-488c-85f5-cc4b6b7df22a,12/24/2025 15:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
+1abf778b-f640-455f-9f85-0f502a678ce9,12/24/2025 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
+9aa0d79d-06f2-4c8f-b8fb-32b48a668dad,12/24/2025 18:00:00,7-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 27e4dbfc-d17e-4aa7-a349-d0b183f97f00,12/25/2025 13:30:00,Chicago Fed National Activity Index ,HIGH,USD,Release,0.17,Growth
-17934c9c-7381-4fce-a476-a8a558235b77,12/25/2025 13:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
-74da48e3-4439-4206-a0fe-b82b3ce97337,12/25/2025 13:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
-549bbed2-18b6-42bc-896b-4a09e27e7f92,12/25/2025 13:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
 33cde54a-0689-4de5-82ad-214dbe8b488e,12/25/2025 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
-1abf778b-f640-455f-9f85-0f502a678ce9,12/25/2025 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
-9aa0d79d-06f2-4c8f-b8fb-32b48a668dad,12/25/2025 18:00:00,7-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 f0d722ef-a902-42d7-ba2d-c55d354cfd46,12/29/2025 13:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 ae58fc22-b2de-4801-9885-3c5b947f96fa,12/29/2025 13:30:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
 14986560-44bb-4d20-a863-863e2fd4e7e9,12/29/2025 15:30:00,Dallas Fed Manufacturing Business Index,MEDIUM,USD,Release,0.14,Confidence
 868f764e-6639-415b-9422-ca8740d3c4f3,12/29/2025 16:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 8146ea6f-f685-42f8-bfbd-b7d4e25b427b,12/29/2025 16:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
-b347105c-16e3-4fbe-8185-8acd1d82f74f,12/29/2025 18:00:00,5-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 705fdf51-98ef-4825-9543-2cd9508aedd1,12/30/2025 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 ba19b91e-214b-47be-9ac5-349e080a51d0,12/30/2025 14:00:00,Housing Price Index (MoM),LOW,USD,Release,0.07,Housing
 f2bfbf79-f3c9-4f3b-90f6-2a733b7059db,12/30/2025 14:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD,Release,0.07,Housing
@@ -224,10 +213,6 @@ dfc78f40-115c-47da-b067-8ba4b2f5570d,01/12/2026 16:30:00,3-Month Bill Auction,LO
 e5196e46-74b0-41f2-8a1c-4a4b2a5f5509,01/12/2026 16:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 52c163f0-d5f0-49fc-b6cd-8eebab5a2a68,01/12/2026 19:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
 1318d8a0-3a1e-4e32-b050-ea1a214d6247,01/13/2026 11:00:00,NFIB Business Optimism Index,MEDIUM,USD,Release,0.14,Confidence
-bf91c785-bb72-4d8f-a540-27b324002c6c,01/13/2026 13:30:00,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-e5aabd6b-1b79-42c3-a15d-9f621fcc7bae,01/13/2026 13:30:00,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-da750f6f-30cf-4b0a-9e3d-431f2ab951b8,01/13/2026 13:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
-cc624134-6312-4610-877e-b7fbfae3b9bb,01/13/2026 13:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
 eb02a2b8-a596-4e07-b73c-8807e215717c,01/13/2026 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 7e665324-5e1d-4289-aef7-3b21ab3466cc,01/13/2026 15:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),HIGH,USD,Release,0.19,Inflation
 79bde6e5-9409-4648-8da7-7b11deafe7b8,01/13/2026 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
@@ -251,10 +236,18 @@ aa644803-fe6b-430c-af17-60f5fdf78a5c,01/15/2026 13:30:00,Import Price Index (YoY
 36147986-9871-48c3-a44e-838934aa7d44,01/15/2026 13:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
 36134c9a-83f9-41b5-a30a-e4eefa51773b,01/15/2026 13:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
 b51c6ae7-1b5e-40f0-96b4-fbd499cff95a,01/15/2026 13:30:00,Philadelphia Fed Manufacturing Survey,HIGH,USD,Release,0.17,Growth
+bf91c785-bb72-4d8f-a540-27b324002c6c,01/15/2026 13:30:00,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
+e5aabd6b-1b79-42c3-a15d-9f621fcc7bae,01/15/2026 13:30:00,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
+da750f6f-30cf-4b0a-9e3d-431f2ab951b8,01/15/2026 13:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
+cc624134-6312-4610-877e-b7fbfae3b9bb,01/15/2026 13:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
 6210a9cb-3069-4ff7-a686-4df2beae0e63,01/15/2026 13:30:00,Retail Sales (MoM),HIGH,USD,Release,0.17,Growth
 896cc9a9-9d57-468b-acd5-deb870d889b6,01/15/2026 13:30:00,Retail Sales (YoY),HIGH,USD,Release,0.17,Growth
 3fec0ee2-d829-48ab-ac06-91603347f29e,01/15/2026 13:30:00,Retail Sales Control Group,HIGH,USD,Release,0.17,Growth
 4c4082b9-b3ad-49d8-b021-96c31459928b,01/15/2026 13:30:00,Retail Sales ex Autos (MoM),HIGH,USD,Release,0.17,Growth
+29f120e0-36f5-451f-8725-8c0caa1f8546,01/15/2026 13:30:05,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
+fb0962cc-1903-472f-82e8-b202eb31a784,01/15/2026 13:30:05,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
+05c7435b-7365-4853-852d-b9fc586f48de,01/15/2026 13:30:05,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
+69bea06d-e12e-4ae8-b529-5314f794e60b,01/15/2026 13:30:05,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
 c2e68a36-3d54-46f0-b12d-a6ac24b62d15,01/15/2026 15:00:00,Business Inventories,HIGH,USD,Release,0.17,Growth
 ced9dea9-8e64-44f5-8c58-62268e7da014,01/15/2026 15:00:00,NAHB Housing Market Index,LOW,USD,Release,0.07,Housing
 8d82e8bf-84f7-4772-9779-901fdcfbf8c4,01/15/2026 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market

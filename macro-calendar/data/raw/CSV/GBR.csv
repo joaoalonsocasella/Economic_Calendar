@@ -1,6 +1,4 @@
 Id,Start,Name,Impact,Currency
-3dd6cdc2-b925-49a8-8322-57df5503e05a,12/09/2025 00:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP
-0ae397ae-c8f2-49e4-9860-456699526db9,12/09/2025 20:30:00,CFTC GBP NC Net Positions,LOW,GBP
 35a90771-c387-4ec5-bc58-28d14c65ff1a,12/10/2025 10:30:00,10-y Bond Auction,LOW,GBP
 94a07ccf-4091-416f-8e57-96f6111ae2ff,12/10/2025 10:45:00,BoE's Governor Bailey speech,MEDIUM,GBP
 1f3630fb-4b20-43cf-bddf-a2c7ad9abd3c,12/11/2025 00:01:00,RICS Housing Price Balance,LOW,GBP
@@ -16,7 +14,7 @@ b1b02a5d-7c67-4958-a3ef-f67e4ed48f5e,12/12/2025 07:00:00,Total Trade Balance,LOW
 259df3da-e70e-4469-a8ae-4f12ef76c3c5,12/12/2025 07:00:00,Trade Balance; non-EU,LOW,GBP
 98f1c6fc-b57d-4b3a-8840-3646f93398f5,12/12/2025 09:30:00,Consumer Inflation Expectations,MEDIUM,GBP
 d814ded7-c18b-446a-9534-939f6ae09293,12/12/2025 12:00:00,NIESR GDP Estimate (3M),LOW,GBP
-9c30af81-1426-4827-8544-508f3714b15e,12/12/2025 20:30:00,CFTC GBP NC Net Positions,LOW,GBP
+0ae397ae-c8f2-49e4-9860-456699526db9,12/12/2025 20:30:00,CFTC GBP NC Net Positions,LOW,GBP
 9bae3e99-1a04-471a-96ca-d1c56a5b5717,12/15/2025 00:01:00,Rightmove House Price Index (MoM),LOW,GBP
 f34af524-2f1b-417d-bf69-534d6dcae08e,12/15/2025 00:01:00,Rightmove House Price Index (YoY),LOW,GBP
 c922c515-0453-44ad-a541-efd37ad5ef11,12/16/2025 07:00:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
