@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-4a463c74-c1e1-4b16-9884-3f84f91c186c,12/09/2025 09:00:00,FX Reserves,LOW,CZK,Release,0.09,Money and Credit
-44ef6385-17a8-412c-bc99-3045d6f0ee33,12/10/2025 08:00:00,Consumer Price Index (MoM),HIGH,CZK,Release,0.19,Inflation
-4945363d-756b-4899-9436-c15b387b74ae,12/10/2025 08:00:00,Consumer Price Index (YoY),HIGH,CZK,Release,0.19,Inflation
 8258d8a7-256f-4b35-be5a-c9ee8e886581,12/15/2025 09:00:00,Current Account (MoM),MEDIUM,CZK,Release,0.11,Trade and External
 01a03fba-6372-421e-a355-fac6e29f35fb,12/16/2025 08:00:00,Producer Price Index (MoM),HIGH,CZK,Release,0.19,Inflation
 d7dba87f-a7b0-4e28-a23f-70413f20950c,12/16/2025 08:00:00,Producer Price Index (YoY),HIGH,CZK,Release,0.19,Inflation

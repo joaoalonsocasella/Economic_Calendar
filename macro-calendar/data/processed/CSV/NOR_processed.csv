@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-18c9ea07-3fe5-4c5a-8ac4-26f11bcd060f,12/10/2025 07:00:00,Consumer Price Index (MoM),HIGH,NOK,Release,0.19,Inflation
-8851ae9f-fd05-48d3-b0e8-cc805e651939,12/10/2025 07:00:00,Consumer Price Index (YoY),HIGH,NOK,Release,0.19,Inflation
-e7ccf0be-e6fe-4d9e-a462-05b8bf6ba58f,12/10/2025 07:00:00,Core Inflation (MoM),HIGH,NOK,Release,0.19,Inflation
-26519a3f-d586-4827-8de8-a08a9013c222,12/10/2025 07:00:00,Core Inflation (YoY),HIGH,NOK,Release,0.19,Inflation
-b3cfb1e8-c946-4784-9656-ce4671f17847,12/10/2025 07:00:00,Current Account,MEDIUM,NOK,Release,0.11,Trade and External
 ac7e22f2-50bb-4e99-9e56-fcfcd57c3f56,12/15/2025 07:00:00,Trade Balance,MEDIUM,NOK,Release,0.11,Trade and External
 5c9e78c0-2542-4a79-b458-dd6bf5f6e1e3,12/18/2025 09:00:00,Norges Bank Interest Rate Decision,HIGH,NOK,Release,0.2,Monetary Policy
 5be12225-fda3-4144-9e7c-38fec4fb09eb,12/19/2025 09:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
