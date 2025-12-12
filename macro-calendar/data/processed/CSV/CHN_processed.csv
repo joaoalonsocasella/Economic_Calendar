@@ -1,7 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-ff6aaa58-6901-41d6-ab54-777bd281a7d3,12/11/2025 09:00:00,FDI - Foreign Direct Investment (YTD) (YoY),HIGH,CNY,Release,0.17,Growth
-33db1f88-6afe-4d4a-8e0d-7e13acc2bc54,12/11/2025 10:00:00,M2 Money Supply (YoY),HIGH,CNY,Release,0.19,Inflation
-1efd0387-dd53-4fa0-9fca-ee398f04b39d,12/11/2025 10:00:00,New Loans,LOW,CNY,Release,0.09,Money and Credit
+ff6aaa58-6901-41d6-ab54-777bd281a7d3,12/12/2025 09:00:00,FDI - Foreign Direct Investment (YTD) (YoY),HIGH,CNY,Release,0.17,Growth
+33db1f88-6afe-4d4a-8e0d-7e13acc2bc54,12/12/2025 09:00:00,M2 Money Supply (YoY),HIGH,CNY,Release,0.19,Inflation
+1efd0387-dd53-4fa0-9fca-ee398f04b39d,12/12/2025 09:00:00,New Loans,LOW,CNY,Release,0.09,Money and Credit
 b6f8b4bf-b378-4a0d-a543-2b30725b390b,12/15/2025 01:30:00,House Price Index ,LOW,CNY,Release,0.07,Housing
 1b9326d1-ebab-4598-91fe-9d2551bd9f33,12/15/2025 02:00:00,Fixed Asset Investment (YTD) (YoY),HIGH,CNY,Release,0.17,Growth
 ae518793-0949-4a7f-a2a6-54f53c94dba8,12/15/2025 02:00:00,Industrial Production (YoY),HIGH,CNY,Release,0.17,Growth

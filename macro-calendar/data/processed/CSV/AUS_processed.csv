@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a3dcdc47-e144-4ea8-a2d5-986661c18506,12/11/2025 00:30:00,Employment Change s.a.,HIGH,AUD,Release,0.18,Labor Market
-307adf6f-8a47-4374-ade7-d4dd1e633156,12/11/2025 00:30:00,Full-Time Employment,HIGH,AUD,Release,0.18,Labor Market
-177b63b5-904b-46a1-9953-46f07e102d32,12/11/2025 00:30:00,Participation Rate,HIGH,AUD,Release,0.18,Labor Market
-d1e327bc-fbcf-4f70-ac4f-09e1fcfce2f4,12/11/2025 00:30:00,Part-Time Employment,HIGH,AUD,Release,0.18,Labor Market
-cc37b7fa-9382-4f4d-aec1-1c2b016625b5,12/11/2025 00:30:00,Unemployment Rate s.a.,HIGH,AUD,Release,0.18,Labor Market
 6b56a49c-4a24-4a54-a48a-9856d15dbf74,12/12/2025 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 7ff66c5f-84d8-41a6-84d8-fa0dc35f641a,12/15/2025 22:00:00,S&P Global Composite PMI,HIGH,AUD,Release,0.17,Growth
 43648932-fb14-4828-8fc9-e0fc10b75153,12/15/2025 22:00:00,S&P Global Manufacturing PMI,HIGH,AUD,Release,0.17,Growth

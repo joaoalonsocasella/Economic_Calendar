@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-458a1ee9-ee05-417f-a6cd-deed4ee3e2e1,12/11/2025 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-4c36f6e0-ef47-4986-b6e6-749b3e666608,12/11/2025 11:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-3f09f34b-5d87-4d68-b199-913b702aca20,12/11/2025 11:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
-5ca3d392-fbb1-4d13-b6e7-75a0fe924017,12/11/2025 11:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
 8ded77d4-b2a2-462e-be94-16100c9ec1bf,12/19/2025 00:01:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 6e5d91d6-5f7c-481b-8412-e8736bec46a6,01/02/2026 01:01:00,AIB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 c278975c-1135-42b6-ab4c-80452efa372f,01/05/2026 01:01:00,AIB Services PMI,HIGH,EUR,Release,0.722,Growth

@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e0df9ce2-c555-49d7-987a-1a74c4ccaf9f,12/11/2025 11:00:00,Exports,MEDIUM,ILS,Release,0.11,Trade and External
-e1d6c3ac-9e73-46b6-96c5-7ed90fe31658,12/11/2025 11:00:00,Imports,MEDIUM,ILS,Release,0.11,Trade and External
-ac199281-4569-45bd-a740-ba34623cc227,12/11/2025 11:00:00,Trade Balance,MEDIUM,ILS,Release,0.11,Trade and External
 2fd17a4a-b873-47f7-93c1-b948d4477d55,12/15/2025 16:30:00,Consumer Price Index (MoM),HIGH,ILS,Release,0.19,Inflation
 c4cf773b-9ed3-4f1f-9526-0d892c234c88,12/15/2025 16:30:00,Consumer Price Index (YoY),HIGH,ILS,Release,0.19,Inflation
 b1cfb677-7cbd-4348-ac5d-3a0ceaa3a176,12/16/2025 11:00:00,Gross Domestic Product (QoQ),HIGH,ILS,Release,0.17,Growth

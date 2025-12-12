@@ -1,6 +1,4 @@
 Id,Start,Name,Impact,Currency
-c80f5f6c-1b08-4737-bb36-efdd79818c71,12/11/2025 21:00:00,Export Price Growth (YoY),LOW,KRW
-b3f4fe1a-3651-4267-b891-65422bc2ef36,12/11/2025 21:00:00,Import Price Growth (YoY),LOW,KRW
 020fd301-e3c4-4635-8443-1c7160279649,12/14/2025 23:55:00,Trade Balance,LOW,KRW
 f686fcd1-3aea-4ba8-b509-71152f9a9a94,12/16/2025 03:00:00,Money Supply Growth,LOW,KRW
 4e701063-36d4-4892-a2d6-74f28cf2a533,12/18/2025 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
@@ -16,18 +14,18 @@ d002297b-de7b-466e-b6c9-136545e9619d,12/30/2025 23:00:00,Service Sector Output,L
 8bbc8d83-4ec5-4177-9781-708e94a45419,01/02/2026 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
 0e8e0e7e-ab53-44c8-a55c-e75bbdccc50a,01/04/2026 21:00:00,FX Reserves,LOW,KRW
 66fd0247-f0d3-4f93-96f2-1303c5d0f56c,01/08/2026 23:00:00,Current Account Balance,LOW,KRW
+d91ba905-b247-444c-8134-51f3ae534685,01/13/2026 21:00:00,Export Price Growth (YoY),LOW,KRW
+1a9561cd-12eb-4cce-8193-9173f259494a,01/13/2026 21:00:00,Import Price Growth (YoY),LOW,KRW
 61729731-1938-45d7-8e0b-cee0af35c265,01/13/2026 23:00:00,Unemployment Rate,LOW,KRW
 4acb2aeb-21bd-4299-90ec-17642e07cfb9,01/15/2026 01:00:00,BoK Interest Rate Decision,MEDIUM,KRW
 37a89a6f-fc9d-4947-a031-b4c0cb0fdfbf,01/15/2026 03:00:00,Money Supply Growth,LOW,KRW
-d91ba905-b247-444c-8134-51f3ae534685,01/15/2026 21:00:00,Export Price Growth (YoY),LOW,KRW
-1a9561cd-12eb-4cce-8193-9173f259494a,01/15/2026 21:00:00,Import Price Growth (YoY),LOW,KRW
 7af60a31-9440-408d-8c77-6b478d531f50,01/15/2026 23:55:00,Trade Balance,LOW,KRW
-b305689b-2664-45d8-ba83-28f34a125a2f,01/18/2026 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
+b305689b-2664-45d8-ba83-28f34a125a2f,01/19/2026 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
+e85a2179-ecde-4850-98ce-ebb1e2cc3bd3,01/19/2026 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
 44fa2ce1-7060-4b27-a886-83c922b3a27b,01/19/2026 23:00:00,"Gross Domestic Product Growth (QoQ) ",MEDIUM,KRW
 051483b9-76a8-4881-9845-01f0c24c216f,01/19/2026 23:00:00,Gross Domestic Product Growth (YoY),LOW,KRW
 ba4e3f60-71b9-4d30-9d46-52f88332b68c,01/21/2026 21:00:00,BOK Manufacturing BSI,LOW,KRW
-e85a2179-ecde-4850-98ce-ebb1e2cc3bd3,01/21/2026 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
-47410746-5eec-45a4-9032-d42b88f59735,01/26/2026 21:00:00,Consumer Sentiment Index,LOW,KRW
+47410746-5eec-45a4-9032-d42b88f59735,01/22/2026 21:00:00,Consumer Sentiment Index,LOW,KRW
 747497d4-a396-46b4-8890-2fa134937b6d,01/29/2026 23:00:00,Industrial Output (YoY),LOW,KRW
 9735a002-2063-42aa-a428-9b0a7337b43f,01/29/2026 23:00:00,Industrial Output Growth,LOW,KRW
 2329df3c-ccba-45d3-b419-b73b5acf2de8,01/29/2026 23:00:00,Service Sector Output,LOW,KRW
@@ -37,11 +35,17 @@ e85a2179-ecde-4850-98ce-ebb1e2cc3bd3,01/21/2026 21:00:00,Producer Price Index Gr
 935ff6f9-eddb-4732-84ef-2ca72e2a7b23,02/02/2026 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
 caecab91-37ac-4a48-b6ef-7b04e5e6d6a2,02/03/2026 21:00:00,FX Reserves,LOW,KRW
 b072f550-d170-44ee-a4c6-7904a9296b28,02/05/2026 23:00:00,Current Account Balance,LOW,KRW
+45a774b6-1045-4b98-aa07-af2c6069b2f2,02/10/2026 23:00:00,Unemployment Rate,LOW,KRW
+070c700c-fbed-4055-9f19-7068c266fd8f,02/12/2026 21:00:00,Export Price Growth (YoY),LOW,KRW
+41d9b1b2-1088-44b4-bf59-34b1503a4b03,02/12/2026 21:00:00,Import Price Growth (YoY),LOW,KRW
+0b4486bd-6071-447e-8c33-844b82e2f08f,02/15/2026 23:55:00,Trade Balance,LOW,KRW
 127057a9-59c1-4b88-8bb0-a86af46a74e8,02/16/2026 03:00:00,Money Supply Growth,LOW,KRW
-246b469f-d660-4aaa-9ebb-e17816837a6a,02/19/2026 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
-c0f6e236-3ee5-4f2c-bb42-968d893ea318,02/19/2026 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
+3201ded0-2aaf-4f3c-9b4a-489a2b1552f5,02/23/2026 21:00:00,Consumer Sentiment Index,LOW,KRW
+246b469f-d660-4aaa-9ebb-e17816837a6a,02/23/2026 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
+c0f6e236-3ee5-4f2c-bb42-968d893ea318,02/23/2026 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
 22aecd9e-3e05-4a11-828a-f208805a6813,02/24/2026 01:00:00,BoK Interest Rate Decision,MEDIUM,KRW
-3201ded0-2aaf-4f3c-9b4a-489a2b1552f5,02/25/2026 21:00:00,Consumer Sentiment Index,LOW,KRW
+cfad8172-dd5e-4434-b3b4-921f0a1bc4ea,02/25/2026 21:00:00,BOK Manufacturing BSI,LOW,KRW
+c719ab7f-65db-4454-a164-e29588d5b855,03/01/2026 00:00:00,Trade Balance,LOW,KRW
 c97cf183-70a9-4fb8-bfef-6a876b185349,03/01/2026 23:00:00,Industrial Output (YoY),LOW,KRW
 8c01c1ab-8473-4d71-8703-697a34d374eb,03/01/2026 23:00:00,Industrial Output Growth,LOW,KRW
 8fdd03b5-eccc-4bab-bccd-31ad7eac932c,03/01/2026 23:00:00,Service Sector Output,LOW,KRW
@@ -52,41 +56,59 @@ a6d82db3-d3df-4a07-afb0-f60ae0f5bc55,03/03/2026 23:00:00,Consumer Price Index Gr
 c878c707-3d55-4588-ba3b-5140815f75d4,03/04/2026 23:00:00,"Gross Domestic Product Growth (QoQ) ",MEDIUM,KRW
 f78f4213-e184-4421-97b1-7fd1caf9e47c,03/04/2026 23:00:00,Gross Domestic Product Growth (YoY),LOW,KRW
 0f102802-62ef-45e7-b353-af7efb884e51,03/05/2026 23:00:00,Current Account Balance,LOW,KRW
+8d3ba66f-c171-4ead-9772-b4217441164e,03/10/2026 23:00:00,Unemployment Rate,LOW,KRW
+b6bab947-eaa1-4ed7-b386-3b86ec9e3e7f,03/15/2026 23:55:00,Trade Balance,LOW,KRW
 b8624280-d03d-4084-8af8-bfc95f023b07,03/16/2026 03:00:00,Money Supply Growth,LOW,KRW
-54b683df-1ced-44e7-9f65-9beedbad3d78,03/19/2026 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
-84903527-7fa2-4ab9-b15c-6ae7e9b34a79,03/19/2026 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
-f3d74139-33e6-46d0-9ebe-f323f4b2d1b0,03/25/2026 21:00:00,Consumer Sentiment Index,LOW,KRW
+633e96ff-f7d5-4078-908d-11d5b71d4624,03/16/2026 21:00:00,Export Price Growth (YoY),LOW,KRW
+1891b952-29ed-448e-b498-fe6c20f4f963,03/16/2026 21:00:00,Import Price Growth (YoY),LOW,KRW
+54b683df-1ced-44e7-9f65-9beedbad3d78,03/23/2026 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
+84903527-7fa2-4ab9-b15c-6ae7e9b34a79,03/23/2026 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
+f3d74139-33e6-46d0-9ebe-f323f4b2d1b0,03/24/2026 21:00:00,Consumer Sentiment Index,LOW,KRW
+5237ec03-16b6-4094-b2d3-19d0012365c1,03/25/2026 21:00:00,BOK Manufacturing BSI,LOW,KRW
 6d758d72-1d5a-43f7-8681-c094b173ec32,03/31/2026 23:00:00,Industrial Output (YoY),LOW,KRW
 95a464ab-6b03-48b6-b1b4-6c07dddfcea2,03/31/2026 23:00:00,Industrial Output Growth,LOW,KRW
 f111de49-06eb-4d1d-99ee-1575cf6f9f66,03/31/2026 23:00:00,Service Sector Output,LOW,KRW
+5bb33ceb-4a68-4020-be16-c268219f41fc,04/01/2026 00:00:00,Trade Balance,LOW,KRW
 298ca744-297c-4862-82e8-528249431036,04/01/2026 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
 203a9567-fc1f-46ae-afac-2ebd91fd3b54,04/01/2026 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
 ab4cca92-bdfa-4e28-b0d7-f9a602be8a28,04/01/2026 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
 7b5b4a4d-f605-4159-8a95-caef61b0c602,04/05/2026 21:00:00,FX Reserves,LOW,KRW
-b3bb0ed3-1092-4ebf-a02f-82c65479aff2,04/06/2026 23:00:00,Current Account Balance,LOW,KRW
+b3bb0ed3-1092-4ebf-a02f-82c65479aff2,04/07/2026 23:00:00,Current Account Balance,LOW,KRW
 801fd8c5-90ac-4743-9e50-41959aadfe4b,04/14/2026 03:00:00,Money Supply Growth,LOW,KRW
+a369e5ab-0550-4d4a-8e9f-4de9d0837854,04/14/2026 21:00:00,Export Price Growth (YoY),LOW,KRW
+f1cff1c4-d963-4bb8-8ad0-94e17dbb4a1c,04/14/2026 21:00:00,Import Price Growth (YoY),LOW,KRW
+f4b9c30b-5abe-4afb-be75-c7c15b4a2700,04/14/2026 23:00:00,Unemployment Rate,LOW,KRW
+02f56637-23df-49d2-9f3c-1b9d7e453ce2,04/14/2026 23:55:00,Trade Balance,LOW,KRW
 d1b8023a-7b47-45da-8e3d-6a362a7c9902,04/16/2026 01:00:00,BoK Interest Rate Decision,MEDIUM,KRW
-964aed5f-14f2-43d3-b301-8a4d471dccf4,04/20/2026 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
-06209bbd-5122-4e52-9f5f-d56afc86f980,04/20/2026 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
+964aed5f-14f2-43d3-b301-8a4d471dccf4,04/21/2026 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
+06209bbd-5122-4e52-9f5f-d56afc86f980,04/21/2026 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
+c1524835-8225-4c34-83d3-f2cdf4ff850c,04/22/2026 21:00:00,BOK Manufacturing BSI,LOW,KRW
+88f2266b-4454-4830-9b1d-c2511d432001,04/22/2026 21:00:00,Consumer Sentiment Index,LOW,KRW
 2fb322db-897e-4ce6-b1e5-09a77c8a4c74,04/23/2026 23:00:00,"Gross Domestic Product Growth (QoQ) ",MEDIUM,KRW
 f71cb71a-18de-4c7a-a799-1f7f476f0d7f,04/23/2026 23:00:00,Gross Domestic Product Growth (YoY),LOW,KRW
-88f2266b-4454-4830-9b1d-c2511d432001,04/27/2026 21:00:00,Consumer Sentiment Index,LOW,KRW
 29bfef96-f959-4af5-9690-877ce4b0942a,04/30/2026 23:00:00,Industrial Output (YoY),LOW,KRW
 6a3cd9fd-85a2-4ac1-8cdd-60b57950a373,04/30/2026 23:00:00,Industrial Output Growth,LOW,KRW
 afc72fa0-f393-41cf-a409-635be59c1ad9,04/30/2026 23:00:00,Service Sector Output,LOW,KRW
+18b71cb3-6bfd-4c44-8e5d-e8781912ab3f,05/01/2026 00:00:00,Trade Balance,LOW,KRW
 db7a5a11-d887-4015-bd27-ca57e50a54ec,05/01/2026 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
 333f8cb7-cc72-4505-b459-2df23c924150,05/04/2026 21:00:00,FX Reserves,LOW,KRW
 b143dd6d-37fd-435d-a5e8-e9673c3fbba9,05/05/2026 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
 a70ca3e4-26b0-4db4-9539-c98d1629e9c4,05/05/2026 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
-9d9e3024-9664-4d94-80e7-a7e0f7c275b6,05/06/2026 23:00:00,Current Account Balance,LOW,KRW
+9d9e3024-9664-4d94-80e7-a7e0f7c275b6,05/07/2026 23:00:00,Current Account Balance,LOW,KRW
+347cdaf7-df92-4c0e-9a4a-a7a4e2aade4c,05/12/2026 23:00:00,Unemployment Rate,LOW,KRW
 ae7998ee-266b-46f7-a14e-858e2a8b5596,05/13/2026 03:00:00,Money Supply Growth,LOW,KRW
-dc24277d-6b78-4fa0-ad4f-f78f0c23d2c6,05/21/2026 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
-5b644073-df61-46b7-aa03-13750d0fa633,05/21/2026 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
-3ca17cfb-9857-4b8e-b94a-81e7971eae56,05/25/2026 21:00:00,Consumer Sentiment Index,LOW,KRW
+3eca6d6f-340f-49a8-98b4-59a3b25a2737,05/14/2026 21:00:00,Export Price Growth (YoY),LOW,KRW
+e0ba4e1c-4543-474b-b37d-e84501be16e3,05/14/2026 21:00:00,Import Price Growth (YoY),LOW,KRW
+ad0739ab-11bc-413c-839b-ef2c0002f804,05/17/2026 23:55:00,Trade Balance,LOW,KRW
+8eeaf1e5-94dc-4496-9dc6-bc8722c2ef32,05/20/2026 21:00:00,BOK Manufacturing BSI,LOW,KRW
+dc24277d-6b78-4fa0-ad4f-f78f0c23d2c6,05/20/2026 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
+5b644073-df61-46b7-aa03-13750d0fa633,05/20/2026 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
+3ca17cfb-9857-4b8e-b94a-81e7971eae56,05/21/2026 21:00:00,Consumer Sentiment Index,LOW,KRW
 2968cbdd-46a7-4691-a716-efa73546f89f,05/28/2026 01:00:00,BoK Interest Rate Decision,MEDIUM,KRW
 ee116592-40de-47ed-88fd-4470d9f964d5,05/31/2026 23:00:00,Industrial Output (YoY),LOW,KRW
 343c56cb-adcd-45db-b44c-cae10c500302,05/31/2026 23:00:00,Industrial Output Growth,LOW,KRW
 bfc82181-adb9-4dfc-ab33-ff5522a3930c,05/31/2026 23:00:00,Service Sector Output,LOW,KRW
+4c0dae0f-4c75-43eb-b6dc-67801b15f1c4,06/01/2026 00:00:00,Trade Balance,LOW,KRW
 a8ea9f85-72bb-44cd-8cf2-7252777fd58f,06/01/2026 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
 60278ad1-953d-47c5-b8c1-9641b67db9db,06/02/2026 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
 d9fcc2c2-479a-41eb-9041-cbc070db8104,06/02/2026 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
@@ -94,83 +116,119 @@ d9fcc2c2-479a-41eb-9041-cbc070db8104,06/02/2026 23:00:00,Consumer Price Index Gr
 d3fb9ca0-58ad-4344-b92c-7f4ca5e2a970,06/03/2026 23:00:00,Gross Domestic Product Growth (YoY),LOW,KRW
 df91fc40-b7b5-4020-8888-9a5127bdfb95,06/04/2026 21:00:00,FX Reserves,LOW,KRW
 76aa7e5c-cd06-471c-8874-6d8ccd6d64c6,06/04/2026 23:00:00,Current Account Balance,LOW,KRW
+9371bc03-2739-4a9d-af1f-2898b7aa3d4f,06/09/2026 23:00:00,Unemployment Rate,LOW,KRW
+ffe974c2-a7f7-4b6a-93e8-7b9b1e4d3478,06/14/2026 23:55:00,Trade Balance,LOW,KRW
 1d3cf9f1-0e8a-4c4d-a700-cfb96d964472,06/15/2026 03:00:00,Money Supply Growth,LOW,KRW
+50ce714a-f39e-461a-8c39-013a5ba64f30,06/15/2026 21:00:00,Export Price Growth (YoY),LOW,KRW
+e7329271-b19d-4822-8f85-c769fd20a6f8,06/15/2026 21:00:00,Import Price Growth (YoY),LOW,KRW
+640a63a4-dfca-4db0-8185-d3af77195206,06/18/2026 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
+64ceda33-9448-4fe1-86ae-68cbc5db2aa4,06/18/2026 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
 bc1b7883-5cea-41c0-ac99-938602600cac,06/22/2026 21:00:00,Consumer Sentiment Index,LOW,KRW
-640a63a4-dfca-4db0-8185-d3af77195206,06/22/2026 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
-64ceda33-9448-4fe1-86ae-68cbc5db2aa4,06/22/2026 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
+60bac359-87be-491c-86b6-caa7267c795a,06/24/2026 21:00:00,BOK Manufacturing BSI,LOW,KRW
 e1a8c2d7-950d-4b97-be76-8edb455a861f,06/30/2026 23:00:00,Industrial Output (YoY),LOW,KRW
 4f19a292-00ec-43b2-bb37-170c7645335e,06/30/2026 23:00:00,Industrial Output Growth,LOW,KRW
 0df3d286-9a39-4dc4-b965-2985e6f656e1,06/30/2026 23:00:00,Service Sector Output,LOW,KRW
+16166585-b342-4195-bc54-7e746a1143ab,07/01/2026 00:00:00,Trade Balance,LOW,KRW
 011316fc-18c1-4398-a430-b0b03d7c1274,07/01/2026 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
 f7aa8960-c3d5-4cae-8f76-0369deb2a4a0,07/01/2026 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
 feb81b47-2245-4db1-97f0-026b83303001,07/01/2026 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
 67525f66-bab2-48ef-a44a-540a545b1bbc,07/05/2026 21:00:00,FX Reserves,LOW,KRW
 4cd32b5d-0899-42a2-9084-6e39015b0f75,07/07/2026 23:00:00,Current Account Balance,LOW,KRW
 e85cf959-fbfa-46b6-84f6-877a1eb5b4d5,07/09/2026 01:00:00,BoK Interest Rate Decision,MEDIUM,KRW
+2d204514-d6f5-4866-a190-c5970bc03b62,07/14/2026 21:00:00,Export Price Growth (YoY),LOW,KRW
+781786fb-18bb-4dd4-a1a7-30c7b54eff8f,07/14/2026 21:00:00,Import Price Growth (YoY),LOW,KRW
+41193913-d100-47cc-b321-6e7dfe99f6f4,07/14/2026 23:00:00,Unemployment Rate,LOW,KRW
+bd2271dc-4294-4b84-8f89-d4144596f160,07/14/2026 23:55:00,Trade Balance,LOW,KRW
 029a4c38-314f-4bf6-8221-af06a9f91f07,07/16/2026 03:00:00,Money Supply Growth,LOW,KRW
-d1dc88b7-4c60-403a-96f0-86df3770e002,07/21/2026 21:00:00,Consumer Sentiment Index,LOW,KRW
+8846f304-7d12-4bc0-94b7-a1f322c6d87e,07/21/2026 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
+3fbec831-cc87-4031-adc8-c27a0cac1b44,07/21/2026 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
 57a30ba3-487a-40e3-a6a3-bb6f87dfe444,07/21/2026 23:00:00,"Gross Domestic Product Growth (QoQ) ",MEDIUM,KRW
 6ca177a8-455e-42b4-8b8f-7051c7e894dc,07/21/2026 23:00:00,Gross Domestic Product Growth (YoY),LOW,KRW
-8846f304-7d12-4bc0-94b7-a1f322c6d87e,07/22/2026 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
-3fbec831-cc87-4031-adc8-c27a0cac1b44,07/22/2026 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
+010ef99e-d3bd-4079-8143-be3b1f15d6bd,07/22/2026 21:00:00,BOK Manufacturing BSI,LOW,KRW
+d1dc88b7-4c60-403a-96f0-86df3770e002,07/27/2026 21:00:00,Consumer Sentiment Index,LOW,KRW
 385c2569-5ea5-4a12-96cf-5224c9702e7a,07/30/2026 23:00:00,Industrial Output (YoY),LOW,KRW
 6c16de68-9ffb-4b0f-b3cb-1e6e5a5c5c65,07/30/2026 23:00:00,Industrial Output Growth,LOW,KRW
 7d3110a4-2c79-4d60-9b13-32e1eeaddaf1,07/30/2026 23:00:00,Service Sector Output,LOW,KRW
+f576883b-57e9-46c1-b141-63ca3af30a67,08/01/2026 00:00:00,Trade Balance,LOW,KRW
 6acd483b-b0f4-4bb3-bd4c-77e3a45351b5,08/03/2026 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
 65a794e7-d9cc-4e9a-a976-5ce03f85e69b,08/03/2026 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
 4ec22a26-af05-46cd-9089-3ab6f3240041,08/03/2026 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
 e97b1cba-42bd-475f-8849-04d7e3810149,08/04/2026 21:00:00,FX Reserves,LOW,KRW
 5badd3cb-c8e7-4026-8e48-6b5fe14da312,08/05/2026 23:00:00,Current Account Balance,LOW,KRW
+8714464e-9e06-461b-b7d4-0e1f5c07ec52,08/11/2026 23:00:00,Unemployment Rate,LOW,KRW
+343c35b4-5b1f-4eef-8d4a-90f10dbf10f3,08/13/2026 21:00:00,Export Price Growth (YoY),LOW,KRW
+8080bf08-5660-40d3-8e7c-bc788d0c651b,08/13/2026 21:00:00,Import Price Growth (YoY),LOW,KRW
 97b3bf1e-ff8c-4051-963c-1cc1977528cf,08/14/2026 03:00:00,Money Supply Growth,LOW,KRW
-139779b8-8e28-4ef2-9040-b1e799583320,08/19/2026 21:00:00,Consumer Sentiment Index,LOW,KRW
+a952cc45-784a-4a9a-b282-c2a98a33ef5d,08/16/2026 23:55:00,Trade Balance,LOW,KRW
+2cd21f68-77fd-4bed-b68a-65446e192caf,08/20/2026 21:00:00,BOK Manufacturing BSI,LOW,KRW
 2e3dc0fb-bf0f-4b3b-b804-e8ed381335ce,08/20/2026 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
 cb3aa079-33c6-44d0-adf3-c17ae35979cd,08/20/2026 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
+139779b8-8e28-4ef2-9040-b1e799583320,08/24/2026 21:00:00,Consumer Sentiment Index,LOW,KRW
 d967cd5f-692c-4870-8b59-232517b6bedd,08/27/2026 01:00:00,BoK Interest Rate Decision,MEDIUM,KRW
 59f3b544-6b8a-464e-903b-eec737db8591,08/30/2026 23:00:00,Industrial Output (YoY),LOW,KRW
 f54368ef-6404-456f-928a-5b8d04b068d6,08/30/2026 23:00:00,Industrial Output Growth,LOW,KRW
 2fca713c-1dd3-4540-b3bf-b0e077922342,08/30/2026 23:00:00,Service Sector Output,LOW,KRW
+52b03207-1e9b-414d-9a8b-82108eeabfb3,09/01/2026 00:00:00,Trade Balance,LOW,KRW
 88ac5ae0-e135-41fb-b526-2818e5bacc24,09/01/2026 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
 746f0c24-d7d0-4435-adf4-e7b04f79ab45,09/01/2026 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
 e4928995-e324-4d69-8072-ca7876120f70,09/01/2026 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
 dfc867f0-1628-4f6c-850c-db919ec7f3f7,09/02/2026 23:00:00,"Gross Domestic Product Growth (QoQ) ",MEDIUM,KRW
 44e0d7a5-33d2-4d71-8915-3ec27a85e9ec,09/02/2026 23:00:00,Gross Domestic Product Growth (YoY),LOW,KRW
 46ae8890-28c9-437a-833c-bbd4f8545f33,09/03/2026 21:00:00,FX Reserves,LOW,KRW
-7e4c8800-8558-4da1-aa78-2936904787c2,09/07/2026 23:00:00,Current Account Balance,LOW,KRW
+7e4c8800-8558-4da1-aa78-2936904787c2,09/03/2026 23:00:00,Current Account Balance,LOW,KRW
+d0bdea7f-2807-4743-885b-40d78a586b50,09/14/2026 21:00:00,Export Price Growth (YoY),LOW,KRW
+5aae209f-fcf6-4dcd-b187-6d08bbcacf65,09/14/2026 21:00:00,Import Price Growth (YoY),LOW,KRW
+57871080-3a26-4d4d-b6a0-234cc573ea3e,09/15/2026 23:00:00,Unemployment Rate,LOW,KRW
+9a7d67fa-9ec1-4aee-acbd-ff910a9fbe00,09/15/2026 23:55:00,Trade Balance,LOW,KRW
 0663fe1e-b14c-4fb0-80fe-e2b01100ed63,09/16/2026 03:00:00,Money Supply Growth,LOW,KRW
-33aad36b-09d2-4466-92c0-04b9b7be4b0c,09/21/2026 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
-70c20426-ffc0-42db-9992-c9aa69230493,09/21/2026 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
+33aad36b-09d2-4466-92c0-04b9b7be4b0c,09/17/2026 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
+70c20426-ffc0-42db-9992-c9aa69230493,09/17/2026 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
 47b2f7c3-1f2e-440a-bf22-8b4984227ca4,09/22/2026 21:00:00,Consumer Sentiment Index,LOW,KRW
+7709a000-d069-4075-88dd-e4e4a72eb53c,09/23/2026 21:00:00,BOK Manufacturing BSI,LOW,KRW
 f300d3ca-85e6-4ab6-b723-b41ddd0c33fc,09/30/2026 23:00:00,Industrial Output (YoY),LOW,KRW
 a2b0444a-0c47-4272-b4f8-5907413803c8,09/30/2026 23:00:00,Industrial Output Growth,LOW,KRW
 1ab74f08-009e-40cf-9c9f-d98f125d8595,09/30/2026 23:00:00,Service Sector Output,LOW,KRW
+67c9d0c7-b5c6-4986-b0b2-eec73fffd735,10/01/2026 00:00:00,Trade Balance,LOW,KRW
 c4281935-652f-489a-bdd9-486a65865016,10/01/2026 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
 9a212bcb-a815-40f2-8112-23a3ae8bffd4,10/05/2026 21:00:00,FX Reserves,LOW,KRW
 36e43854-4c23-470a-b8df-3f8ce2330d28,10/05/2026 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
 04428eba-4f70-4285-a048-60f1f2370f8c,10/05/2026 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
-bbecbd8c-23a2-4ff5-a3ad-1d30fc29559f,10/08/2026 23:00:00,Current Account Balance,LOW,KRW
+bbecbd8c-23a2-4ff5-a3ad-1d30fc29559f,10/07/2026 23:00:00,Current Account Balance,LOW,KRW
+3b2714cc-400f-4452-a13b-4868fa2350b7,10/13/2026 23:00:00,Unemployment Rate,LOW,KRW
+5a4508f0-eb0f-4a43-9bae-d234a7446f42,10/14/2026 23:55:00,Trade Balance,LOW,KRW
 05e8afae-52b3-4a31-a50c-c0ed78c1aa94,10/15/2026 03:00:00,Money Supply Growth,LOW,KRW
+96c0196a-3df0-4825-ba14-7b1b69e3f865,10/15/2026 21:00:00,Export Price Growth (YoY),LOW,KRW
+8a9c792c-894c-4dda-88f3-a55d83fc8ffc,10/15/2026 21:00:00,Import Price Growth (YoY),LOW,KRW
+ae91512c-e5cb-4c1a-b741-df27f91df2e0,10/20/2026 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
+ac69bf63-dfef-45b6-b745-e195773415cf,10/20/2026 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
+f92cefcf-33b9-49b2-b5d9-782424f3d48a,10/21/2026 21:00:00,BOK Manufacturing BSI,LOW,KRW
 b969b91f-6d1a-4e8d-a227-8c3755f91ff2,10/22/2026 01:00:00,BoK Interest Rate Decision,MEDIUM,KRW
-df58e661-3a9a-4400-b64d-3ad55ca96be3,10/22/2026 21:00:00,Consumer Sentiment Index,LOW,KRW
-ae91512c-e5cb-4c1a-b741-df27f91df2e0,10/22/2026 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
-ac69bf63-dfef-45b6-b745-e195773415cf,10/22/2026 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
+df58e661-3a9a-4400-b64d-3ad55ca96be3,10/26/2026 21:00:00,Consumer Sentiment Index,LOW,KRW
 a339120e-9c3a-4244-a80a-5f0a1623a906,10/26/2026 23:00:00,"Gross Domestic Product Growth (QoQ) ",MEDIUM,KRW
 bf28026a-0830-474c-9cd9-6b07baf62c24,10/26/2026 23:00:00,Gross Domestic Product Growth (YoY),LOW,KRW
 2c7b91aa-f2ae-4700-9a7e-12176996beb5,10/29/2026 23:00:00,Industrial Output (YoY),LOW,KRW
 c0e0f5f2-20d4-4f82-8a8e-707cae022757,10/29/2026 23:00:00,Industrial Output Growth,LOW,KRW
 31d4bf54-8fe8-472c-912e-f7f7eb3544ad,10/29/2026 23:00:00,Service Sector Output,LOW,KRW
+92f06c0b-0f92-4aa5-8a9a-faf115054d73,11/01/2026 00:00:00,Trade Balance,LOW,KRW
 5b6f26a6-af47-41b9-a835-c7a7abf7d969,11/02/2026 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
 12ad63e0-7365-4511-9063-ec1315b7db11,11/03/2026 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
 17ece3bb-1887-4a06-932d-174724f3d137,11/03/2026 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
 75953f0b-4a64-4ad3-998c-778365ae2c8f,11/04/2026 21:00:00,FX Reserves,LOW,KRW
 8c5ca867-1071-4910-b709-9a283993ca1b,11/04/2026 23:00:00,Current Account Balance,LOW,KRW
+6aace0be-c504-4d4b-afdb-bbffa44fabf3,11/10/2026 23:00:00,Unemployment Rate,LOW,KRW
+966d201e-183a-459a-b387-678556fbfbd9,11/12/2026 21:00:00,Export Price Growth (YoY),LOW,KRW
+c3ba7129-e762-4727-bafc-48c96fff09a7,11/12/2026 21:00:00,Import Price Growth (YoY),LOW,KRW
+2e217763-8301-4e32-997a-1437190a82c9,11/15/2026 23:55:00,Trade Balance,LOW,KRW
 a8f92528-eebc-41ab-804d-39c1b9748696,11/16/2026 03:00:00,Money Supply Growth,LOW,KRW
 15c62517-a177-4d30-841c-d1d8ef438ea2,11/19/2026 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
 01c0ac89-a589-4bca-9afd-a192ea32e68d,11/19/2026 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
 893c8a8c-dc7b-4430-a652-6145958cc52f,11/23/2026 21:00:00,Consumer Sentiment Index,LOW,KRW
+b5cd72f6-4911-4a28-af0e-5d4f14b49efa,11/25/2026 21:00:00,BOK Manufacturing BSI,LOW,KRW
 e69e6575-c56a-426c-96fa-7723153c9a81,11/26/2026 01:00:00,BoK Interest Rate Decision,MEDIUM,KRW
 adee17f9-571f-4556-acc1-aa79fa7a2962,11/29/2026 23:00:00,Industrial Output (YoY),LOW,KRW
 f3a004c2-49bd-4900-aff4-7d26fcf217ba,11/29/2026 23:00:00,Industrial Output Growth,LOW,KRW
 4ac9a118-7102-42df-b1c2-7f66ae9d0a51,11/29/2026 23:00:00,Service Sector Output,LOW,KRW
+da13dcd0-3bb2-42e0-87a5-644a69ccb7f1,12/01/2026 00:00:00,Trade Balance,LOW,KRW
 ff6fe553-f8ca-4843-a7ba-f3bce516c146,12/01/2026 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
 e85a4be4-8b1b-43d9-b07b-e87c01d9245b,12/02/2026 21:00:00,FX Reserves,LOW,KRW
 d3691977-e60b-40b9-923a-aed4b1998874,12/02/2026 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
@@ -178,9 +236,15 @@ aabad44f-5571-4320-a148-a5d2e5432f08,12/02/2026 23:00:00,Consumer Price Index Gr
 bf33e13c-eb58-440b-8cb0-2f0e2b96d10f,12/02/2026 23:00:00,"Gross Domestic Product Growth (QoQ) ",MEDIUM,KRW
 92eff390-d78f-4581-9812-3e6a5aaa13b9,12/02/2026 23:00:00,Gross Domestic Product Growth (YoY),LOW,KRW
 ad8d8680-401a-4f7f-a933-8af297958559,12/07/2026 23:00:00,Current Account Balance,LOW,KRW
+0f9a9f1e-53b1-44b0-808d-6274449695e6,12/14/2026 21:00:00,Export Price Growth (YoY),LOW,KRW
+c8037e37-e581-4de4-910a-cebe1703ce54,12/14/2026 21:00:00,Import Price Growth (YoY),LOW,KRW
 18db6eda-9404-4ae4-b9f1-40d59e2b920a,12/15/2026 03:00:00,Money Supply Growth,LOW,KRW
+fb6e9356-f351-4e2e-81aa-32db0411d085,12/15/2026 23:00:00,Unemployment Rate,LOW,KRW
+74ac9c7e-d354-4ad3-97cd-edf25b053f87,12/15/2026 23:55:00,Trade Balance,LOW,KRW
 f21bb2dd-c767-4129-aa5f-21ae2053b159,12/21/2026 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
 50fce11a-41c7-4002-b0e1-32dc1ce88ec4,12/21/2026 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
+1eaa6755-7a83-4e33-8f25-63d404d4ae2e,12/23/2026 21:00:00,BOK Manufacturing BSI,LOW,KRW
+b53bd8d3-5d87-4f90-9775-2ea0b71fa387,12/23/2026 21:00:00,Consumer Sentiment Index,LOW,KRW
 abd4fca6-cc7b-45e1-ae10-a90d30d265ff,12/30/2026 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
 9e11a2be-5d17-42e1-93f3-2c272c2e6e28,12/30/2026 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
 663a36e3-d4b4-49c6-93cc-9693957d3c5f,12/30/2026 23:00:00,Industrial Output (YoY),LOW,KRW

@@ -1,37 +1,34 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-7adb7b93-2c91-45b8-801c-65a43bc028be,12/11/2025 12:00:00,OPEC Monthly Market Report,MEDIUM,USD,Release,0.11,Trade and External
-a2048c90-7c85-4fa0-950b-665e79161576,12/11/2025 13:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
-db9574f9-7c17-48b7-a9ce-a955543874ea,12/11/2025 13:30:00,Goods and Services Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
-3a30d35c-fac3-4d28-bfa4-f3a64c9f950b,12/11/2025 13:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
-e4276b28-73b3-4d96-a692-e6b4db823f06,12/11/2025 13:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
-fe3ac42e-2474-4351-ab4c-0294ee07814e,12/11/2025 13:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
-d82d4794-ae25-4dcb-9bc5-634abb9702d0,12/11/2025 15:00:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
-37fdfa32-e22a-4099-962f-e6bcf35080d0,12/11/2025 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
-9698623e-7a05-416f-b8d7-9f309ef11a27,12/11/2025 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
-66190755-2e44-485f-9f7e-b20845a68f9c,12/11/2025 18:00:00,30-Year Bond Auction,LOW,USD,Release,0.09,Money and Credit
 2d52da72-6505-4b31-bd0c-aac43e4576cf,12/12/2025 13:00:00,Fed's Paulson speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 5ac7e5e8-8678-4ddf-baef-bc29dd8e5cd1,12/12/2025 13:30:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+85419e06-a7b2-4ca4-8f94-294f15197bf9,12/12/2025 13:30:00,Fed's Schmid speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 026a2127-b7fb-403e-8364-3ad27b894c34,12/12/2025 15:30:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 ba8e647e-4830-4f7e-8edc-e2d46d99717d,12/12/2025 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
 1ee2fae7-fbe9-4a2a-badb-48bd75aab467,12/12/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 49a33946-698d-4421-86e9-858b3b0a6b15,12/12/2025 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 d1ca368f-73ef-4e46-b3e0-b83f9c5b9a81,12/12/2025 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 6d107a6d-5ac0-4508-8895-48257b9c943d,12/15/2025 13:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
+3b0ab800-8785-4149-bcba-6577cd74efc6,12/15/2025 14:30:00,Fed's Miran speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 83a60e57-dfc4-45cf-94cc-8adbda09a046,12/15/2025 15:00:00,NAHB Housing Market Index,LOW,USD,Release,0.07,Housing
+86cde6fe-c654-44d6-8f71-434b8e2e215b,12/15/2025 15:30:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
 0786b799-55bf-423d-b7cb-867db7f85f2e,12/15/2025 16:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 474b225d-7281-413b-a15f-a6e4bd97a3f7,12/15/2025 16:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 d6668271-9384-499d-96ce-39c8a77966ea,12/16/2025 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
-57b34c04-d5e9-4cd1-8061-3fc9f3f04377,12/16/2025 13:30:00,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market
-4bf747eb-8856-4065-b363-148805176229,12/16/2025 13:30:00,Average Hourly Earnings (YoY),HIGH,USD,Release,0.18,Labor Market
-1ca02ac9-746a-4b38-9699-e62d743af6c5,12/16/2025 13:30:00,Average Weekly Hours,HIGH,USD,Release,0.18,Labor Market
+2bd546c9-f79c-47ce-8380-70e0e317bc23,12/16/2025 13:30:00,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market
+005d5f36-ca6f-4411-a7c4-ff2a5c724c77,12/16/2025 13:30:00,Average Hourly Earnings (YoY),HIGH,USD,Release,0.18,Labor Market
+b07bae40-7a02-41e2-85f5-7c1ccf1f5da3,12/16/2025 13:30:00,Average Weekly Hours,HIGH,USD,Release,0.18,Labor Market
 26c31dfe-97af-426b-91a9-081cae52ee2d,12/16/2025 13:30:00,Labor Force Participation Rate,HIGH,USD,Release,0.18,Labor Market
-c7b28bbe-61a9-4fbc-9c6a-4b6a83a74a35,12/16/2025 13:30:00,Nonfarm Payrolls,HIGH,USD,Release,0.18,Labor Market
+009580ae-1874-49c4-97e6-544587ece0d0,12/16/2025 13:30:00,Nonfarm Payrolls,HIGH,USD,Release,0.18,Labor Market
 c09c6f85-fdeb-4629-8603-c2e5589a385e,12/16/2025 13:30:00,Retail Sales (MoM),HIGH,USD,Release,0.17,Growth
 fa22a460-b087-4bdb-b58e-a340d23c6ad5,12/16/2025 13:30:00,Retail Sales (YoY),HIGH,USD,Release,0.17,Growth
 8142c04f-80bd-4935-a307-29acf01c90dc,12/16/2025 13:30:00,Retail Sales Control Group,HIGH,USD,Release,0.17,Growth
 e0160107-1f82-4cb8-9c30-3f5ef5162f38,12/16/2025 13:30:00,Retail Sales ex Autos (MoM),HIGH,USD,Release,0.17,Growth
 fe66cbd0-4c9b-4017-b0e9-3f1b27d93150,12/16/2025 13:30:00,U6 Underemployment Rate,HIGH,USD,Release,0.2,Monetary Policy
 c1efbb37-36aa-4504-9fd6-e026f6610f47,12/16/2025 13:30:00,Unemployment Rate,HIGH,USD,Release,0.18,Labor Market
+57b34c04-d5e9-4cd1-8061-3fc9f3f04377,12/16/2025 13:30:05,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market
+4bf747eb-8856-4065-b363-148805176229,12/16/2025 13:30:05,Average Hourly Earnings (YoY),HIGH,USD,Release,0.18,Labor Market
+1ca02ac9-746a-4b38-9699-e62d743af6c5,12/16/2025 13:30:05,Average Weekly Hours,HIGH,USD,Release,0.18,Labor Market
+c7b28bbe-61a9-4fbc-9c6a-4b6a83a74a35,12/16/2025 13:30:05,Nonfarm Payrolls,HIGH,USD,Release,0.18,Labor Market
 0d485775-df58-41bd-9edf-2afe4abc30e3,12/16/2025 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 6a2a013f-7780-49a8-94a0-c1ba70d9bdeb,12/16/2025 14:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
 d5e7aaa5-a3bc-4066-8400-4c34a033b14d,12/16/2025 14:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
@@ -42,6 +39,8 @@ f8a84aa7-f0b8-48ab-a399-74ca7b7128a4,12/16/2025 15:00:00,Business Inventories,HI
 cb50b8bc-7232-46b2-b77e-22c1dddd4199,12/16/2025 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 5f80351e-dfe9-47e6-a289-1238fa1016a7,12/16/2025 21:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 380196ef-5dd6-440f-a5c5-921d430a43af,12/17/2025 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
+c8cadca4-659c-4aa8-8925-b4398879f951,12/17/2025 13:15:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+8cdcc2cc-e2c5-4572-988d-b264bc1f216c,12/17/2025 14:05:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
 8a386aa2-ff61-40ec-bb99-af384ab16275,12/17/2025 15:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
 8b326978-7e37-4632-969b-afe0ca0a6cc8,12/17/2025 17:30:00,Fed's Bostic speech,HIGH,USD,Release,0.2,Monetary Policy
 90c7773c-aec8-4b2e-a4bc-4beca04ce05f,12/17/2025 18:00:00,20-Year Bond Auction,LOW,USD,Release,0.09,Money and Credit

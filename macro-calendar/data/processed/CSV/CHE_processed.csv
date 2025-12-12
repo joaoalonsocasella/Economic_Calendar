@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e782eeac-7758-4c5c-ba60-02d190595304,12/11/2025 08:30:00,SNB Interest Rate Decision,HIGH,CHF,Release,0.2,Monetary Policy
-9686dea4-e090-466d-a94c-f2b6a2c991ad,12/11/2025 08:30:00,SNB Monetary Policy Assessment,MEDIUM,CHF,Speech,0.13,Monetary Policy
-090c22fe-8412-4621-9876-0794c2b906c6,12/11/2025 09:00:00,SNB Press Conference,MEDIUM,CHF,Speech,0.13,Monetary Policy
 3cc2738e-7a0b-4d74-8840-ae1f880799a8,12/15/2025 07:30:00,Producer and Import Prices (MoM),HIGH,CHF,Release,0.19,Inflation
 3ed7b2de-13fe-4f3a-a003-697303077472,12/15/2025 07:30:00,Producer and Import Prices (YoY),HIGH,CHF,Release,0.19,Inflation
 bf92f8e6-927f-4227-8f31-24a57ee75452,12/15/2025 08:00:00,SECO Economic Forecasts,MEDIUM,CHF,Release,0.14,Confidence
