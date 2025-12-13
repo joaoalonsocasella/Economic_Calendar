@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-7e91bdcc-b40e-4145-af4e-137c41b61590,12/12/2025 04:30:00,Capacity Utilization,HIGH,JPY,Release,0.2,Monetary Policy
-b4392796-5195-4ece-bf67-8ae6af524565,12/12/2025 04:30:00,Industrial Production (MoM),HIGH,JPY,Release,0.17,Growth
-eb80af5f-6145-4d00-8add-695bad3fcf77,12/12/2025 04:30:00,Industrial Production (YoY),HIGH,JPY,Release,0.17,Growth
-d9e7b8e1-88a9-4abf-8f5c-5e24b4228027,12/12/2025 20:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
 f8023b1b-f488-45e1-9491-ead794ff2104,12/14/2025 23:50:00,Tankan Large All Industry Capex,HIGH,JPY,Release,0.17,Growth
 9cc9e8e6-a2c1-470e-8632-278c3acd81fc,12/14/2025 23:50:00,Tankan Large Manufacturing Index,MEDIUM,JPY,Release,0.14,Confidence
 f300ae7a-6630-40c6-9845-8c0b82d44a3c,12/14/2025 23:50:00,Tankan Large Manufacturing Outlook,MEDIUM,JPY,Release,0.14,Confidence

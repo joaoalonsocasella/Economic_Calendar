@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-c866f5de-9255-4a39-a645-08fdbae40ff5,12/12/2025 12:00:00,Industrial Output (MoM),HIGH,MXN,Release,0.17,Growth
-fbf54a21-f7e7-4081-8eae-564c639dc422,12/12/2025 12:00:00,Industrial Output (YoY),HIGH,MXN,Release,0.17,Growth
 6996e91a-1ab2-4dde-abc3-05d6b5f16972,12/18/2025 12:00:00,Retail Sales (MoM),HIGH,MXN,Release,0.17,Growth
 9ba1191e-3ced-4268-8876-9798c555b5e5,12/18/2025 12:00:00,Retail Sales (YoY),HIGH,MXN,Release,0.17,Growth
 f75607e0-e1bd-44a4-921a-e893b90f78ec,12/18/2025 19:00:00,Banxico Interest Rate Decision,HIGH,MXN,Release,0.2,Monetary Policy
@@ -20,8 +18,8 @@ b6c52060-3831-43c8-8c96-d0273359a3d5,01/09/2026 12:00:00,Core Inflation,HIGH,MXN
 1ed06dba-63ca-4e96-8e9e-5a648b59c9c6,01/09/2026 12:00:00,Headline Inflation,HIGH,MXN,Release,0.19,Inflation
 2909f07f-701a-4bcd-a700-1ff69b17a896,01/12/2026 12:00:00,Industrial Output (MoM),HIGH,MXN,Release,0.17,Growth
 d49784c1-fedb-40cf-88a3-8f9a77f10c70,01/12/2026 12:00:00,Industrial Output (YoY),HIGH,MXN,Release,0.17,Growth
-9c3725ed-8098-474c-8900-67b616e3e98f,01/22/2026 12:00:00,Retail Sales (MoM),HIGH,MXN,Release,0.17,Growth
-d86c8fe6-f379-4049-af2d-98fc3ca5cf54,01/22/2026 12:00:00,Retail Sales (YoY),HIGH,MXN,Release,0.17,Growth
+9c3725ed-8098-474c-8900-67b616e3e98f,01/21/2026 12:00:00,Retail Sales (MoM),HIGH,MXN,Release,0.17,Growth
+d86c8fe6-f379-4049-af2d-98fc3ca5cf54,01/21/2026 12:00:00,Retail Sales (YoY),HIGH,MXN,Release,0.17,Growth
 ea8b53e7-c8b5-4350-9e35-571f26d5974c,01/23/2026 12:00:00,1st half-month Core Inflation,HIGH,MXN,Release,0.19,Inflation
 1fdd9397-bed6-4e25-a9fc-1761b86a4b59,01/23/2026 12:00:00,1st half-month Inflation,HIGH,MXN,Release,0.19,Inflation
 6769cfd9-4565-46ae-a957-3a261f5551c3,01/27/2026 12:00:00,"Trade Balance s/a, $",MEDIUM,MXN,Release,0.11,Trade and External
@@ -35,3 +33,9 @@ ecbf1f74-0369-487c-8bff-04e90039025f,02/25/2026 15:00:00,Accumulated Current Acc
 8837160f-5031-4d78-ab05-dfa7ebf35cc9,02/25/2026 15:00:00,"Current Account, $ (QoQ)",MEDIUM,MXN,Release,0.11,Trade and External
 6efae430-1635-416f-b0ee-4ad57f06350b,03/20/2026 12:00:00,Private Spending (QoQ),HIGH,MXN,Release,0.17,Growth
 c6f43be8-bed8-4b01-99c0-9eae2eb7cfd7,03/20/2026 12:00:00,Private Spending (YoY),HIGH,MXN,Release,0.17,Growth
+e44ce1af-9d40-48d1-8721-d84609bb527b,05/25/2026 15:00:00,Accumulated Current Account/GDP,MEDIUM,MXN,Release,0.11,Trade and External
+ca4ada0a-653f-4e02-8b2f-5925f2364047,05/25/2026 15:00:00,"Current Account, $ (QoQ)",MEDIUM,MXN,Release,0.11,Trade and External
+207ea357-ba46-407d-9905-2dc0d918f930,08/25/2026 15:00:00,Accumulated Current Account/GDP,MEDIUM,MXN,Release,0.11,Trade and External
+1a9f7fd8-98e6-44e7-a902-98156579fafa,08/25/2026 15:00:00,"Current Account, $ (QoQ)",MEDIUM,MXN,Release,0.11,Trade and External
+d9a02eb7-a364-41b2-ab62-cf3c2cb1f545,11/25/2026 15:00:00,Accumulated Current Account/GDP,MEDIUM,MXN,Release,0.11,Trade and External
+c2194aac-f879-40ea-9eec-32fb3f5289c1,11/25/2026 15:00:00,"Current Account, $ (QoQ)",MEDIUM,MXN,Release,0.11,Trade and External

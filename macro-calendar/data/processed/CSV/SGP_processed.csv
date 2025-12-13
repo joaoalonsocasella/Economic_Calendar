@@ -12,5 +12,101 @@ e47229a1-de17-4b67-925d-f597de13b1cb,01/14/2026 00:00:00,Gross Domestic Product 
 87e35f98-5439-4ec3-a1b5-092531eae9f4,01/26/2026 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
 af40713e-cc9e-42c0-a74f-2a4e1e6e38d3,01/26/2026 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
 dfc6f10f-d497-4f78-a3e3-0439de2bb956,01/29/2026 01:30:00,Unemployment rate,HIGH,SGD,Release,0.18,Labor Market
-dccd2c63-16c9-40d2-8d5d-db7dcd5a7a4b,02/26/2026 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
-e1eeb499-38d4-46e1-ade1-8d5c46143a30,02/26/2026 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth
+2e8d5f02-da93-4cee-9839-4e0280552dcf,02/02/2026 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
+6d1b227a-3507-436d-9afe-0f529341605d,02/05/2026 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
+94150a44-18c9-467b-8206-a10977dc2dae,02/05/2026 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
+0c59edc1-9a35-4382-adc7-c4d61e4f8732,02/09/2026 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
+21b0c9a5-0835-4853-a1e3-7cc62d7f0355,02/23/2026 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
+dccd2c63-16c9-40d2-8d5d-db7dcd5a7a4b,02/25/2026 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
+e1eeb499-38d4-46e1-ade1-8d5c46143a30,02/25/2026 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth
+133f2487-9697-43a6-ad5e-36f7320cb163,02/26/2026 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
+b32ef07d-15af-4a13-8777-833a523ed613,02/26/2026 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
+c9c88385-cce8-49bb-baf4-35df4f15890e,03/02/2026 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
+cf33a5d1-d2f6-4225-8c24-8b2bf1208bec,03/05/2026 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
+a9d8e75a-d3da-45c8-8c4e-de84904b7277,03/05/2026 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
+87d2fa4b-9f55-4ed0-a1e7-36201d10b7bd,03/09/2026 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
+8067443c-51c4-4af4-8fbd-54438fb74d3e,03/17/2026 01:30:00,Unemployment rate,HIGH,SGD,Release,0.18,Labor Market
+c68eab80-8134-43ff-8655-04d7f942b694,03/23/2026 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
+653558a3-2986-4c77-a2dd-18531854d4f1,03/26/2026 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
+8ace2ad0-40d8-4447-a25f-d5c09d68ecc9,03/26/2026 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
+aeb382b7-bf7b-4fc7-9040-b97a74096ffe,04/02/2026 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
+d4d32e32-5f73-4ff7-8621-bfab1178eac2,04/06/2026 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
+cbbe41cc-6dac-4ece-918c-d20e9a72988d,04/06/2026 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
+7824dcdc-2344-430d-85b7-779855812016,04/07/2026 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
+301c70a0-5550-47c5-82cb-70eb519c139c,04/14/2026 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
+80f72b72-d2bf-4fd9-b735-9e4735d0bd00,04/14/2026 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth
+4f1f26b1-588d-4322-b7db-99eb9afd2e38,04/23/2026 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
+4bc3ed6e-b151-4c80-bc6b-88a58dc49625,04/27/2026 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
+34394a09-5fd1-4534-9ad5-d70a614aabb7,04/27/2026 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
+43ea81b2-8fee-4828-a913-8d37525c7699,04/28/2026 01:30:00,Unemployment rate,HIGH,SGD,Release,0.18,Labor Market
+68c82e2a-bbbb-4045-b348-153b08d0f535,05/02/2026 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
+fe70e084-3fcb-426e-8d17-326179d089da,05/05/2026 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
+a9235713-c98d-4aa9-9b78-4f49c42f4e52,05/05/2026 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
+c9890fdc-7c89-4bb0-9220-7b0f2a9ee7f2,05/07/2026 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
+35cb4a5f-518e-4434-9bc8-bfa3b9597af4,05/25/2026 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
+1c5ce8e8-5bfb-4d8f-be5f-185adb90e1f3,05/26/2026 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
+92186974-78bc-4d66-818a-fa4708b88146,05/26/2026 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth
+2a3bcf4d-9c28-4997-877e-fdd1fbd3c9a5,05/26/2026 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
+b4e5f274-6ec8-42a9-8db5-400eab004eb3,05/26/2026 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
+09395a31-2e46-4fbc-b5a6-311b5b01276d,06/02/2026 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
+f15eb2a9-640e-481f-9489-274620bfbae4,06/05/2026 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
+68b901e4-e6c5-44ee-967c-85bd923e0f29,06/05/2026 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
+6ce9b406-b77a-49c0-94ca-5cdf04bbdf33,06/08/2026 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
+cc509b40-2e1c-4c8c-b513-ab513ef3cca9,06/23/2026 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
+575c1cf6-52de-45d5-8725-1a621ee5192f,06/26/2026 01:30:00,Unemployment rate,HIGH,SGD,Release,0.18,Labor Market
+33064908-2253-4fc3-89a8-6bdc18fa5b2e,06/26/2026 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
+ff43d7da-b3f4-4238-b1f2-eeb411e24213,06/26/2026 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
+8bf56da2-845f-4e79-8041-2083c7902353,07/02/2026 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
+9731686c-4dcc-4063-a43c-828cfc2515ed,07/06/2026 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
+bbf7db29-f8ad-480a-8e75-097a554e6c13,07/06/2026 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
+10adb622-a4fe-4082-a0ed-c0f164a23d6a,07/07/2026 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
+41124ac4-8cde-4284-be24-2cfd1780fa75,07/14/2026 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
+2256cc8e-d42b-471d-a39e-f66152380fe9,07/14/2026 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth
+c6c30ac4-201a-4651-abb9-89b450d4be86,07/23/2026 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
+ebed632c-3550-4714-9d32-ac93a3bb6b8f,07/27/2026 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
+c25dd7f7-7939-4542-aa78-b692b7702208,07/27/2026 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
+e1fcbc66-a218-40eb-abc3-0d20a106d9a3,07/31/2026 01:30:00,Unemployment rate,HIGH,SGD,Release,0.18,Labor Market
+14a8d0e3-de9a-4de7-964e-787c387f42e2,08/03/2026 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
+f0e229c8-cdb0-4c6c-b902-2b6f35864112,08/05/2026 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
+8f6fa75a-9398-4c43-9383-9b0191db4a3c,08/05/2026 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
+2930feca-c744-4c7f-bcf3-e90be85725b8,08/07/2026 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
+6329e051-bcf6-4308-9b27-9b5ef21ac1a2,08/13/2026 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
+6e151cd2-0da4-4923-89de-27a888a9e002,08/13/2026 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth
+259b4604-dce9-49ff-ad3c-3d35fb47239b,08/24/2026 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
+647fccb5-ffb3-4c10-af73-3ae1c79ec95d,08/26/2026 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
+3e462e85-f44e-42a5-9a33-6c982c8e7074,08/26/2026 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
+8c514c22-f066-4648-b9d4-33afffd584ef,09/02/2026 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
+bacec9d9-47d5-42b6-b46d-ba31bcac38fb,09/04/2026 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
+133d8515-442d-44bc-9d72-06ed953252de,09/04/2026 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
+37b4cc62-9284-4c4c-bdec-42709b903e02,09/07/2026 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
+856fd0be-56bc-4b33-ab94-18e47e0abebb,09/17/2026 01:30:00,Unemployment rate,HIGH,SGD,Release,0.18,Labor Market
+92d58ce3-cee8-4f1e-ac42-e3ec55f5bd3f,09/23/2026 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
+e7c3d307-d360-46f1-a5b8-102694093003,09/25/2026 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
+b0fbdfa3-1d09-49ed-93e5-507791d7d579,09/25/2026 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
+5c5ffa2f-6280-4561-81cd-478b7dab6e96,10/02/2026 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
+a59b386c-fad0-487b-915f-dfc66016d5a6,10/05/2026 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
+2cdf380f-1f15-4ff2-ad51-104270ecc74f,10/05/2026 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
+71a4c6e8-3409-4e9f-85cc-25b9bf5fc146,10/07/2026 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
+7b4d4304-5d06-41ac-841a-e74e3ba4fbb0,10/12/2026 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
+64b1e671-3481-432a-9fa2-2d52354f7ae5,10/12/2026 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth
+796eb02d-0490-4b38-a3a3-4b62837abf1c,10/23/2026 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
+e01869fb-c840-41a7-bc00-f668e8d7bb44,10/26/2026 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
+54519716-7eeb-4040-bac6-c6e8d6bb46ce,10/26/2026 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
+3cd0b29c-45e2-49bf-9dfe-aad180f79b40,10/30/2026 01:30:00,Unemployment rate,HIGH,SGD,Release,0.18,Labor Market
+4ae18773-2716-48de-b635-f26842eca525,11/02/2026 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
+adebc3ff-17e1-4d11-ab7e-a1241cce3007,11/05/2026 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
+4cb9debc-5db1-405f-a206-0c7c0b580010,11/05/2026 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
+00d55790-b3e8-482e-9d81-c5a2c0b19ea1,11/09/2026 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
+b308cb8d-7e5e-4d42-bfd5-491de0869cae,11/23/2026 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
+80d96dac-4e73-46b3-8cd7-7648d947b090,11/26/2026 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
+8de8f382-92c3-4d66-b36a-403450cc0004,11/26/2026 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth
+07729677-7b0a-4f7b-aaef-75740905b479,11/26/2026 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
+5a3d9a15-7655-4f14-8e80-5ad3f2aac18c,11/26/2026 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
+69489ca6-0aa5-406e-9391-cbc70891b9c3,12/02/2026 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
+5f01fdea-ea7f-42a0-b18e-8bbc1ca022f3,12/04/2026 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
+8c4372e3-d7e3-4cb5-88fe-4f2d8f801c1f,12/04/2026 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
+ed5af2af-4cce-407f-b53c-3698bfaa3208,12/07/2026 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
+3c93faf4-ff5d-4e1e-a919-5e22592aada0,12/11/2026 01:30:00,Unemployment rate,HIGH,SGD,Release,0.18,Labor Market
+c90f6fff-f80d-4588-aa30-0fb8fafe591a,12/23/2026 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
+b6cae1e1-2632-49a7-ba7c-687018caeefb,12/23/2026 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
+bcb6dc8c-1580-45b0-90a5-333da10b27cd,12/23/2026 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth

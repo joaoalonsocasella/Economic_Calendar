@@ -1,16 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-c072f7e2-1752-49a0-9f6b-0e949776968c,12/12/2025 07:00:00,Goods Trade Balance,MEDIUM,GBP,Release,0.11,Trade and External
-85aaa6f8-68f2-4b42-bda6-3b919e713b05,12/12/2025 07:00:00,Gross Domestic Product (MoM),LOW,GBP,Release,0.07,Housing
-89cf0de0-0099-445f-abb8-6250fab9c6b5,12/12/2025 07:00:00,Index of Services (3M/3M),MEDIUM,GBP,Release,0.14,Confidence
-348c9e2e-dbc5-4991-9401-895e45e5432a,12/12/2025 07:00:00,Industrial Production (MoM),HIGH,GBP,Release,0.17,Growth
-2c963a4d-3b29-479a-8e27-2af4c2e97e19,12/12/2025 07:00:00,Industrial Production (YoY),HIGH,GBP,Release,0.17,Growth
-c63e4a3b-9c99-40cb-b30a-14c2d0b4482b,12/12/2025 07:00:00,Manufacturing Production (MoM),HIGH,GBP,Release,0.17,Growth
-8bd9fd9b-035d-4215-ae16-43722e0ccbea,12/12/2025 07:00:00,Manufacturing Production (YoY),HIGH,GBP,Release,0.17,Growth
-b1b02a5d-7c67-4958-a3ef-f67e4ed48f5e,12/12/2025 07:00:00,Total Trade Balance,MEDIUM,GBP,Release,0.11,Trade and External
-259df3da-e70e-4469-a8ae-4f12ef76c3c5,12/12/2025 07:00:00,Trade Balance; non-EU,MEDIUM,GBP,Release,0.11,Trade and External
-98f1c6fc-b57d-4b3a-8840-3646f93398f5,12/12/2025 09:30:00,Consumer Inflation Expectations,MEDIUM,GBP,Release,0.14,Confidence
-d814ded7-c18b-446a-9534-939f6ae09293,12/12/2025 12:00:00,NIESR GDP Estimate (3M),HIGH,GBP,Release,0.17,Growth
-0ae397ae-c8f2-49e4-9860-456699526db9,12/12/2025 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 9bae3e99-1a04-471a-96ca-d1c56a5b5717,12/15/2025 00:01:00,Rightmove House Price Index (MoM),LOW,GBP,Release,0.07,Housing
 f34af524-2f1b-417d-bf69-534d6dcae08e,12/15/2025 00:01:00,Rightmove House Price Index (YoY),LOW,GBP,Release,0.07,Housing
 c922c515-0453-44ad-a541-efd37ad5ef11,12/16/2025 07:00:00,Average Earnings Excluding Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market

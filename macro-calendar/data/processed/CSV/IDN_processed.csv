@@ -9,7 +9,7 @@ bfc99d1c-fb02-4f81-b1a1-413dbd3a97a3,01/01/2026 04:00:00,Inflation (YoY),HIGH,ID
 2e5db5e0-6717-48df-a296-8e808ad1eedc,01/02/2026 00:30:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 35ea6e45-9c48-4452-83f0-7c3ffc51fb0e,01/07/2026 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
 44f43518-3394-477b-9338-d2d7619f1195,01/09/2026 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
-d9e38f32-79e8-449f-bc8e-8474bd773f9b,01/13/2026 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
+d9e38f32-79e8-449f-bc8e-8474bd773f9b,01/09/2026 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
 f189412f-f7bb-43c4-99a4-823a5e37e200,01/21/2026 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
 35b378b7-82d0-4c1c-a8b3-cc28bd95c7d9,02/02/2026 00:30:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 04c3e834-5062-4159-ac66-10e93be95d25,02/02/2026 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
@@ -23,7 +23,9 @@ b4b8a2f4-bc24-4c29-89cc-61328ea7d8bf,02/02/2026 04:00:00,Inflation (MoM),HIGH,ID
 0bd73325-9aa7-49b0-95cb-6de2ebe18d19,02/02/2026 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
 fcb62018-8009-40c0-8d41-fca0a8775744,02/05/2026 04:00:00,Gross Domestic Product (QoQ),HIGH,IDR,Release,0.17,Growth
 f512ad9a-b7a2-4421-bdce-9c8411bde564,02/05/2026 04:00:00,Gross Domestic Product (YoY),HIGH,IDR,Release,0.17,Growth
+3707982f-9404-43da-bcf5-3a95d7b04b49,02/09/2026 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
 fc776937-e0ee-4fc9-87ec-d64a736c5c5b,02/10/2026 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
+d695750b-4ea8-4fb6-a1c5-c1565cb5d5fe,02/10/2026 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
 21f169ec-5fb3-41cc-8000-d4fba7885fae,02/18/2026 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
 2ca32149-5b89-47c6-a2cb-8f3eff591f49,03/02/2026 00:30:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 2ecf69c8-cfb3-47d6-b4f7-439a00311e93,03/02/2026 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
@@ -32,6 +34,8 @@ fc776937-e0ee-4fc9-87ec-d64a736c5c5b,02/10/2026 03:00:00,Consumer Confidence,MED
 ab6574b2-95b0-40e4-8fa8-3cb5c5c387a3,03/02/2026 04:00:00,Inflation (MoM),HIGH,IDR,Release,0.19,Inflation
 5a3fd1db-a81f-4d33-9270-8dc16e3e0aeb,03/02/2026 04:00:00,Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 83e9dd9a-d70d-43d4-be8f-5872b714c459,03/02/2026 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
+e03cab0c-a63f-46e7-8ca7-a953a73b87ac,03/06/2026 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
+1aa81b5d-0826-4dbe-8c50-5d8888ba6c90,03/09/2026 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
 95b700a4-b005-4187-9b98-590a9979053e,03/10/2026 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
 535a049a-9a58-40c5-b38b-89991f885722,03/18/2026 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
 45d14266-cb0e-40c7-bd86-941fee54081b,04/01/2026 00:30:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
@@ -41,7 +45,9 @@ a25f3ea2-3764-422e-8836-ef4765f587e6,04/01/2026 04:00:00,Core Inflation (YoY),HI
 d17b0060-2e28-43a5-9113-c1abd6f8679b,04/01/2026 04:00:00,Inflation (MoM),HIGH,IDR,Release,0.19,Inflation
 d0eeb2c7-16cb-4f21-8065-9d47a3200d96,04/01/2026 04:00:00,Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 4debf970-0c1e-48cd-9c93-27cd52e74c99,04/01/2026 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
+851cdd13-9d44-4bf3-94b2-00eddbe687a2,04/08/2026 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
 70ffb454-117b-4ddf-847d-7941ede76cbd,04/09/2026 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
+5282701b-2b18-4a34-b00f-542251e7db36,04/10/2026 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
 4478f836-b727-481f-aa9e-e46a10a441b3,04/22/2026 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
 f20e6d0d-a160-4f05-9728-d0592d075043,05/01/2026 00:30:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 50f2c5be-6898-4d92-805a-943d78868cc8,05/01/2026 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
@@ -52,13 +58,17 @@ f20e6d0d-a160-4f05-9728-d0592d075043,05/01/2026 00:30:00,S&P Global Manufacturin
 95c9bf6e-ca7d-43c1-b873-dc3d7e172e6e,05/01/2026 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
 9e8bb408-eb96-4498-97f9-1a8d1325a0a2,05/05/2026 04:00:00,Gross Domestic Product (QoQ),HIGH,IDR,Release,0.17,Growth
 d49bfd1d-27b0-4c6b-8f67-b3f606efb684,05/05/2026 04:00:00,Gross Domestic Product (YoY),HIGH,IDR,Release,0.17,Growth
+abb7790b-f506-4a3c-a0cd-b83d2fba7b79,05/07/2026 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
 b351d568-64c9-4036-95cc-9261d08d48f1,05/12/2026 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
+6a2bb9bd-4cf2-42f1-bd2c-c7fbea0d8688,05/12/2026 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
 3e77adf7-787d-42f8-8101-a6ce523cf1cd,05/20/2026 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
 43dde9ad-e2d4-4bf8-aac8-75615725d515,06/01/2026 00:30:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 39666d6f-7e42-4c43-a583-c9eaf035b881,06/01/2026 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 7bc9fb63-3836-48ff-a5f1-c1d0c33b0d6b,06/01/2026 04:00:00,Inflation (MoM),HIGH,IDR,Release,0.19,Inflation
 7588409e-a7b4-4b5e-ad58-8806fc4829fe,06/01/2026 04:00:00,Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 646da5a9-54f0-4ec1-8596-6a2d223af485,06/09/2026 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
+08d7326f-7ca5-44e6-9d55-287b63fee60f,06/09/2026 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
+75574668-45fc-4c50-987d-d2320abe2a02,06/09/2026 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
 1059a032-4890-4bfb-98cf-a14170d7d54a,06/17/2026 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
 1aa5dd0c-5768-4346-a7ef-526e3766a3ac,07/01/2026 00:30:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 54d634ca-f36d-413c-a05c-79f69a79d55a,07/01/2026 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
@@ -67,7 +77,9 @@ b351d568-64c9-4036-95cc-9261d08d48f1,05/12/2026 03:00:00,Consumer Confidence,MED
 47ef8a95-ef65-4ed7-9cba-b1b0bf9e86d9,07/01/2026 04:00:00,Inflation (MoM),HIGH,IDR,Release,0.19,Inflation
 3c81060e-ef6f-4f46-9b7e-c564c3717a8e,07/01/2026 04:00:00,Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 707cfa81-1666-48fc-96ec-f880351f474e,07/01/2026 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
+cc9f6277-1b9e-4805-ba6f-901829d5b44d,07/08/2026 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
 d09e835a-5b35-466f-b2db-d37594431178,07/09/2026 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
+eb427a6c-f0fb-457f-b27c-883b7c198a9c,07/10/2026 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
 04fc8fc2-ee04-4043-afa3-cb9140f4d5ea,07/15/2026 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
 583a2c50-17b9-4bc2-8817-f7082375992a,08/03/2026 00:30:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 3905a0a1-8389-453d-8735-1ed4e4b08763,08/03/2026 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
@@ -78,7 +90,9 @@ da79fecf-f865-4ee9-97bd-8181750b5327,08/03/2026 04:00:00,Inflation (MoM),HIGH,ID
 107cc01f-b3c1-438e-99d2-f6d11337ea65,08/03/2026 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
 8e18fc61-33aa-4984-b358-b36fe42d5130,08/05/2026 04:00:00,Gross Domestic Product (QoQ),HIGH,IDR,Release,0.17,Growth
 4cfe0e8a-bab0-4a6e-ad94-2d12d8fab052,08/05/2026 04:00:00,Gross Domestic Product (YoY),HIGH,IDR,Release,0.17,Growth
+efec7d2a-53bc-472b-8726-70c425938e3e,08/07/2026 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
 90048407-f679-4f7b-bac0-319841aa1a40,08/11/2026 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
+eee05a1e-b668-4685-aa74-d69b2054f569,08/12/2026 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
 27af6f35-9e9c-443f-801d-5680f2bc5974,08/19/2026 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
 7e68a16b-c933-4529-98d0-d05141d549e8,09/01/2026 00:30:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 fb86b3ef-bf99-4ea7-9e41-94d19c920f86,09/01/2026 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
@@ -87,7 +101,9 @@ fb86b3ef-bf99-4ea7-9e41-94d19c920f86,09/01/2026 04:00:00,Core Inflation (YoY),HI
 4c0f8d2f-7b62-4b76-88a6-5fca69e1d056,09/01/2026 04:00:00,Inflation (MoM),HIGH,IDR,Release,0.19,Inflation
 4fb33887-2958-4ce2-ad77-13bfb0835b42,09/01/2026 04:00:00,Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 49b19032-d56e-47e0-84f1-1a1e31ad9994,09/01/2026 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
+3638ba58-0cf4-4e29-9e8a-9426dd5324e0,09/08/2026 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
 a071b7e4-5518-45dd-96dd-9d52b7ab2f1d,09/10/2026 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
+69d42359-68b8-4b12-9270-4f6855adefd1,09/10/2026 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
 a8e8e04c-56a2-44d4-bc09-28043069c6fb,09/16/2026 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
 30d74d0e-697e-4d17-9673-ee3598b29bd0,10/01/2026 00:30:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 b516c600-ab96-46ef-a3b3-ba7c4210c1d3,10/01/2026 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
@@ -96,6 +112,8 @@ f9af2d39-9667-4bfb-8d4e-a9a220bdcb0c,10/01/2026 04:00:00,Exports,MEDIUM,IDR,Rele
 91a22557-c0f7-45cd-8962-194c0303cc8e,10/01/2026 04:00:00,Inflation (MoM),HIGH,IDR,Release,0.19,Inflation
 64f80698-8005-4f40-b1e0-ff891a754ee0,10/01/2026 04:00:00,Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 c2fbd63a-a62a-42ac-b284-e501ef5fc60a,10/01/2026 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
+76a4e6a4-c3f4-405e-bdc3-8b6dc7278e17,10/07/2026 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
+42f8cb5f-d9ab-4c8d-ad6e-f1198ef3c3bd,10/09/2026 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
 859bc472-78d2-4377-b7a2-f28dc461c413,10/12/2026 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
 73b6e9e8-c31f-403b-8dc9-2ff3b8059ebc,10/21/2026 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
 10e38198-303e-46f8-828b-58bd47bf6848,11/02/2026 00:30:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
@@ -105,9 +123,11 @@ f127bab8-f28b-4dae-bac1-85dff9fd62b6,11/02/2026 04:00:00,Imports,MEDIUM,IDR,Rele
 0950d743-be89-4439-9d2a-63f6be91e154,11/02/2026 04:00:00,Inflation (MoM),HIGH,IDR,Release,0.19,Inflation
 1dd11751-4c3d-4b3b-8183-c282f7029520,11/02/2026 04:00:00,Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 a3302a7e-aa64-4038-9d5b-75776ffee9bb,11/02/2026 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
+ce1218f7-2263-4380-849f-db7ba767c5b2,11/06/2026 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
 cf5ed889-3ad9-4cc7-96fc-2d73a6cdbf79,11/06/2026 04:00:00,Gross Domestic Product (QoQ),HIGH,IDR,Release,0.17,Growth
 ca47c7e9-4a43-4fae-97aa-14a1353b848f,11/06/2026 04:00:00,Gross Domestic Product (YoY),HIGH,IDR,Release,0.17,Growth
 86512341-b5d4-4150-b801-ddb00a8397a2,11/10/2026 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
+9ced0762-639e-4592-817e-42b4590359ef,11/12/2026 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
 39836b86-0ffc-486b-9dfa-d83ae0ffb9e2,11/18/2026 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
 978d4d13-ebcd-45db-ac73-324b2ee4bfb8,12/01/2026 00:30:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 82c7049b-c301-4947-9fe5-35189a0dddf1,12/01/2026 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
@@ -117,4 +137,6 @@ c3f0e6fc-f734-4ccd-ac65-08b35fe0c466,12/01/2026 04:00:00,Inflation (MoM),HIGH,ID
 d065ae5a-e961-4404-b2c7-42f5ee6e4ec6,12/01/2026 04:00:00,Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 4669cb61-f58a-4d82-9784-01c54412fc1d,12/01/2026 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
 3b83018e-e187-4ceb-adb6-f73ac6c19498,12/09/2026 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
+9fd727d4-47d5-4ecd-95ef-3c8281a85c0e,12/09/2026 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
+eadf62db-be26-4e33-80e6-6629514082b8,12/10/2026 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
 69736a30-14c5-44ea-ba51-da03883c5795,12/16/2026 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
