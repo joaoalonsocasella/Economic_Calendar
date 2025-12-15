@@ -1,9 +1,4 @@
 Id,Start,Name,Impact,Currency
-f8023b1b-f488-45e1-9491-ead794ff2104,12/14/2025 23:50:00,Tankan Large All Industry Capex,MEDIUM,JPY
-9cc9e8e6-a2c1-470e-8632-278c3acd81fc,12/14/2025 23:50:00,Tankan Large Manufacturing Index,HIGH,JPY
-f300ae7a-6630-40c6-9845-8c0b82d44a3c,12/14/2025 23:50:00,Tankan Large Manufacturing Outlook,MEDIUM,JPY
-abf3edea-805b-479d-ac1f-fa7fbb4dd5ba,12/14/2025 23:50:00,Tankan Non - Manufacturing Index,LOW,JPY
-ad1b0bee-a5fc-4e21-8f4b-14ac6c106c2a,12/14/2025 23:50:00,Tankan Non - Manufacturing Outlook,LOW,JPY
 870417c3-1cd6-45aa-b5fc-1bb05306d528,12/15/2025 04:30:00,Tertiary Industry Index (MoM),LOW,JPY
 d5408fd8-3a11-4cdf-88ee-95c7f416eb71,12/16/2025 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
 6e76ea68-a5e5-46fe-a86d-52eba005d3f9,12/16/2025 00:30:00,Jibun Bank Services PMI,LOW,JPY
@@ -26,14 +21,14 @@ cc445c8b-da80-4efa-9158-1d83fdedee6c,12/19/2025 20:30:00,CFTC JPY NC Net Positio
 1c37156e-6494-418b-91f5-795a7e00b0aa,12/23/2025 20:30:00,CFTC JPY NC Net Positions,LOW,JPY
 7cab52c2-6040-4d8b-9219-bfd4da2b36fe,12/23/2025 23:50:00,BoJ Monetary Policy Meeting Minutes,MEDIUM,JPY
 6009c763-1ce4-42e0-8c0a-83fff901cb03,12/23/2025 23:50:00,Corporate Service Price Index (YoY),LOW,JPY
-d96218ee-e3ee-4ba6-af03-e1fd0ba4315e,12/24/2025 05:00:00,Annualized Housing Starts,LOW,JPY
 85b2d529-48a6-49d1-ae5e-a822d1d3efe9,12/24/2025 05:00:00,Coincident Index,LOW,JPY
 6fe0528f-d026-4e34-9118-1dff0fc914b0,12/24/2025 05:00:00,Construction Orders (YoY),LOW,JPY
-80a518b0-4406-4e3c-9bcc-b26dcf93a999,12/24/2025 05:00:00,Housing Starts (YoY),LOW,JPY
-d0617d54-d041-421f-bc86-f404a76ab62c,12/24/2025 05:00:00,Leading Economic Index,LOW,JPY
 6764989a-4ac1-4f65-be14-6d024ce338a8,12/24/2025 23:50:00,Foreign Bond Investment,LOW,JPY
 d2d56005-c7ef-444f-b51d-ced5c1c1f703,12/24/2025 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
 22c249f5-066b-45bd-a0a6-ab01ef62e5b6,12/25/2025 03:00:00,BoJ Governor Ueda speech,HIGH,JPY
+d96218ee-e3ee-4ba6-af03-e1fd0ba4315e,12/25/2025 05:00:00,Annualized Housing Starts,LOW,JPY
+80a518b0-4406-4e3c-9bcc-b26dcf93a999,12/25/2025 05:00:00,Housing Starts (YoY),LOW,JPY
+d0617d54-d041-421f-bc86-f404a76ab62c,12/25/2025 05:00:00,Leading Economic Index,LOW,JPY
 c6fb9565-6999-4d9f-855d-79e022c63502,12/25/2025 23:30:00,Jobs / Applicants Ratio,LOW,JPY
 50290ca6-6ecf-47aa-bd63-fd8a512b0951,12/25/2025 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 fac3af20-ed21-4acf-8ec5-5e83e3fe5012,12/25/2025 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
