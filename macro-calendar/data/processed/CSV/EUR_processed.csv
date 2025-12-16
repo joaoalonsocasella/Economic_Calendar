@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-9a7e41ee-ad4e-4791-866b-2f43c25f7167,12/15/2025 10:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
-9f13f93c-43f2-44f7-b272-da4462473bb1,12/15/2025 10:00:00,Industrial Production w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth
-46ad000f-7ef5-4678-918e-d3179e3dbb12,12/15/2025 17:30:00,ECB's Escrivá speech,HIGH,EUR,Speech,0.552,Monetary Policy
 3590c518-1879-47f5-992f-5579d947388f,12/16/2025 09:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 340f152a-5b12-48e0-bb84-a48e644092ed,12/16/2025 09:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 169f4712-c4e7-463b-aead-fcba926a8502,12/16/2025 09:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
@@ -22,13 +19,14 @@ cb12178b-adf6-4edd-9966-a24292ca1db7,12/18/2025 13:15:00,ECB Rate On Deposit Fac
 79e7c666-10d9-43ba-8357-8de27817d321,12/18/2025 13:45:00,ECB Press Conference,HIGH,EUR,Speech,0.552,Monetary Policy
 b12b1dd4-8cd4-47aa-a9f3-4c64ac9a1d6e,12/19/2025 09:00:00,Current Account n.s.a,HIGH,EUR,Release,0.468,Trade and External
 e3279cca-2e47-4001-bdf2-4c2fa2bd9799,12/19/2025 09:00:00,Current Account s.a,HIGH,EUR,Release,0.468,Trade and External
+4edc277b-22b5-4510-99f8-dffd8258dac7,12/19/2025 09:00:00,ECB's Kocher speech,HIGH,EUR,Speech,0.552,Monetary Policy
 1fb6ea06-be83-4c57-ae71-2fd182e2a665,12/19/2025 11:30:00,ECB's Sleijpen speech,HIGH,EUR,Speech,0.552,Monetary Policy
 f37bd11d-7d8e-433e-be45-34995cf69ff0,12/19/2025 12:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
 9c54e528-45b1-47e4-9fff-d279b2ccd7fb,12/19/2025 15:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 3cd69d82-5028-4b53-9482-97bdea0e1e02,12/19/2025 15:10:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
 db5f4db5-b988-4dc9-bf33-47074561b53a,12/19/2025 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 43b0d2da-90d2-4b4b-b5d3-423f668425ba,12/23/2025 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
-0fd2a644-5a86-4f7c-997f-52dcd5bc7669,12/30/2025 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
+0fd2a644-5a86-4f7c-997f-52dcd5bc7669,12/29/2025 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 2eb3a858-9e6b-4669-95ee-496cc6dcd754,01/02/2026 09:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 f244e5f3-d3ce-4b3e-914b-e8fa56ac204f,01/02/2026 09:00:00,M3 Money Supply (3m),HIGH,EUR,Release,0.85,Monetary Policy
 93be017c-a1fb-4ed6-bb7c-57addc131b61,01/02/2026 09:00:00,M3 Money Supply (YoY),HIGH,EUR,Release,0.807,Inflation

@@ -1,9 +1,9 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 ce40d38b-5526-4d24-ada7-1a54fc894869,12/19/2025 11:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+6105055d-f525-4bab-a590-a9ab4234cc43,12/31/2025 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+0ee6d802-589f-478d-beec-0e64d7bcaee7,12/31/2025 11:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 c6819eda-704a-493b-8fe5-7a9498e75256,01/02/2026 09:30:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
 98760493-a943-43e9-95c4-f48d2ac12886,01/02/2026 09:30:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
-6105055d-f525-4bab-a590-a9ab4234cc43,01/09/2026 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-0ee6d802-589f-478d-beec-0e64d7bcaee7,01/09/2026 11:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 d75239d2-013f-4f69-bef8-5d9457c9e168,01/09/2026 11:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
 c5af359a-650f-44d1-8cb8-13ea362b548a,01/20/2026 11:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
 efdb2a85-ceda-4150-99ff-232ecf84146b,01/30/2026 09:30:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence

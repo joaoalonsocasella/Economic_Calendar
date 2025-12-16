@@ -1,12 +1,11 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-8258d8a7-256f-4b35-be5a-c9ee8e886581,12/15/2025 09:00:00,Current Account (MoM),MEDIUM,CZK,Release,0.11,Trade and External
 01a03fba-6372-421e-a355-fac6e29f35fb,12/16/2025 08:00:00,Producer Price Index (MoM),HIGH,CZK,Release,0.19,Inflation
 d7dba87f-a7b0-4e28-a23f-70413f20950c,12/16/2025 08:00:00,Producer Price Index (YoY),HIGH,CZK,Release,0.19,Inflation
 c9685ff5-dbce-4076-8615-6b80376ccc58,12/18/2025 13:30:00,CNB Interest Rate Decision,HIGH,CZK,Release,0.2,Monetary Policy
 04007ecd-348d-4396-b903-ce3e2467ab23,12/22/2025 09:00:00,Foreign Debt,MEDIUM,CZK,Release,0.11,Trade and External
+4021fd62-3487-46b8-8ee7-53049e5a3484,01/01/2026 13:00:00,Budget Balance,MEDIUM,CZK,Release,0.11,Trade and External
 6d7718d3-392e-454f-bdef-fa8aadd1b2bb,01/02/2026 08:00:00,Gross Domestic Product (YoY) 	,HIGH,CZK,Release,0.17,Growth
 5f8f54da-d790-4072-bf6d-024d660525ea,01/02/2026 08:30:00,S&P Global PMI,HIGH,CZK,Release,0.17,Growth
-4021fd62-3487-46b8-8ee7-53049e5a3484,01/02/2026 13:00:00,Budget Balance,MEDIUM,CZK,Release,0.11,Trade and External
 3bfe43b4-9464-41cd-bf07-874d7b11dfed,01/06/2026 08:00:00,Foreign Trade Balance (MoM),MEDIUM,CZK,Release,0.11,Trade and External
 99a5564d-b55c-449d-8d32-4b535d3207d9,01/07/2026 09:00:00,FX Reserves,LOW,CZK,Release,0.09,Money and Credit
 c9083f62-aa40-407f-b46a-b9145c1bb93a,01/08/2026 08:00:00,Construction output (YoY),HIGH,CZK,Release,0.17,Growth

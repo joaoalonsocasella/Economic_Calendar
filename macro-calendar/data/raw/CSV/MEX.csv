@@ -11,31 +11,242 @@ f47976e1-ee65-4c9e-92ef-bc6a533333fb,12/23/2025 12:00:00,"Trade Balance s/a, $",
 fe1cfda9-3751-4e7c-917c-3ff7256460b4,12/24/2025 12:00:00,Jobless Rate,LOW,MXN
 4277bead-b0ed-4f5d-8b48-a10b3edec9ae,12/24/2025 12:00:00,Jobless Rate s.a,LOW,MXN
 e66b9c22-1ade-49ba-90c4-d399cb72381e,12/30/2025 21:00:00,"Fiscal Balance, pesos",LOW,MXN
-dc66cfaa-e6a4-46e1-8b4c-5ae09db937d0,01/07/2026 12:00:00,Consumer Confidence,LOW,MXN
-d907bdc7-7411-48f8-8306-644e8075eaed,01/07/2026 12:00:00,Consumer Confidence s.a,LOW,MXN
-3fcc0ee0-cc99-44e5-ac59-80d3857406b8,01/09/2026 12:00:00,12-Month Inflation,LOW,MXN
-b6c52060-3831-43c8-8c96-d0273359a3d5,01/09/2026 12:00:00,Core Inflation,LOW,MXN
-1ed06dba-63ca-4e96-8e9e-5a648b59c9c6,01/09/2026 12:00:00,Headline Inflation,MEDIUM,MXN
-2909f07f-701a-4bcd-a700-1ff69b17a896,01/12/2026 12:00:00,Industrial Output (MoM),LOW,MXN
-d49784c1-fedb-40cf-88a3-8f9a77f10c70,01/12/2026 12:00:00,Industrial Output (YoY),LOW,MXN
+dc66cfaa-e6a4-46e1-8b4c-5ae09db937d0,01/06/2026 12:00:00,Consumer Confidence,LOW,MXN
+d907bdc7-7411-48f8-8306-644e8075eaed,01/06/2026 12:00:00,Consumer Confidence s.a,LOW,MXN
+3fcc0ee0-cc99-44e5-ac59-80d3857406b8,01/08/2026 12:00:00,12-Month Inflation,LOW,MXN
+b6c52060-3831-43c8-8c96-d0273359a3d5,01/08/2026 12:00:00,Core Inflation,LOW,MXN
+1ed06dba-63ca-4e96-8e9e-5a648b59c9c6,01/08/2026 12:00:00,Headline Inflation,MEDIUM,MXN
+2909f07f-701a-4bcd-a700-1ff69b17a896,01/09/2026 12:00:00,Industrial Output (MoM),LOW,MXN
+d49784c1-fedb-40cf-88a3-8f9a77f10c70,01/09/2026 12:00:00,Industrial Output (YoY),LOW,MXN
 9c3725ed-8098-474c-8900-67b616e3e98f,01/21/2026 12:00:00,Retail Sales (MoM),LOW,MXN
 d86c8fe6-f379-4049-af2d-98fc3ca5cf54,01/21/2026 12:00:00,Retail Sales (YoY),LOW,MXN
-ea8b53e7-c8b5-4350-9e35-571f26d5974c,01/23/2026 12:00:00,1st half-month Core Inflation,LOW,MXN
-1fdd9397-bed6-4e25-a9fc-1761b86a4b59,01/23/2026 12:00:00,1st half-month Inflation,LOW,MXN
+ea8b53e7-c8b5-4350-9e35-571f26d5974c,01/22/2026 12:00:00,1st half-month Core Inflation,LOW,MXN
+1fdd9397-bed6-4e25-a9fc-1761b86a4b59,01/22/2026 12:00:00,1st half-month Inflation,LOW,MXN
+5c04952b-3002-4ed9-92eb-dec03c956e98,01/26/2026 12:00:00,Jobless Rate,LOW,MXN
+23b621f7-82a5-462b-b61d-0b3df90a06d1,01/26/2026 12:00:00,Jobless Rate s.a,LOW,MXN
 6769cfd9-4565-46ae-a957-3a261f5551c3,01/27/2026 12:00:00,"Trade Balance s/a, $",LOW,MXN
 9eca6364-37dc-48ff-ab1f-98feb970e96d,01/27/2026 12:00:00,"Trade Balance, $",LOW,MXN
-5c04952b-3002-4ed9-92eb-dec03c956e98,01/29/2026 12:00:00,Jobless Rate,LOW,MXN
-23b621f7-82a5-462b-b61d-0b3df90a06d1,01/29/2026 12:00:00,Jobless Rate s.a,LOW,MXN
 d8598585-b23e-409b-b6fc-198007760808,01/30/2026 12:00:00,Gross Domestic Product (QoQ),LOW,MXN
 86fbac05-7984-4aa6-a200-c40ad834bfab,01/30/2026 12:00:00,Gross Domestic Product (YoY),LOW,MXN
 985a01c9-66d1-448d-b49d-aaaea19dc9bb,01/30/2026 21:00:00,"Fiscal Balance, pesos",LOW,MXN
+c913864b-8945-4dbc-8308-2be39ec13099,02/05/2026 19:00:00,Banxico Interest Rate Decision,MEDIUM,MXN
+7c262261-4fcd-40c6-a9ac-61e4493bfaef,02/06/2026 12:00:00,Consumer Confidence,LOW,MXN
+3203672b-c127-41a3-8bdd-aa209fde4049,02/06/2026 12:00:00,Consumer Confidence s.a,LOW,MXN
+fc292ed9-21d9-4123-8147-aeb70465365e,02/09/2026 12:00:00,12-Month Inflation,LOW,MXN
+a5820d9d-d81b-4526-b197-4445210d94ee,02/09/2026 12:00:00,Core Inflation,LOW,MXN
+3d9e3d54-83a3-4974-925e-f9ff55ad1c37,02/09/2026 12:00:00,Headline Inflation,MEDIUM,MXN
+c63ea489-ed0e-43e8-b4ad-cd848db4d7ff,02/11/2026 12:00:00,Industrial Output (MoM),LOW,MXN
+b8b45602-bb41-463a-a280-8bdf6d9b8f32,02/11/2026 12:00:00,Industrial Output (YoY),LOW,MXN
+82bb2649-b97a-49ab-bb13-72015d89585b,02/19/2026 15:00:00,Banxico Monetary Policy Meeting Minutes,MEDIUM,MXN
+700833d2-ba73-4790-922c-083307e92df7,02/20/2026 12:00:00,Retail Sales (MoM),LOW,MXN
+05da8a57-5eeb-4e89-adc8-c59f5d065ae8,02/20/2026 12:00:00,Retail Sales (YoY),LOW,MXN
+5df4579c-4e3b-4d55-9eed-133274301b28,02/23/2026 12:00:00,Gross Domestic Product (QoQ),LOW,MXN
+f1e4f051-5e05-42f1-90a1-de16aa102269,02/23/2026 12:00:00,Gross Domestic Product (YoY),LOW,MXN
+ecd0cf85-eb59-47fa-b813-9c92be7223e8,02/24/2026 12:00:00,1st half-month Core Inflation,LOW,MXN
+292a968d-46c6-48c8-a327-8e5dd5716479,02/24/2026 12:00:00,1st half-month Inflation,LOW,MXN
 ecbf1f74-0369-487c-8bff-04e90039025f,02/25/2026 15:00:00,Accumulated Current Account/GDP,LOW,MXN
 8837160f-5031-4d78-ab05-dfa7ebf35cc9,02/25/2026 15:00:00,"Current Account, $ (QoQ)",LOW,MXN
+357c57ab-987a-45f0-b5f1-ebde558c44a5,02/26/2026 12:00:00,Jobless Rate,LOW,MXN
+09018ea1-e88b-4f22-a1ff-c290facb81a0,02/26/2026 12:00:00,Jobless Rate s.a,LOW,MXN
+930c2601-affc-433c-9569-ca07e4a169ca,02/27/2026 12:00:00,"Trade Balance s/a, $",LOW,MXN
+affc1c6a-21d2-4f5b-96b3-63ab8615f371,02/27/2026 12:00:00,"Trade Balance, $",LOW,MXN
+dccbc316-69eb-41bf-a033-b865c223451a,02/27/2026 21:00:00,"Fiscal Balance, pesos",LOW,MXN
+ce69e413-0bdd-43dd-8172-1c54295c186a,03/05/2026 12:00:00,Consumer Confidence,LOW,MXN
+146642bb-926b-4e5c-947a-800583d926be,03/05/2026 12:00:00,Consumer Confidence s.a,LOW,MXN
+d32fb528-5210-483e-b0da-52378413b3fd,03/09/2026 12:00:00,12-Month Inflation,LOW,MXN
+7a171bce-488e-43cc-b670-45fea010a7d5,03/09/2026 12:00:00,Core Inflation,LOW,MXN
+68a3b036-a2cf-459f-8b69-c111b89c3550,03/09/2026 12:00:00,Headline Inflation,MEDIUM,MXN
+be441368-3363-46cb-aecf-fa1a455da97c,03/13/2026 12:00:00,Industrial Output (MoM),LOW,MXN
+8f62232b-49f9-42d3-bac5-afa12fb6d379,03/13/2026 12:00:00,Industrial Output (YoY),LOW,MXN
 6efae430-1635-416f-b0ee-4ad57f06350b,03/20/2026 12:00:00,Private Spending (QoQ),LOW,MXN
 c6f43be8-bed8-4b01-99c0-9eae2eb7cfd7,03/20/2026 12:00:00,Private Spending (YoY),LOW,MXN
+7a6003b8-e913-4b1b-a832-e92dc01733b2,03/23/2026 12:00:00,Retail Sales (MoM),LOW,MXN
+c64433ff-0d6b-42a3-b3ee-da6154fbcf19,03/23/2026 12:00:00,Retail Sales (YoY),LOW,MXN
+abd112f5-59d0-45cf-8466-c08645438cb8,03/24/2026 12:00:00,1st half-month Core Inflation,LOW,MXN
+1d85a36a-e3fd-4d0d-aec5-237c4551cea3,03/24/2026 12:00:00,1st half-month Inflation,LOW,MXN
+83e356c4-c137-44e3-90b5-9814370859af,03/26/2026 19:00:00,Banxico Interest Rate Decision,MEDIUM,MXN
+19bcdaed-c33f-4607-9f1c-e8f3b5e328e2,03/27/2026 12:00:00,Jobless Rate,LOW,MXN
+5a3aab47-739d-41f6-811a-4437ab21fbb3,03/27/2026 12:00:00,Jobless Rate s.a,LOW,MXN
+ae3ed6eb-326a-4113-b8a2-047eb59e81e8,03/27/2026 12:00:00,"Trade Balance s/a, $",LOW,MXN
+d0948883-868e-4d4c-8feb-82e1ba0d63f3,03/27/2026 12:00:00,"Trade Balance, $",LOW,MXN
+f42dfd51-7e63-4534-9ebb-a6ed66d4d21e,03/31/2026 21:00:00,"Fiscal Balance, pesos",LOW,MXN
+4228314e-5c64-4c64-9aa1-6832034981a5,04/08/2026 12:00:00,Consumer Confidence,LOW,MXN
+eeee7ea1-d03b-4ab2-bc16-f10162fa91d3,04/08/2026 12:00:00,Consumer Confidence s.a,LOW,MXN
+8a9f16b2-e933-4fc9-a4f5-020136bb943a,04/09/2026 12:00:00,12-Month Inflation,LOW,MXN
+3604081f-8778-4feb-811f-53a608d452bc,04/09/2026 12:00:00,Core Inflation,LOW,MXN
+f03d7958-5147-4126-b4eb-ca7405eafbc4,04/09/2026 12:00:00,Headline Inflation,MEDIUM,MXN
+ea9c8aed-f55a-4966-9510-e3eae3888fd0,04/09/2026 15:00:00,Banxico Monetary Policy Meeting Minutes,MEDIUM,MXN
+db98e532-d55f-4fd5-82fd-011290157f52,04/10/2026 12:00:00,Industrial Output (MoM),LOW,MXN
+f907b5d1-1459-4c41-9e10-1d8567d54f0a,04/10/2026 12:00:00,Industrial Output (YoY),LOW,MXN
+f4d6a1e8-77bd-4047-889e-c4d489d33a0d,04/23/2026 12:00:00,1st half-month Core Inflation,LOW,MXN
+e4eb1ca7-d2c0-4d8c-8528-74648133337b,04/23/2026 12:00:00,1st half-month Inflation,LOW,MXN
+4fa96db3-7cc2-4901-a3e1-82f948b2fc43,04/23/2026 12:00:00,Retail Sales (MoM),LOW,MXN
+87075112-1524-472a-96e0-20b1e45caeaa,04/23/2026 12:00:00,Retail Sales (YoY),LOW,MXN
+ce366950-c0eb-414b-8947-27b59b6e4095,04/24/2026 12:00:00,Jobless Rate,LOW,MXN
+9a653930-3b58-4d12-8bd7-877ac3609384,04/24/2026 12:00:00,Jobless Rate s.a,LOW,MXN
+51163b9d-19f9-426b-9be2-f9b6e6fa18be,04/27/2026 12:00:00,"Trade Balance s/a, $",LOW,MXN
+3427ab6f-c975-4b71-b161-49b9c81ad65f,04/27/2026 12:00:00,"Trade Balance, $",LOW,MXN
+748f7fc9-6b8a-4984-81c9-6d9c53da199a,04/30/2026 12:00:00,Gross Domestic Product (QoQ),LOW,MXN
+d1e53a05-ba83-4dad-ae37-1bab1c398a46,04/30/2026 12:00:00,Gross Domestic Product (YoY),LOW,MXN
+f4fcbe93-3040-43f1-a532-564a3b31e23f,04/30/2026 21:00:00,"Fiscal Balance, pesos",LOW,MXN
+4c87fe34-5a6d-49d7-9d3e-c6dc7819c175,05/07/2026 12:00:00,12-Month Inflation,LOW,MXN
+3c03d734-2692-4ecc-bbaa-7f12b6bdf29f,05/07/2026 12:00:00,Core Inflation,LOW,MXN
+df261136-99ed-4e4e-aac3-63b215ea6cf3,05/07/2026 12:00:00,Headline Inflation,MEDIUM,MXN
+e559e75e-93f7-4a23-9ac6-cfa88b701b52,05/07/2026 19:00:00,Banxico Interest Rate Decision,MEDIUM,MXN
+82f57057-06a0-4443-9289-9f63c1e54cae,05/08/2026 12:00:00,Consumer Confidence,LOW,MXN
+722e62ff-5c96-460e-9cfb-c2c788dbd20e,05/08/2026 12:00:00,Consumer Confidence s.a,LOW,MXN
+56414921-62de-4265-a92b-d3ed57956180,05/12/2026 12:00:00,Industrial Output (MoM),LOW,MXN
+d7aba36e-8ac9-4b76-92e1-34f9f2c8eecd,05/12/2026 12:00:00,Industrial Output (YoY),LOW,MXN
+88d15d68-534c-45bf-9ed5-5c4ca207d7c5,05/21/2026 12:00:00,Retail Sales (MoM),LOW,MXN
+681ca880-ffae-43cc-9249-7d2eaf95c552,05/21/2026 12:00:00,Retail Sales (YoY),LOW,MXN
+d853c5de-9bd7-4b54-acee-dcd5c2aa75e8,05/21/2026 15:00:00,Banxico Monetary Policy Meeting Minutes,MEDIUM,MXN
+85247da8-942f-4376-956b-32e95e335470,05/22/2026 12:00:00,1st half-month Core Inflation,LOW,MXN
+4cacf707-5a76-47aa-a00b-b6025c46f066,05/22/2026 12:00:00,1st half-month Inflation,LOW,MXN
+c77371c6-98b8-4a63-8603-7d429403bf97,05/22/2026 12:00:00,Gross Domestic Product (QoQ),LOW,MXN
+c732373d-1898-49a9-b663-0be5db44fae2,05/22/2026 12:00:00,Gross Domestic Product (YoY),LOW,MXN
+5ea7284b-a665-4488-be3c-1da9b53b3724,05/25/2026 12:00:00,"Trade Balance s/a, $",LOW,MXN
+0bf4e648-7c74-40d4-8377-c367e26a3f6d,05/25/2026 12:00:00,"Trade Balance, $",LOW,MXN
 e44ce1af-9d40-48d1-8721-d84609bb527b,05/25/2026 15:00:00,Accumulated Current Account/GDP,LOW,MXN
 ca4ada0a-653f-4e02-8b2f-5925f2364047,05/25/2026 15:00:00,"Current Account, $ (QoQ)",LOW,MXN
+d93a6ae3-5e69-4f89-b081-e65aa7766932,05/28/2026 12:00:00,Jobless Rate,LOW,MXN
+7555525a-1d65-465a-a19c-a626657bcaa7,05/28/2026 12:00:00,Jobless Rate s.a,LOW,MXN
+0e6f81b7-ccd5-471b-bb10-5d96d4bb2997,05/29/2026 21:00:00,"Fiscal Balance, pesos",LOW,MXN
+85be8860-bdc7-416d-b1cb-7f56b5988667,06/05/2026 12:00:00,Consumer Confidence,LOW,MXN
+56d32387-8c3d-4431-b257-7c6ba06539a6,06/05/2026 12:00:00,Consumer Confidence s.a,LOW,MXN
+0ddf58d6-1be0-4ab7-854d-7979ea6a9a06,06/09/2026 12:00:00,12-Month Inflation,LOW,MXN
+83d9754a-440f-43f5-a7ca-651aea3ab789,06/09/2026 12:00:00,Core Inflation,LOW,MXN
+d2e87acf-8e0d-4764-b18e-894c726af5bf,06/09/2026 12:00:00,Headline Inflation,MEDIUM,MXN
+86cc6248-3bba-40de-bb09-2d3841d1c73a,06/11/2026 12:00:00,Industrial Output (MoM),LOW,MXN
+e5353525-f361-49a5-97c1-ac0eed01d0b6,06/11/2026 12:00:00,Industrial Output (YoY),LOW,MXN
+7dc03804-fa31-4127-b582-cbf44bab8d9f,06/18/2026 12:00:00,Private Spending (QoQ),LOW,MXN
+03bee8a5-5675-47e7-ac50-b0b91007e06b,06/18/2026 12:00:00,Private Spending (YoY),LOW,MXN
+180f9f79-9a5c-4cfa-81c4-40b532dc2882,06/23/2026 12:00:00,Retail Sales (MoM),LOW,MXN
+e541d1d3-6cee-4168-9ae2-c86fd92261c1,06/23/2026 12:00:00,Retail Sales (YoY),LOW,MXN
+3a4709db-4c71-4c31-b67c-449dcad6c746,06/24/2026 12:00:00,1st half-month Core Inflation,LOW,MXN
+17adcd38-2c04-4625-99ba-9549b1b1549c,06/24/2026 12:00:00,1st half-month Inflation,LOW,MXN
+e2ba577f-1615-4849-998a-7987b8657b8e,06/25/2026 12:00:00,Jobless Rate,LOW,MXN
+743deada-45b7-4186-96f3-0a9111f553b6,06/25/2026 12:00:00,Jobless Rate s.a,LOW,MXN
+7c8a1034-51d0-49b7-84f9-e9feb63fb626,06/25/2026 19:00:00,Banxico Interest Rate Decision,MEDIUM,MXN
+095c576e-5507-4f60-9e15-baecce1e8e34,06/26/2026 12:00:00,"Trade Balance s/a, $",LOW,MXN
+ef98eeb9-f80a-42c6-be73-c86aab347c58,06/26/2026 12:00:00,"Trade Balance, $",LOW,MXN
+e658c60a-4d47-45f0-b412-18c0d52b48a9,06/30/2026 21:00:00,"Fiscal Balance, pesos",LOW,MXN
+8aa61838-ef2a-411e-9e9b-13f3bbd536aa,07/03/2026 12:00:00,Consumer Confidence,LOW,MXN
+32dba8f3-6b62-432a-9266-8fb02dd6ac40,07/03/2026 12:00:00,Consumer Confidence s.a,LOW,MXN
+3289433d-5b3f-4288-81eb-89b86a9f7e49,07/09/2026 12:00:00,12-Month Inflation,LOW,MXN
+61a02885-840c-4a1d-b70a-cbb62bb8e0c1,07/09/2026 12:00:00,Core Inflation,LOW,MXN
+9370b5bb-5fbe-4dc8-8641-8d603627fde0,07/09/2026 12:00:00,Headline Inflation,MEDIUM,MXN
+af9c48cf-0ec8-4d21-b51f-c6765969bd5c,07/09/2026 15:00:00,Banxico Monetary Policy Meeting Minutes,MEDIUM,MXN
+5ea9ad88-18c0-4c31-9c48-e1d8e8b90c9c,07/10/2026 12:00:00,Industrial Output (MoM),LOW,MXN
+7b06aa64-a72b-4d13-b977-eb124d2ff1f3,07/10/2026 12:00:00,Industrial Output (YoY),LOW,MXN
+8b617b24-8b2c-4d91-8fa2-42ac274e7d83,07/21/2026 12:00:00,Retail Sales (MoM),LOW,MXN
+c2e031f4-cefa-41f8-bbba-453a3ccf33d5,07/21/2026 12:00:00,Retail Sales (YoY),LOW,MXN
+bbaccb74-80e8-4d3d-9d2f-80ea8c5a0c6c,07/23/2026 12:00:00,1st half-month Core Inflation,LOW,MXN
+2e291a70-8192-40cb-b3ca-ee8d0b49c0f9,07/23/2026 12:00:00,1st half-month Inflation,LOW,MXN
+1d9f7011-1985-4208-8486-ffe78835a427,07/24/2026 12:00:00,Jobless Rate,LOW,MXN
+8145f9b7-68da-4542-9709-ab3db189b3f2,07/24/2026 12:00:00,Jobless Rate s.a,LOW,MXN
+8dcae826-f322-4f87-ac10-1c64d7df4278,07/27/2026 12:00:00,"Trade Balance s/a, $",LOW,MXN
+8b55cc38-cda2-4f0d-9212-9c37d645182c,07/27/2026 12:00:00,"Trade Balance, $",LOW,MXN
+c2bafd57-6398-4614-8db4-eed646ed179b,07/30/2026 12:00:00,Gross Domestic Product (QoQ),LOW,MXN
+6082db90-484b-4198-9e94-3999ba39c59b,07/30/2026 12:00:00,Gross Domestic Product (YoY),LOW,MXN
+7d854d27-a69b-42d9-83fe-5fd693a400f4,07/31/2026 21:00:00,"Fiscal Balance, pesos",LOW,MXN
+44e70972-f656-4015-b82f-38be8104ea06,08/04/2026 12:00:00,Consumer Confidence,LOW,MXN
+9cd2a24a-f226-438d-8f1c-61a3a0158549,08/04/2026 12:00:00,Consumer Confidence s.a,LOW,MXN
+78ee922c-7ea8-4242-a5e0-6b2eb814e124,08/06/2026 19:00:00,Banxico Interest Rate Decision,MEDIUM,MXN
+04ee9a83-18a6-44c8-a038-567d0e3798c6,08/07/2026 12:00:00,12-Month Inflation,LOW,MXN
+2c2f3a9c-3c27-4d80-bf47-47cb3b2e35f2,08/07/2026 12:00:00,Core Inflation,LOW,MXN
+c0e8e549-6fa9-4622-bf88-154d232e1e2b,08/07/2026 12:00:00,Headline Inflation,MEDIUM,MXN
+b0feee0e-71d0-49d6-a861-e4d8336ef58e,08/11/2026 12:00:00,Industrial Output (MoM),LOW,MXN
+e469ecf4-fbbf-466d-adbb-c8d86d71ffba,08/11/2026 12:00:00,Industrial Output (YoY),LOW,MXN
+a98f22a1-a83c-4822-88f3-8defbfdc1010,08/20/2026 15:00:00,Banxico Monetary Policy Meeting Minutes,MEDIUM,MXN
+83d05a18-6225-4797-8ada-116672668fd9,08/21/2026 12:00:00,Retail Sales (MoM),LOW,MXN
+04692327-afd7-41a0-8acd-00c15c6106d0,08/21/2026 12:00:00,Retail Sales (YoY),LOW,MXN
+d0fe34f4-685a-4b98-b81e-44651192fe26,08/24/2026 12:00:00,1st half-month Core Inflation,LOW,MXN
+6affb791-1bb0-4505-8cec-b1c3c578b4ba,08/24/2026 12:00:00,1st half-month Inflation,LOW,MXN
+f8e7804b-2482-41a3-b019-f6701a2f0ddf,08/24/2026 12:00:00,Gross Domestic Product (QoQ),LOW,MXN
+e1b9c940-c39a-4196-ba5e-31f316a9f603,08/24/2026 12:00:00,Gross Domestic Product (YoY),LOW,MXN
 207ea357-ba46-407d-9905-2dc0d918f930,08/25/2026 15:00:00,Accumulated Current Account/GDP,LOW,MXN
 1a9f7fd8-98e6-44e7-a902-98156579fafa,08/25/2026 15:00:00,"Current Account, $ (QoQ)",LOW,MXN
+9e41fb06-6512-41ec-b637-3b93f34ea5a7,08/27/2026 12:00:00,Jobless Rate,LOW,MXN
+454539f6-3137-4c19-b451-ba0f598691e7,08/27/2026 12:00:00,Jobless Rate s.a,LOW,MXN
+5e24c4ac-1e68-4185-bbf7-877625f571f4,08/27/2026 12:00:00,"Trade Balance s/a, $",LOW,MXN
+8058cb12-b17b-4ace-9586-d9be8064a01f,08/27/2026 12:00:00,"Trade Balance, $",LOW,MXN
+d33232eb-f0b7-47cf-b175-6a599a22bf9c,08/31/2026 21:00:00,"Fiscal Balance, pesos",LOW,MXN
+4aaaf5f2-874d-4048-9ed4-c77127db57de,09/03/2026 12:00:00,Consumer Confidence,LOW,MXN
+f9b53f92-a936-4ef8-bbb6-edb3029aa78e,09/03/2026 12:00:00,Consumer Confidence s.a,LOW,MXN
+05be718f-7a11-4db0-a8ba-8f2647f95ae5,09/09/2026 12:00:00,12-Month Inflation,LOW,MXN
+4818fe5a-8f45-4c24-bdc6-ffadcbe1f2ac,09/09/2026 12:00:00,Core Inflation,LOW,MXN
+6feb523e-91ad-42a2-babe-5b76989da614,09/09/2026 12:00:00,Headline Inflation,MEDIUM,MXN
+c666798e-e383-4534-800f-f4c5e5dd5321,09/11/2026 12:00:00,Industrial Output (MoM),LOW,MXN
+067e453d-4c0f-49b1-bc3f-3d7bc14b3c76,09/11/2026 12:00:00,Industrial Output (YoY),LOW,MXN
+9e8a7c27-b781-49d0-b89a-0b7b583d8b05,09/18/2026 12:00:00,Private Spending (QoQ),LOW,MXN
+cbb096f8-9372-4f49-bede-2d9e79aafbed,09/18/2026 12:00:00,Private Spending (YoY),LOW,MXN
+62e8c999-691f-4d68-bc32-4889550e7458,09/22/2026 12:00:00,Retail Sales (MoM),LOW,MXN
+c7a662f5-574f-4824-92b4-ce82683cf78a,09/22/2026 12:00:00,Retail Sales (YoY),LOW,MXN
+00b64221-b14f-46c4-afeb-df7ac658e410,09/24/2026 12:00:00,1st half-month Core Inflation,LOW,MXN
+3e69eb63-6049-4542-bc64-7cd7786de801,09/24/2026 12:00:00,1st half-month Inflation,LOW,MXN
+2895e9be-7ab4-4520-8a78-ebe0652771a5,09/24/2026 19:00:00,Banxico Interest Rate Decision,MEDIUM,MXN
+e4d6557c-def7-4deb-9762-c2586ddf83a0,09/25/2026 12:00:00,Jobless Rate,LOW,MXN
+10bd74f3-b7c3-4ebf-a1fc-d3bd8dfa502a,09/25/2026 12:00:00,Jobless Rate s.a,LOW,MXN
+29b94e37-c11f-46fd-a295-c93af57e516b,09/28/2026 12:00:00,"Trade Balance s/a, $",LOW,MXN
+a6dcb7fd-3c10-4223-a87d-ed3856c82f77,09/28/2026 12:00:00,"Trade Balance, $",LOW,MXN
+69451078-9195-4de9-8774-d2499ceac4e5,09/30/2026 21:00:00,"Fiscal Balance, pesos",LOW,MXN
+8799c5cf-5b13-4f86-82ba-9dcdfab84435,10/06/2026 12:00:00,Consumer Confidence,LOW,MXN
+ed04ab2c-8dac-4b83-94a5-6cb23d7c3263,10/06/2026 12:00:00,Consumer Confidence s.a,LOW,MXN
+599fbd3d-1018-48ac-9906-e82789d07719,10/08/2026 12:00:00,12-Month Inflation,LOW,MXN
+167ece68-a7de-4963-bf9c-b42590257b44,10/08/2026 12:00:00,Core Inflation,LOW,MXN
+bd4c3cc0-87d9-49d5-8f92-cb6a9d3be612,10/08/2026 12:00:00,Headline Inflation,MEDIUM,MXN
+93aff5b9-a167-42fd-a75b-00b59598548d,10/08/2026 15:00:00,Banxico Monetary Policy Meeting Minutes,MEDIUM,MXN
+7941c4fc-c6b8-4856-8067-d8069ccf17bc,10/12/2026 12:00:00,Industrial Output (MoM),LOW,MXN
+bcb1ec5d-80bf-4208-832a-edfb84ce2788,10/12/2026 12:00:00,Industrial Output (YoY),LOW,MXN
+2ec0cb3e-c7eb-4a02-acb2-6617886e2f69,10/21/2026 12:00:00,Retail Sales (MoM),LOW,MXN
+f00dd2bc-89dd-406f-bdd7-2794e3a41a30,10/21/2026 12:00:00,Retail Sales (YoY),LOW,MXN
+5c53616e-9fc3-4257-a7f7-494740b87284,10/22/2026 12:00:00,1st half-month Core Inflation,LOW,MXN
+b66e9b49-2641-4e48-a0e9-cf6ac8cd3962,10/22/2026 12:00:00,1st half-month Inflation,LOW,MXN
+f14296b5-d66c-4bb1-8cea-0a0a7ee17fa5,10/22/2026 12:00:00,Jobless Rate,LOW,MXN
+f1e61b20-2a6c-44eb-93d1-0fb88d3ce47b,10/22/2026 12:00:00,Jobless Rate s.a,LOW,MXN
+bf232096-b859-406d-9c97-d7fca0013276,10/27/2026 12:00:00,"Trade Balance s/a, $",LOW,MXN
+f19e0843-e3c1-4594-945f-28bbd85822f7,10/27/2026 12:00:00,"Trade Balance, $",LOW,MXN
+f25522b2-3c4e-4fca-a7fd-d666699d1939,10/30/2026 12:00:00,Gross Domestic Product (QoQ),LOW,MXN
+6cc1ca1c-2f0e-4b48-af4e-5a7e11e92c9b,10/30/2026 12:00:00,Gross Domestic Product (YoY),LOW,MXN
+a4ceaa8e-2b61-437b-8681-7dd5ba91e332,10/30/2026 21:00:00,"Fiscal Balance, pesos",LOW,MXN
+71a79811-7e6c-4b0e-b2bd-7059380d4545,11/05/2026 12:00:00,Consumer Confidence,LOW,MXN
+38d04d83-e480-42ef-a172-5e0840beae56,11/05/2026 12:00:00,Consumer Confidence s.a,LOW,MXN
+85985578-5f4e-4f71-ad2a-1313b5a896e4,11/05/2026 19:00:00,Banxico Interest Rate Decision,MEDIUM,MXN
+6cbee530-14df-44a4-a221-87671ca2e62f,11/09/2026 12:00:00,12-Month Inflation,LOW,MXN
+afc06fa6-afd7-42cc-a13e-9829797938c9,11/09/2026 12:00:00,Core Inflation,LOW,MXN
+5081899e-42e2-4c94-83ad-500efaf090ff,11/09/2026 12:00:00,Headline Inflation,MEDIUM,MXN
+d01a98d3-7303-420d-bf59-7d5727445e5c,11/11/2026 12:00:00,Industrial Output (MoM),LOW,MXN
+b9758d59-a363-452a-ac2a-9baf6408be41,11/11/2026 12:00:00,Industrial Output (YoY),LOW,MXN
+6189808c-c393-4fd6-ad07-7aaa0de29707,11/19/2026 15:00:00,Banxico Monetary Policy Meeting Minutes,MEDIUM,MXN
+a54ef544-254c-427b-849d-29a36c503a8f,11/20/2026 12:00:00,Retail Sales (MoM),LOW,MXN
+d5fca1ec-2af8-4212-b1c9-972d05c158f6,11/20/2026 12:00:00,Retail Sales (YoY),LOW,MXN
+5aaefafa-dacb-4cc9-a619-581f16a8ba7e,11/23/2026 12:00:00,Gross Domestic Product (QoQ),LOW,MXN
+1bac5e7e-3759-46c9-a7e6-13773df46f3c,11/23/2026 12:00:00,Gross Domestic Product (YoY),LOW,MXN
+fa76bf4d-b240-4784-8620-cc427fb4de35,11/24/2026 12:00:00,1st half-month Core Inflation,LOW,MXN
+4dcd4d46-8fdc-4cfd-b89a-ca621a013ab1,11/24/2026 12:00:00,1st half-month Inflation,LOW,MXN
 d9a02eb7-a364-41b2-ab62-cf3c2cb1f545,11/25/2026 15:00:00,Accumulated Current Account/GDP,LOW,MXN
 c2194aac-f879-40ea-9eec-32fb3f5289c1,11/25/2026 15:00:00,"Current Account, $ (QoQ)",LOW,MXN
+e6a93840-dd26-4545-962d-425bb127f4fd,11/26/2026 12:00:00,Jobless Rate,LOW,MXN
+8430309f-36ba-4e4b-b7f7-a4aecab0ca29,11/26/2026 12:00:00,Jobless Rate s.a,LOW,MXN
+990221b1-b09e-4ddf-a14d-c4c04cc009a2,11/27/2026 12:00:00,"Trade Balance s/a, $",LOW,MXN
+9b38a215-8bf9-4cd2-8b13-94f4de177170,11/27/2026 12:00:00,"Trade Balance, $",LOW,MXN
+8eea2fd1-9d60-499d-a6e5-9bb8581f5598,11/30/2026 21:00:00,"Fiscal Balance, pesos",LOW,MXN
+54c44273-44dc-43a3-80aa-acab43094684,12/07/2026 12:00:00,Consumer Confidence,LOW,MXN
+dcff384a-6fe7-4516-9b9c-2d40a1c90adf,12/07/2026 12:00:00,Consumer Confidence s.a,LOW,MXN
+ff6e858e-48d5-46b4-b80d-c09daf2d3003,12/09/2026 12:00:00,12-Month Inflation,LOW,MXN
+04cf71bb-fdcc-49b7-be7d-9e3562907875,12/09/2026 12:00:00,Core Inflation,LOW,MXN
+a1fcd012-893a-4e7e-9ad7-9bd68a4f2184,12/09/2026 12:00:00,Headline Inflation,MEDIUM,MXN
+fb2ea192-884b-4453-8f7b-721b9a77cdf2,12/11/2026 12:00:00,Industrial Output (MoM),LOW,MXN
+89f7a4f8-8b9d-46d5-ae66-66bbcee13e93,12/11/2026 12:00:00,Industrial Output (YoY),LOW,MXN
+35c7449d-af12-4b96-bb4f-33ade4cd3313,12/17/2026 12:00:00,Retail Sales (MoM),LOW,MXN
+913b1a36-7379-40c2-8627-7358b80b11ba,12/17/2026 12:00:00,Retail Sales (YoY),LOW,MXN
+0f485b35-7517-4eaf-8e84-e9001a40502b,12/17/2026 19:00:00,Banxico Interest Rate Decision,MEDIUM,MXN
+b6eb5ead-b8d6-4455-8b80-5692260f6f78,12/18/2026 12:00:00,Private Spending (QoQ),LOW,MXN
+080c19e5-fcf5-4e8a-830e-6a6b82324f05,12/18/2026 12:00:00,Private Spending (YoY),LOW,MXN
+6efc310c-e43c-42bb-a37e-d5bda7735624,12/23/2026 12:00:00,1st half-month Core Inflation,LOW,MXN
+f9913a5f-4d81-4f73-a83f-4821ad8ca23d,12/23/2026 12:00:00,1st half-month Inflation,LOW,MXN
+9f7f586c-95b6-4b1e-9fba-7eb60f2fd7c1,12/23/2026 12:00:00,"Trade Balance s/a, $",LOW,MXN
+368b3ccd-a1af-4d6f-9f88-ea56fad6c923,12/23/2026 12:00:00,"Trade Balance, $",LOW,MXN
+b5f1df30-101c-4fdd-b15e-d22383df3c0c,12/24/2026 12:00:00,Jobless Rate,LOW,MXN
+a586c5ea-e7d2-4357-b145-ea96281be835,12/24/2026 12:00:00,Jobless Rate s.a,LOW,MXN
+35cc03c4-360d-407d-9654-f18bd59f7610,12/31/2026 21:00:00,"Fiscal Balance, pesos",LOW,MXN

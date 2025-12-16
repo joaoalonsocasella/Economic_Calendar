@@ -1,8 +1,6 @@
 Id,Start,Name,Impact,Currency
-2fd17a4a-b873-47f7-93c1-b948d4477d55,12/15/2025 16:30:00,Consumer Price Index (MoM),LOW,ILS
-c4cf773b-9ed3-4f1f-9526-0d892c234c88,12/15/2025 16:30:00,Consumer Price Index (YoY),LOW,ILS
 b1cfb677-7cbd-4348-ac5d-3a0ceaa3a176,12/16/2025 11:00:00,Gross Domestic Product (QoQ),LOW,ILS
-8732476c-4546-4283-bea1-762cd61c6c0b,12/22/2025 11:00:00,Industrial Production (MoM),LOW,ILS
+8732476c-4546-4283-bea1-762cd61c6c0b,12/27/2025 11:00:00,Industrial Production (MoM),LOW,ILS
 8da429fb-db8f-4d61-b645-dc7f7a085e04,01/05/2026 14:00:00,BoI Interest Rate Decision,LOW,ILS
 9dd1e1d7-22fe-4a4e-8944-b182b4f26d09,01/07/2026 11:00:00,FX Reserves,LOW,ILS
 ab29bf15-2213-4e47-9aa9-5c7708944a29,01/14/2026 11:00:00,Exports,LOW,ILS

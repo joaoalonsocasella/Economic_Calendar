@@ -10,8 +10,8 @@ a7893805-85aa-4f43-be68-43f4505b062c,12/29/2025 07:00:00,Trade Balance (MoM),LOW
 721bf39e-9e9c-4118-970b-abcb01d9aaa5,01/09/2026 07:00:00,Industrial Production Value (MoM),LOW,SEK
 5ea92666-9068-4343-beaa-33984742c656,01/09/2026 07:00:00,Industrial Production Value (YoY),LOW,SEK
 95fd65a4-a609-4c8c-95c7-a5685fc82176,01/09/2026 07:00:00,New Orders Manufacturing (YoY),LOW,SEK
-cd032a61-cf0b-4f8a-b784-1e6521ac63f8,01/14/2026 07:00:00,Consumer Price Index (MoM),LOW,SEK
-5ac64999-68ba-4529-9285-4f7a5720e401,01/14/2026 07:00:00,Consumer Price Index (YoY),LOW,SEK
+cd032a61-cf0b-4f8a-b784-1e6521ac63f8,01/15/2026 07:00:00,Consumer Price Index (MoM),LOW,SEK
+5ac64999-68ba-4529-9285-4f7a5720e401,01/15/2026 07:00:00,Consumer Price Index (YoY),LOW,SEK
 5391bec8-302b-488f-885f-7621a204c7ee,01/27/2026 07:00:00,Producer Price Index (MoM),LOW,SEK
 be4bcd58-e0bb-49eb-b338-5ff2838bca8f,01/27/2026 07:00:00,Producer Price Index (YoY),LOW,SEK
 d7493395-3e3f-4fca-b2d0-fcff75bcbb92,01/27/2026 07:00:00,Unemployment Rate,LOW,SEK
@@ -20,6 +20,48 @@ bb797962-9477-437c-b26d-ade9ecf729ab,01/29/2026 08:00:00,Consumer Confidence (Mo
 6ada1f91-e607-42f1-b68c-79676238611b,01/30/2026 07:00:00,Retail Sales (MoM),LOW,SEK
 c1dfcc18-5325-4459-9840-49f71565f38b,01/30/2026 07:00:00,Retail Sales (YoY),LOW,SEK
 9dc64d0a-7fd8-4f46-9918-01d95cb9c97b,02/20/2026 07:00:00,Capacity Utilization,LOW,SEK
+16b5def0-4ccf-4819-a945-d0eab9c3b28b,02/20/2026 07:00:00,Consumer Price Index (MoM),LOW,SEK
+98f20ab1-b6e8-4ff7-af35-f3c578a277cc,02/20/2026 07:00:00,Consumer Price Index (YoY),LOW,SEK
+a397c863-aead-4255-bcbf-3e30bd629207,02/25/2026 07:00:00,Producer Price Index (MoM),LOW,SEK
+d684dfdc-4b05-4d47-8ac1-df0ece4dd987,02/25/2026 07:00:00,Producer Price Index (YoY),LOW,SEK
 1745391e-c359-462d-a8c8-d647b9ed099e,02/27/2026 07:00:00,Gross Domestic Product (QoQ),LOW,SEK
 3fb131bb-fdaf-4798-b046-9420fc25cfb1,02/27/2026 07:00:00,Gross Domestic Product (YoY),LOW,SEK
 49d38c7b-dfcc-4f5e-8375-477d6203d0f1,03/04/2026 07:00:00,Current Account (QoQ),LOW,SEK
+f6600be9-b065-437c-8fc0-d3b25d802ebc,03/12/2026 07:00:00,Consumer Price Index (MoM),LOW,SEK
+bce39acf-a065-45c2-bac6-bc5326db2cfc,03/12/2026 07:00:00,Consumer Price Index (YoY),LOW,SEK
+6d2cf3a9-6352-4e28-a14f-32dfe81bed49,03/25/2026 07:00:00,Producer Price Index (MoM),LOW,SEK
+3e4084bd-774a-4f75-9edd-b6838e1778dd,03/25/2026 07:00:00,Producer Price Index (YoY),LOW,SEK
+fd917d55-ba41-4047-91b4-0830a9d96dce,04/14/2026 06:00:00,Consumer Price Index (MoM),LOW,SEK
+edc39d9b-8c54-41ab-aecb-451b07b727c0,04/14/2026 06:00:00,Consumer Price Index (YoY),LOW,SEK
+9f3a3296-4638-4e63-a631-3bca78630e23,04/24/2026 06:00:00,Producer Price Index (MoM),LOW,SEK
+e42c9c03-fe8a-4bf0-9126-a7bb8a480e21,04/24/2026 06:00:00,Producer Price Index (YoY),LOW,SEK
+fccec97b-1ce4-468f-97b7-0d4e681b85c8,05/13/2026 06:00:00,Consumer Price Index (MoM),LOW,SEK
+1ed8b1e0-5df7-419a-9757-b5548cb56575,05/13/2026 06:00:00,Consumer Price Index (YoY),LOW,SEK
+4193d557-9445-4a9c-890b-a9231ce1af5a,05/26/2026 06:00:00,Producer Price Index (MoM),LOW,SEK
+60a990b4-0cb0-43d2-9686-ca03250b7f76,05/26/2026 06:00:00,Producer Price Index (YoY),LOW,SEK
+907358ed-cc5e-4b8c-9f4f-7aaf65ad6c4b,05/29/2026 06:00:00,Gross Domestic Product (QoQ),LOW,SEK
+5d320a25-81b8-4b8c-99df-4883d6355c5d,05/29/2026 06:00:00,Gross Domestic Product (YoY),LOW,SEK
+c472650e-b9b9-49be-8e9f-e6e9fd5a2e0a,06/11/2026 06:00:00,Consumer Price Index (MoM),LOW,SEK
+1c08b4b3-3322-4076-b550-84a1c0abd040,06/11/2026 06:00:00,Consumer Price Index (YoY),LOW,SEK
+3dfc0783-9f59-4eab-bdc8-cf555819ec33,06/26/2026 06:00:00,Producer Price Index (MoM),LOW,SEK
+997afaab-d0d0-413a-9ef2-a53177d44cd2,06/26/2026 06:00:00,Producer Price Index (YoY),LOW,SEK
+be351a5d-0b55-420f-b6d5-1e3856ef176b,07/15/2026 06:00:00,Consumer Price Index (MoM),LOW,SEK
+07fa91dc-89ad-4095-a27a-bc0c2b0de401,07/15/2026 06:00:00,Consumer Price Index (YoY),LOW,SEK
+dfb0efeb-19a7-4ce4-9b88-f69cac51adaa,07/24/2026 06:00:00,Producer Price Index (MoM),LOW,SEK
+643b911d-48c3-432f-849b-f721c36157ed,07/24/2026 06:00:00,Producer Price Index (YoY),LOW,SEK
+271b36ed-9bd7-4a9d-bdc3-bc384ba25ea4,08/13/2026 06:00:00,Consumer Price Index (MoM),LOW,SEK
+66f9fdce-4eec-437a-8931-2d254763c602,08/13/2026 06:00:00,Consumer Price Index (YoY),LOW,SEK
+8bee5f20-ce6b-44e2-9904-3ccada6d0ef5,08/26/2026 06:00:00,Producer Price Index (MoM),LOW,SEK
+69ce16a4-aa7e-4124-be5a-edef994f2425,08/26/2026 06:00:00,Producer Price Index (YoY),LOW,SEK
+69e4825a-e92b-4cd5-af41-a9a5b147c27c,08/28/2026 06:00:00,Gross Domestic Product (QoQ),LOW,SEK
+c8e65e14-a0f6-44b2-8d9e-00c86ad3cc52,08/28/2026 06:00:00,Gross Domestic Product (YoY),LOW,SEK
+07a7fe48-b93a-4ff8-ab5a-7ae7bbf7c851,09/14/2026 06:00:00,Consumer Price Index (MoM),LOW,SEK
+923972cd-78e2-4001-b66d-800c7cfb0e67,09/14/2026 06:00:00,Consumer Price Index (YoY),LOW,SEK
+deb61062-1ce8-4ced-8951-179e4441a7db,10/14/2026 06:00:00,Consumer Price Index (MoM),LOW,SEK
+2a403008-4012-47eb-b659-8eea1f2ce09c,10/14/2026 06:00:00,Consumer Price Index (YoY),LOW,SEK
+1de4609a-18b4-4f78-962e-759d7e884401,11/12/2026 07:00:00,Consumer Price Index (MoM),LOW,SEK
+0dd8e05b-7039-421e-9335-ad561cee966c,11/12/2026 07:00:00,Consumer Price Index (YoY),LOW,SEK
+924739b8-890e-44fd-ba72-89ad7634c5bb,11/27/2026 07:00:00,Gross Domestic Product (QoQ),LOW,SEK
+b937d011-6e09-4cd5-8b40-a53b6b0261cc,11/27/2026 07:00:00,Gross Domestic Product (YoY),LOW,SEK
+c1ad8292-1ea3-4416-8c22-0c89afd4fa2a,12/11/2026 07:00:00,Consumer Price Index (MoM),LOW,SEK
+be7dbe81-d297-4e2f-aa21-d8b7be242a30,12/11/2026 07:00:00,Consumer Price Index (YoY),LOW,SEK
