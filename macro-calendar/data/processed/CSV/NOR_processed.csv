@@ -22,12 +22,34 @@ ac3bda7b-4ba1-4639-b03c-1011ef469a61,02/10/2026 07:00:00,Consumer Price Index (M
 b1eb5eda-a681-4c90-bb3a-8a77d8147050,02/10/2026 07:00:00,Core Inflation (YoY),HIGH,NOK,Release,0.19,Inflation
 e8df5bd0-b809-489f-af16-1c546d21fcac,02/16/2026 07:00:00,Gross Domestic Product Growth,LOW,NOK,Release,0.09,Money and Credit
 64d31649-753f-4ffa-9f9b-f7b8dcf1df26,02/16/2026 07:00:00,Gross Domestic Product Growth Mainland,LOW,NOK,Release,0.09,Money and Credit
+fb278337-a183-4483-a3f8-060eab95b05a,02/27/2026 09:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
+31078ae1-086e-4335-b4d6-1d7155e9e5d8,02/27/2026 09:00:00,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
 5696ce5f-269f-4a25-83c8-928757b90b26,03/04/2026 07:00:00,Current Account,MEDIUM,NOK,Release,0.11,Trade and External
 601831e7-ae21-4641-a3b7-30fb2dfb158d,03/10/2026 07:00:00,Consumer Price Index (MoM),HIGH,NOK,Release,0.19,Inflation
 b8728065-7d2a-4dd3-9830-6f0e59fdb739,03/10/2026 07:00:00,Consumer Price Index (YoY),HIGH,NOK,Release,0.19,Inflation
 a49493be-3257-439e-9ec1-849b78d578d2,03/10/2026 07:00:00,Core Inflation (MoM),HIGH,NOK,Release,0.19,Inflation
 486f74fa-1b90-4584-9bdf-a6176d9453b3,03/10/2026 07:00:00,Core Inflation (YoY),HIGH,NOK,Release,0.19,Inflation
+4d969fce-e91d-4fbd-a79d-2850c28d6020,03/27/2026 09:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
+eb900dd2-c32f-4117-a12f-a2a215a93d20,03/27/2026 09:00:00,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
 0a50f28c-d0da-46b7-8a6e-eebb4f70a2fe,04/10/2026 06:00:00,Consumer Price Index (MoM),HIGH,NOK,Release,0.19,Inflation
 db2dcb47-5c58-4b11-88ae-d1703109699f,04/10/2026 06:00:00,Consumer Price Index (YoY),HIGH,NOK,Release,0.19,Inflation
 0d8aea9f-fead-4d81-99c1-a49b7761da88,04/10/2026 06:00:00,Core Inflation (MoM),HIGH,NOK,Release,0.19,Inflation
 3c7064a1-cfe3-48ae-b0ba-c3fc6159dfd5,04/10/2026 06:00:00,Core Inflation (YoY),HIGH,NOK,Release,0.19,Inflation
+a382ae87-05e9-4b13-b77f-76aff4cf9908,04/30/2026 08:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
+5e7159ed-f6ed-44fb-a10f-e0e0d93b8b43,04/30/2026 08:00:00,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
+cee83e88-eb8a-4ab9-8773-8d62c83e5fca,05/29/2026 08:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
+379b4d21-a9fa-482d-8694-6b00d74d6164,05/29/2026 08:00:00,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
+f4ddb95e-7362-4e30-893a-aea3eb270386,07/03/2026 08:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
+2aecbcc7-f679-4116-a5d4-f253f94c3897,07/03/2026 08:00:00,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
+7704aebd-c950-4e09-bce4-13b5cebb4986,07/31/2026 08:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
+0b278d4d-3c26-4618-bdad-d025f9ac53aa,07/31/2026 08:00:00,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
+3238ae0e-16d6-44db-b1ff-6e5107b0ba7f,08/28/2026 08:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
+7c8bee43-526b-41ce-a6d6-d00a9cccd0c2,08/28/2026 08:00:00,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
+10bd328d-a670-418e-8830-924c45214c78,10/02/2026 08:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
+b96bafcf-6dda-4ff1-9084-61be38fe138e,10/02/2026 08:00:00,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
+787f043d-a65e-45ff-bdd0-a41428cc2437,10/30/2026 09:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
+96c2f422-0aa2-446b-be21-d93243b04880,10/30/2026 09:00:00,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
+7b659571-c28c-4a9f-89d0-5fa20cf67b8b,11/27/2026 09:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
+d4b74452-bc78-4dec-9c18-4038104769bb,11/27/2026 09:00:00,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
+dbe778b7-f706-44d7-993f-ccc8a765a4da,12/18/2026 09:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
+019a850c-23c8-493c-9ba3-eae09919dbb9,12/18/2026 09:00:00,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market

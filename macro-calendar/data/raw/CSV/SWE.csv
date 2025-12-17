@@ -12,56 +12,177 @@ a7893805-85aa-4f43-be68-43f4505b062c,12/29/2025 07:00:00,Trade Balance (MoM),LOW
 95fd65a4-a609-4c8c-95c7-a5685fc82176,01/09/2026 07:00:00,New Orders Manufacturing (YoY),LOW,SEK
 cd032a61-cf0b-4f8a-b784-1e6521ac63f8,01/15/2026 07:00:00,Consumer Price Index (MoM),LOW,SEK
 5ac64999-68ba-4529-9285-4f7a5720e401,01/15/2026 07:00:00,Consumer Price Index (YoY),LOW,SEK
+d7493395-3e3f-4fca-b2d0-fcff75bcbb92,01/23/2026 07:00:00,Unemployment Rate,LOW,SEK
 5391bec8-302b-488f-885f-7621a204c7ee,01/27/2026 07:00:00,Producer Price Index (MoM),LOW,SEK
 be4bcd58-e0bb-49eb-b338-5ff2838bca8f,01/27/2026 07:00:00,Producer Price Index (YoY),LOW,SEK
-d7493395-3e3f-4fca-b2d0-fcff75bcbb92,01/27/2026 07:00:00,Unemployment Rate,LOW,SEK
-686ddc26-0c55-4884-9aec-b253fa612725,01/28/2026 07:00:00,Trade Balance (MoM),LOW,SEK
+686ddc26-0c55-4884-9aec-b253fa612725,01/27/2026 07:00:00,Trade Balance (MoM),LOW,SEK
 bb797962-9477-437c-b26d-ade9ecf729ab,01/29/2026 08:00:00,Consumer Confidence (MoM),LOW,SEK
+66cc1c52-724f-4ab4-87aa-e07cdb99477b,01/29/2026 08:30:00,Riksbank Interest Rate Decision,MEDIUM,SEK
 6ada1f91-e607-42f1-b68c-79676238611b,01/30/2026 07:00:00,Retail Sales (MoM),LOW,SEK
 c1dfcc18-5325-4459-9840-49f71565f38b,01/30/2026 07:00:00,Retail Sales (YoY),LOW,SEK
+f5dd29b1-9aac-4681-a9eb-8be7701d0be8,02/02/2026 07:30:00,Manufacturing PMI,LOW,SEK
+351bd7e0-437d-4e41-a96e-b45c6d09a9dc,02/10/2026 07:00:00,Industrial Production Value (MoM),LOW,SEK
+6faf9dce-d827-43e0-91b5-f3875697fb3a,02/10/2026 07:00:00,Industrial Production Value (YoY),LOW,SEK
+819a8bac-b609-43c7-94fe-e2ed99da63a9,02/10/2026 07:00:00,New Orders Manufacturing (YoY),LOW,SEK
+4706a593-a38f-4666-8bc9-24adeb3d5736,02/16/2026 07:00:00,Unemployment Rate,LOW,SEK
 9dc64d0a-7fd8-4f46-9918-01d95cb9c97b,02/20/2026 07:00:00,Capacity Utilization,LOW,SEK
 16b5def0-4ccf-4819-a945-d0eab9c3b28b,02/20/2026 07:00:00,Consumer Price Index (MoM),LOW,SEK
 98f20ab1-b6e8-4ff7-af35-f3c578a277cc,02/20/2026 07:00:00,Consumer Price Index (YoY),LOW,SEK
 a397c863-aead-4255-bcbf-3e30bd629207,02/25/2026 07:00:00,Producer Price Index (MoM),LOW,SEK
 d684dfdc-4b05-4d47-8ac1-df0ece4dd987,02/25/2026 07:00:00,Producer Price Index (YoY),LOW,SEK
+d473b761-dfc1-40b8-b745-d7f3dd663805,02/26/2026 08:00:00,Consumer Confidence (MoM),LOW,SEK
 1745391e-c359-462d-a8c8-d647b9ed099e,02/27/2026 07:00:00,Gross Domestic Product (QoQ),LOW,SEK
 3fb131bb-fdaf-4798-b046-9420fc25cfb1,02/27/2026 07:00:00,Gross Domestic Product (YoY),LOW,SEK
-49d38c7b-dfcc-4f5e-8375-477d6203d0f1,03/04/2026 07:00:00,Current Account (QoQ),LOW,SEK
+4c4adb49-82a9-464b-b9f9-808e0cf4f631,02/27/2026 07:00:00,Retail Sales (MoM),LOW,SEK
+cae43067-b4a7-40fe-81d3-1895608e595e,02/27/2026 07:00:00,Retail Sales (YoY),LOW,SEK
+bada9beb-eca0-41ef-839d-20b2de8c0097,02/27/2026 07:00:00,Trade Balance (MoM),LOW,SEK
+bfda1ba1-788f-450e-9601-eaae9691c083,03/02/2026 07:30:00,Manufacturing PMI,LOW,SEK
+49d38c7b-dfcc-4f5e-8375-477d6203d0f1,03/06/2026 07:00:00,Current Account (QoQ),LOW,SEK
+6b87c2d0-78ef-4e33-b02b-a9dbcb8d2e93,03/10/2026 07:00:00,Industrial Production Value (MoM),LOW,SEK
+ee918646-f0eb-4e41-b0b8-e6d8dd210906,03/10/2026 07:00:00,Industrial Production Value (YoY),LOW,SEK
+c9a2c3cd-93a6-470d-a528-276b0dfc5564,03/10/2026 07:00:00,New Orders Manufacturing (YoY),LOW,SEK
 f6600be9-b065-437c-8fc0-d3b25d802ebc,03/12/2026 07:00:00,Consumer Price Index (MoM),LOW,SEK
 bce39acf-a065-45c2-bac6-bc5326db2cfc,03/12/2026 07:00:00,Consumer Price Index (YoY),LOW,SEK
+1b69b7cf-97a4-44ef-8c34-cefd7db06498,03/13/2026 07:00:00,Unemployment Rate,LOW,SEK
+1f921f25-cb50-42d1-ada1-6458ef8c0eca,03/19/2026 08:30:00,Riksbank Interest Rate Decision,MEDIUM,SEK
 6d2cf3a9-6352-4e28-a14f-32dfe81bed49,03/25/2026 07:00:00,Producer Price Index (MoM),LOW,SEK
 3e4084bd-774a-4f75-9edd-b6838e1778dd,03/25/2026 07:00:00,Producer Price Index (YoY),LOW,SEK
+bd1048b4-9b6f-46d4-a15d-5e680cec71ba,03/25/2026 08:00:00,Consumer Confidence (MoM),LOW,SEK
+21163256-080e-4ace-8b39-76895a9800d1,03/26/2026 07:00:00,Trade Balance (MoM),LOW,SEK
+d65d5d36-de08-4e55-88e2-80edcd415d71,03/30/2026 06:00:00,Retail Sales (MoM),LOW,SEK
+64d93e17-0bf2-4cfd-a1af-01842396f3c8,03/30/2026 06:00:00,Retail Sales (YoY),LOW,SEK
+38c408fc-5ffa-42af-a21e-63dae74d9963,04/01/2026 06:30:00,Manufacturing PMI,LOW,SEK
+7cca858c-2076-44c7-b074-cdccd94386ef,04/10/2026 06:00:00,Industrial Production Value (MoM),LOW,SEK
+d303a4c1-fe0f-4204-aee9-d06b78ebe8f3,04/10/2026 06:00:00,Industrial Production Value (YoY),LOW,SEK
+f7420852-17c8-4d50-ba79-4dc7a70b4abc,04/10/2026 06:00:00,New Orders Manufacturing (YoY),LOW,SEK
 fd917d55-ba41-4047-91b4-0830a9d96dce,04/14/2026 06:00:00,Consumer Price Index (MoM),LOW,SEK
 edc39d9b-8c54-41ab-aecb-451b07b727c0,04/14/2026 06:00:00,Consumer Price Index (YoY),LOW,SEK
+e2d83ee8-b0de-49c5-9ceb-02fef2db1163,04/22/2026 06:00:00,Unemployment Rate,LOW,SEK
 9f3a3296-4638-4e63-a631-3bca78630e23,04/24/2026 06:00:00,Producer Price Index (MoM),LOW,SEK
 e42c9c03-fe8a-4bf0-9126-a7bb8a480e21,04/24/2026 06:00:00,Producer Price Index (YoY),LOW,SEK
+314e27f4-db08-468f-821e-088580f7ff43,04/28/2026 06:00:00,Trade Balance (MoM),LOW,SEK
+ea0a9752-79ec-482d-a2ad-3fe272c9f7f4,04/29/2026 06:00:00,Retail Sales (MoM),LOW,SEK
+44b5397f-9f6d-4860-8647-f273a99ba5a0,04/29/2026 06:00:00,Retail Sales (YoY),LOW,SEK
+4a4ec5d0-0325-4f54-88d1-59000ffb7b92,04/29/2026 07:00:00,Consumer Confidence (MoM),LOW,SEK
+b08089cc-193a-49a0-8f76-9215c3733089,05/01/2026 06:30:00,Manufacturing PMI,LOW,SEK
+325aa4a8-9c32-4cd6-b25f-4dba7b8e1894,05/07/2026 07:30:00,Riksbank Interest Rate Decision,MEDIUM,SEK
+ef51ca6a-6ddb-4394-8dba-c91df80e8d27,05/08/2026 06:00:00,Industrial Production Value (MoM),LOW,SEK
+84b71256-2b24-411c-a8fa-59b0ed9d308c,05/08/2026 06:00:00,Industrial Production Value (YoY),LOW,SEK
+50ef8e06-bc1c-4ac5-8fa3-9529830ad94f,05/08/2026 06:00:00,New Orders Manufacturing (YoY),LOW,SEK
 fccec97b-1ce4-468f-97b7-0d4e681b85c8,05/13/2026 06:00:00,Consumer Price Index (MoM),LOW,SEK
 1ed8b1e0-5df7-419a-9757-b5548cb56575,05/13/2026 06:00:00,Consumer Price Index (YoY),LOW,SEK
+d779a3ff-16fc-4c23-b98f-c9aae773eadb,05/21/2026 06:00:00,Capacity Utilization,LOW,SEK
+0375225f-ce02-49a8-ac72-dbf9f83f9df2,05/21/2026 06:00:00,Unemployment Rate,LOW,SEK
 4193d557-9445-4a9c-890b-a9231ce1af5a,05/26/2026 06:00:00,Producer Price Index (MoM),LOW,SEK
 60a990b4-0cb0-43d2-9686-ca03250b7f76,05/26/2026 06:00:00,Producer Price Index (YoY),LOW,SEK
+ffa0856b-44d5-4c7a-a75a-bc19fdd97734,05/28/2026 06:00:00,Trade Balance (MoM),LOW,SEK
+86bfef69-acdf-405e-b2d2-5ff245ace4e6,05/28/2026 07:00:00,Consumer Confidence (MoM),LOW,SEK
 907358ed-cc5e-4b8c-9f4f-7aaf65ad6c4b,05/29/2026 06:00:00,Gross Domestic Product (QoQ),LOW,SEK
 5d320a25-81b8-4b8c-99df-4883d6355c5d,05/29/2026 06:00:00,Gross Domestic Product (YoY),LOW,SEK
+aa8199e5-75e5-4a0b-823d-2f4e3a9157b4,05/29/2026 06:00:00,Retail Sales (MoM),LOW,SEK
+afabfac0-f68b-490e-9000-2a9bcbeb8964,05/29/2026 06:00:00,Retail Sales (YoY),LOW,SEK
+0df2677c-282a-4af3-8862-e8d904f4e892,06/01/2026 06:30:00,Manufacturing PMI,LOW,SEK
+36342cd2-c41f-49b6-b3c7-1480699dd162,06/05/2026 06:00:00,Current Account (QoQ),LOW,SEK
+67d4fe41-9fcc-4a5d-9016-63d9463d2c3e,06/10/2026 06:00:00,Industrial Production Value (MoM),LOW,SEK
+d9f6cb69-5671-4273-9977-2c31238a8e39,06/10/2026 06:00:00,Industrial Production Value (YoY),LOW,SEK
+30a5463f-4d28-4819-9604-c9bdfbc19d44,06/10/2026 06:00:00,New Orders Manufacturing (YoY),LOW,SEK
 c472650e-b9b9-49be-8e9f-e6e9fd5a2e0a,06/11/2026 06:00:00,Consumer Price Index (MoM),LOW,SEK
 1c08b4b3-3322-4076-b550-84a1c0abd040,06/11/2026 06:00:00,Consumer Price Index (YoY),LOW,SEK
+a15b4677-b2d6-4f7a-a792-8991b2fcac54,06/15/2026 06:00:00,Unemployment Rate,LOW,SEK
+90420fe2-b2bc-47c7-ac88-1ff2b1cd4a14,06/17/2026 07:30:00,Riksbank Interest Rate Decision,MEDIUM,SEK
 3dfc0783-9f59-4eab-bdc8-cf555819ec33,06/26/2026 06:00:00,Producer Price Index (MoM),LOW,SEK
 997afaab-d0d0-413a-9ef2-a53177d44cd2,06/26/2026 06:00:00,Producer Price Index (YoY),LOW,SEK
+fc862179-d50a-424f-9eec-5e29bd6509f8,06/26/2026 07:00:00,Consumer Confidence (MoM),LOW,SEK
+c0919d0d-e065-4b66-ac15-e86d8216d7f1,06/29/2026 06:00:00,Trade Balance (MoM),LOW,SEK
+0d38053a-f753-4b59-a887-78408bb7f688,06/30/2026 06:00:00,Retail Sales (MoM),LOW,SEK
+52453bb4-5bc7-4aaf-8222-25cc8838746c,06/30/2026 06:00:00,Retail Sales (YoY),LOW,SEK
+a22b7a19-0b33-4dd1-bec2-3ce95daa30c3,07/01/2026 06:30:00,Manufacturing PMI,LOW,SEK
+59a22b42-9298-4ce5-935d-7bd3b4036099,07/08/2026 06:00:00,Industrial Production Value (MoM),LOW,SEK
+22a1f85e-077c-4bb0-b327-e8c96b0d10cc,07/08/2026 06:00:00,Industrial Production Value (YoY),LOW,SEK
+7e397069-29d5-4c7e-8514-8c18503e29f2,07/08/2026 06:00:00,New Orders Manufacturing (YoY),LOW,SEK
 be351a5d-0b55-420f-b6d5-1e3856ef176b,07/15/2026 06:00:00,Consumer Price Index (MoM),LOW,SEK
 07fa91dc-89ad-4095-a27a-bc0c2b0de401,07/15/2026 06:00:00,Consumer Price Index (YoY),LOW,SEK
 dfb0efeb-19a7-4ce4-9b88-f69cac51adaa,07/24/2026 06:00:00,Producer Price Index (MoM),LOW,SEK
 643b911d-48c3-432f-849b-f721c36157ed,07/24/2026 06:00:00,Producer Price Index (YoY),LOW,SEK
+d3d8092b-96da-4533-abaa-a31378d0b2b0,07/24/2026 06:00:00,Unemployment Rate,LOW,SEK
+8469c74f-f665-4e24-85db-bd8c1b122c2c,07/28/2026 06:00:00,Trade Balance (MoM),LOW,SEK
+2ca4404f-9d6f-4604-8c67-a1076bdfc10a,07/30/2026 06:00:00,Retail Sales (MoM),LOW,SEK
+b7cb8d92-27e3-4281-875b-a6f6ce1170b5,07/30/2026 06:00:00,Retail Sales (YoY),LOW,SEK
+aa155892-7110-4c99-9f2f-9cfa264241e5,07/30/2026 07:00:00,Consumer Confidence (MoM),LOW,SEK
+6da45ef2-9034-45e7-9d10-ba161d0a6929,08/03/2026 06:30:00,Manufacturing PMI,LOW,SEK
+007cffc3-398d-43d9-85ee-65c00d1840e5,08/10/2026 06:00:00,Industrial Production Value (MoM),LOW,SEK
+484a3ed1-baec-4e5e-87bb-8b3ddd2a3657,08/10/2026 06:00:00,Industrial Production Value (YoY),LOW,SEK
+3769af15-cd52-4449-b23a-5d714df159ee,08/10/2026 06:00:00,New Orders Manufacturing (YoY),LOW,SEK
 271b36ed-9bd7-4a9d-bdc3-bc384ba25ea4,08/13/2026 06:00:00,Consumer Price Index (MoM),LOW,SEK
 66f9fdce-4eec-437a-8931-2d254763c602,08/13/2026 06:00:00,Consumer Price Index (YoY),LOW,SEK
+d7447e2c-aa2e-4910-9624-9a349084535d,08/20/2026 06:00:00,Capacity Utilization,LOW,SEK
+f414116f-0283-4158-8105-1c2ce0a9e33f,08/20/2026 07:30:00,Riksbank Interest Rate Decision,MEDIUM,SEK
+cf59a410-0a65-4a32-87fa-81b9e001fd1d,08/21/2026 06:00:00,Unemployment Rate,LOW,SEK
 8bee5f20-ce6b-44e2-9904-3ccada6d0ef5,08/26/2026 06:00:00,Producer Price Index (MoM),LOW,SEK
 69ce16a4-aa7e-4124-be5a-edef994f2425,08/26/2026 06:00:00,Producer Price Index (YoY),LOW,SEK
+f7a599e5-2127-467b-b062-eeb80711e407,08/27/2026 06:00:00,Trade Balance (MoM),LOW,SEK
 69e4825a-e92b-4cd5-af41-a9a5b147c27c,08/28/2026 06:00:00,Gross Domestic Product (QoQ),LOW,SEK
 c8e65e14-a0f6-44b2-8d9e-00c86ad3cc52,08/28/2026 06:00:00,Gross Domestic Product (YoY),LOW,SEK
+07a852de-a27e-4818-9052-afc5f4f56679,08/28/2026 06:00:00,Retail Sales (MoM),LOW,SEK
+f0727a90-1556-462c-928e-9d51cc54ae1e,08/28/2026 06:00:00,Retail Sales (YoY),LOW,SEK
+84cb3fe0-788c-4fd5-b0a8-dd9c245dfa7c,08/28/2026 07:00:00,Consumer Confidence (MoM),LOW,SEK
+8f190c6d-06a8-4d52-96e6-79126d6a8358,09/01/2026 06:30:00,Manufacturing PMI,LOW,SEK
+34f27b50-9c73-475e-8902-4004f37b2799,09/04/2026 06:00:00,Current Account (QoQ),LOW,SEK
+ab19788f-3799-4622-9659-6217c75e098d,09/10/2026 06:00:00,Industrial Production Value (MoM),LOW,SEK
+285e7d42-49a7-4038-8c3c-ceb178ea3d1c,09/10/2026 06:00:00,Industrial Production Value (YoY),LOW,SEK
+b973b0f1-f8f3-4f2f-882a-51f73aefddc2,09/10/2026 06:00:00,New Orders Manufacturing (YoY),LOW,SEK
 07a7fe48-b93a-4ff8-ab5a-7ae7bbf7c851,09/14/2026 06:00:00,Consumer Price Index (MoM),LOW,SEK
 923972cd-78e2-4001-b66d-800c7cfb0e67,09/14/2026 06:00:00,Consumer Price Index (YoY),LOW,SEK
+dafe45d1-8519-4305-8ec1-9f28664ab32e,09/16/2026 06:00:00,Unemployment Rate,LOW,SEK
+ec318b3f-218d-41cf-8591-d07c47ebf43d,09/24/2026 07:30:00,Riksbank Interest Rate Decision,MEDIUM,SEK
+1d684fe1-2c64-456d-bc9e-56a4e85abd25,09/25/2026 06:00:00,Producer Price Index (MoM),LOW,SEK
+ce07b64f-5c11-4ac0-a1d8-4698fd62a2db,09/25/2026 06:00:00,Producer Price Index (YoY),LOW,SEK
+a659c58a-db16-436a-8fa9-c75e38660b7d,09/28/2026 06:00:00,Trade Balance (MoM),LOW,SEK
+4659f455-bf1e-4d7f-a1c1-ff968bf7723d,09/29/2026 07:00:00,Consumer Confidence (MoM),LOW,SEK
+dcd12911-4a12-4d7d-92b2-3623ae62f3ec,09/30/2026 06:00:00,Retail Sales (MoM),LOW,SEK
+fe16585c-3eb8-466f-a89e-a9f7884eafe9,09/30/2026 06:00:00,Retail Sales (YoY),LOW,SEK
+85196d98-63dd-4069-a0aa-c83c3873c597,10/01/2026 06:30:00,Manufacturing PMI,LOW,SEK
+77da7f71-6cae-477a-9757-ac01773a6553,10/09/2026 06:00:00,Industrial Production Value (MoM),LOW,SEK
+0a90bc46-2c1a-4be4-b6ea-711f5dc913b2,10/09/2026 06:00:00,Industrial Production Value (YoY),LOW,SEK
+fe14137e-db81-46d3-8237-dcb168bf6e7e,10/09/2026 06:00:00,New Orders Manufacturing (YoY),LOW,SEK
 deb61062-1ce8-4ced-8951-179e4441a7db,10/14/2026 06:00:00,Consumer Price Index (MoM),LOW,SEK
 2a403008-4012-47eb-b659-8eea1f2ce09c,10/14/2026 06:00:00,Consumer Price Index (YoY),LOW,SEK
+bf19c785-9e85-4ada-973e-3efc26281752,10/16/2026 06:00:00,Unemployment Rate,LOW,SEK
+3ac7a643-e9da-46e2-a519-03fa215eba99,10/26/2026 07:00:00,Producer Price Index (MoM),LOW,SEK
+1a9cc1f2-4bc0-4b8c-b9d0-e12333dce772,10/26/2026 07:00:00,Producer Price Index (YoY),LOW,SEK
+d26ee651-1f4e-4997-9943-a27fcf6cb5e2,10/27/2026 07:00:00,Trade Balance (MoM),LOW,SEK
+56bce99c-15a0-4b79-9aca-ced5578d553e,10/29/2026 07:00:00,Retail Sales (MoM),LOW,SEK
+a27918d6-8f50-479b-aa27-8ebe2238ac09,10/29/2026 07:00:00,Retail Sales (YoY),LOW,SEK
+a2d43602-97f7-4f28-a90d-ba6b4f90207a,10/29/2026 08:00:00,Consumer Confidence (MoM),LOW,SEK
+30471ad3-a20b-4f07-b60c-b87a1b6c2a19,11/02/2026 07:30:00,Manufacturing PMI,LOW,SEK
+e279f1bb-6d5a-4fc7-a229-b9e83d689f55,11/04/2026 08:30:00,Riksbank Interest Rate Decision,MEDIUM,SEK
+a90828ed-6d7f-45a3-ada1-5e5ddb380f1b,11/10/2026 07:00:00,Industrial Production Value (MoM),LOW,SEK
+6f531cd2-837b-481c-a4d1-581302019326,11/10/2026 07:00:00,Industrial Production Value (YoY),LOW,SEK
+4458e768-1c7d-4420-999c-5c4f7b64b980,11/10/2026 07:00:00,New Orders Manufacturing (YoY),LOW,SEK
 1de4609a-18b4-4f78-962e-759d7e884401,11/12/2026 07:00:00,Consumer Price Index (MoM),LOW,SEK
 0dd8e05b-7039-421e-9335-ad561cee966c,11/12/2026 07:00:00,Consumer Price Index (YoY),LOW,SEK
+0cb3a0b0-1237-4ec2-bca8-060761f9598b,11/18/2026 07:00:00,Capacity Utilization,LOW,SEK
+42388f0e-e1e5-4ad9-bc92-9fcfdc8a287f,11/20/2026 07:00:00,Unemployment Rate,LOW,SEK
+0fb83145-5e9c-4dbd-b3e7-76e148c33322,11/25/2026 07:00:00,Producer Price Index (MoM),LOW,SEK
+52e0d4ad-b049-4285-b327-27c0965bc959,11/25/2026 07:00:00,Producer Price Index (YoY),LOW,SEK
 924739b8-890e-44fd-ba72-89ad7634c5bb,11/27/2026 07:00:00,Gross Domestic Product (QoQ),LOW,SEK
 b937d011-6e09-4cd5-8b40-a53b6b0261cc,11/27/2026 07:00:00,Gross Domestic Product (YoY),LOW,SEK
+97d2b883-ff80-4252-9700-7df2b09b976e,11/27/2026 07:00:00,Trade Balance (MoM),LOW,SEK
+5dab8a5e-dd27-4d0c-90c9-adec49aa00a8,11/27/2026 08:00:00,Consumer Confidence (MoM),LOW,SEK
+b8e256a1-78a3-45a0-bb1f-9a754462877e,11/30/2026 07:00:00,Retail Sales (MoM),LOW,SEK
+e38352d8-85da-40df-a366-3f98bb3357af,11/30/2026 07:00:00,Retail Sales (YoY),LOW,SEK
+215a6fe6-9d15-4464-866d-e9f8aab81a75,12/01/2026 07:30:00,Manufacturing PMI,LOW,SEK
+8aa1a6d4-dca4-4dbb-a5bb-b64055c3e73e,12/04/2026 07:00:00,Current Account (QoQ),LOW,SEK
+cced7100-2893-4fd2-a48b-a1650fd18f2c,12/10/2026 07:00:00,Industrial Production Value (MoM),LOW,SEK
+6253c3ef-5ac6-41cb-a7da-d0a5531221ec,12/10/2026 07:00:00,Industrial Production Value (YoY),LOW,SEK
+902cba33-ac17-471c-b164-9041bcbcab52,12/10/2026 07:00:00,New Orders Manufacturing (YoY),LOW,SEK
 c1ad8292-1ea3-4416-8c22-0c89afd4fa2a,12/11/2026 07:00:00,Consumer Price Index (MoM),LOW,SEK
 be7dbe81-d297-4e2f-aa21-d8b7be242a30,12/11/2026 07:00:00,Consumer Price Index (YoY),LOW,SEK
+b5bff10d-0ebb-430c-993a-5d12a7caabe7,12/16/2026 08:30:00,Riksbank Interest Rate Decision,MEDIUM,SEK
+0c6f085b-8f41-4723-9415-1cef3f181733,12/18/2026 07:00:00,Unemployment Rate,LOW,SEK
+0ebe2c3b-c08f-4449-80fb-91363dac7beb,12/18/2026 08:00:00,Consumer Confidence (MoM),LOW,SEK
+d1a7cb72-b289-4be7-8b7f-d2fe7932e5b0,12/22/2026 07:00:00,Retail Sales (MoM),LOW,SEK
+fc72b633-bd30-4f2a-b15e-f48635109e28,12/22/2026 07:00:00,Retail Sales (YoY),LOW,SEK
+e3f982bb-b826-4a2e-9a53-a48952a95465,12/23/2026 07:00:00,Producer Price Index (MoM),LOW,SEK
+6aa39237-e88c-4f66-bdf7-e32566fc6a1b,12/23/2026 07:00:00,Producer Price Index (YoY),LOW,SEK
+ede491a9-a57c-433e-a428-3040d6d1d101,12/28/2026 07:00:00,Trade Balance (MoM),LOW,SEK

@@ -1,8 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e492a22f-5c25-4fd3-b9ab-5cb24f327996,12/16/2025 12:00:00,Gross Domestic Product (QoQ),HIGH,QAR,Release,0.17,Growth
-e77d9e25-36cf-4b9e-9a48-5dffaa1f4999,12/16/2025 12:00:00,Gross Domestic Product (YoY),HIGH,QAR,Release,0.17,Growth
-46ec1212-6526-4391-a1d8-abc4e6a01a78,12/17/2025 12:00:00,Consumer Price Index (MoM),HIGH,QAR,Release,0.19,Inflation
-d2025ba7-a880-4be4-83b5-8305eff74ea1,12/17/2025 12:00:00,Consumer Price Index (YoY),HIGH,QAR,Release,0.19,Inflation
+e492a22f-5c25-4fd3-b9ab-5cb24f327996,12/17/2025 12:00:00,Gross Domestic Product (QoQ),HIGH,QAR,Release,0.17,Growth
+e77d9e25-36cf-4b9e-9a48-5dffaa1f4999,12/17/2025 12:00:00,Gross Domestic Product (YoY),HIGH,QAR,Release,0.17,Growth
 578ee31d-5dc1-4bfc-8265-c5b489ad445f,12/22/2025 14:00:00,M2 Money Supply,HIGH,QAR,Release,0.2,Monetary Policy
 733cb0d9-cda1-452c-8051-8972bb7f8686,01/15/2026 12:00:00,Consumer Price Index (MoM),HIGH,QAR,Release,0.19,Inflation
 3a99da77-e8fc-4c3c-b3b3-89a63412c2c6,01/15/2026 12:00:00,Consumer Price Index (YoY),HIGH,QAR,Release,0.19,Inflation

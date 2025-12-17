@@ -1,11 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-3590c518-1879-47f5-992f-5579d947388f,12/16/2025 09:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
-340f152a-5b12-48e0-bb84-a48e644092ed,12/16/2025 09:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
-169f4712-c4e7-463b-aead-fcba926a8502,12/16/2025 09:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
-22e9f44d-24df-4590-8ff6-d8551cbb553a,12/16/2025 10:00:00,Trade Balance n.s.a.,HIGH,EUR,Release,0.468,Trade and External
-0a9ba82d-8f96-40ae-ad07-aaca23c46ca8,12/16/2025 10:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External
-4c97a270-7d84-4288-9591-90e85a6a2ede,12/16/2025 10:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
-0773ab7c-633a-4376-ada1-9c04efa345b4,12/16/2025 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 e359d329-d026-488f-bdec-9f048326e839,12/17/2025 10:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 1e6092e2-a400-4024-91f3-a5baf7a183c7,12/17/2025 10:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.807,Inflation
 7ee1dccd-7bf4-4b2f-b442-74d0365274c0,12/17/2025 10:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
