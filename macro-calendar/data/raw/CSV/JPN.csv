@@ -1,6 +1,4 @@
 Id,Start,Name,Impact,Currency
-f8efe7fc-73dd-4eb4-aa88-27e306e35211,12/17/2025 23:50:00,Foreign Bond Investment,LOW,JPY
-7296ef4f-f3b9-46ac-9a83-7da00ff10a5d,12/17/2025 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
 0aa87f13-0d6d-4237-8eb6-66d32323adad,12/18/2025 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
 fcce641c-7901-428d-9783-f1166c6a1d4e,12/18/2025 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
 46fbbdc5-4ef8-4378-adda-59f15f0bbd79,12/18/2025 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
@@ -33,10 +31,10 @@ a8b38146-67bf-4917-9501-e405f5fe1f09,12/25/2025 23:50:00,Industrial Production (
 2890e99d-ebf0-4ebb-9011-082f5507b71e,12/29/2025 23:30:00,Unemployment Rate,MEDIUM,JPY
 06eaae2b-47fb-41ed-ab47-6ab677350d68,01/04/2026 23:50:00,Monetary Base (YoY),LOW,JPY
 be539d37-83f5-4da3-a6f0-c9f3fa63a516,01/05/2026 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
-0ca8f48a-f149-4d47-84f6-ea386044b808,01/05/2026 00:30:00,Jibun Bank Services PMI,LOW,JPY
 6f0dc33f-8ec6-4f3d-92ce-f499c2e014f9,01/06/2026 03:35:00,10-y Bond Auction,LOW,JPY
 4c53a04a-0ace-482a-8f41-924f04b55682,01/06/2026 20:30:00,CFTC JPY NC Net Positions,LOW,JPY
 835d5d81-88b0-4be3-9da0-95b7e5552be8,01/06/2026 23:50:00,JP Foreign Reserves,LOW,JPY
+0ca8f48a-f149-4d47-84f6-ea386044b808,01/07/2026 00:30:00,Jibun Bank Services PMI,LOW,JPY
 9d110c8c-87d5-47d4-afd7-e9ab3383c189,01/07/2026 23:30:00,Labor Cash Earnings (YoY),MEDIUM,JPY
 ae66add9-083b-4c89-b324-c2a72b49e46e,01/07/2026 23:50:00,Foreign Bond Investment,LOW,JPY
 4ca1d743-d407-40e4-802c-cd84f441654f,01/07/2026 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY

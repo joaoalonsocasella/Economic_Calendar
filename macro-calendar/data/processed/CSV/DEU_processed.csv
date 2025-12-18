@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e024b979-f0d2-4875-8c07-21a45af32052,12/17/2025 09:00:00,IFO – Business Climate,HIGH,EUR,Release,0.595,Confidence
-18ad5c44-9030-495c-a618-d88c215ab42b,12/17/2025 09:00:00,IFO – Current Assessment,HIGH,EUR,Release,0.595,Confidence
-8e4490be-58e4-4dd5-85c2-f2a2ba03a0de,12/17/2025 09:00:00,IFO – Expectations,HIGH,EUR,Release,0.595,Confidence
 8c775aa8-57fe-4c22-8045-2f3e3b062029,12/19/2025 07:00:00,GfK Consumer Confidence Survey,HIGH,EUR,Release,0.595,Confidence
 6fb7a9cb-2e5f-4dd0-a496-37c5ef48224a,12/19/2025 07:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 5bd9c364-0c72-496e-93c2-c79a89163a4d,12/19/2025 07:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
@@ -9,8 +6,8 @@ e024b979-f0d2-4875-8c07-21a45af32052,12/17/2025 09:00:00,IFO – Business Climat
 5dccb569-6c80-4490-92a8-78d8f1c342a0,12/23/2025 07:00:00,Import Price Index (MoM),HIGH,EUR,Release,0.468,Trade and External
 07e5ae13-3764-4b0c-926d-1691498cca2c,12/23/2025 07:00:00,Import Price Index (YoY),HIGH,EUR,Release,0.468,Trade and External
 77e776ff-7507-4ee6-be6a-5d152e4fca0e,01/02/2026 08:55:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
-c45229cd-f987-4954-afd5-0130aba9c4ca,01/05/2026 08:55:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
-ad9da27a-61d9-404b-a4ae-30d152a5c73a,01/05/2026 08:55:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+c45229cd-f987-4954-afd5-0130aba9c4ca,01/06/2026 08:55:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
+ad9da27a-61d9-404b-a4ae-30d152a5c73a,01/06/2026 08:55:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 800faaed-ecc3-470e-afc3-24ae954a4a78,01/06/2026 08:55:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
 7e7cdcce-6d20-4d89-bec6-6ddd5261e89f,01/06/2026 08:55:00,Unemployment Rate s.a.,HIGH,EUR,Release,0.765,Labor Market
 d2369bcb-de2b-4dff-bf41-9392704a15f9,01/06/2026 09:00:00,Baden-Wuerttemberg CPI (MoM),HIGH,EUR,Release,0.807,Inflation

@@ -1,9 +1,4 @@
 Id,Start,Name,Impact,Currency
-e359d329-d026-488f-bdec-9f048326e839,12/17/2025 10:00:00,Core Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
-1e6092e2-a400-4024-91f3-a5baf7a183c7,12/17/2025 10:00:00,Core Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
-7ee1dccd-7bf4-4b2f-b442-74d0365274c0,12/17/2025 10:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
-61cdc1c0-3eb2-41a5-b3ac-f321f722fa1b,12/17/2025 10:00:00,Harmonized Index of Consumer Prices (YoY),LOW,EUR
-a4141757-767d-4ae4-bd96-2ec40d2a188f,12/17/2025 10:00:00,Labor Cost Index,LOW,EUR
 1838859c-c314-416e-99a4-b1e0593c4c00,12/18/2025 10:00:00,Construction Output  s.a (MoM),LOW,EUR
 4c21aef4-7a23-489e-85b5-a921f1861444,12/18/2025 10:00:00,Construction Output w.d.a (YoY),LOW,EUR
 fc644721-18ce-492e-a3d2-51c5c8f9ce7d,12/18/2025 13:15:00,ECB Main Refinancing Operations Rate,HIGH,EUR
@@ -13,7 +8,7 @@ cb12178b-adf6-4edd-9966-a24292ca1db7,12/18/2025 13:15:00,ECB Rate On Deposit Fac
 b12b1dd4-8cd4-47aa-a9f3-4c64ac9a1d6e,12/19/2025 09:00:00,Current Account n.s.a,LOW,EUR
 e3279cca-2e47-4001-bdf2-4c2fa2bd9799,12/19/2025 09:00:00,Current Account s.a,LOW,EUR
 4edc277b-22b5-4510-99f8-dffd8258dac7,12/19/2025 09:00:00,ECB's Kocher speech,MEDIUM,EUR
-1fb6ea06-be83-4c57-ae71-2fd182e2a665,12/19/2025 11:30:00,ECB's Sleijpen speech,MEDIUM,EUR
+1fb6ea06-be83-4c57-ae71-2fd182e2a665,12/19/2025 10:30:00,ECB's Sleijpen speech,MEDIUM,EUR
 f37bd11d-7d8e-433e-be45-34995cf69ff0,12/19/2025 12:00:00,ECB's Cipollone speech,MEDIUM,EUR
 9c54e528-45b1-47e4-9fff-d279b2ccd7fb,12/19/2025 15:00:00,Consumer Confidence,MEDIUM,EUR
 3cd69d82-5028-4b53-9482-97bdea0e1e02,12/19/2025 15:10:00,ECB's Lane speech,MEDIUM,EUR
@@ -24,9 +19,9 @@ db5f4db5-b988-4dc9-bf33-47074561b53a,12/19/2025 20:30:00,CFTC EUR NC Net Positio
 f244e5f3-d3ce-4b3e-914b-e8fa56ac204f,01/02/2026 09:00:00,M3 Money Supply (3m),LOW,EUR
 93be017c-a1fb-4ed6-bb7c-57addc131b61,01/02/2026 09:00:00,M3 Money Supply (YoY),LOW,EUR
 30467660-edfb-4610-aade-cac6512d95a5,01/02/2026 09:00:00,Private Loans (YoY),LOW,EUR
-413f1e25-bf49-41f8-9ac2-d3c282b7019a,01/05/2026 09:00:00,HCOB Composite PMI,MEDIUM,EUR
-75e538a7-399f-4db2-b142-a1b7729037c4,01/05/2026 09:00:00,HCOB Services PMI,LOW,EUR
 37284788-8b2c-4b93-90dd-ace8423425f5,01/05/2026 09:30:00,Sentix Investor Confidence,MEDIUM,EUR
+413f1e25-bf49-41f8-9ac2-d3c282b7019a,01/06/2026 09:00:00,HCOB Composite PMI,MEDIUM,EUR
+75e538a7-399f-4db2-b142-a1b7729037c4,01/06/2026 09:00:00,HCOB Services PMI,LOW,EUR
 14a8d7b5-5d5e-482b-8518-fc5eabef4cd3,01/06/2026 10:00:00,Producer Price Index (MoM),MEDIUM,EUR
 49234ba3-de15-4937-8fbb-4908f1c18dae,01/06/2026 10:00:00,Producer Price Index (YoY),MEDIUM,EUR
 2e8770e8-c6a8-4fa9-b4b1-01e81f5374ff,01/06/2026 20:30:00,CFTC EUR NC Net Positions,LOW,EUR

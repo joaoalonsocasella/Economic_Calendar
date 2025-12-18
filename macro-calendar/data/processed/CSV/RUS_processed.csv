@@ -1,14 +1,12 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d5950ef1-c7d4-4b42-b42e-89dbbdb800e4,12/17/2025 16:00:00,Producer Price Index (MoM),HIGH,RUB,Release,0.19,Inflation
-30caac30-9a1d-477a-882e-76007a732c59,12/17/2025 16:00:00,Producer Price Index (YoY),HIGH,RUB,Release,0.19,Inflation
 a63495a1-1cf4-426d-9fe8-abc8a3d7fc23,12/18/2025 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 ae48b7d6-5c5f-49ea-a1ef-31a99c0a7de8,12/19/2025 10:30:00,Interest Rate Decision,HIGH,RUB,Release,0.2,Monetary Policy
 69dbc08c-f997-4964-afe5-d0089f576d01,12/24/2025 16:00:00,Industrial Output,HIGH,RUB,Release,0.17,Growth
 f0046609-4014-4e93-9df0-729639d956ae,12/25/2025 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 071e31e1-c34a-4ddb-a489-5fd840f46de6,12/26/2025 16:00:00,Unemployment Rate,HIGH,RUB,Release,0.18,Labor Market
 40cac812-3195-4f9a-a40e-db1460f3a024,12/29/2025 06:00:00,S&P Global Manufacturing PMI,HIGH,RUB,Release,0.17,Growth
+238e1942-69ec-4eaf-b898-69f514ff3fe4,12/30/2025 06:00:00,S&P Global Services PMI,HIGH,RUB,Release,0.17,Growth
 d4add0a5-0c80-43fa-a025-a0259308c33a,01/01/2026 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
-238e1942-69ec-4eaf-b898-69f514ff3fe4,01/05/2026 06:00:00,S&P Global Services PMI,HIGH,RUB,Release,0.17,Growth
 e7b71e8b-d001-47b0-bec6-63e9932ef9db,01/08/2026 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 7be63cb4-833a-42b2-a310-3b3ea3b4b31e,01/14/2026 16:00:00,Consumer Price Index (MoM),HIGH,RUB,Release,0.19,Inflation
 8cb9bc52-ace9-45e8-ac69-c8f32d31323a,01/15/2026 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit

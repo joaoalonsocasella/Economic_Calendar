@@ -1,16 +1,4 @@
 Id,Start,Name,Impact,Currency
-ad8597a6-e479-4844-8a42-9da5253c5ab9,12/17/2025 07:00:00,Consumer Price Index (MoM),HIGH,GBP
-976198c4-0afe-4eff-b1d5-10b88d1e644a,12/17/2025 07:00:00,Consumer Price Index (YoY),HIGH,GBP
-bbc277e3-3895-4995-a40b-7a90e4e5fe92,12/17/2025 07:00:00,Core Consumer Price Index (YoY),HIGH,GBP
-c7adc381-4812-47dd-ab2a-6881572d7b67,12/17/2025 07:00:00,PPI Core Output (MoM) n.s.a,MEDIUM,GBP
-3d3bcce9-8971-4def-9bc0-17f8e518197a,12/17/2025 07:00:00,"PPI Core Output (YoY) n.s.a ",MEDIUM,GBP
-021e79d5-029e-4f4e-a8ab-3c420d5b2a8f,12/17/2025 07:00:00,Producer Price Index - Input (MoM) n.s.a,LOW,GBP
-4254e110-53aa-48ed-81bd-0f6b56e408fa,12/17/2025 07:00:00,Producer Price Index - Input (YoY) n.s.a,LOW,GBP
-83c83cd6-eef9-4a31-8204-ea9f81f8997a,12/17/2025 07:00:00,Producer Price Index - Output (MoM) n.s.a,MEDIUM,GBP
-8f7d8472-9998-4e90-b84e-ed6d3940f55a,12/17/2025 07:00:00,Producer Price Index - Output (YoY) n.s.a,MEDIUM,GBP
-967f960e-0824-4801-8170-f53ca5cd7212,12/17/2025 07:00:00,Retail Price Index (MoM),MEDIUM,GBP
-cd303183-c596-45b8-b93e-21acccbb3634,12/17/2025 07:00:00,Retail Price Index (YoY),MEDIUM,GBP
-5589dadd-64a9-4983-b98f-7ea4fc0c4198,12/17/2025 09:30:00,DCLG House Price Index (YoY),LOW,GBP
 bf05e650-b4bb-4126-90ec-c2d68c7d1178,12/18/2025 12:00:00,BoE Interest Rate Decision,HIGH,GBP
 c62b7768-5dd1-4eee-a11f-281425031fde,12/18/2025 12:00:00,BoE Minutes,HIGH,GBP
 d85ada1e-2ae1-47b2-830b-0d393d64adf9,12/18/2025 12:00:00,BoE Monetary Policy Summary,HIGH,GBP
@@ -34,12 +22,12 @@ e3137b23-5a98-4f91-ae6d-6726b2abcbee,12/22/2025 07:00:00,Gross Domestic Product 
 50a1a39a-e832-4a1d-97d2-da4e570c4042,12/29/2025 07:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP
 4990f86a-1df1-44a0-9a7a-8f7f8f98bbe9,12/29/2025 07:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP
 caeb18c0-b156-43ca-ab12-a90c2d9530e4,12/29/2025 20:30:00,CFTC GBP NC Net Positions,LOW,GBP
+152ff0eb-251c-42cd-ac92-28d65a241f42,01/02/2026 09:30:00,S&P Global Manufacturing PMI,LOW,GBP
 1fce37a3-b1a3-4de6-ade4-2009604c4dca,01/05/2026 09:30:00,Consumer Credit,LOW,GBP
 01b880b6-1198-47ba-884a-8f114a6c6c14,01/05/2026 09:30:00,M4 Money Supply (MoM),LOW,GBP
 63a540ea-1325-4752-838d-71dc2dcacb01,01/05/2026 09:30:00,M4 Money Supply (YoY),LOW,GBP
 a4862c78-d1ab-402e-935e-fc67fbfd8c79,01/05/2026 09:30:00,Mortgage Approvals,LOW,GBP
 40f0a436-3a92-4ba3-8acc-68446a1b11d5,01/05/2026 09:30:00,Net Lending to Individuals (MoM),LOW,GBP
-152ff0eb-251c-42cd-ac92-28d65a241f42,01/05/2026 09:30:00,S&P Global Manufacturing PMI,LOW,GBP
 920bbedc-f244-4dd9-a1c5-f24239df308a,01/06/2026 00:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP
 78397dba-e67f-48bf-a01b-3d15fc280e77,01/06/2026 20:30:00,CFTC GBP NC Net Positions,LOW,GBP
 a8710486-e061-4153-84ca-0eb2c98da271,01/07/2026 09:30:00,S&P Global Composite PMI,LOW,GBP

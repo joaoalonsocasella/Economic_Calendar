@@ -8,6 +8,54 @@ a0ef2467-affa-4715-8131-2a1ae4adc98d,12/30/2025 10:00:00,Producer Price Index (Y
 095a9c2e-eb1b-43ec-b001-c70795597ddb,01/09/2026 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 421e37be-3175-4fd9-ad71-6886f5a0667d,01/09/2026 10:00:00,Industrial Production (YoY),HIGH,EUR,Release,0.722,Growth
 67ab2963-4103-4d7e-914f-d7c95d7120f7,01/22/2026 09:00:00,Current Account (YoY),HIGH,EUR,Release,0.468,Trade and External
+eb350b43-0226-4f03-a22c-9fe72552256a,01/29/2026 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+317f7e3b-2063-4027-abd6-83d14c8491ee,01/29/2026 10:00:00,Unemployment Rate (MoM),HIGH,EUR,Release,0.765,Labor Market
 6484c89e-8db5-46b8-af00-7a99f5fc5320,01/30/2026 10:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-eb350b43-0226-4f03-a22c-9fe72552256a,01/30/2026 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+9ecf8d6f-4dd6-45de-9403-eec2245d3505,02/02/2026 09:00:00,S&P Global Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+4f19bdce-a4a0-4b31-97a3-8a1afed16899,02/20/2026 09:00:00,Current Account (YoY),HIGH,EUR,Release,0.468,Trade and External
+06b88a4a-54c3-4e46-8304-a0fd4bf025ad,02/27/2026 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+99f71d9f-8097-494a-b8e9-e9fd1e221762,03/02/2026 09:00:00,S&P Global Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+b8d102cf-700d-4899-989e-6b506663bf80,03/03/2026 10:00:00,Unemployment Rate (MoM),HIGH,EUR,Release,0.765,Labor Market
 5c1cee51-e335-420a-a7f6-956c460bcf81,03/06/2026 10:00:00,Gross Domestic Product s.a (YoY),HIGH,EUR,Release,0.722,Growth
+eb2be6f2-4ac2-4a52-83a6-507f27dc325c,03/06/2026 10:00:00,Unemployment Rate (QoQ),HIGH,EUR,Release,0.765,Labor Market
+0820c012-061f-466c-a58e-f56c8b809b4e,03/20/2026 09:00:00,Current Account (YoY),HIGH,EUR,Release,0.468,Trade and External
+da90bf08-73f4-42ca-a8c4-c65be224737f,03/31/2026 09:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+65dad342-1084-4372-8961-732b65864b2d,04/01/2026 08:00:00,S&P Global Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+533d636f-0e4b-46ba-a64a-913ff208e8db,04/01/2026 09:00:00,Unemployment Rate (MoM),HIGH,EUR,Release,0.765,Labor Market
+3c82ba67-2c51-4eb5-bff1-36b44ddf1459,04/21/2026 08:00:00,Current Account (YoY),HIGH,EUR,Release,0.468,Trade and External
+25b80dcf-2f52-43fe-a35c-223471910cef,04/30/2026 09:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+1959f8b7-0227-436d-b589-6e849ff58c05,04/30/2026 09:00:00,Unemployment Rate (MoM),HIGH,EUR,Release,0.765,Labor Market
+2aa8543d-3e8c-4271-81fb-9c102207a97d,05/01/2026 08:00:00,S&P Global Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+8e7f9341-bf47-44d2-9cdc-9672db75f2e3,05/20/2026 08:00:00,Current Account (YoY),HIGH,EUR,Release,0.468,Trade and External
+9f263b11-e870-4be7-bdff-f1287fbc1fec,05/29/2026 09:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+ee8db9eb-84c3-43ae-b58d-ada38c976d13,05/29/2026 09:00:00,Unemployment Rate (MoM),HIGH,EUR,Release,0.765,Labor Market
+04bd83b0-cc13-4633-94d2-d551c19964ad,06/01/2026 08:00:00,S&P Global Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+a0e81ec2-99e7-4d85-842c-235d70b0f4d2,06/05/2026 09:00:00,Unemployment Rate (QoQ),HIGH,EUR,Release,0.765,Labor Market
+f97f5610-e0c4-4c7f-9930-63930441168a,06/22/2026 08:00:00,Current Account (YoY),HIGH,EUR,Release,0.468,Trade and External
+d087b9e6-7973-4c45-82c4-27adc4b95a6d,06/30/2026 09:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+cbe9c6e9-614a-4fdc-973d-63d43b321dbc,07/01/2026 08:00:00,S&P Global Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+18916a07-cf4c-4c16-9152-73d7fc6c5596,07/01/2026 09:00:00,Unemployment Rate (MoM),HIGH,EUR,Release,0.765,Labor Market
+7258b900-83d9-4e57-92b6-2101f97503a2,07/21/2026 08:00:00,Current Account (YoY),HIGH,EUR,Release,0.468,Trade and External
+4bfd948d-2cc5-48a4-9afd-a74f9d76d200,07/29/2026 09:00:00,Unemployment Rate (MoM),HIGH,EUR,Release,0.765,Labor Market
+6affbb17-7811-45e2-9a38-28814578f666,07/31/2026 09:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+71521230-809b-4940-a63e-7c51aee02209,08/03/2026 08:00:00,S&P Global Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+16c409fc-c789-49e2-af0f-65b85fcf3c1f,08/20/2026 08:00:00,Current Account (YoY),HIGH,EUR,Release,0.468,Trade and External
+ea7ef8f7-cea9-4e14-afe1-14df6241592d,08/31/2026 09:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+1ec760f5-712a-4389-9ab5-233e1b91bd36,08/31/2026 09:00:00,Unemployment Rate (MoM),HIGH,EUR,Release,0.765,Labor Market
+af67456f-f959-4287-a4d0-1212074946fe,09/01/2026 08:00:00,S&P Global Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+46cb87b8-8233-4f8e-81d5-887c4303a7a6,09/04/2026 09:00:00,Unemployment Rate (QoQ),HIGH,EUR,Release,0.765,Labor Market
+ee828c69-1021-42e5-ad12-92c0294a9fc2,09/22/2026 08:00:00,Current Account (YoY),HIGH,EUR,Release,0.468,Trade and External
+e23322f1-6a93-427a-a427-574521649eff,09/30/2026 09:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+7cb97eec-d9b4-4bd1-97d6-3e9298b64c85,09/30/2026 09:00:00,Unemployment Rate (MoM),HIGH,EUR,Release,0.765,Labor Market
+c542328c-923e-4047-bedc-3455b1b6fcd3,10/01/2026 08:00:00,S&P Global Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+3feb07ec-c79a-4b7e-8776-9a25f23fe490,10/21/2026 08:00:00,Current Account (YoY),HIGH,EUR,Release,0.468,Trade and External
+70c24b18-2adb-4b6c-9110-432fea1336c3,10/30/2026 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+4518ba35-22d3-4a4a-8ad0-eadda61d5e27,10/30/2026 10:00:00,Unemployment Rate (MoM),HIGH,EUR,Release,0.765,Labor Market
+5407216a-38f7-4100-bdec-778acfba1613,11/02/2026 09:00:00,S&P Global Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+ee9653b0-8671-4244-885c-ee7c59c44bbc,11/20/2026 09:00:00,Current Account (YoY),HIGH,EUR,Release,0.468,Trade and External
+78585626-dfe6-4137-b494-ba8efead62fb,11/30/2026 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+35124808-effc-4544-8e98-2bf8b8e7d001,12/01/2026 09:00:00,S&P Global Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+13855db2-c8a7-43ea-a2a2-dabda33f2fa2,12/01/2026 10:00:00,Unemployment Rate (MoM),HIGH,EUR,Release,0.765,Labor Market
+fdc009a3-be90-46a2-878f-0017e23078fd,12/04/2026 10:00:00,Unemployment Rate (QoQ),HIGH,EUR,Release,0.765,Labor Market
+bbd03bb1-615f-48c5-9c6f-a288dee760e1,12/22/2026 09:00:00,Current Account (YoY),HIGH,EUR,Release,0.468,Trade and External
+4d171e07-b939-42a5-a2eb-a1ff4190347c,12/31/2026 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
