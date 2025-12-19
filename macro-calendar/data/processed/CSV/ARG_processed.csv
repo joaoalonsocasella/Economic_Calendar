@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-4ba9a74d-bd25-4334-9de6-b93f5e8d1faf,12/18/2025 19:00:00,Trade Balance (MoM),MEDIUM,ARS,Release,0.11,Trade and External
-333244f5-14c8-48b5-b6d6-5c6dfd8bb570,12/18/2025 19:00:00,Unemployment Rate (QoQ)	,HIGH,ARS,Release,0.18,Labor Market
 8c801f4a-79b2-4dfa-b9da-0d746d659f51,01/02/2026 19:00:00,Tax Revenue (MoM),HIGH,ARS,Release,0.19,Inflation
 ef5c82ac-05d1-45f0-bc59-ec8321554b23,01/07/2026 19:00:00,Industrial Output n.s.a (YoY),HIGH,ARS,Release,0.17,Growth
 79ebc57a-f529-4dda-80e8-a7dadd73eeee,01/14/2026 19:00:00,Consumer Price Index (MoM),HIGH,ARS,Release,0.19,Inflation

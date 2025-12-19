@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-bf05e650-b4bb-4126-90ec-c2d68c7d1178,12/18/2025 12:00:00,BoE Interest Rate Decision,MEDIUM,GBP,Speech,0.13,Monetary Policy
-c62b7768-5dd1-4eee-a11f-281425031fde,12/18/2025 12:00:00,BoE Minutes,HIGH,GBP,Release,0.2,Monetary Policy
-d85ada1e-2ae1-47b2-830b-0d393d64adf9,12/18/2025 12:00:00,BoE Monetary Policy Summary,MEDIUM,GBP,Speech,0.13,Monetary Policy
-8d98019a-da1b-4176-888c-74034620fc68,12/18/2025 12:00:00,BoE MPC Vote Rate Cut,MEDIUM,GBP,Speech,0.13,Monetary Policy
-d473d690-2db7-4786-acc6-94ac53fd41a4,12/18/2025 12:00:00,BoE MPC Vote Rate Hike,MEDIUM,GBP,Speech,0.13,Monetary Policy
-e422f4fd-5896-4124-bea4-24f42f9c7d66,12/18/2025 12:00:00,BoE MPC Vote Rate Unchanged,MEDIUM,GBP,Speech,0.13,Monetary Policy
 f0075c11-9706-4fc0-b46d-7009b2776630,12/19/2025 00:01:00,GfK Consumer Confidence,MEDIUM,GBP,Release,0.14,Confidence
 032f8aab-3666-4d55-b004-3f4eb73b1086,12/19/2025 07:00:00,Public Sector Net Borrowing,LOW,GBP,Release,0.09,Money and Credit
 870408e0-061b-457d-9fc4-8894dff49314,12/19/2025 07:00:00,Retail Sales (MoM),HIGH,GBP,Release,0.17,Growth

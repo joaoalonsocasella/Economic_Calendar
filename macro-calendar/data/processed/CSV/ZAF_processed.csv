@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-c9f295c1-45fd-4ed4-93b6-a616efe4708a,12/18/2025 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
-ddc3c1bc-c237-4ca2-b08f-3a5a71ed9670,12/18/2025 09:30:00,Producer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
 29893517-7d9b-4d79-ae17-57c18ff528e7,12/31/2025 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation
 1edf27b6-adf7-4880-a261-08f501408e34,12/31/2025 06:00:00,Private Sector Credit,LOW,ZAR,Release,0.09,Money and Credit
 3b5abaf7-9bad-4ed3-b19c-4cb8fc917190,12/31/2025 12:00:00,Trade Balance (in Rands),MEDIUM,ZAR,Release,0.11,Trade and External
@@ -82,8 +80,8 @@ d7214701-1593-4c97-9fdc-988952a7aa3e,06/05/2026 06:00:00,Gross $Gold & Forex Res
 a66eb0f5-ba24-4b41-8d42-ead03ee081ed,06/05/2026 06:00:00,Net $Gold & Forex Reserve,LOW,ZAR,Release,0.09,Money and Credit
 a156d1ef-9b9f-48f1-bd9d-b10124658139,06/09/2026 09:30:00,Gross Domestic Product (QoQ),HIGH,ZAR,Release,0.17,Growth
 787f4942-25e2-470e-8818-112e0b5898c4,06/09/2026 09:30:00,Gross Domestic Product (YoY),HIGH,ZAR,Release,0.17,Growth
-e57e20d7-64c9-4d97-90ef-bf13a28f8173,06/10/2026 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
 67daf4e8-bcd2-418f-b6fd-2fc707f108fe,06/10/2026 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
+e57e20d7-64c9-4d97-90ef-bf13a28f8173,06/10/2026 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
 77f80f5b-ce91-489a-b989-7dab87dbfa23,06/11/2026 11:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth
 7a5a3289-f2a3-4578-9a82-b889866b5808,06/17/2026 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
 cbe910df-568b-4751-ba46-1231162d3741,06/17/2026 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
@@ -173,8 +171,8 @@ bf991e13-4cd3-456b-b99e-3c24563eb461,12/08/2026 09:30:00,Gross Domestic Product 
 2af4a02f-80c5-464e-aec5-377ef8af56c2,12/08/2026 09:30:00,Gross Domestic Product (YoY),HIGH,ZAR,Release,0.17,Growth
 93796b50-c4a2-4783-8057-41bff4a1b5f7,12/09/2026 11:00:00,Retail Sales (YoY),HIGH,ZAR,Release,0.17,Growth
 fe2ffaee-03a2-4b3c-961b-e50a586f6fdf,12/10/2026 11:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth
-801cb341-dbf5-4ea0-bfa8-4ec244a972a6,12/11/2026 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
 f88a0700-82c3-4a08-90cf-6802e955b7b3,12/11/2026 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
+801cb341-dbf5-4ea0-bfa8-4ec244a972a6,12/11/2026 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
 d34f9959-b0dc-4375-b189-8dd5ba2dc2b5,12/15/2026 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
 92116dfd-5250-478f-af78-b9aa7473edae,12/15/2026 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
 d3b39209-c197-445d-8056-c4f5fa7b1af6,12/17/2026 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
