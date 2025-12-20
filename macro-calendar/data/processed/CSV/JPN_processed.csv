@@ -1,19 +1,15 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-904537a1-46af-4a1a-b862-152efe9cd804,12/19/2025 03:20:00,BoJ Interest Rate Decision,HIGH,JPY,Release,0.2,Monetary Policy
-2d648408-7f20-4e3f-abc7-6e108dc5c366,12/19/2025 03:20:00,BoJ Monetary Policy Statement,MEDIUM,JPY,Speech,0.13,Monetary Policy
-6a053440-7da9-4c42-a124-59539d94ed11,12/19/2025 06:30:00,BoJ Press Conference,MEDIUM,JPY,Speech,0.13,Monetary Policy
-cc445c8b-da80-4efa-9158-1d83fdedee6c,12/19/2025 20:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
 1c37156e-6494-418b-91f5-795a7e00b0aa,12/23/2025 20:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
 7cab52c2-6040-4d8b-9219-bfd4da2b36fe,12/23/2025 23:50:00,BoJ Monetary Policy Meeting Minutes,MEDIUM,JPY,Speech,0.13,Monetary Policy
 6009c763-1ce4-42e0-8c0a-83fff901cb03,12/23/2025 23:50:00,Corporate Service Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
 85b2d529-48a6-49d1-ae5e-a822d1d3efe9,12/24/2025 05:00:00,Coincident Index,MEDIUM,JPY,Release,0.11,Trade and External
 6fe0528f-d026-4e34-9118-1dff0fc914b0,12/24/2025 05:00:00,Construction Orders (YoY),HIGH,JPY,Release,0.17,Growth
+d0617d54-d041-421f-bc86-f404a76ab62c,12/24/2025 05:00:00,Leading Economic Index,MEDIUM,JPY,Release,0.14,Confidence
 6764989a-4ac1-4f65-be14-6d024ce338a8,12/24/2025 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth
 d2d56005-c7ef-444f-b51d-ced5c1c1f703,12/24/2025 23:50:00,Foreign Investment in Japan Stocks,HIGH,JPY,Release,0.17,Growth
 22c249f5-066b-45bd-a0a6-ab01ef62e5b6,12/25/2025 03:00:00,BoJ Governor Ueda speech,MEDIUM,JPY,Speech,0.13,Monetary Policy
 d96218ee-e3ee-4ba6-af03-e1fd0ba4315e,12/25/2025 05:00:00,Annualized Housing Starts,LOW,JPY,Release,0.07,Housing
 80a518b0-4406-4e3c-9bcc-b26dcf93a999,12/25/2025 05:00:00,Housing Starts (YoY),LOW,JPY,Release,0.07,Housing
-d0617d54-d041-421f-bc86-f404a76ab62c,12/25/2025 05:00:00,Leading Economic Index,MEDIUM,JPY,Release,0.14,Confidence
 c6fb9565-6999-4d9f-855d-79e022c63502,12/25/2025 23:30:00,Jobs / Applicants Ratio,HIGH,JPY,Release,0.18,Labor Market
 50290ca6-6ecf-47aa-bd63-fd8a512b0951,12/25/2025 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
 fac3af20-ed21-4acf-8ec5-5e83e3fe5012,12/25/2025 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY,Release,0.19,Inflation

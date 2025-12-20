@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-f92c7ea8-8046-46d3-94fa-9ed1f4df5b24,12/19/2025 08:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
-2e6a7dcd-8f6a-4baf-9cd8-ce33f73ebc8b,12/19/2025 09:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
 0e45d8e4-25db-4ff5-aa4a-c71b4657e688,01/09/2026 08:00:00,Foreign Trade Balance,HIGH,EUR,Release,0.468,Trade and External
 63823824-0348-40c5-8609-0a0ed9b51122,01/09/2026 08:00:00,Industrial Output (YoY),HIGH,EUR,Release,0.722,Growth
 8cde12ac-f0f2-46af-a7f1-1e9c9625953f,01/15/2026 08:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation

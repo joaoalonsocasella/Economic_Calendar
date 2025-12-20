@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-21e9ac7e-eba6-4119-bf7a-47385d400650,12/19/2025 09:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
-87523891-f739-4434-8d33-fe2b73236579,12/19/2025 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
-846785bc-cf38-4464-ae8b-87627a57e9ef,12/19/2025 10:00:00,Industrial Sales n.s.a. (YoY),HIGH,EUR,Release,0.722,Growth
-11059421-ad5b-4eaf-9cba-981eccf8f909,12/19/2025 10:00:00,Industrial Sales s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 e2553418-b85c-4dec-8b99-deb3e4cd81e1,12/22/2025 10:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 2b7acbb7-e3b1-4d53-9b84-b5ceafe09702,12/22/2025 10:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 6a388c69-3079-4b11-84b0-4903ae88ef89,12/23/2025 09:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External

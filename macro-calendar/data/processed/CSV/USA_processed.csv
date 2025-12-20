@@ -1,14 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-4a7328b0-47ed-4c60-9fed-f6b3060929bd,12/19/2025 15:00:00,Existing Home Sales (MoM),LOW,USD,Release,0.07,Housing
-21bb102e-f140-4a80-8d3d-0ec8ededfb44,12/19/2025 15:00:00,Existing Home Sales Change (MoM),LOW,USD,Release,0.07,Housing
-79a11d3f-b5cc-4edd-bdd4-b7547cab164e,12/19/2025 15:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
-c8185ba8-1ad0-45b6-9ba3-489b159d7260,12/19/2025 15:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
-d65f09fd-d0df-4388-be2b-4c3a34e0f76c,12/19/2025 15:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
-1dd371c5-aa7d-4775-807b-67932a425c6e,12/19/2025 15:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
-3343acdb-108b-466b-bdc9-183bfbc4f898,12/19/2025 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
-ae6c7464-8069-4b9d-9774-4ca5524224f6,12/19/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-b08dcb78-1b19-439c-872c-e8d8a657a4a4,12/19/2025 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-34dc7424-7201-4c47-b850-0577024b5ac7,12/19/2025 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+27e4dbfc-d17e-4aa7-a349-d0b183f97f00,12/22/2025 13:30:00,Chicago Fed National Activity Index ,HIGH,USD,Release,0.17,Growth
 ac12dbd4-dca4-459d-affc-0d9a37b52de3,12/22/2025 16:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 5f4e9c3e-7a93-4d69-bea0-806f82dfef7b,12/22/2025 16:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 bf6f5ac6-4000-4b0f-84eb-f66c247646ce,12/22/2025 18:00:00,2-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
@@ -44,7 +35,6 @@ f2ceb070-4b81-488c-85f5-cc4b6b7df22a,12/24/2025 15:30:00,EIA Crude Oil Stocks Ch
 1abf778b-f640-455f-9f85-0f502a678ce9,12/24/2025 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 33cde54a-0689-4de5-82ad-214dbe8b488e,12/24/2025 17:00:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 9aa0d79d-06f2-4c8f-b8fb-32b48a668dad,12/24/2025 18:00:00,7-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-27e4dbfc-d17e-4aa7-a349-d0b183f97f00,12/25/2025 13:30:00,Chicago Fed National Activity Index ,HIGH,USD,Release,0.17,Growth
 9cf83bfa-af82-4e86-bfa8-3f75c50f079f,12/29/2025 15:00:00,Pending Home Sales (MoM),LOW,USD,Release,0.07,Housing
 c2ea34da-3e9d-45d0-a821-7c00cd9a742b,12/29/2025 15:00:00,Pending Home Sales (YoY),LOW,USD,Release,0.07,Housing
 14986560-44bb-4d20-a863-863e2fd4e7e9,12/29/2025 15:30:00,Dallas Fed Manufacturing Business Index,MEDIUM,USD,Release,0.14,Confidence
