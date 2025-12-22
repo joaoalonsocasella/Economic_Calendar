@@ -22,7 +22,6 @@ c7c755bc-040d-4d5f-b23d-ab36d343fe80,12/23/2025 14:15:05,Capacity Utilization,HI
 5bab7dfe-d766-44fe-9932-9ca0863c168f,12/23/2025 15:00:00,Richmond Fed Manufacturing Index,HIGH,USD,Release,0.17,Growth
 737c822d-f754-44f9-83eb-59dbcdbf973f,12/23/2025 16:30:00,52-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 b347105c-16e3-4fbe-8185-8acd1d82f74f,12/23/2025 18:00:00,5-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-b05f589c-d575-46ef-b859-cc24ea91724a,12/23/2025 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
 5fa70f2e-6393-41bf-9561-6de2606d6872,12/23/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 6f33f0c0-4c47-4642-8f69-51327288ceba,12/23/2025 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 16030093-9a07-4473-9d5d-5fa7a7b0c40d,12/23/2025 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
@@ -35,6 +34,7 @@ f2ceb070-4b81-488c-85f5-cc4b6b7df22a,12/24/2025 15:30:00,EIA Crude Oil Stocks Ch
 1abf778b-f640-455f-9f85-0f502a678ce9,12/24/2025 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 33cde54a-0689-4de5-82ad-214dbe8b488e,12/24/2025 17:00:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 9aa0d79d-06f2-4c8f-b8fb-32b48a668dad,12/24/2025 18:00:00,7-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
+b05f589c-d575-46ef-b859-cc24ea91724a,12/26/2025 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
 9cf83bfa-af82-4e86-bfa8-3f75c50f079f,12/29/2025 15:00:00,Pending Home Sales (MoM),LOW,USD,Release,0.07,Housing
 c2ea34da-3e9d-45d0-a821-7c00cd9a742b,12/29/2025 15:00:00,Pending Home Sales (YoY),LOW,USD,Release,0.07,Housing
 14986560-44bb-4d20-a863-863e2fd4e7e9,12/29/2025 15:30:00,Dallas Fed Manufacturing Business Index,MEDIUM,USD,Release,0.14,Confidence
@@ -61,6 +61,7 @@ c5675a96-b587-4d7e-a344-e0ad61168288,01/02/2026 14:45:00,S&P Global Manufacturin
 a5cec9e5-cfda-4779-a2ad-fe66b5a89148,01/02/2026 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
 fc257db0-57f5-42f5-a75c-560350b77a55,01/03/2026 15:15:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 f6e11b51-63c2-4bcb-b23d-3a6109eaea30,01/03/2026 17:30:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+2952caf8-7fbe-4381-be8d-ae4d0e6cc8bb,01/04/2026 17:30:00,Fed's Kashkari speech,HIGH,USD,Release,0.2,Monetary Policy
 b8461fdc-6f24-4a23-9446-9bf8e61ac56c,01/05/2026 15:00:00,Factory Orders (MoM),HIGH,USD,Release,0.17,Growth
 cb1e155f-49d8-4595-b6fe-47a4290abd15,01/05/2026 15:00:00,ISM Manufacturing Employment Index,HIGH,USD,Release,0.18,Labor Market
 773a23a2-fbe5-49d4-9495-b92711d6407c,01/05/2026 15:00:00,ISM Manufacturing New Orders Index,HIGH,USD,Release,0.17,Growth
