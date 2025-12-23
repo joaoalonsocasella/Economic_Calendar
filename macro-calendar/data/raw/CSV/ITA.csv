@@ -1,22 +1,20 @@
 Id,Start,Name,Impact,Currency
-e2553418-b85c-4dec-8b99-deb3e4cd81e1,12/22/2025 10:00:00,Producer Price Index (MoM),LOW,EUR
-2b7acbb7-e3b1-4d53-9b84-b5ceafe09702,12/22/2025 10:00:00,Producer Price Index (YoY),LOW,EUR
 6a388c69-3079-4b11-84b0-4903ae88ef89,12/23/2025 09:00:00,Trade Balance non-EU,LOW,EUR
 ebb67c7c-edbb-44a1-9a38-01ab2712bc8f,12/30/2025 10:30:00,10-y Bond Auction,LOW,EUR
 ac21fc03-7268-4525-8cc1-e4b35749ef63,12/30/2025 10:30:00,5-y Bond Auction,LOW,EUR
 a71f2751-d594-4c7c-86c9-0d0f8bf27ab4,01/02/2026 08:45:00,HCOB Manufacturing PMI,MEDIUM,EUR
 0ac9a333-95b7-4203-a291-ea06d69428c3,01/06/2026 08:45:00,HCOB Services PMI,LOW,EUR
-78b10d7d-3639-442a-895a-161c8c291eee,01/06/2026 09:00:00,Public Deficit/GDP,LOW,EUR
-90be43c1-c179-407b-9a98-9b081ba0d3f6,01/06/2026 10:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
-f6cc418a-a988-4d01-a2bc-c7656cbcc60e,01/06/2026 10:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
-9d8b6094-381a-40ff-9440-2b7a6e7719ae,01/06/2026 10:00:00,Consumer Price Index (MoM),LOW,EUR
-5d5d3041-8984-46ae-bffa-d59baa41f614,01/06/2026 10:00:00,Consumer Price Index (YoY),MEDIUM,EUR
-da4eb025-9eaa-48d8-9bd3-677364696525,01/08/2026 09:00:00,Retail Sales n.s.a (YoY),LOW,EUR
-9d01a8e8-b3f0-41dd-a8e3-f4032ed2cae3,01/08/2026 09:00:00,Retail Sales s.a. (MoM),LOW,EUR
+78b10d7d-3639-442a-895a-161c8c291eee,01/07/2026 09:00:00,Public Deficit/GDP,LOW,EUR
+90be43c1-c179-407b-9a98-9b081ba0d3f6,01/07/2026 10:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+f6cc418a-a988-4d01-a2bc-c7656cbcc60e,01/07/2026 10:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+9d8b6094-381a-40ff-9440-2b7a6e7719ae,01/07/2026 10:00:00,Consumer Price Index (MoM),LOW,EUR
+5d5d3041-8984-46ae-bffa-d59baa41f614,01/07/2026 10:00:00,Consumer Price Index (YoY),MEDIUM,EUR
 63eef3f1-9e8a-4bbe-b396-859fd52b43b9,01/08/2026 09:00:00,Unemployment,LOW,EUR
-873a3a3d-e648-4d1c-91a7-27a5f3ddcdb4,01/09/2026 09:00:00,Industrial Output s.a. (MoM),LOW,EUR
-9cc7d973-1003-48ba-a0ea-08d63e5c2f5e,01/09/2026 09:00:00,Industrial Output w.d.a (YoY),LOW,EUR
+da4eb025-9eaa-48d8-9bd3-677364696525,01/09/2026 09:00:00,Retail Sales n.s.a (YoY),LOW,EUR
+9d01a8e8-b3f0-41dd-a8e3-f4032ed2cae3,01/09/2026 09:00:00,Retail Sales s.a. (MoM),LOW,EUR
 2b7babdd-4f84-495a-8733-aa2f8e40e165,01/15/2026 09:00:00,Global Trade Balance,LOW,EUR
+873a3a3d-e648-4d1c-91a7-27a5f3ddcdb4,01/15/2026 09:00:00,Industrial Output s.a. (MoM),LOW,EUR
+9cc7d973-1003-48ba-a0ea-08d63e5c2f5e,01/15/2026 09:00:00,Industrial Output w.d.a (YoY),LOW,EUR
 729078cb-ff9f-4bb8-8dfe-3a7186af2ed5,01/15/2026 09:00:00,Trade Balance EU,LOW,EUR
 642d0867-99f2-4a10-bb4d-117fb5ba3317,01/16/2026 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
 b5911769-107a-464f-a238-0be45602d7e1,01/16/2026 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR

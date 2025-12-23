@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-67af8eae-264b-43a1-9fbb-9cf8f3979457,12/22/2025 07:00:00,Current Account,MEDIUM,GBP,Release,0.11,Trade and External
-e3137b23-5a98-4f91-ae6d-6726b2abcbee,12/22/2025 07:00:00,Gross Domestic Product (QoQ),HIGH,GBP,Release,0.17,Growth
-654e4c00-fe63-4ea0-8374-63a760970af4,12/22/2025 07:00:00,Gross Domestic Product (YoY),HIGH,GBP,Release,0.17,Growth
-0ef350bb-19b8-41c3-981b-efda7425f44c,12/22/2025 07:00:00,Total Business Investment (QoQ),HIGH,GBP,Release,0.17,Growth
-3f7744eb-c14d-409f-b3fd-1224cd79ad6e,12/22/2025 07:00:00,Total Business Investment (YoY),HIGH,GBP,Release,0.17,Growth
 50c357f6-a50f-498b-a8cf-df1680c79554,12/23/2025 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 caeb18c0-b156-43ca-ab12-a90c2d9530e4,12/29/2025 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 50a1a39a-e832-4a1d-97d2-da4e570c4042,01/02/2026 07:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP,Release,0.07,Housing
@@ -15,12 +10,12 @@ caeb18c0-b156-43ca-ab12-a90c2d9530e4,12/29/2025 20:30:00,CFTC GBP NC Net Positio
 a4862c78-d1ab-402e-935e-fc67fbfd8c79,01/05/2026 09:30:00,Mortgage Approvals,LOW,GBP,Release,0.07,Housing
 40f0a436-3a92-4ba3-8acc-68446a1b11d5,01/05/2026 09:30:00,Net Lending to Individuals (MoM),MEDIUM,GBP,Release,0.11,Trade and External
 86ea7915-e5c7-44c9-882b-341576889fda,01/06/2026 00:01:00,BRC Shop Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
+a8710486-e061-4153-84ca-0eb2c98da271,01/06/2026 09:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
+fda39157-1be4-4d02-a0b0-de3f1201be4c,01/06/2026 09:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
 78397dba-e67f-48bf-a01b-3d15fc280e77,01/06/2026 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
-a8710486-e061-4153-84ca-0eb2c98da271,01/07/2026 09:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
-fda39157-1be4-4d02-a0b0-de3f1201be4c,01/07/2026 09:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
+92547b6f-82f7-43c4-b0f0-2cc43dc9574d,01/07/2026 09:30:00,S&P Global Construction PMI,HIGH,GBP,Release,0.17,Growth
 f96d1ed2-a64d-4136-b125-91d1f34f4341,01/08/2026 07:00:00,Halifax House Prices (MoM),LOW,GBP,Release,0.07,Housing
 2c642755-3d2c-41e1-8792-0343bbbda475,01/08/2026 07:00:00,Halifax House Prices (YoY/3m),LOW,GBP,Release,0.07,Housing
-92547b6f-82f7-43c4-b0f0-2cc43dc9574d,01/08/2026 09:30:00,S&P Global Construction PMI,HIGH,GBP,Release,0.17,Growth
 076f2f05-39a9-480b-afbb-9ecc1bd6ed49,01/09/2026 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 920bbedc-f244-4dd9-a1c5-f24239df308a,01/13/2026 00:01:00,BRC Like-For-Like Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
 300f4cf9-2fb7-4195-b662-2bfc1b84b938,01/13/2026 07:00:00,Average Earnings Excluding Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market

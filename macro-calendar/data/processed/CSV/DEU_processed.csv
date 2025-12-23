@@ -4,8 +4,6 @@
 77e776ff-7507-4ee6-be6a-5d152e4fca0e,01/02/2026 08:55:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 c45229cd-f987-4954-afd5-0130aba9c4ca,01/06/2026 08:55:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 ad9da27a-61d9-404b-a4ae-30d152a5c73a,01/06/2026 08:55:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
-800faaed-ecc3-470e-afc3-24ae954a4a78,01/06/2026 08:55:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
-7e7cdcce-6d20-4d89-bec6-6ddd5261e89f,01/06/2026 08:55:00,Unemployment Rate s.a.,HIGH,EUR,Release,0.765,Labor Market
 d2369bcb-de2b-4dff-bf41-9392704a15f9,01/06/2026 09:00:00,Baden-Wuerttemberg CPI (MoM),HIGH,EUR,Release,0.807,Inflation
 d5a46912-f7a0-4762-9057-5ab7dc227501,01/06/2026 09:00:00,Baden-Wuerttemberg CPI (YoY),HIGH,EUR,Release,0.807,Inflation
 73a107a5-82d1-462d-b866-7836dbf7ff90,01/06/2026 09:00:00,Bavaria CPI (MoM),HIGH,EUR,Release,0.807,Inflation
@@ -22,10 +20,13 @@ fa54f7e4-9495-4414-aefc-7dfdd82c62f7,01/06/2026 09:00:00,Saxony CPI (MoM),HIGH,E
 926274c0-1945-462e-b86b-c8c48b9082cc,01/06/2026 13:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 49331d5e-d191-4f0f-a1a2-55a6264bd003,01/06/2026 13:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 4ed3cea5-ae31-40e2-b367-44000687d529,01/06/2026 13:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+48d92fbb-de3e-45e8-8f06-224182ba76ca,01/07/2026 07:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
+59e4c87f-ebfb-4163-8fe8-509d9253a173,01/07/2026 07:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+800faaed-ecc3-470e-afc3-24ae954a4a78,01/07/2026 08:55:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
+7e7cdcce-6d20-4d89-bec6-6ddd5261e89f,01/07/2026 08:55:00,Unemployment Rate s.a.,HIGH,EUR,Release,0.765,Labor Market
+eda1e98d-cb82-49e3-a6f0-c7b678a5959c,01/07/2026 10:30:00,10-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 8748065b-5ab4-44e6-8cb4-2e935c4ed25f,01/08/2026 07:00:00,Factory Orders n.s.a. (YoY),HIGH,EUR,Release,0.722,Growth
 ae91a129-8c87-4a6c-b72d-07d7c470076f,01/08/2026 07:00:00,Factory Orders s.a. (MoM),HIGH,EUR,Release,0.722,Growth
-48d92fbb-de3e-45e8-8f06-224182ba76ca,01/08/2026 07:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
-59e4c87f-ebfb-4163-8fe8-509d9253a173,01/08/2026 07:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 8a58488a-0cbe-42af-abee-ec9347bd7049,01/09/2026 07:00:00,Exports (MoM),HIGH,EUR,Release,0.468,Trade and External
 c08cdf57-8235-4938-910e-23ff58ee06ad,01/09/2026 07:00:00,Imports (MoM),HIGH,EUR,Release,0.468,Trade and External
 ce1501f1-c0dc-42f1-9a11-ef528c72070a,01/09/2026 07:00:00,Industrial Production n.s.a. w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth

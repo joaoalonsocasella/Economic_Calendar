@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-27e4dbfc-d17e-4aa7-a349-d0b183f97f00,12/22/2025 13:30:00,Chicago Fed National Activity Index ,HIGH,USD,Release,0.17,Growth
-ac12dbd4-dca4-459d-affc-0d9a37b52de3,12/22/2025 16:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
-5f4e9c3e-7a93-4d69-bea0-806f82dfef7b,12/22/2025 16:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
-bf6f5ac6-4000-4b0f-84eb-f66c247646ce,12/22/2025 18:00:00,2-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 770b33f6-29bf-42f6-a36d-053aa737e41a,12/23/2025 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 f690b8b9-01d2-40f4-a20c-457110be69f1,12/23/2025 13:30:00,Core Personal Consumption Expenditures (QoQ),HIGH,USD,Release,0.17,Growth
 e237df35-c0a0-4093-b0e1-7b0b07ecb37d,12/23/2025 13:30:00,Current Account,MEDIUM,USD,Release,0.11,Trade and External
@@ -70,12 +66,9 @@ b1c30b4d-77a7-41cf-b026-9b5d656bdd2e,01/05/2026 15:00:00,ISM Manufacturing PMI,H
 3c1fd201-4d60-4d28-ad10-32197bd92b07,01/05/2026 16:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 ea3fac33-20ed-4b33-bd86-c719b67d8710,01/05/2026 16:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 67811d1d-5f6f-4151-b451-56db20677c66,01/05/2026 20:30:00,Total Vehicle Sales,HIGH,USD,Release,0.17,Growth
-25f1e7fc-aa6f-4d04-bd0c-57d5d8abede1,01/06/2026 13:30:00,Goods and Services Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
-df658b9f-e9c0-451e-973f-e425e44f8470,01/06/2026 13:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 93963afd-41f9-4e45-aa00-bf5310fea50b,01/06/2026 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 4e2ac217-c99d-4d22-bdb5-a48f8ee0b389,01/06/2026 14:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
 7a986231-00a7-4a20-bf8b-d9557314c281,01/06/2026 14:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
-46e493b5-e3ac-4dc5-8fea-4b297933d081,01/06/2026 15:00:00,JOLTS Job Openings,HIGH,USD,Release,0.18,Labor Market
 e4f58e26-47fc-4add-a192-5d0daa8f18ea,01/06/2026 18:00:00,3-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 efed916c-bc6b-4b21-9a54-08c7df5efc6e,01/06/2026 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 ad2faa02-7c55-4399-ab70-f78553503e37,01/06/2026 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
@@ -87,11 +80,13 @@ fd415c65-6883-4e7c-b450-8f72a5a117a1,01/07/2026 15:00:00,ISM Services Employment
 43b8e5f4-e9e2-42de-9752-a25b180fde04,01/07/2026 15:00:00,ISM Services New Orders Index,HIGH,USD,Release,0.17,Growth
 2d572c3f-78e1-4cb9-bf11-74b44662f270,01/07/2026 15:00:00,ISM Services PMI,HIGH,USD,Release,0.17,Growth
 e6b57ff5-63fe-463c-b539-074a4489c815,01/07/2026 15:00:00,ISM Services Prices Paid,MEDIUM,USD,Release,0.14,Confidence
+46e493b5-e3ac-4dc5-8fea-4b297933d081,01/07/2026 15:00:00,JOLTS Job Openings,HIGH,USD,Release,0.18,Labor Market
 fef52615-e617-40b0-b507-5d3d699c58b3,01/07/2026 15:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
 42aed6e1-9f91-4fca-b363-2dab77c5924a,01/07/2026 18:00:00,10-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-e3c422af-b91d-44f6-8395-f995e7574d49,01/07/2026 20:00:00,Consumer Credit Change,MEDIUM,USD,Release,0.14,Confidence
 6002016a-32bc-4f53-91df-646e02eca98d,01/08/2026 12:30:00,Challenger Job Cuts,HIGH,USD,Release,0.18,Labor Market
 987f5102-2142-427d-b420-41630aa45b0f,01/08/2026 13:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
+25f1e7fc-aa6f-4d04-bd0c-57d5d8abede1,01/08/2026 13:30:00,Goods and Services Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
+df658b9f-e9c0-451e-973f-e425e44f8470,01/08/2026 13:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 e942e378-3b7f-4c3f-8b36-1545ca2c3804,01/08/2026 13:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 91a1bb1d-6ebb-4a61-a4ed-324b1be24722,01/08/2026 13:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
 fe8fb799-825d-4d85-8af5-6b341b801b4e,01/08/2026 13:30:00,Nonfarm Productivity,HIGH,USD,Release,0.18,Labor Market
@@ -99,14 +94,22 @@ b2a137aa-292b-451f-9664-05b685769476,01/08/2026 13:30:00,Unit Labor Costs,HIGH,U
 dcf8d439-60a2-447a-b897-10ce3c1fe46a,01/08/2026 15:00:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
 5740e665-e60a-48b0-bb39-90a552020403,01/08/2026 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 351d23f2-c488-47fe-9ba2-e07855bd5355,01/08/2026 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
-e6bfd714-180d-45bd-a962-4be759890fe7,01/08/2026 18:00:00,30-Year Bond Auction,LOW,USD,Release,0.09,Money and Credit
+e3c422af-b91d-44f6-8395-f995e7574d49,01/08/2026 20:00:00,Consumer Credit Change,MEDIUM,USD,Release,0.14,Confidence
 6a5032d1-9706-4fec-bb67-d91cd4f177b5,01/09/2026 13:30:00,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market
 40e1d4ab-bc43-4d85-82c1-6f1b4eaafdf0,01/09/2026 13:30:00,Average Hourly Earnings (YoY),HIGH,USD,Release,0.18,Labor Market
 96bb3663-49f9-40ca-883d-5c7d9b175132,01/09/2026 13:30:00,Average Weekly Hours,HIGH,USD,Release,0.18,Labor Market
+5bfffe6f-1ac5-4008-98f3-0ff63c04d53f,01/09/2026 13:30:00,Building Permits (MoM),LOW,USD,Release,0.07,Housing
+63377aa1-9585-47c7-ad4b-8c6a0a6d5c65,01/09/2026 13:30:00,Building Permits Change,LOW,USD,Release,0.07,Housing
+ad814a66-2a8b-4874-979a-15b8a259a3a9,01/09/2026 13:30:00,Housing Starts (MoM),LOW,USD,Release,0.07,Housing
+33a5c798-63b2-4c89-904a-9376707a2fa5,01/09/2026 13:30:00,Housing Starts Change,LOW,USD,Release,0.07,Housing
 d9b91b2d-6d67-4e88-86dd-464073916549,01/09/2026 13:30:00,Labor Force Participation Rate,HIGH,USD,Release,0.18,Labor Market
 b5ca800d-5869-43a8-83d5-67b83bc35c72,01/09/2026 13:30:00,Nonfarm Payrolls,HIGH,USD,Release,0.18,Labor Market
 d44e0e19-855c-4e00-a3f9-edefa7eaa8d0,01/09/2026 13:30:00,U6 Underemployment Rate,HIGH,USD,Release,0.2,Monetary Policy
 bd4c2d18-ea0e-4c25-a60c-4eecaca93780,01/09/2026 13:30:00,Unemployment Rate,HIGH,USD,Release,0.18,Labor Market
+d962dfd5-8740-4ad2-aea6-1f7d2d2d307c,01/09/2026 13:30:05,Building Permits (MoM),LOW,USD,Release,0.07,Housing
+b8b1efd6-73c6-4fde-b449-6dc1313fad2a,01/09/2026 13:30:05,Building Permits Change,LOW,USD,Release,0.07,Housing
+a87d46a8-e95c-4849-b03f-1235fbdad006,01/09/2026 13:30:05,Housing Starts (MoM),LOW,USD,Release,0.07,Housing
+cfbc8821-a24f-462d-94fa-fea0bbaa565e,01/09/2026 13:30:05,Housing Starts Change,LOW,USD,Release,0.07,Housing
 297d88be-84d6-4fb9-8f17-e04ae32ca94f,01/09/2026 15:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
 93937022-4c92-4ab3-bb0b-948b87413138,01/09/2026 15:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
 9386d5cd-df2a-4b96-a7f0-672c85d83a41,01/09/2026 15:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
@@ -120,7 +123,12 @@ e5196e46-74b0-41f2-8a1c-4a4b2a5f5509,01/12/2026 16:30:00,6-Month Bill Auction,LO
 52c163f0-d5f0-49fc-b6cd-8eebab5a2a68,01/12/2026 19:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
 1318d8a0-3a1e-4e32-b050-ea1a214d6247,01/13/2026 11:00:00,NFIB Business Optimism Index,MEDIUM,USD,Release,0.14,Confidence
 eb02a2b8-a596-4e07-b73c-8807e215717c,01/13/2026 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
+cbc911eb-e516-4488-b56d-0176e894cc76,01/13/2026 15:00:00,New Home Sales (MoM),LOW,USD,Release,0.07,Housing
+3f318227-6903-4964-841a-034d35f5118b,01/13/2026 15:00:00,New Home Sales Change (MoM),LOW,USD,Release,0.07,Housing
 7e665324-5e1d-4289-aef7-3b21ab3466cc,01/13/2026 15:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),HIGH,USD,Release,0.19,Inflation
+59d09966-4c3c-4b4d-a4b6-286c33d37e41,01/13/2026 15:00:05,New Home Sales (MoM),LOW,USD,Release,0.07,Housing
+31b873af-9e16-4a6c-af1b-65583d8c95fe,01/13/2026 15:00:05,New Home Sales Change (MoM),LOW,USD,Release,0.07,Housing
+e6bfd714-180d-45bd-a962-4be759890fe7,01/13/2026 18:00:00,30-Year Bond Auction,LOW,USD,Release,0.09,Money and Credit
 79bde6e5-9409-4648-8da7-7b11deafe7b8,01/13/2026 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 a7f7b4db-4f92-4cff-a67b-c2bc2b7b862e,01/13/2026 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 05013589-c14d-404c-ac25-c6c47fbef806,01/13/2026 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
@@ -130,6 +138,10 @@ bf91c785-bb72-4d8f-a540-27b324002c6c,01/14/2026 13:30:00,Producer Price Index (M
 e5aabd6b-1b79-42c3-a15d-9f621fcc7bae,01/14/2026 13:30:00,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 da750f6f-30cf-4b0a-9e3d-431f2ab951b8,01/14/2026 13:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
 cc624134-6312-4610-877e-b7fbfae3b9bb,01/14/2026 13:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
+6210a9cb-3069-4ff7-a686-4df2beae0e63,01/14/2026 13:30:00,Retail Sales (MoM),HIGH,USD,Release,0.17,Growth
+896cc9a9-9d57-468b-acd5-deb870d889b6,01/14/2026 13:30:00,Retail Sales (YoY),HIGH,USD,Release,0.17,Growth
+3fec0ee2-d829-48ab-ac06-91603347f29e,01/14/2026 13:30:00,Retail Sales Control Group,HIGH,USD,Release,0.17,Growth
+4c4082b9-b3ad-49d8-b021-96c31459928b,01/14/2026 13:30:00,Retail Sales ex Autos (MoM),HIGH,USD,Release,0.17,Growth
 29f120e0-36f5-451f-8725-8c0caa1f8546,01/14/2026 13:30:05,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 fb0962cc-1903-472f-82e8-b202eb31a784,01/14/2026 13:30:05,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 05c7435b-7365-4853-852d-b9fc586f48de,01/14/2026 13:30:05,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
@@ -151,10 +163,6 @@ aa644803-fe6b-430c-af17-60f5fdf78a5c,01/15/2026 13:30:00,Import Price Index (YoY
 36147986-9871-48c3-a44e-838934aa7d44,01/15/2026 13:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
 36134c9a-83f9-41b5-a30a-e4eefa51773b,01/15/2026 13:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
 b51c6ae7-1b5e-40f0-96b4-fbd499cff95a,01/15/2026 13:30:00,Philadelphia Fed Manufacturing Survey,HIGH,USD,Release,0.17,Growth
-6210a9cb-3069-4ff7-a686-4df2beae0e63,01/15/2026 13:30:00,Retail Sales (MoM),HIGH,USD,Release,0.17,Growth
-896cc9a9-9d57-468b-acd5-deb870d889b6,01/15/2026 13:30:00,Retail Sales (YoY),HIGH,USD,Release,0.17,Growth
-3fec0ee2-d829-48ab-ac06-91603347f29e,01/15/2026 13:30:00,Retail Sales Control Group,HIGH,USD,Release,0.17,Growth
-4c4082b9-b3ad-49d8-b021-96c31459928b,01/15/2026 13:30:00,Retail Sales ex Autos (MoM),HIGH,USD,Release,0.17,Growth
 c2e68a36-3d54-46f0-b12d-a6ac24b62d15,01/15/2026 15:00:00,Business Inventories,HIGH,USD,Release,0.17,Growth
 ced9dea9-8e64-44f5-8c58-62268e7da014,01/15/2026 15:00:00,NAHB Housing Market Index,LOW,USD,Release,0.07,Housing
 8d82e8bf-84f7-4772-9779-901fdcfbf8c4,01/15/2026 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market

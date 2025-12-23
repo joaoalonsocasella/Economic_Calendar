@@ -4,8 +4,6 @@ Id,Start,Name,Impact,Currency
 77e776ff-7507-4ee6-be6a-5d152e4fca0e,01/02/2026 08:55:00,HCOB Manufacturing PMI,MEDIUM,EUR
 c45229cd-f987-4954-afd5-0130aba9c4ca,01/06/2026 08:55:00,HCOB Composite PMI,MEDIUM,EUR
 ad9da27a-61d9-404b-a4ae-30d152a5c73a,01/06/2026 08:55:00,HCOB Services PMI,MEDIUM,EUR
-800faaed-ecc3-470e-afc3-24ae954a4a78,01/06/2026 08:55:00,Unemployment Change,MEDIUM,EUR
-7e7cdcce-6d20-4d89-bec6-6ddd5261e89f,01/06/2026 08:55:00,Unemployment Rate s.a.,MEDIUM,EUR
 d2369bcb-de2b-4dff-bf41-9392704a15f9,01/06/2026 09:00:00,Baden-Wuerttemberg CPI (MoM),LOW,EUR
 d5a46912-f7a0-4762-9057-5ab7dc227501,01/06/2026 09:00:00,Baden-Wuerttemberg CPI (YoY),LOW,EUR
 73a107a5-82d1-462d-b866-7836dbf7ff90,01/06/2026 09:00:00,Bavaria CPI (MoM),LOW,EUR
@@ -22,10 +20,13 @@ fa54f7e4-9495-4414-aefc-7dfdd82c62f7,01/06/2026 09:00:00,Saxony CPI (MoM),LOW,EU
 926274c0-1945-462e-b86b-c8c48b9082cc,01/06/2026 13:00:00,Consumer Price Index (YoY),HIGH,EUR
 49331d5e-d191-4f0f-a1a2-55a6264bd003,01/06/2026 13:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 4ed3cea5-ae31-40e2-b367-44000687d529,01/06/2026 13:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+48d92fbb-de3e-45e8-8f06-224182ba76ca,01/07/2026 07:00:00,Retail Sales (MoM),MEDIUM,EUR
+59e4c87f-ebfb-4163-8fe8-509d9253a173,01/07/2026 07:00:00,Retail Sales (YoY),HIGH,EUR
+800faaed-ecc3-470e-afc3-24ae954a4a78,01/07/2026 08:55:00,Unemployment Change,MEDIUM,EUR
+7e7cdcce-6d20-4d89-bec6-6ddd5261e89f,01/07/2026 08:55:00,Unemployment Rate s.a.,MEDIUM,EUR
+eda1e98d-cb82-49e3-a6f0-c7b678a5959c,01/07/2026 10:30:00,10-y Bond Auction,LOW,EUR
 8748065b-5ab4-44e6-8cb4-2e935c4ed25f,01/08/2026 07:00:00,Factory Orders n.s.a. (YoY),MEDIUM,EUR
 ae91a129-8c87-4a6c-b72d-07d7c470076f,01/08/2026 07:00:00,Factory Orders s.a. (MoM),MEDIUM,EUR
-48d92fbb-de3e-45e8-8f06-224182ba76ca,01/08/2026 07:00:00,Retail Sales (MoM),MEDIUM,EUR
-59e4c87f-ebfb-4163-8fe8-509d9253a173,01/08/2026 07:00:00,Retail Sales (YoY),HIGH,EUR
 8a58488a-0cbe-42af-abee-ec9347bd7049,01/09/2026 07:00:00,Exports (MoM),LOW,EUR
 c08cdf57-8235-4938-910e-23ff58ee06ad,01/09/2026 07:00:00,Imports (MoM),LOW,EUR
 ce1501f1-c0dc-42f1-9a11-ef528c72070a,01/09/2026 07:00:00,Industrial Production n.s.a. w.d.a. (YoY),MEDIUM,EUR

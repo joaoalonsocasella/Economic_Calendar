@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-7e012ec3-3bff-4168-b224-fe2aad69b5c3,12/22/2025 09:00:00,Retail Sales (YoY),HIGH,PLN,Release,0.17,Growth
-babeb246-1ad4-4126-8d91-706765e4d862,12/22/2025 13:00:00,M3 Money Supply (YoY),HIGH,PLN,Release,0.19,Inflation
 17763b42-b14d-4d6f-a347-864bd86463f5,12/23/2025 09:00:00,Unemployment (MoM),HIGH,PLN,Release,0.18,Labor Market
 64f8b1e1-3dff-437e-9b7d-7bae62854d44,01/02/2026 08:00:00,S&P Global Manufacturing PMI,HIGH,PLN,Release,0.17,Growth
 a3e7f726-e3bd-4e17-bdef-cb98529f9114,01/07/2026 13:00:00,Central Bank FX Reserves,LOW,PLN,Release,0.09,Money and Credit
