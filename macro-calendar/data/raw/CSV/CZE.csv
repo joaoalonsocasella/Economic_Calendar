@@ -6,7 +6,7 @@ Id,Start,Name,Impact,Currency
 99a5564d-b55c-449d-8d32-4b535d3207d9,01/07/2026 09:00:00,FX Reserves,LOW,CZK
 c9083f62-aa40-407f-b46a-b9145c1bb93a,01/08/2026 08:00:00,Construction output (YoY),LOW,CZK
 1447e142-36a4-4866-b90e-bc61316d8524,01/08/2026 08:00:00,Industrial Production (YoY),LOW,CZK
-256dd210-5242-4884-a90a-a4ae22be69bc,01/08/2026 08:00:00,Unemployment Rate,LOW,CZK
+256dd210-5242-4884-a90a-a4ae22be69bc,01/09/2026 08:00:00,Unemployment Rate,LOW,CZK
 1be487e7-64ec-4ad4-96de-de47fe1fdd01,01/12/2026 08:00:00,Retail Sales (YoY),LOW,CZK
 00bec9bf-bbeb-4bfb-9f9d-30b2ae047dbe,01/13/2026 08:00:00,Consumer Price Index (MoM),LOW,CZK
 b01f269d-58cc-4d59-add6-31bbc251a44f,01/13/2026 08:00:00,Consumer Price Index (YoY),LOW,CZK
@@ -14,4 +14,116 @@ a404f832-0257-474f-a609-bdcc5d7d2801,01/13/2026 09:00:00,Current Account (MoM),L
 e45d3373-ecbe-4566-aeb7-b39d9d22eb47,01/16/2026 08:00:00,Producer Price Index (MoM),LOW,CZK
 2acc81cf-6f69-4ed8-8c9d-5301656bcdd3,01/16/2026 08:00:00,Producer Price Index (YoY),LOW,CZK
 e6e9ef28-22cd-43d0-ae90-e9eefb106cda,01/30/2026 08:00:00,Gross Domestic Product (YoY) 	,LOW,CZK
+4eb18506-7891-4d47-a1ea-c8769369c654,02/02/2026 08:30:00,S&P Global PMI,LOW,CZK
+4c6dc530-08b4-4712-966e-5321d59f39f4,02/06/2026 08:00:00,Construction output (YoY),LOW,CZK
+0fcca252-2453-466b-a4e7-f48573fc987f,02/06/2026 08:00:00,Foreign Trade Balance (MoM),LOW,CZK
+947be1fd-7a38-4434-b3f6-517dc99f34a8,02/06/2026 08:00:00,Industrial Production (YoY),LOW,CZK
+c689d0ac-9364-42ad-a5ce-0d0e4ed47ef8,02/09/2026 08:00:00,Unemployment Rate,LOW,CZK
+39801665-8007-45ed-81ce-fa1d73314b95,02/09/2026 09:00:00,FX Reserves,LOW,CZK
+c9cc0560-ba93-4672-be79-f6f72a885b26,02/13/2026 08:00:00,Consumer Price Index (MoM),LOW,CZK
+534880ee-bac2-422f-8acb-856faa5240d7,02/13/2026 08:00:00,Consumer Price Index (YoY),LOW,CZK
+26932e38-9c49-42e0-85e1-5a1fde37688a,02/13/2026 09:00:00,Current Account (MoM),LOW,CZK
+28c6964f-128f-45fe-bf7b-1eaffb9927f0,03/02/2026 08:30:00,S&P Global PMI,LOW,CZK
+5f8fb1b2-ae93-41f3-9eb7-800f7f0d529a,03/03/2026 08:00:00,Gross Domestic Product (YoY) 	,LOW,CZK
+dd3adc91-0f11-49d4-9ced-473ca9343a0a,03/09/2026 08:00:00,Foreign Trade Balance (MoM),LOW,CZK
+506edf33-611a-42b3-9588-3bf35d92ad77,03/09/2026 08:00:00,Unemployment Rate,LOW,CZK
+0a00d828-8491-4a57-a6aa-e5b925c2f99e,03/09/2026 09:00:00,FX Reserves,LOW,CZK
+be3857f8-e775-4f61-93d6-d10eaac308fe,03/10/2026 08:00:00,Consumer Price Index (MoM),LOW,CZK
+b5a89243-bd82-46a4-b535-e93f594eb536,03/10/2026 08:00:00,Consumer Price Index (YoY),LOW,CZK
+b34dcaf0-a59b-493a-baa6-3d37a34aa943,03/12/2026 08:00:00,Construction output (YoY),LOW,CZK
+838c2279-3cd8-4552-8a98-60381d36f231,03/12/2026 08:00:00,Industrial Production (YoY),LOW,CZK
+557693a3-3ac5-4e3c-aaf8-7195ebf57b69,03/16/2026 09:00:00,Current Account (MoM),LOW,CZK
 93720848-724a-4da9-b9b9-f6e30c4acd23,03/23/2026 09:00:00,Foreign Debt,LOW,CZK
+272ee8b9-7b23-436c-9e0e-9cf4910a4a7b,03/31/2026 07:00:00,Gross Domestic Product (YoY) 	,LOW,CZK
+d3fd96af-3f20-4fbb-9461-6e4f608efb01,04/01/2026 07:30:00,S&P Global PMI,LOW,CZK
+9e0110e9-66e2-4422-8beb-dd207b651749,04/07/2026 07:00:00,Foreign Trade Balance (MoM),LOW,CZK
+e264958d-136e-45b9-9f39-97e2ec50b9c1,04/08/2026 07:00:00,Unemployment Rate,LOW,CZK
+0daeb89f-3489-42db-9f4f-064d78cae23b,04/09/2026 07:00:00,Construction output (YoY),LOW,CZK
+227887d3-d16f-4e91-8038-1decf3228bce,04/09/2026 07:00:00,Industrial Production (YoY),LOW,CZK
+1b90bd46-0a83-4359-8038-12e987e4358c,04/09/2026 08:00:00,FX Reserves,LOW,CZK
+2dde2ee6-4201-448a-a0ab-f30a0f1c81db,04/13/2026 08:00:00,Current Account (MoM),LOW,CZK
+68318555-2c43-48de-91e3-023ad725e652,04/14/2026 07:00:00,Consumer Price Index (MoM),LOW,CZK
+c19e3712-1798-4bf4-8e18-d504554fbb19,04/14/2026 07:00:00,Consumer Price Index (YoY),LOW,CZK
+63d86421-e7cd-4e92-8e29-9b3f5990e8b9,04/30/2026 07:00:00,Gross Domestic Product (YoY) 	,LOW,CZK
+61cae8f2-a1e5-4be1-ab51-ee9e1656de1a,05/01/2026 07:30:00,S&P Global PMI,LOW,CZK
+b16c8d1b-9720-4dd8-8311-0297670999e3,05/07/2026 07:00:00,Construction output (YoY),LOW,CZK
+d2e98834-3a4f-489b-aed6-815cf703e208,05/07/2026 07:00:00,Foreign Trade Balance (MoM),LOW,CZK
+ac4c73a8-2c93-4fdd-9e3d-add6d1475f3e,05/07/2026 07:00:00,Industrial Production (YoY),LOW,CZK
+11b3f203-442f-44fd-9390-d2bb008df076,05/07/2026 08:00:00,FX Reserves,LOW,CZK
+04b2b720-c731-4def-9555-b13c24805247,05/08/2026 07:00:00,Unemployment Rate,LOW,CZK
+f7606330-44da-4571-9ba5-8e1bc2c39871,05/13/2026 07:00:00,Consumer Price Index (MoM),LOW,CZK
+f24a8b58-ad6a-4bdd-94ad-50cc1d832424,05/13/2026 07:00:00,Consumer Price Index (YoY),LOW,CZK
+7facc3c9-3e29-4509-8815-8886f52b4d1b,05/15/2026 08:00:00,Current Account (MoM),LOW,CZK
+965091df-0c9e-47c0-a41e-bab42c719307,05/29/2026 07:00:00,Gross Domestic Product (YoY) 	,LOW,CZK
+4fde1b1c-18df-4b9c-951f-f73af52d202b,06/01/2026 07:30:00,S&P Global PMI,LOW,CZK
+c6fcd1c0-59f1-4f99-92a2-407c90835b22,06/08/2026 07:00:00,Construction output (YoY),LOW,CZK
+45a87ab0-e6d0-4011-8baf-d6a247a515e2,06/08/2026 07:00:00,Foreign Trade Balance (MoM),LOW,CZK
+cc70a8f3-72ba-4c96-bfd5-85b96a196c7f,06/08/2026 07:00:00,Industrial Production (YoY),LOW,CZK
+fff32a08-4902-44f7-87d3-ea3278b2e1fd,06/08/2026 07:00:00,Unemployment Rate,LOW,CZK
+fb31d067-5474-4767-bf4c-a69d0f42dfa5,06/09/2026 08:00:00,FX Reserves,LOW,CZK
+a316d23b-7a13-4853-b7fb-c90e30043502,06/10/2026 07:00:00,Consumer Price Index (MoM),LOW,CZK
+669874b5-20f9-463c-acb5-2ec0dfe15d07,06/10/2026 07:00:00,Consumer Price Index (YoY),LOW,CZK
+d7b6c91e-01cf-4760-9c0b-7ec4e871bdea,06/12/2026 08:00:00,Current Account (MoM),LOW,CZK
+e9180a0d-6bf1-4b02-a1f7-83eef371d0db,06/22/2026 08:00:00,Foreign Debt,LOW,CZK
+4e800048-4f18-401a-ad6c-c8d6ae66b391,06/30/2026 07:00:00,Gross Domestic Product (YoY) 	,LOW,CZK
+84756775-d398-42c7-9fee-b22e76f29a9d,07/01/2026 07:30:00,S&P Global PMI,LOW,CZK
+c47e9c09-abf1-4d91-8300-c46f07057c8c,07/07/2026 07:00:00,Foreign Trade Balance (MoM),LOW,CZK
+9c044e4a-9b66-4072-8bb1-7ea605f7c99f,07/08/2026 07:00:00,Unemployment Rate,LOW,CZK
+7d571f0a-a630-463a-9c13-90c1665d158b,07/08/2026 08:00:00,FX Reserves,LOW,CZK
+f498f9b6-2683-4a53-a946-107097fecb73,07/09/2026 07:00:00,Construction output (YoY),LOW,CZK
+7860c163-f0e6-4a6c-9287-1f0a41be97c9,07/09/2026 07:00:00,Industrial Production (YoY),LOW,CZK
+9b7a3fa4-d789-4874-8063-46c777a0b443,07/10/2026 07:00:00,Consumer Price Index (MoM),LOW,CZK
+22c0fab4-7065-4022-bc69-b90b187626da,07/10/2026 07:00:00,Consumer Price Index (YoY),LOW,CZK
+46354518-0d42-45b4-9b4d-28393db9fc2e,07/14/2026 08:00:00,Current Account (MoM),LOW,CZK
+10bcb176-21dd-469d-a2b1-62c5b2b642d4,07/30/2026 07:00:00,Gross Domestic Product (YoY) 	,LOW,CZK
+a213d8d4-995c-4cc7-85f2-8e5a37e374cd,08/03/2026 07:30:00,S&P Global PMI,LOW,CZK
+7a31cebe-8674-4576-a12d-239d44bbf61e,08/06/2026 07:00:00,Construction output (YoY),LOW,CZK
+98bf9961-7140-4b8b-a79a-6f509ba50880,08/06/2026 07:00:00,Foreign Trade Balance (MoM),LOW,CZK
+b7f4f8ca-e12d-4815-aa5d-4a1765b51c95,08/06/2026 07:00:00,Industrial Production (YoY),LOW,CZK
+26ccbdfb-7f05-4b9e-b54b-1589ad7b930a,08/07/2026 08:00:00,FX Reserves,LOW,CZK
+b21e214d-ecc5-4fd1-9f04-fcdd26137096,08/10/2026 07:00:00,Unemployment Rate,LOW,CZK
+aa7803cc-3732-4cb5-b182-f316e8b54ddd,08/11/2026 07:00:00,Consumer Price Index (MoM),LOW,CZK
+e2af8183-bc1a-4274-aa4c-6f202150636b,08/11/2026 07:00:00,Consumer Price Index (YoY),LOW,CZK
+6a6543ce-2f7f-4e2c-a2e7-afef8bc127e6,08/13/2026 08:00:00,Current Account (MoM),LOW,CZK
+3beaa2c5-ddaf-4a5e-a7ea-5a9d9e0cdeaf,08/28/2026 07:00:00,Gross Domestic Product (YoY) 	,LOW,CZK
+4a23a551-fca3-426b-94fb-db6a954759e6,09/01/2026 07:30:00,S&P Global PMI,LOW,CZK
+91a24456-1d61-44f8-b46a-1095b9093474,09/07/2026 07:00:00,Construction output (YoY),LOW,CZK
+f36220c7-25c1-4cbf-9f36-2616469a82a6,09/07/2026 07:00:00,Foreign Trade Balance (MoM),LOW,CZK
+56ebfb25-eef9-46a8-9650-42032835600e,09/07/2026 07:00:00,Industrial Production (YoY),LOW,CZK
+b89af8cc-2f99-4284-9e2d-15745624dcdd,09/08/2026 07:00:00,Unemployment Rate,LOW,CZK
+5a3cd307-5605-49b0-9b14-9155ef4e11e7,09/08/2026 08:00:00,FX Reserves,LOW,CZK
+df4c6dac-5893-4ce6-b5b1-5fa4a4680d4b,09/10/2026 07:00:00,Consumer Price Index (MoM),LOW,CZK
+acbdf368-b867-4b02-abdf-ff7fa42bbc74,09/10/2026 07:00:00,Consumer Price Index (YoY),LOW,CZK
+2ee192ed-50b4-4e14-a30f-55e80a6d0244,09/14/2026 08:00:00,Current Account (MoM),LOW,CZK
+56a04077-7b1f-4235-b592-338efb4832e1,09/23/2026 08:00:00,Foreign Debt,LOW,CZK
+c199e505-9543-4f30-9467-d16708afd428,09/30/2026 07:00:00,Gross Domestic Product (YoY) 	,LOW,CZK
+ded03ef9-f692-4da6-96fe-8cb0166625fb,10/01/2026 07:30:00,S&P Global PMI,LOW,CZK
+88c0698a-f486-41a9-a786-030f76a26f6c,10/07/2026 07:00:00,Construction output (YoY),LOW,CZK
+7563d574-b887-410c-aa0d-32c938ee4a90,10/07/2026 07:00:00,Foreign Trade Balance (MoM),LOW,CZK
+9f1a6ffa-d060-47e6-8918-2aa831ee9ae5,10/07/2026 07:00:00,Industrial Production (YoY),LOW,CZK
+a6baa93a-c940-419b-837a-605bdf91c764,10/07/2026 08:00:00,FX Reserves,LOW,CZK
+be72ff8a-9b51-4bbd-b209-b1991cfb357e,10/09/2026 07:00:00,Unemployment Rate,LOW,CZK
+cfcafb4b-1d51-4cc5-9a84-c81a335ab77b,10/13/2026 07:00:00,Consumer Price Index (MoM),LOW,CZK
+457e2093-6b3e-4bf2-8e67-e2b096d6a804,10/13/2026 07:00:00,Consumer Price Index (YoY),LOW,CZK
+30478c7e-afda-4a8a-985b-1e71f96f76c9,10/14/2026 08:00:00,Current Account (MoM),LOW,CZK
+8e99c3c0-a827-4fe2-abf7-cb2fb713536f,10/30/2026 08:00:00,Gross Domestic Product (YoY) 	,LOW,CZK
+47ba6a17-28a7-4b69-aaeb-7b2a0308e2af,11/02/2026 08:30:00,S&P Global PMI,LOW,CZK
+366b31c2-eeb9-45ba-a56d-71f884eb8068,11/06/2026 08:00:00,Construction output (YoY),LOW,CZK
+59f3afd9-8d9d-485c-90fa-8232d4a3d345,11/06/2026 08:00:00,Foreign Trade Balance (MoM),LOW,CZK
+bc22c16e-ee52-4a84-965c-ea18cc45edcd,11/06/2026 08:00:00,Industrial Production (YoY),LOW,CZK
+6262a186-9d05-4a87-8f06-090e4f852128,11/09/2026 08:00:00,Unemployment Rate,LOW,CZK
+d81a995e-0b2d-409e-a92b-6ac9236f4bce,11/09/2026 09:00:00,FX Reserves,LOW,CZK
+d7817f73-745e-4bd2-bb7e-d261d30a8c05,11/10/2026 08:00:00,Consumer Price Index (MoM),LOW,CZK
+8dd858f1-9d42-4042-b11f-82f31d62b557,11/10/2026 08:00:00,Consumer Price Index (YoY),LOW,CZK
+8df193bc-4bc3-4199-8365-b748f04b1e57,11/13/2026 09:00:00,Current Account (MoM),LOW,CZK
+8c9d7495-fb6f-430f-bdc3-31b0aad6e6d6,12/01/2026 08:00:00,Gross Domestic Product (YoY) 	,LOW,CZK
+70aa0534-042e-45ec-8b6c-bf80d806bb89,12/01/2026 08:30:00,S&P Global PMI,LOW,CZK
+0b00aabe-46f2-4b79-bcf1-3bcf1c4aaf62,12/07/2026 08:00:00,Construction output (YoY),LOW,CZK
+a570ee34-0717-4e95-916e-0dd26ee9b874,12/07/2026 08:00:00,Foreign Trade Balance (MoM),LOW,CZK
+dabf7b0a-c9b8-4933-a770-e564fe3178e2,12/07/2026 08:00:00,Industrial Production (YoY),LOW,CZK
+21813b83-45b6-45f8-96d2-25d23f22ee5b,12/08/2026 08:00:00,Unemployment Rate,LOW,CZK
+e7b9ab30-81d9-4223-bf2e-0e4eb339bd1b,12/08/2026 09:00:00,FX Reserves,LOW,CZK
+0a8b5101-c042-49eb-a67d-9018b1df4bfb,12/10/2026 08:00:00,Consumer Price Index (MoM),LOW,CZK
+9d63e199-c9b6-44ad-98e2-7137a80a5644,12/10/2026 08:00:00,Consumer Price Index (YoY),LOW,CZK
+060d208f-aa5a-4a7b-bd54-038c47f71765,12/14/2026 09:00:00,Current Account (MoM),LOW,CZK
+4bdc3f7a-b542-4cf8-87f4-30cc9e446f87,12/21/2026 09:00:00,Foreign Debt,LOW,CZK

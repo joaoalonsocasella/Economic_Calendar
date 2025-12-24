@@ -1,11 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-46eba338-8eb1-494b-b53b-8df84b135db4,12/22/2025 13:30:00,Industrial Product Price (MoM),HIGH,CAD,Release,0.19,Inflation
-01b1746d-2d78-41b8-89e1-fd09ed02aa94,12/22/2025 13:30:00,Raw Material Price Index,MEDIUM,CAD,Release,0.11,Trade and External
-227d5df3-50c6-47f4-93bb-713e07cbb2d9,12/23/2025 13:30:00,Gross Domestic Product (MoM),LOW,CAD,Release,0.07,Housing
-4b51f295-3b4b-46f3-a143-21a7267bfefd,12/23/2025 18:30:00,BoC Summary of Deliberations,HIGH,CAD,Release,0.2,Monetary Policy
 2efb70c2-7d2f-4f72-93ea-c3981aa3d7d1,01/02/2026 14:30:00,S&P Global Manufacturing PMI,HIGH,CAD,Release,0.17,Growth
-8c901dc9-e881-4d84-89c9-1724c87c0075,01/06/2026 15:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD,Release,0.14,Confidence
-620bd571-ea04-49d3-b469-4fc472e57ed1,01/06/2026 15:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD,Release,0.14,Confidence
+8c901dc9-e881-4d84-89c9-1724c87c0075,01/07/2026 15:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD,Release,0.14,Confidence
+620bd571-ea04-49d3-b469-4fc472e57ed1,01/07/2026 15:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD,Release,0.14,Confidence
 cca191f5-15ca-438d-80b1-f302586b01bd,01/08/2026 13:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
 30e6a5ec-223f-4da2-a385-b9cf44d0fee7,01/08/2026 13:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
 097db0ed-e8bd-4b9e-8cc9-b478cd0a0648,01/08/2026 13:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
