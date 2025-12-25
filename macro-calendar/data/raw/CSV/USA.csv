@@ -1,12 +1,4 @@
 Id,Start,Name,Impact,Currency
-1c26d14d-365c-4700-9d9d-378b984fb17b,12/24/2025 12:00:00,MBA Mortgage Applications,LOW,USD
-17934c9c-7381-4fce-a476-a8a558235b77,12/24/2025 13:30:00,Continuing Jobless Claims,LOW,USD
-74da48e3-4439-4206-a0fe-b82b3ce97337,12/24/2025 13:30:00,Initial Jobless Claims,MEDIUM,USD
-549bbed2-18b6-42bc-896b-4a09e27e7f92,12/24/2025 13:30:00,Initial Jobless Claims 4-week average,LOW,USD
-f2ceb070-4b81-488c-85f5-cc4b6b7df22a,12/24/2025 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
-1abf778b-f640-455f-9f85-0f502a678ce9,12/24/2025 16:30:00,4-Week Bill Auction,LOW,USD
-33cde54a-0689-4de5-82ad-214dbe8b488e,12/24/2025 17:00:00,EIA Natural Gas Storage Change,LOW,USD
-9aa0d79d-06f2-4c8f-b8fb-32b48a668dad,12/24/2025 18:00:00,7-Year Note Auction,LOW,USD
 b05f589c-d575-46ef-b859-cc24ea91724a,12/26/2025 18:00:00,Baker Hughes US Oil Rig Count,LOW,USD
 5fa70f2e-6393-41bf-9561-6de2606d6872,12/26/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD
 6f33f0c0-4c47-4642-8f69-51327288ceba,12/26/2025 20:30:00,CFTC Oil NC Net Positions,LOW,USD
@@ -14,8 +6,10 @@ b05f589c-d575-46ef-b859-cc24ea91724a,12/26/2025 18:00:00,Baker Hughes US Oil Rig
 9cf83bfa-af82-4e86-bfa8-3f75c50f079f,12/29/2025 15:00:00,Pending Home Sales (MoM),MEDIUM,USD
 c2ea34da-3e9d-45d0-a821-7c00cd9a742b,12/29/2025 15:00:00,Pending Home Sales (YoY),LOW,USD
 14986560-44bb-4d20-a863-863e2fd4e7e9,12/29/2025 15:30:00,Dallas Fed Manufacturing Business Index,LOW,USD
+f2ceb070-4b81-488c-85f5-cc4b6b7df22a,12/29/2025 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
 868f764e-6639-415b-9422-ca8740d3c4f3,12/29/2025 16:30:00,3-Month Bill Auction,LOW,USD
 8146ea6f-f685-42f8-bfbd-b7d4e25b427b,12/29/2025 16:30:00,6-Month Bill Auction,LOW,USD
+33cde54a-0689-4de5-82ad-214dbe8b488e,12/29/2025 17:00:00,EIA Natural Gas Storage Change,LOW,USD
 843b0d70-c3e8-4cc7-8d55-1aa4b0c535fd,12/29/2025 20:30:00,CFTC Gold NC Net Positions,LOW,USD
 0951befb-a8cb-48a5-9bac-8e2cda9e66d5,12/29/2025 20:30:00,CFTC Oil NC Net Positions,LOW,USD
 ad70404b-0e94-4a48-9eb6-763bfa8e4863,12/29/2025 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD

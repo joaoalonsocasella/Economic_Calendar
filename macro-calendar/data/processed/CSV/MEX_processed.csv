@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-c8fedbae-e009-4726-9b09-2b326d7a0355,12/23/2025 12:00:00,1st half-month Core Inflation,HIGH,MXN,Release,0.19,Inflation
-bc551143-006d-4b9d-b692-8aeef97c9619,12/23/2025 12:00:00,1st half-month Inflation,HIGH,MXN,Release,0.19,Inflation
-f47976e1-ee65-4c9e-92ef-bc6a533333fb,12/23/2025 12:00:00,"Trade Balance s/a, $",MEDIUM,MXN,Release,0.11,Trade and External
-6c503116-9435-4bc9-92f7-55120e051b86,12/23/2025 12:00:00,"Trade Balance, $",MEDIUM,MXN,Release,0.11,Trade and External
-fe1cfda9-3751-4e7c-917c-3ff7256460b4,12/24/2025 12:00:00,Jobless Rate,HIGH,MXN,Release,0.18,Labor Market
-4277bead-b0ed-4f5d-8b48-a10b3edec9ae,12/24/2025 12:00:00,Jobless Rate s.a,HIGH,MXN,Release,0.18,Labor Market
 e66b9c22-1ade-49ba-90c4-d399cb72381e,12/30/2025 21:00:00,"Fiscal Balance, pesos",MEDIUM,MXN,Release,0.11,Trade and External
 dc66cfaa-e6a4-46e1-8b4c-5ae09db937d0,01/06/2026 12:00:00,Consumer Confidence,MEDIUM,MXN,Release,0.14,Confidence
 d907bdc7-7411-48f8-8306-644e8075eaed,01/06/2026 12:00:00,Consumer Confidence s.a,MEDIUM,MXN,Release,0.14,Confidence
