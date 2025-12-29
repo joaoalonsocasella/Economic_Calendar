@@ -1,8 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-2978ccb4-07cf-431f-be34-7b6e2197b0c3,12/28/2025 11:30:00,Cumulative Industrial Output,HIGH,INR,Release,0.17,Growth
-72e63ca4-e583-4a57-832a-3d23f418cf08,12/28/2025 11:30:00,Industrial Output,HIGH,INR,Release,0.17,Growth
-7f00d5a8-9503-4f11-beb5-023c8d7a1705,12/28/2025 11:30:00,Manufacturing Output,HIGH,INR,Release,0.17,Growth
-29effec6-9e3d-49df-a51a-655999d6429c,12/29/2025 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy
+29effec6-9e3d-49df-a51a-655999d6429c,12/30/2025 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy
 e9018d10-c648-4ebb-8cb6-b50f3d39911b,12/30/2025 11:30:00,Trade Deficit – RBI,MEDIUM,INR,Release,0.11,Trade and External
 b19c1f31-e814-4a40-84d0-8e22ccec6bf0,12/31/2025 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
 68f95731-b51f-4fe2-aab5-41de4c2bee4d,12/31/2025 11:30:00,Infrastructure Output (YoY),HIGH,INR,Release,0.19,Inflation
