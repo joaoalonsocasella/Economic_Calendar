@@ -1,3 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 03161627-57ec-4465-8c5d-0390eaed6495,01/29/2026 09:00:00,Consumer Price Index (MoM),HIGH,ISK,Release,0.19,Inflation
 75d5ab08-1706-42dd-ba6e-c5f17995b393,01/29/2026 09:00:00,Consumer Price Index (YoY),HIGH,ISK,Release,0.19,Inflation
+ee03e846-9c91-4aca-a243-5a0637cbe04f,02/27/2026 09:00:00,Gross Domestic Product (QoQ),HIGH,ISK,Release,0.17,Growth
+16bbdaa1-5b30-4cbc-bd9b-17ac3df4a432,02/27/2026 09:00:00,Gross Domestic Product (YoY),HIGH,ISK,Release,0.17,Growth
