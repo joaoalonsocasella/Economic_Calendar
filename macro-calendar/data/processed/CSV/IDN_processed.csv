@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-94cf1607-0a9a-4b7b-abe5-8f47b5727a1d,01/01/2026 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
-dd93f08b-77f5-47e3-b8ce-8caf090a9349,01/01/2026 04:00:00,Exports,MEDIUM,IDR,Release,0.11,Trade and External
-81043626-0212-486c-804a-db99c3ad8c52,01/01/2026 04:00:00,Imports,MEDIUM,IDR,Release,0.11,Trade and External
-86dfe837-bd44-4ded-92a7-ac386f12a326,01/01/2026 04:00:00,Inflation (MoM),HIGH,IDR,Release,0.19,Inflation
-bfc99d1c-fb02-4f81-b1a1-413dbd3a97a3,01/01/2026 04:00:00,Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
-23221250-b8c6-4f0c-839d-f779c8dec12d,01/01/2026 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
 2e5db5e0-6717-48df-a296-8e808ad1eedc,01/02/2026 00:30:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 35ea6e45-9c48-4452-83f0-7c3ffc51fb0e,01/07/2026 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
 44f43518-3394-477b-9338-d2d7619f1195,01/09/2026 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence

@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-2e734326-5569-4ce1-bf98-8f2724d7a1e1,01/01/2026 22:00:00,S&P Global Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
-dde2ac5c-f958-4580-a1b4-72d45c84e466,01/02/2026 05:30:00,RBA Commodity Index SDR (YoY),HIGH,AUD,Release,0.19,Inflation
 5dd7f5fe-5c0d-483e-bfa3-e32e30e0d1e2,01/02/2026 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 dd6c6fa3-5643-44f9-a728-4eb6fcbdf233,01/05/2026 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 b560a107-9403-4e29-a4c3-ca84768c6970,01/06/2026 22:00:00,S&P Global Composite PMI,HIGH,AUD,Release,0.17,Growth
