@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-64f8b1e1-3dff-437e-9b7d-7bae62854d44,01/02/2026 08:00:00,S&P Global Manufacturing PMI,HIGH,PLN,Release,0.17,Growth
-a3e7f726-e3bd-4e17-bdef-cb98529f9114,01/07/2026 13:00:00,Central Bank FX Reserves,LOW,PLN,Release,0.09,Money and Credit
 308c0e68-a7a3-4d8e-aae7-c2c4986db298,01/13/2026 13:00:00,Current Account,MEDIUM,PLN,Release,0.11,Trade and External
 7871ff2d-51d7-4c3e-b79b-ac986a98a57c,01/15/2026 09:00:00,Consumer Price Index (MoM),HIGH,PLN,Release,0.19,Inflation
 3101a8fd-7ab0-41bf-a687-09fcf2db4b3a,01/15/2026 09:00:00,Consumer Price Index (YoY),HIGH,PLN,Release,0.19,Inflation

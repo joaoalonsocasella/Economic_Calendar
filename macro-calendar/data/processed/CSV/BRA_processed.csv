@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-2e4cded0-baf2-4dce-8038-8f03cb33fcd2,01/02/2026 13:00:00,S&P Global Manufacturing PMI,HIGH,BRL,Release,0.17,Growth
-14816090-7124-45af-b35a-efe86d583b8d,01/06/2026 08:00:00,Fipe's IPC Inflation,HIGH,BRL,Release,0.19,Inflation
-c2313992-d392-4d80-94ed-1ccb37c51d92,01/08/2026 12:00:00,Industrial Output (MoM),HIGH,BRL,Release,0.17,Growth
-93e3a815-169d-440a-9720-ac5e699521c4,01/08/2026 12:00:00,Industrial Output (YoY),HIGH,BRL,Release,0.17,Growth
-6bb29ce3-cc9d-48f1-86f9-a6bebe73d2bc,01/08/2026 18:00:00,Trade Balance,MEDIUM,BRL,Release,0.11,Trade and External
 cf993ab1-df8b-4234-b2cf-bdb4b38315a6,01/09/2026 12:00:00,IPCA Inflation,HIGH,BRL,Release,0.19,Inflation
 543c7f77-8ab9-4775-96ee-ea049ba1b6f9,01/15/2026 12:00:00,Retail Sales (MoM),HIGH,BRL,Release,0.17,Growth
 549504d0-94e7-4a7e-8fc5-507b0c118f4e,01/26/2026 12:30:00,Current Account,MEDIUM,BRL,Release,0.11,Trade and External

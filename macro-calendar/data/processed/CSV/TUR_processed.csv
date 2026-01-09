@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-26058e23-59e6-4135-ac20-d5988e2e0608,01/02/2026 08:00:00,Exports,MEDIUM,TRY,Release,0.11,Trade and External
-80f3c4c6-f0d8-4cf0-854c-e787580224d2,01/05/2026 07:00:00,Consumer Price Index (MoM),HIGH,TRY,Release,0.19,Inflation
-2fdc42d1-a8de-409c-ba2d-159752fd78c6,01/05/2026 07:00:00,Consumer Price Index (YoY),HIGH,TRY,Release,0.19,Inflation
-7549fc23-faf6-43fe-a673-7322121d1113,01/05/2026 07:00:00,Producer Price Index (MoM),HIGH,TRY,Release,0.19,Inflation
-0cc20473-5190-460a-9fdb-3f5ffb60cbdb,01/05/2026 07:00:00,Producer Price Index (YoY),HIGH,TRY,Release,0.19,Inflation
-3810e15c-d6af-4142-aabf-c232cfbce8e6,01/07/2026 14:30:00,Treasury Cash Balance,MEDIUM,TRY,Release,0.11,Trade and External
 26d7965b-ce1a-482f-8a4a-cf3786b03c05,01/12/2026 07:00:00,Industrial Production (YoY),HIGH,TRY,Release,0.17,Growth
 29435000-02ef-4285-82e2-1e2db3070e76,01/13/2026 07:00:00,Current Account Balance,MEDIUM,TRY,Release,0.11,Trade and External
 fc727b45-b643-4cc7-9c91-508c4eb1dd9f,01/15/2026 08:00:00,Budget Balance,MEDIUM,TRY,Release,0.11,Trade and External

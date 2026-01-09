@@ -1,24 +1,10 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-5dd7f5fe-5c0d-483e-bfa3-e32e30e0d1e2,01/02/2026 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
-dd6c6fa3-5643-44f9-a728-4eb6fcbdf233,01/05/2026 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
-b560a107-9403-4e29-a4c3-ca84768c6970,01/06/2026 22:00:00,S&P Global Composite PMI,HIGH,AUD,Release,0.17,Growth
-3780d3bd-3435-4fa7-9ca0-4bfeaf7ec177,01/06/2026 22:00:00,S&P Global Services PMI,HIGH,AUD,Release,0.17,Growth
-3dad411f-ca35-4887-96f0-d5f8b541e278,01/07/2026 00:30:00,Building Permits (MoM),LOW,AUD,Release,0.07,Housing
-e02e9c71-bd73-44ab-b6d4-3e41ded8e386,01/07/2026 00:30:00,Building Permits (YoY),LOW,AUD,Release,0.07,Housing
-f3d73b02-8c44-4622-9a85-0e2474c2e233,01/07/2026 00:30:00,Consumer Price Index (MoM),HIGH,AUD,Release,0.19,Inflation
-ea19059c-74b9-469c-b73b-6412e901d6a4,01/07/2026 00:30:00,Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
-febe65ac-0647-47d6-9f4e-b995f69b14fc,01/07/2026 00:30:00,Trimmed Mean CPI (MoM),HIGH,AUD,Release,0.19,Inflation
-1d8ce0c2-46d6-455b-b51f-c5128b747f2a,01/07/2026 00:30:00,Trimmed Mean CPI (YoY),HIGH,AUD,Release,0.19,Inflation
-51293bce-dad5-4acd-b9ec-7b8fefef424b,01/08/2026 00:30:00,Exports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
-257f401d-157f-4cfc-8966-a242fbba5b95,01/08/2026 00:30:00,Imports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
-1ce31762-d359-469e-9777-605c3d81215e,01/08/2026 00:30:00,Trade Balance (MoM),MEDIUM,AUD,Release,0.11,Trade and External
 e9e9b60e-de35-4bea-bc7a-9fd46106cb00,01/09/2026 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 ebf26209-d277-4abe-88bc-300856804441,01/12/2026 00:00:00,TD-MI Inflation Gauge (MoM),HIGH,AUD,Release,0.19,Inflation
 2d7848d1-6e1e-42f4-b8a3-907ca2226ae3,01/12/2026 00:00:00,TD-MI Inflation Gauge (YoY),HIGH,AUD,Release,0.19,Inflation
 76d98ee0-c1f9-4877-a35f-d885e18a90dc,01/12/2026 00:30:00,ANZ Job Advertisements,HIGH,AUD,Release,0.18,Labor Market
 c072ecfb-fbe4-4562-83f8-12f4e3a41316,01/13/2026 00:30:00,National Australia Bank's Business Conditions,MEDIUM,AUD,Release,0.14,Confidence
 e4123969-2500-4383-a1bd-54126b7b5a61,01/13/2026 00:30:00,National Australia Bank's Business Confidence,MEDIUM,AUD,Release,0.14,Confidence
-d44b7c0d-8d3b-499d-90a9-1380bcd17bba,01/13/2026 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 7df41b9b-5ef1-429b-aefa-b85c0116eb92,01/15/2026 00:00:00,Consumer Inflation Expectations,MEDIUM,AUD,Release,0.14,Confidence
 d20fc969-b2ba-4f19-928b-6b475f2c8f94,01/15/2026 00:30:00,Employment Change s.a.,HIGH,AUD,Release,0.18,Labor Market
 a78f490c-6ec0-40c1-b458-873290d17957,01/15/2026 00:30:00,Full-Time Employment,HIGH,AUD,Release,0.18,Labor Market

@@ -1,13 +1,11 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-83527ff1-07e9-4c9a-ad1a-68b84ed76727,01/05/2026 08:00:00,HALPIM Manufacturing PMI,HIGH,HUF,Release,0.17,Growth
-99fe202a-af45-47fb-84ad-b6fdf7ccc8d8,01/07/2026 07:30:00,Producer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
-65cc9a11-5d28-43cf-81ba-a6e8e1d89e9f,01/07/2026 07:30:00,Producer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
-9002f736-1724-46d7-bfd5-8d343f84e229,01/08/2026 07:30:00,Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
-9f773003-5791-42b2-a181-9ba22dd84b51,01/08/2026 07:30:00,Core Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
 85c878b3-17df-4089-bf29-c527a1c1742e,01/09/2026 07:30:00,Retail Sales (YoY),HIGH,HUF,Release,0.17,Growth
 271c3b7f-7f89-4519-9641-08e07d25001c,01/09/2026 10:00:00,Budget Balance,MEDIUM,HUF,Release,0.11,Trade and External
+9002f736-1724-46d7-bfd5-8d343f84e229,01/13/2026 07:30:00,Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+9f773003-5791-42b2-a181-9ba22dd84b51,01/13/2026 07:30:00,Core Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
 2d6c42a9-1b2c-4dd9-afdc-ff9ba293ebc1,01/23/2026 07:30:00,Gross Wages (YoY),HIGH,HUF,Release,0.17,Growth
 71a8b6cd-1f61-49c8-aa75-0f4862bf0150,01/23/2026 07:30:00,Unemployment Rate (3M),HIGH,HUF,Release,0.18,Labor Market
+99fe202a-af45-47fb-84ad-b6fdf7ccc8d8,01/29/2026 07:30:00,Producer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
 e9ece1cb-48db-4615-8367-abe3d8087628,01/30/2026 07:30:00,Trade Balance,MEDIUM,HUF,Release,0.11,Trade and External
 5fe614f5-da11-48ad-9d61-c817ddea4e16,02/10/2026 07:30:00,Gross Domestic Product (YoY),HIGH,HUF,Release,0.17,Growth
 f24348bd-28de-44c8-8873-467af16ca828,03/25/2026 07:30:00,Current Account Balance (QoQ),MEDIUM,HUF,Release,0.11,Trade and External

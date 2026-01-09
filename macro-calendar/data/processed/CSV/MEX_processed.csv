@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-dc66cfaa-e6a4-46e1-8b4c-5ae09db937d0,01/06/2026 12:00:00,Consumer Confidence,MEDIUM,MXN,Release,0.14,Confidence
-d907bdc7-7411-48f8-8306-644e8075eaed,01/06/2026 12:00:00,Consumer Confidence s.a,MEDIUM,MXN,Release,0.14,Confidence
-3fcc0ee0-cc99-44e5-ac59-80d3857406b8,01/08/2026 12:00:00,12-Month Inflation,HIGH,MXN,Release,0.19,Inflation
-b6c52060-3831-43c8-8c96-d0273359a3d5,01/08/2026 12:00:00,Core Inflation,HIGH,MXN,Release,0.19,Inflation
-1ed06dba-63ca-4e96-8e9e-5a648b59c9c6,01/08/2026 12:00:00,Headline Inflation,HIGH,MXN,Release,0.19,Inflation
-c5532770-107d-4062-a264-5fdbe7d14ab4,01/08/2026 15:00:00,Banxico Monetary Policy Meeting Minutes,HIGH,MXN,Release,0.2,Monetary Policy
 2909f07f-701a-4bcd-a700-1ff69b17a896,01/09/2026 12:00:00,Industrial Output (MoM),HIGH,MXN,Release,0.17,Growth
 d49784c1-fedb-40cf-88a3-8f9a77f10c70,01/09/2026 12:00:00,Industrial Output (YoY),HIGH,MXN,Release,0.17,Growth
 9c3725ed-8098-474c-8900-67b616e3e98f,01/21/2026 12:00:00,Retail Sales (MoM),HIGH,MXN,Release,0.17,Growth
