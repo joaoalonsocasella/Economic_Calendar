@@ -1,29 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-6a5032d1-9706-4fec-bb67-d91cd4f177b5,01/09/2026 13:30:00,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market
-40e1d4ab-bc43-4d85-82c1-6f1b4eaafdf0,01/09/2026 13:30:00,Average Hourly Earnings (YoY),HIGH,USD,Release,0.18,Labor Market
-96bb3663-49f9-40ca-883d-5c7d9b175132,01/09/2026 13:30:00,Average Weekly Hours,HIGH,USD,Release,0.18,Labor Market
-5bfffe6f-1ac5-4008-98f3-0ff63c04d53f,01/09/2026 13:30:00,Building Permits (MoM),LOW,USD,Release,0.07,Housing
-63377aa1-9585-47c7-ad4b-8c6a0a6d5c65,01/09/2026 13:30:00,Building Permits Change,LOW,USD,Release,0.07,Housing
-ad814a66-2a8b-4874-979a-15b8a259a3a9,01/09/2026 13:30:00,Housing Starts (MoM),LOW,USD,Release,0.07,Housing
-33a5c798-63b2-4c89-904a-9376707a2fa5,01/09/2026 13:30:00,Housing Starts Change,LOW,USD,Release,0.07,Housing
-d9b91b2d-6d67-4e88-86dd-464073916549,01/09/2026 13:30:00,Labor Force Participation Rate,HIGH,USD,Release,0.18,Labor Market
-b5ca800d-5869-43a8-83d5-67b83bc35c72,01/09/2026 13:30:00,Nonfarm Payrolls,HIGH,USD,Release,0.18,Labor Market
-d44e0e19-855c-4e00-a3f9-edefa7eaa8d0,01/09/2026 13:30:00,U6 Underemployment Rate,HIGH,USD,Release,0.2,Monetary Policy
-bd4c2d18-ea0e-4c25-a60c-4eecaca93780,01/09/2026 13:30:00,Unemployment Rate,HIGH,USD,Release,0.18,Labor Market
-d962dfd5-8740-4ad2-aea6-1f7d2d2d307c,01/09/2026 13:30:05,Building Permits (MoM),LOW,USD,Release,0.07,Housing
-b8b1efd6-73c6-4fde-b449-6dc1313fad2a,01/09/2026 13:30:05,Building Permits Change,LOW,USD,Release,0.07,Housing
-a87d46a8-e95c-4849-b03f-1235fbdad006,01/09/2026 13:30:05,Housing Starts (MoM),LOW,USD,Release,0.07,Housing
-cfbc8821-a24f-462d-94fa-fea0bbaa565e,01/09/2026 13:30:05,Housing Starts Change,LOW,USD,Release,0.07,Housing
-baa599c8-b3ab-40ef-bd8b-dcc75cc0ba14,01/09/2026 15:00:00,Fed's Kashkari speech,HIGH,USD,Release,0.2,Monetary Policy
-297d88be-84d6-4fb9-8f17-e04ae32ca94f,01/09/2026 15:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
-93937022-4c92-4ab3-bb0b-948b87413138,01/09/2026 15:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
-9386d5cd-df2a-4b96-a7f0-672c85d83a41,01/09/2026 15:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
-ec49c68d-74c7-4a5d-b7e0-b1a79c2dfe84,01/09/2026 15:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
-d25a4951-aac2-4d1f-a460-0a35cc7a274b,01/09/2026 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
-13a1a940-af24-4fdf-8c4c-e37b5b63fc8c,01/09/2026 18:35:00,Fed's Barkin speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-8c7117ae-dc6a-4d0f-b384-ef293e3dc80e,01/09/2026 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-b5bb62fc-b372-4e74-8b27-80722ef0b24d,01/09/2026 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-f7efc15e-cc62-4530-8b61-4ae4e840bec1,01/09/2026 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 dfc78f40-115c-47da-b067-8ba4b2f5570d,01/12/2026 16:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 e5196e46-74b0-41f2-8a1c-4a4b2a5f5509,01/12/2026 16:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 1f6c762b-4ff2-405f-8fba-df50a0623d44,01/12/2026 17:30:00,Fed's Bostic speech,HIGH,USD,Release,0.2,Monetary Policy
