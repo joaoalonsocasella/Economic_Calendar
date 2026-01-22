@@ -1,5 +1,58 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-3497870d-7c62-4568-ba5c-64e345f8e42b,01/19/2026 08:30:00,Unemployment rate,HIGH,HKD,Release,0.18,Labor Market
 7c605648-926c-4633-a916-d6b23af30baa,01/22/2026 08:30:00,Consumer Price Index,MEDIUM,HKD,Release,0.14,Confidence
+ed55fa3a-1780-4f05-a9a6-806646de961a,02/03/2026 08:30:00,Retail Sales,HIGH,HKD,Release,0.17,Growth
+f9a76cf3-fa64-494f-b5b2-d4833af34c03,02/04/2026 00:30:00,S&P Global PMI,HIGH,HKD,Release,0.17,Growth
+12bf73db-d07c-4701-b731-090c1143b201,02/20/2026 08:30:00,Unemployment rate,HIGH,HKD,Release,0.18,Labor Market
+21e9df32-33e0-4539-a541-c119892d719e,02/25/2026 08:30:00,Consumer Price Index,MEDIUM,HKD,Release,0.14,Confidence
 1d392e5e-97e8-4e6f-b560-cd114d668485,02/25/2026 08:30:00,Gross Domestic Product (QoQ),HIGH,HKD,Release,0.17,Growth
 4b1afd41-a6a4-440f-ba88-a23fe065112c,02/25/2026 08:30:00,Gross Domestic Product (YoY),HIGH,HKD,Release,0.17,Growth
+cc902e7a-a7fa-48b9-9726-6e74f81ec1aa,03/04/2026 00:30:00,S&P Global PMI,HIGH,HKD,Release,0.17,Growth
+99476b60-de10-44cb-a027-398bc08c1ece,03/04/2026 08:30:00,Retail Sales,HIGH,HKD,Release,0.17,Growth
+0abdaa22-488d-4c9c-bdbe-57572b133b15,03/18/2026 08:30:00,Unemployment rate,HIGH,HKD,Release,0.18,Labor Market
+14ccdb10-2eb6-48bf-87a6-ca2d9075a3b8,03/20/2026 08:30:00,Consumer Price Index,MEDIUM,HKD,Release,0.14,Confidence
+d19d562b-d144-4ae9-bfa3-84039053e911,04/01/2026 08:30:00,Retail Sales,HIGH,HKD,Release,0.17,Growth
+7fc8866a-0c20-49d3-949c-0d7a921cd7d6,04/08/2026 00:30:00,S&P Global PMI,HIGH,HKD,Release,0.17,Growth
+c8f30a74-ce07-4786-9bca-5b5571005895,04/23/2026 08:30:00,Consumer Price Index,MEDIUM,HKD,Release,0.14,Confidence
+db48722a-49e2-4dec-921a-f9a5b38c57e5,04/23/2026 08:30:00,Unemployment rate,HIGH,HKD,Release,0.18,Labor Market
+57b76fc5-b4f7-4029-a671-fa8f4c97b72e,05/06/2026 00:30:00,S&P Global PMI,HIGH,HKD,Release,0.17,Growth
+9935a30f-aac5-4195-a3fa-f5079d37ba37,05/06/2026 08:30:00,Retail Sales,HIGH,HKD,Release,0.17,Growth
+7e26766a-81ef-4f41-8ef7-f1c1acc5a8b0,05/15/2026 08:30:00,Gross Domestic Product (QoQ),HIGH,HKD,Release,0.17,Growth
+7d901ac8-6d11-479b-a7c3-cf0adc719f48,05/15/2026 08:30:00,Gross Domestic Product (YoY),HIGH,HKD,Release,0.17,Growth
+d5f13c21-d13c-44ed-b3c1-207b864875c6,05/19/2026 08:30:00,Unemployment rate,HIGH,HKD,Release,0.18,Labor Market
+b394d7ee-539b-4fca-a927-e3739646abec,05/21/2026 08:30:00,Consumer Price Index,MEDIUM,HKD,Release,0.14,Confidence
+a4751f16-09ce-433b-b402-b71dc9ff3989,06/02/2026 08:30:00,Retail Sales,HIGH,HKD,Release,0.17,Growth
+3ac8a32d-b8a3-49ee-abbc-76a41d0623ee,06/03/2026 00:30:00,S&P Global PMI,HIGH,HKD,Release,0.17,Growth
+17ab7225-a1c7-45d5-b251-64f2571379ff,06/16/2026 08:30:00,Unemployment rate,HIGH,HKD,Release,0.18,Labor Market
+a36da4b6-9bbc-403a-bb21-efe892a08ee2,06/23/2026 08:30:00,Consumer Price Index,MEDIUM,HKD,Release,0.14,Confidence
+48cc24e4-25dc-424e-8ff5-61e358afaf6a,07/02/2026 08:30:00,Retail Sales,HIGH,HKD,Release,0.17,Growth
+121df08a-3744-478d-880d-facda0dd8cca,07/06/2026 00:30:00,S&P Global PMI,HIGH,HKD,Release,0.17,Growth
+371d78c7-835b-479f-b0bb-7d77265fae24,07/17/2026 08:30:00,Unemployment rate,HIGH,HKD,Release,0.18,Labor Market
+05107737-744f-4563-92bb-72538bca388a,07/21/2026 08:30:00,Consumer Price Index,MEDIUM,HKD,Release,0.14,Confidence
+7fae3b1a-6d8f-4886-9b95-7a99b9e8c3f8,08/04/2026 08:30:00,Retail Sales,HIGH,HKD,Release,0.17,Growth
+a06cabbf-321c-4b6c-9ffd-202828d5b5a8,08/05/2026 00:30:00,S&P Global PMI,HIGH,HKD,Release,0.17,Growth
+f7a63688-e6b4-42d0-bbbb-b7df62d33e55,08/14/2026 08:30:00,Gross Domestic Product (QoQ),HIGH,HKD,Release,0.17,Growth
+03e406ca-bc13-4ba0-a84d-744afb300a15,08/14/2026 08:30:00,Gross Domestic Product (YoY),HIGH,HKD,Release,0.17,Growth
+f75cd119-299a-4448-9f25-8b35e527cac7,08/20/2026 08:30:00,Consumer Price Index,MEDIUM,HKD,Release,0.14,Confidence
+110c5d76-fff6-4b43-9407-988c392dfdde,08/20/2026 08:30:00,Unemployment rate,HIGH,HKD,Release,0.18,Labor Market
+73ff2a35-7fb4-43e1-a72d-c6062a20c32a,08/31/2026 08:30:00,Retail Sales,HIGH,HKD,Release,0.17,Growth
+ac934170-cda2-417f-93b6-c01c0e7ba598,09/03/2026 00:30:00,S&P Global PMI,HIGH,HKD,Release,0.17,Growth
+6843d671-c974-4cdf-a423-9baceeaaeb1d,09/17/2026 08:30:00,Unemployment rate,HIGH,HKD,Release,0.18,Labor Market
+8fa25196-01ce-45ad-9892-a3501a39ee7e,09/23/2026 08:30:00,Consumer Price Index,MEDIUM,HKD,Release,0.14,Confidence
+021ff396-7fa8-4ebf-8541-65be4dc2a07c,10/02/2026 08:30:00,Retail Sales,HIGH,HKD,Release,0.17,Growth
+789c950c-828b-4bf7-90f6-4c807d15f83b,10/06/2026 00:30:00,S&P Global PMI,HIGH,HKD,Release,0.17,Growth
+fa8e50d0-b90c-4e9a-bd66-15057f5193cc,10/22/2026 08:30:00,Consumer Price Index,MEDIUM,HKD,Release,0.14,Confidence
+ddf26885-a3dd-42b6-991f-ca6463e70469,10/22/2026 08:30:00,Unemployment rate,HIGH,HKD,Release,0.18,Labor Market
+fdca2d04-79ce-46f6-928d-40f86f461653,11/03/2026 08:30:00,Retail Sales,HIGH,HKD,Release,0.17,Growth
+2f2f57db-9846-4290-842d-ab6d5e35fd53,11/04/2026 00:30:00,S&P Global PMI,HIGH,HKD,Release,0.17,Growth
+d534893f-3b02-4034-8644-799b1f6c3209,11/13/2026 08:30:00,Gross Domestic Product (QoQ),HIGH,HKD,Release,0.17,Growth
+e7735358-7c08-415b-b36b-5392c8a7904e,11/13/2026 08:30:00,Gross Domestic Product (YoY),HIGH,HKD,Release,0.17,Growth
+02697e33-3ed6-45aa-ba31-b435f616f84c,11/17/2026 08:30:00,Unemployment rate,HIGH,HKD,Release,0.18,Labor Market
+61da3dd1-89d1-426e-aaee-5b91402bc143,11/20/2026 08:30:00,Consumer Price Index,MEDIUM,HKD,Release,0.14,Confidence
+a2f40aee-7873-490c-8e6e-4b24ca82ef2e,12/01/2026 08:30:00,Retail Sales,HIGH,HKD,Release,0.17,Growth
+2eaa8ac1-7083-414b-861f-fbddc93c65cf,12/03/2026 00:30:00,S&P Global PMI,HIGH,HKD,Release,0.17,Growth
+362d1758-9066-45b3-bca8-65ea0c65704b,12/17/2026 08:30:00,Unemployment rate,HIGH,HKD,Release,0.18,Labor Market
+38ab566a-a6fe-4399-a3e6-9e62466588b1,12/21/2026 08:30:00,Consumer Price Index,MEDIUM,HKD,Release,0.14,Confidence
+11db0c1b-c8aa-41c0-b1be-ed592871a5ff,01/04/2027 08:30:00,Retail Sales,HIGH,HKD,Release,0.17,Growth
+be3c3fd5-9fe6-4250-affb-8f10a46cfd29,01/06/2027 00:30:00,S&P Global PMI,HIGH,HKD,Release,0.17,Growth
+5257c1f3-9416-433d-8d1a-e3dc4670edc0,01/18/2027 08:30:00,Unemployment rate,HIGH,HKD,Release,0.18,Labor Market
+db286269-40c9-4df4-9a84-67b12af4821f,01/21/2027 08:30:00,Consumer Price Index,MEDIUM,HKD,Release,0.14,Confidence

@@ -1,8 +1,46 @@
 Id,Start,Name,Impact,Currency
-733cb0d9-cda1-452c-8051-8972bb7f8686,01/15/2026 12:00:00,Consumer Price Index (MoM),LOW,QAR
-3a99da77-e8fc-4c3c-b3b3-89a63412c2c6,01/15/2026 12:00:00,Consumer Price Index (YoY),LOW,QAR
-78900413-12ac-40e1-a5a4-e0c757fc96f3,01/21/2026 14:00:00,M2 Money Supply,LOW,QAR
+78900413-12ac-40e1-a5a4-e0c757fc96f3,01/22/2026 08:00:00,M2 Money Supply,LOW,QAR
+6b6117be-936b-4256-954c-c291d9bebcf8,02/17/2026 11:00:00,Consumer Price Index (MoM),LOW,QAR
+b46061a8-2c30-4051-8d72-6e60f30d0cef,02/17/2026 11:00:00,Consumer Price Index (YoY),LOW,QAR
+1a591621-5454-4928-8d4f-22f1ebefca2a,02/23/2026 14:00:00,M2 Money Supply,LOW,QAR
+5c84f2cc-ac45-41fc-b933-ec1e80cd69a9,03/17/2026 11:00:00,Consumer Price Index (MoM),LOW,QAR
+84996d43-cb34-4fe5-a8fb-f7851304e398,03/17/2026 11:00:00,Consumer Price Index (YoY),LOW,QAR
+f1ea93c5-3571-4169-9e5e-49fb2cb52f16,03/19/2026 14:00:00,M2 Money Supply,LOW,QAR
 6acc6619-3de0-4682-8dee-9e9a3f8df033,03/31/2026 12:00:00,Gross Domestic Product (QoQ),LOW,QAR
 0e4f9bf0-05a5-4265-b89b-3e53f864e799,03/31/2026 12:00:00,Gross Domestic Product (YoY),LOW,QAR
-9af10a7d-1df8-48ca-ac4a-9fec255aad7f,09/15/2026 12:00:00,Gross Domestic Product (QoQ),LOW,QAR
-7bf4c02f-dc16-4309-8aa6-ec413a7fc69e,09/15/2026 12:00:00,Gross Domestic Product (YoY),LOW,QAR
+29b9b24a-87aa-4f64-bc6b-0315c42fe3ff,04/14/2026 11:00:00,Consumer Price Index (MoM),LOW,QAR
+9d61004f-5b2d-4daf-84c9-f6345385aa1e,04/14/2026 11:00:00,Consumer Price Index (YoY),LOW,QAR
+c8f35578-8e27-486a-91cc-cf8a9ed15c28,04/23/2026 14:00:00,M2 Money Supply,LOW,QAR
+a784174e-751d-4200-8793-3479c4e7d4e7,05/12/2026 11:00:00,Consumer Price Index (MoM),LOW,QAR
+7795676b-9012-475b-809a-2eedb508d403,05/12/2026 11:00:00,Consumer Price Index (YoY),LOW,QAR
+c985cffd-6e7e-405a-a5ba-c364249cab63,05/21/2026 14:00:00,M2 Money Supply,LOW,QAR
+19d31171-c67a-457e-9d04-8feeb520df8b,06/16/2026 11:00:00,Consumer Price Index (MoM),LOW,QAR
+ebef6a3c-501b-4dc2-9312-812ae7d9b873,06/16/2026 11:00:00,Consumer Price Index (YoY),LOW,QAR
+6822f547-5a64-4c0a-991c-4eff6fe56023,06/23/2026 14:00:00,M2 Money Supply,LOW,QAR
+9af10a7d-1df8-48ca-ac4a-9fec255aad7f,06/25/2026 12:00:00,Gross Domestic Product (QoQ),LOW,QAR
+7bf4c02f-dc16-4309-8aa6-ec413a7fc69e,06/25/2026 12:00:00,Gross Domestic Product (YoY),LOW,QAR
+b5d21071-ae54-40de-85c7-a631ca8b9b97,07/09/2026 11:00:00,Consumer Price Index (MoM),LOW,QAR
+dc9d6565-1cb2-49f5-82af-69a0bbb32fc6,07/09/2026 11:00:00,Consumer Price Index (YoY),LOW,QAR
+e0bb500e-bfec-46d3-b186-624017adc4cb,07/21/2026 14:00:00,M2 Money Supply,LOW,QAR
+2841c70b-05ed-4c5d-a679-b8d6af84302c,08/11/2026 11:00:00,Consumer Price Index (MoM),LOW,QAR
+bdbcba32-3c4c-42ea-9b4b-f14103811465,08/11/2026 11:00:00,Consumer Price Index (YoY),LOW,QAR
+328124b5-371d-4449-96ac-85d1923d3f21,08/20/2026 14:00:00,M2 Money Supply,LOW,QAR
+2e303d8d-b9a9-4b09-8614-0452ee162115,09/10/2026 11:00:00,Consumer Price Index (MoM),LOW,QAR
+faf35986-766a-47b8-a9ba-4e3b28d320ed,09/10/2026 11:00:00,Consumer Price Index (YoY),LOW,QAR
+cfcc186c-ac94-4865-b475-1fa0f480f63d,09/22/2026 14:00:00,M2 Money Supply,LOW,QAR
+a32da49e-3bca-44cb-9559-fec47b981456,09/25/2026 15:00:00,Gross Domestic Product (QoQ),LOW,QAR
+80aa1ab7-edaf-4a29-81c3-e4fe1abae5bd,09/25/2026 15:00:00,Gross Domestic Product (YoY),LOW,QAR
+0b024227-4497-4723-ac6b-e7a5b748c56c,10/13/2026 11:00:00,Consumer Price Index (MoM),LOW,QAR
+8e738ed4-3cbf-4871-9103-78c7a84f080f,10/13/2026 11:00:00,Consumer Price Index (YoY),LOW,QAR
+65f40a51-5b81-42ca-af92-b5b2b2e772e3,10/20/2026 14:00:00,M2 Money Supply,LOW,QAR
+3ee853a2-3d92-482f-b2d0-a1e4e19c7512,11/10/2026 11:00:00,Consumer Price Index (MoM),LOW,QAR
+d2661346-767f-4a0e-ad81-2a41811a9f6e,11/10/2026 11:00:00,Consumer Price Index (YoY),LOW,QAR
+1c90e55c-a7e0-4cb8-b4d2-becbb0afaf78,11/19/2026 14:00:00,M2 Money Supply,LOW,QAR
+64f48ef7-755c-4e8a-9f88-cac56712292f,12/09/2026 11:00:00,Consumer Price Index (MoM),LOW,QAR
+7845329c-d883-42e3-b9a8-f39d9c35530e,12/09/2026 11:00:00,Consumer Price Index (YoY),LOW,QAR
+1a35b776-5122-4bf6-b5f8-be60f48666f3,12/22/2026 14:00:00,M2 Money Supply,LOW,QAR
+418671d0-3698-4a7d-8f78-279c70c8447c,12/28/2026 15:00:00,Gross Domestic Product (QoQ),LOW,QAR
+c5a56ced-c9bf-4502-84e5-4df9dfccf84e,12/28/2026 15:00:00,Gross Domestic Product (YoY),LOW,QAR
+f4ece7cb-d90f-4e72-8612-3c7fce579ddd,01/12/2027 11:00:00,Consumer Price Index (MoM),LOW,QAR
+8c79b035-ab93-4a63-b461-c4b653d35252,01/12/2027 11:00:00,Consumer Price Index (YoY),LOW,QAR
+4d3d40df-7e4a-44a5-9f2d-83185df2eef6,01/21/2027 14:00:00,M2 Money Supply,LOW,QAR

@@ -1,11 +1,129 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-8cde12ac-f0f2-46af-a7f1-1e9c9625953f,01/15/2026 08:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
-9438fdc4-b1a0-4508-b95f-ab38a5651584,01/15/2026 08:00:00,Core Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
-05624210-b1cf-494a-b254-2cc17a7209b8,01/15/2026 08:00:00,Headline Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
-debc02f1-968e-402f-8aaf-632448d903fa,01/15/2026 08:00:00,Headline Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
-8979b490-0fba-4a47-b8a0-961cafc4aea4,01/19/2026 08:00:00,EU Norm Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
-979aad02-0e95-4586-8574-ac551254f052,01/19/2026 08:00:00,EU Norm Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
-f00eda42-6c60-4c2d-b313-1b864498e041,01/20/2026 09:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
-9410a541-fcdc-4fad-b59c-400e92c2d771,01/21/2026 10:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
-231e525f-e0b9-4cef-aff7-c41d233dc018,02/17/2026 08:00:00,Gross Domestic Product Prelim (YoY),HIGH,EUR,Release,0.722,Growth
-e0a8f01e-9807-4d6c-aaa9-201136e9bc1b,03/05/2026 08:00:00,Gross Domestic Product Qtr Final (YoY),HIGH,EUR,Release,0.722,Growth
+08fba868-93da-40f1-8540-e2e2f219db1b,02/06/2026 08:00:00,Foreign Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+19f1e5fd-2867-48d2-bdc3-558a1017bf78,02/10/2026 08:00:00,Industrial Output (YoY),HIGH,EUR,Release,0.722,Growth
+231e525f-e0b9-4cef-aff7-c41d233dc018,02/13/2026 08:00:00,Gross Domestic Product Prelim (YoY),HIGH,EUR,Release,0.722,Growth
+1e7d1643-9761-47a1-a4a3-7f70c98a93ff,02/16/2026 08:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+2126dc53-eae2-408d-bdd2-51d0002a3249,02/16/2026 08:00:00,Core Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+bc15971b-3792-4495-9f62-877718eee938,02/16/2026 08:00:00,Headline Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+20f7ddc1-ba04-471d-b884-9c3c2174fc3d,02/16/2026 08:00:00,Headline Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+e42f456e-07cf-417f-843f-00730ffbf566,02/17/2026 08:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
+93de6db5-5749-4c66-9c8b-86b5fe005030,02/20/2026 10:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+3a35dfb0-d523-42e7-8d1a-40cbb3499296,02/25/2026 08:00:00,EU Norm Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+123d5a6d-69ca-4cd7-90f8-428f51d8d33c,02/25/2026 08:00:00,EU Norm Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+e0a8f01e-9807-4d6c-aaa9-201136e9bc1b,03/06/2026 08:00:00,Gross Domestic Product Qtr Final (YoY),HIGH,EUR,Release,0.722,Growth
+3d02fe25-7bc0-4663-ac57-c8faa7647770,03/10/2026 08:00:00,Industrial Output (YoY),HIGH,EUR,Release,0.722,Growth
+e84599c2-546f-4b20-80c3-7b46de885ec5,03/11/2026 08:00:00,Foreign Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+3f0c64e2-a333-4e23-9d17-314d6daf845f,03/13/2026 08:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+24d57206-b5ff-47ba-8f51-72f06c09fc13,03/13/2026 08:00:00,Core Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+f4584deb-81db-4c69-82d3-ec39e83807b5,03/13/2026 08:00:00,Headline Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+2ad8e038-a24a-4839-b374-9cf5044d3d3b,03/13/2026 08:00:00,Headline Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+eb488330-86f6-4f94-a6a1-78d06fefaf6d,03/17/2026 08:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
+ff46e35b-efcb-49ae-9ef8-e20fbf454994,03/18/2026 08:00:00,EU Norm Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+3083f0ae-e52d-4871-91d1-8a95765691c7,03/18/2026 08:00:00,EU Norm Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+9915aff8-a178-4c00-ab64-1762237eec58,03/20/2026 10:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+3778c58c-9d4c-4496-8493-6b1b62269e75,04/09/2026 07:00:00,Foreign Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+3ae954ae-03d8-4218-a81a-bb36b9bd643d,04/10/2026 07:00:00,Industrial Output (YoY),HIGH,EUR,Release,0.722,Growth
+08586f71-6cd4-4707-9d4e-95d6da2d0797,04/15/2026 07:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+5f3e5119-7e6b-466c-a860-d3b9b81dfdda,04/15/2026 07:00:00,Core Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+5e2bb1dd-1f0f-4e2f-b403-7ed61916ac3a,04/15/2026 07:00:00,Headline Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+7f92ae40-1d57-4bbd-acaa-8129c300cd3c,04/15/2026 07:00:00,Headline Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+9f39a2bc-5893-4207-a77b-5c10157fead4,04/16/2026 07:00:00,EU Norm Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+0dccd77e-9d02-4cc8-ad76-ddda0c536910,04/16/2026 07:00:00,EU Norm Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+fcf936ad-4aca-4c0d-af3d-19edf371b260,04/20/2026 08:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
+f25a0062-3b9b-42d1-8700-be6ff55c3cb7,04/21/2026 10:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+c47ec29a-07f7-4d5d-9004-1174a9daa4f0,05/08/2026 07:00:00,Foreign Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+d7f07d1e-9d37-44db-8608-734a47e67555,05/08/2026 07:00:00,Industrial Output (YoY),HIGH,EUR,Release,0.722,Growth
+8e91e6d6-6fbd-482c-9812-d5555d638f7d,05/14/2026 07:00:00,Gross Domestic Product Prelim (YoY),HIGH,EUR,Release,0.722,Growth
+744fb5c7-b885-4728-8c7b-d812bfc1ddd1,05/15/2026 07:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+ecddca1a-84e0-465e-b18a-490fc73fa467,05/15/2026 07:00:00,Core Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+4ac8b578-42d1-4a0d-a581-1ce516ed6263,05/15/2026 07:00:00,Headline Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+83b8f7fc-daf0-4add-a19a-354a17544f38,05/15/2026 07:00:00,Headline Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+b412e5d0-6b24-4c31-aefc-3014bd1a105d,05/18/2026 07:00:00,EU Norm Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+56c0eced-54cd-4e69-9853-10f5958f97da,05/18/2026 07:00:00,EU Norm Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+8a0ed404-5a69-44bd-8271-cc1b46919911,05/19/2026 08:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
+3ce761eb-e426-4bbe-b062-4416d5646b36,05/20/2026 10:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+6633b816-8880-4251-badf-ed753c7dd3e5,06/05/2026 07:00:00,Gross Domestic Product Qtr Final (YoY),HIGH,EUR,Release,0.722,Growth
+2fbfcb4f-1c3b-4621-be49-a7f77b3fc7ed,06/09/2026 07:00:00,Foreign Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+17e80059-d744-4a5b-9773-169c5deab59b,06/09/2026 07:00:00,Industrial Output (YoY),HIGH,EUR,Release,0.722,Growth
+ddf5026a-67c0-42b6-93e2-beed620ecb94,06/15/2026 07:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+568b95ff-7b6b-4702-a499-9830d7d3ea37,06/15/2026 07:00:00,Core Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+ce96ffc6-ab49-4f42-bda0-fdb3b858bf5f,06/15/2026 07:00:00,Headline Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+10dc7cbf-136f-4634-81a0-2972ab3a6703,06/15/2026 07:00:00,Headline Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+6b45ef6b-c96e-47e0-a700-57a68441f502,06/17/2026 07:00:00,EU Norm Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+cd260f1d-c0a4-4c07-a94f-9e3d33e01e9a,06/17/2026 07:00:00,EU Norm Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+6d84ccc1-b492-4ea2-8deb-ef3e1fcfe571,06/17/2026 08:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
+a35f2ce2-3916-4ae4-803c-e8c9fd8c9366,06/22/2026 10:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+2d314e32-f8cc-44e3-985b-63d3feb01a0e,07/09/2026 07:00:00,Foreign Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+2a2ece25-f2ae-461b-8596-d336f93d9cc3,07/10/2026 07:00:00,Industrial Output (YoY),HIGH,EUR,Release,0.722,Growth
+26be4445-eb2a-4ec4-84c9-5f76f314f969,07/15/2026 07:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+5e78d5cb-45fb-41d4-8c3d-49756e735d62,07/15/2026 07:00:00,Core Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+84bfa4ab-7d9f-47dd-b8f0-f432458eb497,07/15/2026 07:00:00,Headline Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+4e21581d-cc1e-4f2d-b30e-695475a933bf,07/15/2026 07:00:00,Headline Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+66c8741b-9216-4233-85e8-13c5356885bb,07/17/2026 07:00:00,EU Norm Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+4e32632d-901f-4886-94e2-2374a39e5fac,07/17/2026 07:00:00,EU Norm Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+12a85733-9f29-480b-9f9f-2042af26b5e5,07/17/2026 08:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
+53c48b09-f959-438c-8dec-1bde7fbec4f2,07/20/2026 10:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+805aa748-3c42-4dab-9de2-8e10788663c3,08/07/2026 07:00:00,Foreign Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+e7fa7c22-6575-4f95-8bd0-00592b98d864,08/10/2026 07:00:00,Industrial Output (YoY),HIGH,EUR,Release,0.722,Growth
+286fe57f-a58b-4c69-b7af-12a014ff1f97,08/14/2026 07:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+8848031e-d0df-4b29-aa64-44a7c4fd376b,08/14/2026 07:00:00,Core Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+c6813309-ca0f-4222-890a-4644a2127231,08/14/2026 07:00:00,Gross Domestic Product Prelim (YoY),HIGH,EUR,Release,0.722,Growth
+5075f5d8-a383-411c-baf2-9bf6a80988cf,08/14/2026 07:00:00,Headline Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+5995ec7b-cf31-4748-80ee-5d56b3f6c74a,08/14/2026 07:00:00,Headline Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+8dff1cc6-262a-4bd9-a8fa-a963ae2c65a6,08/19/2026 07:00:00,EU Norm Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+0edbae00-c53c-4b35-84ea-f9abc4f0c5c5,08/19/2026 07:00:00,EU Norm Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+4d206121-5c1f-4fbb-a475-e95c7c2e61bb,08/19/2026 08:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
+59a85030-c842-4e32-be34-03098b556267,08/20/2026 10:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+e9449e52-ebb5-4932-96ca-72964cba8807,09/04/2026 07:00:00,Gross Domestic Product Qtr Final (YoY),HIGH,EUR,Release,0.722,Growth
+7701e376-3bb9-4f88-b75a-9c22a4b20628,09/08/2026 07:00:00,Foreign Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+5a601418-7738-4087-b4f4-4fd70a075269,09/09/2026 07:00:00,Industrial Output (YoY),HIGH,EUR,Release,0.722,Growth
+eef3fd7a-9ef5-4426-9a51-bcc482bef830,09/15/2026 07:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+318cf190-d167-4a8e-8a19-16d4b9d2acb5,09/15/2026 07:00:00,Core Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+fbe5fe03-2e1a-48d7-99f5-fe2ea9a88bc0,09/15/2026 07:00:00,Headline Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+5d9a501d-8b8a-4c27-b94c-bf2151e280e6,09/15/2026 07:00:00,Headline Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+7c0a7a1c-bf8f-4565-8442-3440fc4e7073,09/16/2026 07:00:00,EU Norm Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+1baf932a-01a9-422c-b7f6-a0091062f8f8,09/16/2026 07:00:00,EU Norm Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+1273f64f-e2d5-4c07-8c36-7777d90513a0,09/18/2026 08:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
+447631e7-4ad7-4684-b4f2-652988f4339e,09/21/2026 10:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+60256272-596e-495e-9d49-e9f7f293da25,10/09/2026 07:00:00,Foreign Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+3f6902f0-936b-4575-824c-e705fb84c269,10/09/2026 07:00:00,Industrial Output (YoY),HIGH,EUR,Release,0.722,Growth
+6d2613e4-b49e-40a0-a0b3-10f26467aca5,10/13/2026 07:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+b25bf496-8ea8-4e69-8963-44bcc28258f2,10/13/2026 07:00:00,Core Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+1b00e5e5-f24a-4091-96cc-6289540774f4,10/13/2026 07:00:00,Headline Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+803e1734-5416-4c6e-81f6-c5ff6676b2ac,10/13/2026 07:00:00,Headline Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+4764ba85-aee0-4a35-8315-9b5fa9573cc6,10/19/2026 07:00:00,EU Norm Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+74fc8f53-2a5b-48f2-ad6d-09c19faaad8c,10/19/2026 07:00:00,EU Norm Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+7262636c-e65e-4248-8173-779c23283c5e,10/20/2026 08:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
+41f53be4-d104-46bd-80a6-28bd3b4a9f6d,10/20/2026 10:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+6f971508-4a6f-4e62-90e7-030141e19a99,11/09/2026 08:00:00,Foreign Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+791a34e5-749d-48ba-8605-54ec7e173e5b,11/10/2026 08:00:00,Industrial Output (YoY),HIGH,EUR,Release,0.722,Growth
+afbfe989-4eed-4d13-9746-2ef43506e3d7,11/13/2026 08:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+5ce01909-97c8-4ea5-a87d-bf4f036e2915,11/13/2026 08:00:00,Core Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+007f44e2-2e8c-4011-bb9c-be01afbcedc1,11/13/2026 08:00:00,Gross Domestic Product Prelim (YoY),HIGH,EUR,Release,0.722,Growth
+18a27e51-2108-4061-91be-132408fb5765,11/13/2026 08:00:00,Headline Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+995ff28e-5f18-4584-89c5-b9468cceb1b7,11/13/2026 08:00:00,Headline Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+e9ee52c5-82bf-4d78-be2e-ef34f0278bd7,11/18/2026 08:00:00,EU Norm Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+ec63a741-db14-4e13-a11b-d660346ea12a,11/18/2026 08:00:00,EU Norm Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+c8917bb0-bab6-420e-954d-ea9c64ea0768,11/19/2026 08:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
+e6c0f0ed-cc1c-4ace-99f5-dda415d71c76,11/20/2026 10:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+b568b56c-1fd2-486a-899a-c2db98620385,12/04/2026 08:00:00,Gross Domestic Product Qtr Final (YoY),HIGH,EUR,Release,0.722,Growth
+1607fd77-52b4-4ff0-912e-0a80b95af5fc,12/10/2026 08:00:00,Foreign Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+0283484c-fce6-4fdf-9458-8b1821aa152f,12/10/2026 08:00:00,Industrial Output (YoY),HIGH,EUR,Release,0.722,Growth
+ec9345e7-dfc8-4aba-b42a-ced3c9a83181,12/15/2026 08:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+b332799d-d6ff-486d-b9b7-430ba3df339a,12/15/2026 08:00:00,Core Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+cf660d8a-dda9-42ee-835a-476afbf7fa95,12/15/2026 08:00:00,Headline Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+9ef9ce39-cd78-4947-b7b5-c56f1de807d2,12/15/2026 08:00:00,Headline Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+07bff19f-f3a2-4abc-8b1d-38e98e1e3511,12/16/2026 08:00:00,EU Norm Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+a3b6eeb5-03d4-4b7c-b052-c61d46302dd4,12/16/2026 08:00:00,EU Norm Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+285b4a36-e07d-4772-9815-eecd7c0a63e5,12/18/2026 08:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
+0e21fcbc-6cad-4790-8a60-50b6bff678b0,12/21/2026 10:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+1f215802-afd7-4313-b552-396c75475107,01/08/2027 08:00:00,Foreign Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+afd65ca5-4721-41c0-aa87-dbd4f3f58988,01/08/2027 08:00:00,Industrial Output (YoY),HIGH,EUR,Release,0.722,Growth
+79435a24-15e8-4fff-acd6-5d4794953415,01/15/2027 08:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+d88adb5d-4235-487a-9ef9-9c010ded1cdf,01/15/2027 08:00:00,Core Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+80a083ab-6fb0-486b-b4fe-4c659b5a28d4,01/15/2027 08:00:00,Headline Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+e9a4c10a-3f3a-42b9-b139-2f337fadccb1,01/15/2027 08:00:00,Headline Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+f365c57d-5a86-4e1c-85d1-c5596953ff9c,01/19/2027 08:00:00,EU Norm Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+89649d3e-2555-42c3-b7c9-1eed578f84f0,01/19/2027 08:00:00,EU Norm Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+063ce232-3f3a-4b3b-8de7-7df5d83e0b29,01/20/2027 08:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
+60b54a90-5e89-4e44-92ca-1a8f8948b56a,01/20/2027 10:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market

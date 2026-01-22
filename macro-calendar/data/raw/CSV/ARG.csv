@@ -1,5 +1,57 @@
 Id,Start,Name,Impact,Currency
-79ebc57a-f529-4dda-80e8-a7dadd73eeee,01/14/2026 19:00:00,Consumer Price Index (MoM),LOW,ARS
-028e2e05-144d-4ebc-93e4-1cc62378a441,01/19/2026 19:00:00,Trade Balance (MoM),LOW,ARS
-f30459f2-d8e4-48c0-9699-e10f5e1d7865,03/19/2026 19:00:00,Unemployment Rate (QoQ)	,LOW,ARS
-0f5b86e0-559d-43b1-abff-b4cb429848d6,03/23/2026 19:00:00,Gross Domestic Product (YoY)	,LOW,ARS
+3cca66cc-2ae5-45d8-a697-4afdc7124e4b,02/02/2026 19:00:00,Tax Revenue (MoM),LOW,ARS
+bd62c5e4-0f2d-40d5-83a7-0708d3cdc8b1,02/06/2026 19:00:00,Industrial Output n.s.a (YoY),LOW,ARS
+8fed412d-c013-4602-93b9-5aa8d00d6eae,02/10/2026 19:00:00,Consumer Price Index (MoM),LOW,ARS
+b3332baa-1ca8-4361-86a3-d29a297ee559,02/19/2026 19:00:00,Trade Balance (MoM),LOW,ARS
+7b302ae6-c9a3-4ff7-92a4-d45fda07648f,03/02/2026 19:00:00,Tax Revenue (MoM),LOW,ARS
+7a118470-5101-4326-a149-4b432bffce48,03/06/2026 19:00:00,Industrial Output n.s.a (YoY),LOW,ARS
+8660a5d7-c9e5-4868-a5d8-b0668adf7a7c,03/12/2026 19:00:00,Consumer Price Index (MoM),LOW,ARS
+f30459f2-d8e4-48c0-9699-e10f5e1d7865,03/18/2026 19:00:00,Unemployment Rate (QoQ)	,LOW,ARS
+f4853ab2-0c01-45dc-9f8d-a388cca7a43e,03/19/2026 19:00:00,Trade Balance (MoM),LOW,ARS
+0f5b86e0-559d-43b1-abff-b4cb429848d6,03/20/2026 19:00:00,Gross Domestic Product (YoY)	,LOW,ARS
+29ecec83-36c4-419b-a5fd-d35db7144c11,04/02/2026 19:00:00,Tax Revenue (MoM),LOW,ARS
+32b8d7cd-737d-4285-b62e-0d232f19286c,04/09/2026 19:00:00,Industrial Output n.s.a (YoY),LOW,ARS
+d15f614c-bd6f-4967-858c-a55ba68b9dc1,04/14/2026 19:00:00,Consumer Price Index (MoM),LOW,ARS
+227f333d-4e0b-43c1-9a98-3cf989cfb08a,04/20/2026 19:00:00,Trade Balance (MoM),LOW,ARS
+201bdb0b-63cc-473a-af07-a79c0ddc8292,05/04/2026 19:00:00,Tax Revenue (MoM),LOW,ARS
+502f89b2-5c06-4fbb-9117-8d61558bb4ce,05/07/2026 19:00:00,Industrial Output n.s.a (YoY),LOW,ARS
+7ed0f048-059e-4977-a196-318fdb22ad1b,05/14/2026 19:00:00,Consumer Price Index (MoM),LOW,ARS
+cf42b32b-ff23-45fc-b1cd-736034c14efc,05/20/2026 19:00:00,Trade Balance (MoM),LOW,ARS
+91f1f286-ade1-44df-af7c-229a74878105,06/02/2026 19:00:00,Tax Revenue (MoM),LOW,ARS
+4240653a-fbc6-4d9b-aefd-ec49c4d1c61e,06/09/2026 19:00:00,Industrial Output n.s.a (YoY),LOW,ARS
+9978e0ea-f80b-4476-8b60-2b500b176369,06/11/2026 19:00:00,Consumer Price Index (MoM),LOW,ARS
+86e1649f-61ff-4ac8-bc88-96cf0efd5253,06/18/2026 19:00:00,Trade Balance (MoM),LOW,ARS
+8af58581-daa7-42bd-8d7c-bed90ab9cb57,06/22/2026 19:00:00,Unemployment Rate (QoQ)	,LOW,ARS
+464c01da-fe7e-473f-a55e-d5752c076af8,06/23/2026 19:00:00,Gross Domestic Product (YoY)	,LOW,ARS
+aba71c49-855f-42a1-844d-c85df556fbfa,07/02/2026 19:00:00,Tax Revenue (MoM),LOW,ARS
+79f0794f-b335-4963-a201-4e61d3819ce5,07/08/2026 19:00:00,Industrial Output n.s.a (YoY),LOW,ARS
+696541a0-16f0-496f-88da-c7a7191eadc8,07/14/2026 19:00:00,Consumer Price Index (MoM),LOW,ARS
+e7181353-30eb-46e4-a622-7ff88a4d1eb2,07/20/2026 19:00:00,Trade Balance (MoM),LOW,ARS
+73e784fe-0b47-4925-ba6a-33481d4b65aa,08/03/2026 19:00:00,Tax Revenue (MoM),LOW,ARS
+cbac89eb-1f50-42dd-8ecf-8e8a4f673c54,08/07/2026 19:00:00,Industrial Output n.s.a (YoY),LOW,ARS
+1222c96f-04e8-4a04-bdb3-2ed10d0540a7,08/13/2026 19:00:00,Consumer Price Index (MoM),LOW,ARS
+9d59c90e-02ee-4070-9f80-30695e296aae,08/20/2026 19:00:00,Trade Balance (MoM),LOW,ARS
+838ecb39-b6e5-4646-9ef2-3bbb7196c6ad,09/03/2026 19:00:00,Tax Revenue (MoM),LOW,ARS
+2c58e702-11fe-4482-bcf8-494d0c087b9d,09/08/2026 19:00:00,Industrial Output n.s.a (YoY),LOW,ARS
+f2650762-99c3-4447-826b-cdd651bce9c6,09/10/2026 19:00:00,Consumer Price Index (MoM),LOW,ARS
+84456b66-46c5-4227-bd34-7554a7282c77,09/17/2026 19:00:00,Gross Domestic Product (YoY)	,LOW,ARS
+10d5823b-02a2-4c7b-821e-ec2d8e176b9e,09/17/2026 19:00:00,Unemployment Rate (QoQ)	,LOW,ARS
+fa4b8a6a-bf40-4f99-bce2-027bcf4c3fb0,09/18/2026 19:00:00,Trade Balance (MoM),LOW,ARS
+27651aa9-df96-42bf-9905-b85db0fb5761,10/05/2026 19:00:00,Tax Revenue (MoM),LOW,ARS
+035ad292-a4de-47f2-8444-dcb7581f8c6e,10/07/2026 19:00:00,Industrial Output n.s.a (YoY),LOW,ARS
+b97db9e6-0dce-4350-8f8a-495a59903754,10/13/2026 19:00:00,Consumer Price Index (MoM),LOW,ARS
+1120961f-d064-43be-9d3e-1b926307ab75,10/19/2026 19:00:00,Trade Balance (MoM),LOW,ARS
+a32cd5d0-0f84-442b-a920-de4b42b807b2,11/02/2026 19:00:00,Tax Revenue (MoM),LOW,ARS
+c67f1907-1ccc-4bfc-8807-4aeac0db8680,11/09/2026 19:00:00,Industrial Output n.s.a (YoY),LOW,ARS
+86133912-4dea-4669-b33e-9e77484ca685,11/12/2026 19:00:00,Consumer Price Index (MoM),LOW,ARS
+b1837d9b-d03d-49b2-b136-3d63868dc3c1,11/19/2026 19:00:00,Trade Balance (MoM),LOW,ARS
+3b53d0ae-77b9-4726-9145-cc765c491969,12/03/2026 19:00:00,Tax Revenue (MoM),LOW,ARS
+95ad913b-ca78-4160-8e0b-e16aec4ff5a7,12/09/2026 19:00:00,Industrial Output n.s.a (YoY),LOW,ARS
+656a7e5a-8812-4eb2-9a40-4f3374af02de,12/15/2026 19:00:00,Consumer Price Index (MoM),LOW,ARS
+e513640c-8464-497f-b3ce-421cc9a72a6d,12/16/2026 19:00:00,Gross Domestic Product (YoY)	,LOW,ARS
+37240dd7-d152-4ebb-9377-cf060115761e,12/18/2026 19:00:00,Trade Balance (MoM),LOW,ARS
+60f1fc68-ebeb-4ac3-89ac-13f4bb7022d3,12/18/2026 19:00:00,Unemployment Rate (QoQ)	,LOW,ARS
+29e93bd1-cf83-4c36-9720-7dc89aec8116,01/04/2027 19:00:00,Tax Revenue (MoM),LOW,ARS
+80c68071-c782-4a78-bda8-e7e30e1afd2f,01/08/2027 19:00:00,Industrial Output n.s.a (YoY),LOW,ARS
+a5192dd6-45a0-49e5-96b5-090b09fdd5d2,01/12/2027 19:00:00,Consumer Price Index (MoM),LOW,ARS
+2ddcdce1-1419-4cc0-ae40-3bd4ab0ec8c4,01/20/2027 19:00:00,Trade Balance (MoM),LOW,ARS

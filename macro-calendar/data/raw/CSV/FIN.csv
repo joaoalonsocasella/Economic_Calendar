@@ -1,6 +1,4 @@
 Id,Start,Name,Impact,Currency
-118b566d-cc7c-490f-ab09-40908de5f611,01/12/2026 06:00:00,Current Account,LOW,EUR
-49bf9b61-9e9c-4a30-a8a0-15624235c54d,01/14/2026 06:00:00,Consumer Price Index (YoY),LOW,EUR
 ddc90faa-6cdb-45f4-a27f-4eda60008233,01/26/2026 06:00:00,Export Prices (YoY),LOW,EUR
 a5919de6-8923-4304-8ee6-110521d74537,01/26/2026 06:00:00,Import Prices (YoY),LOW,EUR
 e4d9cbad-452e-419b-8283-10978625ab10,01/26/2026 06:00:00,Producer Price Index (YoY),LOW,EUR
@@ -8,7 +6,7 @@ a15284af-52a1-47dd-9ecd-a2bed5864f38,01/27/2026 06:00:00,Consumer Confidence,LOW
 4d714ad1-3b69-4ad9-8428-f723976c23a4,01/27/2026 06:00:00,Industrial Confidence,LOW,EUR
 0572b76e-2cea-4b45-840c-f28684ff284f,01/27/2026 06:00:00,Unemployment Rate,LOW,EUR
 2ff26e2c-d0d9-4352-8d09-507db10c53a3,01/30/2026 06:00:00,Gross Domestic Product (YoY),LOW,EUR
-479709f5-9d7b-4930-afc9-742879627d94,02/06/2026 07:00:00,Trade Balance,LOW,EUR
+479709f5-9d7b-4930-afc9-742879627d94,02/05/2026 07:00:00,Trade Balance,LOW,EUR
 cc76505b-78c8-4c37-900f-b555654c96bb,02/10/2026 06:00:00,Industrial Output (MoM),LOW,EUR
 ff8b922a-5699-43f4-aba9-93beea10a1d8,02/12/2026 06:00:00,Current Account,LOW,EUR
 775d4f32-900b-4dd0-a784-6a705fbbc8b6,02/19/2026 06:00:00,Consumer Price Index (YoY),LOW,EUR

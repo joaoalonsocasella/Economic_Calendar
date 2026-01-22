@@ -1,9 +1,32 @@
 Id,Start,Name,Impact,Currency
-ab7ae6ea-85ca-46ac-85cc-abf970319b7c,01/23/2026 03:20:00,Trade Balance,LOW,THB
 abe3f359-4a1b-42b1-8a49-c62ecc6cd06e,01/27/2026 03:30:00,Customs-Based Trade Balance,LOW,THB
 8d186b6e-30e6-4217-9672-b6bf79d0fb96,01/30/2026 07:00:00,Current Account,LOW,THB
 2dcef943-274e-4c0c-b174-fc1a2bb6bfb2,01/30/2026 07:00:00,Private Consumption Index,LOW,THB
 61805322-b99f-4a21-a192-d661417fd13c,01/30/2026 07:00:00,Private Investment Index,LOW,THB
 9fe57ab7-870f-40a6-b5fb-00059c4dac32,01/30/2026 07:00:00,Trade Balance,LOW,THB
+fafe2934-10dd-4760-ba0a-77277f3b53a4,02/05/2026 03:30:00,Consumer Price Index (YoY),LOW,THB
+352a01a0-3f3f-4aad-b629-5620945c4e43,02/05/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB
 8dc3aa4b-6e81-4f89-aa2a-cd6590b991af,02/23/2026 02:30:00,Gross Domestic Product (YoY),LOW,THB
 e4907ae2-c567-4a8c-9f00-eda6c5958033,02/23/2026 02:30:00,Gross Domestic Product s.a. (QoQ),LOW,THB
+13eb0609-d528-433a-a6e9-bdbf124756ee,03/05/2026 03:30:00,Consumer Price Index (YoY),LOW,THB
+678f69d7-cc86-41a4-b904-f9343e900569,03/05/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB
+e2c877a5-8183-499f-8696-215849052f90,04/06/2026 03:30:00,Consumer Price Index (YoY),LOW,THB
+4a109afb-2793-4ad9-8c0f-cfb9409acce8,04/06/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB
+5e23871f-a7e4-4fac-bbfa-e99a207feea7,05/06/2026 03:30:00,Consumer Price Index (YoY),LOW,THB
+371a4536-813c-49ba-88e4-9720797247ff,05/06/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB
+dbbb8151-4eb5-4490-9558-4edf6ec39801,06/05/2026 03:30:00,Consumer Price Index (YoY),LOW,THB
+0e2aa50b-2891-4c9d-9b63-6c682f81740b,06/05/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB
+270c277c-e03b-4aca-a3a9-1e502d3ed786,07/06/2026 03:30:00,Consumer Price Index (YoY),LOW,THB
+125f71c4-dbf7-4640-aa7a-ce71ae6f68a0,07/06/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB
+a9c05739-4f8d-4948-acbd-53d9049028f9,08/05/2026 03:30:00,Consumer Price Index (YoY),LOW,THB
+fed05970-e6e9-461d-85a0-bde01bd25180,08/05/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB
+31022b04-807d-4b8b-a4b2-4664cbf5c6d3,09/04/2026 03:30:00,Consumer Price Index (YoY),LOW,THB
+0c222c61-0d37-4dd8-aa77-c47e25f0ede2,09/04/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB
+6dc9ab93-5d70-4129-8c67-6292e5d68123,10/06/2026 03:30:00,Consumer Price Index (YoY),LOW,THB
+6749f76d-bdd0-444d-8af8-596771ebf88d,10/06/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB
+f09676f7-3a26-4fab-b1db-e87ec19beba0,11/05/2026 03:30:00,Consumer Price Index (YoY),LOW,THB
+7d9a5693-5442-4039-a7e8-7345acbcf282,11/05/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB
+81ff085a-ba93-432f-828b-4795f32eb8fe,12/04/2026 03:30:00,Consumer Price Index (YoY),LOW,THB
+dc6c2421-ea6c-4fc5-a61b-dff25e0107f8,12/04/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB
+2599c29f-dceb-425c-a4ef-b9f0af24986d,01/06/2027 03:30:00,Consumer Price Index (YoY),LOW,THB
+396fe499-8fe7-4503-8882-d8e8c08992fa,01/06/2027 03:30:00,Core Consumer Price Index (YoY),LOW,THB

@@ -1,4 +1,57 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-763277e2-6cf3-4262-b26d-a52cefba67d3,01/12/2026 07:00:00,Trade Balance,MEDIUM,RON,Release,0.11,Trade and External
-5e0e9d6b-092f-475c-950f-e47b8506d610,01/13/2026 07:00:00,Consumer Price Index,MEDIUM,RON,Release,0.14,Confidence
-1dff9cb7-056d-4cbc-869d-82240a3471c5,01/14/2026 07:00:00,Industrial Production (MoM),HIGH,RON,Release,0.17,Growth
+7ce7c1cb-1b58-448c-b16b-51a916fb2901,02/09/2026 07:00:00,Trade Balance,MEDIUM,RON,Release,0.11,Trade and External
+59954464-1c14-4ed2-bee4-16dabc13f1bf,02/13/2026 07:00:00,Gross Domestic Product,LOW,RON,Release,0.09,Money and Credit
+8bf410f9-bced-4f05-8338-62bf11880539,02/13/2026 07:00:00,Industrial Production (MoM),HIGH,RON,Release,0.17,Growth
+63675692-9c2f-4312-8fa4-b3cbdfd634ec,02/16/2026 07:00:00,Consumer Price Index,MEDIUM,RON,Release,0.14,Confidence
+60fdd01f-711a-4de3-8c05-babd78de3489,02/17/2026 13:00:00,Interest rate decision,HIGH,RON,Release,0.2,Monetary Policy
+35856b57-a2a0-4e8e-9158-b340b60376ed,03/06/2026 07:00:00,Gross Domestic Product,LOW,RON,Release,0.09,Money and Credit
+01d67ffb-54ba-4292-a13f-4bb4dab316f8,03/12/2026 07:00:00,Trade Balance,MEDIUM,RON,Release,0.11,Trade and External
+c5fbbccb-0edf-4c1e-bbb0-af0030ffb045,03/13/2026 07:00:00,Consumer Price Index,MEDIUM,RON,Release,0.14,Confidence
+94c61939-3992-4b6c-9b91-30b681ff207c,03/13/2026 07:00:00,Industrial Production (MoM),HIGH,RON,Release,0.17,Growth
+d51a3432-1c3b-4207-9e25-c996cfaf6f64,04/07/2026 12:00:00,Interest rate decision,HIGH,RON,Release,0.2,Monetary Policy
+c20d1da7-e04d-4e79-a79a-c9a68f2f7a63,04/09/2026 06:00:00,Gross Domestic Product,LOW,RON,Release,0.09,Money and Credit
+b11ed6a6-3383-49e4-91e4-37cf77f667c7,04/09/2026 06:00:00,Trade Balance,MEDIUM,RON,Release,0.11,Trade and External
+a9766a6f-e273-4cbe-92b4-7be28d3f289e,04/14/2026 06:00:00,Consumer Price Index,MEDIUM,RON,Release,0.14,Confidence
+97c9d95f-777e-45de-a676-bc4f85d907f0,04/15/2026 06:00:00,Industrial Production (MoM),HIGH,RON,Release,0.17,Growth
+75ad29ef-b944-4554-9b11-b44ee40a48e3,05/11/2026 06:00:00,Trade Balance,MEDIUM,RON,Release,0.11,Trade and External
+ca252041-fc48-4d9c-a30f-ed867a49313c,05/13/2026 06:00:00,Consumer Price Index,MEDIUM,RON,Release,0.14,Confidence
+0f7d874c-abc4-4bfd-993b-c99b6b45316a,05/13/2026 06:00:00,Industrial Production (MoM),HIGH,RON,Release,0.17,Growth
+a02de86f-2b61-4057-bdc5-25038df13409,05/15/2026 06:00:00,Gross Domestic Product,LOW,RON,Release,0.09,Money and Credit
+a1c3649d-55e3-4e02-8b6f-e2a536dd79ad,05/15/2026 12:00:00,Interest rate decision,HIGH,RON,Release,0.2,Monetary Policy
+ab05a291-d6d2-4eac-a330-f3bb76998046,06/05/2026 06:00:00,Gross Domestic Product,LOW,RON,Release,0.09,Money and Credit
+3837ecb3-cde1-4a02-8ccb-2f12caf4b12b,06/09/2026 06:00:00,Trade Balance,MEDIUM,RON,Release,0.11,Trade and External
+53167962-9a8f-4db7-ba91-b02c27841836,06/12/2026 06:00:00,Consumer Price Index,MEDIUM,RON,Release,0.14,Confidence
+a48a72c7-cbc4-48d9-8e1b-7fb5c64ed176,06/15/2026 06:00:00,Industrial Production (MoM),HIGH,RON,Release,0.17,Growth
+56d163d3-5a8c-419a-9f8e-581b1adb0cff,07/07/2026 12:00:00,Interest rate decision,HIGH,RON,Release,0.2,Monetary Policy
+5362360a-8bcb-4f55-9cd3-8d39aca41ac6,07/09/2026 06:00:00,Gross Domestic Product,LOW,RON,Release,0.09,Money and Credit
+ae1a329f-8137-4410-a7b6-7e441d8f1f2f,07/09/2026 06:00:00,Trade Balance,MEDIUM,RON,Release,0.11,Trade and External
+6d186103-e0d3-47e5-9df8-4e28f9df4f6b,07/14/2026 06:00:00,Consumer Price Index,MEDIUM,RON,Release,0.14,Confidence
+f1175ce7-4b97-4268-adc3-d6559b11332c,07/14/2026 06:00:00,Industrial Production (MoM),HIGH,RON,Release,0.17,Growth
+7c6cab4d-208d-45e7-866a-4ea45ff49277,08/07/2026 12:00:00,Interest rate decision,HIGH,RON,Release,0.2,Monetary Policy
+4503997b-9231-46a7-90df-61db3fff3a1a,08/10/2026 06:00:00,Trade Balance,MEDIUM,RON,Release,0.11,Trade and External
+3db2bc19-851e-4d97-a9d2-14245ef81a20,08/12/2026 06:00:00,Consumer Price Index,MEDIUM,RON,Release,0.14,Confidence
+28a85b03-0eee-4d76-b388-c7a2af20ac0e,08/14/2026 06:00:00,Gross Domestic Product,LOW,RON,Release,0.09,Money and Credit
+659a6ca1-fb07-47d9-b58b-7df137fb23b8,08/14/2026 06:00:00,Industrial Production (MoM),HIGH,RON,Release,0.17,Growth
+38bf3ac1-8c92-4eda-a2ff-ebefc1fa4419,09/04/2026 06:00:00,Gross Domestic Product,LOW,RON,Release,0.09,Money and Credit
+6fda9f65-7df1-4979-a0eb-fd3348e7cfbf,09/10/2026 06:00:00,Trade Balance,MEDIUM,RON,Release,0.11,Trade and External
+bbc43d04-226a-40f7-9ce5-eebedc26940a,09/11/2026 06:00:00,Consumer Price Index,MEDIUM,RON,Release,0.14,Confidence
+b4b04a88-26cc-485a-85aa-24efb6d7961e,09/15/2026 06:00:00,Industrial Production (MoM),HIGH,RON,Release,0.17,Growth
+d5496d49-e900-4b23-81c8-3f2e0eaeb7b4,10/09/2026 06:00:00,Gross Domestic Product,LOW,RON,Release,0.09,Money and Credit
+e558bb31-4e50-4814-be4e-2263da7afa63,10/09/2026 06:00:00,Trade Balance,MEDIUM,RON,Release,0.11,Trade and External
+37a20201-823b-4aa0-8717-d90e1eda9e52,10/09/2026 12:00:00,Interest rate decision,HIGH,RON,Release,0.2,Monetary Policy
+93c373d1-fd04-43e0-9978-e69a51eac0b5,10/13/2026 06:00:00,Consumer Price Index,MEDIUM,RON,Release,0.14,Confidence
+3323b367-f7c5-42c6-ba49-8dd0011e0b95,10/14/2026 06:00:00,Industrial Production (MoM),HIGH,RON,Release,0.17,Growth
+05802f62-9c6a-40c0-8087-03348050d550,11/10/2026 07:00:00,Trade Balance,MEDIUM,RON,Release,0.11,Trade and External
+76b8738c-9f9c-4b94-8914-7300b3a3c5d8,11/10/2026 13:00:00,Interest rate decision,HIGH,RON,Release,0.2,Monetary Policy
+b124a830-140f-4d18-ba08-303dfda4c092,11/11/2026 07:00:00,Consumer Price Index,MEDIUM,RON,Release,0.14,Confidence
+bfa31f28-c7fc-4f02-ac45-e6e4dbf9b870,11/13/2026 07:00:00,Gross Domestic Product,LOW,RON,Release,0.09,Money and Credit
+e97c52fc-df7e-4f39-a334-c75dba1ae3f4,11/13/2026 07:00:00,Industrial Production (MoM),HIGH,RON,Release,0.17,Growth
+45f38c66-7547-4f42-b0bb-421c07cf18a7,12/04/2026 07:00:00,Gross Domestic Product,LOW,RON,Release,0.09,Money and Credit
+65e41769-4eef-43ff-be1f-9422ab6bb231,12/09/2026 07:00:00,Trade Balance,MEDIUM,RON,Release,0.11,Trade and External
+c8cad715-ed18-4cc1-ada3-01987847db89,12/11/2026 07:00:00,Consumer Price Index,MEDIUM,RON,Release,0.14,Confidence
+ef3a09c9-2acd-4547-b81e-dcf3e9a81f98,12/14/2026 07:00:00,Industrial Production (MoM),HIGH,RON,Release,0.17,Growth
+ba243da9-7f78-4bd1-b333-59d23a0b4a7f,01/08/2027 07:00:00,Gross Domestic Product,LOW,RON,Release,0.09,Money and Credit
+3ead14d8-3711-4637-85e2-37e07c7a55e6,01/11/2027 07:00:00,Trade Balance,MEDIUM,RON,Release,0.11,Trade and External
+ba61dc7d-dd81-4ef2-9c40-3221f05fe915,01/12/2027 07:00:00,Consumer Price Index,MEDIUM,RON,Release,0.14,Confidence
+3eda5bff-7958-4eec-8e57-751e6080d083,01/12/2027 13:00:00,Interest rate decision,HIGH,RON,Release,0.2,Monetary Policy
+e886b057-6acc-4d94-aa3c-b4668d690f5c,01/14/2027 07:00:00,Industrial Production (MoM),HIGH,RON,Release,0.17,Growth

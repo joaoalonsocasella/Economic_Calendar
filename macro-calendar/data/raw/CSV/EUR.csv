@@ -1,49 +1,33 @@
 Id,Start,Name,Impact,Currency
-6c3b6fc8-5609-4826-958b-8d9a95de7b2d,01/12/2026 08:50:00,ECB's De Guindos speech,MEDIUM,EUR
-37284788-8b2c-4b93-90dd-ace8423425f5,01/12/2026 09:30:00,Sentix Investor Confidence,MEDIUM,EUR
-ef168f13-784c-4020-9fb3-30a9c976e70f,01/14/2026 08:20:00,ECB's De Guindos speech,MEDIUM,EUR
-e0f99030-6413-4263-b9de-97c50761b529,01/15/2026 10:00:00,Construction Output  s.a (MoM),LOW,EUR
-6dadb95c-f500-4ca3-9037-8cf06651fe06,01/15/2026 10:00:00,Construction Output w.d.a (YoY),LOW,EUR
-4b466904-8a3a-4221-987d-783e86f12962,01/15/2026 10:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
-1cda6254-bbb8-4fac-8874-1dcf90a48e4d,01/15/2026 10:00:00,Industrial Production w.d.a. (YoY),LOW,EUR
-6031f5ca-5828-4a4b-af0d-0e518ddcb966,01/16/2026 10:00:00,Trade Balance n.s.a.,LOW,EUR
-f0a217fc-79c5-4490-8ab2-6936bf99147e,01/16/2026 10:00:00,Trade Balance s.a.,LOW,EUR
-7810294c-8143-465a-8f03-19d981a1a639,01/16/2026 20:30:00,CFTC EUR NC Net Positions,LOW,EUR
-055fc8cc-3086-4f02-b53d-579752cc30d3,01/19/2026 09:00:00,Current Account n.s.a,LOW,EUR
-90cc3af8-e66e-4c57-a4fb-f3048bae34ca,01/19/2026 09:00:00,Current Account s.a,LOW,EUR
-9f2ff889-c1a7-4537-9d6a-4af45c3d9e1c,01/20/2026 09:00:00,ECB Bank Lending Survey,HIGH,EUR
-1ff926c6-d176-4c82-90e0-c60d8259e29b,01/20/2026 10:00:00,Core Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
-9ff1a4d0-da52-44b2-a1c2-f32dcda24ef5,01/20/2026 10:00:00,Core Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
-8961d2f9-c5eb-4b33-a2d2-c6f146f389fb,01/20/2026 10:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
-17eb12d8-7672-44c9-95de-bdbaa1a1f9fa,01/20/2026 10:00:00,Harmonized Index of Consumer Prices (YoY),LOW,EUR
-e3a277a7-6728-4feb-be11-64d04aebe832,01/20/2026 10:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
-04f6f1ec-f31d-4a62-961c-08a1b8bbbc55,01/20/2026 20:30:00,CFTC EUR NC Net Positions,LOW,EUR
-f45b0b4f-d000-4240-b1da-e0614b8cd0a9,01/22/2026 09:00:00,HCOB Composite PMI,HIGH,EUR
-9b821ef7-aab0-4287-b2be-9958bb599add,01/22/2026 09:00:00,HCOB Manufacturing PMI,HIGH,EUR
-2f85500e-518c-48b6-a81d-9b04670c124e,01/22/2026 09:00:00,HCOB Services PMI,HIGH,EUR
+a95fbcea-12aa-484a-8ef1-ee1f2d6a8247,01/22/2026 12:30:00,ECB Monetary Policy Meeting Accounts,MEDIUM,EUR
 635ada83-1638-485d-ac62-ebe0a87a2b48,01/22/2026 15:00:00,Consumer Confidence,MEDIUM,EUR
+f45b0b4f-d000-4240-b1da-e0614b8cd0a9,01/23/2026 09:00:00,HCOB Composite PMI,HIGH,EUR
+9b821ef7-aab0-4287-b2be-9958bb599add,01/23/2026 09:00:00,HCOB Manufacturing PMI,HIGH,EUR
+2f85500e-518c-48b6-a81d-9b04670c124e,01/23/2026 09:00:00,HCOB Services PMI,HIGH,EUR
+4c5baf7e-81de-4469-96ad-1140d41ea0be,01/23/2026 10:00:00,ECB's President Lagarde speech,HIGH,EUR
 dbd924cf-8aa3-4e23-afad-ba1287d5bc11,01/23/2026 20:30:00,CFTC EUR NC Net Positions,LOW,EUR
 2e6fe830-0813-44fa-b304-7831dec536cd,01/29/2026 09:00:00,M3 Money Supply (3m),LOW,EUR
 786f761c-2150-4e10-99e0-7b5b1b503730,01/29/2026 09:00:00,M3 Money Supply (YoY),LOW,EUR
 cbef1f49-e927-4094-bada-76c18793c547,01/29/2026 09:00:00,Private Loans (YoY),LOW,EUR
-e542e596-212d-418a-a2a7-84ab47f264e9,01/30/2026 10:00:00,Business Climate,MEDIUM,EUR
-753e98bb-918d-498a-984e-4cc436e0334e,01/30/2026 10:00:00,Consumer Confidence,MEDIUM,EUR
-f4299731-9f89-48bc-98a6-7488750c18ca,01/30/2026 10:00:00,Economic Sentiment Indicator,MEDIUM,EUR
+e542e596-212d-418a-a2a7-84ab47f264e9,01/29/2026 10:00:00,Business Climate,MEDIUM,EUR
+753e98bb-918d-498a-984e-4cc436e0334e,01/29/2026 10:00:00,Consumer Confidence,MEDIUM,EUR
+f4299731-9f89-48bc-98a6-7488750c18ca,01/29/2026 10:00:00,Economic Sentiment Indicator,MEDIUM,EUR
+a9fdde2c-d1d7-4710-afce-19b1b57dddc6,01/29/2026 10:00:00,Industrial Confidence,LOW,EUR
+8a968053-d1ee-4da4-97ba-6a5de68e8756,01/29/2026 10:00:00,Services Sentiment,LOW,EUR
 710ea0bf-90dc-497e-9a7d-27ff8c2b692a,01/30/2026 10:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR
 c8b9f93c-bb2e-44ba-8e1b-7e817391a088,01/30/2026 10:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR
-a9fdde2c-d1d7-4710-afce-19b1b57dddc6,01/30/2026 10:00:00,Industrial Confidence,LOW,EUR
-8a968053-d1ee-4da4-97ba-6a5de68e8756,01/30/2026 10:00:00,Services Sentiment,LOW,EUR
+8b12c8d4-7814-47f8-ad65-eeae92eb5c19,01/30/2026 10:00:00,Unemployment Rate,MEDIUM,EUR
 26e44f5e-3b0d-43dc-ac9a-0139512d0d11,01/30/2026 20:30:00,CFTC EUR NC Net Positions,LOW,EUR
 0dbb069b-7fe1-43af-b4f3-1dc1d3ff25f3,02/02/2026 09:00:00,HCOB Manufacturing PMI,LOW,EUR
-0ef0d542-697f-4afa-afd7-76616ed40601,02/02/2026 10:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR
-f845780f-f7f3-499f-801d-11aacd52f51e,02/02/2026 10:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR
-79cb0011-317d-4ef3-9dc4-ae028c142434,02/02/2026 10:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR
-46c4f219-4f49-46b0-8d9f-92a8a75001b3,02/02/2026 10:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
-8b12c8d4-7814-47f8-ad65-eeae92eb5c19,02/02/2026 10:00:00,Unemployment Rate,MEDIUM,EUR
+9f2ff889-c1a7-4537-9d6a-4af45c3d9e1c,02/03/2026 09:00:00,ECB Bank Lending Survey,HIGH,EUR
 7b19a2c6-a88a-4f5a-acda-0f6b20231f2a,02/04/2026 09:00:00,HCOB Composite PMI,MEDIUM,EUR
 5f8ab80d-94a1-40ef-a5ca-bc4f599d7bd5,02/04/2026 09:00:00,HCOB Services PMI,LOW,EUR
-322bedb5-c059-43b2-8793-bf24825a1c9b,02/05/2026 10:00:00,Producer Price Index (MoM),MEDIUM,EUR
-a6f2dc5c-ca33-49fa-91cc-0526b08bedf4,02/05/2026 10:00:00,Producer Price Index (YoY),MEDIUM,EUR
+0ef0d542-697f-4afa-afd7-76616ed40601,02/04/2026 10:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR
+f845780f-f7f3-499f-801d-11aacd52f51e,02/04/2026 10:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+79cb0011-317d-4ef3-9dc4-ae028c142434,02/04/2026 10:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR
+46c4f219-4f49-46b0-8d9f-92a8a75001b3,02/04/2026 10:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+322bedb5-c059-43b2-8793-bf24825a1c9b,02/04/2026 10:00:00,Producer Price Index (MoM),MEDIUM,EUR
+a6f2dc5c-ca33-49fa-91cc-0526b08bedf4,02/04/2026 10:00:00,Producer Price Index (YoY),MEDIUM,EUR
 bc42a5fd-21e9-4da4-aa89-9c97fdfa7c34,02/05/2026 10:00:00,Retail Sales (MoM),MEDIUM,EUR
 9ae89fdd-ba64-477b-b829-71f53a15cad3,02/05/2026 10:00:00,Retail Sales (YoY),HIGH,EUR
 77947772-bdf0-424b-af23-460fe7ccf852,02/05/2026 13:15:00,ECB Main Refinancing Operations Rate,HIGH,EUR
@@ -171,6 +155,7 @@ ecc20c10-5d19-4dbc-a5be-e181b161c393,04/20/2026 09:00:00,Construction Output w.d
 173dc8c2-27fa-4feb-8d72-d5ecf391bccf,04/21/2026 08:00:00,HCOB Services PMI,HIGH,EUR
 9ee99346-388e-40c3-9893-896959dde7ba,04/23/2026 14:00:00,Consumer Confidence,MEDIUM,EUR
 53382e57-e453-4b75-b10c-46c1a4154f46,04/24/2026 19:30:00,CFTC EUR NC Net Positions,LOW,EUR
+268e714c-116b-49d4-8021-40f2ce01a648,04/28/2026 08:00:00,ECB Bank Lending Survey,HIGH,EUR
 5b97cf00-6c3c-4baf-951f-d26307d16f72,04/29/2026 08:00:00,M3 Money Supply (3m),LOW,EUR
 832ecc60-d9a0-45ef-980a-09de1ebd6611,04/29/2026 08:00:00,M3 Money Supply (YoY),LOW,EUR
 e45ba506-53ef-47d6-8a73-6d59b763c203,04/29/2026 08:00:00,Private Loans (YoY),LOW,EUR
@@ -311,6 +296,7 @@ c62da2bc-6c31-4f57-8027-f0d4ad11c0ba,07/17/2026 09:00:00,Core Harmonized Index o
 7ec0f12e-f6d6-496e-b6cb-ec9d177be436,07/17/2026 09:00:00,Harmonized Index of Consumer Prices (YoY),LOW,EUR
 44b4aeb9-d76f-49dd-9f6b-172751d9dbff,07/17/2026 19:30:00,CFTC EUR NC Net Positions,LOW,EUR
 85fd22cd-dd2a-494c-957d-370ecf3d5dc9,07/20/2026 14:00:00,Consumer Confidence,MEDIUM,EUR
+e0958882-99d0-44f7-b4cc-cbed73c4ca4c,07/21/2026 08:00:00,ECB Bank Lending Survey,HIGH,EUR
 7311ace7-cf2c-4f99-82a8-f9385f6a018b,07/21/2026 09:00:00,Construction Output  s.a (MoM),LOW,EUR
 a9254926-6760-4c3b-b27a-ec891587b331,07/21/2026 09:00:00,Construction Output w.d.a (YoY),LOW,EUR
 c1c992f4-1ee8-4066-a51b-8d847ddd17c5,07/21/2026 09:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
@@ -466,6 +452,7 @@ c2cf0469-81ba-4d11-a560-fe4362a38927,10/23/2026 08:00:00,HCOB Manufacturing PMI,
 8a3732b5-6da7-4046-8869-312d544d475d,10/23/2026 08:00:00,HCOB Services PMI,HIGH,EUR
 1a9cc54d-72f8-4e44-8043-6da88a4348c4,10/23/2026 19:30:00,CFTC EUR NC Net Positions,LOW,EUR
 422a1518-80f5-40b6-9942-57ad1fe5ed04,10/25/2026 01:00:00,Daylight Saving Time ends,NONE,EUR
+1e7a00e6-7194-46ad-9c39-f67e1a034bcc,10/27/2026 09:00:00,ECB Bank Lending Survey,HIGH,EUR
 9c44ff72-d8a3-4d66-82f1-6bda732853be,10/29/2026 09:00:00,Business Climate,MEDIUM,EUR
 6fdd82f5-1dfb-477a-9fad-63e974b41a3f,10/29/2026 09:00:00,Consumer Confidence,MEDIUM,EUR
 f6a8e576-d25a-44ca-829c-a9b855cbe04d,10/29/2026 09:00:00,Economic Sentiment Indicator,MEDIUM,EUR
@@ -546,9 +533,6 @@ db076a7c-7501-446d-858f-796fda3dde6d,12/08/2026 10:00:00,Employment Change (QoQ)
 878e419b-f3ca-4504-9ab0-78db2f62ff78,12/08/2026 10:00:00,Employment Change (YoY),LOW,EUR
 6d89c89f-4cbb-49df-869d-bbb6814b2d55,12/08/2026 10:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR
 a24055a4-860f-40fa-923e-e9c1984b34f9,12/08/2026 10:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR
-a3fd5937-a447-4e10-9aca-03ae94fdc344,12/10/2026 13:15:00,ECB Main Refinancing Operations Rate,HIGH,EUR
-98e5408c-8198-4bc3-9102-1db253c44f45,12/10/2026 13:15:00,ECB Monetary Policy Statement,HIGH,EUR
-e69a23d4-381a-4f5f-aa44-4928bf6ef9a3,12/10/2026 13:15:00,ECB Rate On Deposit Facility,HIGH,EUR
 86f08fae-98cc-43fa-a545-3c89d483cff5,12/10/2026 13:45:00,ECB Press Conference,HIGH,EUR
 d3d3b2c7-c851-4854-8631-a0ffa03099af,12/11/2026 20:30:00,CFTC EUR NC Net Positions,LOW,EUR
 3874bc47-a202-48f1-b2e9-d5aaf5143036,12/15/2026 10:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
@@ -564,6 +548,9 @@ a3ddf941-dd9d-40cf-bb4c-01e9cfdea832,12/16/2026 10:00:00,Trade Balance s.a.,LOW,
 db7e299a-d1b0-403a-80d6-659e274435b0,12/17/2026 10:00:00,Core Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
 39e1cba6-967a-426b-9e5a-6049260b8ec0,12/17/2026 10:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 37f0e11d-5b64-4ac8-9ed0-157fe3f3566d,12/17/2026 10:00:00,Harmonized Index of Consumer Prices (YoY),LOW,EUR
+a3fd5937-a447-4e10-9aca-03ae94fdc344,12/17/2026 13:15:00,ECB Main Refinancing Operations Rate,HIGH,EUR
+98e5408c-8198-4bc3-9102-1db253c44f45,12/17/2026 13:15:00,ECB Monetary Policy Statement,HIGH,EUR
+e69a23d4-381a-4f5f-aa44-4928bf6ef9a3,12/17/2026 13:15:00,ECB Rate On Deposit Facility,HIGH,EUR
 f30bf53b-f818-4298-91fe-0aaec6228512,12/18/2026 09:00:00,Current Account n.s.a,LOW,EUR
 65256e5d-4640-4d68-858d-0ccc81b98f92,12/18/2026 09:00:00,Current Account s.a,LOW,EUR
 d6a57e5c-b617-4f7e-a5d9-b58d8ab3107b,12/18/2026 10:00:00,Construction Output  s.a (MoM),LOW,EUR

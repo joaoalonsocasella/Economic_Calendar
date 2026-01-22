@@ -1,20 +1,5 @@
 Id,Start,Name,Impact,Currency
-1921ba5e-535e-4e33-ab27-f14a571593fe,01/13/2026 10:00:00,M2 Money Supply (YoY),LOW,CNY
-befd9744-35c7-43c3-b91e-88ccaea9d2ae,01/13/2026 10:00:00,New Loans,LOW,CNY
-9980286a-320f-48c7-ae73-b964641df2fd,01/14/2026 03:00:00,Exports (YoY),MEDIUM,CNY
-2a73b4b8-02ff-4b24-86d4-54f07f6a05b6,01/14/2026 03:00:00,Exports (YoY) CNY,MEDIUM,CNY
-d2add1a6-dad8-4231-a600-edc01d08d5c4,01/14/2026 03:00:00,Imports (YoY),MEDIUM,CNY
-e52c55f8-fc0d-4ffa-acb0-47ac82bd0b34,01/14/2026 03:00:00,Imports (YoY) CNY,MEDIUM,CNY
-1b32ebbf-a144-4486-aa6e-e9e8106bcd3d,01/14/2026 03:00:00,Trade Balance CNY,MEDIUM,CNY
-e2dd553f-ceff-4565-b562-d3d3e9d29ff4,01/14/2026 03:00:00,Trade Balance USD,MEDIUM,CNY
-dfa97933-8f96-4c05-bb00-ec0f236b844c,01/15/2026 01:30:00,"House Price Index ",LOW,CNY
-a5ae0b3e-c123-4f88-8f8b-d8d692b786f9,01/15/2026 02:00:00,Fixed Asset Investment (YTD) (YoY),LOW,CNY
-c8c08a7d-7e7f-439e-9e55-0d7b50dbf95e,01/15/2026 02:00:00,Industrial Production (YoY),HIGH,CNY
-93adacd7-1864-46e5-a3db-2b085d144250,01/15/2026 02:00:00,Retail Sales (YoY),HIGH,CNY
-d870387c-ed52-48a9-8ae9-32dae1c37a08,01/16/2026 02:00:00,Gross Domestic Product (QoQ),HIGH,CNY
-24b280bc-7e54-4620-8adf-d924c5f95b8e,01/16/2026 02:00:00,Gross Domestic Product (YoY),HIGH,CNY
-328130a4-ab5f-413e-b3c6-ae4888231fc6,01/19/2026 09:00:00,FDI - Foreign Direct Investment (YTD) (YoY),LOW,CNY
-aa3b04be-398e-4b02-9dad-47b0d6006ca3,01/20/2026 01:15:00,PBoC Interest Rate Decision,MEDIUM,CNY
+328130a4-ab5f-413e-b3c6-ae4888231fc6,01/22/2026 09:00:00,FDI - Foreign Direct Investment (YTD) (YoY),LOW,CNY
 5aab08bf-3650-4e63-802c-bb2b53cce2bd,01/31/2026 01:30:00,NBS Manufacturing PMI,HIGH,CNY
 308effcf-66be-4473-9e68-af8b942d18bd,01/31/2026 01:30:00,NBS Non-Manufacturing PMI,HIGH,CNY
 d90995cf-da16-4e3e-bdd5-d8ae7bc15def,02/02/2026 01:45:00,RatingDog Manufacturing PMI,HIGH,CNY

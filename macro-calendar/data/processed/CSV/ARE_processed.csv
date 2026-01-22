@@ -1,3 +1,49 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-cced929a-88c2-4175-abe1-f18309e45ec4,01/13/2026 14:00:00,M3 Money Supply,HIGH,AED,Release,0.2,Monetary Policy
-63ccf174-5ce7-489d-a1fd-8dcfefb29128,01/13/2026 14:00:00,Private Sector Loans,LOW,AED,Release,0.09,Money and Credit
+cdd625f7-f860-446c-a446-ff12276a4204,02/04/2026 04:15:00,S&P Global Composite PMI,HIGH,AED,Release,0.17,Growth
+5929c430-2a05-4a3b-9980-a74061dd2729,02/04/2026 04:15:00,S&P Global Construction PMI,HIGH,AED,Release,0.17,Growth
+64770433-2056-4e3f-8b74-e9a1bfcff289,02/13/2026 08:00:00,M3 Money Supply,HIGH,AED,Release,0.2,Monetary Policy
+4267463e-445b-4969-83f9-d647ede01b75,02/13/2026 08:00:00,Private Sector Loans,LOW,AED,Release,0.09,Money and Credit
+02254827-f07b-4cb0-a93a-beaffef5e862,03/04/2026 04:15:00,S&P Global Composite PMI,HIGH,AED,Release,0.17,Growth
+a240e08f-8f85-4bb6-806d-61b60aebcb4b,03/04/2026 04:15:00,S&P Global Construction PMI,HIGH,AED,Release,0.17,Growth
+d758beae-33c9-484a-8cde-328574aca3fc,03/13/2026 08:00:00,M3 Money Supply,HIGH,AED,Release,0.2,Monetary Policy
+2a44adcd-4af8-42ba-b4cf-0b046b288190,03/13/2026 08:00:00,Private Sector Loans,LOW,AED,Release,0.09,Money and Credit
+bf6f9a12-998d-4373-a1fd-16f557a59b4f,04/03/2026 04:15:00,S&P Global Composite PMI,HIGH,AED,Release,0.17,Growth
+4b6f5422-8efa-42b4-9611-e99d902954a4,04/03/2026 04:15:00,S&P Global Construction PMI,HIGH,AED,Release,0.17,Growth
+efad91d4-008a-407e-a939-55edcece5a6e,04/09/2026 08:00:00,M3 Money Supply,HIGH,AED,Release,0.2,Monetary Policy
+56a01f2c-34ad-41dd-bb38-8a6ef8e956e2,04/09/2026 08:00:00,Private Sector Loans,LOW,AED,Release,0.09,Money and Credit
+f563031e-9afe-42fc-9ea1-e7e20052b22d,05/05/2026 04:15:00,S&P Global Composite PMI,HIGH,AED,Release,0.17,Growth
+83cff686-4f05-4ccb-a091-a39a11197633,05/05/2026 04:15:00,S&P Global Construction PMI,HIGH,AED,Release,0.17,Growth
+b2625932-151e-499a-9dcc-940d44ce7f86,05/07/2026 08:00:00,M3 Money Supply,HIGH,AED,Release,0.2,Monetary Policy
+cec7d9bd-7e9b-4cea-8f09-c3164cb582ea,05/07/2026 08:00:00,Private Sector Loans,LOW,AED,Release,0.09,Money and Credit
+44c179a0-bfa2-4dbd-9fb0-affdd08d9b2a,06/03/2026 04:15:00,S&P Global Composite PMI,HIGH,AED,Release,0.17,Growth
+39e92f64-2626-463c-87f2-debb448cdec4,06/03/2026 04:15:00,S&P Global Construction PMI,HIGH,AED,Release,0.17,Growth
+ea2b9406-696e-4846-bb42-c91aa329cdf9,06/18/2026 08:00:00,M3 Money Supply,HIGH,AED,Release,0.2,Monetary Policy
+7a9f6833-9ac4-4295-a58b-132bbeeb6705,06/18/2026 08:00:00,Private Sector Loans,LOW,AED,Release,0.09,Money and Credit
+c00b325f-55d1-44be-af35-36810a3645ec,07/03/2026 04:15:00,S&P Global Composite PMI,HIGH,AED,Release,0.17,Growth
+8449d769-3e61-4cf7-aaf7-ad6471754ea3,07/03/2026 04:15:00,S&P Global Construction PMI,HIGH,AED,Release,0.17,Growth
+0b86e18e-1378-44a4-96fc-4b648a96f730,07/20/2026 08:00:00,M3 Money Supply,HIGH,AED,Release,0.2,Monetary Policy
+16c6d75c-69bf-4ce7-be51-bae75994fafb,07/20/2026 08:00:00,Private Sector Loans,LOW,AED,Release,0.09,Money and Credit
+ab8aefee-667f-4ec5-9534-6171c642463b,08/05/2026 04:15:00,S&P Global Composite PMI,HIGH,AED,Release,0.17,Growth
+342a5af7-4e64-46d0-a0ee-abaad6442900,08/05/2026 04:15:00,S&P Global Construction PMI,HIGH,AED,Release,0.17,Growth
+e6fd726d-15b9-48e9-9e5a-45e672e203fc,08/17/2026 08:00:00,M3 Money Supply,HIGH,AED,Release,0.2,Monetary Policy
+de77e499-ef3c-42cf-8283-1cfc6fdc616e,08/17/2026 08:00:00,Private Sector Loans,LOW,AED,Release,0.09,Money and Credit
+6b35cce6-e5ae-4229-803a-a3425000e3e3,09/03/2026 04:15:00,S&P Global Composite PMI,HIGH,AED,Release,0.17,Growth
+bc4212a7-6a4c-4cde-a421-f772e505dc5e,09/03/2026 04:15:00,S&P Global Construction PMI,HIGH,AED,Release,0.17,Growth
+33bfe378-746f-4a70-9e63-6657b631d2ff,09/10/2026 08:00:00,M3 Money Supply,HIGH,AED,Release,0.2,Monetary Policy
+3a60d017-5344-4983-ae24-0417853da4c1,09/10/2026 08:00:00,Private Sector Loans,LOW,AED,Release,0.09,Money and Credit
+3b753cc6-5342-4293-8788-4e9d7952339e,10/05/2026 04:15:00,S&P Global Composite PMI,HIGH,AED,Release,0.17,Growth
+2116e4b5-e491-44f3-a494-e7e48824eac8,10/05/2026 04:15:00,S&P Global Construction PMI,HIGH,AED,Release,0.17,Growth
+31e918b6-5bc1-459e-bd48-837f31f19434,10/12/2026 08:00:00,M3 Money Supply,HIGH,AED,Release,0.2,Monetary Policy
+66c778c7-eb41-4134-a110-1a813eb5dedd,10/12/2026 08:00:00,Private Sector Loans,LOW,AED,Release,0.09,Money and Credit
+02e32b96-78f7-4549-8a76-b0f1e05bb0b5,11/04/2026 04:15:00,S&P Global Composite PMI,HIGH,AED,Release,0.17,Growth
+08fe7a92-dfcd-49ea-a25b-5d3867a1147c,11/04/2026 04:15:00,S&P Global Construction PMI,HIGH,AED,Release,0.17,Growth
+934360a3-75df-40b7-9f31-55372d2edaea,11/18/2026 08:00:00,M3 Money Supply,HIGH,AED,Release,0.2,Monetary Policy
+d78a5e06-c0b0-4115-b1cb-3887415932ec,11/18/2026 08:00:00,Private Sector Loans,LOW,AED,Release,0.09,Money and Credit
+1f8e85dc-ecee-42f7-8511-01a5879edb29,12/06/2026 04:15:00,S&P Global Composite PMI,HIGH,AED,Release,0.17,Growth
+46d8a600-9776-46c9-ba5e-fa84aef5d1df,12/06/2026 04:15:00,S&P Global Construction PMI,HIGH,AED,Release,0.17,Growth
+533697fe-4abb-4f74-b6e6-490184bedabe,12/15/2026 08:00:00,M3 Money Supply,HIGH,AED,Release,0.2,Monetary Policy
+4e68b5e7-12c3-4d4b-b975-9e44c146e554,12/15/2026 08:00:00,Private Sector Loans,LOW,AED,Release,0.09,Money and Credit
+3ccfdaa9-1030-4dd8-894d-930f4cfe75aa,01/06/2027 04:15:00,S&P Global Composite PMI,HIGH,AED,Release,0.17,Growth
+47bade15-c603-436b-a3ba-24a76ceafb2e,01/06/2027 04:15:00,S&P Global Construction PMI,HIGH,AED,Release,0.17,Growth
+62d87c92-f8c0-43a7-aa97-462ee7dc55cf,01/14/2027 08:00:00,M3 Money Supply,HIGH,AED,Release,0.2,Monetary Policy
+697671a9-cc22-4c71-8414-56ec2add2ddb,01/14/2027 08:00:00,Private Sector Loans,LOW,AED,Release,0.09,Money and Credit

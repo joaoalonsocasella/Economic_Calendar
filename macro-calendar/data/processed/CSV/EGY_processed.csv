@@ -1,3 +1,41 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a09a9313-94f1-4182-9dd7-a0fe6b3d7157,01/10/2026 06:34:21,Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
-73d4b05c-2b5b-4a6d-b3cb-4fb2bb8dd30d,01/10/2026 12:00:00,Core Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+b3b4f085-dde0-46c8-a69e-d4568d4d7e0c,02/10/2026 06:00:00,Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+c9976830-8b4d-4ea2-b02e-0a736ea29919,02/10/2026 06:00:00,Core Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+3746b702-7d70-47a0-bea7-55cb24566701,02/12/2026 17:00:00,CBE Interest Rate Decision,HIGH,EGP,Release,0.2,Monetary Policy
+a0b74b80-2e63-4efa-a740-3a046c6267c2,02/12/2026 17:00:00,Overnight Lending Rate,HIGH,EGP,Release,0.2,Monetary Policy
+09ca1f6d-4b5d-4b07-af5b-bc21bd1023a5,03/10/2026 06:00:00,Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+e22f7f97-1608-4d36-b419-765f82ffff17,03/10/2026 06:00:00,Core Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+f443b840-2921-4fe1-8426-7bd1dba598c8,04/02/2026 17:00:00,CBE Interest Rate Decision,HIGH,EGP,Release,0.2,Monetary Policy
+20d19a41-4785-4c44-b1b6-703833246ce3,04/02/2026 17:00:00,Overnight Lending Rate,HIGH,EGP,Release,0.2,Monetary Policy
+6f85711c-b146-4a83-82f6-8c1899d6c0f0,04/09/2026 06:00:00,Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+45acef3f-4bde-444a-a924-610db3939b15,04/09/2026 06:00:00,Core Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+de9d7a19-92f8-4762-9061-471fe324d8cf,05/10/2026 06:00:00,Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+70eb91a0-ac72-4611-a4b2-c8dbdd435820,05/10/2026 06:00:00,Core Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+cdd5986b-1a46-455c-8e42-7fae949cb173,05/21/2026 17:00:00,CBE Interest Rate Decision,HIGH,EGP,Release,0.2,Monetary Policy
+a699f7e7-34ea-405a-8bc6-0f36c300bd87,05/21/2026 17:00:00,Overnight Lending Rate,HIGH,EGP,Release,0.2,Monetary Policy
+fa365312-df06-4977-9f02-b6044d750885,06/10/2026 06:00:00,Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+abcdbe4c-354a-492d-bbd4-53b914550185,06/10/2026 06:00:00,Core Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+698a8c90-ee39-4178-a9e3-50a2be099a6c,07/09/2026 17:00:00,CBE Interest Rate Decision,HIGH,EGP,Release,0.2,Monetary Policy
+cb2f1293-eeef-4cbb-8986-4b7557359220,07/09/2026 17:00:00,Overnight Lending Rate,HIGH,EGP,Release,0.2,Monetary Policy
+5b3ee1ac-b798-4540-8385-1ac157d2611a,07/10/2026 06:00:00,Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+eb619b0d-3bfa-4daf-b4ce-17652e71b6d2,07/10/2026 06:00:00,Core Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+79b361a2-da88-41a3-8362-ab19da8786d5,08/09/2026 06:00:00,Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+e93716cc-5d1f-432f-8ad3-ce9fd4ec70db,08/09/2026 06:00:00,Core Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+54581f25-f0b5-4572-8029-345c83f95412,08/20/2026 17:00:00,CBE Interest Rate Decision,HIGH,EGP,Release,0.2,Monetary Policy
+b880442a-8840-4ef1-b80d-d30457b6c082,08/20/2026 17:00:00,Overnight Lending Rate,HIGH,EGP,Release,0.2,Monetary Policy
+edfc13b4-993c-434d-b09e-7ef0137d604c,09/10/2026 06:00:00,Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+5b3fa73e-46d4-447d-bf16-fef852af454e,09/10/2026 06:00:00,Core Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+0dab817d-dc48-4d59-8b36-2444082a56f3,09/24/2026 17:00:00,CBE Interest Rate Decision,HIGH,EGP,Release,0.2,Monetary Policy
+4e243694-c332-4e5e-8b5a-90c44fd9213f,09/24/2026 17:00:00,Overnight Lending Rate,HIGH,EGP,Release,0.2,Monetary Policy
+2cfd1171-235e-44ca-b0bd-ea94b6b7a3ee,10/11/2026 06:00:00,Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+166df1e4-7a47-4426-8615-294d22ecd45a,10/11/2026 06:00:00,Core Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+6bbad2ee-d284-4a6b-8e46-c5d4d200633a,10/29/2026 17:00:00,CBE Interest Rate Decision,HIGH,EGP,Release,0.2,Monetary Policy
+ea4eccdb-ca93-40d7-905e-6cee3b5a0381,10/29/2026 17:00:00,Overnight Lending Rate,HIGH,EGP,Release,0.2,Monetary Policy
+e7ba8166-837e-478e-ae1b-bccf30b6e7e8,11/10/2026 06:00:00,Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+62d48dbb-b7b4-40a0-966e-0d7e3c13bea9,11/10/2026 06:00:00,Core Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+04157242-e370-422e-8a99-d408515d761b,12/10/2026 06:00:00,Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+7eb3b1e8-d494-43c1-91a6-329d8f764b5e,12/10/2026 06:00:00,Core Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+ed5386a3-6d13-4285-af8f-b01a830849ba,12/17/2026 17:00:00,CBE Interest Rate Decision,HIGH,EGP,Release,0.2,Monetary Policy
+7301cc9b-1adc-4637-9315-f454d8f8796e,12/17/2026 17:00:00,Overnight Lending Rate,HIGH,EGP,Release,0.2,Monetary Policy
+e96809fa-10db-4379-bc76-1b13723d87b6,01/10/2027 06:00:00,Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation
+e2ecbcae-00a7-4531-bf61-c2bb316df8ca,01/10/2027 06:00:00,Core Consumer Price Index (YoY),HIGH,EGP,Release,0.19,Inflation

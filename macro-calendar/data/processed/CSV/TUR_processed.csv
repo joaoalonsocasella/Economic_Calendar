@@ -1,15 +1,12 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-26d7965b-ce1a-482f-8a4a-cf3786b03c05,01/12/2026 07:00:00,Industrial Production (YoY),HIGH,TRY,Release,0.17,Growth
-29435000-02ef-4285-82e2-1e2db3070e76,01/13/2026 07:00:00,Current Account Balance,MEDIUM,TRY,Release,0.11,Trade and External
-fc727b45-b643-4cc7-9c91-508c4eb1dd9f,01/15/2026 08:00:00,Budget Balance,MEDIUM,TRY,Release,0.11,Trade and External
+d664d154-dbbc-4577-9e6e-8386d2700d19,01/22/2026 07:00:00,Capacity Utilization,HIGH,TRY,Release,0.2,Monetary Policy
 b9c98b49-818d-4946-baf6-bc04fdda8371,01/22/2026 07:00:00,Consumer Confidence,MEDIUM,TRY,Release,0.14,Confidence
-b796fab1-c7f7-4c34-a1b3-a94a438948ba,01/22/2026 08:00:00,Foreign Arrivals,MEDIUM,TRY,Release,0.11,Trade and External
+4eebd638-6b28-45d9-bfcf-e79fcecb07c6,01/22/2026 07:00:00,Manufacturing Confidence,MEDIUM,TRY,Release,0.14,Confidence
 c2a31bd5-359b-49ea-9175-833540656e84,01/22/2026 11:00:00,CBRT Interest Rate Decision,HIGH,TRY,Release,0.2,Monetary Policy
-d664d154-dbbc-4577-9e6e-8386d2700d19,01/23/2026 07:00:00,Capacity Utilization,HIGH,TRY,Release,0.2,Monetary Policy
-4eebd638-6b28-45d9-bfcf-e79fcecb07c6,01/23/2026 07:00:00,Manufacturing Confidence,MEDIUM,TRY,Release,0.14,Confidence
-e32b20de-1d0c-48bf-bbb9-d073d012aedd,01/30/2026 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
+e32b20de-1d0c-48bf-bbb9-d073d012aedd,01/29/2026 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
+3d29a760-d6f9-4af4-a0ad-4345b6293304,01/29/2026 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
 dd5e3658-fec5-4d5c-9b16-a55a0d966593,01/30/2026 07:00:00,Trade Balance,MEDIUM,TRY,Release,0.11,Trade and External
-3d29a760-d6f9-4af4-a0ad-4345b6293304,01/30/2026 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
+b796fab1-c7f7-4c34-a1b3-a94a438948ba,01/30/2026 08:00:00,Foreign Arrivals,MEDIUM,TRY,Release,0.11,Trade and External
 f03b4a54-34f4-4d3c-95be-0d4cc11b9082,02/03/2026 07:00:00,Consumer Price Index (MoM),HIGH,TRY,Release,0.19,Inflation
 7e10b7b5-fc9b-478d-9fe3-b61fcc615e74,02/03/2026 07:00:00,Consumer Price Index (YoY),HIGH,TRY,Release,0.19,Inflation
 850fc95d-1aa4-4ce2-9a70-f6e7b34c75cf,02/03/2026 07:00:00,Producer Price Index (MoM),HIGH,TRY,Release,0.19,Inflation

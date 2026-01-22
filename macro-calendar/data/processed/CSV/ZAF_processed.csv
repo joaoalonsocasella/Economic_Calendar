@@ -1,18 +1,15 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-81cd4969-f4d0-4f1e-8f8a-bada11d98c16,01/21/2026 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
-160e21de-36d1-4ebc-80d9-7e35a627089b,01/21/2026 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
-5fcfd94e-503f-4b5b-a41e-8aa00c532d17,01/21/2026 11:00:00,Retail Sales (YoY),HIGH,ZAR,Release,0.17,Growth
-877c6783-37f7-4ea2-9728-f25a16768aa6,01/21/2026 13:00:00,SARB Interest Rate Decision,HIGH,ZAR,Release,0.2,Monetary Policy
 9832a59e-ea81-4320-9ff5-7ade0082f043,01/29/2026 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
 1e57263c-b109-4c54-9bfa-e717143fd3f7,01/29/2026 09:30:00,Producer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
+877c6783-37f7-4ea2-9728-f25a16768aa6,01/29/2026 13:00:00,SARB Interest Rate Decision,HIGH,ZAR,Release,0.2,Monetary Policy
 d8a4b728-0dba-425c-8512-31c6d6fc2b23,01/30/2026 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation
 5f256df3-3254-4d55-8176-75d6510458e3,01/30/2026 06:00:00,Private Sector Credit,LOW,ZAR,Release,0.09,Money and Credit
 d2e8d04b-5f48-4f36-8405-83c81a74b2f9,01/30/2026 12:00:00,Trade Balance (in Rands),MEDIUM,ZAR,Release,0.11,Trade and External
 f7fb3e5c-8a77-4759-ac0b-96298d70aa1a,02/02/2026 12:30:00,Total New Vehicle Sales,LOW,ZAR,Release,0.07,Housing
 93123ff0-1e0f-4318-99d5-4927d776a291,02/06/2026 06:00:00,Gross $Gold & Forex Reserve ,HIGH,ZAR,Release,0.2,Monetary Policy
 aa768c57-8981-4554-a377-67188e9fb3e8,02/06/2026 06:00:00,Net $Gold & Forex Reserve,LOW,ZAR,Release,0.09,Money and Credit
-019ae187-8d03-49e0-8965-e52f9de1f850,02/12/2026 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
 ab0dc643-8611-48de-88f7-69bb3e394a28,02/12/2026 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
+019ae187-8d03-49e0-8965-e52f9de1f850,02/12/2026 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
 b1d9c5ab-a898-4979-9c94-9eea3f5ce67f,02/12/2026 11:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth
 8ea0ff8e-31bd-4913-8841-9f22b1ac731b,02/17/2026 09:30:00,Unemployment Rate (%),HIGH,ZAR,Release,0.18,Labor Market
 dd010792-6640-48b3-b4cc-f3443e7d9100,02/17/2026 09:30:00,Unemployment Total ,HIGH,ZAR,Release,0.18,Labor Market

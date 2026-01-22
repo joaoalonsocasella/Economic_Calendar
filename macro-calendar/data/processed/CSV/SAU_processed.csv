@@ -1,6 +1,72 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-aecccd73-1593-4ce5-a458-6a5d1864a888,01/15/2026 06:00:00,Consumer Price Index (MoM),HIGH,SAR,Release,0.19,Inflation
-3bc01145-4a37-4fa8-aa2f-f6015c923343,01/15/2026 06:00:00,Consumer Price Index (YoY),HIGH,SAR,Release,0.19,Inflation
 22cca0c3-1690-409a-9a87-4165530b72fc,01/29/2026 14:00:00,Private Sector Loans (YoY),LOW,SAR,Release,0.09,Money and Credit
 4c335c5d-bc7c-4112-9a24-5a215c92b3d5,01/29/2026 16:00:00,M3 Money Supply (YoY),HIGH,SAR,Release,0.19,Inflation
 bd0398f8-307b-4a60-b281-888e6fccbfdb,01/30/2026 06:00:00,Gross Domestic Product (YoY),HIGH,SAR,Release,0.17,Growth
+949d73b0-b8dc-42f1-b731-ead5a7ce1585,02/03/2026 04:15:00,Riyad Bank PMI,MEDIUM,SAR,Release,0.14,Confidence
+a1705643-70a2-4e1d-91b3-7887970f0e47,02/15/2026 06:00:00,Consumer Price Index (MoM),HIGH,SAR,Release,0.19,Inflation
+8084841e-9939-42a9-952e-53bfed5cdfe7,02/15/2026 06:00:00,Consumer Price Index (YoY),HIGH,SAR,Release,0.19,Inflation
+cb7aaa80-e80d-47e0-a815-af468c39bbef,02/27/2026 16:00:00,M3 Money Supply (YoY),HIGH,SAR,Release,0.19,Inflation
+6993ca6d-4905-45ad-90b7-b5e3f3ba02f8,02/27/2026 16:00:00,Private Sector Loans (YoY),LOW,SAR,Release,0.09,Money and Credit
+69541540-88d6-401c-bcc2-3d3d3632b034,03/03/2026 04:15:00,Riyad Bank PMI,MEDIUM,SAR,Release,0.14,Confidence
+db79b7fb-2a29-469f-b40e-6b284caadd5e,03/08/2026 06:00:00,Gross Domestic Product (YoY),HIGH,SAR,Release,0.17,Growth
+0d7992bc-e872-4ada-81a5-0c521d256917,03/15/2026 06:00:00,Consumer Price Index (MoM),HIGH,SAR,Release,0.19,Inflation
+505091f1-3402-4e7b-b513-b40e1419e63a,03/15/2026 06:00:00,Consumer Price Index (YoY),HIGH,SAR,Release,0.19,Inflation
+1a4e3c2b-7ee9-4ab8-a361-0f58d387729a,03/30/2026 16:00:00,M3 Money Supply (YoY),HIGH,SAR,Release,0.19,Inflation
+92a8cf4f-5843-4e30-99ec-bac04d76b8d6,03/30/2026 16:00:00,Private Sector Loans (YoY),LOW,SAR,Release,0.09,Money and Credit
+036c47ee-c235-48e4-98b3-1348a7a9eebb,04/05/2026 04:15:00,Riyad Bank PMI,MEDIUM,SAR,Release,0.14,Confidence
+4c820352-f9d2-4f4d-8664-d7d5c7aa5109,04/15/2026 06:00:00,Consumer Price Index (MoM),HIGH,SAR,Release,0.19,Inflation
+886f9645-58c1-47a0-8517-813308bceb32,04/15/2026 06:00:00,Consumer Price Index (YoY),HIGH,SAR,Release,0.19,Inflation
+4f4c50f1-4a1c-4b6d-97b7-7ef4432989db,04/30/2026 06:00:00,Gross Domestic Product (YoY),HIGH,SAR,Release,0.17,Growth
+c9d8799f-0921-427d-913e-318a8176df0b,04/30/2026 16:00:00,M3 Money Supply (YoY),HIGH,SAR,Release,0.19,Inflation
+461c565e-e0b7-497f-94f7-81ea24820781,04/30/2026 16:00:00,Private Sector Loans (YoY),LOW,SAR,Release,0.09,Money and Credit
+435c25a5-03b9-467a-8e0d-bf0aafa7fdaf,05/05/2026 04:15:00,Riyad Bank PMI,MEDIUM,SAR,Release,0.14,Confidence
+28563fbc-b524-4c8b-a911-3a803e858f35,05/14/2026 06:00:00,Consumer Price Index (MoM),HIGH,SAR,Release,0.19,Inflation
+7517a02b-902f-4df1-b5e0-f1b4ca99ea20,05/14/2026 06:00:00,Consumer Price Index (YoY),HIGH,SAR,Release,0.19,Inflation
+2f54bb03-0561-4554-92e3-926c4db2e984,05/29/2026 16:00:00,M3 Money Supply (YoY),HIGH,SAR,Release,0.19,Inflation
+d78f763a-5614-4659-973e-51798372f7de,05/29/2026 16:00:00,Private Sector Loans (YoY),LOW,SAR,Release,0.09,Money and Credit
+874ec948-694b-4bfc-b1d3-78e0d6ca0559,06/03/2026 04:15:00,Riyad Bank PMI,MEDIUM,SAR,Release,0.14,Confidence
+728cad6b-6324-4531-ae8a-3a43b96089f6,06/08/2026 06:00:00,Gross Domestic Product (YoY),HIGH,SAR,Release,0.17,Growth
+df05ce45-10df-4922-b1c8-e0516b8e46d8,06/15/2026 06:00:00,Consumer Price Index (MoM),HIGH,SAR,Release,0.19,Inflation
+bd2f7941-cf21-41c0-a3fa-5c500d3a961f,06/15/2026 06:00:00,Consumer Price Index (YoY),HIGH,SAR,Release,0.19,Inflation
+d374dc99-69a3-47c4-a449-3bead338adc3,06/30/2026 16:00:00,M3 Money Supply (YoY),HIGH,SAR,Release,0.19,Inflation
+c7423994-29d3-4727-9993-dcfbd7558ea3,06/30/2026 16:00:00,Private Sector Loans (YoY),LOW,SAR,Release,0.09,Money and Credit
+52666e07-5dbb-4c3d-be6e-67ed37ace36e,07/05/2026 04:15:00,Riyad Bank PMI,MEDIUM,SAR,Release,0.14,Confidence
+432b27a6-58ed-45b1-95aa-071f2fccb3d2,07/15/2026 06:00:00,Consumer Price Index (MoM),HIGH,SAR,Release,0.19,Inflation
+40435f15-a1c3-4cfb-b5fb-e3f950beda61,07/15/2026 06:00:00,Consumer Price Index (YoY),HIGH,SAR,Release,0.19,Inflation
+9ce6d7b2-ba63-4437-b793-2eba548eefc5,07/31/2026 06:00:00,Gross Domestic Product (YoY),HIGH,SAR,Release,0.17,Growth
+ae894bd2-44df-4722-85fe-57a8713161f4,07/31/2026 16:00:00,M3 Money Supply (YoY),HIGH,SAR,Release,0.19,Inflation
+afa6b7ff-22b8-4879-abe2-55f53b65b540,07/31/2026 16:00:00,Private Sector Loans (YoY),LOW,SAR,Release,0.09,Money and Credit
+56c5dd70-9557-42a9-a05e-f2abca36a989,08/04/2026 04:15:00,Riyad Bank PMI,MEDIUM,SAR,Release,0.14,Confidence
+8288021c-ebb8-4f21-a50f-357dd61866da,08/16/2026 06:00:00,Consumer Price Index (MoM),HIGH,SAR,Release,0.19,Inflation
+916d8acc-8cd5-4f76-ac8d-05900e30b78d,08/16/2026 06:00:00,Consumer Price Index (YoY),HIGH,SAR,Release,0.19,Inflation
+076fbc80-8c16-4a0b-a766-554c9b57e99f,08/31/2026 16:00:00,M3 Money Supply (YoY),HIGH,SAR,Release,0.19,Inflation
+0b09f76a-328f-484a-9679-459ee83f86d3,08/31/2026 16:00:00,Private Sector Loans (YoY),LOW,SAR,Release,0.09,Money and Credit
+70d1d66c-73e3-4a4b-8dfa-81fda5779563,09/03/2026 04:15:00,Riyad Bank PMI,MEDIUM,SAR,Release,0.14,Confidence
+5fd9594e-b029-432a-8929-117c220ead0f,09/07/2026 06:00:00,Gross Domestic Product (YoY),HIGH,SAR,Release,0.17,Growth
+7d7d5352-5d06-46b2-82f4-caac157f1238,09/15/2026 06:00:00,Consumer Price Index (MoM),HIGH,SAR,Release,0.19,Inflation
+2432b57f-93ca-4473-9ec3-85c95c595926,09/15/2026 06:00:00,Consumer Price Index (YoY),HIGH,SAR,Release,0.19,Inflation
+03f84c19-d98b-4e48-beee-6216981df0d2,09/30/2026 16:00:00,M3 Money Supply (YoY),HIGH,SAR,Release,0.19,Inflation
+16514c24-786d-4c11-8ad7-c46149784e0d,09/30/2026 16:00:00,Private Sector Loans (YoY),LOW,SAR,Release,0.09,Money and Credit
+92c84f42-457c-442f-9a99-92bd502704f7,10/05/2026 04:15:00,Riyad Bank PMI,MEDIUM,SAR,Release,0.14,Confidence
+e653c3ec-40e5-4b2a-b767-b1e4c0aa5513,10/15/2026 06:00:00,Consumer Price Index (MoM),HIGH,SAR,Release,0.19,Inflation
+e0eb5466-4937-4b29-b677-256ed1ae3035,10/15/2026 06:00:00,Consumer Price Index (YoY),HIGH,SAR,Release,0.19,Inflation
+5a6caeaf-7362-4a0e-a54d-e6a684c84a51,10/30/2026 06:00:00,Gross Domestic Product (YoY),HIGH,SAR,Release,0.17,Growth
+96a2127d-5b52-4616-bdda-638be47970fd,10/30/2026 16:00:00,M3 Money Supply (YoY),HIGH,SAR,Release,0.19,Inflation
+214642fe-755a-48b2-8fb5-1d89a4ed55ad,10/30/2026 16:00:00,Private Sector Loans (YoY),LOW,SAR,Release,0.09,Money and Credit
+2ca1ae71-e94d-41c5-b42a-59a82f76cd02,11/03/2026 04:15:00,Riyad Bank PMI,MEDIUM,SAR,Release,0.14,Confidence
+5578c061-45d4-4b5a-8d05-19c553f28c6e,11/15/2026 06:00:00,Consumer Price Index (MoM),HIGH,SAR,Release,0.19,Inflation
+b6614d39-ed7c-4d58-8106-32536a7dd4b3,11/15/2026 06:00:00,Consumer Price Index (YoY),HIGH,SAR,Release,0.19,Inflation
+18d0f9be-5637-49fc-a0a3-77de027f4dcc,11/30/2026 16:00:00,M3 Money Supply (YoY),HIGH,SAR,Release,0.19,Inflation
+8807c82d-533f-453a-be47-251591eb50d7,11/30/2026 16:00:00,Private Sector Loans (YoY),LOW,SAR,Release,0.09,Money and Credit
+bbe27217-617d-424a-8cf2-756f0328008d,12/03/2026 04:15:00,Riyad Bank PMI,MEDIUM,SAR,Release,0.14,Confidence
+487dcd10-4c26-47a2-80fd-417be36aedcf,12/09/2026 06:00:00,Gross Domestic Product (YoY),HIGH,SAR,Release,0.17,Growth
+58571c3b-a4e2-4834-84a2-b23f43cf9b36,12/15/2026 06:00:00,Consumer Price Index (MoM),HIGH,SAR,Release,0.19,Inflation
+b5c45fdf-87b2-4927-9613-174340ceb57b,12/15/2026 06:00:00,Consumer Price Index (YoY),HIGH,SAR,Release,0.19,Inflation
+0be613b8-9e5b-4618-aab8-ea40c5298cf4,12/31/2026 16:00:00,M3 Money Supply (YoY),HIGH,SAR,Release,0.19,Inflation
+7e5ad394-9c96-449e-9b15-122780757462,12/31/2026 16:00:00,Private Sector Loans (YoY),LOW,SAR,Release,0.09,Money and Credit
+213d95f1-4102-4b87-a68e-96bf1ea10bad,01/04/2027 04:15:00,Riyad Bank PMI,MEDIUM,SAR,Release,0.14,Confidence
+45161f2a-71e5-4398-b9cb-61d5b551cf4d,01/14/2027 06:00:00,Consumer Price Index (MoM),HIGH,SAR,Release,0.19,Inflation
+37fa6888-b15c-4ff3-a52d-8c120e813312,01/14/2027 06:00:00,Consumer Price Index (YoY),HIGH,SAR,Release,0.19,Inflation
+3fe261ca-8296-4767-9fea-c85ba1b3eac7,01/29/2027 16:00:00,M3 Money Supply (YoY),HIGH,SAR,Release,0.19,Inflation
+ca0f50fb-2ecf-4459-ab19-c027b8739f0a,01/29/2027 16:00:00,Private Sector Loans (YoY),LOW,SAR,Release,0.09,Money and Credit
+ac6da60d-01e3-49e3-b2d9-bdfbdf831e87,01/31/2027 06:00:00,Gross Domestic Product (YoY),HIGH,SAR,Release,0.17,Growth

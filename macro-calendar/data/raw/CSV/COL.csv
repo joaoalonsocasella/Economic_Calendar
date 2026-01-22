@@ -1,6 +1,89 @@
 Id,Start,Name,Impact,Currency
-5f988925-3e8e-400f-b3cb-a529aa72a1ae,01/14/2026 15:00:00,Retail Sales (YoY),LOW,COP
-4d2827ff-dc13-4bc1-b026-d7235d2b6b46,01/15/2026 15:00:00,Industrial output (YoY),LOW,COP
-ab3f0d30-f178-477d-a564-f83aeb4b6cb8,01/15/2026 15:00:00,Trade Balance,LOW,COP
+ab3f0d30-f178-477d-a564-f83aeb4b6cb8,01/22/2026 15:00:00,Trade Balance,LOW,COP
+4d2827ff-dc13-4bc1-b026-d7235d2b6b46,01/23/2026 15:00:00,Industrial output (YoY),LOW,COP
+5f988925-3e8e-400f-b3cb-a529aa72a1ae,01/23/2026 15:00:00,Retail Sales (YoY),LOW,COP
 d5a16d3d-6242-40a4-9fae-ae6b8675cd5c,01/30/2026 15:00:00,National Jobless Rate,LOW,COP
+7d60b178-7af2-49b4-8987-1ee9b9993a6c,01/30/2026 18:00:00,Interest rate,LOW,COP
+35435432-3ab4-44ac-ad7a-793449485ac7,02/06/2026 23:00:00,Consumer Price Index (MoM),LOW,COP
+d0758935-0d06-4153-9c6a-ae8aeb98004c,02/06/2026 23:00:00,Consumer Price Index (YoY),LOW,COP
+6e1c7c1a-fa8a-40f7-b664-058576bf6044,02/13/2026 15:00:00,Industrial output (YoY),LOW,COP
+e4441a98-6047-4738-aa78-2307b63f02a9,02/13/2026 15:00:00,Retail Sales (YoY),LOW,COP
 f8163dd0-7677-4b78-9618-1ecf818de909,02/16/2026 16:00:00,Gross Domestic Product (YoY),LOW,COP
+b790fb28-19dd-4d21-bae2-dd310016ed16,02/17/2026 15:00:00,Trade Balance,LOW,COP
+ccc57c5d-a0c2-465e-884a-5cf6032cac08,02/27/2026 15:00:00,National Jobless Rate,LOW,COP
+a4d0c829-1506-46c9-b4fb-cc1a3485b312,03/06/2026 23:00:00,Consumer Price Index (MoM),LOW,COP
+97d14f87-9d0a-4bf1-9315-91acf11ffe4c,03/06/2026 23:00:00,Consumer Price Index (YoY),LOW,COP
+df8f88e1-46ae-4e3f-ab8f-111db6e6d487,03/16/2026 15:00:00,Industrial output (YoY),LOW,COP
+9b62b033-b3cd-4e27-9423-72a853abb17e,03/16/2026 15:00:00,Retail Sales (YoY),LOW,COP
+20759e99-0068-4b64-896c-9e4624ff15e0,03/19/2026 15:00:00,Trade Balance,LOW,COP
+6007d037-93e3-44ec-acf8-68641a7bc779,03/31/2026 15:00:00,National Jobless Rate,LOW,COP
+689aa1fd-c781-443f-9fe9-b19852761929,03/31/2026 18:00:00,Interest rate,LOW,COP
+f41f4853-9e34-413d-8841-d300a4c89ec5,04/09/2026 23:00:00,Consumer Price Index (MoM),LOW,COP
+92abbf87-098a-4ce1-98e7-97a82b62109b,04/09/2026 23:00:00,Consumer Price Index (YoY),LOW,COP
+e73fe061-b43a-4021-ac16-112385dbdb86,04/16/2026 15:00:00,Industrial output (YoY),LOW,COP
+c6fedd2e-1326-4fb5-9a7a-479f18f57a12,04/16/2026 15:00:00,Retail Sales (YoY),LOW,COP
+3104f263-3b7c-420d-b32a-9624bc694bcb,04/21/2026 15:00:00,Trade Balance,LOW,COP
+097b5320-56fc-4dc7-b5f8-cf19046a5317,04/30/2026 15:00:00,National Jobless Rate,LOW,COP
+75f83473-cd3f-4a03-a2f1-58b1f7733285,04/30/2026 18:00:00,Interest rate,LOW,COP
+0821f9c6-ac36-4224-b6d8-5b316e745f5c,05/08/2026 23:00:00,Consumer Price Index (MoM),LOW,COP
+3323afd0-c234-46b0-9271-d3723014aa0b,05/08/2026 23:00:00,Consumer Price Index (YoY),LOW,COP
+3c0aaff5-2941-4170-8c7d-917571c63f04,05/15/2026 15:00:00,Industrial output (YoY),LOW,COP
+b9181611-cfa5-4278-8b77-30debb765955,05/15/2026 15:00:00,Retail Sales (YoY),LOW,COP
+0c2c1e82-12ad-4801-9895-5ce2bffa48b5,05/15/2026 16:00:00,Gross Domestic Product (YoY),LOW,COP
+d0b49b3c-a03d-4e69-99d8-cdd76515eca0,05/19/2026 15:00:00,Trade Balance,LOW,COP
+b1411b4a-1142-4f43-a359-b77e970083da,05/29/2026 15:00:00,National Jobless Rate,LOW,COP
+bf5afcee-ef68-4276-a192-faeb8391a3f4,06/05/2026 23:00:00,Consumer Price Index (MoM),LOW,COP
+7cb15f7d-bec8-4daf-8103-edc42d65f39c,06/05/2026 23:00:00,Consumer Price Index (YoY),LOW,COP
+1d3b181e-ba3d-4b6a-b739-38bc52e7ad6f,06/16/2026 15:00:00,Industrial output (YoY),LOW,COP
+3753595e-6637-4632-8c0d-d75a8dd442a0,06/16/2026 15:00:00,Retail Sales (YoY),LOW,COP
+aa1d95d8-1d7b-4d2b-857d-45b3053c2ed2,06/22/2026 15:00:00,Trade Balance,LOW,COP
+5103316c-ff40-4eae-b3c2-35f283b348d4,06/30/2026 15:00:00,National Jobless Rate,LOW,COP
+2332ca78-3151-48e7-ba8f-54e93a684fc7,06/30/2026 18:00:00,Interest rate,LOW,COP
+f816274f-1a1f-4932-8689-68936e1aaff8,07/07/2026 23:00:00,Consumer Price Index (MoM),LOW,COP
+796a6c5f-dda2-4fc0-8967-c84e732692de,07/07/2026 23:00:00,Consumer Price Index (YoY),LOW,COP
+6b0f57c5-2bd6-43ad-a9f2-cf17da2baac3,07/15/2026 15:00:00,Industrial output (YoY),LOW,COP
+6d4b18fa-a9d1-4d58-9ee5-119558ee1832,07/15/2026 15:00:00,Retail Sales (YoY),LOW,COP
+a9b21c6c-184c-40ee-98ef-235fc348e5c7,07/21/2026 15:00:00,Trade Balance,LOW,COP
+4a080b90-ebd4-41e2-b068-33bf581b0ee4,07/31/2026 15:00:00,National Jobless Rate,LOW,COP
+bbd8cc52-fa98-43da-adf4-d23ee9aa81c3,07/31/2026 18:00:00,Interest rate,LOW,COP
+f24d8ffa-6ab4-4e53-867d-5b664ed78b30,08/10/2026 23:00:00,Consumer Price Index (MoM),LOW,COP
+8fcdb875-ca7e-490a-bcaa-0c93ad194a6d,08/10/2026 23:00:00,Consumer Price Index (YoY),LOW,COP
+e7d44802-f2e4-4d8e-a27a-0e6cd91151f9,08/14/2026 15:00:00,Industrial output (YoY),LOW,COP
+98156012-1147-4f11-9f36-e26f59d9fb75,08/14/2026 15:00:00,Retail Sales (YoY),LOW,COP
+61046724-4b22-4aa7-9d0d-fc6df53bcba5,08/18/2026 16:00:00,Gross Domestic Product (YoY),LOW,COP
+8df26d38-8e33-4cf4-8450-89b50e9fd824,08/19/2026 15:00:00,Trade Balance,LOW,COP
+fb5c2302-e553-4d52-bde1-6c4523db352f,08/31/2026 15:00:00,National Jobless Rate,LOW,COP
+497ecfbf-9610-46c1-8e8c-4e8e5e3ebc29,09/07/2026 23:00:00,Consumer Price Index (MoM),LOW,COP
+5800b0fb-45ea-4530-aab6-80278870b466,09/07/2026 23:00:00,Consumer Price Index (YoY),LOW,COP
+175914bf-4251-4f4c-9123-3dad620d6550,09/15/2026 15:00:00,Retail Sales (YoY),LOW,COP
+c28870ff-15a6-42ef-a6f1-68abfc78dcd5,09/16/2026 15:00:00,Industrial output (YoY),LOW,COP
+dab0271e-28d6-448a-a0f6-46bc0154582c,09/21/2026 15:00:00,Trade Balance,LOW,COP
+1e1e42be-2338-4f39-acee-95a7211eefa7,09/30/2026 15:00:00,National Jobless Rate,LOW,COP
+59eea40d-0c5c-425c-a257-3ffd2d2d9fc0,09/30/2026 18:00:00,Interest rate,LOW,COP
+e0d14a33-28d6-40a2-ba60-852f726f48a0,10/07/2026 23:00:00,Consumer Price Index (MoM),LOW,COP
+91fb7a32-3ce9-434e-9c8f-df58d3a1798f,10/07/2026 23:00:00,Consumer Price Index (YoY),LOW,COP
+3e76fb0e-78b2-409c-81fb-ce9af1203055,10/16/2026 15:00:00,Industrial output (YoY),LOW,COP
+3be68e93-6738-4548-b711-429de320cdbc,10/16/2026 15:00:00,Retail Sales (YoY),LOW,COP
+09cba9fb-98f6-4dd2-8e6e-d43545498387,10/21/2026 15:00:00,Trade Balance,LOW,COP
+8d9fdb13-183b-43b7-b472-52c5a8a4d1e5,10/30/2026 15:00:00,National Jobless Rate,LOW,COP
+a9796e70-2e84-4a19-8f45-95fc6663c5d0,10/30/2026 18:00:00,Interest rate,LOW,COP
+f6a41664-04ce-41c5-b5ed-e513c43fbbd3,11/09/2026 16:00:00,Gross Domestic Product (YoY),LOW,COP
+3599f1aa-bd6b-4204-901e-e1ed086683d7,11/09/2026 23:00:00,Consumer Price Index (MoM),LOW,COP
+a6a7b59c-0350-41bf-af3b-4e4633b05eb6,11/09/2026 23:00:00,Consumer Price Index (YoY),LOW,COP
+5ac386c6-81f9-4af9-bb04-0d29e47350b4,11/13/2026 15:00:00,Industrial output (YoY),LOW,COP
+8cdfb092-e528-4ad9-ab94-1f8dc8e27b9f,11/13/2026 15:00:00,Retail Sales (YoY),LOW,COP
+b6d19db0-ca1e-416b-80ff-a9a41341bf63,11/18/2026 15:00:00,Trade Balance,LOW,COP
+88069b38-fd65-4628-a219-d6569b6a4f62,11/30/2026 15:00:00,National Jobless Rate,LOW,COP
+82344b5f-8a3c-408e-ac67-2fc07e1ec719,12/07/2026 23:00:00,Consumer Price Index (MoM),LOW,COP
+3693e68e-22cd-433a-8110-7d9c04967a23,12/07/2026 23:00:00,Consumer Price Index (YoY),LOW,COP
+81657280-c3cc-4cad-9ad5-1daf00e94681,12/15/2026 15:00:00,Industrial output (YoY),LOW,COP
+fd65a6f5-0aa6-4086-ad02-42b65cf18f25,12/15/2026 15:00:00,Retail Sales (YoY),LOW,COP
+d75d97d2-f20d-418e-a8c5-6e55a3ed0a90,12/18/2026 18:00:00,Interest rate,LOW,COP
+f36edcfa-d349-48af-b434-2dd33dd4587b,12/22/2026 15:00:00,Trade Balance,LOW,COP
+a9e34d35-a29a-4483-aed8-cf026cb6fb65,12/31/2026 15:00:00,National Jobless Rate,LOW,COP
+f11bd5a2-cafc-4f07-a35f-37b55c19251a,01/08/2027 23:00:00,Consumer Price Index (MoM),LOW,COP
+e9d2308e-caa4-4215-a59e-7b70c2c05e43,01/08/2027 23:00:00,Consumer Price Index (YoY),LOW,COP
+50c72b2c-a374-452f-8331-ec86b6a51998,01/14/2027 15:00:00,Industrial output (YoY),LOW,COP
+e54a7584-cf28-46ca-afbc-1ff6845d66e2,01/15/2027 15:00:00,Retail Sales (YoY),LOW,COP
+744acaf1-775b-4746-91c0-3661608a2de5,01/20/2027 15:00:00,Trade Balance,LOW,COP
+78c07d1c-5484-4de3-a65b-02b858c409de,01/29/2027 15:00:00,National Jobless Rate,LOW,COP

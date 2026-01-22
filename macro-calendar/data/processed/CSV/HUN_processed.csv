@@ -1,9 +1,161 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-9002f736-1724-46d7-bfd5-8d343f84e229,01/13/2026 07:30:00,Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
-9f773003-5791-42b2-a181-9ba22dd84b51,01/13/2026 07:30:00,Core Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
 2d6c42a9-1b2c-4dd9-afdc-ff9ba293ebc1,01/23/2026 07:30:00,Gross Wages (YoY),HIGH,HUF,Release,0.17,Growth
 71a8b6cd-1f61-49c8-aa75-0f4862bf0150,01/23/2026 07:30:00,Unemployment Rate (3M),HIGH,HUF,Release,0.18,Labor Market
+f1ed144c-3105-4147-8223-0f56fb1633fa,01/27/2026 13:00:00,MNB Interest Rate Decision,HIGH,HUF,Release,0.2,Monetary Policy
 99fe202a-af45-47fb-84ad-b6fdf7ccc8d8,01/29/2026 07:30:00,Producer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
-e9ece1cb-48db-4615-8367-abe3d8087628,01/30/2026 07:30:00,Trade Balance,MEDIUM,HUF,Release,0.11,Trade and External
-5fe614f5-da11-48ad-9d61-c817ddea4e16,02/10/2026 07:30:00,Gross Domestic Product (YoY),HIGH,HUF,Release,0.17,Growth
+e9ece1cb-48db-4615-8367-abe3d8087628,01/29/2026 07:30:00,Trade Balance,MEDIUM,HUF,Release,0.11,Trade and External
+5fe614f5-da11-48ad-9d61-c817ddea4e16,01/30/2026 07:30:00,Gross Domestic Product (YoY),HIGH,HUF,Release,0.17,Growth
+c1b14e27-77f0-4aea-a690-f6b923a3a029,02/02/2026 08:00:00,HALPIM Manufacturing PMI,HIGH,HUF,Release,0.17,Growth
+e729c960-ba78-466b-b145-bbe2a3e0d807,02/05/2026 07:30:00,Retail Sales (YoY),HIGH,HUF,Release,0.17,Growth
+de5b7b22-e4ec-46fe-981c-523d75ffa34f,02/06/2026 07:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+ee5e7f20-813f-445a-927a-327077fcd80f,02/09/2026 10:00:00,Budget Balance,MEDIUM,HUF,Release,0.11,Trade and External
+2002a72b-b9ca-4335-a19e-ad960d4168be,02/12/2026 07:30:00,Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+6d8eb942-9109-4c5d-b4bb-37b97fe55b55,02/12/2026 07:30:00,Core Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+ed2e45e6-a3c3-495c-8c44-7eee5936fa24,02/13/2026 07:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+b8871c68-4da7-43c3-8836-2922e990dd71,02/20/2026 07:30:00,Gross Wages (YoY),HIGH,HUF,Release,0.17,Growth
+035e77d0-c60e-4be8-84e5-7b0a3fec8258,02/24/2026 13:00:00,MNB Interest Rate Decision,HIGH,HUF,Release,0.2,Monetary Policy
+e38fb7ef-b0d5-4d94-8ddc-47695e278157,02/27/2026 07:30:00,Producer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+7bf7b0f9-9de8-4f94-a50f-8f6537120277,02/27/2026 07:30:00,Unemployment Rate (3M),HIGH,HUF,Release,0.18,Labor Market
+29d08eaa-c783-4532-8c36-0f85dde1329c,03/02/2026 07:30:00,Trade Balance,MEDIUM,HUF,Release,0.11,Trade and External
+cbe96af6-314c-4322-800f-b8cf164ba6e2,03/02/2026 08:00:00,HALPIM Manufacturing PMI,HIGH,HUF,Release,0.17,Growth
+f7bc0539-667b-4775-a87d-099bf694f9e1,03/03/2026 07:30:00,Gross Domestic Product (YoY),HIGH,HUF,Release,0.17,Growth
+dd0a2984-468d-497d-bce1-85fb771be98c,03/05/2026 07:30:00,Retail Sales (YoY),HIGH,HUF,Release,0.17,Growth
+dc281209-4925-4c13-b37a-3387eb2d60a2,03/06/2026 07:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+1e3c4797-97a0-4d52-8ab4-8244ef442fbe,03/09/2026 10:00:00,Budget Balance,MEDIUM,HUF,Release,0.11,Trade and External
+5c71ef29-b7d1-4810-9ad8-b66dc908c09e,03/10/2026 07:30:00,Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+eb2a0dee-bf5f-4fd8-8d52-dc1da3029e92,03/10/2026 07:30:00,Core Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+c24458fd-aacf-4aea-846f-b165542f379a,03/13/2026 07:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+c6866a40-c8f4-4e18-87fc-4084f7a59ea5,03/24/2026 13:00:00,MNB Interest Rate Decision,HIGH,HUF,Release,0.2,Monetary Policy
 f24348bd-28de-44c8-8873-467af16ca828,03/25/2026 07:30:00,Current Account Balance (QoQ),MEDIUM,HUF,Release,0.11,Trade and External
+fe74e170-d3bb-4ddf-adb1-59780fe888c3,03/27/2026 07:30:00,Unemployment Rate (3M),HIGH,HUF,Release,0.18,Labor Market
+e3ce094c-dff3-4852-b823-664d677d10b6,03/30/2026 06:30:00,Trade Balance,MEDIUM,HUF,Release,0.11,Trade and External
+aca5b7e5-c14e-4c2d-954a-6aa22ae36c8c,03/31/2026 06:30:00,Gross Wages (YoY),HIGH,HUF,Release,0.17,Growth
+9db50912-c8cb-4ac1-ae26-0d2e10c17303,03/31/2026 06:30:00,Producer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+e73295c7-56c7-4d00-82f9-c4fdf5f1fe40,04/01/2026 07:00:00,HALPIM Manufacturing PMI,HIGH,HUF,Release,0.17,Growth
+37d19cde-03eb-4e9c-b95d-f2686ef6d80b,04/08/2026 06:30:00,Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+fc31e70f-040d-4cf4-ab95-824d9cc90adf,04/08/2026 06:30:00,Core Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+00d56125-942a-4d69-a48d-11d398d8fb1b,04/08/2026 06:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+d0fad418-c8f6-4212-9cc4-c6ffd7a4167c,04/08/2026 06:30:00,Retail Sales (YoY),HIGH,HUF,Release,0.17,Growth
+60eddcd0-c0b3-47f0-8fad-16d499e36930,04/08/2026 09:00:00,Budget Balance,MEDIUM,HUF,Release,0.11,Trade and External
+8cb91802-60fe-4131-a883-1042840a7158,04/15/2026 06:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+f5403909-ceb1-4235-90ab-93ac86c43cba,04/17/2026 06:30:00,Gross Wages (YoY),HIGH,HUF,Release,0.17,Growth
+03afb38d-326a-44b1-a2c9-2d18c8e39907,04/24/2026 06:30:00,Unemployment Rate (3M),HIGH,HUF,Release,0.18,Labor Market
+5bdb3a3a-6fe4-4f0b-8c35-65985d55dfef,04/28/2026 12:00:00,MNB Interest Rate Decision,HIGH,HUF,Release,0.2,Monetary Policy
+0fe93a9b-ada7-4a79-a0ff-4f62f7ce5da1,04/30/2026 06:30:00,Gross Domestic Product (YoY),HIGH,HUF,Release,0.17,Growth
+884158f1-d89e-4ff6-b909-1449d3716b88,04/30/2026 06:30:00,Trade Balance,MEDIUM,HUF,Release,0.11,Trade and External
+bfc70244-d36c-4bc7-9571-9ad9047ef39c,05/01/2026 07:00:00,HALPIM Manufacturing PMI,HIGH,HUF,Release,0.17,Growth
+ee2fed99-70f7-480d-8af4-c5eca2037d93,05/04/2026 06:30:00,Producer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+02c4bb07-3fa9-4046-a1f0-4f7a4aa9d491,05/06/2026 06:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+dd062514-8f94-46e8-b7a1-9afc17df86ea,05/07/2026 06:30:00,Retail Sales (YoY),HIGH,HUF,Release,0.17,Growth
+e6d05d11-4dbb-4612-8ff1-1e78073510af,05/08/2026 06:30:00,Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+912672ed-f4e3-4337-a7ac-17c6c966aa9c,05/08/2026 06:30:00,Core Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+86d831ea-40fc-4d53-80ce-d0e4ff96a6e0,05/08/2026 09:00:00,Budget Balance,MEDIUM,HUF,Release,0.11,Trade and External
+b908f178-1827-4205-802f-43107d8e8cb5,05/13/2026 06:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+170b9720-a68a-4290-8cb8-bd359d873d39,05/20/2026 06:30:00,Gross Wages (YoY),HIGH,HUF,Release,0.17,Growth
+9542d4ae-52e8-437b-b7c2-a2ff4c79cad3,05/26/2026 12:00:00,MNB Interest Rate Decision,HIGH,HUF,Release,0.2,Monetary Policy
+5dbcb737-bf19-46aa-953e-7c2769a13fe1,05/28/2026 06:30:00,Unemployment Rate (3M),HIGH,HUF,Release,0.18,Labor Market
+730cc3d0-2ed4-4824-be49-fdd99b20677e,05/29/2026 06:30:00,Producer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+bc863604-94bd-412e-a490-788e2e364f3f,05/29/2026 06:30:00,Trade Balance,MEDIUM,HUF,Release,0.11,Trade and External
+cce0ab9c-877c-42f7-85c3-6099283e1fec,06/01/2026 07:00:00,HALPIM Manufacturing PMI,HIGH,HUF,Release,0.17,Growth
+fa1a8bdb-8175-4980-adf6-cc6dce39615f,06/02/2026 06:30:00,Gross Domestic Product (YoY),HIGH,HUF,Release,0.17,Growth
+e5a0513a-be50-4f80-a288-9b9db0acbcd2,06/04/2026 06:30:00,Retail Sales (YoY),HIGH,HUF,Release,0.17,Growth
+0fece910-4efa-4b6b-a31c-01532dcf2c62,06/05/2026 06:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+038077b5-93f3-428b-abae-c1fcb6ad88dc,06/09/2026 06:30:00,Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+f1cb2edb-b3ac-4a26-9367-170bc94f2aa1,06/09/2026 06:30:00,Core Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+2fcc049c-1ca9-4498-8cd2-07bc8337140c,06/09/2026 09:00:00,Budget Balance,MEDIUM,HUF,Release,0.11,Trade and External
+4cd3ab52-0080-4c55-9914-e906e282d578,06/12/2026 06:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+f284efe7-6924-468a-ad09-bb7bee74924a,06/17/2026 06:30:00,Gross Wages (YoY),HIGH,HUF,Release,0.17,Growth
+f61eb179-5452-4c14-9f2a-09c83de68836,06/23/2026 12:00:00,MNB Interest Rate Decision,HIGH,HUF,Release,0.2,Monetary Policy
+600caec1-aeb8-49c3-88c5-482372b281e6,06/25/2026 06:30:00,Unemployment Rate (3M),HIGH,HUF,Release,0.18,Labor Market
+ca1bf828-8479-4631-b772-841c6a626ee1,06/26/2026 06:30:00,Current Account Balance (QoQ),MEDIUM,HUF,Release,0.11,Trade and External
+372fd04b-cd05-440c-ad4b-2c29de805d8f,06/30/2026 06:30:00,Producer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+0c3028aa-592e-4c31-a942-a6d9713afd94,06/30/2026 06:30:00,Trade Balance,MEDIUM,HUF,Release,0.11,Trade and External
+e470a0cd-1c06-43df-83cd-7cc351784838,07/01/2026 07:00:00,HALPIM Manufacturing PMI,HIGH,HUF,Release,0.17,Growth
+2433ca5a-c614-4936-b378-fa0719bcaeb0,07/06/2026 06:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+7043a009-d6db-4f94-8605-51c859a59355,07/06/2026 06:30:00,Retail Sales (YoY),HIGH,HUF,Release,0.17,Growth
+b62e65a9-4f5a-44de-91b6-71151c254d70,07/07/2026 06:30:00,Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+52c579f7-3d44-4503-b07f-56a65a40960c,07/07/2026 06:30:00,Core Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+be86e1eb-27fc-4f66-8ac9-4a9a878b6b16,07/09/2026 09:00:00,Budget Balance,MEDIUM,HUF,Release,0.11,Trade and External
+20aad142-cef9-4e7f-8467-f394088d3182,07/14/2026 06:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+0efaef17-ec31-421e-9439-63579640087e,07/16/2026 06:30:00,Gross Wages (YoY),HIGH,HUF,Release,0.17,Growth
+aa6554ef-7876-4e2c-87eb-c3b16d4bb98c,07/21/2026 12:00:00,MNB Interest Rate Decision,HIGH,HUF,Release,0.2,Monetary Policy
+de1bc4e3-38f6-44b0-82a1-adfa2080fe38,07/24/2026 06:30:00,Unemployment Rate (3M),HIGH,HUF,Release,0.18,Labor Market
+78bbbfd7-3e97-4a12-b2ed-05808c68cd55,07/30/2026 06:30:00,Gross Domestic Product (YoY),HIGH,HUF,Release,0.17,Growth
+5a7770bb-269d-44de-8cf6-a5d505642363,07/30/2026 06:30:00,Trade Balance,MEDIUM,HUF,Release,0.11,Trade and External
+0da9d5c4-becd-4e56-8d64-c5308024d48e,07/31/2026 06:30:00,Producer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+125d6019-7561-4e5b-868f-5d408b1ce1d2,08/03/2026 07:00:00,HALPIM Manufacturing PMI,HIGH,HUF,Release,0.17,Growth
+f20ffe80-fbf2-4db4-8125-c81108b569af,08/06/2026 06:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+dcd8b7d1-8eba-4c2b-a0f9-886d1c0de734,08/06/2026 06:30:00,Retail Sales (YoY),HIGH,HUF,Release,0.17,Growth
+f3878d5a-cd77-409f-9e9f-a005740c4109,08/07/2026 06:30:00,Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+cf543c55-a5fc-4908-ae70-8f28f6f91c36,08/07/2026 06:30:00,Core Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+930d05b8-aa8a-4ef1-941f-e8239b18a26b,08/10/2026 09:00:00,Budget Balance,MEDIUM,HUF,Release,0.11,Trade and External
+d809d010-c453-4895-a3fa-0fd386038eed,08/13/2026 06:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+e91cc8dd-3411-47f0-aaae-462e61c64082,08/25/2026 12:00:00,MNB Interest Rate Decision,HIGH,HUF,Release,0.2,Monetary Policy
+730fdaaa-c3b4-4e3e-902a-1b0d3451c97d,08/27/2026 06:30:00,Gross Wages (YoY),HIGH,HUF,Release,0.17,Growth
+4063c1ca-e339-4eb7-8f4e-bb755f7401c3,08/28/2026 06:30:00,Trade Balance,MEDIUM,HUF,Release,0.11,Trade and External
+df35f78c-5cac-4228-8ec8-9d04cbbaab3b,08/28/2026 06:30:00,Unemployment Rate (3M),HIGH,HUF,Release,0.18,Labor Market
+cbce2826-b4de-4298-80a3-9617ccb3beb0,08/31/2026 06:30:00,Producer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+46906506-0156-4416-9908-2ada54c08a48,09/01/2026 06:30:00,Gross Domestic Product (YoY),HIGH,HUF,Release,0.17,Growth
+e4809eee-9dfb-4851-bcf9-bf9e90fa8fba,09/01/2026 07:00:00,HALPIM Manufacturing PMI,HIGH,HUF,Release,0.17,Growth
+dd43b9a6-419a-4004-a090-d554a5bcb36d,09/04/2026 06:30:00,Retail Sales (YoY),HIGH,HUF,Release,0.17,Growth
+b869c4ae-7757-4c40-b893-8f47a76fdd3d,09/07/2026 06:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+90064417-b21c-429e-b2fb-5a47e118b6af,09/08/2026 06:30:00,Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+e4df3713-d418-47ff-a0eb-5cf57db8fc4c,09/08/2026 06:30:00,Core Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+a78d1630-d3e0-4034-bcbc-e1edc6e59916,09/09/2026 09:00:00,Budget Balance,MEDIUM,HUF,Release,0.11,Trade and External
+a90fae51-68be-475d-95e0-95d67b30cea8,09/15/2026 06:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+a739fa29-fc15-4c28-8629-6648456a1348,09/16/2026 06:30:00,Gross Wages (YoY),HIGH,HUF,Release,0.17,Growth
+22a2193c-9f80-4f63-a7ac-713d896732c5,09/22/2026 12:00:00,MNB Interest Rate Decision,HIGH,HUF,Release,0.2,Monetary Policy
+e89f17c6-b15f-4891-a755-32ba796ffa3b,09/25/2026 06:30:00,Current Account Balance (QoQ),MEDIUM,HUF,Release,0.11,Trade and External
+7f3b71fc-15ed-4b54-ba65-0098559e2c80,09/25/2026 06:30:00,Unemployment Rate (3M),HIGH,HUF,Release,0.18,Labor Market
+74d39109-24d1-4b7f-a502-20dad49b6a2a,09/30/2026 06:30:00,Producer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+2b10648b-a869-4c36-967e-fbf845b71017,09/30/2026 06:30:00,Trade Balance,MEDIUM,HUF,Release,0.11,Trade and External
+d49937ad-683d-4cf7-9bc2-69633818c96e,10/01/2026 07:00:00,HALPIM Manufacturing PMI,HIGH,HUF,Release,0.17,Growth
+1cc42829-e0b0-4324-b351-45b54e5dd399,10/06/2026 06:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+4a2a7c23-c95f-48bc-8012-204e31720add,10/06/2026 06:30:00,Retail Sales (YoY),HIGH,HUF,Release,0.17,Growth
+af759b82-6d5e-4963-9c37-43cae3807955,10/07/2026 06:30:00,Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+8da541d9-ae5b-48a1-bf53-242a8b311c20,10/07/2026 06:30:00,Core Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+dc701655-d56c-45a7-8ed0-7cc3938fe47a,10/09/2026 09:00:00,Budget Balance,MEDIUM,HUF,Release,0.11,Trade and External
+9fbbba19-617c-4c84-941c-73abe898905c,10/14/2026 06:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+849477aa-0b27-459a-84d3-bbc4acd24f20,10/16/2026 06:30:00,Gross Wages (YoY),HIGH,HUF,Release,0.17,Growth
+fe8cb620-855e-4394-a5bc-0dbca058b68e,10/20/2026 12:00:00,MNB Interest Rate Decision,HIGH,HUF,Release,0.2,Monetary Policy
+39097262-80f3-4c4c-9f87-5a9ce44c92a5,10/22/2026 06:30:00,Unemployment Rate (3M),HIGH,HUF,Release,0.18,Labor Market
+3575180b-1ad5-495e-b04c-23a761079ffb,10/29/2026 07:30:00,Producer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+7387b0f3-ea05-4d83-b62b-3c325812da73,10/29/2026 07:30:00,Trade Balance,MEDIUM,HUF,Release,0.11,Trade and External
+0bbf7905-109b-4bbb-b4e3-40da18e2834c,10/30/2026 07:30:00,Gross Domestic Product (YoY),HIGH,HUF,Release,0.17,Growth
+41465907-0729-447d-b681-218c688933c0,11/02/2026 08:00:00,HALPIM Manufacturing PMI,HIGH,HUF,Release,0.17,Growth
+3bb86d34-5dbf-4a0d-bd2b-5aa9fbb50204,11/04/2026 07:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+65420a21-9b74-4278-978c-571546e81907,11/06/2026 07:30:00,Retail Sales (YoY),HIGH,HUF,Release,0.17,Growth
+1be1a1a6-7664-4e06-b2b0-cbf15a00c68e,11/09/2026 10:00:00,Budget Balance,MEDIUM,HUF,Release,0.11,Trade and External
+74467e8c-6a3c-4750-a45c-2ca7f55cd3c8,11/10/2026 07:30:00,Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+cc33053c-be42-4124-add1-3fdb8606297a,11/10/2026 07:30:00,Core Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+ea73f23b-920f-4bca-9f48-925936716981,11/13/2026 07:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+89e529ed-b55f-4eb9-a536-08e82f0be260,11/17/2026 13:00:00,MNB Interest Rate Decision,HIGH,HUF,Release,0.2,Monetary Policy
+3ca232d1-4d90-4f9a-bf14-d18c7d767bed,11/18/2026 07:30:00,Gross Wages (YoY),HIGH,HUF,Release,0.17,Growth
+0a7a35e2-f9a5-4286-81d9-c660199cfd77,11/26/2026 07:30:00,Unemployment Rate (3M),HIGH,HUF,Release,0.18,Labor Market
+c12f7524-e40a-4b24-968c-116695a9140a,11/30/2026 07:30:00,Producer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+a2b3f95a-f91c-4598-9777-877b6b320eec,11/30/2026 07:30:00,Trade Balance,MEDIUM,HUF,Release,0.11,Trade and External
+57407d4f-c512-437a-9b4f-013022abb235,12/01/2026 07:30:00,Gross Domestic Product (YoY),HIGH,HUF,Release,0.17,Growth
+4d414065-4826-459a-893b-6c6c27fe20c0,12/01/2026 08:00:00,HALPIM Manufacturing PMI,HIGH,HUF,Release,0.17,Growth
+ea26d635-9dbb-466f-8925-1573d958504c,12/04/2026 07:30:00,Retail Sales (YoY),HIGH,HUF,Release,0.17,Growth
+6a626145-d564-463a-9593-84f113a5ce60,12/07/2026 07:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+04d22a99-6512-4f99-8983-e09e427bcc42,12/08/2026 07:30:00,Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+0e0d6d17-f60e-4c68-ac84-37088af47b98,12/08/2026 07:30:00,Core Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+38ed1c00-8588-4b59-b189-0d72c7466854,12/10/2026 10:00:00,Budget Balance,MEDIUM,HUF,Release,0.11,Trade and External
+5471d6b2-d0a6-4329-bcb5-7ef49f883c43,12/15/2026 07:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+97484cbf-0e1e-4884-b7ee-f13f45bef6aa,12/15/2026 13:00:00,MNB Interest Rate Decision,HIGH,HUF,Release,0.2,Monetary Policy
+4f399f8a-51d4-46e7-94f1-d50acd7f5d06,12/18/2026 07:30:00,Gross Wages (YoY),HIGH,HUF,Release,0.17,Growth
+8e0a9d6b-67cc-43f2-97c2-790716d40438,12/23/2026 07:30:00,Current Account Balance (QoQ),MEDIUM,HUF,Release,0.11,Trade and External
+4d97eb08-14ac-4ba4-9554-e2a3228e0146,01/04/2027 07:30:00,Unemployment Rate (3M),HIGH,HUF,Release,0.18,Labor Market
+dabe7006-cc08-4b3c-a43b-22d6b9649aae,01/04/2027 08:00:00,HALPIM Manufacturing PMI,HIGH,HUF,Release,0.17,Growth
+2df973c3-40a7-4064-99b4-82e7e6fb44ae,01/05/2027 07:30:00,Trade Balance,MEDIUM,HUF,Release,0.11,Trade and External
+dfb8211f-02b4-46ad-b1c6-653465fec4fe,01/06/2027 07:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+54c87532-4bf0-4cbb-b95d-f719cfd63712,01/06/2027 07:30:00,Producer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+43e76315-5f0a-4df6-a0f5-e3a6ad23bc0f,01/08/2027 07:30:00,Retail Sales (YoY),HIGH,HUF,Release,0.17,Growth
+e7ff9e76-7e21-49ee-8eb3-edd10d9d9f2f,01/08/2027 10:00:00,Budget Balance,MEDIUM,HUF,Release,0.11,Trade and External
+d5df2057-cee7-4478-aba0-a5bc66b1e6f8,01/12/2027 07:30:00,Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+3f325bf2-3b3f-4125-825c-baeb0b3b54e7,01/12/2027 07:30:00,Core Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+8c587ce7-a246-4f5d-b535-70f45c64ae5f,01/14/2027 07:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
+5e6fb294-8080-4631-ba48-767c5828cc23,01/22/2027 07:30:00,Gross Wages (YoY),HIGH,HUF,Release,0.17,Growth
+6c56d005-d012-48a5-b429-f87a39c7428a,01/29/2027 07:30:00,Producer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
+4756e178-9a67-4c24-8d77-43a6abc72e6f,01/29/2027 07:30:00,Trade Balance,MEDIUM,HUF,Release,0.11,Trade and External
+f6966b83-fb61-43ef-9492-ad1172a0fc43,01/29/2027 07:30:00,Unemployment Rate (3M),HIGH,HUF,Release,0.18,Labor Market

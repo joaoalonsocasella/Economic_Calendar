@@ -1,30 +1,22 @@
 Id,Start,Name,Impact,Currency
-2b7babdd-4f84-495a-8733-aa2f8e40e165,01/15/2026 09:00:00,Global Trade Balance,LOW,EUR
-873a3a3d-e648-4d1c-91a7-27a5f3ddcdb4,01/15/2026 09:00:00,Industrial Output s.a. (MoM),LOW,EUR
-9cc7d973-1003-48ba-a0ea-08d63e5c2f5e,01/15/2026 09:00:00,Industrial Output w.d.a (YoY),LOW,EUR
-729078cb-ff9f-4bb8-8dfe-3a7186af2ed5,01/15/2026 09:00:00,Trade Balance EU,LOW,EUR
-642d0867-99f2-4a10-bb4d-117fb5ba3317,01/16/2026 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
-b5911769-107a-464f-a238-0be45602d7e1,01/16/2026 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
-e0481602-cac6-4518-b8cd-307bab78cbb1,01/16/2026 09:00:00,Consumer Price Index (MoM),LOW,EUR
-5fa02048-7509-41bb-91a0-f173ba10564b,01/16/2026 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR
-ab45858a-9f56-4d5d-98cf-4aa435b24d0d,01/29/2026 09:00:00,Business Confidence,LOW,EUR
-06376ef2-33ab-4009-b7e0-879a1d9d1310,01/29/2026 09:00:00,Consumer Confidence,LOW,EUR
+ab45858a-9f56-4d5d-98cf-4aa435b24d0d,01/28/2026 09:00:00,Business Confidence,LOW,EUR
+06376ef2-33ab-4009-b7e0-879a1d9d1310,01/28/2026 09:00:00,Consumer Confidence,LOW,EUR
+10ab6d9e-1ff6-4b43-8002-3cc970cc4c51,01/29/2026 09:00:00,Trade Balance non-EU,LOW,EUR
+44d1f290-dbdf-4ea3-a99b-3f1198d85c65,01/29/2026 10:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR
+d4a58ecb-3cf3-4e33-ab5b-4fea2b1d3c07,01/29/2026 10:00:00,Industrial Sales s.a. (MoM),LOW,EUR
 ebb67c7c-edbb-44a1-9a38-01ab2712bc8f,01/29/2026 10:30:00,10-y Bond Auction,LOW,EUR
 ac21fc03-7268-4525-8cc1-e4b35749ef63,01/29/2026 10:30:00,5-y Bond Auction,LOW,EUR
 35a196be-409f-4e85-8340-dea836881c28,01/30/2026 09:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR
 00bfcd12-2b2c-4b14-80ed-348a3b267c26,01/30/2026 09:00:00,Gross Domestic Product (YoY),MEDIUM,EUR
-44d1f290-dbdf-4ea3-a99b-3f1198d85c65,01/30/2026 09:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR
-d4a58ecb-3cf3-4e33-ab5b-4fea2b1d3c07,01/30/2026 09:00:00,Industrial Sales s.a. (MoM),LOW,EUR
-10ab6d9e-1ff6-4b43-8002-3cc970cc4c51,01/30/2026 09:00:00,Trade Balance non-EU,LOW,EUR
-ce604854-5f80-4509-948b-3adfb41f0a4e,01/30/2026 09:00:00,Unemployment,LOW,EUR
-f83a0c2d-4373-4f3d-9f14-c164956d2e55,01/30/2026 10:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
-9e23327b-c559-458c-a011-2c5de0d148f0,01/30/2026 10:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
-b5da7e17-f3b1-4344-848d-217a81445eeb,01/30/2026 10:00:00,Consumer Price Index (MoM),LOW,EUR
-28209268-385e-4789-9432-ab6bf25f7037,01/30/2026 10:00:00,Consumer Price Index (YoY),MEDIUM,EUR
-624d2f5f-8480-4e8a-8e82-868f1f5d02d5,01/30/2026 10:00:00,Producer Price Index (MoM),LOW,EUR
-c03c6612-9052-42c4-9371-bd5b1b9d088a,01/30/2026 10:00:00,Producer Price Index (YoY),LOW,EUR
+ce604854-5f80-4509-948b-3adfb41f0a4e,01/30/2026 10:00:00,Unemployment,LOW,EUR
+624d2f5f-8480-4e8a-8e82-868f1f5d02d5,01/30/2026 11:00:00,Producer Price Index (MoM),LOW,EUR
+c03c6612-9052-42c4-9371-bd5b1b9d088a,01/30/2026 11:00:00,Producer Price Index (YoY),LOW,EUR
 0a832c7e-527d-4926-85d4-31a7dbed0f41,02/02/2026 08:45:00,HCOB Manufacturing PMI,MEDIUM,EUR
 7d13cd43-3fb3-467e-aef1-abd73d9f34d4,02/04/2026 08:45:00,HCOB Services PMI,LOW,EUR
+f83a0c2d-4373-4f3d-9f14-c164956d2e55,02/04/2026 10:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+9e23327b-c559-458c-a011-2c5de0d148f0,02/04/2026 10:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+b5da7e17-f3b1-4344-848d-217a81445eeb,02/04/2026 10:00:00,Consumer Price Index (MoM),LOW,EUR
+28209268-385e-4789-9432-ab6bf25f7037,02/04/2026 10:00:00,Consumer Price Index (YoY),MEDIUM,EUR
 0eb6e2c5-6de2-4ad7-9c46-b980fb84f5b2,02/05/2026 09:00:00,Retail Sales n.s.a (YoY),LOW,EUR
 ef33309f-da53-4628-ab08-22bc60190f4b,02/05/2026 09:00:00,Retail Sales s.a. (MoM),LOW,EUR
 323c8119-ea37-427e-acf4-22af837b0a1e,02/10/2026 09:00:00,Industrial Output s.a. (MoM),LOW,EUR
