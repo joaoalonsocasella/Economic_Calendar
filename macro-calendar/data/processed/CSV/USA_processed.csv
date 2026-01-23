@@ -1,28 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-c6ccc196-9ed7-4424-89fe-7ec69d8cfc1a,01/22/2026 13:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
-71510275-d024-4052-8dc0-b73715d53462,01/22/2026 13:30:00,Core Personal Consumption Expenditures (QoQ),HIGH,USD,Release,0.17,Growth
-935ff61c-0d3b-4be8-b2ae-5c3330dbb755,01/22/2026 13:30:00,Gross Domestic Product Annualized,HIGH,USD,Release,0.17,Growth
-a8f5f50c-5dde-4bce-abec-132fc9cc9858,01/22/2026 13:30:00,Gross Domestic Product Price Index,MEDIUM,USD,Release,0.11,Trade and External
-9d447dca-4867-4afc-a5c2-635dda71e1d3,01/22/2026 13:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
-16923ec7-35f2-4aea-8d8a-ea28476bac5a,01/22/2026 13:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
-47f7cfd8-6302-4e9c-a46e-b70787c1aa36,01/22/2026 13:30:00,Personal Consumption Expenditures Prices (QoQ),HIGH,USD,Release,0.17,Growth
-85456e4a-cfc9-4f4c-9699-b87c306adb1a,01/22/2026 15:00:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-4ac68bb1-f279-4b63-b365-25ff19844e5c,01/22/2026 15:00:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-08bea2d2-10ed-4e24-ab0e-f4a66f730a94,01/22/2026 15:00:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-faf8e332-5fdb-40fe-8534-3e0f983a07f6,01/22/2026 15:00:00,Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-4fbf2ee9-af87-4585-8adc-24b925fd8b39,01/22/2026 15:00:00,Personal Income (MoM),HIGH,USD,Release,0.17,Growth
-725d1328-e490-4eb0-81f6-35c339e636ec,01/22/2026 15:00:00,Personal Spending,HIGH,USD,Release,0.17,Growth
-a034d0f5-76c4-4f6f-89fd-eef09c34b565,01/22/2026 15:00:05,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-805c92b9-147e-4e54-a23e-4a247baead6f,01/22/2026 15:00:05,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-36924eb7-eaa7-44be-ae17-7af6b8071ad2,01/22/2026 15:00:05,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-4a41a004-9c30-4ce4-80f2-635ef859b19a,01/22/2026 15:00:05,Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-e89d8642-f56a-486d-ab09-57038a5dc8b9,01/22/2026 15:00:05,Personal Income (MoM),HIGH,USD,Release,0.17,Growth
-be6b9000-677d-43d7-b5d4-c4a15e0a8ca9,01/22/2026 15:00:05,Personal Spending,HIGH,USD,Release,0.17,Growth
-364530b0-eff7-44c8-a18c-03a05039fa07,01/22/2026 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
-e35b3ca5-e772-42ac-8a31-a42225a60685,01/22/2026 16:00:00,Kansas Fed Manufacturing Activity,HIGH,USD,Release,0.17,Growth
-1e4bf662-480f-4dc4-a60e-5a3e9b49ea9a,01/22/2026 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
-7ca89afa-2fcd-4961-894a-a5fd0a2c286a,01/22/2026 17:00:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
-8c83a1bd-8d61-43d7-899e-555893e39189,01/22/2026 18:00:00,10-year TIPS Auction,LOW,USD,Release,0.09,Money and Credit
 97802dfd-774a-40f9-8646-01b7f92358a1,01/23/2026 14:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
 941e97df-7fb0-42ec-88ff-7a829cee7b84,01/23/2026 14:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 e5104ef9-d6bd-415a-b394-7e3066779e59,01/23/2026 14:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
@@ -79,6 +55,7 @@ feec48ee-f603-4d18-8de0-a0682735b42c,01/30/2026 14:45:00,Chicago PMI,MEDIUM,USD,
 fe96ca5b-526b-433f-98f1-c6d826050076,01/30/2026 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 9e69d63e-2ee1-41e8-b669-70b09d766c6d,01/30/2026 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 0dfeb70d-74c2-4400-bada-33badddb0841,01/30/2026 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+3e937763-2093-4302-8745-85c9a8024920,01/30/2026 22:00:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 1498a0b4-9364-42d8-8973-a2850ecebcaa,02/02/2026 14:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 adb4327f-7bf0-46a7-b4b0-1b8367367a0c,02/02/2026 15:00:00,Construction Spending (MoM),HIGH,USD,Release,0.17,Growth
 dbd699f1-2127-49d5-9783-d2cc82669220,02/02/2026 15:00:00,ISM Manufacturing Employment Index,HIGH,USD,Release,0.18,Labor Market
@@ -222,6 +199,7 @@ a1bd12f8-75fd-4638-b394-e90a05f86ee8,02/23/2026 13:30:00,Chicago Fed National Ac
 7fa23ed8-452f-4658-bcdd-2d4cb24bafd6,02/23/2026 16:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 1293bfd5-8d40-4b38-85ac-97f3974dc4e4,02/23/2026 16:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 bd813233-e939-4635-93d1-ddd3c3a8c9cd,02/23/2026 18:00:00,2-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
+0119ab79-7c0a-4f64-8ac8-36b363717269,02/24/2026 12:00:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 5997c0f7-de9b-4cef-aa44-cbe20cbba734,02/24/2026 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 839d049d-0be6-49bd-8c5a-218403c1a9b9,02/24/2026 14:00:00,Housing Price Index (MoM),LOW,USD,Release,0.07,Housing
 4823ccc2-395a-44fa-a9a9-b725b3663e3b,02/24/2026 14:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD,Release,0.07,Housing

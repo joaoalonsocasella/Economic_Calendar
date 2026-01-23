@@ -1,32 +1,104 @@
 Id,Start,Name,Impact,Currency
-abe3f359-4a1b-42b1-8a49-c62ecc6cd06e,01/27/2026 03:30:00,Customs-Based Trade Balance,LOW,THB
+abe3f359-4a1b-42b1-8a49-c62ecc6cd06e,01/23/2026 03:30:00,Customs-Based Trade Balance,LOW,THB
 8d186b6e-30e6-4217-9672-b6bf79d0fb96,01/30/2026 07:00:00,Current Account,LOW,THB
 2dcef943-274e-4c0c-b174-fc1a2bb6bfb2,01/30/2026 07:00:00,Private Consumption Index,LOW,THB
 61805322-b99f-4a21-a192-d661417fd13c,01/30/2026 07:00:00,Private Investment Index,LOW,THB
 9fe57ab7-870f-40a6-b5fb-00059c4dac32,01/30/2026 07:00:00,Trade Balance,LOW,THB
 fafe2934-10dd-4760-ba0a-77277f3b53a4,02/05/2026 03:30:00,Consumer Price Index (YoY),LOW,THB
 352a01a0-3f3f-4aad-b629-5620945c4e43,02/05/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB
-8dc3aa4b-6e81-4f89-aa2a-cd6590b991af,02/23/2026 02:30:00,Gross Domestic Product (YoY),LOW,THB
-e4907ae2-c567-4a8c-9f00-eda6c5958033,02/23/2026 02:30:00,Gross Domestic Product s.a. (QoQ),LOW,THB
+8dc3aa4b-6e81-4f89-aa2a-cd6590b991af,02/16/2026 02:30:00,Gross Domestic Product (YoY),LOW,THB
+e4907ae2-c567-4a8c-9f00-eda6c5958033,02/16/2026 02:30:00,Gross Domestic Product s.a. (QoQ),LOW,THB
+5ecab856-59ec-4585-9eb8-d53029b6614e,02/25/2026 07:00:00,BoT Interest Rate Decision,LOW,THB
+da866a4b-66d7-4908-8b26-0f0b222f3d04,02/27/2026 03:30:00,Customs-Based Trade Balance,LOW,THB
+acb9b7db-2f11-44d2-bd9b-237f329d3f11,02/27/2026 07:00:00,Current Account,LOW,THB
+29362e43-bce1-4c29-bda2-a8343607f45b,02/27/2026 07:00:00,Private Consumption Index,LOW,THB
+234211a7-8a9b-47a0-bbe6-b9e563a3e63f,02/27/2026 07:00:00,Private Investment Index,LOW,THB
+fbb36142-cf22-4ef2-85af-7d6b20b6f8b5,02/27/2026 07:00:00,Trade Balance,LOW,THB
 13eb0609-d528-433a-a6e9-bdbf124756ee,03/05/2026 03:30:00,Consumer Price Index (YoY),LOW,THB
 678f69d7-cc86-41a4-b904-f9343e900569,03/05/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB
+c8f14635-c77f-483d-a619-90d1a3172aec,03/27/2026 03:30:00,Customs-Based Trade Balance,LOW,THB
+beccb125-4475-4a9c-82e1-a17926bf956d,03/31/2026 07:00:00,Current Account,LOW,THB
+99d1fad7-8aa7-4233-9034-f98eb4678c63,03/31/2026 07:00:00,Private Consumption Index,LOW,THB
+2234eead-ecb3-43df-be9f-5a4b593add53,03/31/2026 07:00:00,Private Investment Index,LOW,THB
+e05e09ae-b3c6-4389-85bb-6a2728e79176,03/31/2026 07:00:00,Trade Balance,LOW,THB
 e2c877a5-8183-499f-8696-215849052f90,04/06/2026 03:30:00,Consumer Price Index (YoY),LOW,THB
 4a109afb-2793-4ad9-8c0f-cfb9409acce8,04/06/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB
+b0c2b37f-7b5c-4950-a9b7-681272c034b5,04/23/2026 03:30:00,Customs-Based Trade Balance,LOW,THB
+e0977c03-127f-4b6b-a25a-6b2da51aa37e,04/29/2026 07:00:00,BoT Interest Rate Decision,LOW,THB
+252af017-01b9-4d4f-aa6a-a41f0c2c5cbb,04/30/2026 07:00:00,Current Account,LOW,THB
+63be224d-e85b-4ab8-842d-5aff5b7d24fc,04/30/2026 07:00:00,Private Consumption Index,LOW,THB
+4ad1e5e0-fc93-4ca7-ab0e-8e19fe5f7104,04/30/2026 07:00:00,Private Investment Index,LOW,THB
+13cd2842-fad6-4efe-a8bf-4418e796090b,04/30/2026 07:00:00,Trade Balance,LOW,THB
 5e23871f-a7e4-4fac-bbfa-e99a207feea7,05/06/2026 03:30:00,Consumer Price Index (YoY),LOW,THB
 371a4536-813c-49ba-88e4-9720797247ff,05/06/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB
+d1bb598a-3d91-4043-903d-ecfa98041b7e,05/18/2026 02:30:00,Gross Domestic Product (YoY),LOW,THB
+d10479f4-c126-4089-9585-6c9c470ef7af,05/18/2026 02:30:00,Gross Domestic Product s.a. (QoQ),LOW,THB
+cdbb3070-84af-4d71-9f64-a51334f48cd9,05/26/2026 03:30:00,Customs-Based Trade Balance,LOW,THB
+5ee97d49-1567-4388-900e-68ccdb35f68d,05/29/2026 07:00:00,Current Account,LOW,THB
+1736ed14-bd14-4789-8f1c-0da30aa5d90e,05/29/2026 07:00:00,Private Consumption Index,LOW,THB
+109668b4-fa09-4e7f-8efd-0fd15bb51bc9,05/29/2026 07:00:00,Private Investment Index,LOW,THB
+875d4dc9-ce60-4831-aa5d-71e6062933bd,05/29/2026 07:00:00,Trade Balance,LOW,THB
 dbbb8151-4eb5-4490-9558-4edf6ec39801,06/05/2026 03:30:00,Consumer Price Index (YoY),LOW,THB
 0e2aa50b-2891-4c9d-9b63-6c682f81740b,06/05/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB
+318e8a24-363f-4857-84bb-dadfa6cdaf9b,06/24/2026 07:00:00,BoT Interest Rate Decision,LOW,THB
+9d6aeab4-9ef5-4be8-aa1b-83669520df43,06/25/2026 03:30:00,Customs-Based Trade Balance,LOW,THB
+c26e27ee-8b43-4ed1-aa63-996d63967f98,06/30/2026 07:00:00,Current Account,LOW,THB
+83a9b3e3-7d5c-4a39-aecd-0a42c3a400c1,06/30/2026 07:00:00,Private Consumption Index,LOW,THB
+46b541d4-32d3-4416-bba6-50cb5b2f52e4,06/30/2026 07:00:00,Private Investment Index,LOW,THB
+09f263cb-e21b-46aa-9a0d-7f549b10d40d,06/30/2026 07:00:00,Trade Balance,LOW,THB
 270c277c-e03b-4aca-a3a9-1e502d3ed786,07/06/2026 03:30:00,Consumer Price Index (YoY),LOW,THB
 125f71c4-dbf7-4640-aa7a-ce71ae6f68a0,07/06/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB
+4487f1f6-7a90-4b68-ae81-d05d956a9e44,07/23/2026 03:30:00,Customs-Based Trade Balance,LOW,THB
+2f30c35a-f736-4e8d-a320-682282e1405f,07/31/2026 07:00:00,Current Account,LOW,THB
+c8f2554e-4ba1-4f32-bcc0-2b6c5f092728,07/31/2026 07:00:00,Private Consumption Index,LOW,THB
+c8312643-ff54-4ec0-9057-51eec5b0c51a,07/31/2026 07:00:00,Private Investment Index,LOW,THB
+1a3eb662-9edb-4acf-b4cb-b4b337cfd973,07/31/2026 07:00:00,Trade Balance,LOW,THB
 a9c05739-4f8d-4948-acbd-53d9049028f9,08/05/2026 03:30:00,Consumer Price Index (YoY),LOW,THB
 fed05970-e6e9-461d-85a0-bde01bd25180,08/05/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB
+32a2a95c-8b5d-4544-8370-903139f4faf6,08/17/2026 02:30:00,Gross Domestic Product (YoY),LOW,THB
+99619b76-5c6e-4bd9-a880-f5fd599f75ed,08/17/2026 02:30:00,Gross Domestic Product s.a. (QoQ),LOW,THB
+a79ea388-e75a-4a18-8681-88a80cc25dc0,08/25/2026 03:30:00,Customs-Based Trade Balance,LOW,THB
+0f7289ae-417d-4105-95a8-ed5324305fbb,08/26/2026 07:00:00,BoT Interest Rate Decision,LOW,THB
+6e403535-25cc-4d9b-ad6c-7df7857b47c5,08/31/2026 07:00:00,Current Account,LOW,THB
+589155c7-43f1-42e0-ae91-28a87ba459f0,08/31/2026 07:00:00,Private Consumption Index,LOW,THB
+27509a06-8b9e-4f68-8c06-a45b2c8ebe8c,08/31/2026 07:00:00,Private Investment Index,LOW,THB
+0339fdc9-3ab7-46e0-bff9-d5f0c3f281cb,08/31/2026 07:00:00,Trade Balance,LOW,THB
 31022b04-807d-4b8b-a4b2-4664cbf5c6d3,09/04/2026 03:30:00,Consumer Price Index (YoY),LOW,THB
 0c222c61-0d37-4dd8-aa77-c47e25f0ede2,09/04/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB
+bcd4eebf-1e46-4ecb-a982-ef36938ef43b,09/23/2026 03:30:00,Customs-Based Trade Balance,LOW,THB
+37797aaf-396a-4dd4-b74d-1d3df8bf7928,09/30/2026 07:00:00,Current Account,LOW,THB
+d3cfa63f-602b-4ccf-9de8-1258ab5d967a,09/30/2026 07:00:00,Private Consumption Index,LOW,THB
+d2154c51-8cb0-47d0-b068-0948b09c3fe7,09/30/2026 07:00:00,Private Investment Index,LOW,THB
+b7361e8e-9149-4e5a-bbad-ae05ac5c05ac,09/30/2026 07:00:00,Trade Balance,LOW,THB
 6dc9ab93-5d70-4129-8c67-6292e5d68123,10/06/2026 03:30:00,Consumer Price Index (YoY),LOW,THB
 6749f76d-bdd0-444d-8af8-596771ebf88d,10/06/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB
+3015fdab-be36-40ed-838e-6e62f4fab361,10/22/2026 03:30:00,Customs-Based Trade Balance,LOW,THB
+2eb4dd71-f2e7-4d63-a5fd-c9733073b972,10/28/2026 07:00:00,BoT Interest Rate Decision,LOW,THB
+23e28b25-5a61-4a58-9583-c7a610b651de,10/30/2026 07:00:00,Current Account,LOW,THB
+21b9e10f-4094-4f1b-a781-63fb6c8ee5a0,10/30/2026 07:00:00,Private Consumption Index,LOW,THB
+b10575aa-5cd0-453b-9206-82f054a384f6,10/30/2026 07:00:00,Private Investment Index,LOW,THB
+83f105d1-51df-4430-96c9-eb1038f54819,10/30/2026 07:00:00,Trade Balance,LOW,THB
 f09676f7-3a26-4fab-b1db-e87ec19beba0,11/05/2026 03:30:00,Consumer Price Index (YoY),LOW,THB
 7d9a5693-5442-4039-a7e8-7345acbcf282,11/05/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB
+ce3b2fde-d9b2-4668-bdf6-9927bef0657e,11/16/2026 02:30:00,Gross Domestic Product (YoY),LOW,THB
+e0087331-3e0b-4bc3-9cbc-10836473ebce,11/16/2026 02:30:00,Gross Domestic Product s.a. (QoQ),LOW,THB
+cd0e0b80-ef34-49cc-bd9f-641305fa99db,11/25/2026 03:30:00,Customs-Based Trade Balance,LOW,THB
+91fd9991-d6c2-4a1d-8a7d-8d0b8161b7a6,11/30/2026 07:00:00,Current Account,LOW,THB
+662a4d0f-8f62-4381-8fd1-21672edca9a1,11/30/2026 07:00:00,Private Consumption Index,LOW,THB
+8ad9c028-70b6-4550-9b59-79ca7c5c846f,11/30/2026 07:00:00,Private Investment Index,LOW,THB
+680079c3-d658-437e-8d56-9a8f8bcab448,11/30/2026 07:00:00,Trade Balance,LOW,THB
 81ff085a-ba93-432f-828b-4795f32eb8fe,12/04/2026 03:30:00,Consumer Price Index (YoY),LOW,THB
 dc6c2421-ea6c-4fc5-a61b-dff25e0107f8,12/04/2026 03:30:00,Core Consumer Price Index (YoY),LOW,THB
+74fcd2b8-4d56-4ca7-aaa5-fce80879ab0a,12/22/2026 03:30:00,Customs-Based Trade Balance,LOW,THB
+76e92c79-7a11-480b-845b-32f3e2a4a391,12/23/2026 07:00:00,BoT Interest Rate Decision,LOW,THB
+f765e156-ae48-4227-8173-4a6476ee8721,12/31/2026 07:00:00,Current Account,LOW,THB
+53a42acd-cd76-4bee-9c48-d1969fd2e976,12/31/2026 07:00:00,Private Consumption Index,LOW,THB
+a7c694f5-bd25-4b51-a87e-c044ffc92397,12/31/2026 07:00:00,Private Investment Index,LOW,THB
+9698a207-a640-4153-a69c-4ff9a4dab965,12/31/2026 07:00:00,Trade Balance,LOW,THB
 2599c29f-dceb-425c-a4ef-b9f0af24986d,01/06/2027 03:30:00,Consumer Price Index (YoY),LOW,THB
 396fe499-8fe7-4503-8882-d8e8c08992fa,01/06/2027 03:30:00,Core Consumer Price Index (YoY),LOW,THB
+6cb9c5cf-77a2-4e11-9456-97e9c91f7b4c,01/21/2027 03:30:00,Customs-Based Trade Balance,LOW,THB
+a86286e8-53d2-4b73-9c71-9fbf3b18089a,01/29/2027 07:00:00,Current Account,LOW,THB
+8984e3c8-9a08-4a86-8323-505f4c65184c,01/29/2027 07:00:00,Private Consumption Index,LOW,THB
+9f695d52-161d-4f44-b2a6-6deed9698399,01/29/2027 07:00:00,Private Investment Index,LOW,THB
+ff75ab40-f3d5-4865-b493-b1b0c10cabdd,01/29/2027 07:00:00,Trade Balance,LOW,THB

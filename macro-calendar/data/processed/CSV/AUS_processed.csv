@@ -1,12 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d20fc969-b2ba-4f19-928b-6b475f2c8f94,01/22/2026 00:30:00,Employment Change s.a.,HIGH,AUD,Release,0.18,Labor Market
-a78f490c-6ec0-40c1-b458-873290d17957,01/22/2026 00:30:00,Full-Time Employment,HIGH,AUD,Release,0.18,Labor Market
-e8104d40-ef23-4e29-93f9-ad8cd2169c5b,01/22/2026 00:30:00,Participation Rate,HIGH,AUD,Release,0.18,Labor Market
-67e39291-1d66-453b-93c3-79a9b7f317d2,01/22/2026 00:30:00,Part-Time Employment,HIGH,AUD,Release,0.18,Labor Market
-3f05255f-0b30-4bb2-b368-11b6bc3d38f9,01/22/2026 00:30:00,Unemployment Rate s.a.,HIGH,AUD,Release,0.18,Labor Market
-c0dedb47-93f2-475e-8164-cec6b5e0518a,01/22/2026 22:00:00,S&P Global Composite PMI,HIGH,AUD,Release,0.17,Growth
-a48b539b-b940-4360-bc67-25d5dce2be30,01/22/2026 22:00:00,S&P Global Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
-d5c67a9b-eee5-44dd-b154-0623d6d76ee1,01/22/2026 22:00:00,S&P Global Services PMI,HIGH,AUD,Release,0.17,Growth
 f5cc0d17-569b-4553-8039-dd52af75a950,01/23/2026 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 c072ecfb-fbe4-4562-83f8-12f4e3a41316,01/27/2026 00:30:00,National Australia Bank's Business Conditions,MEDIUM,AUD,Release,0.14,Confidence
 e4123969-2500-4383-a1bd-54126b7b5a61,01/27/2026 00:30:00,National Australia Bank's Business Confidence,MEDIUM,AUD,Release,0.14,Confidence
