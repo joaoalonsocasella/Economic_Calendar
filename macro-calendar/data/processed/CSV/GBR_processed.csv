@@ -1,14 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-bf856c6c-54ec-4280-8321-c038d3f74a29,01/23/2026 00:01:00,GfK Consumer Confidence,MEDIUM,GBP,Release,0.14,Confidence
-4ed267a3-b612-468e-ad6d-dc9271ad758a,01/23/2026 07:00:00,Retail Sales (MoM),HIGH,GBP,Release,0.17,Growth
-e419b468-c189-4e47-a54b-ddc460c7da70,01/23/2026 07:00:00,Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
-0b4fca5f-3272-4abc-ac00-e3b57e1eff3c,01/23/2026 07:00:00,Retail Sales ex-Fuel (MoM),HIGH,GBP,Release,0.17,Growth
-6b444ef9-b8f3-4498-8488-f94bce6b061e,01/23/2026 07:00:00,Retail Sales ex-Fuel (YoY),HIGH,GBP,Release,0.17,Growth
-5b7bf7c0-2acc-4828-b077-aca1bea68a5e,01/23/2026 09:30:00,BoE's Greene speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
-bd679be8-e2be-4fbd-be1f-95a5ef1b284a,01/23/2026 09:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
-154b17ad-ed3c-4930-900a-cb5ca0320b01,01/23/2026 09:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
-2a911385-82c7-41aa-9a9d-80519f80244f,01/23/2026 09:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
-5b8ebca4-7ee8-46f2-98bb-ed1a4319bdbd,01/23/2026 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 fbe04ef9-52b9-4615-a826-9b360f39da48,01/28/2026 00:01:00,BRC Shop Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
 06413ae5-f102-410f-81e5-024d723e0152,01/30/2026 07:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP,Release,0.07,Housing
 f5a73091-4494-447b-8fe8-362c7eecb38d,01/30/2026 07:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP,Release,0.07,Housing
