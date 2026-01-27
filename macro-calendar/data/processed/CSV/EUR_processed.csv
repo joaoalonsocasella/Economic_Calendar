@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-77b8656a-67b2-41a6-9aa0-525fe2c03bfa,01/26/2026 11:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-face31ea-0441-473e-8970-3316fb3cf139,01/26/2026 13:30:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 037f0f56-392b-4689-b28c-cfd9990babab,01/27/2026 17:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 a695a47d-983d-45c7-aada-d66c75ba9b44,01/27/2026 17:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
 f554373b-c970-4043-94a0-c2d472d6a8ad,01/28/2026 10:00:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy
@@ -40,11 +38,11 @@ f182b43d-5ab6-40dc-9366-ced6bd3ac774,02/09/2026 09:30:00,Sentix Investor Confide
 6af775b5-a1b1-44e5-94f0-3f8e177c7b8f,02/13/2026 10:00:00,Employment Change (YoY),HIGH,EUR,Release,0.765,Labor Market
 71b84c6f-f6c3-4b33-8602-47bcb45ecb83,02/13/2026 10:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR,Release,0.722,Growth
 77b2371c-4a1a-4d2a-a6cf-5607a4678a9f,02/13/2026 10:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR,Release,0.722,Growth
-5ba17be4-48a5-4349-89f9-a13b5c24ed6e,02/13/2026 10:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
-d273b1da-37a4-483b-a3e3-b357e725e94b,02/13/2026 10:00:00,Industrial Production w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth
+71004b66-156b-4386-82e9-18ba82dacf1b,02/13/2026 10:00:00,Trade Balance n.s.a.,HIGH,EUR,Release,0.468,Trade and External
+8d4977c3-43a6-4784-bf24-f0b46b0b75d9,02/13/2026 10:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External
 bdc83e17-30a9-4fab-93f4-b07abf5e752a,02/13/2026 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
-71004b66-156b-4386-82e9-18ba82dacf1b,02/16/2026 10:00:00,Trade Balance n.s.a.,HIGH,EUR,Release,0.468,Trade and External
-8d4977c3-43a6-4784-bf24-f0b46b0b75d9,02/16/2026 10:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External
+5ba17be4-48a5-4349-89f9-a13b5c24ed6e,02/16/2026 10:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
+d273b1da-37a4-483b-a3e3-b357e725e94b,02/16/2026 10:00:00,Industrial Production w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth
 213c0801-ac7c-40d9-817f-b18f09260501,02/17/2026 10:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
 0a0eef63-a84e-48e0-9f78-f2b292c6032c,02/18/2026 09:00:00,Current Account n.s.a,HIGH,EUR,Release,0.468,Trade and External
 93e4658e-9a7d-4e91-a8d4-1e1b1d9a0fad,02/18/2026 09:00:00,Current Account s.a,HIGH,EUR,Release,0.468,Trade and External
