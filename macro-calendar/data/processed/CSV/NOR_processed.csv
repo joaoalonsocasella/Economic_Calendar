@@ -1,7 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 ebce4254-38ee-4a21-bdff-f448f4d659a8,01/29/2026 07:00:00,Credit Indicator,LOW,NOK,Release,0.09,Money and Credit
+14f89cc4-10e9-4cd7-8df9-ab9c5aead1aa,01/30/2026 07:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
 b61ad9b2-6de5-4f43-b902-30592ec8a2bf,01/30/2026 07:00:00,Retail Sales ,HIGH,NOK,Release,0.17,Growth
-14f89cc4-10e9-4cd7-8df9-ab9c5aead1aa,01/30/2026 09:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
 37006a3c-c6f3-4991-a296-b65ee7df768c,01/30/2026 09:00:00,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
 0fbe045a-9af9-4879-95f1-da85cee676bc,02/06/2026 07:00:00,Manufacturing Output,HIGH,NOK,Release,0.17,Growth
 c67df514-b769-4837-90c1-4215f10a130a,02/09/2026 07:00:00,Producer Price Index (YoY),HIGH,NOK,Release,0.19,Inflation
