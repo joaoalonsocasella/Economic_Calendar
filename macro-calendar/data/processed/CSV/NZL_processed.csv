@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a6961a53-b912-434b-860c-e793b517151f,01/28/2026 21:45:00,Exports,MEDIUM,NZD,Release,0.11,Trade and External
-c57dcff9-5d4a-42c4-bbe5-05165e31f098,01/28/2026 21:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External
-51b12fe7-104a-4df0-b7b6-080ccc2104bb,01/28/2026 21:45:00,Trade Balance NZD (MoM),MEDIUM,NZD,Release,0.11,Trade and External
-4f7d467e-6b22-49d4-9a73-d3027880c9b3,01/28/2026 21:45:00,Trade Balance NZD (YoY),MEDIUM,NZD,Release,0.11,Trade and External
 387bd0d9-eca9-4699-995e-b5dc4b2d4394,01/29/2026 00:00:00,ANZ Activity Outlook,MEDIUM,NZD,Release,0.14,Confidence
 b4e8bc7f-404f-4d5d-8b54-b37e6ff51971,01/29/2026 00:00:00,ANZ Business Confidence,MEDIUM,NZD,Release,0.14,Confidence
 97822e70-5217-4ae8-9a7b-9a6db955bf08,01/29/2026 21:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Release,0.14,Confidence

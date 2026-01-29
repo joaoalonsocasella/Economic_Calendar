@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-9c01a58f-e2ac-46d3-a2b2-24a7530e5fd5,01/28/2026 14:45:00,BoC Interest Rate Decision,MEDIUM,CAD,Speech,0.13,Monetary Policy
-31d20de2-ca3d-4644-a23d-54062cf8fcd2,01/28/2026 14:45:00,BoC Monetary Policy Report,HIGH,CAD,Release,0.2,Monetary Policy
-cfc03a2b-b223-4d00-86a8-23b5866aaef5,01/28/2026 14:45:00,BoC Monetary Policy Statement,MEDIUM,CAD,Speech,0.13,Monetary Policy
-dcb8e808-3dcd-4566-9f74-7d160f5d2c2e,01/28/2026 15:30:00,BoC Press Conference,MEDIUM,CAD,Speech,0.13,Monetary Policy
 3c8493d8-2f60-4fac-a7b8-5fcba573c7fe,01/29/2026 13:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
 c23ed94d-b395-42dd-ad9d-1f4bddc20d8f,01/29/2026 13:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
 ae2ecf01-c1f7-401f-895f-680a9ec27248,01/29/2026 13:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External

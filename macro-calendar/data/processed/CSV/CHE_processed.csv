@@ -1,8 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0025c73c-613a-4225-92ca-34e97d3f0c1e,01/28/2026 09:00:00,ZEW Survey – Expectations,MEDIUM,CHF,Release,0.14,Confidence
-2f3b4698-c0d7-444b-9887-ef5502aa0301,01/29/2026 07:00:00,Exports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
-735247a4-cc1e-4c5f-8d48-9b11fa433780,01/29/2026 07:00:00,Imports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
-161fd9f5-bda7-42b4-a067-688c592279bd,01/29/2026 07:00:00,Trade Balance,MEDIUM,CHF,Release,0.11,Trade and External
+2f3b4698-c0d7-444b-9887-ef5502aa0301,01/29/2026 07:50:00,Exports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
+735247a4-cc1e-4c5f-8d48-9b11fa433780,01/29/2026 07:50:00,Imports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
+161fd9f5-bda7-42b4-a067-688c592279bd,01/29/2026 07:50:00,Trade Balance,MEDIUM,CHF,Release,0.11,Trade and External
 08dc01e2-e3d1-4270-b86b-3dfdc10845e0,01/30/2026 08:00:00,KOF Leading Indicator,MEDIUM,CHF,Release,0.14,Confidence
 e23422c4-be64-4553-b080-42c27b24fcf5,02/02/2026 07:30:00,Real Retail Sales (YoY),HIGH,CHF,Release,0.17,Growth
 ea95e9f1-9982-4fe0-966b-f345fb42a8ca,02/02/2026 08:30:00,SVME - Purchasing Managers' Index,MEDIUM,CHF,Release,0.14,Confidence
