@@ -1,7 +1,4 @@
 Id,Start,Name,Impact,Currency
-387bd0d9-eca9-4699-995e-b5dc4b2d4394,01/29/2026 00:00:00,ANZ Activity Outlook,LOW,NZD
-b4e8bc7f-404f-4d5d-8b54-b37e6ff51971,01/29/2026 00:00:00,ANZ Business Confidence,LOW,NZD
-97822e70-5217-4ae8-9a7b-9a6db955bf08,01/29/2026 21:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD
 4a7e6963-a9dd-420d-abc9-17959466446f,02/02/2026 21:45:00,Building Permits s.a. (MoM),MEDIUM,NZD
 59390531-1181-437a-86d3-3db363403943,02/03/2026 15:00:00,GDT Price Index,LOW,NZD
 b515daba-5e7c-42b4-8cfb-76e4c3e36a18,02/03/2026 21:45:00,Employment Change,HIGH,NZD
@@ -326,3 +323,16 @@ e65e2c39-8c48-4e38-a72f-c9ef81c2ad56,01/28/2027 21:45:00,Trade Balance NZD (MoM)
 58ede63b-920c-4a97-b8df-65bd2d57deb6,01/28/2027 21:45:00,Trade Balance NZD (YoY),MEDIUM,NZD
 3571115b-d104-4df6-9a39-3dde3cdbc126,01/29/2027 00:00:00,ANZ Activity Outlook,LOW,NZD
 d1a7cf57-d87e-4d32-90db-2ad4ab6972e9,01/29/2027 00:00:00,ANZ Business Confidence,LOW,NZD
+c87c396b-9aa3-403f-87d0-41cd84a61b43,02/02/2027 21:45:00,Employment Change,HIGH,NZD
+f41687fe-6a1a-4ffd-b7d5-e38bbeca3bbc,02/02/2027 21:45:00,Labour Cost Index (QoQ),MEDIUM,NZD
+cac59f3c-f945-4682-8d5f-3c0fd86ae0fb,02/02/2027 21:45:00,Labour Cost Index (YoY),LOW,NZD
+8ead3055-8fa6-41f2-abb2-f0445854fbab,02/02/2027 21:45:00,Participation Rate,MEDIUM,NZD
+0803607f-b6ea-4d58-a5ae-9e0ddc3ca6bb,02/02/2027 21:45:00,Unemployment Rate,HIGH,NZD
+e49c5b36-f84d-444b-8ff5-fd64bb497218,02/11/2027 02:00:00,RBNZ Inflation Expectations (QoQ),HIGH,NZD
+4a2571c8-0311-42ef-8f9c-b531ac091247,02/17/2027 01:00:00,RBNZ Interest Rate Decision,HIGH,NZD
+b40d9b0b-9be1-471e-95c0-aed717b764f0,02/17/2027 01:00:00,RBNZ Monetary Policy Review,HIGH,NZD
+c9e36d3f-8172-4e8e-83f3-5229e27e13d6,02/17/2027 01:00:00,RBNZ Monetary Policy Statement,HIGH,NZD
+7e21405d-0588-4b49-a565-173a76ad8e4a,02/17/2027 21:45:00,Producer Price Index - Input (QoQ),LOW,NZD
+f21cb5bf-edc9-4471-9078-fc7d875e8020,02/17/2027 21:45:00,Producer Price Index - Output (QoQ),MEDIUM,NZD
+0599a757-0d3f-4439-93fa-2024f5708df5,02/23/2027 21:45:00,Retail Sales (QoQ),HIGH,NZD
+aabcf065-c417-4b39-b186-82380fb1a57e,02/23/2027 21:45:00,Retail Sales ex Autos (QoQ),MEDIUM,NZD

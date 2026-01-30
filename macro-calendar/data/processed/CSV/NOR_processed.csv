@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-ebce4254-38ee-4a21-bdff-f448f4d659a8,01/29/2026 07:00:00,Credit Indicator,LOW,NOK,Release,0.09,Money and Credit
 14f89cc4-10e9-4cd7-8df9-ab9c5aead1aa,01/30/2026 07:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
 b61ad9b2-6de5-4f43-b902-30592ec8a2bf,01/30/2026 07:00:00,Retail Sales ,HIGH,NOK,Release,0.17,Growth
 37006a3c-c6f3-4991-a296-b65ee7df768c,01/30/2026 09:00:00,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
@@ -154,3 +153,5 @@ fb0a40c3-a6dd-40ac-b792-574f90ebf27d,01/11/2027 07:00:00,Core Inflation (MoM),HI
 c3a8fe83-4be6-45bc-b7cc-4c14a5b1dea9,01/29/2027 07:00:00,Retail Sales ,HIGH,NOK,Release,0.17,Growth
 e77aec8c-157b-4757-a5a4-1745bb4ad490,01/29/2027 09:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
 f012d0a6-344d-47d9-a19d-0c54ff6f749c,01/29/2027 09:00:00,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
+5725bfb9-abd7-497b-aec6-deca3bcb113c,02/16/2027 07:00:00,Gross Domestic Product Growth,LOW,NOK,Release,0.09,Money and Credit
+c24b9c30-ec5d-456d-939e-5a8a02afe64a,02/16/2027 07:00:00,Gross Domestic Product Growth Mainland,LOW,NOK,Release,0.09,Money and Credit

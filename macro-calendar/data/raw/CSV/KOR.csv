@@ -1,7 +1,4 @@
 Id,Start,Name,Impact,Currency
-747497d4-a396-46b4-8890-2fa134937b6d,01/29/2026 23:00:00,Industrial Output (YoY),LOW,KRW
-9735a002-2063-42aa-a428-9b0a7337b43f,01/29/2026 23:00:00,Industrial Output Growth,LOW,KRW
-2329df3c-ccba-45d3-b419-b73b5acf2de8,01/29/2026 23:00:00,Service Sector Output,LOW,KRW
 8b5cecfe-e14e-41da-800e-4115514ca6d9,02/01/2026 00:00:00,Trade Balance,LOW,KRW
 3b8776ea-27df-4a12-959a-2c944544251f,02/02/2026 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
 0f3e0f4e-4d65-44e6-b292-600513421386,02/02/2026 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
@@ -241,3 +238,5 @@ caaabc7d-137e-4ac8-bca6-b86d9342cb09,01/21/2027 21:00:00,Producer Price Index Gr
 f4b2a93a-43c3-47c9-9897-aa697c490f56,01/28/2027 23:00:00,Industrial Output (YoY),LOW,KRW
 c6ed15bf-adc4-443f-9edb-8fd1ac9442ca,01/28/2027 23:00:00,Industrial Output Growth,LOW,KRW
 510554fe-6515-4274-bc07-2d9a5f2c2fa6,01/28/2027 23:00:00,Service Sector Output,LOW,KRW
+18bc3524-d841-4812-af95-b707492b02ca,02/02/2027 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
+bd9d47af-6fb1-4f70-a50f-80b0c64b3da4,02/02/2027 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW

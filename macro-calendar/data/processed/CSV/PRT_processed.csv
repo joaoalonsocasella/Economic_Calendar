@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-efdb2a85-ceda-4150-99ff-232ecf84146b,01/29/2026 09:30:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
-ceb1dc1b-ad98-40a2-b885-6876bb015fe5,01/29/2026 09:30:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 b19f3b0f-f1ed-4748-8788-c77b382da883,01/30/2026 09:30:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 70c9e222-21a9-4b60-85fc-083e8ed00b58,01/30/2026 09:30:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
 6c006aac-a66f-41b8-abbb-f0bf25924606,01/30/2026 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
@@ -122,3 +120,4 @@ a6e7580a-8650-4b22-ade1-2d4d3069dc18,01/29/2027 09:30:00,Gross Domestic Product 
 2bf6c47d-f28d-4326-a6dc-3e42d00c91ca,01/29/2027 09:30:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
 516d0dc7-570e-4f28-ad5e-ad13a1451b89,01/29/2027 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 bcb0ffcf-a765-499e-ac94-f7b1ac9ad1b9,01/29/2027 11:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+1aa3fdae-9cdd-4337-ad27-3717ced3a4c4,02/10/2027 11:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market

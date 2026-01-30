@@ -1,6 +1,4 @@
 Id,Start,Name,Impact,Currency
-bb797962-9477-437c-b26d-ade9ecf729ab,01/29/2026 08:00:00,Consumer Confidence (MoM),LOW,SEK
-66cc1c52-724f-4ab4-87aa-e07cdb99477b,01/29/2026 08:30:00,Riksbank Interest Rate Decision,MEDIUM,SEK
 6ada1f91-e607-42f1-b68c-79676238611b,01/30/2026 07:00:00,Retail Sales (MoM),LOW,SEK
 c1dfcc18-5325-4459-9840-49f71565f38b,01/30/2026 07:00:00,Retail Sales (YoY),LOW,SEK
 f5dd29b1-9aac-4681-a9eb-8be7701d0be8,02/02/2026 07:30:00,Manufacturing PMI,LOW,SEK
@@ -182,3 +180,6 @@ e5837a1c-25da-47bb-9ac7-b1132ee525a2,01/26/2027 07:00:00,Producer Price Index (Y
 e18224df-c589-4c41-842b-30b7dac8e488,01/29/2027 07:00:00,Retail Sales (MoM),LOW,SEK
 4372f53a-ce80-4761-bedf-bfebd81712a7,01/29/2027 07:00:00,Retail Sales (YoY),LOW,SEK
 7982f2d1-50f3-4fae-aed8-a5a25771845b,01/29/2027 08:00:00,Consumer Confidence (MoM),LOW,SEK
+b1115783-dc48-43e1-aa49-5abeae0fb671,02/19/2027 07:00:00,Capacity Utilization,LOW,SEK
+6a637163-b940-41a7-9773-84b7ef85b8d0,02/26/2027 07:00:00,Gross Domestic Product (QoQ),LOW,SEK
+fd879236-6a55-42b3-b563-8d1bcb1527e0,02/26/2027 07:00:00,Gross Domestic Product (YoY),LOW,SEK

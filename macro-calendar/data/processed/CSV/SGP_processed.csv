@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-dfc6f10f-d497-4f78-a3e3-0439de2bb956,01/29/2026 03:15:00,Unemployment rate,HIGH,SGD,Release,0.18,Labor Market
 2e8d5f02-da93-4cee-9839-4e0280552dcf,02/02/2026 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
 6d1b227a-3507-436d-9afe-0f529341605d,02/05/2026 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
 94150a44-18c9-467b-8206-a10977dc2dae,02/05/2026 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
@@ -108,3 +107,5 @@ a0bfc75f-90bf-49d9-a622-0e765839606f,01/12/2027 00:00:00,Gross Domestic Product 
 e5354a33-5a2a-4f39-af94-982e5f3bae0e,01/26/2027 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
 db1ba667-4dc5-45a4-8917-419b712fe59e,01/26/2027 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
 eae75737-e69d-4dea-814c-36b1ae0ad5cb,01/28/2027 01:30:00,Unemployment rate,HIGH,SGD,Release,0.18,Labor Market
+f888fba5-fe21-447f-a5e5-1f18fc70087f,02/26/2027 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
+b66704c6-7502-46e7-927c-994e6af95dab,02/26/2027 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth

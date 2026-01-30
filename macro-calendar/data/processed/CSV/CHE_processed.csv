@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-2f3b4698-c0d7-444b-9887-ef5502aa0301,01/29/2026 07:50:00,Exports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
-735247a4-cc1e-4c5f-8d48-9b11fa433780,01/29/2026 07:50:00,Imports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
-161fd9f5-bda7-42b4-a067-688c592279bd,01/29/2026 07:50:00,Trade Balance,MEDIUM,CHF,Release,0.11,Trade and External
 08dc01e2-e3d1-4270-b86b-3dfdc10845e0,01/30/2026 08:00:00,KOF Leading Indicator,MEDIUM,CHF,Release,0.14,Confidence
 e23422c4-be64-4553-b080-42c27b24fcf5,02/02/2026 07:30:00,Real Retail Sales (YoY),HIGH,CHF,Release,0.17,Growth
 ea95e9f1-9982-4fe0-966b-f345fb42a8ca,02/02/2026 08:30:00,SVME - Purchasing Managers' Index,MEDIUM,CHF,Release,0.14,Confidence
@@ -202,3 +199,10 @@ f3a678fd-7fa9-4899-ab81-91809375ff65,01/05/2027 07:30:00,Consumer Price Index (M
 4d1ccf17-1f03-49c6-be66-1fd0c1acc9b6,01/28/2027 07:00:00,Imports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
 e5e76c55-6883-4f54-8329-e538211933cf,01/28/2027 07:00:00,Trade Balance,MEDIUM,CHF,Release,0.11,Trade and External
 ba925e7b-3a09-493c-bda4-6200bd3adeee,01/29/2027 08:00:00,KOF Leading Indicator,MEDIUM,CHF,Release,0.14,Confidence
+7fd39bd3-965f-4aaf-9fae-b9a53df17d55,02/03/2027 07:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
+00d7f648-41ca-4d53-b91a-c8333b48f73a,02/03/2027 07:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation
+06c1a437-f509-41ab-87be-2d0cc85fd594,02/08/2027 08:00:00,SECO Consumer Climate (3m),MEDIUM,CHF,Release,0.14,Confidence
+e05c04d8-549c-41f8-9952-a7d9d10275a3,02/18/2027 07:30:00,Industrial Production (YoY),HIGH,CHF,Release,0.17,Growth
+f55d95f3-55ee-47cc-957f-8a9024461f38,02/26/2027 07:00:00,Gross Domestic Product (QoQ),HIGH,CHF,Release,0.17,Growth
+b925de73-c504-4b22-8750-a59595c9e921,02/26/2027 07:00:00,Gross Domestic Product (YoY),HIGH,CHF,Release,0.17,Growth
+59e1a450-e9c3-4005-b844-33c11f42efbb,02/26/2027 07:30:00,Employment Level (QoQ),HIGH,CHF,Release,0.18,Labor Market

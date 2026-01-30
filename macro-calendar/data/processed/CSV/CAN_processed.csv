@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-3c8493d8-2f60-4fac-a7b8-5fcba573c7fe,01/29/2026 13:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
-c23ed94d-b395-42dd-ad9d-1f4bddc20d8f,01/29/2026 13:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
-ae2ecf01-c1f7-401f-895f-680a9ec27248,01/29/2026 13:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
 a8273b36-84dc-43e9-8b1f-9c0387fecce1,01/30/2026 13:30:00,Gross Domestic Product (MoM),LOW,CAD,Release,0.07,Housing
 a576457d-8251-4d8e-9fd7-b6274124b98e,02/02/2026 14:30:00,S&P Global Manufacturing PMI,HIGH,CAD,Release,0.17,Growth
 1a0e9ba0-4e82-4213-b59d-7d64e0f78894,02/05/2026 17:40:00,BoC's Governor Macklem speech,MEDIUM,CAD,Speech,0.13,Monetary Policy
@@ -402,3 +399,14 @@ af82096e-8f12-4224-9cf3-a48680840803,01/22/2027 13:30:00,New Housing Price Index
 6ca26835-989c-4417-9a84-e7cf463c5d79,01/22/2027 13:30:00,Retail Sales (MoM),HIGH,CAD,Release,0.17,Growth
 85476818-5c45-4912-88f4-700fa26b33b0,01/22/2027 13:30:00,Retail Sales ex Autos (MoM),HIGH,CAD,Release,0.17,Growth
 2b6c2e03-56a3-4c4d-bc8e-60c35358b811,01/29/2027 13:30:00,Gross Domestic Product (MoM),LOW,CAD,Release,0.07,Housing
+74bef2bf-4a75-4895-a6b9-a05c290496e1,02/05/2027 13:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
+a78e0d78-67d7-44b7-88a1-bd39d6653876,02/05/2027 13:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
+e43baa11-9658-49a8-a240-8469b7490fbb,02/05/2027 13:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
+b17f1725-8044-4df9-80d8-a2505f2c710d,02/05/2027 13:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
+41326a9d-65b0-4d06-b626-d488b7103e2c,02/18/2027 13:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
+7f8167fd-1382-4fbd-b062-e5191316d66f,02/18/2027 13:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
+44b3f215-4c38-442f-986c-636c1fb232e0,02/18/2027 13:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
+ea12d622-adbc-4e16-83e2-e5ac054716ef,02/18/2027 13:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
+49f6c682-842f-4809-b812-aaed5fd94460,02/18/2027 13:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
+58b2070f-4643-4d9e-b574-54f0e17b4ab0,02/26/2027 13:30:00,Gross Domestic Product (QoQ),HIGH,CAD,Release,0.17,Growth
+1bd7b227-e0d1-4c00-92d7-ac1cbc823ae4,02/26/2027 13:30:00,Gross Domestic Product Annualized,HIGH,CAD,Release,0.17,Growth

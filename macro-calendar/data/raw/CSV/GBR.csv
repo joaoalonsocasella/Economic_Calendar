@@ -1,12 +1,12 @@
 Id,Start,Name,Impact,Currency
-06413ae5-f102-410f-81e5-024d723e0152,01/30/2026 07:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP
-f5a73091-4494-447b-8fe8-362c7eecb38d,01/30/2026 07:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP
 2eec32ff-e1c1-4287-b177-ca21c4a34ee7,01/30/2026 09:30:00,Consumer Credit,LOW,GBP
 db5846dd-a152-42cc-bb39-ee9688b858a7,01/30/2026 09:30:00,M4 Money Supply (MoM),LOW,GBP
 d57742f4-21bb-49c6-a5bc-6b1bd52a6ad9,01/30/2026 09:30:00,M4 Money Supply (YoY),LOW,GBP
 47ecbc64-d2dc-42e4-9253-800d1543b783,01/30/2026 09:30:00,Mortgage Approvals,LOW,GBP
 c7fe128b-09d8-412b-affd-e9dde4978d54,01/30/2026 09:30:00,Net Lending to Individuals (MoM),LOW,GBP
 b70851f3-f22d-476f-a966-6eb46f08bdd2,01/30/2026 20:30:00,CFTC GBP NC Net Positions,LOW,GBP
+06413ae5-f102-410f-81e5-024d723e0152,02/02/2026 07:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP
+f5a73091-4494-447b-8fe8-362c7eecb38d,02/02/2026 07:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP
 ae1a5427-9671-490c-8501-8fac3e9d7ddd,02/02/2026 09:30:00,S&P Global Manufacturing PMI,LOW,GBP
 6c266acb-9dfb-4938-9ed7-f4cd9b48d039,02/02/2026 11:45:00,BoE's Breeden speech,MEDIUM,GBP
 b26095ce-db6c-4d4c-9a9b-fc92c69e11fc,02/03/2026 10:30:00,10-y Bond Auction,LOW,GBP
@@ -787,3 +787,30 @@ cdf7993c-49dc-43ec-a122-cb59dfc07f5b,01/22/2027 07:00:00,Retail Sales (MoM),HIGH
 a3c221aa-68b1-4c69-bd66-b655aa81b4b9,01/22/2027 07:00:00,Retail Sales ex-Fuel (MoM),MEDIUM,GBP
 ac250319-a873-4235-a174-e664a78704ee,01/22/2027 07:00:00,Retail Sales ex-Fuel (YoY),MEDIUM,GBP
 dd472d73-ce16-4577-8592-cd5fa35142f3,01/28/2027 00:01:00,BRC Shop Price Index (YoY),LOW,GBP
+2b631847-3544-4f5c-817e-f2aa35f18e20,02/01/2027 09:30:00,S&P Global Manufacturing PMI,LOW,GBP
+577ed472-a7e4-4244-b7ad-03af8ee84def,02/03/2027 09:30:00,S&P Global Composite PMI,LOW,GBP
+b4ff2019-4de8-437d-91f8-605c8fce8c25,02/03/2027 09:30:00,S&P Global Services PMI,LOW,GBP
+af67edc9-3d9e-49f6-ba44-baefd1d9b348,02/04/2027 09:30:00,S&P Global Construction PMI,LOW,GBP
+380da470-7338-4037-a6d7-60bc2faa58ea,02/12/2027 07:00:00,Gross Domestic Product (QoQ),HIGH,GBP
+b5b21913-6711-4cec-b4a2-526c30a802ed,02/12/2027 07:00:00,Gross Domestic Product (YoY),HIGH,GBP
+3061aeaa-589a-4131-b4fe-ff9dfcf0f849,02/12/2027 07:00:00,Total Business Investment (QoQ),LOW,GBP
+e0664be1-398d-4851-a80f-140f2a211fd3,02/12/2027 07:00:00,Total Business Investment (YoY),LOW,GBP
+ebd61de3-4f00-41fe-99b2-9bc73008ee8c,02/16/2027 07:00:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
+4f813b1f-6b92-4c69-8328-5c135c35c3a2,02/16/2027 07:00:00,Average Earnings Including Bonus (3Mo/Yr),MEDIUM,GBP
+626fd38c-c894-476e-9a42-97c373e2a16d,02/16/2027 07:00:00,Claimant Count Change,HIGH,GBP
+7fc5180f-7d69-47ef-9cce-c3a86fddf7c1,02/16/2027 07:00:00,Claimant Count Rate,MEDIUM,GBP
+9e680387-207a-48cd-b725-2e6bcb8e3813,02/16/2027 07:00:00,Employment Change (3M),HIGH,GBP
+7df30158-d535-4e7d-b31f-434cd396640c,02/16/2027 07:00:00,ILO Unemployment Rate (3M),HIGH,GBP
+c153f3f5-ba05-4172-9d6c-10dfdf1b91a3,02/17/2027 07:00:00,Consumer Price Index (MoM),HIGH,GBP
+2ca507f5-7c22-4334-82d3-532e8d3461ab,02/17/2027 07:00:00,Consumer Price Index (YoY),HIGH,GBP
+7f12df2f-a5e3-44fd-b05e-5e4afa6b9c53,02/17/2027 07:00:00,Core Consumer Price Index (YoY),HIGH,GBP
+89cc61c1-9d5f-42b8-942d-5742a4714608,02/17/2027 07:00:00,Retail Price Index (MoM),MEDIUM,GBP
+36ff7274-72a4-4f64-878b-34fd5988a3e9,02/17/2027 07:00:00,Retail Price Index (YoY),MEDIUM,GBP
+4b1b0966-696e-40f0-83af-a5b6beb7eff6,02/17/2027 09:30:00,DCLG House Price Index (YoY),LOW,GBP
+c4c13121-5fd4-434a-8929-b58bb8e8e3a8,02/19/2027 07:00:00,Retail Sales (MoM),HIGH,GBP
+4a18c232-31f4-40c4-a5bb-79653efb86f7,02/19/2027 07:00:00,Retail Sales (YoY),MEDIUM,GBP
+6968e73b-8af1-4645-a7e0-db10ab390543,02/19/2027 07:00:00,Retail Sales ex-Fuel (MoM),MEDIUM,GBP
+5237e05a-b55b-4a2a-8936-933c52850a83,02/19/2027 07:00:00,Retail Sales ex-Fuel (YoY),MEDIUM,GBP
+728840af-601a-4125-8ef5-07f671b7d3c7,02/23/2027 09:30:00,S&P Global Composite PMI,HIGH,GBP
+3e0d6f1d-7524-4607-9c18-ae424eabcbf5,02/23/2027 09:30:00,S&P Global Manufacturing PMI,HIGH,GBP
+005c6d43-f296-49b7-899a-191d8f4464eb,02/23/2027 09:30:00,S&P Global Services PMI,HIGH,GBP

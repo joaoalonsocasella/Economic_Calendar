@@ -1,15 +1,4 @@
 Id,Start,Name,Impact,Currency
-4ceca168-5b49-4cf1-b3a6-f76e2f36bd49,01/29/2026 05:00:00,Consumer Confidence Index,LOW,JPY
-c450829d-09e7-4c38-a0ab-aae69565e6a0,01/29/2026 23:30:00,Jobs / Applicants Ratio,LOW,JPY
-19bda3bd-0534-4e81-91a1-b69db51bd389,01/29/2026 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
-12d80606-ddc0-4dd4-b00d-ee1a00f69fb8,01/29/2026 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
-41f02dae-623c-4ff6-80ac-00699cca42cb,01/29/2026 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
-f29050d2-ac87-41a8-8a6f-919eadb061f6,01/29/2026 23:30:00,Unemployment Rate,MEDIUM,JPY
-4ba7aa61-b00f-4831-b58b-6fd458ae5726,01/29/2026 23:50:00,Industrial Production (MoM),LOW,JPY
-3a6f7528-d5fc-4092-9d93-021207b1a33d,01/29/2026 23:50:00,Industrial Production (YoY),LOW,JPY
-8d994dc3-c848-4d55-bc50-a290109487dc,01/29/2026 23:50:00,Large Retailer Sales,MEDIUM,JPY
-884de9af-2a1c-443c-bbba-ab14ae6fff16,01/29/2026 23:50:00,Retail Trade (YoY),MEDIUM,JPY
-d816c3f7-b757-4086-89ed-a2313e6a5e5a,01/29/2026 23:50:00,Retail Trade s.a (MoM),MEDIUM,JPY
 4e359b82-46dd-4351-a3e9-7d424121d5c3,01/30/2026 05:00:00,Annualized Housing Starts,LOW,JPY
 d8cd816d-6d50-418b-b88f-51511c758750,01/30/2026 05:00:00,Construction Orders (YoY),LOW,JPY
 8cf75cf0-9767-4dda-924d-cb22e96c4418,01/30/2026 05:00:00,Housing Starts (YoY),LOW,JPY
@@ -852,3 +841,10 @@ b195a60f-2914-4805-95b3-a943f2f58c02,01/28/2027 23:50:00,Industrial Production (
 10ea9cd5-3d40-48f6-8c1a-339b2dc23bfa,01/31/2027 23:50:00,Large Retailer Sales,MEDIUM,JPY
 cbdbe3e0-d55b-44d2-8c10-ceb06276beba,01/31/2027 23:50:00,Retail Trade (YoY),MEDIUM,JPY
 1a750efa-d116-4f2d-9e9b-f9c4ab47dbba,01/31/2027 23:50:00,Retail Trade s.a (MoM),MEDIUM,JPY
+ca4e1c87-c441-4ad8-bf4b-7f4eca6a3d75,02/16/2027 23:50:00,Gross Domestic Product (QoQ),HIGH,JPY
+fc997228-b3f1-4f84-ae02-04ea6ef83162,02/16/2027 23:50:00,Gross Domestic Product Annualized,MEDIUM,JPY
+c3d92f4b-b074-4962-9cae-904d74e19b0c,02/16/2027 23:50:00,Gross Domestic Product Deflator (YoY),MEDIUM,JPY
+fa526b47-3a65-4fba-9b96-dbaa61cc292d,02/25/2027 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
+23b2809b-d302-4083-80ae-f19adc634a0a,02/25/2027 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
+9794c275-43f3-4b1d-9300-245cdccd35a1,02/25/2027 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
+f5ebb47f-2418-4588-8844-f158a1e6b04e,02/28/2027 23:50:00,Capital Spending,LOW,JPY
