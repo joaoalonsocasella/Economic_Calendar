@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-710ea0bf-90dc-497e-9a7d-27ff8c2b692a,01/30/2026 10:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR,Release,0.722,Growth
-c8b9f93c-bb2e-44ba-8e1b-7e817391a088,01/30/2026 10:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR,Release,0.722,Growth
-8b12c8d4-7814-47f8-ad65-eeae92eb5c19,01/30/2026 10:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
-26e44f5e-3b0d-43dc-ac9a-0139512d0d11,01/30/2026 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 0dbb069b-7fe1-43af-b4f3-1dc1d3ff25f3,02/02/2026 09:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 9f2ff889-c1a7-4537-9d6a-4af45c3d9e1c,02/03/2026 09:00:00,ECB Bank Lending Survey,HIGH,EUR,Release,0.85,Monetary Policy
 7b19a2c6-a88a-4f5a-acda-0f6b20231f2a,02/04/2026 09:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
@@ -19,6 +15,7 @@ bc42a5fd-21e9-4da4-aa89-9c97fdfa7c34,02/05/2026 10:00:00,Retail Sales (MoM),HIGH
 b3b18602-8229-438f-a687-f5a912ae7c19,02/05/2026 13:15:00,ECB Monetary Policy Statement,HIGH,EUR,Speech,0.552,Monetary Policy
 5657262a-3606-4c4e-ae82-4c35a54bd9df,02/05/2026 13:15:00,ECB Rate On Deposit Facility,HIGH,EUR,Release,0.85,Monetary Policy
 18f648f8-41c0-4a93-9c32-beb026474c44,02/05/2026 13:45:00,ECB Press Conference,HIGH,EUR,Speech,0.552,Monetary Policy
+8f6db310-cf0d-4286-9c16-3d7b3997cd13,02/06/2026 06:45:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
 51541410-b965-4edf-9572-ef85178547d2,02/06/2026 09:00:00,ECB's Kocher speech,HIGH,EUR,Speech,0.552,Monetary Policy
 57d9d6d8-882c-4a7e-9106-12065fa97830,02/06/2026 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 f182b43d-5ab6-40dc-9366-ced6bd3ac774,02/09/2026 09:30:00,Sentix Investor Confidence,HIGH,EUR,Release,0.595,Confidence
