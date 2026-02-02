@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-7c293ba5-a7b8-4330-bd26-f0bbc4621afb,02/01/2026 08:00:00,OPEC Meeting,LOW,USD,Speech,0.072,Trade and External
 1498a0b4-9364-42d8-8973-a2850ecebcaa,02/02/2026 14:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 dbd699f1-2127-49d5-9783-d2cc82669220,02/02/2026 15:00:00,ISM Manufacturing Employment Index,HIGH,USD,Release,0.18,Labor Market
 98514387-5761-454d-9663-c16f06200447,02/02/2026 15:00:00,ISM Manufacturing New Orders Index,HIGH,USD,Release,0.17,Growth
@@ -11,6 +10,7 @@ cc489ba9-eeb1-4286-ac37-ed6ba57e6fda,02/02/2026 18:25:00,Fed's Bostic speech,HIG
 26066b39-eb51-4a1d-b303-c412f017991c,02/02/2026 19:00:00,Loan Officer Survey,MEDIUM,USD,Release,0.14,Confidence
 8de04232-de33-4f97-aec3-241fdaef11e8,02/03/2026 13:00:00,Fed's Barkin speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 600fe1f5-91cc-41c4-8269-60f5c8395e11,02/03/2026 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
+8d67c661-d8a8-457c-a5c4-ea45236d0c51,02/03/2026 14:40:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 78cd96c7-e895-4ea5-9a6c-d4f01da20c83,02/03/2026 15:00:00,JOLTS Job Openings,HIGH,USD,Release,0.18,Labor Market
 53f6c818-6ec1-45f5-aff5-f7f8f47f01f2,02/03/2026 15:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),HIGH,USD,Release,0.19,Inflation
 94d5f0f2-5267-43da-a277-26a8e9198673,02/03/2026 21:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
@@ -97,6 +97,7 @@ e52fb479-2db6-49cf-bb2d-6e474e1723fa,02/17/2026 13:55:00,Redbook Index (YoY),HIG
 f53c5871-b742-4245-abd2-77ac49cf4cca,02/17/2026 15:00:00,Business Inventories,HIGH,USD,Release,0.17,Growth
 4b0e1ef7-1839-4ea8-910f-cf54c6890b70,02/17/2026 15:00:00,NAHB Housing Market Index,LOW,USD,Release,0.07,Housing
 9aac464b-5cc3-4be4-91b3-f31dae35bf22,02/17/2026 16:30:00,52-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
+b9105744-0228-4f61-99eb-b0571661046c,02/17/2026 19:30:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 f68ea9a7-c4ba-41ec-8c84-927663a202f3,02/17/2026 21:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 c3e86437-0350-41f6-a4dc-77e3133da82e,02/18/2026 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 d93cac56-400b-4100-b84f-38860721887d,02/18/2026 13:30:00,Building Permits (MoM),LOW,USD,Release,0.07,Housing
