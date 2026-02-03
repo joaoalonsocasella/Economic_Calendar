@@ -1,9 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e23422c4-be64-4553-b080-42c27b24fcf5,02/02/2026 07:30:00,Real Retail Sales (YoY),HIGH,CHF,Release,0.17,Growth
-ea95e9f1-9982-4fe0-966b-f345fb42a8ca,02/02/2026 08:30:00,SVME - Purchasing Managers' Index,MEDIUM,CHF,Release,0.14,Confidence
 f8a1547b-360d-461a-8546-bdfc9b3e52a6,02/06/2026 08:00:00,Foreign Currency Reserves,LOW,CHF,Release,0.09,Money and Credit
-a22b701f-46c2-41b6-a453-b00c838f8b7f,02/06/2026 08:00:00,SECO Consumer Climate (3m),MEDIUM,CHF,Release,0.14,Confidence
 90c63309-8470-45f2-9d39-e514c6a7cc6e,02/06/2026 08:00:00,Unemployment Rate s.a (MoM),HIGH,CHF,Release,0.18,Labor Market
+a22b701f-46c2-41b6-a453-b00c838f8b7f,02/09/2026 08:00:00,SECO Consumer Climate (3m),MEDIUM,CHF,Release,0.14,Confidence
 e11bc876-3267-448f-abd5-a67ecc481dbe,02/13/2026 07:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
 d949cb32-0ae9-476b-8710-c713a97683c7,02/13/2026 07:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation
 65e2734d-88f7-4aea-883f-9b36e0270e78,02/19/2026 07:00:00,Exports (MoM),MEDIUM,CHF,Release,0.11,Trade and External

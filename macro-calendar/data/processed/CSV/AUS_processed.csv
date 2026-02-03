@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-59d44e66-6585-4990-99fa-85e7bc433d7e,02/02/2026 00:00:00,TD-MI Inflation Gauge (MoM),HIGH,AUD,Release,0.19,Inflation
-03007f41-e65d-4a66-9c3c-e9c7c6d3699d,02/02/2026 00:00:00,TD-MI Inflation Gauge (YoY),HIGH,AUD,Release,0.19,Inflation
-d7cfd4e9-6e0f-4552-ae4c-0fe47a0cdccb,02/02/2026 00:30:00,ANZ Job Advertisements,HIGH,AUD,Release,0.18,Labor Market
-e3bb7caf-6bea-407b-a389-87664a7bc218,02/02/2026 05:30:00,RBA Commodity Index SDR (YoY),HIGH,AUD,Release,0.19,Inflation
 30316d2d-fdf5-4109-9ad6-26219e3ab43f,02/03/2026 00:30:00,Building Permits (MoM),LOW,AUD,Release,0.07,Housing
 79762bf0-cab4-4dd1-af81-88dc696ad319,02/03/2026 00:30:00,Building Permits (YoY),LOW,AUD,Release,0.07,Housing
 6acf1671-c698-45ee-b6fb-ea73af86344b,02/03/2026 03:30:00,RBA Interest Rate Decision,MEDIUM,AUD,Speech,0.13,Monetary Policy
@@ -18,6 +14,7 @@ aac6ea01-0fe1-4cc7-99d8-ca819c6b7e6b,02/05/2026 00:30:00,Exports (MoM),MEDIUM,AU
 b44bbcdf-daee-4465-9a11-95ea94fa770c,02/05/2026 00:30:00,Imports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
 9a3d09ca-011a-48c1-8a62-dddb8386306c,02/05/2026 00:30:00,National Australia Bank's Business Confidence (QoQ),MEDIUM,AUD,Release,0.14,Confidence
 e14759d0-17fc-4567-9835-e9f00d4ba71d,02/05/2026 00:30:00,Trade Balance (MoM),MEDIUM,AUD,Release,0.11,Trade and External
+819f0620-06d3-467f-a521-272a0c498dec,02/05/2026 22:30:00,RBA Governor Bullock speech,MEDIUM,AUD,Speech,0.13,Monetary Policy
 129168b2-3bc5-48a0-9aa7-68963cf14ca2,02/06/2026 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 11ffe25a-3b21-4f6b-bd2a-6024a7a2e3c7,02/09/2026 23:30:00,Westpac Consumer Confidence,MEDIUM,AUD,Release,0.14,Confidence
 e80d6644-3c0e-4baa-8181-1f7390d072cf,02/10/2026 00:30:00,National Australia Bank's Business Conditions,MEDIUM,AUD,Release,0.14,Confidence
@@ -35,10 +32,10 @@ a703480e-847b-466c-8055-0debc3736f97,02/19/2026 00:30:00,Employment Change s.a.,
 51a51f6c-88c3-4032-a3d4-125a914d15a8,02/19/2026 00:30:00,Participation Rate,HIGH,AUD,Release,0.18,Labor Market
 b2987eff-c4c6-4345-abfc-c2d11f21c705,02/19/2026 00:30:00,Part-Time Employment,HIGH,AUD,Release,0.18,Labor Market
 64349ce6-c214-488d-bc26-1fe1451da3fc,02/19/2026 00:30:00,Unemployment Rate s.a.,HIGH,AUD,Release,0.18,Labor Market
+8c27d141-d1af-4bb7-bdf7-25c0a05105b5,02/19/2026 22:00:00,S&P Global Composite PMI,HIGH,AUD,Release,0.17,Growth
+47f6f0c3-145d-4cdf-afe1-ce4e2d2cc68a,02/19/2026 22:00:00,S&P Global Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
+1a8e7508-e349-423b-992c-fb6ca409a2d1,02/19/2026 22:00:00,S&P Global Services PMI,HIGH,AUD,Release,0.17,Growth
 682b24ac-c564-4400-8a9c-c2c53b667e5d,02/20/2026 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
-8c27d141-d1af-4bb7-bdf7-25c0a05105b5,02/22/2026 22:00:00,S&P Global Composite PMI,HIGH,AUD,Release,0.17,Growth
-47f6f0c3-145d-4cdf-afe1-ce4e2d2cc68a,02/22/2026 22:00:00,S&P Global Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
-1a8e7508-e349-423b-992c-fb6ca409a2d1,02/22/2026 22:00:00,S&P Global Services PMI,HIGH,AUD,Release,0.17,Growth
 79f53995-1a01-40f6-93a5-3bfcc563ac3d,02/25/2026 00:30:00,Construction Work Done,HIGH,AUD,Release,0.17,Growth
 902a5774-0942-467b-aead-af64abadeb59,02/25/2026 00:30:00,Consumer Price Index (MoM),HIGH,AUD,Release,0.19,Inflation
 e1fcabc1-0d99-44d5-b941-35775e4de248,02/25/2026 00:30:00,Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation

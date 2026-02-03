@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-4ff3df79-b360-4360-803b-6c3f1a819045,02/02/2026 05:00:00,HSBC Manufacturing PMI,HIGH,INR,Release,0.17,Growth
 fe3c444d-504a-4c62-8030-4392bf4d5148,02/04/2026 05:00:00,HSBC Composite PMI,HIGH,INR,Release,0.17,Growth
 2a26ee6f-423d-4c1c-88bf-015cd64cbe76,02/04/2026 05:00:00,HSBC Services PMI,HIGH,INR,Release,0.17,Growth
 6220c064-244f-405a-9346-82b300de3c54,02/04/2026 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy
@@ -12,11 +11,11 @@ d40ac828-21e3-4819-a878-e03f2e9606ad,02/13/2026 11:30:00,"FX Reserves, USD",LOW,
 80141cca-4d9b-4a3a-a01a-b2cf49ca80b1,02/16/2026 06:30:00,WPI Inflation,HIGH,INR,Release,0.19,Inflation
 058a1bab-2d0c-4dbc-99a8-ed187c61eb6f,02/16/2026 11:00:00,Trade Deficit Government,MEDIUM,INR,Release,0.11,Trade and External
 8a93ff19-1813-411f-ae77-e8bdf3d7ccef,02/18/2026 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy
+133f85b8-bdd1-434a-b5f7-4724f008f22d,02/20/2026 05:00:00,HSBC Composite PMI,HIGH,INR,Release,0.17,Growth
+0ba57089-c1ea-47cc-b673-ff8063c4db51,02/20/2026 05:00:00,HSBC Manufacturing PMI,HIGH,INR,Release,0.17,Growth
+76372e6f-d98d-4046-9da7-5f617089d04b,02/20/2026 05:00:00,HSBC Services PMI,HIGH,INR,Release,0.17,Growth
 140ce12f-cca7-4002-b0b9-f9f60c1bfcdf,02/20/2026 11:30:00,Bank Loan Growth,LOW,INR,Release,0.09,Money and Credit
 6bdd1a6c-3ed9-40d8-865c-7ffb6ceb1288,02/20/2026 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
-133f85b8-bdd1-434a-b5f7-4724f008f22d,02/23/2026 05:00:00,HSBC Composite PMI,HIGH,INR,Release,0.17,Growth
-0ba57089-c1ea-47cc-b673-ff8063c4db51,02/23/2026 05:00:00,HSBC Manufacturing PMI,HIGH,INR,Release,0.17,Growth
-76372e6f-d98d-4046-9da7-5f617089d04b,02/23/2026 05:00:00,HSBC Services PMI,HIGH,INR,Release,0.17,Growth
 02c34017-b2c3-4c2a-b943-84bb3ffadcc9,02/27/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
 a7a320ab-3a3d-48c6-9e55-6a25a78653a1,02/27/2026 10:30:00,Gross Domestic Product Quarterly (YoY),HIGH,INR,Release,0.17,Growth
 2eeb4ead-33bb-4eb9-9330-e52f62144d16,02/27/2026 11:30:00,Cumulative Industrial Output,HIGH,INR,Release,0.17,Growth

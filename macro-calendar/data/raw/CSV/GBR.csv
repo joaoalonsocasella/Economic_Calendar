@@ -1,8 +1,4 @@
 Id,Start,Name,Impact,Currency
-06413ae5-f102-410f-81e5-024d723e0152,02/02/2026 07:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP
-f5a73091-4494-447b-8fe8-362c7eecb38d,02/02/2026 07:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP
-ae1a5427-9671-490c-8501-8fac3e9d7ddd,02/02/2026 09:30:00,S&P Global Manufacturing PMI,LOW,GBP
-6c266acb-9dfb-4938-9ed7-f4cd9b48d039,02/02/2026 11:45:00,BoE's Breeden speech,MEDIUM,GBP
 b26095ce-db6c-4d4c-9a9b-fc92c69e11fc,02/03/2026 10:30:00,10-y Bond Auction,LOW,GBP
 930e1664-0e16-4233-a3c5-858c47c2b1a4,02/04/2026 09:30:00,S&P Global Composite PMI,LOW,GBP
 588c7df1-cce1-4acd-ae00-5f5a9d329c7a,02/04/2026 09:30:00,S&P Global Services PMI,LOW,GBP
@@ -20,25 +16,17 @@ ba7aadc6-2acb-4a1d-9c37-5845394301b6,02/06/2026 07:00:00,Halifax House Prices (Y
 a49af864-0412-4950-8ab2-3a4867b78ea5,02/06/2026 12:00:00,BoE's Pill speech,MEDIUM,GBP
 0265eff5-2de4-4d91-ae76-b060eed3dda2,02/06/2026 20:30:00,CFTC GBP NC Net Positions,LOW,GBP
 51248af7-3a7e-47f1-b6aa-a9f93ee41dce,02/08/2026 06:40:00,BoE's Governor Bailey speech,HIGH,GBP
-4744ad29-88ba-432f-ace5-dcd43360107f,02/11/2026 00:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP
+4744ad29-88ba-432f-ace5-dcd43360107f,02/10/2026 00:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP
 3b48d4c9-af35-4963-8251-abea87af7fd1,02/12/2026 00:01:00,RICS Housing Price Balance,LOW,GBP
-849b009e-8195-4863-a80d-6ffc2cb61849,02/12/2026 07:00:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
-cfe6dd0f-50c9-44a4-b40b-7c81d83d46b0,02/12/2026 07:00:00,Average Earnings Including Bonus (3Mo/Yr),MEDIUM,GBP
-1438e858-854b-48b6-ae4a-2b3d6313a878,02/12/2026 07:00:00,Claimant Count Change,HIGH,GBP
-d8d2d598-8648-4782-993a-995ef48ccf3f,02/12/2026 07:00:00,Claimant Count Rate,MEDIUM,GBP
-4955fcbe-145e-4fcf-970d-bb67a54fbfe7,02/12/2026 07:00:00,Employment Change (3M),HIGH,GBP
 6a68c8f0-92e4-4483-b8ba-9831688fbc2d,02/12/2026 07:00:00,Goods Trade Balance,LOW,GBP
 0d121482-d102-4bbc-962c-c11e1b513054,02/12/2026 07:00:00,Gross Domestic Product (MoM),MEDIUM,GBP
 68059b34-5cc6-415c-9255-a1ca030192eb,02/12/2026 07:00:00,Gross Domestic Product (QoQ),HIGH,GBP
 bcfb159c-c508-40c6-b351-47e172e46a6a,02/12/2026 07:00:00,Gross Domestic Product (YoY),HIGH,GBP
-f362f4ac-f5ec-4439-9ed9-4f1d071e4580,02/12/2026 07:00:00,ILO Unemployment Rate (3M),HIGH,GBP
 8ec40686-f11e-42aa-beee-79b92e081d13,02/12/2026 07:00:00,Index of Services (3M/3M),LOW,GBP
 d8e7c3da-4a6b-430c-a701-2c176597734f,02/12/2026 07:00:00,Industrial Production (MoM),MEDIUM,GBP
 d199eec0-60d0-4f99-bbed-f427c653432c,02/12/2026 07:00:00,Industrial Production (YoY),LOW,GBP
 f95b3b13-a2f6-4fc3-8457-95c8171b6800,02/12/2026 07:00:00,Manufacturing Production (MoM),MEDIUM,GBP
 52659cb7-f465-48e0-928b-ef655d28758f,02/12/2026 07:00:00,Manufacturing Production (YoY),LOW,GBP
-3a4f46b0-939e-40b3-9da5-40567f74d42f,02/12/2026 07:00:00,Total Business Investment (QoQ),LOW,GBP
-9523525b-830b-4528-b238-76c5cbe27458,02/12/2026 07:00:00,Total Business Investment (YoY),LOW,GBP
 3f047c6a-4ca6-4537-9e04-c9b2e7e8112a,02/12/2026 07:00:00,Total Trade Balance,LOW,GBP
 e8455c3b-57bb-48dd-9102-1f117bfba697,02/12/2026 07:00:00,Trade Balance; non-EU,LOW,GBP
 c17fdea8-ca3e-49de-b311-59d86f047e54,02/12/2026 12:00:00,NIESR GDP Estimate (3M),LOW,GBP
@@ -46,6 +34,14 @@ b181d470-48cb-4add-a2f0-6b47cdba06cf,02/13/2026 12:00:00,BoE's Pill speech,MEDIU
 e2627b2d-b23e-4e15-9e6d-0dc509bb208b,02/13/2026 20:30:00,CFTC GBP NC Net Positions,LOW,GBP
 1a493392-0912-4122-bd06-ec1f0e93a760,02/16/2026 00:01:00,Rightmove House Price Index (MoM),LOW,GBP
 28a8f16f-50c1-4c45-83fb-584b5d8ef1bb,02/16/2026 00:01:00,Rightmove House Price Index (YoY),LOW,GBP
+849b009e-8195-4863-a80d-6ffc2cb61849,02/17/2026 07:00:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
+cfe6dd0f-50c9-44a4-b40b-7c81d83d46b0,02/17/2026 07:00:00,Average Earnings Including Bonus (3Mo/Yr),MEDIUM,GBP
+1438e858-854b-48b6-ae4a-2b3d6313a878,02/17/2026 07:00:00,Claimant Count Change,HIGH,GBP
+d8d2d598-8648-4782-993a-995ef48ccf3f,02/17/2026 07:00:00,Claimant Count Rate,MEDIUM,GBP
+4955fcbe-145e-4fcf-970d-bb67a54fbfe7,02/17/2026 07:00:00,Employment Change (3M),HIGH,GBP
+f362f4ac-f5ec-4439-9ed9-4f1d071e4580,02/17/2026 07:00:00,ILO Unemployment Rate (3M),HIGH,GBP
+3a4f46b0-939e-40b3-9da5-40567f74d42f,02/17/2026 07:00:00,Total Business Investment (QoQ),LOW,GBP
+9523525b-830b-4528-b238-76c5cbe27458,02/17/2026 07:00:00,Total Business Investment (YoY),LOW,GBP
 2f5c680c-36a7-42a7-b884-42f55bd8f42a,02/18/2026 07:00:00,Consumer Price Index (MoM),HIGH,GBP
 d613a13b-b0b3-4b8b-8768-acc9c033e069,02/18/2026 07:00:00,Consumer Price Index (YoY),HIGH,GBP
 8f4af20b-729e-44e7-92e3-f60e2545129a,02/18/2026 07:00:00,Core Consumer Price Index (YoY),HIGH,GBP

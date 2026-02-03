@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0a832c7e-527d-4926-85d4-31a7dbed0f41,02/02/2026 08:45:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 7d13cd43-3fb3-467e-aef1-abd73d9f34d4,02/04/2026 08:45:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 f83a0c2d-4373-4f3d-9f14-c164956d2e55,02/04/2026 10:00:00,Consumer Price Index (EU Norm) (MoM),HIGH,EUR,Release,0.807,Inflation
 9e23327b-c559-458c-a011-2c5de0d148f0,02/04/2026 10:00:00,Consumer Price Index (EU Norm) (YoY),HIGH,EUR,Release,0.807,Inflation
@@ -9,12 +8,12 @@ b5da7e17-f3b1-4344-848d-217a81445eeb,02/04/2026 10:00:00,Consumer Price Index (M
 ef33309f-da53-4628-ab08-22bc60190f4b,02/05/2026 09:00:00,Retail Sales s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 323c8119-ea37-427e-acf4-22af837b0a1e,02/11/2026 09:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 997058a8-2cdd-45c7-bcb3-16dcd6d2ef5a,02/11/2026 09:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
-e635bdd2-176f-401a-b39b-afea80b5b9f6,02/16/2026 09:00:00,Consumer Price Index (EU Norm) (MoM),HIGH,EUR,Release,0.807,Inflation
-d00d485f-bb55-42ed-9dfe-396757ee7978,02/16/2026 09:00:00,Consumer Price Index (EU Norm) (YoY),HIGH,EUR,Release,0.807,Inflation
-6652baa2-a482-4697-8f04-686a49b00012,02/16/2026 09:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-37f70018-78bb-4438-9f8a-de8a92fc19d8,02/16/2026 09:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 d3ba1f9a-2caa-492e-a08f-03ded24247b5,02/17/2026 09:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
 7a38d8b8-73cf-4d0f-abf1-feddb9a931ff,02/17/2026 09:00:00,Trade Balance EU,HIGH,EUR,Release,0.468,Trade and External
+e635bdd2-176f-401a-b39b-afea80b5b9f6,02/23/2026 09:00:00,Consumer Price Index (EU Norm) (MoM),HIGH,EUR,Release,0.807,Inflation
+d00d485f-bb55-42ed-9dfe-396757ee7978,02/23/2026 09:00:00,Consumer Price Index (EU Norm) (YoY),HIGH,EUR,Release,0.807,Inflation
+6652baa2-a482-4697-8f04-686a49b00012,02/23/2026 09:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+37f70018-78bb-4438-9f8a-de8a92fc19d8,02/23/2026 09:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 8564b06e-f2b1-4233-a04d-f9604cd4a049,02/27/2026 09:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
 c9189f9e-a636-43bc-8566-38c91fa45c25,02/27/2026 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 d0939ae1-03e2-4f1e-859f-6f6032436e45,02/27/2026 09:00:00,Industrial Sales n.s.a. (YoY),HIGH,EUR,Release,0.722,Growth

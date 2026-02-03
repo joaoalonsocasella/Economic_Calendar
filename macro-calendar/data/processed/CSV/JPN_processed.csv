@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-ab4c80e5-a1c1-4260-9ee4-46227fe5d800,02/02/2026 00:30:00,Jibun Bank Manufacturing PMI,HIGH,JPY,Release,0.17,Growth
-e41b6434-c6d6-4ea5-8638-2463af65d24c,02/02/2026 23:50:00,Monetary Base (YoY),HIGH,JPY,Release,0.2,Monetary Policy
 4337b641-8f72-4d8a-8a22-d94d21be7a36,02/03/2026 03:35:00,10-y Bond Auction,LOW,JPY,Release,0.09,Money and Credit
 95e3615e-957a-4305-88f4-46a047dfc2b8,02/04/2026 00:30:00,Jibun Bank Services PMI,HIGH,JPY,Release,0.17,Growth
 526a0ac3-efde-4ec6-ab16-1758780005e4,02/04/2026 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth
@@ -31,20 +29,20 @@ a6a7e57c-5be9-43b2-aef1-a2eb279eb57a,02/16/2026 04:30:00,Capacity Utilization,HI
 66c78f5e-3fc5-4e66-90b6-af2fcbf84583,02/16/2026 04:30:00,Industrial Production (MoM),HIGH,JPY,Release,0.17,Growth
 6f7cd86b-4533-4f09-98a2-d1ca31cc71d5,02/16/2026 04:30:00,Industrial Production (YoY),HIGH,JPY,Release,0.17,Growth
 f896702d-9765-4623-be46-1b5198042282,02/16/2026 04:30:00,Tertiary Industry Index (MoM),HIGH,JPY,Release,0.17,Growth
-3dc6d2c2-7f4b-49fb-af25-8fc0ae230a30,02/18/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY,Release,0.11,Trade and External
-871e8658-f5f6-4122-a0b7-287bad69b4bc,02/18/2026 23:50:00,Exports (YoY),MEDIUM,JPY,Release,0.11,Trade and External
+3dc6d2c2-7f4b-49fb-af25-8fc0ae230a30,02/17/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY,Release,0.11,Trade and External
+871e8658-f5f6-4122-a0b7-287bad69b4bc,02/17/2026 23:50:00,Exports (YoY),MEDIUM,JPY,Release,0.11,Trade and External
+c3b645d2-8a46-4305-b63e-ab5184e7bcfc,02/17/2026 23:50:00,Imports (YoY),MEDIUM,JPY,Release,0.11,Trade and External
+67c7dbd3-5dcf-4d5e-959e-d34ebeaa985b,02/17/2026 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY,Release,0.11,Trade and External
 06465f82-100c-4cb3-a6c5-33cbf68b84a7,02/18/2026 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth
 39d7e99e-0680-4d3e-95fe-0b8e94e6084d,02/18/2026 23:50:00,Foreign Investment in Japan Stocks,HIGH,JPY,Release,0.17,Growth
-c3b645d2-8a46-4305-b63e-ab5184e7bcfc,02/18/2026 23:50:00,Imports (YoY),MEDIUM,JPY,Release,0.11,Trade and External
 7afe1816-f921-4d78-b8cf-de7b5921c88a,02/18/2026 23:50:00,Machinery Orders (MoM),HIGH,JPY,Release,0.17,Growth
 c11e93d1-d32d-4126-8fc4-100e85c687e7,02/18/2026 23:50:00,Machinery Orders (YoY),HIGH,JPY,Release,0.17,Growth
-67c7dbd3-5dcf-4d5e-959e-d34ebeaa985b,02/18/2026 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY,Release,0.11,Trade and External
 851eddf6-0a2d-4d69-afb0-880cac4c1627,02/19/2026 23:30:00,National Consumer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
 77bbb5b7-e50a-47e2-b25b-9f596abe69b3,02/19/2026 23:30:00,"National CPI ex Food, Energy (YoY)",HIGH,JPY,Release,0.19,Inflation
 a52051c9-5768-4244-8b83-a36c0f026688,02/19/2026 23:30:00,National CPI ex Fresh Food (YoY),HIGH,JPY,Release,0.19,Inflation
+214aae70-2822-442d-8c26-6733bec24f69,02/20/2026 00:30:00,Jibun Bank Manufacturing PMI,HIGH,JPY,Release,0.17,Growth
+bd5b6c5b-7d70-4a6e-b45d-4e034ab06869,02/20/2026 00:30:00,Jibun Bank Services PMI,HIGH,JPY,Release,0.17,Growth
 2ffc663e-1a36-4c5c-afc0-6eb94993b714,02/20/2026 20:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
-214aae70-2822-442d-8c26-6733bec24f69,02/23/2026 00:30:00,Jibun Bank Manufacturing PMI,HIGH,JPY,Release,0.17,Growth
-bd5b6c5b-7d70-4a6e-b45d-4e034ab06869,02/23/2026 00:30:00,Jibun Bank Services PMI,HIGH,JPY,Release,0.17,Growth
 8d962ad3-81af-42fc-8e52-9806252dce8e,02/24/2026 23:50:00,Corporate Service Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
 70477fc0-061c-449c-a39f-0501b5a1762f,02/25/2026 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth
 d8bd5ac4-136e-44c3-bfa3-b3be8a2bd163,02/25/2026 23:50:00,Foreign Investment in Japan Stocks,HIGH,JPY,Release,0.17,Growth
