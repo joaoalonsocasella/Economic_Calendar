@@ -1,15 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-30316d2d-fdf5-4109-9ad6-26219e3ab43f,02/03/2026 00:30:00,Building Permits (MoM),LOW,AUD,Release,0.07,Housing
-79762bf0-cab4-4dd1-af81-88dc696ad319,02/03/2026 00:30:00,Building Permits (YoY),LOW,AUD,Release,0.07,Housing
-6acf1671-c698-45ee-b6fb-ea73af86344b,02/03/2026 03:30:00,RBA Interest Rate Decision,MEDIUM,AUD,Speech,0.13,Monetary Policy
-a600a9d4-3c98-4b1b-9893-c485d933d353,02/03/2026 03:30:00,RBA Monetary Policy Statement,MEDIUM,AUD,Speech,0.13,Monetary Policy
-f0847505-fa7a-4ed4-9eea-8eac56bd1f87,02/03/2026 03:30:00,RBA Rate Statement,MEDIUM,AUD,Speech,0.13,Monetary Policy
-02278491-5f82-4d40-9a13-cd2c8173f539,02/03/2026 04:30:00,RBA Press Conference,MEDIUM,AUD,Speech,0.13,Monetary Policy
-a602a300-feb7-4c6b-810c-0dd7d8bfee0e,02/03/2026 22:00:00,Ai Group Construction PMI,HIGH,AUD,Release,0.17,Growth
-dc2c9bb1-5c60-468b-926b-54f96e1fda64,02/03/2026 22:00:00,Ai Group Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
-b9981ce7-9104-4eb5-8af6-5e404df86c3a,02/03/2026 22:00:00,AiG Industry Index,HIGH,AUD,Release,0.17,Growth
-8d585e0e-9028-4689-bb47-7953f799d907,02/03/2026 22:00:00,S&P Global Composite PMI,HIGH,AUD,Release,0.17,Growth
-b59eb91a-de1d-43c6-9660-7ea9dcd22f83,02/03/2026 22:00:00,S&P Global Services PMI,HIGH,AUD,Release,0.17,Growth
 aac6ea01-0fe1-4cc7-99d8-ca819c6b7e6b,02/05/2026 00:30:00,Exports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
 b44bbcdf-daee-4465-9a11-95ea94fa770c,02/05/2026 00:30:00,Imports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
 9a3d09ca-011a-48c1-8a62-dddb8386306c,02/05/2026 00:30:00,National Australia Bank's Business Confidence (QoQ),MEDIUM,AUD,Release,0.14,Confidence

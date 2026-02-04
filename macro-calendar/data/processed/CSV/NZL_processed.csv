@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-59390531-1181-437a-86d3-3db363403943,02/03/2026 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
-b515daba-5e7c-42b4-8cfb-76e4c3e36a18,02/03/2026 21:45:00,Employment Change,HIGH,NZD,Release,0.18,Labor Market
-a9cd98ef-372b-40cc-b310-68290af60bb4,02/03/2026 21:45:00,Labour Cost Index (QoQ),HIGH,NZD,Release,0.18,Labor Market
-2b053198-e575-4d7e-a337-dd662f118411,02/03/2026 21:45:00,Labour Cost Index (YoY),HIGH,NZD,Release,0.19,Inflation
-ed3c26b7-54c9-4c57-b4d1-6181bef1d956,02/03/2026 21:45:00,Participation Rate,HIGH,NZD,Release,0.18,Labor Market
-a73045b1-4618-439d-80ca-212f5cc4f2e1,02/03/2026 21:45:00,Unemployment Rate,HIGH,NZD,Release,0.18,Labor Market
 afb70d92-636e-46b2-89e2-3b8889acbabe,02/04/2026 00:00:00,ANZ Commodity Price,MEDIUM,NZD,Release,0.14,Confidence
 5581c7be-aa29-4e03-a16a-0b17aeb0200a,02/12/2026 21:30:00,Business NZ PMI,HIGH,NZD,Release,0.17,Growth
 c3974edd-ea37-4baa-a7ec-e276c53b7bec,02/12/2026 21:45:00,Visitor Arrivals (YoY),HIGH,NZD,Release,0.19,Inflation

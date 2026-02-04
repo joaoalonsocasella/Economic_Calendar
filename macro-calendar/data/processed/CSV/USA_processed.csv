@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-8de04232-de33-4f97-aec3-241fdaef11e8,02/03/2026 13:00:00,Fed's Barkin speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-600fe1f5-91cc-41c4-8269-60f5c8395e11,02/03/2026 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
-8d67c661-d8a8-457c-a5c4-ea45236d0c51,02/03/2026 14:40:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-53f6c818-6ec1-45f5-aff5-f7f8f47f01f2,02/03/2026 15:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),HIGH,USD,Release,0.19,Inflation
-94d5f0f2-5267-43da-a277-26a8e9198673,02/03/2026 21:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 b314d02a-758e-4d9a-afe7-0e81a33125e2,02/04/2026 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 826111a0-209e-4e38-958d-83062ccfab35,02/04/2026 13:15:00,ADP Employment Change,HIGH,USD,Release,0.18,Labor Market
 306a62c7-0eaa-40ce-94e9-9f035aaadacc,02/04/2026 14:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
@@ -197,6 +192,7 @@ d754d76c-7520-404b-a011-b054a6ad98f1,03/02/2026 15:00:00,ISM Manufacturing Price
 d4655e17-0e0e-4bce-bb2f-691d605ce0e6,03/03/2026 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 6d69f9b8-baf7-4302-acbc-345cc9bace9a,03/03/2026 15:00:00,JOLTS Job Openings,HIGH,USD,Release,0.18,Labor Market
 2c77b4e2-a42f-4410-91c2-ad3edc2bbd5d,03/03/2026 15:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),HIGH,USD,Release,0.19,Inflation
+78d6d654-6920-4c55-ad48-fdb11346c1f6,03/03/2026 20:30:00,Total Vehicle Sales,HIGH,USD,Release,0.17,Growth
 e5f22791-5748-4abf-8efa-38f00bff6e49,03/03/2026 21:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 a2f2a5cb-342f-4a53-aec2-ecc587140b94,03/04/2026 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 5203e68a-d0e6-4374-ba75-9bc8081a5ea9,03/04/2026 13:15:00,ADP Employment Change,HIGH,USD,Release,0.18,Labor Market
@@ -390,6 +386,7 @@ ad3e1c62-f6d7-4e3e-b7dd-a5152e3eb953,04/01/2026 14:00:00,ISM Manufacturing New O
 9e03c746-7411-43fe-b60d-074e034c786b,04/01/2026 14:00:00,ISM Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 2c86e6fe-938c-43ac-b3fa-fa23d8dd47ce,04/01/2026 14:00:00,ISM Manufacturing Prices Paid,HIGH,USD,Release,0.17,Growth
 c11cd7d2-f5da-4f8c-a2e9-07a301425222,04/01/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
+318a8389-619d-4371-8a61-112655821296,04/01/2026 19:30:00,Total Vehicle Sales,HIGH,USD,Release,0.17,Growth
 84c5160a-10e6-4f72-bc7e-bb0c922dadb5,04/02/2026 11:30:00,Challenger Job Cuts,HIGH,USD,Release,0.18,Labor Market
 5017560f-9f09-4102-8037-fc058d43f27b,04/02/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 ed6ec1be-1fee-4cc0-9fb2-17b880751ab7,04/02/2026 12:30:00,Goods and Services Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
@@ -584,6 +581,7 @@ e4b4dc19-e65d-45bf-b46b-9b6803dbe759,05/01/2026 19:30:00,CFTC Oil NC Net Positio
 70aef4d5-35ac-40a0-bedf-a41d8b37f9c9,05/04/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 a4958230-6830-47e7-9915-b42073c1ef74,05/04/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 5b43b31d-46a6-46bb-8804-3fdb21bc369f,05/04/2026 18:00:00,Loan Officer Survey,MEDIUM,USD,Release,0.14,Confidence
+b6b4bf05-0c17-4faa-b6f9-5afeaac7ca2c,05/04/2026 19:30:00,Total Vehicle Sales,HIGH,USD,Release,0.17,Growth
 d2c27c0f-d1a6-4137-8909-89532b3476da,05/05/2026 12:30:00,Goods and Services Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 a44386c0-06e4-4dfc-ad1d-90259397aadb,05/05/2026 12:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 294e8fa7-4c2e-4fc6-8ee0-ce49bc6cf4ef,05/05/2026 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
@@ -761,6 +759,7 @@ ca46a4c2-9fe6-451c-b58c-260e30fc0a4f,06/01/2026 15:30:00,6-Month Bill Auction,LO
 266d5ffa-2de1-43f1-88be-eb71a3c1cd32,06/02/2026 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 adee7184-9132-44c8-9a04-76fc350a5cfb,06/02/2026 14:00:00,JOLTS Job Openings,HIGH,USD,Release,0.18,Labor Market
 d21b21ba-8837-4e23-b5b9-246de51d36fe,06/02/2026 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),HIGH,USD,Release,0.19,Inflation
+be79d470-2267-4a59-b8f9-3cfdfd5deb88,06/02/2026 19:30:00,Total Vehicle Sales,HIGH,USD,Release,0.17,Growth
 a86b766c-3415-427d-b590-e5cd8b89586a,06/02/2026 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 bb4e23a0-cb6d-4449-a58e-251a9dd02f3b,06/03/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 8358d9bb-c38d-4a86-a936-2d4e1f5fd8f2,06/03/2026 12:15:00,ADP Employment Change,HIGH,USD,Release,0.18,Labor Market
@@ -948,6 +947,7 @@ a09df8af-d312-48a9-968c-a4c389fe03e5,07/01/2026 14:00:00,ISM Manufacturing New O
 57be81dd-6efc-4e68-bd96-3cd3b19d277e,07/01/2026 14:00:00,ISM Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 c4455abd-00d9-473b-b73c-9e547179db18,07/01/2026 14:00:00,ISM Manufacturing Prices Paid,HIGH,USD,Release,0.17,Growth
 a9b22fa1-311e-4ee8-96a3-be70e38afd9a,07/01/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
+34a8f342-59f7-4815-8c58-78350f3b7c38,07/01/2026 19:30:00,Total Vehicle Sales,HIGH,USD,Release,0.17,Growth
 34a93e33-5349-4067-be4c-8f9433b6bdee,07/02/2026 11:30:00,Challenger Job Cuts,HIGH,USD,Release,0.18,Labor Market
 6f75c6cc-5009-4be8-a766-5a2d2be06bbf,07/02/2026 12:30:00,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market
 65df7395-aacd-46d8-b9ed-ec2a9969904b,07/02/2026 12:30:00,Average Hourly Earnings (YoY),HIGH,USD,Release,0.18,Labor Market
@@ -1135,6 +1135,7 @@ a8542e1a-f84e-4904-a65a-c0296a5d9497,08/03/2026 14:00:00,ISM Manufacturing PMI,H
 1ff94361-bda5-4c3f-a5c7-ca23793d32a5,08/03/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 c0fef9cd-09ea-454e-ae55-f80ddc06b717,08/03/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 f3ebed36-c12c-49f0-8847-027c94a0693e,08/03/2026 18:00:00,Loan Officer Survey,MEDIUM,USD,Release,0.14,Confidence
+f143d133-2f1c-4294-bdd2-2f814b405dc8,08/03/2026 19:30:00,Total Vehicle Sales,HIGH,USD,Release,0.17,Growth
 cec300cc-9c50-4068-94cc-890064e0ef41,08/04/2026 12:30:00,Goods and Services Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 ccf375ea-f05c-4049-8dec-655242b56b57,08/04/2026 12:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 819c6557-14bd-4c4d-929a-4c5b1331a221,08/04/2026 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
@@ -1313,6 +1314,7 @@ ef62aefa-6980-4003-90e4-02fd6d3cfa49,09/01/2026 14:00:00,ISM Manufacturing Price
 d0c63c76-a8db-44e0-931c-77c3209aacf6,09/01/2026 14:00:00,JOLTS Job Openings,HIGH,USD,Release,0.18,Labor Market
 c4c01d22-934c-4560-ba06-32627b9d51a0,09/01/2026 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),HIGH,USD,Release,0.19,Inflation
 138ebd8c-623b-4942-8cd1-9139c4e8d096,09/01/2026 15:30:00,52-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
+57f4c586-3150-4925-931c-23e04ce7a448,09/01/2026 19:30:00,Total Vehicle Sales,HIGH,USD,Release,0.17,Growth
 e93ae5a6-79c3-43f4-ae36-175206f6b618,09/01/2026 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 b14505c4-e65c-4bc5-b1e7-fc96100c90ea,09/02/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 29611bc0-b129-4936-95b4-cf2d08478b8e,09/02/2026 12:15:00,ADP Employment Change,HIGH,USD,Release,0.18,Labor Market
@@ -1506,6 +1508,7 @@ ba45ce8f-6b04-4300-9c55-be56697ae497,10/01/2026 14:00:00,ISM Manufacturing Emplo
 24608db3-d878-4cb9-8a52-e87d447507ab,10/01/2026 14:00:00,ISM Manufacturing Prices Paid,HIGH,USD,Release,0.17,Growth
 b708a21f-ec97-4cae-965f-7692756423da,10/01/2026 14:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 ce11f725-ad20-4dd7-9fcc-ccab667b294d,10/01/2026 15:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
+5bacaecb-f2b9-4086-a5a9-0eefec2b5ccb,10/01/2026 19:30:00,Total Vehicle Sales,HIGH,USD,Release,0.17,Growth
 a8be8ae1-e0eb-43b4-8b98-4c2333560680,10/02/2026 12:30:00,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market
 a0485df5-8fd5-477b-9a61-0daad1abde41,10/02/2026 12:30:00,Average Hourly Earnings (YoY),HIGH,USD,Release,0.18,Labor Market
 9a892cf5-ba37-43a2-911a-f37bc452dccb,10/02/2026 12:30:00,Average Weekly Hours,HIGH,USD,Release,0.18,Labor Market
@@ -1697,6 +1700,7 @@ a5db4153-33a0-438b-bac6-b0c613d44a6e,11/02/2026 15:30:00,6-Month Bill Auction,LO
 fdd53d89-52f2-414a-aac9-acf57dae7dd2,11/03/2026 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 fe568be2-0b21-4bb8-ad63-8f09f72cfd7f,11/03/2026 14:00:00,JOLTS Job Openings,HIGH,USD,Release,0.18,Labor Market
 9d5dbc5b-4191-4c8b-bbf0-d22c7971c008,11/03/2026 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),HIGH,USD,Release,0.19,Inflation
+934a50f0-0624-46b5-8902-bc6d4befec7d,11/03/2026 19:30:00,Total Vehicle Sales,HIGH,USD,Release,0.17,Growth
 1a858411-8f18-401a-b38c-4799820f9cf4,11/03/2026 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 4ff80ea2-bb39-4ac5-803c-ee6c1f08e709,11/04/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 e2138b09-c406-415c-999d-36e58d770ae5,11/04/2026 12:15:00,ADP Employment Change,HIGH,USD,Release,0.18,Labor Market
@@ -1877,6 +1881,7 @@ c6cf5bbd-be2e-4544-b62d-c16b7c60b137,12/01/2026 21:30:00,API Weekly Crude Oil St
 9cdf1b43-e047-43e2-b206-8f8a5b726c04,12/02/2026 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 c06b7892-e635-4827-ac1a-b153aab0eb9b,12/02/2026 13:15:00,ADP Employment Change,HIGH,USD,Release,0.18,Labor Market
 93a0c7b3-8d29-4c8b-923b-80c04057ebc5,12/02/2026 15:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
+45a7b802-4505-47f4-a162-c53824a645c2,12/02/2026 20:30:00,Total Vehicle Sales,HIGH,USD,Release,0.17,Growth
 5c5d6b4c-ab3a-4049-b95b-9f17c2fac85d,12/03/2026 12:30:00,Challenger Job Cuts,HIGH,USD,Release,0.18,Labor Market
 ad49dd0b-da2a-4bf5-81e2-0bcbb120bfde,12/03/2026 13:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 4d889abd-df04-4c86-87df-e71202dc1ff0,12/03/2026 13:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
@@ -2075,6 +2080,7 @@ aa5d6a14-d213-4ec0-ba62-f26596db3c2d,01/04/2027 15:00:00,ISM Manufacturing New O
 01ee7c7e-2e50-40b8-ba5a-52e00f999f98,01/04/2027 15:00:00,ISM Manufacturing Prices Paid,HIGH,USD,Release,0.17,Growth
 a0b06f4e-0950-4012-9219-5ead757d738b,01/04/2027 16:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 3b7e7f02-f917-4822-8b52-eb6e7db7fd61,01/04/2027 16:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
+6be96a4a-db03-46f5-90a9-e109805be733,01/04/2027 20:30:00,Total Vehicle Sales,HIGH,USD,Release,0.17,Growth
 93ca2172-954a-4f04-9724-c3dd62b1a47e,01/05/2027 13:30:00,Goods and Services Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 1072b0a8-eab9-4fcf-a96f-c86b37abcc91,01/05/2027 13:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 00c80777-b9fb-42e2-86a7-1e120d9d9f27,01/05/2027 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
@@ -2177,7 +2183,6 @@ ecabc8f1-6d75-4adc-84fe-e14ebcfe7823,02/01/2027 14:45:00,S&P Global Manufacturin
 fd1d7305-43da-470c-b1ca-4685e54d4822,02/01/2027 15:00:00,ISM Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 da24e5c4-b22a-41e4-8b58-ba5b55f806a9,02/01/2027 15:00:00,ISM Manufacturing Prices Paid,HIGH,USD,Release,0.17,Growth
 a03e3c0c-5fac-4890-8b71-017e9ac06932,02/01/2027 19:00:00,Loan Officer Survey,MEDIUM,USD,Release,0.14,Confidence
-6f4379ba-a8ac-41a6-a5b1-0b4c0caac32f,02/02/2027 20:30:00,Total Vehicle Sales,HIGH,USD,Release,0.17,Growth
 9156fc30-bbb8-4ed4-94b9-938e02d94af0,02/03/2027 13:15:00,ADP Employment Change,HIGH,USD,Release,0.18,Labor Market
 8b38fb8a-46f7-4195-a5f9-e1c7f14a539d,02/03/2027 14:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
 aa79292a-a689-4c73-8113-41ed392a657a,02/03/2027 14:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
