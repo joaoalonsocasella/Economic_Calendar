@@ -1,18 +1,9 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-b314d02a-758e-4d9a-afe7-0e81a33125e2,02/04/2026 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-826111a0-209e-4e38-958d-83062ccfab35,02/04/2026 13:15:00,ADP Employment Change,HIGH,USD,Release,0.18,Labor Market
-306a62c7-0eaa-40ce-94e9-9f035aaadacc,02/04/2026 14:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
-d0dcb00a-0db2-440e-97ce-75c7963258b2,02/04/2026 14:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
-bda6fc6e-e300-4e92-b5a9-c5707adc80a1,02/04/2026 15:00:00,ISM Services Employment Index,HIGH,USD,Release,0.18,Labor Market
-bc024391-ba40-4780-a11c-f35765f7ded9,02/04/2026 15:00:00,ISM Services New Orders Index,HIGH,USD,Release,0.17,Growth
-d707b4d3-3800-4560-b369-bfc0eec75edd,02/04/2026 15:00:00,ISM Services PMI,HIGH,USD,Release,0.17,Growth
-9a5b15d3-c7e7-4e3e-9651-f8d083c114ed,02/04/2026 15:00:00,ISM Services Prices Paid,MEDIUM,USD,Release,0.14,Confidence
-48b5b197-daef-4b11-934f-e807ef4f1015,02/04/2026 15:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
-0ca9c8e3-2d3f-4440-986d-63410e6286a5,02/04/2026 23:30:00,Fed's Cook speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 9449f767-d626-49b2-8e00-2ed2c5097ec9,02/05/2026 12:30:00,Challenger Job Cuts,HIGH,USD,Release,0.18,Labor Market
 7c914c74-4932-47d8-bf21-51eaec75906a,02/05/2026 13:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 faa62dde-e145-4bbf-bfb6-6bc8eaaad486,02/05/2026 13:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 660ef2cd-5283-4bce-a9b3-55c53bb693f3,02/05/2026 13:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
+82e4bbf8-70fe-4e9c-9f27-28d07737556d,02/05/2026 15:00:00,JOLTS Job Openings,HIGH,USD,Release,0.18,Labor Market
 a7a76beb-957e-443c-b28e-b81d35f82b75,02/05/2026 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 8711e18e-06cf-4842-8c11-67e9d4b15eb2,02/05/2026 15:50:00,Fed's Bostic speech,HIGH,USD,Release,0.2,Monetary Policy
 5ff781eb-095d-4d41-8f8c-98af19f50ea9,02/05/2026 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
@@ -41,17 +32,20 @@ e47cff64-a8fd-4ffd-80c3-397e5c8b5ddb,02/10/2026 13:30:00,Retail Sales (YoY),HIGH
 e9a67473-13be-4b99-abb7-523f3b12db38,02/10/2026 13:30:00,Retail Sales Control Group,HIGH,USD,Release,0.17,Growth
 0e3525d0-05a5-4d3d-a407-a066ce438e91,02/10/2026 13:30:00,Retail Sales ex Autos (MoM),HIGH,USD,Release,0.17,Growth
 36cc2df0-b93f-4bfd-b91f-6b443399bd09,02/10/2026 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
+7eb5ed2e-bed0-4292-b137-d64f41398cd6,02/10/2026 15:00:00,Business Inventories,HIGH,USD,Release,0.17,Growth
 70e5554f-742d-46ab-b554-496c15544609,02/10/2026 17:00:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 422ac572-52f4-4cb0-a1ee-ff13b524a911,02/10/2026 17:00:00,USDA WASDE Report,HIGH,USD,Release,0.2,Monetary Policy
 c9a50dab-9416-4a07-81f1-dfda84094b7b,02/10/2026 18:00:00,3-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
+19ae1198-a9ae-4c89-8f8b-229a8c181f5a,02/10/2026 18:00:00,Fed's Logan speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 e8ee9536-2044-4b95-a854-7969b7b9b7a3,02/10/2026 21:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 e4196db0-dc55-4bb8-9d19-371524503d76,02/11/2026 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-d5a8c1af-d159-419a-a080-6c6fa89f92c4,02/11/2026 13:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-9a2f7906-a936-4653-aafa-7a7cae82ed9b,02/11/2026 13:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-12b1eb1d-39c6-4a77-95cd-fb6162acaab8,02/11/2026 13:30:00,Consumer Price Index Core s.a,HIGH,USD,Release,0.19,Inflation
-717fad8f-d848-4432-80bb-6ed12cb42ac8,02/11/2026 13:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
-64ef165f-d670-40ef-a2ed-e80dadd84e3c,02/11/2026 13:30:00,Consumer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
-915cac18-489d-446f-a7cf-78ff74618baa,02/11/2026 13:30:00,Consumer Price Index n.s.a (MoM),HIGH,USD,Release,0.19,Inflation
+b00f6f16-d3dc-4c2f-b169-96b989994c50,02/11/2026 13:30:00,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market
+8d46d431-dab8-4e3a-9b50-73dde1fe4faa,02/11/2026 13:30:00,Average Hourly Earnings (YoY),HIGH,USD,Release,0.18,Labor Market
+dab4e93a-5123-4300-ac83-fc087579ba3d,02/11/2026 13:30:00,Average Weekly Hours,HIGH,USD,Release,0.18,Labor Market
+46809dc6-7408-4e18-b5d4-a7663e725c72,02/11/2026 13:30:00,Labor Force Participation Rate,HIGH,USD,Release,0.18,Labor Market
+1b0394ed-1e71-419d-bcc3-1615fea5ef0c,02/11/2026 13:30:00,Nonfarm Payrolls,HIGH,USD,Release,0.18,Labor Market
+d0814c24-ad4e-4bd2-8028-7a345662f9e4,02/11/2026 13:30:00,U6 Underemployment Rate,HIGH,USD,Release,0.2,Monetary Policy
+06061a3a-19ed-44c7-a058-57854ce9d3e8,02/11/2026 13:30:00,Unemployment Rate,HIGH,USD,Release,0.18,Labor Market
 f866f614-3a65-4b55-bb47-f68d5c2baa5a,02/11/2026 15:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
 0626df0b-3d68-4d74-b9c8-70aa9879f526,02/11/2026 18:00:00,10-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 70b5d1e7-7bac-43de-8fc7-91382c84257d,02/11/2026 19:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
@@ -63,6 +57,12 @@ f866f614-3a65-4b55-bb47-f68d5c2baa5a,02/11/2026 15:30:00,EIA Crude Oil Stocks Ch
 6cebd505-e82e-4dd4-a174-6693e37883ff,02/12/2026 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 89b06f31-9727-456f-be21-3dfad6fa5ab4,02/12/2026 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 aa55e8b3-ceb1-4fab-a9e7-f983c4c17623,02/12/2026 18:00:00,30-Year Bond Auction,LOW,USD,Release,0.09,Money and Credit
+d5a8c1af-d159-419a-a080-6c6fa89f92c4,02/13/2026 13:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
+9a2f7906-a936-4653-aafa-7a7cae82ed9b,02/13/2026 13:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
+12b1eb1d-39c6-4a77-95cd-fb6162acaab8,02/13/2026 13:30:00,Consumer Price Index Core s.a,HIGH,USD,Release,0.19,Inflation
+717fad8f-d848-4432-80bb-6ed12cb42ac8,02/13/2026 13:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
+64ef165f-d670-40ef-a2ed-e80dadd84e3c,02/13/2026 13:30:00,Consumer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
+915cac18-489d-446f-a7cf-78ff74618baa,02/13/2026 13:30:00,Consumer Price Index n.s.a (MoM),HIGH,USD,Release,0.19,Inflation
 f709f48c-7b0f-4a4e-aab9-b251327637ed,02/13/2026 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
 219d4593-d3d6-4eae-90ac-37170558be3f,02/13/2026 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 855de2f5-fbe4-4ee2-bd5e-bd4c91c91c0e,02/13/2026 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
@@ -70,7 +70,6 @@ f709f48c-7b0f-4a4e-aab9-b251327637ed,02/13/2026 18:00:00,Baker Hughes US Oil Rig
 9d5b049b-52b5-4346-ae73-009cb3fc292b,02/17/2026 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 d09fc34f-e7cb-4261-856b-00d3588c93c0,02/17/2026 13:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
 e52fb479-2db6-49cf-bb2d-6e474e1723fa,02/17/2026 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
-f53c5871-b742-4245-abd2-77ac49cf4cca,02/17/2026 15:00:00,Business Inventories,HIGH,USD,Release,0.17,Growth
 4b0e1ef7-1839-4ea8-910f-cf54c6890b70,02/17/2026 15:00:00,NAHB Housing Market Index,LOW,USD,Release,0.07,Housing
 8aa88ee2-92e0-4109-862a-e420982b63a5,02/17/2026 16:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 9aac464b-5cc3-4be4-91b3-f31dae35bf22,02/17/2026 16:30:00,52-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
@@ -136,6 +135,7 @@ bd813233-e939-4635-93d1-ddd3c3a8c9cd,02/23/2026 18:00:00,2-Year Note Auction,LOW
 5997c0f7-de9b-4cef-aa44-cbe20cbba734,02/24/2026 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 839d049d-0be6-49bd-8c5a-218403c1a9b9,02/24/2026 14:00:00,Housing Price Index (MoM),LOW,USD,Release,0.07,Housing
 4823ccc2-395a-44fa-a9a9-b725b3663e3b,02/24/2026 14:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD,Release,0.07,Housing
+f53c5871-b742-4245-abd2-77ac49cf4cca,02/24/2026 15:00:00,Business Inventories,HIGH,USD,Release,0.17,Growth
 ee0aea8f-abe5-48fb-ab16-d8049dc3c1b0,02/24/2026 15:00:00,Consumer Confidence,MEDIUM,USD,Release,0.14,Confidence
 5662b269-9fd8-49f0-b47d-27bf33a12c00,02/24/2026 15:00:00,Richmond Fed Manufacturing Index,HIGH,USD,Release,0.17,Growth
 093f51ee-c911-41b7-a41a-29e6e50e48e9,02/24/2026 15:30:00,Dallas Fed Manufacturing Business Index,MEDIUM,USD,Release,0.14,Confidence
