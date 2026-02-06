@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-aac6ea01-0fe1-4cc7-99d8-ca819c6b7e6b,02/05/2026 00:30:00,Exports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
-b44bbcdf-daee-4465-9a11-95ea94fa770c,02/05/2026 00:30:00,Imports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
-e14759d0-17fc-4567-9835-e9f00d4ba71d,02/05/2026 00:30:00,Trade Balance (MoM),MEDIUM,AUD,Release,0.11,Trade and External
-819f0620-06d3-467f-a521-272a0c498dec,02/05/2026 22:30:00,RBA Governor Bullock speech,MEDIUM,AUD,Speech,0.13,Monetary Policy
-9a3d09ca-011a-48c1-8a62-dddb8386306c,02/06/2026 00:30:00,National Australia Bank's Business Confidence (QoQ),MEDIUM,AUD,Release,0.14,Confidence
 129168b2-3bc5-48a0-9aa7-68963cf14ca2,02/06/2026 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 11ffe25a-3b21-4f6b-bd2a-6024a7a2e3c7,02/09/2026 23:30:00,Westpac Consumer Confidence,MEDIUM,AUD,Release,0.14,Confidence
 e80d6644-3c0e-4baa-8181-1f7390d072cf,02/10/2026 00:30:00,National Australia Bank's Business Conditions,MEDIUM,AUD,Release,0.14,Confidence

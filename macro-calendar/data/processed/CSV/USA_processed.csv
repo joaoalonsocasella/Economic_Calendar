@@ -1,12 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-9449f767-d626-49b2-8e00-2ed2c5097ec9,02/05/2026 12:30:00,Challenger Job Cuts,HIGH,USD,Release,0.18,Labor Market
-7c914c74-4932-47d8-bf21-51eaec75906a,02/05/2026 13:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
-faa62dde-e145-4bbf-bfb6-6bc8eaaad486,02/05/2026 13:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
-660ef2cd-5283-4bce-a9b3-55c53bb693f3,02/05/2026 13:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
-82e4bbf8-70fe-4e9c-9f27-28d07737556d,02/05/2026 15:00:00,JOLTS Job Openings,HIGH,USD,Release,0.18,Labor Market
-a7a76beb-957e-443c-b28e-b81d35f82b75,02/05/2026 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
-8711e18e-06cf-4842-8c11-67e9d4b15eb2,02/05/2026 15:50:00,Fed's Bostic speech,HIGH,USD,Release,0.2,Monetary Policy
-5ff781eb-095d-4d41-8f8c-98af19f50ea9,02/05/2026 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 50129d5a-8bd9-436c-a62a-74b733971ada,02/06/2026 15:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
 f909886c-c00e-48d4-b2ad-0c6ae8b21467,02/06/2026 15:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
 2a3125af-a3ff-4759-a718-7f23cd74103a,02/06/2026 15:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
@@ -20,6 +12,9 @@ d9193b3e-d7a0-41f9-a20f-14f6d69105af,02/06/2026 17:00:00,Fed's Jefferson speech,
 9f5f858a-5395-4c0f-aa55-ba54f7d1508c,02/09/2026 16:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 7e451162-e799-470a-a2bb-06012de083f2,02/09/2026 16:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 610199a7-3aaa-4653-b8e5-e3d607ddd238,02/09/2026 18:15:00,Fed's Bostic speech,HIGH,USD,Release,0.2,Monetary Policy
+fe05d124-b53a-4550-9df4-103ef7341bd3,02/09/2026 18:30:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+f8b21812-bca9-4f0f-9f59-5767eb9e2194,02/09/2026 19:30:00,Fed's Miran speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+4d633f65-e0a1-4f86-aa8f-164d24076136,02/09/2026 22:00:00,Fed's Miran speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 c4a45cdf-7220-4ea8-b55c-4770e2b88442,02/10/2026 11:00:00,NFIB Business Optimism Index,MEDIUM,USD,Release,0.14,Confidence
 afbe1bb2-1b84-44ed-82d9-2b131c51e759,02/10/2026 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 a5c4ef20-af87-450c-af38-6b75cfec673a,02/10/2026 13:30:00,Employment Cost Index,HIGH,USD,Release,0.18,Labor Market
@@ -46,9 +41,11 @@ dab4e93a-5123-4300-ac83-fc087579ba3d,02/11/2026 13:30:00,Average Weekly Hours,HI
 1b0394ed-1e71-419d-bcc3-1615fea5ef0c,02/11/2026 13:30:00,Nonfarm Payrolls,HIGH,USD,Release,0.18,Labor Market
 d0814c24-ad4e-4bd2-8028-7a345662f9e4,02/11/2026 13:30:00,U6 Underemployment Rate,HIGH,USD,Release,0.2,Monetary Policy
 06061a3a-19ed-44c7-a058-57854ce9d3e8,02/11/2026 13:30:00,Unemployment Rate,HIGH,USD,Release,0.18,Labor Market
+624a462c-cb0c-4911-8caa-aea9b70c6bd1,02/11/2026 15:15:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 f866f614-3a65-4b55-bb47-f68d5c2baa5a,02/11/2026 15:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
 0626df0b-3d68-4d74-b9c8-70aa9879f526,02/11/2026 18:00:00,10-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 70b5d1e7-7bac-43de-8fc7-91382c84257d,02/11/2026 19:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
+164ab42a-773c-4e36-86fc-afd5634f8e3e,02/11/2026 21:00:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 9196488c-7061-4558-9520-7022197a8c37,02/12/2026 13:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 8fda3935-6e0a-45f9-9350-fa56d02b81c5,02/12/2026 13:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 7ee30b97-a34f-48e3-b00b-c55af7ee2da2,02/12/2026 13:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
@@ -57,6 +54,7 @@ f866f614-3a65-4b55-bb47-f68d5c2baa5a,02/11/2026 15:30:00,EIA Crude Oil Stocks Ch
 6cebd505-e82e-4dd4-a174-6693e37883ff,02/12/2026 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 89b06f31-9727-456f-be21-3dfad6fa5ab4,02/12/2026 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 aa55e8b3-ceb1-4fab-a9e7-f983c4c17623,02/12/2026 18:00:00,30-Year Bond Auction,LOW,USD,Release,0.09,Money and Credit
+843f1c45-897e-4e4f-be84-91a40270af85,02/13/2026 00:05:00,Fed's Miran speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 d5a8c1af-d159-419a-a080-6c6fa89f92c4,02/13/2026 13:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 9a2f7906-a936-4653-aafa-7a7cae82ed9b,02/13/2026 13:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 12b1eb1d-39c6-4a77-95cd-fb6162acaab8,02/13/2026 13:30:00,Consumer Price Index Core s.a,HIGH,USD,Release,0.19,Inflation

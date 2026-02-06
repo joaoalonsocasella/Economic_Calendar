@@ -1,14 +1,10 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-bc42a5fd-21e9-4da4-aa89-9c97fdfa7c34,02/05/2026 10:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
-9ae89fdd-ba64-477b-b829-71f53a15cad3,02/05/2026 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
-77947772-bdf0-424b-af23-460fe7ccf852,02/05/2026 13:15:00,ECB Main Refinancing Operations Rate,HIGH,EUR,Speech,0.552,Monetary Policy
-b3b18602-8229-438f-a687-f5a912ae7c19,02/05/2026 13:15:00,ECB Monetary Policy Statement,HIGH,EUR,Speech,0.552,Monetary Policy
-5657262a-3606-4c4e-ae82-4c35a54bd9df,02/05/2026 13:15:00,ECB Rate On Deposit Facility,HIGH,EUR,Release,0.85,Monetary Policy
-18f648f8-41c0-4a93-9c32-beb026474c44,02/05/2026 13:45:00,ECB Press Conference,HIGH,EUR,Speech,0.552,Monetary Policy
 8f6db310-cf0d-4286-9c16-3d7b3997cd13,02/06/2026 06:45:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
 51541410-b965-4edf-9572-ef85178547d2,02/06/2026 09:00:00,ECB's Kocher speech,HIGH,EUR,Speech,0.552,Monetary Policy
 57d9d6d8-882c-4a7e-9106-12065fa97830,02/06/2026 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 f182b43d-5ab6-40dc-9366-ced6bd3ac774,02/09/2026 09:30:00,Sentix Investor Confidence,HIGH,EUR,Release,0.595,Confidence
+aef35277-003a-4055-8cfe-dd825d222672,02/09/2026 16:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
+d15a68cc-14e7-44e9-9733-e11716575dc2,02/12/2026 19:30:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 7dc22131-aaca-4bb9-899e-d333959b4fad,02/13/2026 10:00:00,Employment Change (QoQ),HIGH,EUR,Release,0.765,Labor Market
 6af775b5-a1b1-44e5-94f0-3f8e177c7b8f,02/13/2026 10:00:00,Employment Change (YoY),HIGH,EUR,Release,0.765,Labor Market
 71b84c6f-f6c3-4b33-8602-47bcb45ecb83,02/13/2026 10:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR,Release,0.722,Growth
