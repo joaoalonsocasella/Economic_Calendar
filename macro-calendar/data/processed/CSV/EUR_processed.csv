@@ -1,17 +1,24 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-8f6db310-cf0d-4286-9c16-3d7b3997cd13,02/06/2026 06:45:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
-51541410-b965-4edf-9572-ef85178547d2,02/06/2026 09:00:00,ECB's Kocher speech,HIGH,EUR,Speech,0.552,Monetary Policy
-57d9d6d8-882c-4a7e-9106-12065fa97830,02/06/2026 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 f182b43d-5ab6-40dc-9366-ced6bd3ac774,02/09/2026 09:30:00,Sentix Investor Confidence,HIGH,EUR,Release,0.595,Confidence
+f3e6b54c-fdac-4795-976a-2321fd04f241,02/09/2026 12:00:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
 aef35277-003a-4055-8cfe-dd825d222672,02/09/2026 16:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
+e8873b38-3391-463e-b763-52169eb43576,02/09/2026 16:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
+ade18afe-1243-4547-98dc-29c6f260fa07,02/11/2026 10:20:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
+c0d2c322-a6c6-441a-8356-9a17c8a5dbab,02/11/2026 17:00:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
+a2a4c502-0fb2-496b-b031-09af88e46653,02/12/2026 09:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
+a61d2e9d-1c31-4bed-95a3-70443b56c614,02/12/2026 18:30:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
 d15a68cc-14e7-44e9-9733-e11716575dc2,02/12/2026 19:30:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
+93de255f-3f92-4ba4-bcee-0f7bfc345db9,02/13/2026 10:00:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
 7dc22131-aaca-4bb9-899e-d333959b4fad,02/13/2026 10:00:00,Employment Change (QoQ),HIGH,EUR,Release,0.765,Labor Market
 6af775b5-a1b1-44e5-94f0-3f8e177c7b8f,02/13/2026 10:00:00,Employment Change (YoY),HIGH,EUR,Release,0.765,Labor Market
 71b84c6f-f6c3-4b33-8602-47bcb45ecb83,02/13/2026 10:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR,Release,0.722,Growth
 77b2371c-4a1a-4d2a-a6cf-5607a4678a9f,02/13/2026 10:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR,Release,0.722,Growth
 71004b66-156b-4386-82e9-18ba82dacf1b,02/13/2026 10:00:00,Trade Balance n.s.a.,HIGH,EUR,Release,0.468,Trade and External
 8d4977c3-43a6-4784-bf24-f0b46b0b75d9,02/13/2026 10:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External
+8ccf6892-b884-44ef-8b16-aa318d610959,02/13/2026 12:00:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
 bdc83e17-30a9-4fab-93f4-b07abf5e752a,02/13/2026 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
+162704fa-7b8b-4cc2-adc1-8d569478a276,02/14/2026 16:30:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
+fb2752d9-914d-41c3-a9ac-617772d9629d,02/15/2026 09:30:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
 5ba17be4-48a5-4349-89f9-a13b5c24ed6e,02/16/2026 10:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 d273b1da-37a4-483b-a3e3-b357e725e94b,02/16/2026 10:00:00,Industrial Production w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth
 213c0801-ac7c-40d9-817f-b18f09260501,02/17/2026 10:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence

@@ -1,19 +1,9 @@
 Id,Start,Name,Impact,Currency
-50129d5a-8bd9-436c-a62a-74b733971ada,02/06/2026 15:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
-f909886c-c00e-48d4-b2ad-0c6ae8b21467,02/06/2026 15:00:00,Michigan Consumer Sentiment Index,HIGH,USD
-2a3125af-a3ff-4759-a718-7f23cd74103a,02/06/2026 15:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
-1ce4be1a-9715-4b3b-b36f-7935825817d5,02/06/2026 15:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD
-d9193b3e-d7a0-41f9-a20f-14f6d69105af,02/06/2026 17:00:00,Fed's Jefferson speech,MEDIUM,USD
-4e41fc3a-8167-4033-808c-daefc00449fe,02/06/2026 18:00:00,Baker Hughes US Oil Rig Count,LOW,USD
-73c12e03-582a-4db7-8676-f30f30d73c10,02/06/2026 20:00:00,Consumer Credit Change,LOW,USD
-41875640-3370-4ac4-8f21-76a6c761fcea,02/06/2026 20:30:00,CFTC Gold NC Net Positions,LOW,USD
-7386193f-f601-4bee-83a7-7a731a04e7c7,02/06/2026 20:30:00,CFTC Oil NC Net Positions,LOW,USD
-8557d6bf-c96a-478d-9235-bd93fdc54ba3,02/06/2026 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 9f5f858a-5395-4c0f-aa55-ba54f7d1508c,02/09/2026 16:30:00,3-Month Bill Auction,LOW,USD
 7e451162-e799-470a-a2bb-06012de083f2,02/09/2026 16:30:00,6-Month Bill Auction,LOW,USD
-610199a7-3aaa-4653-b8e5-e3d607ddd238,02/09/2026 18:15:00,Fed's Bostic speech,MEDIUM,USD
 fe05d124-b53a-4550-9df4-103ef7341bd3,02/09/2026 18:30:00,Fed's Waller speech,MEDIUM,USD
 f8b21812-bca9-4f0f-9f59-5767eb9e2194,02/09/2026 19:30:00,Fed's Miran speech,MEDIUM,USD
+610199a7-3aaa-4653-b8e5-e3d607ddd238,02/09/2026 20:15:00,Fed's Bostic speech,MEDIUM,USD
 4d633f65-e0a1-4f86-aa8f-164d24076136,02/09/2026 22:00:00,Fed's Miran speech,MEDIUM,USD
 c4a45cdf-7220-4ea8-b55c-4770e2b88442,02/10/2026 11:00:00,NFIB Business Optimism Index,LOW,USD
 afbe1bb2-1b84-44ed-82d9-2b131c51e759,02/10/2026 13:15:00,ADP Employment Change 4-week average,MEDIUM,USD
@@ -54,6 +44,7 @@ f866f614-3a65-4b55-bb47-f68d5c2baa5a,02/11/2026 15:30:00,EIA Crude Oil Stocks Ch
 6cebd505-e82e-4dd4-a174-6693e37883ff,02/12/2026 15:30:00,EIA Natural Gas Storage Change,LOW,USD
 89b06f31-9727-456f-be21-3dfad6fa5ab4,02/12/2026 16:30:00,4-Week Bill Auction,LOW,USD
 aa55e8b3-ceb1-4fab-a9e7-f983c4c17623,02/12/2026 18:00:00,30-Year Bond Auction,LOW,USD
+4200d7a8-8597-47b4-81e7-8aa92babcfd5,02/13/2026 00:05:00,Fed's Logan speech,MEDIUM,USD
 843f1c45-897e-4e4f-be84-91a40270af85,02/13/2026 00:05:00,Fed's Miran speech,MEDIUM,USD
 d5a8c1af-d159-419a-a080-6c6fa89f92c4,02/13/2026 13:30:00,Consumer Price Index (MoM),HIGH,USD
 9a2f7906-a936-4653-aafa-7a7cae82ed9b,02/13/2026 13:30:00,Consumer Price Index (YoY),HIGH,USD

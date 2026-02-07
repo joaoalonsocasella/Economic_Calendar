@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-07c85a74-ff65-480e-b214-b9209e9222ec,02/06/2026 07:00:00,Exports (MoM),HIGH,EUR,Release,0.468,Trade and External
-10b38875-3c8b-43f5-a063-54170c4357c3,02/06/2026 07:00:00,Imports (MoM),HIGH,EUR,Release,0.468,Trade and External
-327e5d3c-9d7c-49f8-8862-2b56f2e837c3,02/06/2026 07:00:00,Industrial Production n.s.a. w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth
-0370e1b3-9c16-4d1f-82e0-9a74720f1129,02/06/2026 07:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
-22bac43b-1e40-44f3-a3fc-34526e7b9947,02/06/2026 07:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External
 2c846462-53e0-4258-87ef-ba7ca3ab02df,02/10/2026 10:30:00,5-y Note Auction,HIGH,EUR,Release,0.383,Money and Credit
 fdc8b83f-d26f-4827-8f10-f68e53588a4f,02/11/2026 10:30:00,30-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 6041279d-5262-4a84-8a24-37b6cfb56b7b,02/12/2026 13:30:00,Current Account n.s.a.,HIGH,EUR,Release,0.468,Trade and External
