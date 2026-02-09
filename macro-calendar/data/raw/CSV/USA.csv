@@ -29,8 +29,10 @@ b00f6f16-d3dc-4c2f-b169-96b989994c50,02/11/2026 13:30:00,Average Hourly Earnings
 dab4e93a-5123-4300-ac83-fc087579ba3d,02/11/2026 13:30:00,Average Weekly Hours,LOW,USD
 46809dc6-7408-4e18-b5d4-a7663e725c72,02/11/2026 13:30:00,Labor Force Participation Rate,MEDIUM,USD
 1b0394ed-1e71-419d-bcc3-1615fea5ef0c,02/11/2026 13:30:00,Nonfarm Payrolls,HIGH,USD
+11443f76-0fc5-4a19-b145-e4dc16905df3,02/11/2026 13:30:00,Nonfarm Payrolls Benchmark Revision,HIGH,USD
 d0814c24-ad4e-4bd2-8028-7a345662f9e4,02/11/2026 13:30:00,U6 Underemployment Rate,MEDIUM,USD
 06061a3a-19ed-44c7-a058-57854ce9d3e8,02/11/2026 13:30:00,Unemployment Rate,MEDIUM,USD
+116e55b7-f11c-4efd-9e10-6bd362ab9de4,02/11/2026 15:10:00,Fed's Schmid speech,MEDIUM,USD
 624a462c-cb0c-4911-8caa-aea9b70c6bd1,02/11/2026 15:15:00,Fed's Bowman speech,MEDIUM,USD
 f866f614-3a65-4b55-bb47-f68d5c2baa5a,02/11/2026 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
 0626df0b-3d68-4d74-b9c8-70aa9879f526,02/11/2026 18:00:00,10-Year Note Auction,LOW,USD
@@ -87,6 +89,7 @@ ecc6e980-4395-4989-859e-c2ac3c4bb8aa,02/19/2026 13:30:00,Initial Jobless Claims,
 1af3d65d-029d-4709-a7d6-45e8d1e33465,02/19/2026 13:30:00,Initial Jobless Claims 4-week average,LOW,USD
 848b4bc9-4184-43c6-aec0-9d2c941d8083,02/19/2026 13:30:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD
 ccb33476-36a2-477d-a1f9-5e4d5496e112,02/19/2026 13:30:00,Wholesale Inventories,LOW,USD
+d82f7b81-8146-42d3-8b61-97f9754bc36a,02/19/2026 14:00:00,Fed's Kashkari speech,MEDIUM,USD
 6b530878-a333-4ccd-b633-ca937d842c42,02/19/2026 15:00:00,Pending Home Sales (MoM),MEDIUM,USD
 25d96773-62a0-470e-9ac3-a7e99c8a39f2,02/19/2026 15:00:00,Pending Home Sales (YoY),LOW,USD
 c4fd2080-6968-451d-978d-a99ae6d7b7d5,02/19/2026 15:30:00,EIA Natural Gas Storage Change,LOW,USD

@@ -1,13 +1,13 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 7e7c792c-50a8-4ee6-b988-902cd5c9d88a,02/11/2026 13:30:00,Building Permits (MoM),LOW,CAD,Release,0.07,Housing
 c6535907-5fb2-4056-880e-3af8cf82365e,02/16/2026 13:15:00,Housing Starts s.a (YoY),LOW,CAD,Release,0.07,Housing
-549c9e3d-9e1a-4fc2-94eb-46305d25cbc4,02/16/2026 13:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
-caf53858-0e02-4576-b4a0-b3ef5bc77d2a,02/16/2026 13:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
-46432129-b1c6-4781-b19b-56cad9325c36,02/16/2026 13:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
-99392bb7-3329-4af4-92c2-8600b69c855d,02/16/2026 13:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
-19201b4d-ab3d-4c78-8fe7-b7f47ce29fdc,02/16/2026 13:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
 f55c0245-5a77-44df-a65c-02c04bc59061,02/16/2026 13:30:00,Manufacturing Sales (MoM),HIGH,CAD,Release,0.17,Growth
+549c9e3d-9e1a-4fc2-94eb-46305d25cbc4,02/17/2026 13:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
+caf53858-0e02-4576-b4a0-b3ef5bc77d2a,02/17/2026 13:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
 6dadc1aa-f6cb-4107-ba69-9c3652e9b74a,02/17/2026 13:30:00,Canadian Portfolio Investment in Foreign Securities,MEDIUM,CAD,Release,0.11,Trade and External
+46432129-b1c6-4781-b19b-56cad9325c36,02/17/2026 13:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
+99392bb7-3329-4af4-92c2-8600b69c855d,02/17/2026 13:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
+19201b4d-ab3d-4c78-8fe7-b7f47ce29fdc,02/17/2026 13:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
 b704cf9d-9fd4-4406-b4d0-3c8cbd897141,02/17/2026 13:30:00,Foreign Portfolio Investment in Canadian Securities,MEDIUM,CAD,Release,0.11,Trade and External
 e07ef337-0919-4a87-a526-63ef07870266,02/17/2026 13:30:00,Wholesale Sales (MoM),HIGH,CAD,Release,0.17,Growth
 05b70d5d-a7dc-4c6b-a676-6400799fbfdc,02/19/2026 13:30:00,Employment Insurance Beneficiaries Change (MoM),HIGH,CAD,Release,0.18,Labor Market
