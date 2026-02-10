@@ -7,11 +7,13 @@ e635bdd2-176f-401a-b39b-afea80b5b9f6,02/23/2026 09:00:00,Consumer Price Index (E
 d00d485f-bb55-42ed-9dfe-396757ee7978,02/23/2026 09:00:00,Consumer Price Index (EU Norm) (YoY),HIGH,EUR,Release,0.807,Inflation
 6652baa2-a482-4697-8f04-686a49b00012,02/23/2026 09:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 37f70018-78bb-4438-9f8a-de8a92fc19d8,02/23/2026 09:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-8564b06e-f2b1-4233-a04d-f9604cd4a049,02/27/2026 09:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
-c9189f9e-a636-43bc-8566-38c91fa45c25,02/27/2026 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+8564b06e-f2b1-4233-a04d-f9604cd4a049,02/26/2026 09:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+c9189f9e-a636-43bc-8566-38c91fa45c25,02/26/2026 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+24459730-1f8a-4aa2-a7d1-c990e74a0bf3,02/26/2026 10:30:00,10-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
+afbfd849-58bf-445c-8439-c4d0ee94cff7,02/26/2026 10:30:00,5-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 d0939ae1-03e2-4f1e-859f-6f6032436e45,02/27/2026 09:00:00,Industrial Sales n.s.a. (YoY),HIGH,EUR,Release,0.722,Growth
 3326491d-04b8-4b9c-a10c-460398a8c2da,02/27/2026 09:00:00,Industrial Sales s.a. (MoM),HIGH,EUR,Release,0.722,Growth
-f9d15d67-5fd3-411c-bb40-28be495b2f93,02/27/2026 09:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
+f9d15d67-5fd3-411c-bb40-28be495b2f93,02/27/2026 10:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
 843a6922-3344-4cd8-a9e9-de9b9cad1b80,03/02/2026 08:45:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 8d4dd779-b3ed-4d86-996a-0000769b0e42,03/02/2026 10:00:00,Consumer Price Index (EU Norm) (MoM),HIGH,EUR,Release,0.807,Inflation
 ee2399b7-f895-4daf-83b1-7732484199fb,03/02/2026 10:00:00,Consumer Price Index (EU Norm) (YoY),HIGH,EUR,Release,0.807,Inflation
