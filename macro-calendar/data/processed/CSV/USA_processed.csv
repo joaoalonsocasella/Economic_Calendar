@@ -1,22 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-c4a45cdf-7220-4ea8-b55c-4770e2b88442,02/10/2026 11:00:00,NFIB Business Optimism Index,MEDIUM,USD,Release,0.14,Confidence
-afbe1bb2-1b84-44ed-82d9-2b131c51e759,02/10/2026 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
-a5c4ef20-af87-450c-af38-6b75cfec673a,02/10/2026 13:30:00,Employment Cost Index,HIGH,USD,Release,0.18,Labor Market
-9114cec5-c1a4-4cc2-8238-e89b2e76ed0e,02/10/2026 13:30:00,Export Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
-a398602c-d7ca-42ef-9d30-2660ce62b5ca,02/10/2026 13:30:00,Export Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
-f0eef89b-1e0b-444b-bef4-e0fb589a3bba,02/10/2026 13:30:00,Import Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
-15987383-43a2-419c-85de-ba1dcba79bcf,02/10/2026 13:30:00,Import Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
-07504e18-72d2-4a71-8caa-850d9b1ac2bb,02/10/2026 13:30:00,Retail Sales (MoM),HIGH,USD,Release,0.17,Growth
-e47cff64-a8fd-4ffd-80c3-397e5c8b5ddb,02/10/2026 13:30:00,Retail Sales (YoY),HIGH,USD,Release,0.17,Growth
-e9a67473-13be-4b99-abb7-523f3b12db38,02/10/2026 13:30:00,Retail Sales Control Group,HIGH,USD,Release,0.17,Growth
-0e3525d0-05a5-4d3d-a407-a066ce438e91,02/10/2026 13:30:00,Retail Sales ex Autos (MoM),HIGH,USD,Release,0.17,Growth
-36cc2df0-b93f-4bfd-b91f-6b443399bd09,02/10/2026 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
-7eb5ed2e-bed0-4292-b137-d64f41398cd6,02/10/2026 15:00:00,Business Inventories,HIGH,USD,Release,0.17,Growth
-70e5554f-742d-46ab-b554-496c15544609,02/10/2026 17:00:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-422ac572-52f4-4cb0-a1ee-ff13b524a911,02/10/2026 17:00:00,USDA WASDE Report,HIGH,USD,Release,0.2,Monetary Policy
-c9a50dab-9416-4a07-81f1-dfda84094b7b,02/10/2026 18:00:00,3-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-19ae1198-a9ae-4c89-8f8b-229a8c181f5a,02/10/2026 18:00:00,Fed's Logan speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-e8ee9536-2044-4b95-a854-7969b7b9b7a3,02/10/2026 21:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 e4196db0-dc55-4bb8-9d19-371524503d76,02/11/2026 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 b00f6f16-d3dc-4c2f-b169-96b989994c50,02/11/2026 13:30:00,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market
 8d46d431-dab8-4e3a-9b50-73dde1fe4faa,02/11/2026 13:30:00,Average Hourly Earnings (YoY),HIGH,USD,Release,0.18,Labor Market
