@@ -1,19 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e4196db0-dc55-4bb8-9d19-371524503d76,02/11/2026 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-b00f6f16-d3dc-4c2f-b169-96b989994c50,02/11/2026 13:30:00,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market
-8d46d431-dab8-4e3a-9b50-73dde1fe4faa,02/11/2026 13:30:00,Average Hourly Earnings (YoY),HIGH,USD,Release,0.18,Labor Market
-dab4e93a-5123-4300-ac83-fc087579ba3d,02/11/2026 13:30:00,Average Weekly Hours,HIGH,USD,Release,0.18,Labor Market
-46809dc6-7408-4e18-b5d4-a7663e725c72,02/11/2026 13:30:00,Labor Force Participation Rate,HIGH,USD,Release,0.18,Labor Market
-1b0394ed-1e71-419d-bcc3-1615fea5ef0c,02/11/2026 13:30:00,Nonfarm Payrolls,HIGH,USD,Release,0.18,Labor Market
-11443f76-0fc5-4a19-b145-e4dc16905df3,02/11/2026 13:30:00,Nonfarm Payrolls Benchmark Revision,HIGH,USD,Release,0.18,Labor Market
-d0814c24-ad4e-4bd2-8028-7a345662f9e4,02/11/2026 13:30:00,U6 Underemployment Rate,HIGH,USD,Release,0.2,Monetary Policy
-06061a3a-19ed-44c7-a058-57854ce9d3e8,02/11/2026 13:30:00,Unemployment Rate,HIGH,USD,Release,0.18,Labor Market
-116e55b7-f11c-4efd-9e10-6bd362ab9de4,02/11/2026 15:10:00,Fed's Schmid speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-624a462c-cb0c-4911-8caa-aea9b70c6bd1,02/11/2026 15:15:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-f866f614-3a65-4b55-bb47-f68d5c2baa5a,02/11/2026 15:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
-0626df0b-3d68-4d74-b9c8-70aa9879f526,02/11/2026 18:00:00,10-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-70b5d1e7-7bac-43de-8fc7-91382c84257d,02/11/2026 19:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
-164ab42a-773c-4e36-86fc-afd5634f8e3e,02/11/2026 21:00:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 9196488c-7061-4558-9520-7022197a8c37,02/12/2026 13:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 8fda3935-6e0a-45f9-9350-fa56d02b81c5,02/12/2026 13:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 7ee30b97-a34f-48e3-b00b-c55af7ee2da2,02/12/2026 13:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
@@ -62,12 +47,14 @@ c2d299ff-d444-436d-a133-4f9b7d476bdb,02/18/2026 14:15:00,Industrial Production (
 8f4bb4b2-5a45-445a-8105-b05f3b03de4e,02/18/2026 21:00:00,Net Long-Term TIC Flows,MEDIUM,USD,Release,0.11,Trade and External
 246910ef-f94a-4eec-92b8-84a3cabbeaba,02/18/2026 21:00:00,Total Net TIC Flows,MEDIUM,USD,Release,0.11,Trade and External
 f68ea9a7-c4ba-41ec-8c84-927663a202f3,02/18/2026 21:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
+a6420d82-2fff-4705-b388-a97ba78041b8,02/19/2026 13:20:00,Fed's Bostic speech,HIGH,USD,Release,0.2,Monetary Policy
 cf4a7642-e028-4bc7-be00-c67334be549c,02/19/2026 13:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 efbebcc7-d552-44ba-a661-a6dc9fc83a43,02/19/2026 13:30:00,Goods and Services Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 3b4379d0-6fa8-456b-8f0c-09a6a1b8ef46,02/19/2026 13:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 ecc6e980-4395-4989-859e-c2ac3c4bb8aa,02/19/2026 13:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 1af3d65d-029d-4709-a7d6-45e8d1e33465,02/19/2026 13:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
 848b4bc9-4184-43c6-aec0-9d2c941d8083,02/19/2026 13:30:00,Philadelphia Fed Manufacturing Survey,HIGH,USD,Release,0.17,Growth
+69bfcff1-a727-435b-86ca-5666b097f643,02/19/2026 13:30:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
 d82f7b81-8146-42d3-8b61-97f9754bc36a,02/19/2026 14:00:00,Fed's Kashkari speech,HIGH,USD,Release,0.2,Monetary Policy
 6b530878-a333-4ccd-b633-ca937d842c42,02/19/2026 15:00:00,Pending Home Sales (MoM),LOW,USD,Release,0.07,Housing
 25d96773-62a0-470e-9ac3-a7e99c8a39f2,02/19/2026 15:00:00,Pending Home Sales (YoY),LOW,USD,Release,0.07,Housing
@@ -85,6 +72,7 @@ db9ce46d-4849-4eed-bb9d-c23a1d4e8b43,02/20/2026 13:30:00,Core Personal Consumpti
 53bcb545-92ae-4852-bbfd-84abbd8dfc08,02/20/2026 13:30:00,Personal Consumption Expenditures Prices (QoQ),HIGH,USD,Release,0.17,Growth
 a12c73d9-1ac4-4ac1-9786-76f95234e58c,02/20/2026 13:30:00,Personal Income (MoM),HIGH,USD,Release,0.17,Growth
 52b2adba-92f4-4122-8b91-351d726a6195,02/20/2026 13:30:00,Personal Spending,HIGH,USD,Release,0.17,Growth
+1cac7caa-b0d7-473f-b5c8-e79ff2611015,02/20/2026 14:45:00,Fed's Bostic speech,HIGH,USD,Release,0.2,Monetary Policy
 e072c49a-58eb-471e-b22b-ed9f4155e8ef,02/20/2026 14:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
 08b7c79e-d316-402f-96fb-b14272856f8b,02/20/2026 14:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 6c2ff190-2fe0-4813-8abb-520d9a099371,02/20/2026 14:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
@@ -110,6 +98,7 @@ a1bd12f8-75fd-4638-b394-e90a05f86ee8,02/23/2026 13:30:00,Chicago Fed National Ac
 2c9a25fa-5c01-4208-ab94-e4b67a6deae9,02/24/2026 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 ccb33476-36a2-477d-a1f9-5e4d5496e112,02/24/2026 13:30:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
 5997c0f7-de9b-4cef-aa44-cbe20cbba734,02/24/2026 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
+46cfdc1a-f445-43be-9475-4c3ab91c2228,02/24/2026 14:00:00,Fed's Bostic speech,HIGH,USD,Release,0.2,Monetary Policy
 839d049d-0be6-49bd-8c5a-218403c1a9b9,02/24/2026 14:00:00,Housing Price Index (MoM),LOW,USD,Release,0.07,Housing
 4823ccc2-395a-44fa-a9a9-b725b3663e3b,02/24/2026 14:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD,Release,0.07,Housing
 f53c5871-b742-4245-abd2-77ac49cf4cca,02/24/2026 15:00:00,Business Inventories,HIGH,USD,Release,0.17,Growth
