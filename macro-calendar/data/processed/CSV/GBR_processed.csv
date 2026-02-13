@@ -1,19 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-3b48d4c9-af35-4963-8251-abea87af7fd1,02/12/2026 00:01:00,RICS Housing Price Balance,LOW,GBP,Release,0.07,Housing
-6a68c8f0-92e4-4483-b8ba-9831688fbc2d,02/12/2026 07:00:00,Goods Trade Balance,MEDIUM,GBP,Release,0.11,Trade and External
-0d121482-d102-4bbc-962c-c11e1b513054,02/12/2026 07:00:00,Gross Domestic Product (MoM),LOW,GBP,Release,0.07,Housing
-68059b34-5cc6-415c-9255-a1ca030192eb,02/12/2026 07:00:00,Gross Domestic Product (QoQ),HIGH,GBP,Release,0.17,Growth
-bcfb159c-c508-40c6-b351-47e172e46a6a,02/12/2026 07:00:00,Gross Domestic Product (YoY),HIGH,GBP,Release,0.17,Growth
-8ec40686-f11e-42aa-beee-79b92e081d13,02/12/2026 07:00:00,Index of Services (3M/3M),MEDIUM,GBP,Release,0.14,Confidence
-d8e7c3da-4a6b-430c-a701-2c176597734f,02/12/2026 07:00:00,Industrial Production (MoM),HIGH,GBP,Release,0.17,Growth
-d199eec0-60d0-4f99-bbed-f427c653432c,02/12/2026 07:00:00,Industrial Production (YoY),HIGH,GBP,Release,0.17,Growth
-f95b3b13-a2f6-4fc3-8457-95c8171b6800,02/12/2026 07:00:00,Manufacturing Production (MoM),HIGH,GBP,Release,0.17,Growth
-52659cb7-f465-48e0-928b-ef655d28758f,02/12/2026 07:00:00,Manufacturing Production (YoY),HIGH,GBP,Release,0.17,Growth
-3a4f46b0-939e-40b3-9da5-40567f74d42f,02/12/2026 07:00:00,Total Business Investment (QoQ),HIGH,GBP,Release,0.17,Growth
-9523525b-830b-4528-b238-76c5cbe27458,02/12/2026 07:00:00,Total Business Investment (YoY),HIGH,GBP,Release,0.17,Growth
-3f047c6a-4ca6-4537-9e04-c9b2e7e8112a,02/12/2026 07:00:00,Total Trade Balance,MEDIUM,GBP,Release,0.11,Trade and External
-e8455c3b-57bb-48dd-9102-1f117bfba697,02/12/2026 07:00:00,Trade Balance; non-EU,MEDIUM,GBP,Release,0.11,Trade and External
-c17fdea8-ca3e-49de-b311-59d86f047e54,02/12/2026 12:00:00,NIESR GDP Estimate (3M),HIGH,GBP,Release,0.17,Growth
 b181d470-48cb-4add-a2f0-6b47cdba06cf,02/13/2026 12:00:00,BoE's Pill speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 e2627b2d-b23e-4e15-9e6d-0dc509bb208b,02/13/2026 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 1a493392-0912-4122-bd06-ec1f0e93a760,02/16/2026 00:01:00,Rightmove House Price Index (MoM),LOW,GBP,Release,0.07,Housing
