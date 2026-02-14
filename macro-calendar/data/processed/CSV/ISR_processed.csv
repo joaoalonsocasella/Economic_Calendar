@@ -1,8 +1,8 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-ef9e6309-e274-4672-a4bb-1c723e6f8bfe,02/13/2026 11:00:00,M1 Money Supply (YoY),HIGH,ILS,Release,0.19,Inflation
 ac333bfe-ce4a-4abc-8870-62a009df7350,02/14/2026 16:30:00,Consumer Price Index (MoM),HIGH,ILS,Release,0.19,Inflation
 bbbc9cad-0045-494f-8f1c-82c583012037,02/14/2026 16:30:00,Consumer Price Index (YoY),HIGH,ILS,Release,0.19,Inflation
 75a58166-99a2-4e52-92f4-6d93a80d0de6,02/15/2026 11:00:00,Gross Domestic Product (QoQ),HIGH,ILS,Release,0.17,Growth
+ef9e6309-e274-4672-a4bb-1c723e6f8bfe,02/16/2026 11:00:00,M1 Money Supply (YoY),HIGH,ILS,Release,0.19,Inflation
 038976db-f0c7-47d8-b972-7867458ebde7,02/23/2026 14:00:00,BoI Interest Rate Decision,HIGH,ILS,Release,0.2,Monetary Policy
 0784dbe5-2fd6-4f72-a414-06e0199ad0d2,02/25/2026 11:00:00,Industrial Production (MoM),HIGH,ILS,Release,0.17,Growth
 d0292c2a-94b7-4efa-876b-715ab47d6bc5,03/08/2026 11:00:00,FX Reserves,LOW,ILS,Release,0.09,Money and Credit

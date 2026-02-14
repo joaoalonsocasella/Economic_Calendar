@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e11bc876-3267-448f-abd5-a67ecc481dbe,02/13/2026 07:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
-d949cb32-0ae9-476b-8710-c713a97683c7,02/13/2026 07:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation
 65e2734d-88f7-4aea-883f-9b36e0270e78,02/19/2026 07:00:00,Exports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
 70a54a7d-d9b3-41a4-bef9-8090198ba3c2,02/19/2026 07:00:00,Imports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
 6a7a0f94-ef8e-42b4-96eb-6a2aaf1d378d,02/19/2026 07:00:00,Trade Balance,MEDIUM,CHF,Release,0.11,Trade and External

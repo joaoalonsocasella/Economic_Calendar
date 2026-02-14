@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-c9cc0560-ba93-4672-be79-f6f72a885b26,02/13/2026 08:00:00,Consumer Price Index (MoM),HIGH,CZK,Release,0.19,Inflation
-534880ee-bac2-422f-8acb-856faa5240d7,02/13/2026 08:00:00,Consumer Price Index (YoY),HIGH,CZK,Release,0.19,Inflation
-26932e38-9c49-42e0-85e1-5a1fde37688a,02/13/2026 09:00:00,Current Account (MoM),MEDIUM,CZK,Release,0.11,Trade and External
 e7453607-2ce4-42fc-9f86-1d36c64f1779,02/25/2026 08:00:00,Producer Price Index (MoM),HIGH,CZK,Release,0.19,Inflation
 1a7c9dad-baab-4a35-be7f-b27cc4d90749,02/25/2026 08:00:00,Producer Price Index (YoY),HIGH,CZK,Release,0.19,Inflation
 28c6964f-128f-45fe-bf7b-1eaffb9927f0,03/02/2026 08:30:00,S&P Global PMI,HIGH,CZK,Release,0.17,Growth
