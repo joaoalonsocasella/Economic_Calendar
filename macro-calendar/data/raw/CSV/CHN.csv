@@ -1,7 +1,6 @@
 Id,Start,Name,Impact,Currency
-1edcef1b-00d0-425a-8a47-46265465bc94,02/16/2026 01:30:00,"House Price Index ",LOW,CNY
-cd44b85a-462c-4999-b0bb-58538cf44ddb,02/16/2026 09:00:00,FDI - Foreign Direct Investment (YTD) (YoY),LOW,CNY
 9086f024-cc6c-4ff6-98aa-08f2eaf9b6ea,02/20/2026 01:15:00,PBoC Interest Rate Decision,MEDIUM,CNY
+cd44b85a-462c-4999-b0bb-58538cf44ddb,02/24/2026 09:00:00,FDI - Foreign Direct Investment (YTD) (YoY),LOW,CNY
 378d4a67-4a82-4d8a-8386-a039ed18aad1,03/01/2026 01:30:00,NBS Manufacturing PMI,HIGH,CNY
 dbe9bd72-e0cf-459e-b4bf-cadc9ae5e84b,03/01/2026 01:30:00,NBS Non-Manufacturing PMI,HIGH,CNY
 66145650-3f17-442a-8845-66d08c02d9c0,03/02/2026 01:45:00,RatingDog Manufacturing PMI,HIGH,CNY
