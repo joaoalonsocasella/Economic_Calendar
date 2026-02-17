@@ -1,8 +1,4 @@
 Id,Start,Name,Impact,Currency
-1e7d1643-9761-47a1-a4a3-7f70c98a93ff,02/16/2026 08:00:00,Core Inflation (MoM),LOW,EUR
-2126dc53-eae2-408d-bdd2-51d0002a3249,02/16/2026 08:00:00,Core Inflation (YoY),LOW,EUR
-bc15971b-3792-4495-9f62-877718eee938,02/16/2026 08:00:00,Headline Inflation (MoM),LOW,EUR
-20f7ddc1-ba04-471d-b884-9c3c2174fc3d,02/16/2026 08:00:00,Headline Inflation (YoY),LOW,EUR
 e42f456e-07cf-417f-843f-00730ffbf566,02/17/2026 08:00:00,Current Account Balance EUR,LOW,EUR
 93de6db5-5749-4c66-9c8b-86b5fe005030,02/20/2026 10:00:00,Unemployment Rate,LOW,EUR
 3a35dfb0-d523-42e7-8d1a-40cbb3499296,02/25/2026 08:00:00,EU Norm Inflation (MoM),LOW,EUR

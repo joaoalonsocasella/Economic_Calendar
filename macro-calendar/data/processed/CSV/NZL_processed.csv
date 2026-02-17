@@ -1,11 +1,11 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-7fde93aa-39d2-4291-a8f9-c47f7beee510,02/16/2026 21:45:00,Food Price Index (MoM),HIGH,NZD,Release,0.19,Inflation
 c1051882-a242-4d0a-839a-b555d86c1a85,02/17/2026 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 93a03b6e-0bf6-41eb-90d8-94ff924587ab,02/17/2026 21:45:00,Producer Price Index - Input (QoQ),HIGH,NZD,Release,0.19,Inflation
 3ff74077-b616-4507-934e-916856a5611d,02/17/2026 21:45:00,Producer Price Index - Output (QoQ),HIGH,NZD,Release,0.19,Inflation
 55668356-99ff-44a4-b6d7-4cdaff7b3972,02/18/2026 01:00:00,RBNZ Interest Rate Decision,MEDIUM,NZD,Speech,0.13,Monetary Policy
 409d3e1f-7aca-4d99-928f-8587cb5c61ce,02/18/2026 01:00:00,RBNZ Monetary Policy Review,HIGH,NZD,Release,0.2,Monetary Policy
 730b3e7b-63eb-4a10-98a9-eb0962e7d0a3,02/18/2026 01:00:00,RBNZ Monetary Policy Statement,MEDIUM,NZD,Speech,0.13,Monetary Policy
+1a6c294d-614f-4189-90bf-2754ff27214d,02/18/2026 02:00:00,RBNZ Press Conference,MEDIUM,NZD,Speech,0.13,Monetary Policy
 12622312-39f0-4af0-9f69-df5f12f15425,02/19/2026 21:45:00,Exports,MEDIUM,NZD,Release,0.11,Trade and External
 4b671bfb-ec9c-4f7d-bba4-039ea6fccdfd,02/19/2026 21:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External
 369b2b59-a3a5-4225-9ba4-4b55d8e29704,02/19/2026 21:45:00,Trade Balance NZD (MoM),MEDIUM,NZD,Release,0.11,Trade and External
@@ -95,6 +95,7 @@ eb145612-18d8-43fe-80e8-23c35e98e7d7,05/21/2026 22:45:00,Retail Sales (QoQ),HIGH
 c59f0bf5-f0fb-4a8f-b012-94e2b5a62071,05/27/2026 02:00:00,RBNZ Interest Rate Decision,MEDIUM,NZD,Speech,0.13,Monetary Policy
 614448b0-31c0-4d42-b028-742f1872aaa8,05/27/2026 02:00:00,RBNZ Monetary Policy Review,HIGH,NZD,Release,0.2,Monetary Policy
 483091cd-28d1-4a74-9af3-231d82874e1d,05/27/2026 02:00:00,RBNZ Monetary Policy Statement,MEDIUM,NZD,Speech,0.13,Monetary Policy
+99d3e32d-b269-4c18-a868-19250dd68db6,05/27/2026 03:00:00,RBNZ Press Conference,MEDIUM,NZD,Speech,0.13,Monetary Policy
 8e1f99db-0bf0-46ac-80f1-9405d137a837,05/28/2026 22:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Release,0.14,Confidence
 a20d8f70-c28a-4245-bbc5-9ad805da3e6c,05/29/2026 01:00:00,ANZ Activity Outlook,MEDIUM,NZD,Release,0.14,Confidence
 2128b07f-078a-442c-b6af-dd1b2bdbd7fb,05/29/2026 01:00:00,ANZ Business Confidence,MEDIUM,NZD,Release,0.14,Confidence
@@ -180,6 +181,7 @@ e2c1bdc0-f80e-4bdb-aa93-afc3f2e8b790,09/01/2026 22:45:00,Building Permits s.a. (
 2881fb4b-d447-408a-9300-3eb4bc0e5a9e,09/02/2026 02:00:00,RBNZ Interest Rate Decision,MEDIUM,NZD,Speech,0.13,Monetary Policy
 c28bdeb6-42d8-49d8-975c-02971c442f1e,09/02/2026 02:00:00,RBNZ Monetary Policy Review,HIGH,NZD,Release,0.2,Monetary Policy
 ac4eaa46-6def-4281-a8e2-d7e7b79a6912,09/02/2026 02:00:00,RBNZ Monetary Policy Statement,MEDIUM,NZD,Speech,0.13,Monetary Policy
+fc74e544-8273-48be-849c-8fc6c5e3275b,09/02/2026 03:00:00,RBNZ Press Conference,MEDIUM,NZD,Speech,0.13,Monetary Policy
 4b4da4ad-8af5-4f0b-a308-5b94d5aa9fe9,09/03/2026 01:00:00,ANZ Commodity Price,MEDIUM,NZD,Release,0.14,Confidence
 8ade3541-c934-48bd-8487-072f84ab3257,09/03/2026 22:45:00,Terms of Trade Index,MEDIUM,NZD,Release,0.11,Trade and External
 914f8838-3680-49f1-b298-3405667e846f,09/08/2026 22:45:00,Manufacturing Sales,HIGH,NZD,Release,0.17,Growth
@@ -264,6 +266,7 @@ c3b53a4e-c7cc-4eb9-b123-11592eaab3f0,12/01/2026 15:00:00,GDT Price Index,MEDIUM,
 691dbb6f-162d-451e-a983-61865daaa01c,12/03/2026 00:00:00,ANZ Commodity Price,MEDIUM,NZD,Release,0.14,Confidence
 38af29be-e910-467a-8696-eb2bcf265c2f,12/09/2026 01:00:00,RBNZ Interest Rate Decision,MEDIUM,NZD,Speech,0.13,Monetary Policy
 78234ab9-639b-4eaa-abe9-276ffdaa5d13,12/09/2026 01:00:00,RBNZ Monetary Policy Review,HIGH,NZD,Release,0.2,Monetary Policy
+7dbf4d77-2a1b-498c-9d33-c65948e09a90,12/09/2026 02:00:00,RBNZ Press Conference,MEDIUM,NZD,Speech,0.13,Monetary Policy
 e0d128d5-fac7-43b9-9875-4d1e04b13d4f,12/09/2026 21:45:00,Building Permits s.a. (MoM),LOW,NZD,Release,0.07,Housing
 d2a0f9c8-185b-4725-ac9b-0b7cff582272,12/09/2026 21:45:00,Manufacturing Sales,HIGH,NZD,Release,0.17,Growth
 71858387-b4d8-4e58-8498-054965336d0f,12/10/2026 21:30:00,Business NZ PMI,HIGH,NZD,Release,0.17,Growth

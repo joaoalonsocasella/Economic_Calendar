@@ -1,10 +1,10 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-3dfd2dd4-d1d9-445e-a556-f8d920332396,02/16/2026 13:00:00,Net Inflation,HIGH,PLN,Release,0.19,Inflation
 9f2b1ba8-bf95-411b-8a01-f70cefdfacf2,02/19/2026 09:00:00,Corporate Sector Wages,LOW,PLN,Release,0.09,Money and Credit
 c9e64e4b-0181-42d3-b9b1-3772eb16a08f,02/19/2026 09:00:00,Industrial Output (YoY),HIGH,PLN,Release,0.17,Growth
 ffccc71e-06ac-4139-a2e8-0a1acb746112,02/19/2026 09:00:00,Producer Price Index (YoY),HIGH,PLN,Release,0.19,Inflation
 e8a159ec-7e86-46d4-b82d-c0e0926d9ac9,02/23/2026 09:00:00,Retail Sales (YoY),HIGH,PLN,Release,0.17,Growth
 966d72fa-1c7f-4b07-9591-abde75df4025,02/23/2026 13:00:00,M3 Money Supply (YoY),HIGH,PLN,Release,0.19,Inflation
+3dfd2dd4-d1d9-445e-a556-f8d920332396,02/23/2026 13:00:00,Net Inflation,HIGH,PLN,Release,0.19,Inflation
 df8a9c06-1d5d-4165-8408-b7f45ff4bc3d,02/24/2026 09:00:00,Unemployment (MoM),HIGH,PLN,Release,0.18,Labor Market
 b71de4d4-8862-4b9e-a8d8-2847c21397a5,03/02/2026 08:00:00,S&P Global Manufacturing PMI,HIGH,PLN,Release,0.17,Growth
 a8729e04-9298-4ecc-bc71-9ccced860160,03/02/2026 09:00:00,Gross Domestic Product Qtr (YoY),HIGH,PLN,Release,0.17,Growth

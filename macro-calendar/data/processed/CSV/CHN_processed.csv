@@ -1,9 +1,9 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 9086f024-cc6c-4ff6-98aa-08f2eaf9b6ea,02/20/2026 01:15:00,PBoC Interest Rate Decision,HIGH,CNY,Release,0.2,Monetary Policy
 cd44b85a-462c-4999-b0bb-58538cf44ddb,02/24/2026 09:00:00,FDI - Foreign Direct Investment (YTD) (YoY),HIGH,CNY,Release,0.17,Growth
-378d4a67-4a82-4d8a-8386-a039ed18aad1,03/01/2026 01:30:00,NBS Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
-dbe9bd72-e0cf-459e-b4bf-cadc9ae5e84b,03/01/2026 01:30:00,NBS Non-Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 66145650-3f17-442a-8845-66d08c02d9c0,03/02/2026 01:45:00,RatingDog Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
+378d4a67-4a82-4d8a-8386-a039ed18aad1,03/04/2026 01:30:00,NBS Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
+dbe9bd72-e0cf-459e-b4bf-cadc9ae5e84b,03/04/2026 01:30:00,NBS Non-Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 76e5718e-99a1-4b68-88f9-c3ae25e4a0e0,03/04/2026 01:45:00,RatingDog Services PMI,HIGH,CNY,Release,0.17,Growth
 d69dd097-efeb-437d-b98e-3f2ff90b7d1c,03/07/2026 08:00:00,Foreign Exchange Reserves (MoM),LOW,CNY,Release,0.09,Money and Credit
 5ef2a15d-2abd-44ae-a85e-6e1c70d32875,03/09/2026 01:30:00,Consumer Price Index (MoM),HIGH,CNY,Release,0.19,Inflation

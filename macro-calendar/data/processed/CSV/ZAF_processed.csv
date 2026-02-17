@@ -1,11 +1,11 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-ab0dc643-8611-48de-88f7-69bb3e394a28,02/16/2026 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
-019ae187-8d03-49e0-8965-e52f9de1f850,02/16/2026 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
 8ea0ff8e-31bd-4913-8841-9f22b1ac731b,02/17/2026 09:30:00,Unemployment Rate (%),HIGH,ZAR,Release,0.18,Labor Market
 dd010792-6640-48b3-b4cc-f3443e7d9100,02/17/2026 09:30:00,Unemployment Total ,HIGH,ZAR,Release,0.18,Labor Market
 e9f2a780-4cd5-415e-8a26-fa42d4a80a73,02/18/2026 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
 7c53376a-0e04-4f51-b8e3-68848115a607,02/18/2026 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
 0f463359-94af-4474-bfcc-19574c09f9aa,02/18/2026 11:00:00,Retail Sales (YoY),HIGH,ZAR,Release,0.17,Growth
+ab0dc643-8611-48de-88f7-69bb3e394a28,02/23/2026 09:30:00,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
+019ae187-8d03-49e0-8965-e52f9de1f850,02/23/2026 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
 3e84f1f7-9fc2-4c8b-b3a2-f238f574542e,02/26/2026 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
 5f1a5d03-4817-413c-9675-6edb736bd43d,02/26/2026 09:30:00,Producer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
 3e72e9e8-2370-4571-99f4-85697e9ba770,02/27/2026 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation

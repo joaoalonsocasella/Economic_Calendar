@@ -1,6 +1,4 @@
 Id,Start,Name,Impact,Currency
-c6535907-5fb2-4056-880e-3af8cf82365e,02/16/2026 13:15:00,Housing Starts s.a (YoY),LOW,CAD
-f55c0245-5a77-44df-a65c-02c04bc59061,02/16/2026 13:30:00,Manufacturing Sales (MoM),LOW,CAD
 549c9e3d-9e1a-4fc2-94eb-46305d25cbc4,02/17/2026 13:30:00,BoC Consumer Price Index Core (MoM),MEDIUM,CAD
 caf53858-0e02-4576-b4a0-b3ef5bc77d2a,02/17/2026 13:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD
 6dadc1aa-f6cb-4107-ba69-9c3652e9b74a,02/17/2026 13:30:00,Canadian Portfolio Investment in Foreign Securities,LOW,CAD
@@ -25,12 +23,12 @@ e9412ca8-8de2-4146-8e96-f5cec9e46b60,02/27/2026 13:30:00,Gross Domestic Product 
 82edd77d-15c7-433b-b1d2-ec422688a0d5,02/27/2026 13:30:00,Gross Domestic Product Annualized,HIGH,CAD
 0c25b1c5-033e-48e8-83a7-53077d169c46,03/02/2026 14:30:00,S&P Global Manufacturing PMI,MEDIUM,CAD
 f6d6e779-7bc8-4110-b9cb-f2a15e9754a0,03/04/2026 13:30:00,Labor Productivity (QoQ),LOW,CAD
-a55044ce-647e-4631-803e-7cc8e09ce042,03/05/2026 13:30:00,Exports,LOW,CAD
-94954652-0acd-4404-9326-6aee2c718914,03/05/2026 13:30:00,Imports,LOW,CAD
-7f6bf4b6-39f1-4677-ad1d-9307c6d4cbe5,03/05/2026 13:30:00,International Merchandise Trade,LOW,CAD
-d19fe634-5aeb-4f07-892b-08ebb3fbedff,03/05/2026 15:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD
-bc3018ea-87c1-4cb9-af24-a49c1b6074fd,03/05/2026 15:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD
+d19fe634-5aeb-4f07-892b-08ebb3fbedff,03/06/2026 15:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD
+bc3018ea-87c1-4cb9-af24-a49c1b6074fd,03/06/2026 15:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD
 7e61533b-1c1d-4d02-98cf-35a79f592299,03/08/2026 07:00:00," Daylight Saving Time ",NONE,CAD
+a55044ce-647e-4631-803e-7cc8e09ce042,03/12/2026 13:30:00,Exports,LOW,CAD
+94954652-0acd-4404-9326-6aee2c718914,03/12/2026 13:30:00,Imports,LOW,CAD
+7f6bf4b6-39f1-4677-ad1d-9307c6d4cbe5,03/12/2026 13:30:00,International Merchandise Trade,LOW,CAD
 053c6f69-22cf-4958-9ac3-95dacb7fbe8a,03/13/2026 12:30:00,Building Permits (MoM),LOW,CAD
 c3bb34bf-a9ea-48ab-89f5-f306a7416239,03/13/2026 12:30:00,Capacity Utilization,LOW,CAD
 962cf605-7e24-4714-b7ca-669cfc3e3aeb,03/13/2026 12:30:00,Manufacturing Sales (MoM),LOW,CAD
