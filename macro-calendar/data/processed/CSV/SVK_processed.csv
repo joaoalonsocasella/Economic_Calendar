@@ -1,8 +1,8 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e42f456e-07cf-417f-843f-00730ffbf566,02/17/2026 08:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
 93de6db5-5749-4c66-9c8b-86b5fe005030,02/20/2026 10:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
 3a35dfb0-d523-42e7-8d1a-40cbb3499296,02/25/2026 08:00:00,EU Norm Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
 123d5a6d-69ca-4cd7-90f8-428f51d8d33c,02/25/2026 08:00:00,EU Norm Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+e42f456e-07cf-417f-843f-00730ffbf566,02/26/2026 08:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
 e0a8f01e-9807-4d6c-aaa9-201136e9bc1b,03/06/2026 08:00:00,Gross Domestic Product Qtr Final (YoY),HIGH,EUR,Release,0.722,Growth
 3d02fe25-7bc0-4663-ac57-c8faa7647770,03/10/2026 08:00:00,Industrial Output (YoY),HIGH,EUR,Release,0.722,Growth
 e84599c2-546f-4b20-80c3-7b46de885ec5,03/11/2026 08:00:00,Foreign Trade Balance,HIGH,EUR,Release,0.468,Trade and External

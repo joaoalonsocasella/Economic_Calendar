@@ -1,13 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-9d5b049b-52b5-4346-ae73-009cb3fc292b,02/17/2026 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
-d09fc34f-e7cb-4261-856b-00d3588c93c0,02/17/2026 13:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
-e52fb479-2db6-49cf-bb2d-6e474e1723fa,02/17/2026 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
-4b0e1ef7-1839-4ea8-910f-cf54c6890b70,02/17/2026 15:00:00,NAHB Housing Market Index,LOW,USD,Release,0.07,Housing
-8aa88ee2-92e0-4109-862a-e420982b63a5,02/17/2026 16:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
-9aac464b-5cc3-4be4-91b3-f31dae35bf22,02/17/2026 16:30:00,52-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
-627c3b76-9ab3-4e38-89af-5bf38ebf11ad,02/17/2026 16:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
-0d478b73-8af6-404e-9c5a-d95361f7abc5,02/17/2026 17:45:00,Fed's Barr speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-b9105744-0228-4f61-99eb-b0571661046c,02/17/2026 19:30:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 c3e86437-0350-41f6-a4dc-77e3133da82e,02/18/2026 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 d93cac56-400b-4100-b84f-38860721887d,02/18/2026 13:30:00,Building Permits (MoM),LOW,USD,Release,0.07,Housing
 84c39d14-94a4-4f4b-8502-9fe89fb66b45,02/18/2026 13:30:00,Building Permits Change,LOW,USD,Release,0.07,Housing
@@ -21,6 +12,7 @@ d5003fd7-1f4a-4bde-88a5-b16b64651314,02/18/2026 13:30:05,Building Permits (MoM),
 28f41d43-51bb-4957-9763-c915057d1164,02/18/2026 13:30:05,Building Permits Change,LOW,USD,Release,0.07,Housing
 d9413b26-4391-443a-bce7-bd81f2012122,02/18/2026 13:30:05,Housing Starts (MoM),LOW,USD,Release,0.07,Housing
 81c2986b-ba49-48e7-8c39-156285062449,02/18/2026 13:30:05,Housing Starts Change,LOW,USD,Release,0.07,Housing
+e52fb479-2db6-49cf-bb2d-6e474e1723fa,02/18/2026 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 af27bbf2-bb3a-49ea-b1f7-6c59b404d20a,02/18/2026 14:15:00,Capacity Utilization,HIGH,USD,Release,0.2,Monetary Policy
 c2d299ff-d444-436d-a133-4f9b7d476bdb,02/18/2026 14:15:00,Industrial Production (MoM),HIGH,USD,Release,0.17,Growth
 155b0005-1239-4067-95fb-43caff8b79d2,02/18/2026 18:00:00,20-Year Bond Auction,LOW,USD,Release,0.09,Money and Credit
