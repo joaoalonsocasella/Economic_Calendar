@@ -1,16 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-2f5c680c-36a7-42a7-b884-42f55bd8f42a,02/18/2026 07:00:00,Consumer Price Index (MoM),HIGH,GBP,Release,0.19,Inflation
-d613a13b-b0b3-4b8b-8768-acc9c033e069,02/18/2026 07:00:00,Consumer Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
-8f4af20b-729e-44e7-92e3-f60e2545129a,02/18/2026 07:00:00,Core Consumer Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
-b992e646-dace-4641-8c4a-42b8f556fca5,02/18/2026 07:00:00,PPI Core Output (MoM) n.s.a,HIGH,GBP,Release,0.19,Inflation
-2985d9b1-60a5-4db0-9166-5912accde15e,02/18/2026 07:00:00,PPI Core Output (YoY) n.s.a ,HIGH,GBP,Release,0.19,Inflation
-59cfb6ac-05d7-45af-a9a9-1fdc5ddeac5d,02/18/2026 07:00:00,Producer Price Index - Input (MoM) n.s.a,HIGH,GBP,Release,0.19,Inflation
-0df215ef-a8ac-4833-9d48-b3695df2c57c,02/18/2026 07:00:00,Producer Price Index - Input (YoY) n.s.a,HIGH,GBP,Release,0.19,Inflation
-67ad580a-22e9-4e9b-9e57-7679dd8488a8,02/18/2026 07:00:00,Producer Price Index - Output (MoM) n.s.a,HIGH,GBP,Release,0.19,Inflation
-fba41dfd-c4c5-4e8d-b2ba-c56756e1c634,02/18/2026 07:00:00,Producer Price Index - Output (YoY) n.s.a,HIGH,GBP,Release,0.19,Inflation
-8727f9aa-a5c1-4634-a426-7a390ce86555,02/18/2026 07:00:00,Retail Price Index (MoM),HIGH,GBP,Release,0.19,Inflation
-62a69f42-3247-452e-b1dc-4bed6a672b2f,02/18/2026 07:00:00,Retail Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
-aacda365-3f4c-4d57-93eb-fa418e0c3792,02/18/2026 09:30:00,DCLG House Price Index (YoY),LOW,GBP,Release,0.07,Housing
 fad31139-2144-4de4-9f70-b50819a82209,02/20/2026 07:00:00,Public Sector Net Borrowing,LOW,GBP,Release,0.09,Money and Credit
 b0ce72d9-aabc-4664-89ad-18506d9ee683,02/20/2026 07:00:00,Retail Sales (MoM),HIGH,GBP,Release,0.17,Growth
 2fb5e617-6c66-4080-a977-0648e52bebfd,02/20/2026 07:00:00,Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth

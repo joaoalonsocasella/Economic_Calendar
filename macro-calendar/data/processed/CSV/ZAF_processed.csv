@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e9f2a780-4cd5-415e-8a26-fa42d4a80a73,02/18/2026 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
-7c53376a-0e04-4f51-b8e3-68848115a607,02/18/2026 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
-0f463359-94af-4474-bfcc-19574c09f9aa,02/18/2026 11:00:00,Retail Sales (YoY),HIGH,ZAR,Release,0.17,Growth
-ab0dc643-8611-48de-88f7-69bb3e394a28,02/23/2026 09:30:00,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
-019ae187-8d03-49e0-8965-e52f9de1f850,02/23/2026 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
 3e84f1f7-9fc2-4c8b-b3a2-f238f574542e,02/26/2026 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
 5f1a5d03-4817-413c-9675-6edb736bd43d,02/26/2026 09:30:00,Producer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
 3e72e9e8-2370-4571-99f4-85697e9ba770,02/27/2026 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation
@@ -117,8 +112,8 @@ c20a5224-506f-455e-9bb5-f328eaa1055c,09/30/2026 09:30:00,Producer Price Index (M
 15c0b418-49ad-4e46-9818-464df9d34619,10/08/2026 06:00:00,Gross $Gold & Forex Reserve ,HIGH,ZAR,Release,0.2,Monetary Policy
 fc8a5212-b85b-4773-8eca-3863158b05e8,10/08/2026 06:00:00,Net $Gold & Forex Reserve,LOW,ZAR,Release,0.09,Money and Credit
 20101367-ae62-428a-b0a6-27781070a601,10/08/2026 11:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth
-8cd2d1e1-13a2-4446-a7c8-272dad01c79f,10/14/2026 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
 0508cbd6-5d55-45d4-a952-2d340920ab3a,10/14/2026 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
+8cd2d1e1-13a2-4446-a7c8-272dad01c79f,10/14/2026 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
 0f69ea00-c13a-41b7-b64a-0b5f79980cea,10/21/2026 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
 9ada5b55-069f-4b6c-b829-68684ba5ce86,10/21/2026 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
 03f51912-1499-4e48-8463-e3a1e298262e,10/21/2026 11:00:00,Retail Sales (YoY),HIGH,ZAR,Release,0.17,Growth
