@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-65e2734d-88f7-4aea-883f-9b36e0270e78,02/19/2026 07:00:00,Exports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
-70a54a7d-d9b3-41a4-bef9-8090198ba3c2,02/19/2026 07:00:00,Imports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
-6a7a0f94-ef8e-42b4-96eb-6a2aaf1d378d,02/19/2026 07:00:00,Trade Balance,MEDIUM,CHF,Release,0.11,Trade and External
-d79f8f03-7abd-4cbe-b38e-289d370b4a0f,02/19/2026 07:30:00,Industrial Production (YoY),HIGH,CHF,Release,0.17,Growth
 fc1f5f05-eb9d-4720-8121-edee5f6b0817,02/23/2026 07:30:00,Producer and Import Prices (MoM),HIGH,CHF,Release,0.19,Inflation
 2fee0e13-c04c-44ec-acd2-e578905c8efb,02/23/2026 07:30:00,Producer and Import Prices (YoY),HIGH,CHF,Release,0.19,Inflation
 74252608-4f31-4746-b3e6-5e55faae30bc,02/25/2026 09:00:00,ZEW Survey – Expectations,MEDIUM,CHF,Release,0.14,Confidence

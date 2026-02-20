@@ -1,12 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a703480e-847b-466c-8055-0debc3736f97,02/19/2026 00:30:00,Employment Change s.a.,HIGH,AUD,Release,0.18,Labor Market
-12999122-0db3-42d8-a4b8-ed871e6296d2,02/19/2026 00:30:00,Full-Time Employment,HIGH,AUD,Release,0.18,Labor Market
-51a51f6c-88c3-4032-a3d4-125a914d15a8,02/19/2026 00:30:00,Participation Rate,HIGH,AUD,Release,0.18,Labor Market
-b2987eff-c4c6-4345-abfc-c2d11f21c705,02/19/2026 00:30:00,Part-Time Employment,HIGH,AUD,Release,0.18,Labor Market
-64349ce6-c214-488d-bc26-1fe1451da3fc,02/19/2026 00:30:00,Unemployment Rate s.a.,HIGH,AUD,Release,0.18,Labor Market
-8c27d141-d1af-4bb7-bdf7-25c0a05105b5,02/19/2026 22:00:00,S&P Global Composite PMI,HIGH,AUD,Release,0.17,Growth
-47f6f0c3-145d-4cdf-afe1-ce4e2d2cc68a,02/19/2026 22:00:00,S&P Global Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
-1a8e7508-e349-423b-992c-fb6ca409a2d1,02/19/2026 22:00:00,S&P Global Services PMI,HIGH,AUD,Release,0.17,Growth
 682b24ac-c564-4400-8a9c-c2c53b667e5d,02/20/2026 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 79f53995-1a01-40f6-93a5-3bfcc563ac3d,02/25/2026 00:30:00,Construction Work Done,HIGH,AUD,Release,0.17,Growth
 902a5774-0942-467b-aead-af64abadeb59,02/25/2026 00:30:00,Consumer Price Index (MoM),HIGH,AUD,Release,0.19,Inflation

@@ -1,22 +1,4 @@
 Id,Start,Name,Impact,Currency
-a6420d82-2fff-4705-b388-a97ba78041b8,02/19/2026 13:20:00,Fed's Bostic speech,MEDIUM,USD
-cf4a7642-e028-4bc7-be00-c67334be549c,02/19/2026 13:30:00,Continuing Jobless Claims,LOW,USD
-83ab1b10-c965-4690-8196-db37660e0bf9,02/19/2026 13:30:00,Fed's Bowman speech,MEDIUM,USD
-efbebcc7-d552-44ba-a661-a6dc9fc83a43,02/19/2026 13:30:00,Goods and Services Trade Balance,LOW,USD
-3b4379d0-6fa8-456b-8f0c-09a6a1b8ef46,02/19/2026 13:30:00,Goods Trade Balance,LOW,USD
-ecc6e980-4395-4989-859e-c2ac3c4bb8aa,02/19/2026 13:30:00,Initial Jobless Claims,MEDIUM,USD
-1af3d65d-029d-4709-a7d6-45e8d1e33465,02/19/2026 13:30:00,Initial Jobless Claims 4-week average,LOW,USD
-848b4bc9-4184-43c6-aec0-9d2c941d8083,02/19/2026 13:30:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD
-69bfcff1-a727-435b-86ca-5666b097f643,02/19/2026 13:30:00,Wholesale Inventories,LOW,USD
-d82f7b81-8146-42d3-8b61-97f9754bc36a,02/19/2026 14:00:00,Fed's Kashkari speech,MEDIUM,USD
-6b530878-a333-4ccd-b633-ca937d842c42,02/19/2026 15:00:00,Pending Home Sales (MoM),MEDIUM,USD
-25d96773-62a0-470e-9ac3-a7e99c8a39f2,02/19/2026 15:00:00,Pending Home Sales (YoY),LOW,USD
-c4fd2080-6968-451d-978d-a99ae6d7b7d5,02/19/2026 15:30:00,EIA Natural Gas Storage Change,LOW,USD
-3fdcffd5-cb21-4ca7-b90e-7d0fe18410ce,02/19/2026 15:30:00,Fed's Goolsbee speech,MEDIUM,USD
-115649b8-321a-45ec-9cae-d3ecbb95d930,02/19/2026 16:30:00,4-Week Bill Auction,LOW,USD
-02ec8197-9657-4a7c-a1fa-d471602c9ed1,02/19/2026 17:00:00,EIA Crude Oil Stocks Change,LOW,USD
-69aa3b55-17d2-4601-8c89-6c4cc1ab78a8,02/19/2026 18:00:00,30-year TIPS Auction,LOW,USD
-a4a604a8-4264-4d08-8166-bac6639df0a5,02/19/2026 22:05:00,Fed's Daly speech,MEDIUM,USD
 db9ce46d-4849-4eed-bb9d-c23a1d4e8b43,02/20/2026 13:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
 5473bbcf-234b-470d-bc7e-552c889e0ae5,02/20/2026 13:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
 278eaa1e-901c-4ff4-9f9b-ca3e9292a1b9,02/20/2026 13:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
@@ -44,6 +26,7 @@ d5bbd054-1547-4fe0-9232-e22862152218,02/20/2026 15:00:00,UoM 5-year Consumer Inf
 09f5e1d3-693e-494e-8500-f6a2420108e6,02/20/2026 20:30:00,CFTC Gold NC Net Positions,LOW,USD
 fb961f96-2066-474f-92fb-c6164ee70ac8,02/20/2026 20:30:00,CFTC Oil NC Net Positions,LOW,USD
 ba376587-1655-4e4f-b49b-1281fefb6697,02/20/2026 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
+4986d25b-4f14-443e-b702-755c34a9eba4,02/23/2026 13:00:00,Fed's Waller speech,MEDIUM,USD
 a1bd12f8-75fd-4638-b394-e90a05f86ee8,02/23/2026 13:30:00,"Chicago Fed National Activity Index ",LOW,USD
 9b949593-58d1-49a1-b5af-6aac66114e30,02/23/2026 13:30:05,"Chicago Fed National Activity Index ",LOW,USD
 89ba1f84-8eeb-46fd-a2a6-de715d463984,02/23/2026 15:00:00,Factory Orders (MoM),MEDIUM,USD
@@ -55,6 +38,8 @@ a1bd12f8-75fd-4638-b394-e90a05f86ee8,02/23/2026 13:30:00,"Chicago Fed National A
 46cfdc1a-f445-43be-9475-4c3ab91c2228,02/24/2026 14:00:00,Fed's Bostic speech,MEDIUM,USD
 839d049d-0be6-49bd-8c5a-218403c1a9b9,02/24/2026 14:00:00,Housing Price Index (MoM),MEDIUM,USD
 4823ccc2-395a-44fa-a9a9-b725b3663e3b,02/24/2026 14:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD
+7d2b3583-a257-40c0-a938-07e3e8f26d26,02/24/2026 14:15:00,Fed's Waller speech,MEDIUM,USD
+6a0bdb8f-273d-47e8-8a3c-3aac94c64da3,02/24/2026 14:30:00,Fed's Cook speech,MEDIUM,USD
 ee0aea8f-abe5-48fb-ab16-d8049dc3c1b0,02/24/2026 15:00:00,Consumer Confidence,MEDIUM,USD
 5662b269-9fd8-49f0-b47d-27bf33a12c00,02/24/2026 15:00:00,Richmond Fed Manufacturing Index,LOW,USD
 ccb33476-36a2-477d-a1f9-5e4d5496e112,02/24/2026 15:00:00,Wholesale Inventories,LOW,USD
@@ -68,6 +53,7 @@ e740d985-184e-42e8-941b-6a6dddea44e3,02/25/2026 18:20:00,Fed's Musalem speech,ME
 7efd426c-5e5c-4100-a939-b4777920a549,02/26/2026 13:30:00,Continuing Jobless Claims,LOW,USD
 6bd01ca4-d973-4ffa-94f7-4f3c219dec7f,02/26/2026 13:30:00,Initial Jobless Claims,MEDIUM,USD
 beb1cd12-c042-4c68-b0e5-89fb5fe9c146,02/26/2026 13:30:00,Initial Jobless Claims 4-week average,LOW,USD
+de6b095d-6e27-4f41-b603-30697ef93133,02/26/2026 15:00:00,Fed's Bowman speech,MEDIUM,USD
 9acc32cd-e328-4a23-9940-5f7ee25ccbd5,02/26/2026 15:30:00,EIA Natural Gas Storage Change,LOW,USD
 651aeadc-0645-493c-b51d-51674ff8f822,02/26/2026 16:00:00,Kansas Fed Manufacturing Activity,LOW,USD
 fabb7a03-f427-4791-b081-ef06a925b0a5,02/26/2026 16:30:00,4-Week Bill Auction,LOW,USD
