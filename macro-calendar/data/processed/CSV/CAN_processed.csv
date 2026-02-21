@@ -1,13 +1,10 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d925dc63-82aa-49b1-a9a0-fef2930ea957,02/20/2026 13:30:00,Industrial Product Price (MoM),HIGH,CAD,Release,0.19,Inflation
-bfd0b6d6-b5ee-4380-ba83-431c3e76e75a,02/20/2026 13:30:00,Raw Material Price Index,MEDIUM,CAD,Release,0.11,Trade and External
-7537c31f-a788-4fa2-8abf-ff7576b5ed69,02/20/2026 13:30:00,Retail Sales (MoM),HIGH,CAD,Release,0.17,Growth
-f0d2f3d7-0a7b-4d93-9635-efaa799e059a,02/20/2026 13:30:00,Retail Sales ex Autos (MoM),HIGH,CAD,Release,0.17,Growth
 0e88a96a-f54b-45d7-aee1-02df24b6b767,02/26/2026 13:30:00,Current Account,MEDIUM,CAD,Release,0.11,Trade and External
 e9412ca8-8de2-4146-8e96-f5cec9e46b60,02/27/2026 13:30:00,Gross Domestic Product (MoM),LOW,CAD,Release,0.07,Housing
 5960073f-20b0-489b-a64b-4c5ea98c8233,02/27/2026 13:30:00,Gross Domestic Product (QoQ),HIGH,CAD,Release,0.17,Growth
 82edd77d-15c7-433b-b1d2-ec422688a0d5,02/27/2026 13:30:00,Gross Domestic Product Annualized,HIGH,CAD,Release,0.17,Growth
 0c25b1c5-033e-48e8-83a7-53077d169c46,03/02/2026 14:30:00,S&P Global Manufacturing PMI,HIGH,CAD,Release,0.17,Growth
+b711dcea-34c2-4cfc-aa7e-fd680762199e,03/04/2026 12:00:00,BoC's Governor Macklem speech,MEDIUM,CAD,Speech,0.13,Monetary Policy
 f6d6e779-7bc8-4110-b9cb-f2a15e9754a0,03/04/2026 13:30:00,Labor Productivity (QoQ),HIGH,CAD,Release,0.18,Labor Market
 d19fe634-5aeb-4f07-892b-08ebb3fbedff,03/06/2026 15:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD,Release,0.14,Confidence
 bc3018ea-87c1-4cb9-af24-a49c1b6074fd,03/06/2026 15:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD,Release,0.14,Confidence

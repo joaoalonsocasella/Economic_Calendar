@@ -1,15 +1,11 @@
 Id,Start,Name,Impact,Currency
-0688e098-e37b-45ee-8ed5-caaa60b9ac80,02/20/2026 00:00:00,ECB's President Lagarde speech,HIGH,EUR
-eb71f5a6-6d35-4fed-800d-d16b3b548a3a,02/20/2026 09:00:00,HCOB Composite PMI,HIGH,EUR
-67a84ba8-402d-4490-9d82-300bfc9157c7,02/20/2026 09:00:00,HCOB Manufacturing PMI,HIGH,EUR
-aaa37084-0362-4645-afdc-d7676f88bd59,02/20/2026 09:00:00,HCOB Services PMI,HIGH,EUR
-d78c41aa-211f-462a-8856-8995767eaf4b,02/20/2026 10:00:00,Negotiated Wage Rates (QoQ),LOW,EUR
-026b9258-b749-4cc8-b246-ad354369ff49,02/20/2026 20:30:00,CFTC EUR NC Net Positions,LOW,EUR
+cae9e61d-9688-47f3-a750-04931b01bbba,02/23/2026 17:30:00,ECB's President Lagarde speech,HIGH,EUR
 b4160562-9cc1-48a8-9880-7e9dad1528fc,02/25/2026 08:00:00,Non-Monetary Policy ECB Meeting,MEDIUM,EUR
 840fc516-5c9e-4957-87e0-ca15d1939b31,02/25/2026 10:00:00,Core Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 4549423e-0f00-462b-932f-3e6437e0e221,02/25/2026 10:00:00,Core Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
 834694c5-9838-4a62-98b4-21778489e57d,02/25/2026 10:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 78baee16-70df-4ab5-aca6-67dd928c7a9e,02/25/2026 10:00:00,Harmonized Index of Consumer Prices (YoY),LOW,EUR
+8762739d-1152-4ed8-8c6a-588261359554,02/26/2026 08:30:00,ECB's President Lagarde speech,HIGH,EUR
 ba21631c-e81a-4e80-b164-e2900b2225f6,02/26/2026 09:00:00,M3 Money Supply (3m),LOW,EUR
 ea589db7-0ebf-425b-aa10-d9ae89d1c86e,02/26/2026 09:00:00,M3 Money Supply (YoY),LOW,EUR
 245d3128-36ca-4842-af32-46f5c151095b,02/26/2026 09:00:00,Private Loans (YoY),LOW,EUR

@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-682b24ac-c564-4400-8a9c-c2c53b667e5d,02/20/2026 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 79f53995-1a01-40f6-93a5-3bfcc563ac3d,02/25/2026 00:30:00,Construction Work Done,HIGH,AUD,Release,0.17,Growth
 902a5774-0942-467b-aead-af64abadeb59,02/25/2026 00:30:00,Consumer Price Index (MoM),HIGH,AUD,Release,0.19,Inflation
 e1fcabc1-0d99-44d5-b941-35775e4de248,02/25/2026 00:30:00,Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
@@ -17,6 +16,7 @@ bdbecc09-2e09-48d8-aeae-4ff201a0a5ba,03/02/2026 00:00:00,TD-MI Inflation Gauge (
 437d3676-1b1b-4e0d-9fd1-0ae5b15d40d9,03/02/2026 00:30:00,ANZ Job Advertisements,HIGH,AUD,Release,0.18,Labor Market
 97564974-2267-4d66-bcb3-a96a23beb609,03/02/2026 00:30:00,Company Gross Operating Profits (QoQ),HIGH,AUD,Release,0.17,Growth
 1c425b57-a6cd-4351-b687-d47dc7abad8b,03/02/2026 05:30:00,RBA Commodity Index SDR (YoY),HIGH,AUD,Release,0.19,Inflation
+05712f81-4fd7-424e-bd2c-69c3570c4057,03/02/2026 21:10:00,RBA Governor Bullock speech,MEDIUM,AUD,Speech,0.13,Monetary Policy
 2270e8ac-0b5c-4380-b6ab-51ae4cf72180,03/03/2026 00:30:00,Building Permits (MoM),LOW,AUD,Release,0.07,Housing
 bf66bcf6-b095-4ca6-a130-44dc6f8f4f45,03/03/2026 00:30:00,Building Permits (YoY),LOW,AUD,Release,0.07,Housing
 1f0e179f-57de-4cf0-b63e-c1eeb69a3522,03/03/2026 00:30:00,Current Account Balance,MEDIUM,AUD,Release,0.11,Trade and External

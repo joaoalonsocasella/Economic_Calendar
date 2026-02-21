@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d1a8f44f-ac40-4697-b5b8-fd39b91908ad,02/20/2026 07:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-ce5208f4-e3ff-4dc5-aecd-f0fdd1f67ff0,02/20/2026 07:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-477bc3b7-a53d-4f5e-a795-c1f3a030e996,02/20/2026 08:30:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
-75850ac7-bc9c-4149-958f-76df026b8d58,02/20/2026 08:30:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
-50c0812e-e894-4fce-9120-de9f9e93b548,02/20/2026 08:30:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 dc7c0511-4252-46af-8369-47f901ce325e,02/23/2026 09:00:00,IFO – Business Climate,HIGH,EUR,Release,0.595,Confidence
 f3889e3a-1703-4321-9b73-5830c82e35be,02/23/2026 09:00:00,IFO – Current Assessment,HIGH,EUR,Release,0.595,Confidence
 799dbe77-f690-470c-bf0b-14685368baf1,02/23/2026 09:00:00,IFO – Expectations,HIGH,EUR,Release,0.595,Confidence

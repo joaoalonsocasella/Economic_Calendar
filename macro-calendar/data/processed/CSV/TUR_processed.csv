@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-2f974ed1-29e9-464a-bd1c-639f090b3a4d,02/20/2026 07:00:00,Capacity Utilization,HIGH,TRY,Release,0.2,Monetary Policy
-b33c2c9a-ca69-499a-9280-2663ed89cb33,02/20/2026 07:00:00,Manufacturing Confidence,MEDIUM,TRY,Release,0.14,Confidence
-ff80f76c-be46-4d9f-bc73-fd17554e667f,02/20/2026 08:00:00,Foreign Arrivals,MEDIUM,TRY,Release,0.11,Trade and External
 6c572c60-0a8b-4172-a7ad-40abccc4de6f,02/26/2026 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
 df19b447-f96e-4317-abae-8a3a44484393,02/26/2026 07:00:00,Trade Balance,MEDIUM,TRY,Release,0.11,Trade and External
 880e4c04-2a7d-48d8-8720-3ae8fbe09572,02/27/2026 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
