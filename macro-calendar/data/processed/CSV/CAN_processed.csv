@@ -9,17 +9,17 @@ f6d6e779-7bc8-4110-b9cb-f2a15e9754a0,03/04/2026 13:30:00,Labor Productivity (QoQ
 d19fe634-5aeb-4f07-892b-08ebb3fbedff,03/06/2026 15:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD,Release,0.14,Confidence
 bc3018ea-87c1-4cb9-af24-a49c1b6074fd,03/06/2026 15:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD,Release,0.14,Confidence
 7e61533b-1c1d-4d02-98cf-35a79f592299,03/08/2026 07:00:00, Daylight Saving Time ,HIGH,CAD,Release,0.2,Monetary Policy
-a55044ce-647e-4631-803e-7cc8e09ce042,03/12/2026 13:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
-94954652-0acd-4404-9326-6aee2c718914,03/12/2026 13:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
-7f6bf4b6-39f1-4677-ad1d-9307c6d4cbe5,03/12/2026 13:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
-053c6f69-22cf-4958-9ac3-95dacb7fbe8a,03/13/2026 12:30:00,Building Permits (MoM),LOW,CAD,Release,0.07,Housing
+053c6f69-22cf-4958-9ac3-95dacb7fbe8a,03/12/2026 12:30:00,Building Permits (MoM),LOW,CAD,Release,0.07,Housing
+a55044ce-647e-4631-803e-7cc8e09ce042,03/12/2026 12:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
+94954652-0acd-4404-9326-6aee2c718914,03/12/2026 12:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
+7f6bf4b6-39f1-4677-ad1d-9307c6d4cbe5,03/12/2026 12:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
+89b297ab-dca0-4301-b02b-6fd92461d498,03/12/2026 12:30:00,Wholesale Sales (MoM),HIGH,CAD,Release,0.17,Growth
+b94e5f91-add4-456e-9a0e-15978014869b,03/13/2026 12:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
 c3bb34bf-a9ea-48ab-89f5-f306a7416239,03/13/2026 12:30:00,Capacity Utilization,HIGH,CAD,Release,0.2,Monetary Policy
 962cf605-7e24-4714-b7ca-669cfc3e3aeb,03/13/2026 12:30:00,Manufacturing Sales (MoM),HIGH,CAD,Release,0.17,Growth
-89b297ab-dca0-4301-b02b-6fd92461d498,03/13/2026 12:30:00,Wholesale Sales (MoM),HIGH,CAD,Release,0.17,Growth
-b94e5f91-add4-456e-9a0e-15978014869b,03/13/2026 13:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
-cbd5cc77-ece9-4229-af0b-697a838dd5e4,03/13/2026 13:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
-d8c74f22-6831-4e2a-a90e-95a7262c8b1c,03/13/2026 13:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
-c0a2d479-8d6a-4fa5-8db9-b5f269ec59fc,03/13/2026 13:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
+cbd5cc77-ece9-4229-af0b-697a838dd5e4,03/13/2026 12:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
+d8c74f22-6831-4e2a-a90e-95a7262c8b1c,03/13/2026 12:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
+c0a2d479-8d6a-4fa5-8db9-b5f269ec59fc,03/13/2026 12:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
 05957173-720d-4f86-81fc-b069740aa83f,03/16/2026 12:15:00,Housing Starts s.a (YoY),LOW,CAD,Release,0.07,Housing
 ded5d0a3-889e-4195-836c-1525ec505fdd,03/16/2026 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
 85ac4c04-748b-4da3-9261-dd9b32dd6f6c,03/16/2026 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation

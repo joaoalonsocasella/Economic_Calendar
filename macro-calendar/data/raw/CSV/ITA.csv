@@ -1,8 +1,4 @@
 Id,Start,Name,Impact,Currency
-e635bdd2-176f-401a-b39b-afea80b5b9f6,02/23/2026 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
-d00d485f-bb55-42ed-9dfe-396757ee7978,02/23/2026 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
-6652baa2-a482-4697-8f04-686a49b00012,02/23/2026 09:00:00,Consumer Price Index (MoM),LOW,EUR
-37f70018-78bb-4438-9f8a-de8a92fc19d8,02/23/2026 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR
 8564b06e-f2b1-4233-a04d-f9604cd4a049,02/26/2026 09:00:00,Business Confidence,LOW,EUR
 c9189f9e-a636-43bc-8566-38c91fa45c25,02/26/2026 09:00:00,Consumer Confidence,LOW,EUR
 24459730-1f8a-4aa2-a7d1-c990e74a0bf3,02/26/2026 10:30:00,10-y Bond Auction,LOW,EUR
@@ -21,10 +17,10 @@ e753c850-47dc-4a50-a6f8-54676c79f9a7,03/04/2026 09:00:00,Unemployment,LOW,EUR
 709e9a0c-f06d-47e0-9cda-9ad7dd46a871,03/04/2026 10:00:00,Gross Domestic Product (YoY),MEDIUM,EUR
 08522e4c-9007-4fb3-aeae-c5afd96273aa,03/05/2026 09:00:00,Retail Sales n.s.a (YoY),LOW,EUR
 75949963-c902-48fb-8ad5-d2b895f4b3f5,03/05/2026 09:00:00,Retail Sales s.a. (MoM),LOW,EUR
-5ce5afba-8591-48f5-8b77-23069425779d,03/10/2026 09:00:00,Industrial Output s.a. (MoM),LOW,EUR
-ade090e3-ada8-4ce7-aba5-db94144d9a11,03/10/2026 09:00:00,Industrial Output w.d.a (YoY),LOW,EUR
-6dd2c6c4-e278-4255-a65f-43b927ca0ea9,03/10/2026 10:00:00,Producer Price Index (MoM),LOW,EUR
-e4647915-8a6e-4a70-a8e5-0fe9a471c974,03/10/2026 10:00:00,Producer Price Index (YoY),LOW,EUR
+6dd2c6c4-e278-4255-a65f-43b927ca0ea9,03/10/2026 09:00:00,Producer Price Index (MoM),LOW,EUR
+e4647915-8a6e-4a70-a8e5-0fe9a471c974,03/10/2026 09:00:00,Producer Price Index (YoY),LOW,EUR
+5ce5afba-8591-48f5-8b77-23069425779d,03/13/2026 09:00:00,Industrial Output s.a. (MoM),LOW,EUR
+ade090e3-ada8-4ce7-aba5-db94144d9a11,03/13/2026 09:00:00,Industrial Output w.d.a (YoY),LOW,EUR
 613505ce-4116-4edd-a53d-e6934f223495,03/17/2026 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
 663f7b1e-78c8-45b1-8673-ececd70f71c6,03/17/2026 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
 9eb73c58-2bb9-4ab7-a2e6-3897b61fef85,03/17/2026 09:00:00,Consumer Price Index (MoM),LOW,EUR

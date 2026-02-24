@@ -1,5 +1,8 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-201f852f-87bf-453c-85e6-059d084214f7,02/23/2026 11:00:00,BoE's Taylor speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
+b2d7de58-542b-4737-81f6-6b77a12f88fc,02/24/2026 14:15:00,BoE's Governor Bailey speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
+a0c2a177-005c-4f04-a2c3-0cc0aee41c98,02/24/2026 14:15:00,BoE's Greene speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
+d13b157a-2910-4a7e-b1e9-72950c0843a2,02/24/2026 14:15:00,BoE's Pill speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
+13e3aae9-8304-49ed-a983-4412ab136c2a,02/24/2026 14:15:00,BoE's Taylor speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 e62f39c5-b56d-4259-956c-a1f244994269,02/26/2026 10:20:00,BoE's Lombardelli speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 082dc7f0-d64c-449b-a1ec-648353144f58,02/27/2026 00:01:00,GfK Consumer Confidence,MEDIUM,GBP,Release,0.14,Confidence
 581f0a68-98ca-420c-9cf4-e40a763a0d60,02/27/2026 13:00:00,BoE's Pill speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
@@ -23,26 +26,26 @@ d84c1966-d09e-4873-96bd-498a014822cd,03/06/2026 07:00:00,Halifax House Prices (Y
 c840304e-dac3-4f8d-8dd5-72797e75d5b8,03/10/2026 00:01:00,BRC Like-For-Like Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
 e84857da-8a27-4072-8ff2-a7582355f3bf,03/11/2026 09:15:00,BoE Monetary Policy Report Hearings,MEDIUM,GBP,Speech,0.13,Monetary Policy
 d17c7612-8182-4ea3-bc43-d85bd6add189,03/12/2026 00:01:00,RICS Housing Price Balance,LOW,GBP,Release,0.07,Housing
-7500e1fe-1bd0-436b-9ef2-c277550a59bb,03/12/2026 07:00:00,Average Earnings Excluding Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
-2ab65033-4120-4945-8951-983a80831db6,03/12/2026 07:00:00,Average Earnings Including Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
-8e7bb1c6-9bf0-4404-90c9-acb1d5342e24,03/12/2026 07:00:00,Claimant Count Change,HIGH,GBP,Release,0.18,Labor Market
-beda5b0d-ef0e-4f08-b939-4d9ccacbd733,03/12/2026 07:00:00,Claimant Count Rate,HIGH,GBP,Release,0.18,Labor Market
-f2f3362f-9163-4159-8eff-5b0690a95ee0,03/12/2026 07:00:00,Employment Change (3M),HIGH,GBP,Release,0.18,Labor Market
-b2347fcb-76b1-413a-a59a-b91551a48e10,03/12/2026 07:00:00,Goods Trade Balance,MEDIUM,GBP,Release,0.11,Trade and External
-c1057a51-37d7-4fce-9c6d-d54650aca09a,03/12/2026 07:00:00,Gross Domestic Product (MoM),LOW,GBP,Release,0.07,Housing
-b4494c52-bf8f-4832-b1bf-30ebd2c07b6d,03/12/2026 07:00:00,ILO Unemployment Rate (3M),HIGH,GBP,Release,0.18,Labor Market
-92a83fda-8564-4129-a746-e6d225c9bb27,03/12/2026 07:00:00,Index of Services (3M/3M),MEDIUM,GBP,Release,0.14,Confidence
 73d63ad5-9b6c-4558-870e-89e5881cd098,03/12/2026 07:00:00,Industrial Production (MoM),HIGH,GBP,Release,0.17,Growth
-c1398f35-2e63-40b3-830e-e5318afd3b85,03/12/2026 07:00:00,Industrial Production (YoY),HIGH,GBP,Release,0.17,Growth
-ad152ef0-181c-4e1a-a7b2-a8ca074692e3,03/12/2026 07:00:00,Manufacturing Production (MoM),HIGH,GBP,Release,0.17,Growth
-306aa09c-9976-4ebc-b25f-7ef6aa5c0cff,03/12/2026 07:00:00,Manufacturing Production (YoY),HIGH,GBP,Release,0.17,Growth
-d6aeaefe-7730-4c5f-94f8-217a77ba221b,03/12/2026 07:00:00,Total Trade Balance,MEDIUM,GBP,Release,0.11,Trade and External
-cddabfb4-e545-4607-bbaf-cfe6d5e438ba,03/12/2026 07:00:00,Trade Balance; non-EU,MEDIUM,GBP,Release,0.11,Trade and External
-a1bb360a-80e5-4472-9c64-5c4021a17448,03/12/2026 12:00:00,NIESR GDP Estimate (3M),HIGH,GBP,Release,0.17,Growth
+b2347fcb-76b1-413a-a59a-b91551a48e10,03/13/2026 07:00:00,Goods Trade Balance,MEDIUM,GBP,Release,0.11,Trade and External
+c1057a51-37d7-4fce-9c6d-d54650aca09a,03/13/2026 07:00:00,Gross Domestic Product (MoM),LOW,GBP,Release,0.07,Housing
+92a83fda-8564-4129-a746-e6d225c9bb27,03/13/2026 07:00:00,Index of Services (3M/3M),MEDIUM,GBP,Release,0.14,Confidence
+c1398f35-2e63-40b3-830e-e5318afd3b85,03/13/2026 07:00:00,Industrial Production (YoY),HIGH,GBP,Release,0.17,Growth
+ad152ef0-181c-4e1a-a7b2-a8ca074692e3,03/13/2026 07:00:00,Manufacturing Production (MoM),HIGH,GBP,Release,0.17,Growth
+306aa09c-9976-4ebc-b25f-7ef6aa5c0cff,03/13/2026 07:00:00,Manufacturing Production (YoY),HIGH,GBP,Release,0.17,Growth
+d6aeaefe-7730-4c5f-94f8-217a77ba221b,03/13/2026 07:00:00,Total Trade Balance,MEDIUM,GBP,Release,0.11,Trade and External
+cddabfb4-e545-4607-bbaf-cfe6d5e438ba,03/13/2026 07:00:00,Trade Balance; non-EU,MEDIUM,GBP,Release,0.11,Trade and External
 d114bad3-7a02-4c32-8762-45acb2b93cd7,03/13/2026 09:30:00,Consumer Inflation Expectations,MEDIUM,GBP,Release,0.14,Confidence
+a1bb360a-80e5-4472-9c64-5c4021a17448,03/13/2026 12:00:00,NIESR GDP Estimate (3M),HIGH,GBP,Release,0.17,Growth
 33a90a45-d1a5-4fa5-8f31-d13258172929,03/13/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 37094301-08c7-497a-9ce2-ad9a5b75dd1c,03/15/2026 00:01:00,Rightmove House Price Index (MoM),LOW,GBP,Release,0.07,Housing
 ea6bf4eb-7360-4383-a406-8c593bec2f3e,03/15/2026 00:01:00,Rightmove House Price Index (YoY),LOW,GBP,Release,0.07,Housing
+7500e1fe-1bd0-436b-9ef2-c277550a59bb,03/19/2026 07:00:00,Average Earnings Excluding Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
+2ab65033-4120-4945-8951-983a80831db6,03/19/2026 07:00:00,Average Earnings Including Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
+8e7bb1c6-9bf0-4404-90c9-acb1d5342e24,03/19/2026 07:00:00,Claimant Count Change,HIGH,GBP,Release,0.18,Labor Market
+beda5b0d-ef0e-4f08-b939-4d9ccacbd733,03/19/2026 07:00:00,Claimant Count Rate,HIGH,GBP,Release,0.18,Labor Market
+f2f3362f-9163-4159-8eff-5b0690a95ee0,03/19/2026 07:00:00,Employment Change (3M),HIGH,GBP,Release,0.18,Labor Market
+b4494c52-bf8f-4832-b1bf-30ebd2c07b6d,03/19/2026 07:00:00,ILO Unemployment Rate (3M),HIGH,GBP,Release,0.18,Labor Market
 42961d6f-958b-4e27-a167-0dfc888284fc,03/19/2026 12:00:00,BoE Interest Rate Decision,MEDIUM,GBP,Speech,0.13,Monetary Policy
 5473102a-1963-473e-ad07-ce224114dff1,03/19/2026 12:00:00,BoE Minutes,HIGH,GBP,Release,0.2,Monetary Policy
 ea852b0d-05f5-4159-b1cc-210431e59b10,03/19/2026 12:00:00,BoE Monetary Policy Summary,MEDIUM,GBP,Speech,0.13,Monetary Policy

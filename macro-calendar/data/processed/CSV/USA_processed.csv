@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-4986d25b-4f14-443e-b702-755c34a9eba4,02/23/2026 13:00:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-a1bd12f8-75fd-4638-b394-e90a05f86ee8,02/23/2026 13:30:00,Chicago Fed National Activity Index ,HIGH,USD,Release,0.17,Growth
-9b949593-58d1-49a1-b5af-6aac66114e30,02/23/2026 13:30:05,Chicago Fed National Activity Index ,HIGH,USD,Release,0.17,Growth
-89ba1f84-8eeb-46fd-a2a6-de715d463984,02/23/2026 15:00:00,Factory Orders (MoM),HIGH,USD,Release,0.17,Growth
-7fa23ed8-452f-4658-bcdd-2d4cb24bafd6,02/23/2026 16:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
-1293bfd5-8d40-4b38-85ac-97f3974dc4e4,02/23/2026 16:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 0119ab79-7c0a-4f64-8ac8-36b363717269,02/24/2026 12:00:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 2c9a25fa-5c01-4208-ab94-e4b67a6deae9,02/24/2026 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 5997c0f7-de9b-4cef-aa44-cbe20cbba734,02/24/2026 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
@@ -112,39 +106,35 @@ e2d02bad-b135-4640-9eb5-391674d0e34a,03/10/2026 14:00:00,Existing Home Sales Cha
 01687b6b-4d88-4bdb-ad0b-d66492f32c5a,03/10/2026 17:00:00,USDA WASDE Report,HIGH,USD,Release,0.2,Monetary Policy
 04772a63-1935-46c1-9ba4-eb7fc62c4516,03/10/2026 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 7f3b60cb-6884-4b7a-8836-d9c7403b6e54,03/11/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-4a7e203c-cbd0-4a83-afd0-7c31e305fed2,03/11/2026 13:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-3b4d7f0d-e6f1-4e61-85d7-60d118024150,03/11/2026 13:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-a9db1f51-7658-49ba-8055-5c0533b00992,03/11/2026 13:30:00,Consumer Price Index Core s.a,HIGH,USD,Release,0.19,Inflation
-5171b0e8-2d92-4efb-a830-cea8e915371c,03/11/2026 13:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
-47b28b28-9c56-4288-8912-faa97ac4cc48,03/11/2026 13:30:00,Consumer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
-e0dddd17-4bc3-49de-a369-21806336d92a,03/11/2026 13:30:00,Consumer Price Index n.s.a (MoM),HIGH,USD,Release,0.19,Inflation
+4a7e203c-cbd0-4a83-afd0-7c31e305fed2,03/11/2026 12:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
+3b4d7f0d-e6f1-4e61-85d7-60d118024150,03/11/2026 12:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
+a9db1f51-7658-49ba-8055-5c0533b00992,03/11/2026 12:30:00,Consumer Price Index Core s.a,HIGH,USD,Release,0.19,Inflation
+5171b0e8-2d92-4efb-a830-cea8e915371c,03/11/2026 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
+47b28b28-9c56-4288-8912-faa97ac4cc48,03/11/2026 12:30:00,Consumer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
+e0dddd17-4bc3-49de-a369-21806336d92a,03/11/2026 12:30:00,Consumer Price Index n.s.a (MoM),HIGH,USD,Release,0.19,Inflation
 48269298-f9b8-4e15-b7fb-57567e2b9958,03/11/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
 eaa8893e-b4b7-446a-bd44-f65d140345de,03/11/2026 17:00:00,10-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 e4e0dcc3-f891-4d86-b081-eceedf982001,03/12/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 53fa1c19-22a3-4646-a908-31dc6b05b3c5,03/12/2026 12:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 da6ff107-8032-40ea-9f2c-de716126d22c,03/12/2026 12:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
-4b1f503e-4ffd-4eb8-ae62-378752af7de2,03/12/2026 13:30:00,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-179c931b-c0f2-4305-9015-146c94f1d332,03/12/2026 13:30:00,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-0f0b1d59-cf93-4e9e-8816-9a346b00533b,03/12/2026 13:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
-8e47bd88-a28f-4b6a-a230-dca19315681e,03/12/2026 13:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
+4b1f503e-4ffd-4eb8-ae62-378752af7de2,03/12/2026 12:30:00,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
+179c931b-c0f2-4305-9015-146c94f1d332,03/12/2026 12:30:00,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
+0f0b1d59-cf93-4e9e-8816-9a346b00533b,03/12/2026 12:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
+8e47bd88-a28f-4b6a-a230-dca19315681e,03/12/2026 12:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
 4e6f2810-8154-4000-8da7-26ead2bb926e,03/12/2026 14:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 b4341b9a-1c36-46bd-a11b-7b77526304c6,03/12/2026 15:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 c5b19121-b9d1-484f-818a-f79a462e4701,03/12/2026 17:00:00,30-Year Bond Auction,LOW,USD,Release,0.09,Money and Credit
 286fc15b-ab44-44e5-afe0-3be33ef6ee8d,03/12/2026 18:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
+4d10faed-b688-434c-b171-825d3e98c251,03/13/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
+e90591ee-54b0-444a-a903-5193f079eefa,03/13/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 2f355c87-9137-453d-bea3-aeed41acc099,03/13/2026 12:30:00,Core Personal Consumption Expenditures (QoQ),HIGH,USD,Release,0.17,Growth
-560ef80a-3dea-4ba4-886e-667e5ec2212f,03/13/2026 12:30:00,Export Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
-acfbeb89-9d32-4a79-88d4-2af6b6302573,03/13/2026 12:30:00,Export Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
 6bd96ef5-5cad-4c1a-97fa-c242e7fa4021,03/13/2026 12:30:00,Gross Domestic Product Annualized,HIGH,USD,Release,0.17,Growth
 fc060c05-3024-4b77-acda-02d3aa654232,03/13/2026 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD,Release,0.11,Trade and External
-5f337f0f-ffdb-40ce-8371-4e87ed1a4996,03/13/2026 12:30:00,Import Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
-3207ccbb-809b-4f97-acc2-d77a35c6c8e2,03/13/2026 12:30:00,Import Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
+c10435bf-c019-4344-ab13-c206f36eb0bf,03/13/2026 12:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
+36be0848-20bd-4a1f-ace4-918ed335393f,03/13/2026 12:30:00,Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 3c1f44df-969c-4c19-8bba-7a93b51f64fd,03/13/2026 12:30:00,Personal Consumption Expenditures Prices (QoQ),HIGH,USD,Release,0.17,Growth
-4d10faed-b688-434c-b171-825d3e98c251,03/13/2026 13:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-e90591ee-54b0-444a-a903-5193f079eefa,03/13/2026 13:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-c10435bf-c019-4344-ab13-c206f36eb0bf,03/13/2026 13:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-36be0848-20bd-4a1f-ace4-918ed335393f,03/13/2026 13:30:00,Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-65b036a5-e777-4db3-816a-e2350026cbce,03/13/2026 13:30:00,Personal Income (MoM),HIGH,USD,Release,0.17,Growth
-624c3e2d-cb7a-449d-b32d-11019dcb024d,03/13/2026 13:30:00,Personal Spending,HIGH,USD,Release,0.17,Growth
+65b036a5-e777-4db3-816a-e2350026cbce,03/13/2026 12:30:00,Personal Income (MoM),HIGH,USD,Release,0.17,Growth
+624c3e2d-cb7a-449d-b32d-11019dcb024d,03/13/2026 12:30:00,Personal Spending,HIGH,USD,Release,0.17,Growth
 f97fc65c-fd80-4e87-9245-257bc06ae590,03/13/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
 ac1e979a-c4c7-4bef-8f3f-11cd3423a601,03/13/2026 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
 ad69d979-46cc-4e91-bb69-f37ee8c12238,03/13/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
@@ -212,6 +202,10 @@ ca6cb4d9-4500-40c4-979f-48d44b41573c,03/24/2026 17:00:00,5-Year Note Auction,LOW
 ea4e9f4e-2448-4476-a144-ed6acd413509,03/24/2026 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 de74d512-b6cb-4e4c-a48b-12579e9b4735,03/25/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 f522835b-a8b3-4512-a933-f36045390de3,03/25/2026 12:30:00,Current Account,MEDIUM,USD,Release,0.11,Trade and External
+560ef80a-3dea-4ba4-886e-667e5ec2212f,03/25/2026 12:30:00,Export Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
+acfbeb89-9d32-4a79-88d4-2af6b6302573,03/25/2026 12:30:00,Export Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
+5f337f0f-ffdb-40ce-8371-4e87ed1a4996,03/25/2026 12:30:00,Import Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
+3207ccbb-809b-4f97-acc2-d77a35c6c8e2,03/25/2026 12:30:00,Import Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
 edad18f9-0a2e-40c5-9fd6-7de08d5ef978,03/25/2026 14:00:00,New Home Sales (MoM),LOW,USD,Release,0.07,Housing
 2dbdef39-8f7a-454e-8d75-201463dc4c3a,03/25/2026 14:00:00,New Home Sales Change (MoM),LOW,USD,Release,0.07,Housing
 e8c63d71-2888-49d4-b82f-406bbd8fd989,03/25/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
