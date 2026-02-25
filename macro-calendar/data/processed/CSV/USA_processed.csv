@@ -1,23 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0119ab79-7c0a-4f64-8ac8-36b363717269,02/24/2026 12:00:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-2c9a25fa-5c01-4208-ab94-e4b67a6deae9,02/24/2026 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
-5997c0f7-de9b-4cef-aa44-cbe20cbba734,02/24/2026 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
-46cfdc1a-f445-43be-9475-4c3ab91c2228,02/24/2026 14:00:00,Fed's Bostic speech,HIGH,USD,Release,0.2,Monetary Policy
-8810532f-7579-48e2-87ef-711701f5fc1f,02/24/2026 14:00:00,Fed's Collins speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-839d049d-0be6-49bd-8c5a-218403c1a9b9,02/24/2026 14:00:00,Housing Price Index (MoM),LOW,USD,Release,0.07,Housing
-4823ccc2-395a-44fa-a9a9-b725b3663e3b,02/24/2026 14:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD,Release,0.07,Housing
-7d2b3583-a257-40c0-a938-07e3e8f26d26,02/24/2026 14:15:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-6a0bdb8f-273d-47e8-8a3c-3aac94c64da3,02/24/2026 14:30:00,Fed's Cook speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-ee0aea8f-abe5-48fb-ab16-d8049dc3c1b0,02/24/2026 15:00:00,Consumer Confidence,MEDIUM,USD,Release,0.14,Confidence
-5662b269-9fd8-49f0-b47d-27bf33a12c00,02/24/2026 15:00:00,Richmond Fed Manufacturing Index,HIGH,USD,Release,0.17,Growth
-ccb33476-36a2-477d-a1f9-5e4d5496e112,02/24/2026 15:00:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
-093f51ee-c911-41b7-a41a-29e6e50e48e9,02/24/2026 15:30:00,Dallas Fed Manufacturing Business Index,MEDIUM,USD,Release,0.14,Confidence
-bd813233-e939-4635-93d1-ddd3c3a8c9cd,02/24/2026 18:00:00,2-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-2a63d885-e7e5-4f6f-b6b0-3cb9bb458da8,02/24/2026 20:20:00,Fed's Barkin speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-3af807d5-ddd3-4aef-8b8c-8ecc4a67fcb3,02/24/2026 20:20:00,Fed's Collins speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-4746f948-fbbe-4ede-9c9f-a42acbe44a44,02/24/2026 21:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 0c6418d4-7d17-40d3-b1c0-3b8ba587cbbc,02/25/2026 02:00:00,President Trump speech,LOW,USD,Speech,0.091,Confidence
 765e3b22-3e20-4cef-9504-9cbd1287bd34,02/25/2026 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
+35aca52a-f5e5-4d95-82b9-d5cc1f90576c,02/25/2026 13:30:00,Fed's Barkin speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 70fc7c0d-695b-4fa3-a154-fc6d8263cb41,02/25/2026 15:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
 9119d634-1d52-48e3-9be3-71dd09e09f3e,02/25/2026 16:00:00,Fed's Schmid speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 489bbd70-7899-4e45-9acd-c2e046e16727,02/25/2026 18:00:00,5-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
