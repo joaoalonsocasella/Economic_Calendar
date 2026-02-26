@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-79f53995-1a01-40f6-93a5-3bfcc563ac3d,02/25/2026 00:30:00,Construction Work Done,HIGH,AUD,Release,0.17,Growth
-902a5774-0942-467b-aead-af64abadeb59,02/25/2026 00:30:00,Consumer Price Index (MoM),HIGH,AUD,Release,0.19,Inflation
-e1fcabc1-0d99-44d5-b941-35775e4de248,02/25/2026 00:30:00,Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
-fe05d074-ee82-4899-abaa-04518a4e8c14,02/25/2026 00:30:00,Trimmed Mean CPI (MoM),HIGH,AUD,Release,0.19,Inflation
-3c0c269b-6d2e-463f-ad95-2186eb515404,02/25/2026 00:30:00,Trimmed Mean CPI (YoY),HIGH,AUD,Release,0.19,Inflation
-2d952576-7dfc-4c0f-90df-c10017f6ac3a,02/25/2026 08:40:00,RBA Governor Bullock speech,MEDIUM,AUD,Speech,0.13,Monetary Policy
 da2fe1a5-b2b1-4d89-9b0e-9ffa8bf5f9be,02/26/2026 00:30:00,Private Capital Expenditure,HIGH,AUD,Release,0.17,Growth
 38c29b67-e619-412a-91ba-676e23b6cb13,02/26/2026 00:30:00,RBA Bulletin,MEDIUM,AUD,Speech,0.13,Monetary Policy
 74257435-16aa-4de0-9859-9cdcb8b51418,02/27/2026 00:30:00,Private Sector Credit (MoM),LOW,AUD,Release,0.09,Money and Credit

@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-26926ff9-d47b-47da-bc14-5c383e152124,02/25/2026 07:00:00,GfK Consumer Confidence Survey,HIGH,EUR,Release,0.595,Confidence
-6dc05d2c-0414-4844-a0f7-92ca43ff3771,02/25/2026 07:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
-ad92cc68-b7cd-4ac5-acbd-9879bf867f81,02/25/2026 07:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
-05a65d01-1cc0-46aa-8bce-3271be7b93d5,02/25/2026 07:00:00,Gross Domestic Product w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
 f659c8dc-68db-46a8-9ac7-219a24f52005,02/27/2026 07:00:00,Import Price Index (MoM),HIGH,EUR,Release,0.468,Trade and External
 20edabd7-1a6d-4f39-a1f6-328d7a470d77,02/27/2026 07:00:00,Import Price Index (YoY),HIGH,EUR,Release,0.468,Trade and External
 55a72ec0-fc3c-4903-b66c-ed5d164e9bde,02/27/2026 08:55:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
