@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-6e817604-a84c-4171-a901-c0971f846a53,02/26/2026 11:00:00,Inflation Index/IGP-M,LOW,BRL
 da5ce926-cc26-4df2-afcf-160467b9c3f1,02/27/2026 11:30:00,Nominal Budget Balance,LOW,BRL
 b3ef274e-b224-4fb3-a9a8-c5b2d2e7bb9b,02/27/2026 11:30:00,Primary Budget Surplus,LOW,BRL
 7f06b460-aa91-4864-93f4-595df9fb0af2,02/27/2026 12:00:00,Mid-month Inflation,LOW,BRL
@@ -162,3 +161,5 @@ ba10c5ff-094b-4faf-be96-d70f597ac27c,01/12/2027 12:00:00,Retail Sales (MoM),LOW,
 9d7f6eca-5347-4a0e-aa7a-cc31a4ffcd8a,01/28/2027 12:00:00,Unemployment Rate,LOW,BRL
 71249d88-356d-46d4-9818-63edfaa6be97,01/29/2027 11:30:00,Nominal Budget Balance,LOW,BRL
 27e36ff9-5b6d-40ed-b7fe-24f6b8c530b0,01/29/2027 11:30:00,Primary Budget Surplus,LOW,BRL
+a98b9be0-cf56-4301-be24-78cb6201b0ea,03/03/2027 12:00:00,Gross Domestic Product (QoQ),LOW,BRL
+9e5fefb0-2e53-429a-9244-070ca39c1388,03/03/2027 12:00:00,Gross Domestic Product (YoY),LOW,BRL

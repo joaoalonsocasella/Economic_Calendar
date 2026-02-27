@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-0e88a96a-f54b-45d7-aee1-02df24b6b767,02/26/2026 13:30:00,Current Account,MEDIUM,CAD
 e9412ca8-8de2-4146-8e96-f5cec9e46b60,02/27/2026 13:30:00,Gross Domestic Product (MoM),MEDIUM,CAD
 5960073f-20b0-489b-a64b-4c5ea98c8233,02/27/2026 13:30:00,Gross Domestic Product (QoQ),MEDIUM,CAD
 82edd77d-15c7-433b-b1d2-ec422688a0d5,02/27/2026 13:30:00,Gross Domestic Product Annualized,HIGH,CAD
@@ -381,3 +380,14 @@ ea12d622-adbc-4e16-83e2-e5ac054716ef,02/18/2027 13:30:00,Consumer Price Index (M
 49f6c682-842f-4809-b812-aaed5fd94460,02/18/2027 13:30:00,Consumer Price Index (YoY),MEDIUM,CAD
 58b2070f-4643-4d9e-b574-54f0e17b4ab0,02/26/2027 13:30:00,Gross Domestic Product (QoQ),MEDIUM,CAD
 1bd7b227-e0d1-4c00-92d7-ac1cbc823ae4,02/26/2027 13:30:00,Gross Domestic Product Annualized,HIGH,CAD
+377b97b0-4870-4b5e-8e43-8e5ee28746f6,03/01/2027 13:30:00,Current Account,MEDIUM,CAD
+0b0ff7cd-4c4a-4777-a16a-224a1141471c,03/05/2027 13:30:00,Average Hourly Wages (YoY),MEDIUM,CAD
+810eb8e1-fab0-4327-9a9e-78a6611c3262,03/05/2027 13:30:00,Net Change in Employment,HIGH,CAD
+6c4196cb-dc18-4220-ae34-0d4dc1230772,03/05/2027 13:30:00,Participation Rate,LOW,CAD
+31b94974-2747-479a-bbe1-8aaf89f2fd68,03/05/2027 13:30:00,Unemployment Rate,HIGH,CAD
+e55a77de-368c-4274-b98e-55708e8e5c1c,03/12/2027 12:30:00,Capacity Utilization,LOW,CAD
+252b0ce3-eec5-431d-bcbb-c3f6dd72f0c9,03/16/2027 12:30:00,BoC Consumer Price Index Core (MoM),MEDIUM,CAD
+c2dc63f1-edf5-42ac-b1ed-ee18a05b221d,03/16/2027 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD
+02fc7549-3d5a-4b30-ac17-2417f42c5fef,03/16/2027 12:30:00,Consumer Price Index - Core (MoM),LOW,CAD
+4ac168e3-c256-43cb-a187-c27cb1022067,03/16/2027 12:30:00,Consumer Price Index (MoM),MEDIUM,CAD
+152ce02b-15ee-4219-86ca-5537ab50b56d,03/16/2027 12:30:00,Consumer Price Index (YoY),MEDIUM,CAD

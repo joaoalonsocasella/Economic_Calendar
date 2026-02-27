@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-357c57ab-987a-45f0-b5f1-ebde558c44a5,02/26/2026 12:00:00,Jobless Rate,HIGH,MXN,Release,0.18,Labor Market
-09018ea1-e88b-4f22-a1ff-c290facb81a0,02/26/2026 12:00:00,Jobless Rate s.a,HIGH,MXN,Release,0.18,Labor Market
 930c2601-affc-433c-9569-ca07e4a169ca,02/27/2026 12:00:00,"Trade Balance s/a, $",MEDIUM,MXN,Release,0.11,Trade and External
 affc1c6a-21d2-4f5b-96b3-63ab8615f371,02/27/2026 12:00:00,"Trade Balance, $",MEDIUM,MXN,Release,0.11,Trade and External
 dccbc316-69eb-41bf-a033-b865c223451a,03/02/2026 21:00:00,"Fiscal Balance, pesos",MEDIUM,MXN,Release,0.11,Trade and External
@@ -225,3 +223,5 @@ f18084a6-4354-498c-bade-37a95b2d4392,02/22/2027 12:00:00,Gross Domestic Product 
 e5b6ed03-7433-45d4-961c-20d44a607218,02/22/2027 12:00:00,Gross Domestic Product (YoY),HIGH,MXN,Release,0.17,Growth
 3b0228b0-2a54-4856-9353-aafff5872984,02/25/2027 15:00:00,Accumulated Current Account/GDP,MEDIUM,MXN,Release,0.11,Trade and External
 e5f64c6a-f33a-49af-8918-5e5e87249712,02/25/2027 15:00:00,"Current Account, $ (QoQ)",MEDIUM,MXN,Release,0.11,Trade and External
+3f763118-854d-414e-9bdd-f66ec01a47bb,03/19/2027 12:00:00,Private Spending (QoQ),HIGH,MXN,Release,0.17,Growth
+43f588ae-147f-4dc8-ba10-e5dc8ff111c5,03/19/2027 12:00:00,Private Spending (YoY),HIGH,MXN,Release,0.17,Growth

@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-458ec6d9-f26e-45b0-a318-21850c230ba5,02/26/2026 00:00:00,ANZ Activity Outlook,MEDIUM,NZD,Release,0.14,Confidence
-80a5974f-2de2-4d25-91c6-9f7df724c2f7,02/26/2026 00:00:00,ANZ Business Confidence,MEDIUM,NZD,Release,0.14,Confidence
-8645e553-15a0-46ff-8dab-ee3a2e5bba5f,02/26/2026 21:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Release,0.14,Confidence
 679800d0-eab0-49c2-ac9a-f5add061d5b3,03/02/2026 21:45:00,Building Permits s.a. (MoM),LOW,NZD,Release,0.07,Housing
 2c4ad43b-f121-41ff-803d-ac6255dd06cf,03/03/2026 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 77a30d73-d0d2-46ad-b439-07c0141a6d01,03/03/2026 21:45:00,Terms of Trade Index,MEDIUM,NZD,Release,0.11,Trade and External
@@ -311,3 +308,12 @@ c9e36d3f-8172-4e8e-83f3-5229e27e13d6,02/17/2027 01:00:00,RBNZ Monetary Policy St
 f21cb5bf-edc9-4471-9078-fc7d875e8020,02/17/2027 21:45:00,Producer Price Index - Output (QoQ),HIGH,NZD,Release,0.19,Inflation
 0599a757-0d3f-4439-93fa-2024f5708df5,02/23/2027 21:45:00,Retail Sales (QoQ),HIGH,NZD,Release,0.17,Growth
 aabcf065-c417-4b39-b186-82380fb1a57e,02/23/2027 21:45:00,Retail Sales ex Autos (QoQ),HIGH,NZD,Release,0.17,Growth
+c4630f1c-241d-496e-9902-ecdf4b4a2016,03/03/2027 21:45:00,Terms of Trade Index,MEDIUM,NZD,Release,0.11,Trade and External
+940bdf55-a2a5-4260-9dc7-50b44a51dea1,03/07/2027 21:45:00,Manufacturing Sales,HIGH,NZD,Release,0.17,Growth
+f0d651c9-f6e9-4321-b49a-f35f34abc268,03/16/2027 21:45:00,Current Account - GDP Ratio,MEDIUM,NZD,Release,0.11,Trade and External
+77a52779-a44f-48bd-8459-8d0c9d41c3d0,03/16/2027 21:45:00,Current Account (QoQ),MEDIUM,NZD,Release,0.11,Trade and External
+31f77553-4b50-4e2f-8a65-bc606f2126d7,03/17/2027 21:45:00,Gross Domestic Product (QoQ),HIGH,NZD,Release,0.17,Growth
+f0522f46-51fd-4a9d-b892-74c610959777,03/17/2027 21:45:00,Gross Domestic Product (QoQ),HIGH,NZD,Release,0.17,Growth
+4feafd2e-8bd7-4caa-ba39-fe010c550300,03/17/2027 21:45:00,Gross Domestic Product (YoY),HIGH,NZD,Release,0.17,Growth
+8e815ef0-347e-4ec8-b399-3ba01dfeb260,03/17/2027 21:45:00,Gross Domestic Product (YoY),HIGH,NZD,Release,0.17,Growth
+0bc8a074-ecca-44b4-a28b-07572ebf0e1e,03/18/2027 20:00:00,Westpac Consumer Survey,MEDIUM,NZD,Release,0.14,Confidence

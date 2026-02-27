@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d473b761-dfc1-40b8-b745-d7f3dd663805,02/26/2026 08:00:00,Consumer Confidence (MoM),MEDIUM,SEK,Release,0.14,Confidence
 1745391e-c359-462d-a8c8-d647b9ed099e,02/27/2026 07:00:00,Gross Domestic Product (QoQ),HIGH,SEK,Release,0.17,Growth
 3fb131bb-fdaf-4798-b046-9420fc25cfb1,02/27/2026 07:00:00,Gross Domestic Product (YoY),HIGH,SEK,Release,0.17,Growth
 4c4adb49-82a9-464b-b9f9-808e0cf4f631,02/27/2026 07:00:00,Retail Sales (MoM),HIGH,SEK,Release,0.17,Growth
@@ -193,3 +192,4 @@ e18224df-c589-4c41-842b-30b7dac8e488,01/29/2027 07:00:00,Retail Sales (MoM),HIGH
 b1115783-dc48-43e1-aa49-5abeae0fb671,02/19/2027 07:00:00,Capacity Utilization,HIGH,SEK,Release,0.2,Monetary Policy
 6a637163-b940-41a7-9773-84b7ef85b8d0,02/26/2027 07:00:00,Gross Domestic Product (QoQ),HIGH,SEK,Release,0.17,Growth
 fd879236-6a55-42b3-b563-8d1bcb1527e0,02/26/2027 07:00:00,Gross Domestic Product (YoY),HIGH,SEK,Release,0.17,Growth
+7572c594-7876-4cce-a509-29678c579e5b,03/05/2027 07:00:00,Current Account (QoQ),MEDIUM,SEK,Release,0.11,Trade and External

@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-6c572c60-0a8b-4172-a7ad-40abccc4de6f,02/26/2026 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
-df19b447-f96e-4317-abae-8a3a44484393,02/26/2026 07:00:00,Trade Balance,MEDIUM,TRY,Release,0.11,Trade and External
 880e4c04-2a7d-48d8-8720-3ae8fbe09572,02/27/2026 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
 934ab23c-9828-4c05-bd20-1586b9c6b95b,03/02/2026 07:00:00,Exports,MEDIUM,TRY,Release,0.11,Trade and External
 7c2372d9-c750-48fb-9bb9-98ec5c042c09,03/02/2026 07:00:00,Quarterly Gross Domestic Product,HIGH,TRY,Release,0.17,Growth
@@ -193,3 +191,4 @@ bdf876a8-4f7b-48b1-bcc0-82da71496eb6,01/25/2027 07:00:00,Manufacturing Confidenc
 ca1433ea-ecef-4740-816a-1d024deef9fa,01/29/2027 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
 ce228f17-2d7c-4e90-86f5-80b7026dce64,01/29/2027 07:00:00,Trade Balance,MEDIUM,TRY,Release,0.11,Trade and External
 eaf45070-a2c5-404d-8f3c-6ab5185598f8,01/29/2027 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
+d879466d-551a-4f0d-8459-a6d70cfe5081,03/01/2027 07:00:00,Quarterly Gross Domestic Product,HIGH,TRY,Release,0.17,Growth

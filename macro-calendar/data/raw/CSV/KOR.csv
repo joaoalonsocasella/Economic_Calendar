@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-22aecd9e-3e05-4a11-828a-f208805a6813,02/26/2026 01:00:00,BoK Interest Rate Decision,MEDIUM,KRW
 c719ab7f-65db-4454-a164-e29588d5b855,03/01/2026 00:00:00,Trade Balance,LOW,KRW
 566b3cad-a555-4383-8a37-70f80c7eba71,03/03/2026 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
 c97cf183-70a9-4fb8-bfef-6a876b185349,03/03/2026 23:00:00,Industrial Output (YoY),LOW,KRW
@@ -225,3 +224,5 @@ c6ed15bf-adc4-443f-9edb-8fd1ac9442ca,01/28/2027 23:00:00,Industrial Output Growt
 510554fe-6515-4274-bc07-2d9a5f2c2fa6,01/28/2027 23:00:00,Service Sector Output,LOW,KRW
 18bc3524-d841-4812-af95-b707492b02ca,02/02/2027 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
 bd9d47af-6fb1-4f70-a50f-80b0c64b3da4,02/02/2027 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
+70efbcd8-937e-4dd2-acd2-c6603a10808c,03/03/2027 23:00:00,"Gross Domestic Product Growth (QoQ) ",MEDIUM,KRW
+8e9651db-a530-4cf5-b051-7c8be1d127b7,03/03/2027 23:00:00,Gross Domestic Product Growth (YoY),LOW,KRW

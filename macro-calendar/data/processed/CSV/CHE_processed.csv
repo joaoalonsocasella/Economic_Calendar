@@ -1,7 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-aea6769f-8190-44b3-9dfa-0a4288c02ca7,02/26/2026 07:30:00,Employment Level (QoQ),HIGH,CHF,Release,0.18,Labor Market
-8d7a9aa2-2e85-4471-ba63-1da50b0a2817,02/27/2026 07:00:00,Gross Domestic Product (QoQ),HIGH,CHF,Release,0.17,Growth
-53babba2-da52-4afa-b4ea-c6aafa9d56a3,02/27/2026 07:00:00,Gross Domestic Product (YoY),HIGH,CHF,Release,0.17,Growth
+8d7a9aa2-2e85-4471-ba63-1da50b0a2817,02/27/2026 08:00:00,Gross Domestic Product (QoQ),HIGH,CHF,Release,0.17,Growth
+53babba2-da52-4afa-b4ea-c6aafa9d56a3,02/27/2026 08:00:00,Gross Domestic Product (YoY),HIGH,CHF,Release,0.17,Growth
 68b0e541-b3e6-4a01-a040-050f0e0fa3b0,02/27/2026 08:00:00,KOF Leading Indicator,MEDIUM,CHF,Release,0.14,Confidence
 65f911f5-55f1-4fed-8850-bab1544e1387,03/02/2026 07:30:00,Real Retail Sales (YoY),HIGH,CHF,Release,0.17,Growth
 12702a31-4092-4775-ae28-fd416e23092b,03/02/2026 08:30:00,SVME - Purchasing Managers' Index,MEDIUM,CHF,Release,0.14,Confidence
@@ -191,3 +190,5 @@ e05c04d8-549c-41f8-9952-a7d9d10275a3,02/18/2027 07:30:00,Industrial Production (
 f55d95f3-55ee-47cc-957f-8a9024461f38,02/26/2027 07:00:00,Gross Domestic Product (QoQ),HIGH,CHF,Release,0.17,Growth
 b925de73-c504-4b22-8750-a59595c9e921,02/26/2027 07:00:00,Gross Domestic Product (YoY),HIGH,CHF,Release,0.17,Growth
 59e1a450-e9c3-4005-b844-33c11f42efbb,02/26/2027 07:30:00,Employment Level (QoQ),HIGH,CHF,Release,0.18,Labor Market
+d28c375b-c280-43d4-b873-3059d0d1f963,03/03/2027 07:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
+fb6887c3-e30f-4637-8b02-db1adfdcb2a9,03/03/2027 07:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation

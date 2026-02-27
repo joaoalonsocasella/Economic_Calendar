@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e62f39c5-b56d-4259-956c-a1f244994269,02/26/2026 10:20:00,BoE's Lombardelli speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 082dc7f0-d64c-449b-a1ec-648353144f58,02/27/2026 00:01:00,GfK Consumer Confidence,MEDIUM,GBP,Release,0.14,Confidence
 581f0a68-98ca-420c-9cf4-e40a763a0d60,02/27/2026 13:00:00,BoE's Pill speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 3e8c5011-9b04-4036-9c94-147bdde64bd5,02/27/2026 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
@@ -763,3 +762,32 @@ c4c13121-5fd4-434a-8929-b58bb8e8e3a8,02/19/2027 07:00:00,Retail Sales (MoM),HIGH
 728840af-601a-4125-8ef5-07f671b7d3c7,02/23/2027 09:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
 3e0d6f1d-7524-4607-9c18-ae424eabcbf5,02/23/2027 09:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
 005c6d43-f296-49b7-899a-191d8f4464eb,02/23/2027 09:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
+d606a5d2-a3f9-47e2-9517-841bfaecbd31,03/01/2027 09:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
+cd232a34-6b78-407e-a683-548eb559ddc4,03/03/2027 09:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
+1527a7c0-cd23-468c-bc3a-82042166b22d,03/03/2027 09:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
+01069b8d-2e65-4b91-b756-58a0929b1a6c,03/04/2027 09:30:00,S&P Global Construction PMI,HIGH,GBP,Release,0.17,Growth
+cd8a1c42-7821-4d59-905b-5fc73cab440e,03/12/2027 09:30:00,Consumer Inflation Expectations,MEDIUM,GBP,Release,0.14,Confidence
+7e8ea661-7876-4e26-b504-566528899d1c,03/16/2027 07:00:00,Average Earnings Excluding Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
+ee1e03ae-a697-40b1-b52e-acc5e850d5f3,03/16/2027 07:00:00,Average Earnings Including Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
+23d2f9c9-c71a-4b9d-b1b2-faee958beeb4,03/16/2027 07:00:00,Claimant Count Change,HIGH,GBP,Release,0.18,Labor Market
+115708a3-8277-42d2-9909-4c529625abae,03/16/2027 07:00:00,Claimant Count Rate,HIGH,GBP,Release,0.18,Labor Market
+342d518e-d168-4d31-8e3e-7277f15ad2e3,03/16/2027 07:00:00,Employment Change (3M),HIGH,GBP,Release,0.18,Labor Market
+5f639373-cfdb-4b0c-a6fa-fd4d4955456d,03/16/2027 07:00:00,ILO Unemployment Rate (3M),HIGH,GBP,Release,0.18,Labor Market
+b8fbab9b-4037-4026-907b-685bd184620e,03/17/2027 07:00:00,Consumer Price Index (MoM),HIGH,GBP,Release,0.19,Inflation
+72d232d7-f72b-4567-b542-58af0cdca145,03/17/2027 07:00:00,Consumer Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
+b6257f69-d686-4388-9bd8-c73f8cf91ba1,03/17/2027 07:00:00,Core Consumer Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
+128d7704-1702-47ba-895a-8e353337fe6f,03/17/2027 07:00:00,Retail Price Index (MoM),HIGH,GBP,Release,0.19,Inflation
+b2108210-fd42-4604-8eca-a5967b8bf7f4,03/17/2027 07:00:00,Retail Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
+553f3226-fbed-4928-850a-9a33b299640d,03/17/2027 09:30:00,DCLG House Price Index (YoY),LOW,GBP,Release,0.07,Housing
+874025ee-abc0-42d6-a7a4-371f8456d52b,03/19/2027 07:00:00,Retail Sales (MoM),HIGH,GBP,Release,0.17,Growth
+2df629fa-b89e-4ac9-8b75-5017b2040893,03/19/2027 07:00:00,Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
+4f7a3877-b9f7-4e50-b079-4c4399de1fc8,03/19/2027 07:00:00,Retail Sales ex-Fuel (MoM),HIGH,GBP,Release,0.17,Growth
+ad3ea79c-79a3-46a3-961e-e960a1f91aca,03/19/2027 07:00:00,Retail Sales ex-Fuel (YoY),HIGH,GBP,Release,0.17,Growth
+508b1d41-aa65-4785-a146-e1129e5ac978,03/23/2027 09:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
+020f5ae7-bb86-4e1d-960d-8025e4a6a4c3,03/23/2027 09:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
+1c500b01-b191-49a3-8f00-b8eb72b468f1,03/23/2027 09:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
+23d454a3-f130-456a-a04f-ad9e51ec5e04,03/30/2027 06:00:00,Gross Domestic Product (QoQ),HIGH,GBP,Release,0.17,Growth
+28eb99d1-d31d-406d-836f-eb6361a63cda,03/30/2027 06:00:00,Gross Domestic Product (YoY),HIGH,GBP,Release,0.17,Growth
+1e4cb826-f51c-4161-98b6-b724e8f056b4,03/30/2027 06:00:00,Total Business Investment (QoQ),HIGH,GBP,Release,0.17,Growth
+a9e6a478-303f-4685-8611-a550016bcad0,03/30/2027 06:00:00,Total Business Investment (YoY),HIGH,GBP,Release,0.17,Growth
+1f927683-f0cd-4e79-b2d7-c1c054c54b66,03/31/2027 06:00:00,Current Account,MEDIUM,GBP,Release,0.11,Trade and External
