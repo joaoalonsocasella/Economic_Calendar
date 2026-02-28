@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a9d577c5-b03a-4ee7-a923-826f2816ff9c,02/27/2026 08:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-52aa45ff-a7ab-427e-91cb-d0f07344d51f,02/27/2026 08:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-990ec352-dcf3-49b5-9903-040df8348a71,02/27/2026 08:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
-ae8007d9-f2b3-44a9-b03a-6bcbc51728e4,02/27/2026 08:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
-0d6fc9fa-322c-401f-a8b9-54885d72d89a,02/27/2026 09:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
 35328a66-16ea-4481-a439-1e63bc40e852,03/02/2026 08:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 50ff00fd-ffd5-42a3-bf34-25ecc0fb808a,03/03/2026 08:00:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
 663f66cf-6cd7-4a23-a88b-a79169ebbdf9,03/03/2026 09:40:00,12-Month Letras Auction,HIGH,EUR,Release,0.383,Money and Credit

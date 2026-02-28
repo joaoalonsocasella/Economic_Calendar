@@ -1,15 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-4bf3c8a8-bfd2-4edb-a5c1-efeddcb4d6d2,02/27/2026 13:30:00,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-f04027d1-701b-4cd4-97b9-b3c2aa384b76,02/27/2026 13:30:00,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-a92022d0-df6d-42c1-8d8f-104acdca46f6,02/27/2026 13:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
-64946464-aff3-44d1-9eec-7dca2bd2fe00,02/27/2026 13:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
-85201eda-3f14-4fff-b5e5-7b61660818f9,02/27/2026 14:45:00,Chicago PMI,MEDIUM,USD,Release,0.14,Confidence
-78f964c8-df30-4df9-aec9-c6572dcb3d21,02/27/2026 15:00:00,Construction Spending (MoM),HIGH,USD,Release,0.17,Growth
-adb4327f-7bf0-46a7-b4b0-1b8367367a0c,02/27/2026 15:00:05,Construction Spending (MoM),HIGH,USD,Release,0.17,Growth
-70ff8c22-d631-4a2a-a604-edaf15b9ae39,02/27/2026 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
-74f74618-9292-494c-8702-d249a9ce8fb1,02/27/2026 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-33ed8479-b69b-47ee-984a-7ea1702ed558,02/27/2026 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-39df0c54-7a36-4bb5-a099-135004455de3,02/27/2026 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 835b3265-7d94-462f-b5e1-843ef5bdb18d,03/02/2026 14:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 051b2ef0-a900-41fa-90dd-9e815457d29e,03/02/2026 15:00:00,ISM Manufacturing Employment Index,HIGH,USD,Release,0.18,Labor Market
 c948ab7a-abc4-4867-978a-47c50406cf82,03/02/2026 15:00:00,ISM Manufacturing New Orders Index,HIGH,USD,Release,0.17,Growth
@@ -58,10 +47,10 @@ dee1e29c-9dcb-4dbe-abc5-fdbb2b3ece70,03/06/2026 13:30:00,U6 Underemployment Rate
 19fa9342-9fb7-486e-9fa4-31f50c6646ab,03/06/2026 13:30:00,Unemployment Rate,HIGH,USD,Release,0.18,Labor Market
 8aab3819-17bc-420b-9a0a-56b06f4a3489,03/06/2026 15:00:00,Business Inventories,HIGH,USD,Release,0.17,Growth
 27ff3534-150a-4fe5-b51c-7fca7d24cc15,03/06/2026 16:00:00,Fed Monetary Policy Report,MEDIUM,USD,Speech,0.13,Monetary Policy
+85733096-347b-4c23-a244-5885a026a2a1,03/06/2026 17:00:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+4d203a84-76f1-41fb-a7be-e862b4fdc020,03/06/2026 17:00:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+74f9ef82-d117-4fe0-a79e-9c65b2ffd11b,03/06/2026 17:00:00,Fed's Paulson speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 58d734ed-4d21-4c43-9cb1-a3401c101888,03/06/2026 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
-85733096-347b-4c23-a244-5885a026a2a1,03/06/2026 18:30:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-4d203a84-76f1-41fb-a7be-e862b4fdc020,03/06/2026 18:30:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-74f9ef82-d117-4fe0-a79e-9c65b2ffd11b,03/06/2026 18:30:00,Fed's Paulson speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 a04db92a-4736-471d-ac20-79a72803a574,03/06/2026 20:00:00,Consumer Credit Change,MEDIUM,USD,Release,0.14,Confidence
 26ce1108-b8a3-4710-b659-5b296559a95c,03/06/2026 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 f77d7ce8-4b56-4319-8d27-4a26c91a5c88,03/06/2026 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
