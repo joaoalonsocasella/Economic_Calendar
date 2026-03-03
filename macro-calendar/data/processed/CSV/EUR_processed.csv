@@ -1,8 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a09ea1eb-956c-4cea-89b1-dd410aef78e4,03/02/2026 09:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
-e7f39147-9d8b-4d40-b35c-7e0ffdc42258,03/02/2026 09:15:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy
-242f16fb-2151-4192-a15b-b9533ae9ee2a,03/02/2026 14:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-dbe51747-e194-4c8c-8d50-1450c840257e,03/02/2026 14:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
+fc07be77-a517-41cf-a4ca-bc59c030a984,03/03/2026 05:10:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
+517d6d75-e7af-419a-b32d-628aa4afcde8,03/03/2026 08:00:00,ECB's Villeroy speech,HIGH,EUR,Speech,0.552,Monetary Policy
 c123b003-9225-4a7e-8b10-17ece34f996f,03/03/2026 10:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 7514edc5-4e58-455d-9355-b20257bd7fde,03/03/2026 10:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.807,Inflation
 668e2b74-9002-4ea3-b1f2-c9172e7061e6,03/03/2026 10:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
@@ -16,6 +14,7 @@ b57382dd-001e-4972-b165-d9e5c50fe456,03/03/2026 16:00:00,ECB's Kocher speech,HIG
 40d2870f-aad5-481c-85e8-5a74a870987a,03/04/2026 10:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
 382ace83-312d-47a1-83bc-abc5c69ed3f8,03/04/2026 10:45:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
 ea39d041-0a55-4856-a2db-230a5d3eb5d9,03/04/2026 13:30:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
+a5db2e15-83e9-402a-8e90-fa00dba23133,03/04/2026 15:00:00,ECB's Panetta speech,HIGH,EUR,Speech,0.552,Monetary Policy
 c6699f6e-efeb-475e-93f0-2d042f4ca952,03/05/2026 08:50:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
 d15c1031-3dc8-4335-944e-02b481107e7f,03/05/2026 10:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
 aad23e36-b451-4475-bf74-bbca38f7081a,03/05/2026 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
@@ -36,20 +35,20 @@ cdba8831-5d30-46b1-97cb-1209336b04d1,03/06/2026 20:30:00,CFTC EUR NC Net Positio
 081eeb10-b0d9-4078-a2ab-2257e185f615,03/13/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 78860f0f-ef7f-4181-a251-3c0e50ef708f,03/16/2026 10:00:00,Trade Balance n.s.a.,HIGH,EUR,Release,0.468,Trade and External
 d8f8972d-24d2-47dc-9493-0f5dca7becb8,03/16/2026 10:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External
-c661a3ae-34c5-4f7c-97ac-bf5faef5e784,03/17/2026 10:00:00,Labor Cost Index,HIGH,EUR,Release,0.765,Labor Market
 8b8faf4f-50c2-4030-bce1-2b2f9344f9c9,03/17/2026 10:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
-5243ce94-05b0-40e5-a699-f00c2c7e12f4,03/18/2026 09:00:00,Current Account n.s.a,HIGH,EUR,Release,0.468,Trade and External
-161c13a8-eb3b-4fd2-9dca-eefec9cc4788,03/18/2026 09:00:00,Current Account s.a,HIGH,EUR,Release,0.468,Trade and External
-59dd60c0-0535-47cf-8997-97a9fefc5f8a,03/18/2026 10:00:00,Construction Output  s.a (MoM),HIGH,EUR,Release,0.297,Housing
-658e44da-887e-449c-904f-b57d942d36b2,03/18/2026 10:00:00,Construction Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
 21fc62fe-587a-4c9a-8f09-059db8f010a9,03/18/2026 10:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 0821c550-f37a-49cf-9e55-3ea41ddf0c34,03/18/2026 10:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.807,Inflation
 37e98843-5c75-46ec-8aa1-519d1b5a5dee,03/18/2026 10:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 7911a885-800c-47b3-b296-a31dad254c46,03/18/2026 10:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+59dd60c0-0535-47cf-8997-97a9fefc5f8a,03/19/2026 10:00:00,Construction Output  s.a (MoM),HIGH,EUR,Release,0.297,Housing
+658e44da-887e-449c-904f-b57d942d36b2,03/19/2026 10:00:00,Construction Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
+c661a3ae-34c5-4f7c-97ac-bf5faef5e784,03/19/2026 10:00:00,Labor Cost Index,HIGH,EUR,Release,0.765,Labor Market
 32bc301f-5454-481b-af06-a67e6f265b9a,03/19/2026 13:15:00,ECB Main Refinancing Operations Rate,HIGH,EUR,Speech,0.552,Monetary Policy
 dee56c72-1b72-41a7-9f25-a71f31ae994a,03/19/2026 13:15:00,ECB Monetary Policy Statement,HIGH,EUR,Speech,0.552,Monetary Policy
 891d1afd-3da9-4a5e-b3e9-a4229e6b8482,03/19/2026 13:15:00,ECB Rate On Deposit Facility,HIGH,EUR,Release,0.85,Monetary Policy
 23f59d2d-d266-4d09-888c-b6114cb3edd5,03/19/2026 13:45:00,ECB Press Conference,HIGH,EUR,Speech,0.552,Monetary Policy
+5243ce94-05b0-40e5-a699-f00c2c7e12f4,03/20/2026 09:00:00,Current Account n.s.a,HIGH,EUR,Release,0.468,Trade and External
+161c13a8-eb3b-4fd2-9dca-eefec9cc4788,03/20/2026 09:00:00,Current Account s.a,HIGH,EUR,Release,0.468,Trade and External
 f9d79726-2dea-4588-95e7-f2d352d9aabc,03/20/2026 15:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 2223021e-3b40-4def-ac03-9d7895ad8fc6,03/20/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 89d0ab46-5d93-4497-a84b-7c99566fdba1,03/23/2026 08:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth

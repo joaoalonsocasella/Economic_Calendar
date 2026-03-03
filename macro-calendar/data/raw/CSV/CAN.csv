@@ -1,7 +1,6 @@
 Id,Start,Name,Impact,Currency
-0c25b1c5-033e-48e8-83a7-53077d169c46,03/02/2026 14:30:00,S&P Global Manufacturing PMI,MEDIUM,CAD
-b711dcea-34c2-4cfc-aa7e-fd680762199e,03/04/2026 12:00:00,BoC's Governor Macklem speech,HIGH,CAD
 f6d6e779-7bc8-4110-b9cb-f2a15e9754a0,03/04/2026 13:30:00,Labor Productivity (QoQ),LOW,CAD
+b711dcea-34c2-4cfc-aa7e-fd680762199e,03/04/2026 15:30:00,BoC's Governor Macklem speech,HIGH,CAD
 d19fe634-5aeb-4f07-892b-08ebb3fbedff,03/06/2026 15:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD
 bc3018ea-87c1-4cb9-af24-a49c1b6074fd,03/06/2026 15:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD
 7e61533b-1c1d-4d02-98cf-35a79f592299,03/08/2026 07:00:00," Daylight Saving Time ",NONE,CAD
@@ -22,8 +21,8 @@ ded5d0a3-889e-4195-836c-1525ec505fdd,03/16/2026 12:30:00,BoC Consumer Price Inde
 e258c1eb-c02c-4eef-b62d-580b45a41151,03/16/2026 12:30:00,Consumer Price Index - Core (MoM),LOW,CAD
 286d48fd-4d1f-47fe-8238-6e5080070c60,03/16/2026 12:30:00,Consumer Price Index (MoM),MEDIUM,CAD
 56c9e336-b458-4cc8-bd83-be3e058fddb9,03/16/2026 12:30:00,Consumer Price Index (YoY),HIGH,CAD
-cfebbcf6-2b4c-4623-a56c-4df6641a5e57,03/17/2026 12:30:00,Canadian Portfolio Investment in Foreign Securities,LOW,CAD
-e0df0b16-88c3-4e37-9618-1871997c79bf,03/17/2026 12:30:00,Foreign Portfolio Investment in Canadian Securities,LOW,CAD
+cfebbcf6-2b4c-4623-a56c-4df6641a5e57,03/18/2026 12:30:00,Canadian Portfolio Investment in Foreign Securities,LOW,CAD
+e0df0b16-88c3-4e37-9618-1871997c79bf,03/18/2026 12:30:00,Foreign Portfolio Investment in Canadian Securities,LOW,CAD
 f986b1a4-1b2d-4422-ad18-00ac7194c945,03/18/2026 13:45:00,BoC Interest Rate Decision,HIGH,CAD
 e4406d03-8ad1-4e2a-b5ae-5148fbce70a0,03/18/2026 13:45:00,BoC Monetary Policy Statement,HIGH,CAD
 f1b1f2c8-6307-4dca-9fc6-d90896f89da4,03/18/2026 14:30:00,BoC Press Conference,HIGH,CAD

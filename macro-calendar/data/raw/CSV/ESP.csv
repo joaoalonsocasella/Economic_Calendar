@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-35328a66-16ea-4481-a439-1e63bc40e852,03/02/2026 08:15:00,HCOB Manufacturing PMI,MEDIUM,EUR
 50ff00fd-ffd5-42a3-bf34-25ecc0fb808a,03/03/2026 08:00:00,Unemployment Change,LOW,EUR
 663f66cf-6cd7-4a23-a88b-a79169ebbdf9,03/03/2026 09:40:00,12-Month Letras Auction,LOW,EUR
 d9ad804b-8ad2-4227-848c-310e1bb1e020,03/03/2026 09:40:00,6-Month Letras Auction,LOW,EUR
@@ -7,7 +6,6 @@ d9ad804b-8ad2-4227-848c-310e1bb1e020,03/03/2026 09:40:00,6-Month Letras Auction,
 1fb1ebdc-8828-4f79-8e7b-5657b7058691,03/05/2026 08:00:00,Industrial Output Cal Adjusted (YoY),LOW,EUR
 ef4f4a00-9512-4d71-92c6-f4c48705f1f9,03/05/2026 09:40:00,10-y Obligaciones Auction,LOW,EUR
 8e87d19f-2e71-414a-8c81-b885c603a462,03/05/2026 09:40:00,3-y Bond Auction,LOW,EUR
-1ba76f5f-598b-4d3c-9c51-bfe93341ac81,03/05/2026 09:40:00,5-y Bond Auction,LOW,EUR
 106a30be-fb09-485e-8aed-14cf8c788858,03/10/2026 09:40:00,3-Month Letras Auction,LOW,EUR
 00a2424a-2040-4299-b323-cd8e2de3b7e9,03/10/2026 09:40:00,9-Month Letras Auction,LOW,EUR
 e018d1f6-0754-4cea-89ea-635b94de86ec,03/11/2026 08:00:00,Retail Sales (YoY),LOW,EUR
@@ -15,6 +13,9 @@ e018d1f6-0754-4cea-89ea-635b94de86ec,03/11/2026 08:00:00,Retail Sales (YoY),LOW,
 5a655a2a-24f6-451b-a43d-ba285b6940bf,03/13/2026 08:00:00,Consumer Price Index (YoY),LOW,EUR
 d7ba3ffa-e99f-4be1-83c1-f2c10b64482a,03/13/2026 08:00:00,Harmonized Index of Consumer Prices (MoM),LOW,EUR
 bb4135fd-1119-4724-b7f8-47614a1f9593,03/13/2026 08:00:00,Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
+87facc1b-d8b8-4ba0-90de-d6f6fb9c572c,03/19/2026 09:40:00,10-y Obligaciones Auction,LOW,EUR
+bc5681c6-377c-43ef-aab3-3f8ad2426054,03/19/2026 09:40:00,3-y Bond Auction,LOW,EUR
+c1b4254c-dad9-4486-9540-e3e1ad2f5470,03/19/2026 09:40:00,5-y Bond Auction,LOW,EUR
 8cd22e8e-dc22-44e0-a40d-1479c97a497f,03/26/2026 08:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR
 d4db8e6e-35d3-4794-a86e-4b9fa8a15d7e,03/26/2026 08:00:00,Gross Domestic Product (YoY),LOW,EUR
 ee3e4679-7fc7-4e62-b2c3-f338b16b25db,03/27/2026 08:00:00,Consumer Price Index (MoM),LOW,EUR

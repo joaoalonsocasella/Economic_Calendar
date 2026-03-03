@@ -1,10 +1,4 @@
 Id,Start,Name,Impact,Currency
-bdbecc09-2e09-48d8-aeae-4ff201a0a5ba,03/02/2026 00:00:00,TD-MI Inflation Gauge (MoM),LOW,AUD
-0ceddcc8-723c-417f-a0e4-3af4ad43ccdf,03/02/2026 00:00:00,TD-MI Inflation Gauge (YoY),MEDIUM,AUD
-437d3676-1b1b-4e0d-9fd1-0ae5b15d40d9,03/02/2026 00:30:00,ANZ Job Advertisements,LOW,AUD
-97564974-2267-4d66-bcb3-a96a23beb609,03/02/2026 00:30:00,Company Gross Operating Profits (QoQ),LOW,AUD
-1c425b57-a6cd-4351-b687-d47dc7abad8b,03/02/2026 05:30:00,RBA Commodity Index SDR (YoY),LOW,AUD
-05712f81-4fd7-424e-bd2c-69c3570c4057,03/02/2026 21:10:00,RBA Governor Bullock speech,HIGH,AUD
 2270e8ac-0b5c-4380-b6ab-51ae4cf72180,03/03/2026 00:30:00,Building Permits (MoM),MEDIUM,AUD
 bf66bcf6-b095-4ca6-a130-44dc6f8f4f45,03/03/2026 00:30:00,Building Permits (YoY),LOW,AUD
 1f0e179f-57de-4cf0-b63e-c1eeb69a3522,03/03/2026 00:30:00,Current Account Balance,LOW,AUD

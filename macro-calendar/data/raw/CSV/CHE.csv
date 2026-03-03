@@ -1,13 +1,11 @@
 Id,Start,Name,Impact,Currency
-65f911f5-55f1-4fed-8850-bab1544e1387,03/02/2026 07:30:00,Real Retail Sales (YoY),MEDIUM,CHF
-12702a31-4092-4775-ae28-fd416e23092b,03/02/2026 08:30:00,SVME - Purchasing Managers' Index,LOW,CHF
 bed3c80d-ea31-41ac-9cba-c8642326416a,03/04/2026 07:30:00,Consumer Price Index (MoM),MEDIUM,CHF
 edeab440-a957-48b0-a449-65c5ecce7151,03/04/2026 07:30:00,Consumer Price Index (YoY),HIGH,CHF
 1e1553d5-2e58-4218-b48c-d38609fbbf6e,03/05/2026 08:00:00,Unemployment Rate s.a (MoM),LOW,CHF
 488e8197-89c1-40e1-9403-ff068275fb45,03/06/2026 08:00:00,Foreign Currency Reserves,LOW,CHF
-d652f063-1ea7-4597-8b78-3868ea31efe1,03/16/2026 08:00:00,SECO Economic Forecasts,LOW,CHF
 29540070-6796-4e29-8355-b59807122097,03/17/2026 07:30:00,Producer and Import Prices (MoM),LOW,CHF
 b127c825-3a92-467b-b504-43582a1f55d1,03/17/2026 07:30:00,Producer and Import Prices (YoY),LOW,CHF
+d652f063-1ea7-4597-8b78-3868ea31efe1,03/18/2026 08:00:00,SECO Economic Forecasts,LOW,CHF
 aea1f7f2-aa81-4084-952b-65774db11c4b,03/19/2026 07:00:00,Exports (MoM),LOW,CHF
 ccdb4de0-7e93-4462-af2b-bfef5b0cca0f,03/19/2026 07:00:00,Imports (MoM),LOW,CHF
 e2cd23e7-8f87-4924-9fce-103c6473cd1b,03/19/2026 07:00:00,Trade Balance,LOW,CHF
