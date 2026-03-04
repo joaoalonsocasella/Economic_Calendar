@@ -1,12 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-2270e8ac-0b5c-4380-b6ab-51ae4cf72180,03/03/2026 00:30:00,Building Permits (MoM),LOW,AUD,Release,0.07,Housing
-bf66bcf6-b095-4ca6-a130-44dc6f8f4f45,03/03/2026 00:30:00,Building Permits (YoY),LOW,AUD,Release,0.07,Housing
-1f0e179f-57de-4cf0-b63e-c1eeb69a3522,03/03/2026 00:30:00,Current Account Balance,MEDIUM,AUD,Release,0.11,Trade and External
-a8a09064-9b13-4285-a792-a5e6c1d4b451,03/03/2026 22:00:00,Ai Group Construction PMI,HIGH,AUD,Release,0.17,Growth
-8bb16f93-1d71-4090-bbff-860e929c04a5,03/03/2026 22:00:00,Ai Group Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
-fcfa94f9-def4-4c71-8776-6ae50fa1c344,03/03/2026 22:00:00,AiG Industry Index,HIGH,AUD,Release,0.17,Growth
-86eecd1b-030e-429c-856b-35e613b65e3c,03/03/2026 22:00:00,S&P Global Composite PMI,HIGH,AUD,Release,0.17,Growth
-85de2f0c-b252-48e3-9a3f-9a048a7b317a,03/03/2026 22:00:00,S&P Global Services PMI,HIGH,AUD,Release,0.17,Growth
 90d1a735-f457-486e-b9bc-560f9f508e62,03/04/2026 00:30:00,Gross Domestic Product (QoQ),HIGH,AUD,Release,0.17,Growth
 76c31add-ac12-463a-b0aa-8bfd4e4d948c,03/04/2026 00:30:00,Gross Domestic Product (YoY),HIGH,AUD,Release,0.17,Growth
 6b956199-c397-4f92-8417-619c768a93ce,03/05/2026 00:30:00,Exports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
