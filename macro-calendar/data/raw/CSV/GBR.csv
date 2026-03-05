@@ -1,6 +1,4 @@
 Id,Start,Name,Impact,Currency
-20064a7f-1126-4365-bf2e-fbc19fd041d4,03/04/2026 09:30:00,S&P Global Composite PMI,LOW,GBP
-f03025e2-4168-4a95-be15-016197868f48,03/04/2026 09:30:00,S&P Global Services PMI,LOW,GBP
 0fb30aa2-0680-4f03-9503-baa8a10407ed,03/05/2026 09:30:00,S&P Global Construction PMI,LOW,GBP
 b30e4de1-aea8-4add-8cca-ef81d283cd26,03/06/2026 07:00:00,Halifax House Prices (MoM),LOW,GBP
 d84c1966-d09e-4873-96bd-498a014822cd,03/06/2026 07:00:00,Halifax House Prices (YoY/3m),LOW,GBP
@@ -774,6 +772,7 @@ ad3ea79c-79a3-46a3-961e-e960a1f91aca,03/19/2027 07:00:00,Retail Sales ex-Fuel (Y
 508b1d41-aa65-4785-a146-e1129e5ac978,03/23/2027 09:30:00,S&P Global Composite PMI,HIGH,GBP
 020f5ae7-bb86-4e1d-960d-8025e4a6a4c3,03/23/2027 09:30:00,S&P Global Manufacturing PMI,HIGH,GBP
 1c500b01-b191-49a3-8f00-b8eb72b468f1,03/23/2027 09:30:00,S&P Global Services PMI,HIGH,GBP
+f52d4572-e92f-4da1-8e57-6644a38349eb,03/28/2027 01:00:00,Daylight Saving Time,NONE,GBP
 23d454a3-f130-456a-a04f-ad9e51ec5e04,03/30/2027 06:00:00,Gross Domestic Product (QoQ),HIGH,GBP
 28eb99d1-d31d-406d-836f-eb6361a63cda,03/30/2027 06:00:00,Gross Domestic Product (YoY),HIGH,GBP
 1e4cb826-f51c-4161-98b6-b724e8f056b4,03/30/2027 06:00:00,Total Business Investment (QoQ),LOW,GBP

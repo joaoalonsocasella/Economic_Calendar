@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-bed3c80d-ea31-41ac-9cba-c8642326416a,03/04/2026 07:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
-edeab440-a957-48b0-a449-65c5ecce7151,03/04/2026 07:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation
 1e1553d5-2e58-4218-b48c-d38609fbbf6e,03/05/2026 08:00:00,Unemployment Rate s.a (MoM),HIGH,CHF,Release,0.18,Labor Market
 488e8197-89c1-40e1-9403-ff068275fb45,03/06/2026 08:00:00,Foreign Currency Reserves,LOW,CHF,Release,0.09,Money and Credit
 29540070-6796-4e29-8355-b59807122097,03/17/2026 07:30:00,Producer and Import Prices (MoM),HIGH,CHF,Release,0.19,Inflation

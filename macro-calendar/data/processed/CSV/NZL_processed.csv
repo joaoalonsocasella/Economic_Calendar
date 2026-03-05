@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-b6503ae8-d0af-4cdf-bdf4-8e38d4fbdcb3,03/04/2026 00:00:00,ANZ Commodity Price,MEDIUM,NZD,Release,0.14,Confidence
 b0907f42-78b2-4697-a065-abf3f4fe2e40,03/11/2026 21:45:00,Manufacturing Sales,HIGH,NZD,Release,0.17,Growth
 380789b2-5701-47cf-94ea-23374bc9e1d9,03/12/2026 21:30:00,Business NZ PMI,HIGH,NZD,Release,0.17,Growth
 03cf5dfa-380b-44b2-a058-fd6a89470ba9,03/12/2026 21:45:00,Visitor Arrivals (YoY),HIGH,NZD,Release,0.19,Inflation

@@ -1,14 +1,4 @@
 Id,Start,Name,Impact,Currency
-a2f2a5cb-342f-4a53-aec2-ecc587140b94,03/04/2026 12:00:00,MBA Mortgage Applications,LOW,USD
-5203e68a-d0e6-4374-ba75-9bc8081a5ea9,03/04/2026 13:15:00,ADP Employment Change,HIGH,USD
-28f046f9-46d5-46e3-ba5c-3973154f73fb,03/04/2026 14:45:00,S&P Global Composite PMI,MEDIUM,USD
-b3905a42-6afe-438b-8269-18c535696012,03/04/2026 14:45:00,S&P Global Services PMI,LOW,USD
-1e59c704-4515-4995-ba71-27a336925780,03/04/2026 15:00:00,ISM Services Employment Index,MEDIUM,USD
-2d2edbf0-07f9-4464-a29c-661c47bc7d1b,03/04/2026 15:00:00,ISM Services New Orders Index,MEDIUM,USD
-6638ce76-00c6-4afb-9dfe-7a11dc5a24ca,03/04/2026 15:00:00,ISM Services PMI,HIGH,USD
-4afb0b2a-a3b6-4d9e-894f-6a4788cd793d,03/04/2026 15:00:00,ISM Services Prices Paid,MEDIUM,USD
-7f81906c-4ded-41bd-abe8-78e1d9aa4959,03/04/2026 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
-deaec9cd-a24c-4cf5-af63-8723ff1d0abb,03/04/2026 19:00:00,Fed's Beige Book,MEDIUM,USD
 5feb9ffb-c1f1-4f4d-897d-fc527f185112,03/05/2026 12:30:00,Challenger Job Cuts,MEDIUM,USD
 1f7cc80f-7fcb-4730-a800-0445010890d1,03/05/2026 13:30:00,Continuing Jobless Claims,LOW,USD
 aea794b5-59c8-48c4-bb45-a2b5b2102613,03/05/2026 13:30:00,Export Price Index (MoM),LOW,USD
@@ -39,6 +29,7 @@ dee1e29c-9dcb-4dbe-abc5-fdbb2b3ece70,03/06/2026 13:30:00,U6 Underemployment Rate
 27ff3534-150a-4fe5-b51c-7fca7d24cc15,03/06/2026 16:00:00,Fed Monetary Policy Report,MEDIUM,USD
 4d203a84-76f1-41fb-a7be-e862b4fdc020,03/06/2026 16:30:00,Fed's Hammack speech,MEDIUM,USD
 58d734ed-4d21-4c43-9cb1-a3401c101888,03/06/2026 18:00:00,Baker Hughes US Oil Rig Count,LOW,USD
+c47ed9b8-86d7-4647-a56a-c0c39b6b50c3,03/06/2026 18:20:00,Fed's Collins speech,MEDIUM,USD
 a04db92a-4736-471d-ac20-79a72803a574,03/06/2026 20:00:00,Consumer Credit Change,LOW,USD
 26ce1108-b8a3-4710-b659-5b296559a95c,03/06/2026 20:30:00,CFTC Gold NC Net Positions,LOW,USD
 f77d7ce8-4b56-4319-8d27-4a26c91a5c88,03/06/2026 20:30:00,CFTC Oil NC Net Positions,LOW,USD
