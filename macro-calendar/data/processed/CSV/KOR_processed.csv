@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-122e1cb6-24d7-4b9a-98e1-9ef9d2c14343,03/05/2026 23:00:00,Consumer Price Index Growth (MoM),HIGH,KRW,Release,0.19,Inflation
-a6d82db3-d3df-4a07-afb0-f60ae0f5bc55,03/05/2026 23:00:00,Consumer Price Index Growth (YoY),HIGH,KRW,Release,0.19,Inflation
-0f102802-62ef-45e7-b353-af7efb884e51,03/05/2026 23:00:00,Current Account Balance,MEDIUM,KRW,Release,0.11,Trade and External
 c878c707-3d55-4588-ba3b-5140815f75d4,03/09/2026 23:00:00,Gross Domestic Product Growth (QoQ) ,HIGH,KRW,Release,0.17,Growth
 f78f4213-e184-4421-97b1-7fd1caf9e47c,03/09/2026 23:00:00,Gross Domestic Product Growth (YoY),HIGH,KRW,Release,0.17,Growth
 b6bab947-eaa1-4ed7-b386-3b86ec9e3e7f,03/15/2026 23:55:00,Trade Balance,MEDIUM,KRW,Release,0.11,Trade and External

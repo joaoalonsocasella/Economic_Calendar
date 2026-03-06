@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-482430b1-fed5-4374-9f38-35cd2c4660a3,03/05/2026 12:00:00,Unemployment Rate,HIGH,BRL,Release,0.18,Labor Market
-453debaf-80c2-4f9d-a72f-3f0150cc8e1e,03/05/2026 18:00:00,Trade Balance,MEDIUM,BRL,Release,0.11,Trade and External
 5f0aa085-7488-43e0-964d-3bc98d373537,03/06/2026 12:00:00,Industrial Output (MoM),HIGH,BRL,Release,0.17,Growth
 547cd95c-8786-4b12-9a7b-6eb070264c0e,03/06/2026 12:00:00,Industrial Output (YoY),HIGH,BRL,Release,0.17,Growth
 a6fda407-b56b-4ae4-b372-42dfa1a895b5,03/11/2026 12:00:00,Retail Sales (MoM),HIGH,BRL,Release,0.17,Growth

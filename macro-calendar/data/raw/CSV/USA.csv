@@ -1,17 +1,5 @@
 Id,Start,Name,Impact,Currency
-5feb9ffb-c1f1-4f4d-897d-fc527f185112,03/05/2026 12:30:00,Challenger Job Cuts,MEDIUM,USD
-1f7cc80f-7fcb-4730-a800-0445010890d1,03/05/2026 13:30:00,Continuing Jobless Claims,LOW,USD
-aea794b5-59c8-48c4-bb45-a2b5b2102613,03/05/2026 13:30:00,Export Price Index (MoM),LOW,USD
-46c783ea-4281-486a-9df9-4d45b728a4fe,03/05/2026 13:30:00,Export Price Index (YoY),LOW,USD
-9709a588-d26b-410b-bd5d-cf2d4524f3bd,03/05/2026 13:30:00,Import Price Index (MoM),LOW,USD
-2bce40f9-f42d-4020-adb9-fa45f07b42cc,03/05/2026 13:30:00,Import Price Index (YoY),LOW,USD
-d95bb0fc-7e01-4627-9242-1135dc5613c8,03/05/2026 13:30:00,Initial Jobless Claims,MEDIUM,USD
-8478dd0c-af5b-4101-9a35-e4b8f17eeb4a,03/05/2026 13:30:00,Initial Jobless Claims 4-week average,LOW,USD
-909c95aa-3de4-487d-a036-16109b7c1071,03/05/2026 13:30:00,Nonfarm Productivity,MEDIUM,USD
-56adee5b-3fc9-49b4-aea1-454c88107f44,03/05/2026 13:30:00,Unit Labor Costs,MEDIUM,USD
-c96bf3fb-effc-47a4-8a60-60a5e90d8809,03/05/2026 15:30:00,EIA Natural Gas Storage Change,LOW,USD
-977d2e88-eb6c-44c9-aa4c-f6af098d8637,03/05/2026 16:30:00,4-Week Bill Auction,LOW,USD
-ce3b227c-ad1a-41c0-a335-c55c6a8940dd,03/05/2026 18:15:00,Fed's Bowman speech,MEDIUM,USD
+c3f7d2e5-69c4-4590-8662-c9a16c1137eb,03/06/2026 00:30:00,Fed's Goolsbee speech,MEDIUM,USD
 9a0a1ea5-52de-4476-9dd2-b18e733f465e,03/06/2026 13:30:00,Average Hourly Earnings (MoM),HIGH,USD
 2205b8a3-bb5a-4b1c-9f09-1d00484257aa,03/06/2026 13:30:00,Average Hourly Earnings (YoY),HIGH,USD
 9d0cb4c9-3c1b-4f54-a4ce-b5441507791b,03/06/2026 13:30:00,Average Weekly Hours,LOW,USD
@@ -23,11 +11,13 @@ a217f090-2d0b-4007-9d3b-c1d284ae0a39,03/06/2026 13:30:00,Retail Sales (YoY),LOW,
 a94cf01a-de2e-49be-bd2f-9de97d3ae8f7,03/06/2026 13:30:00,Retail Sales ex Autos (MoM),MEDIUM,USD
 dee1e29c-9dcb-4dbe-abc5-fdbb2b3ece70,03/06/2026 13:30:00,U6 Underemployment Rate,MEDIUM,USD
 19fa9342-9fb7-486e-9fa4-31f50c6646ab,03/06/2026 13:30:00,Unemployment Rate,MEDIUM,USD
+024b49b2-f06d-449a-8411-b6f26c8cdffc,03/06/2026 13:40:00,Fed's Daly speech,MEDIUM,USD
 8aab3819-17bc-420b-9a0a-56b06f4a3489,03/06/2026 15:00:00,Business Inventories,LOW,USD
 85733096-347b-4c23-a244-5885a026a2a1,03/06/2026 15:15:00,Fed's Daly speech,MEDIUM,USD
 74f9ef82-d117-4fe0-a79e-9c65b2ffd11b,03/06/2026 15:15:00,Fed's Paulson speech,MEDIUM,USD
 27ff3534-150a-4fe5-b51c-7fca7d24cc15,03/06/2026 16:00:00,Fed Monetary Policy Report,MEDIUM,USD
 4d203a84-76f1-41fb-a7be-e862b4fdc020,03/06/2026 16:30:00,Fed's Hammack speech,MEDIUM,USD
+3600d2cc-0ccf-41b4-8489-d7f13a662607,03/06/2026 16:30:00,Fed's Schmid speech,MEDIUM,USD
 58d734ed-4d21-4c43-9cb1-a3401c101888,03/06/2026 18:00:00,Baker Hughes US Oil Rig Count,LOW,USD
 c47ed9b8-86d7-4647-a56a-c0c39b6b50c3,03/06/2026 18:20:00,Fed's Collins speech,MEDIUM,USD
 a04db92a-4736-471d-ac20-79a72803a574,03/06/2026 20:00:00,Consumer Credit Change,LOW,USD
@@ -52,6 +42,7 @@ a9db1f51-7658-49ba-8055-5c0533b00992,03/11/2026 12:30:00,Consumer Price Index Co
 5171b0e8-2d92-4efb-a830-cea8e915371c,03/11/2026 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
 47b28b28-9c56-4288-8912-faa97ac4cc48,03/11/2026 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
 e0dddd17-4bc3-49de-a369-21806336d92a,03/11/2026 12:30:00,Consumer Price Index n.s.a (MoM),LOW,USD
+1300b558-b046-4ee8-8c9d-7e2c17352ae4,03/11/2026 12:30:00,Fed's Bowman speech,MEDIUM,USD
 48269298-f9b8-4e15-b7fb-57567e2b9958,03/11/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
 eaa8893e-b4b7-446a-bd44-f65d140345de,03/11/2026 17:00:00,10-Year Note Auction,LOW,USD
 039d2441-e60a-4e36-a57f-d48d4cdfc6b2,03/12/2026 12:30:00,Building Permits (MoM),MEDIUM,USD
@@ -64,6 +55,7 @@ da6ff107-8032-40ea-9f2c-de716126d22c,03/12/2026 12:30:00,Initial Jobless Claims 
 f91284f5-2e9d-497d-8998-52aee80eb057,03/12/2026 13:30:00,Goods and Services Trade Balance,LOW,USD
 81fefbe5-d900-44f8-872c-c5323328f213,03/12/2026 13:30:00,Goods Trade Balance,LOW,USD
 4e6f2810-8154-4000-8da7-26ead2bb926e,03/12/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
+63d80729-7bbe-4636-8004-a0fc22b10843,03/12/2026 15:00:00,Fed's Bowman speech,MEDIUM,USD
 b4341b9a-1c36-46bd-a11b-7b77526304c6,03/12/2026 15:30:00,4-Week Bill Auction,LOW,USD
 c5b19121-b9d1-484f-818a-f79a462e4701,03/12/2026 17:00:00,30-Year Bond Auction,LOW,USD
 286fc15b-ab44-44e5-afe0-3be33ef6ee8d,03/12/2026 18:00:00,Monthly Budget Statement,MEDIUM,USD

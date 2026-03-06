@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-84ae8461-ffda-45c3-a932-1ff5135d1437,03/05/2026 07:00:00,Consumer Price Index (MoM),HIGH,SEK,Release,0.19,Inflation
-3d50d8d6-b2bc-42e2-8503-6b5aad4ffc93,03/05/2026 07:00:00,Consumer Price Index (YoY),HIGH,SEK,Release,0.19,Inflation
 49d38c7b-dfcc-4f5e-8375-477d6203d0f1,03/06/2026 07:00:00,Current Account (QoQ),MEDIUM,SEK,Release,0.11,Trade and External
 6b87c2d0-78ef-4e33-b02b-a9dbcb8d2e93,03/10/2026 07:00:00,Industrial Production Value (MoM),HIGH,SEK,Release,0.17,Growth
 ee918646-f0eb-4e41-b0b8-e6d8dd210906,03/10/2026 07:00:00,Industrial Production Value (YoY),HIGH,SEK,Release,0.17,Growth

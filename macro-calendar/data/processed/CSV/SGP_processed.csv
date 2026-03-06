@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-cf33a5d1-d2f6-4225-8c24-8b2bf1208bec,03/05/2026 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
-a9d8e75a-d3da-45c8-8c4e-de84904b7277,03/05/2026 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
 87d2fa4b-9f55-4ed0-a1e7-36201d10b7bd,03/09/2026 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
 8067443c-51c4-4af4-8fbd-54438fb74d3e,03/17/2026 01:30:00,Unemployment rate,HIGH,SGD,Release,0.18,Labor Market
 c68eab80-8134-43ff-8655-04d7f942b694,03/23/2026 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
