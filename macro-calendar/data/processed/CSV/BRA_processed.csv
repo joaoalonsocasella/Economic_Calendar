@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-5f0aa085-7488-43e0-964d-3bc98d373537,03/06/2026 12:00:00,Industrial Output (MoM),HIGH,BRL,Release,0.17,Growth
-547cd95c-8786-4b12-9a7b-6eb070264c0e,03/06/2026 12:00:00,Industrial Output (YoY),HIGH,BRL,Release,0.17,Growth
 a6fda407-b56b-4ae4-b372-42dfa1a895b5,03/11/2026 12:00:00,Retail Sales (MoM),HIGH,BRL,Release,0.17,Growth
 c9a47c4d-2b8f-4db1-9d3f-86010eea1049,03/12/2026 12:00:00,IPCA Inflation,HIGH,BRL,Release,0.19,Inflation
 2b0be4ed-9423-4c07-868c-4abb38838896,03/18/2026 21:00:00,Interest Rate Decision,HIGH,BRL,Release,0.2,Monetary Policy

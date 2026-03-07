@@ -1,15 +1,10 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-f2775be0-9ae9-42c2-a7a3-a6e919a6d8b6,03/06/2026 07:30:00,ECB's Sleijpen speech,HIGH,EUR,Speech,0.552,Monetary Policy
-8888ddf0-fa25-42f8-84a8-360c9fa83504,03/06/2026 08:00:00,ECB's Escrivá speech,HIGH,EUR,Speech,0.552,Monetary Policy
-84364568-7c79-4572-9435-b2840226647f,03/06/2026 10:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
-e8f86d55-27d9-4a57-8eab-5b605b6ce66d,03/06/2026 10:00:00,Employment Change (QoQ),HIGH,EUR,Release,0.765,Labor Market
-8f1e74a9-8ab2-40bb-9e5d-a296a9020961,03/06/2026 10:00:00,Employment Change (YoY),HIGH,EUR,Release,0.765,Labor Market
-ca2c7712-f933-407a-a5d1-d12e87fa406e,03/06/2026 10:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR,Release,0.722,Growth
-91874994-f55c-4a82-b614-bb7c5a9ffc3f,03/06/2026 10:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR,Release,0.722,Growth
-aafda7b3-8800-460b-af14-3f782dc8a09c,03/06/2026 13:30:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
-cc76d809-3e46-49a7-bec8-711d4744ccb9,03/06/2026 17:00:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-cdba8831-5d30-46b1-97cb-1209336b04d1,03/06/2026 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
+c4d80175-768f-4ef9-a5c6-7118e58ecf26,03/09/2026 07:00:00,Eurogroup Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
 1a0c4ed0-3588-461a-b937-3f254026ad26,03/09/2026 09:30:00,Sentix Investor Confidence,HIGH,EUR,Release,0.595,Confidence
+29769ea7-f520-48be-8251-35c27bce8d6b,03/09/2026 10:30:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy
+30ecc161-9d73-4032-a9dd-92d54ac288ea,03/10/2026 07:00:00,EcoFin Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
+67cdad8a-1f5a-4095-98c4-2416c2d3155c,03/11/2026 08:30:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
+a5e468f9-dcb3-4afa-b930-78ded54d635a,03/11/2026 15:10:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 5d22f683-fe92-40f8-bb56-e1164297e523,03/13/2026 10:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 68c856b6-a9d0-42d1-ad24-814b0c07aa16,03/13/2026 10:00:00,Industrial Production w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth
 081eeb10-b0d9-4078-a2ab-2257e185f615,03/13/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
