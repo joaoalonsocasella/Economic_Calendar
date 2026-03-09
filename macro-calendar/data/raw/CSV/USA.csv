@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-8657ef6c-b757-4693-840f-41fc009405d4,03/08/2026 07:00:00,"Daylight Saving Time ",NONE,USD
 8ef8bd73-866a-4f88-95ac-dcb572794d15,03/09/2026 15:30:00,3-Month Bill Auction,LOW,USD
 210f96f3-1356-42a0-8d4f-7ef6f166c209,03/09/2026 15:30:00,6-Month Bill Auction,LOW,USD
 db4b1308-1440-4f74-9844-e44926dba0d3,03/10/2026 10:00:00,NFIB Business Optimism Index,LOW,USD
@@ -17,7 +16,7 @@ a9db1f51-7658-49ba-8055-5c0533b00992,03/11/2026 12:30:00,Consumer Price Index Co
 5171b0e8-2d92-4efb-a830-cea8e915371c,03/11/2026 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
 47b28b28-9c56-4288-8912-faa97ac4cc48,03/11/2026 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
 e0dddd17-4bc3-49de-a369-21806336d92a,03/11/2026 12:30:00,Consumer Price Index n.s.a (MoM),LOW,USD
-1300b558-b046-4ee8-8c9d-7e2c17352ae4,03/11/2026 12:30:00,Fed's Bowman speech,MEDIUM,USD
+1300b558-b046-4ee8-8c9d-7e2c17352ae4,03/11/2026 12:30:00,Fed's Bowman speech,LOW,USD
 48269298-f9b8-4e15-b7fb-57567e2b9958,03/11/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
 eaa8893e-b4b7-446a-bd44-f65d140345de,03/11/2026 17:00:00,10-Year Note Auction,LOW,USD
 039d2441-e60a-4e36-a57f-d48d4cdfc6b2,03/12/2026 12:30:00,Building Permits (MoM),MEDIUM,USD
