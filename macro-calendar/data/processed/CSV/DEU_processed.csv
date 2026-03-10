@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-babff0ce-b70b-4701-ae3e-b6d98976d0e6,03/09/2026 07:00:00,Factory Orders n.s.a. (YoY),HIGH,EUR,Release,0.722,Growth
-3edcb849-f609-409a-b08f-2b5d377faf1e,03/09/2026 07:00:00,Factory Orders s.a. (MoM),HIGH,EUR,Release,0.722,Growth
-89577799-1ed5-4ad3-a5e7-abdbe38f99e8,03/09/2026 07:00:00,Industrial Production n.s.a. w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth
-08fb72dc-d6f6-483c-983d-435f9f99922a,03/09/2026 07:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 fb02b6f3-d54b-405a-946f-b0869e69f6d1,03/10/2026 07:00:00,Exports (MoM),HIGH,EUR,Release,0.468,Trade and External
 5622d5af-399e-4a13-83e8-90ea15ba5124,03/10/2026 07:00:00,Imports (MoM),HIGH,EUR,Release,0.468,Trade and External
 f4e8de57-7d9c-41e8-b13f-9c4c731c1f13,03/10/2026 07:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External
@@ -23,9 +19,10 @@ f580e7be-519b-4563-ae5e-b9c6dfb41b0d,03/20/2026 07:00:00,Producer Price Index (Y
 9c3b0139-0dfd-4ab2-bec4-5c8331f81997,03/24/2026 08:30:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 3327ec10-59d6-48bd-8373-e6e4c9e4153d,03/24/2026 08:30:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 dd03c5e1-8467-4de8-929a-e8ebfa740ac7,03/24/2026 08:30:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
-e186c98e-bbe7-4656-a681-15ae4754ebaa,03/24/2026 09:00:00,IFO – Business Climate,HIGH,EUR,Release,0.595,Confidence
-3695838d-72e4-4016-9859-8b146e354b89,03/24/2026 09:00:00,IFO – Current Assessment,HIGH,EUR,Release,0.595,Confidence
-4c84f370-fcfa-4903-aa7f-5b3cc61847a2,03/24/2026 09:00:00,IFO – Expectations,HIGH,EUR,Release,0.595,Confidence
+01c413de-380b-4c68-93c1-cafc26886e04,03/24/2026 10:30:00,5-y Note Auction,HIGH,EUR,Release,0.383,Money and Credit
+e186c98e-bbe7-4656-a681-15ae4754ebaa,03/25/2026 09:00:00,IFO – Business Climate,HIGH,EUR,Release,0.595,Confidence
+3695838d-72e4-4016-9859-8b146e354b89,03/25/2026 09:00:00,IFO – Current Assessment,HIGH,EUR,Release,0.595,Confidence
+4c84f370-fcfa-4903-aa7f-5b3cc61847a2,03/25/2026 09:00:00,IFO – Expectations,HIGH,EUR,Release,0.595,Confidence
 99933da1-dda5-4924-b5b9-ad0c949508b2,03/26/2026 07:00:00,GfK Consumer Confidence Survey,HIGH,EUR,Release,0.595,Confidence
 e939dfcf-ba4a-4677-af75-bfcfcbbd2d57,03/30/2026 12:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 7a3d8b60-d1ad-46bd-8889-775ec391f594,03/30/2026 12:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation

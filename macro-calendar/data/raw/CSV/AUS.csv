@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-86f48b91-8242-453f-8bd2-bc616dd5dff1,03/09/2026 23:30:00,Westpac Consumer Confidence,MEDIUM,AUD
 89e89167-3d1c-4665-a1aa-01d6af89074b,03/10/2026 00:30:00,National Australia Bank's Business Conditions,LOW,AUD
 b40496b8-40aa-43ea-947a-c871e908e6c5,03/10/2026 00:30:00,National Australia Bank's Business Confidence,LOW,AUD
 ba354491-4e17-43d9-8def-97b1117efe92,03/12/2026 00:00:00,Consumer Inflation Expectations,MEDIUM,AUD
@@ -16,9 +15,9 @@ c5a0e862-78da-426e-855b-e1caa0abe4f5,03/19/2026 00:30:00,Participation Rate,MEDI
 2ebc62d8-22b1-487a-a26c-b5ae8423fe43,03/19/2026 00:30:00,Part-Time Employment,MEDIUM,AUD
 2273d14b-5f81-47ce-95a0-bfe9d0b2bd23,03/19/2026 00:30:00,Unemployment Rate s.a.,HIGH,AUD
 5d3e7b18-d513-41f5-a589-467af3b5aa32,03/20/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
-67cdd486-b499-4d63-8e7d-da02980b447b,03/22/2026 22:00:00,S&P Global Composite PMI,MEDIUM,AUD
-f6a13c76-5144-4a3a-96bf-f12997733ee4,03/22/2026 22:00:00,S&P Global Manufacturing PMI,MEDIUM,AUD
-4d205931-8065-4cbd-9f85-96b2cd82c237,03/22/2026 22:00:00,S&P Global Services PMI,MEDIUM,AUD
+67cdd486-b499-4d63-8e7d-da02980b447b,03/23/2026 22:00:00,S&P Global Composite PMI,MEDIUM,AUD
+f6a13c76-5144-4a3a-96bf-f12997733ee4,03/23/2026 22:00:00,S&P Global Manufacturing PMI,MEDIUM,AUD
+4d205931-8065-4cbd-9f85-96b2cd82c237,03/23/2026 22:00:00,S&P Global Services PMI,MEDIUM,AUD
 bf25e6ea-4438-4708-9250-58fae44efdd5,03/25/2026 00:30:00,Consumer Price Index (MoM),MEDIUM,AUD
 ace73ea1-b29b-480e-94bb-ba5e5dcd6b0e,03/25/2026 00:30:00,Consumer Price Index (YoY),HIGH,AUD
 dc82e90f-a9b3-416a-af7e-07b89f390dfb,03/25/2026 00:30:00,Trimmed Mean CPI (MoM),MEDIUM,AUD

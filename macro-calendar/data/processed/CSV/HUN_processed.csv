@@ -1,10 +1,9 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-1e3c4797-97a0-4d52-8ab4-8244ef442fbe,03/09/2026 10:00:00,Budget Balance,MEDIUM,HUF,Release,0.11,Trade and External
 5c71ef29-b7d1-4810-9ad8-b66dc908c09e,03/10/2026 07:30:00,Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
 eb2a0dee-bf5f-4fd8-8d52-dc1da3029e92,03/10/2026 07:30:00,Core Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
 c24458fd-aacf-4aea-846f-b165542f379a,03/13/2026 07:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
 c6866a40-c8f4-4e18-87fc-4084f7a59ea5,03/24/2026 13:00:00,MNB Interest Rate Decision,HIGH,HUF,Release,0.2,Monetary Policy
-f24348bd-28de-44c8-8873-467af16ca828,03/25/2026 07:30:00,Current Account Balance (QoQ),MEDIUM,HUF,Release,0.11,Trade and External
+f24348bd-28de-44c8-8873-467af16ca828,03/27/2026 07:30:00,Current Account Balance (QoQ),MEDIUM,HUF,Release,0.11,Trade and External
 fe74e170-d3bb-4ddf-adb1-59780fe888c3,03/27/2026 07:30:00,Unemployment Rate (3M),HIGH,HUF,Release,0.18,Labor Market
 e3ce094c-dff3-4852-b823-664d677d10b6,03/30/2026 06:30:00,Trade Balance,MEDIUM,HUF,Release,0.11,Trade and External
 aca5b7e5-c14e-4c2d-954a-6aa22ae36c8c,03/31/2026 06:30:00,Gross Wages (YoY),HIGH,HUF,Release,0.17,Growth

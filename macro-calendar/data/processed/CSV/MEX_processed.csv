@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d32fb528-5210-483e-b0da-52378413b3fd,03/09/2026 12:00:00,12-Month Inflation,HIGH,MXN,Release,0.19,Inflation
-7a171bce-488e-43cc-b670-45fea010a7d5,03/09/2026 12:00:00,Core Inflation,HIGH,MXN,Release,0.19,Inflation
-68a3b036-a2cf-459f-8b69-c111b89c3550,03/09/2026 12:00:00,Headline Inflation,HIGH,MXN,Release,0.19,Inflation
 be441368-3363-46cb-aecf-fa1a455da97c,03/13/2026 12:00:00,Industrial Output (MoM),HIGH,MXN,Release,0.17,Growth
 8f62232b-49f9-42d3-bac5-afa12fb6d379,03/13/2026 12:00:00,Industrial Output (YoY),HIGH,MXN,Release,0.17,Growth
 6efae430-1635-416f-b0ee-4ad57f06350b,03/20/2026 12:00:00,Private Spending (QoQ),HIGH,MXN,Release,0.17,Growth

@@ -1,6 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-ede991b4-7085-4bec-b534-ebcbb9cca2b7,03/09/2026 11:00:00,Gross Domestic Product (QoQ),HIGH,ILS,Release,0.17,Growth
-8992c115-a842-4b9f-b09c-c7c553eaec98,03/10/2026 11:00:00,Budget Balance - ILS,MEDIUM,ILS,Release,0.11,Trade and External
+ede991b4-7085-4bec-b534-ebcbb9cca2b7,03/10/2026 11:00:00,Gross Domestic Product (QoQ),HIGH,ILS,Release,0.17,Growth
 cec0feae-2be8-482c-8468-acc6537139ee,03/10/2026 11:00:00,M1 Money Supply (YoY),HIGH,ILS,Release,0.19,Inflation
 5ba457bf-ab2e-49c1-8898-a35c49def424,03/11/2026 11:00:00,Exports,MEDIUM,ILS,Release,0.11,Trade and External
 2d4f694d-7f17-4bb7-9b6d-d46b5439c813,03/11/2026 11:00:00,Imports,MEDIUM,ILS,Release,0.11,Trade and External

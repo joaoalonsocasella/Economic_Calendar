@@ -3,10 +3,10 @@ Id,Start,Name,Impact,Currency
 969f757e-5d7f-4441-a6ed-c3182631bbcb,03/12/2026 07:00:00,Current Account Balance,LOW,TRY
 6b88b2e9-92ae-4e42-b0e4-050784651e42,03/12/2026 11:00:00,CBRT Interest Rate Decision,MEDIUM,TRY
 8ff74fe2-2089-4d75-956f-3b93d0b334d7,03/16/2026 08:00:00,Budget Balance,LOW,TRY
-7aa8643a-52bc-472f-8108-7976819555cd,03/20/2026 08:00:00,Foreign Arrivals,LOW,TRY
 0fb3694b-afcb-4cc8-bccd-5c416a446715,03/23/2026 07:00:00,Consumer Confidence,LOW,TRY
-227eac6e-3d5a-4b11-ac4a-4ebbd84e3445,03/25/2026 07:00:00,Capacity Utilization,LOW,TRY
-07a719c4-d724-4752-9451-9439ededfe02,03/25/2026 07:00:00,Manufacturing Confidence,LOW,TRY
+7aa8643a-52bc-472f-8108-7976819555cd,03/23/2026 08:00:00,Foreign Arrivals,LOW,TRY
+227eac6e-3d5a-4b11-ac4a-4ebbd84e3445,03/24/2026 07:00:00,Capacity Utilization,LOW,TRY
+07a719c4-d724-4752-9451-9439ededfe02,03/24/2026 07:00:00,Manufacturing Confidence,LOW,TRY
 eebaa1ea-5490-4a7f-a0d4-ca9c3c0e8f20,03/30/2026 07:00:00,Economic Confidence Index,LOW,TRY
 31a4d236-eb63-4405-a382-50472d4c7046,03/30/2026 07:00:00,Unemployment Rate,LOW,TRY
 0e867966-adb1-4533-8324-6581a66c8714,03/31/2026 07:00:00,Trade Balance,LOW,TRY
