@@ -1,12 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-db4b1308-1440-4f74-9844-e44926dba0d3,03/10/2026 10:00:00,NFIB Business Optimism Index,MEDIUM,USD,Release,0.14,Confidence
-d9084eff-5464-4a5a-9e80-b93c35731e32,03/10/2026 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
-b9e55cb7-9410-449b-a943-3e3b8a263089,03/10/2026 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
-039f2928-3603-425c-a263-6a05b301707d,03/10/2026 14:00:00,Existing Home Sales (MoM),LOW,USD,Release,0.07,Housing
-e2d02bad-b135-4640-9eb5-391674d0e34a,03/10/2026 14:00:00,Existing Home Sales Change (MoM),LOW,USD,Release,0.07,Housing
-37773d32-0e3f-450f-874f-056e28571e37,03/10/2026 17:00:00,3-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-01687b6b-4d88-4bdb-ad0b-d66492f32c5a,03/10/2026 17:00:00,USDA WASDE Report,HIGH,USD,Release,0.2,Monetary Policy
-04772a63-1935-46c1-9ba4-eb7fc62c4516,03/10/2026 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 7f3b60cb-6884-4b7a-8836-d9c7403b6e54,03/11/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 4a7e203c-cbd0-4a83-afd0-7c31e305fed2,03/11/2026 12:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 3b4d7f0d-e6f1-4e61-85d7-60d118024150,03/11/2026 12:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation

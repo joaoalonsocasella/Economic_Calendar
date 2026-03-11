@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-601831e7-ae21-4641-a3b7-30fb2dfb158d,03/10/2026 07:00:00,Consumer Price Index (MoM),HIGH,NOK,Release,0.19,Inflation
-b8728065-7d2a-4dd3-9830-6f0e59fdb739,03/10/2026 07:00:00,Consumer Price Index (YoY),HIGH,NOK,Release,0.19,Inflation
-a49493be-3257-439e-9ec1-849b78d578d2,03/10/2026 07:00:00,Core Inflation (MoM),HIGH,NOK,Release,0.19,Inflation
-486f74fa-1b90-4584-9bdf-a6176d9453b3,03/10/2026 07:00:00,Core Inflation (YoY),HIGH,NOK,Release,0.19,Inflation
 cae44486-13a9-4967-8a59-64a52ed99063,03/16/2026 07:00:00,Trade Balance,MEDIUM,NOK,Release,0.11,Trade and External
 85825f39-c41d-4481-bfcf-2c4579848dbd,03/23/2026 07:00:00,Credit Indicator,LOW,NOK,Release,0.09,Money and Credit
 f3fc68e9-b2de-4882-907a-99e18ab46498,03/26/2026 09:00:00,Norges Bank Interest Rate Decision,HIGH,NOK,Release,0.2,Monetary Policy

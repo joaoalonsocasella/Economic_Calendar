@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-fb02b6f3-d54b-405a-946f-b0869e69f6d1,03/10/2026 07:00:00,Exports (MoM),HIGH,EUR,Release,0.468,Trade and External
-5622d5af-399e-4a13-83e8-90ea15ba5124,03/10/2026 07:00:00,Imports (MoM),HIGH,EUR,Release,0.468,Trade and External
-f4e8de57-7d9c-41e8-b13f-9c4c731c1f13,03/10/2026 07:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External
 0d8b9a26-a070-4c08-865b-fa7cc5f4c3e9,03/11/2026 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 98b32629-595d-4f64-88d5-026780ca3d86,03/11/2026 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 87ac6b9a-86f3-4ce3-88a6-3587ffbd1e30,03/11/2026 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
