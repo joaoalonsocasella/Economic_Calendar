@@ -1,14 +1,4 @@
 Id,Start,Name,Impact,Currency
-7f3b60cb-6884-4b7a-8836-d9c7403b6e54,03/11/2026 11:00:00,MBA Mortgage Applications,LOW,USD
-4a7e203c-cbd0-4a83-afd0-7c31e305fed2,03/11/2026 12:30:00,Consumer Price Index (MoM),HIGH,USD
-3b4d7f0d-e6f1-4e61-85d7-60d118024150,03/11/2026 12:30:00,Consumer Price Index (YoY),HIGH,USD
-a9db1f51-7658-49ba-8055-5c0533b00992,03/11/2026 12:30:00,Consumer Price Index Core s.a,LOW,USD
-5171b0e8-2d92-4efb-a830-cea8e915371c,03/11/2026 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
-47b28b28-9c56-4288-8912-faa97ac4cc48,03/11/2026 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
-e0dddd17-4bc3-49de-a369-21806336d92a,03/11/2026 12:30:00,Consumer Price Index n.s.a (MoM),LOW,USD
-1300b558-b046-4ee8-8c9d-7e2c17352ae4,03/11/2026 12:30:00,Fed's Bowman speech,LOW,USD
-48269298-f9b8-4e15-b7fb-57567e2b9958,03/11/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
-eaa8893e-b4b7-446a-bd44-f65d140345de,03/11/2026 17:00:00,10-Year Note Auction,LOW,USD
 039d2441-e60a-4e36-a57f-d48d4cdfc6b2,03/12/2026 12:30:00,Building Permits (MoM),MEDIUM,USD
 8a8cc625-b9ab-4acd-86a7-11957fa4aed4,03/12/2026 12:30:00,Building Permits Change,LOW,USD
 e4e0dcc3-f891-4d86-b081-eceedf982001,03/12/2026 12:30:00,Continuing Jobless Claims,LOW,USD
@@ -53,12 +43,7 @@ aa6a5e93-e591-40e2-b0d2-50e174f3253b,03/16/2026 14:00:00,NAHB Housing Market Ind
 39b5043f-3062-4e92-97b2-6bd49a8d15ff,03/16/2026 15:30:00,3-Month Bill Auction,LOW,USD
 4fb1a4c9-3e5c-412a-8da0-6b2868301fbe,03/16/2026 15:30:00,6-Month Bill Auction,LOW,USD
 6bb3c18a-9de7-4db0-92e8-10338233efba,03/17/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
-580ac824-e8f7-49b9-a742-5f72731956c6,03/17/2026 12:30:00,Retail Sales (MoM),HIGH,USD
-46e57a0d-4ef9-4db2-ad8a-d7b0357b5bc4,03/17/2026 12:30:00,Retail Sales (YoY),LOW,USD
-5837e5a2-2fd4-4d51-93e5-ca327898b5c5,03/17/2026 12:30:00,Retail Sales Control Group,HIGH,USD
-797709e4-8a61-47c1-bf7d-3f413311f554,03/17/2026 12:30:00,Retail Sales ex Autos (MoM),MEDIUM,USD
 5cfddccd-80c7-488b-8c69-aa04a44d763b,03/17/2026 12:55:00,Redbook Index (YoY),LOW,USD
-bde157ff-0040-4eb9-9e21-498764b3323d,03/17/2026 14:00:00,Business Inventories,LOW,USD
 2c64fd12-f26f-402b-8003-4cb61cce58ab,03/17/2026 14:00:00,Pending Home Sales (MoM),MEDIUM,USD
 990388a3-35df-4f73-8691-6013591924df,03/17/2026 14:00:00,Pending Home Sales (YoY),LOW,USD
 f4cb24cb-e8b9-43ae-b9fc-a667939b42b5,03/17/2026 15:30:00,52-Week Bill Auction,LOW,USD
@@ -88,9 +73,9 @@ b53147af-1d01-481d-a60e-41d5a870b6b1,03/18/2026 20:00:00,Net Long-Term TIC Flows
 2b3dd8b9-6802-40d7-b4f3-246d8c873405,03/19/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
 06bdda0d-dddb-4dc6-80a8-3fde7c1f9ff4,03/19/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
 39a0558e-ddc7-42a7-a349-f0736636522b,03/19/2026 12:30:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD
-d4e73b31-1c21-406f-be52-921b10a22184,03/19/2026 12:30:00,Wholesale Inventories,LOW,USD
 1021dedb-ead7-4668-8044-900ce2a7f981,03/19/2026 14:00:00,New Home Sales (MoM),LOW,USD
 5de84359-62f2-4a12-999e-3150722afd2c,03/19/2026 14:00:00,New Home Sales Change (MoM),MEDIUM,USD
+d4e73b31-1c21-406f-be52-921b10a22184,03/19/2026 14:00:00,Wholesale Inventories,LOW,USD
 4678d50b-8d12-49d4-ab72-786e07023984,03/19/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
 f5a7230f-6335-48ec-bdf2-ce3dad7c4770,03/19/2026 15:30:00,4-Week Bill Auction,LOW,USD
 444e5490-37e3-4444-b1c8-c2cd146796a5,03/19/2026 17:00:00,10-year TIPS Auction,LOW,USD
@@ -105,11 +90,16 @@ e1657ddb-129b-4297-a6c3-c6dbe6c07762,03/23/2026 15:30:00,3-Month Bill Auction,LO
 991bee86-3a99-47ff-9077-b47307cf0bab,03/23/2026 15:30:00,6-Month Bill Auction,LOW,USD
 bde54fa0-80a7-4d3b-bfd0-17d2792fa043,03/24/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 2b481004-06bc-4099-8932-bbb10646013c,03/24/2026 12:30:00,Nonfarm Productivity,MEDIUM,USD
+580ac824-e8f7-49b9-a742-5f72731956c6,03/24/2026 12:30:00,Retail Sales (MoM),HIGH,USD
+46e57a0d-4ef9-4db2-ad8a-d7b0357b5bc4,03/24/2026 12:30:00,Retail Sales (YoY),LOW,USD
+5837e5a2-2fd4-4d51-93e5-ca327898b5c5,03/24/2026 12:30:00,Retail Sales Control Group,HIGH,USD
+797709e4-8a61-47c1-bf7d-3f413311f554,03/24/2026 12:30:00,Retail Sales ex Autos (MoM),MEDIUM,USD
 e3a99da2-dd19-46fb-aff1-d4db15da3fec,03/24/2026 12:30:00,Unit Labor Costs,MEDIUM,USD
 8c999c28-1b21-4c93-a1fa-df9dfef3f587,03/24/2026 12:55:00,Redbook Index (YoY),LOW,USD
 1e99c89e-29bf-4d74-bc74-858e7b7b995b,03/24/2026 13:45:00,S&P Global Composite PMI,MEDIUM,USD
 78ff05ed-4cd4-48ba-a26e-66098f555e6c,03/24/2026 13:45:00,S&P Global Manufacturing PMI,HIGH,USD
 1e88510f-ece0-4fd4-b6c7-d079bfdcc650,03/24/2026 13:45:00,S&P Global Services PMI,HIGH,USD
+bde157ff-0040-4eb9-9e21-498764b3323d,03/24/2026 14:00:00,Business Inventories,LOW,USD
 bdc9c583-3a97-4ab0-990c-6fff6a08aea7,03/24/2026 14:00:00,Richmond Fed Manufacturing Index,LOW,USD
 f5a6d683-123c-4067-89e5-57ff6cbee5cf,03/24/2026 17:00:00,2-Year Note Auction,LOW,USD
 ea4e9f4e-2448-4476-a144-ed6acd413509,03/24/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
