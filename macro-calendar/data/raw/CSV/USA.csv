@@ -1,18 +1,4 @@
 Id,Start,Name,Impact,Currency
-039d2441-e60a-4e36-a57f-d48d4cdfc6b2,03/12/2026 12:30:00,Building Permits (MoM),MEDIUM,USD
-8a8cc625-b9ab-4acd-86a7-11957fa4aed4,03/12/2026 12:30:00,Building Permits Change,LOW,USD
-e4e0dcc3-f891-4d86-b081-eceedf982001,03/12/2026 12:30:00,Continuing Jobless Claims,LOW,USD
-4ff43d8b-fda8-4c32-9c3b-fa7c922e5e1d,03/12/2026 12:30:00,Housing Starts (MoM),MEDIUM,USD
-5a501ef9-8084-4c84-b8ee-72110a53dbc1,03/12/2026 12:30:00,Housing Starts Change,LOW,USD
-53fa1c19-22a3-4646-a908-31dc6b05b3c5,03/12/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
-da6ff107-8032-40ea-9f2c-de716126d22c,03/12/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
-f91284f5-2e9d-497d-8998-52aee80eb057,03/12/2026 13:30:00,Goods and Services Trade Balance,LOW,USD
-81fefbe5-d900-44f8-872c-c5323328f213,03/12/2026 13:30:00,Goods Trade Balance,LOW,USD
-4e6f2810-8154-4000-8da7-26ead2bb926e,03/12/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
-63d80729-7bbe-4636-8004-a0fc22b10843,03/12/2026 15:00:00,Fed's Bowman speech,MEDIUM,USD
-b4341b9a-1c36-46bd-a11b-7b77526304c6,03/12/2026 15:30:00,4-Week Bill Auction,LOW,USD
-c5b19121-b9d1-484f-818a-f79a462e4701,03/12/2026 17:00:00,30-Year Bond Auction,LOW,USD
-286fc15b-ab44-44e5-afe0-3be33ef6ee8d,03/12/2026 18:00:00,Monthly Budget Statement,MEDIUM,USD
 4d10faed-b688-434c-b171-825d3e98c251,03/13/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
 e90591ee-54b0-444a-a903-5193f079eefa,03/13/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
 2f355c87-9137-453d-bea3-aeed41acc099,03/13/2026 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
@@ -33,6 +19,7 @@ ad69d979-46cc-4e91-bb69-f37ee8c12238,03/13/2026 14:00:00,UoM 1-year Consumer Inf
 6d69f9b8-baf7-4302-acbc-345cc9bace9a,03/13/2026 15:00:00,JOLTS Job Openings,MEDIUM,USD
 e66eb025-810f-403c-8f60-7a4850afc336,03/13/2026 15:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD
 5483c3f3-d0f9-4d89-8c8e-c08d2428541e,03/13/2026 17:00:00,Baker Hughes US Oil Rig Count,LOW,USD
+286fc15b-ab44-44e5-afe0-3be33ef6ee8d,03/13/2026 18:00:00,Monthly Budget Statement,MEDIUM,USD
 f05428e3-5d29-4fd8-a08a-f434ba429c33,03/13/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD
 0cff7fd4-a50c-4db0-9b9e-abb8834d5831,03/13/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 387e9f2d-403d-46e3-b892-235b91dbb994,03/13/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
@@ -50,10 +37,6 @@ f4cb24cb-e8b9-43ae-b9fc-a667939b42b5,03/17/2026 15:30:00,52-Week Bill Auction,LO
 c29e5188-682d-4a8e-a20e-929a5cac3737,03/17/2026 17:00:00,20-Year Bond Auction,LOW,USD
 f1d586c3-d68f-4d7c-b355-43e389d7c2e7,03/17/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
 d3d232be-cebd-4528-9868-ca07df400ee6,03/18/2026 11:00:00,MBA Mortgage Applications,LOW,USD
-148843e4-9d5e-4351-8db9-de2e642a8570,03/18/2026 12:30:00,Building Permits (MoM),MEDIUM,USD
-d4ebe14e-ca3a-440a-854b-29f6ca3321ab,03/18/2026 12:30:00,Building Permits Change,LOW,USD
-2f96ac0c-a53d-42c5-92b9-fdde5ade4ca5,03/18/2026 12:30:00,Housing Starts (MoM),MEDIUM,USD
-5183bafb-633b-47ff-a38c-a8c332f594c2,03/18/2026 12:30:00,Housing Starts Change,LOW,USD
 4b1f503e-4ffd-4eb8-ae62-378752af7de2,03/18/2026 12:30:00,Producer Price Index (MoM),MEDIUM,USD
 179c931b-c0f2-4305-9015-146c94f1d332,03/18/2026 12:30:00,Producer Price Index (YoY),MEDIUM,USD
 0f0b1d59-cf93-4e9e-8816-9a346b00533b,03/18/2026 12:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
@@ -84,6 +67,7 @@ f5a7230f-6335-48ec-bdf2-ce3dad7c4770,03/19/2026 15:30:00,4-Week Bill Auction,LOW
 c4e71d97-fdc2-4dab-8e5a-dde9e63c23a2,03/20/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD
 0ac09190-c5b9-4fc1-af53-8943701487fe,03/20/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 8017fdc4-a35c-4309-b601-f098285c5ec2,03/20/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
+b43e3e2b-9039-4fe8-baca-82e489f83cc6,03/21/2026 14:30:00,Fed's Chair Powell speech,HIGH,USD
 dad6deea-1fac-4558-afd4-014ea15e3d6c,03/23/2026 12:30:00,"Chicago Fed National Activity Index ",LOW,USD
 84bcee9d-7a61-4bdd-b93a-82a96234d458,03/23/2026 15:00:00,Construction Spending (MoM),LOW,USD
 e1657ddb-129b-4297-a6c3-c6dbe6c07762,03/23/2026 15:30:00,3-Month Bill Auction,LOW,USD

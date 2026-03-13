@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-969f757e-5d7f-4441-a6ed-c3182631bbcb,03/12/2026 07:00:00,Current Account Balance,MEDIUM,TRY,Release,0.11,Trade and External
-6b88b2e9-92ae-4e42-b0e4-050784651e42,03/12/2026 11:00:00,CBRT Interest Rate Decision,HIGH,TRY,Release,0.2,Monetary Policy
 8ff74fe2-2089-4d75-956f-3b93d0b334d7,03/16/2026 08:00:00,Budget Balance,MEDIUM,TRY,Release,0.11,Trade and External
 0fb3694b-afcb-4cc8-bccd-5c416a446715,03/23/2026 07:00:00,Consumer Confidence,MEDIUM,TRY,Release,0.14,Confidence
 7aa8643a-52bc-472f-8108-7976819555cd,03/23/2026 08:00:00,Foreign Arrivals,MEDIUM,TRY,Release,0.11,Trade and External

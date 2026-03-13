@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-b34dcaf0-a59b-493a-baa6-3d37a34aa943,03/12/2026 08:00:00,Construction output (YoY),HIGH,CZK,Release,0.17,Growth
-838c2279-3cd8-4552-8a98-60381d36f231,03/12/2026 08:00:00,Industrial Production (YoY),HIGH,CZK,Release,0.17,Growth
-7e56fa0c-5eed-4740-8f24-58bb201d3e7b,03/12/2026 08:00:00,Retail Sales (YoY),HIGH,CZK,Release,0.17,Growth
 c4f312ca-d72e-4b16-be91-a7ea63720245,03/16/2026 08:00:00,Producer Price Index (MoM),HIGH,CZK,Release,0.19,Inflation
 6083bb35-9335-40bf-90ec-4da0b3674195,03/16/2026 08:00:00,Producer Price Index (YoY),HIGH,CZK,Release,0.19,Inflation
 557693a3-3ac5-4e3c-aaf8-7195ebf57b69,03/16/2026 09:00:00,Current Account (MoM),MEDIUM,CZK,Release,0.11,Trade and External
