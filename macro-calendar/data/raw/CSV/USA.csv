@@ -1,34 +1,11 @@
 Id,Start,Name,Impact,Currency
-4d10faed-b688-434c-b171-825d3e98c251,03/13/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
-e90591ee-54b0-444a-a903-5193f079eefa,03/13/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
-2f355c87-9137-453d-bea3-aeed41acc099,03/13/2026 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
-c5fafab2-26a7-46bb-93cb-9f6586a2a542,03/13/2026 12:30:00,Durable Goods Orders,MEDIUM,USD
-3114948f-3ab0-45ab-bf70-02e258d337e1,03/13/2026 12:30:00,Durable Goods Orders ex Defense,MEDIUM,USD
-b9a6884b-f380-4ca9-93bc-b2721be39ff1,03/13/2026 12:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
-6bd96ef5-5cad-4c1a-97fa-c242e7fa4021,03/13/2026 12:30:00,Gross Domestic Product Annualized,HIGH,USD
-fc060c05-3024-4b77-acda-02d3aa654232,03/13/2026 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD
-2a4bbcf6-0791-4487-8503-af123f454276,03/13/2026 12:30:00,Nondefense Capital Goods Orders ex Aircraft,MEDIUM,USD
-c10435bf-c019-4344-ab13-c206f36eb0bf,03/13/2026 12:30:00,Personal Consumption Expenditures - Price Index (MoM),MEDIUM,USD
-36be0848-20bd-4a1f-ace4-918ed335393f,03/13/2026 12:30:00,Personal Consumption Expenditures - Price Index (YoY),MEDIUM,USD
-3c1f44df-969c-4c19-8bba-7a93b51f64fd,03/13/2026 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
-65b036a5-e777-4db3-816a-e2350026cbce,03/13/2026 12:30:00,Personal Income (MoM),MEDIUM,USD
-624c3e2d-cb7a-449d-b32d-11019dcb024d,03/13/2026 12:30:00,Personal Spending,MEDIUM,USD
-f97fc65c-fd80-4e87-9245-257bc06ae590,03/13/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
-ac1e979a-c4c7-4bef-8f3f-11cd3423a601,03/13/2026 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
-ad69d979-46cc-4e91-bb69-f37ee8c12238,03/13/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
-6d69f9b8-baf7-4302-acbc-345cc9bace9a,03/13/2026 15:00:00,JOLTS Job Openings,MEDIUM,USD
-e66eb025-810f-403c-8f60-7a4850afc336,03/13/2026 15:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD
-5483c3f3-d0f9-4d89-8c8e-c08d2428541e,03/13/2026 17:00:00,Baker Hughes US Oil Rig Count,LOW,USD
-286fc15b-ab44-44e5-afe0-3be33ef6ee8d,03/13/2026 18:00:00,Monthly Budget Statement,MEDIUM,USD
-f05428e3-5d29-4fd8-a08a-f434ba429c33,03/13/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD
-0cff7fd4-a50c-4db0-9b9e-abb8834d5831,03/13/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD
-387e9f2d-403d-46e3-b892-235b91dbb994,03/13/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 17e312f4-fc52-4ac1-af04-0336c850919e,03/16/2026 12:30:00,NY Empire State Manufacturing Index,MEDIUM,USD
 80548bec-5e6f-4fd8-b473-428a4127e69d,03/16/2026 13:15:00,Capacity Utilization,LOW,USD
 46327239-2eea-4b6c-8923-936677bf4c7d,03/16/2026 13:15:00,Industrial Production (MoM),MEDIUM,USD
 aa6a5e93-e591-40e2-b0d2-50e174f3253b,03/16/2026 14:00:00,NAHB Housing Market Index,LOW,USD
 39b5043f-3062-4e92-97b2-6bd49a8d15ff,03/16/2026 15:30:00,3-Month Bill Auction,LOW,USD
 4fb1a4c9-3e5c-412a-8da0-6b2868301fbe,03/16/2026 15:30:00,6-Month Bill Auction,LOW,USD
+286fc15b-ab44-44e5-afe0-3be33ef6ee8d,03/16/2026 18:00:00,Monthly Budget Statement,MEDIUM,USD
 6bb3c18a-9de7-4db0-92e8-10338233efba,03/17/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 5cfddccd-80c7-488b-8c69-aa04a44d763b,03/17/2026 12:55:00,Redbook Index (YoY),LOW,USD
 2c64fd12-f26f-402b-8003-4cb61cce58ab,03/17/2026 14:00:00,Pending Home Sales (MoM),MEDIUM,USD

@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-35d34069-72f3-4d05-8a87-8f6717784dcd,03/13/2026 08:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-5a655a2a-24f6-451b-a43d-ba285b6940bf,03/13/2026 08:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-d7ba3ffa-e99f-4be1-83c1-f2c10b64482a,03/13/2026 08:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
-bb4135fd-1119-4724-b7f8-47614a1f9593,03/13/2026 08:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
 87facc1b-d8b8-4ba0-90de-d6f6fb9c572c,03/19/2026 09:40:00,10-y Obligaciones Auction,HIGH,EUR,Release,0.383,Money and Credit
 bc5681c6-377c-43ef-aab3-3f8ad2426054,03/19/2026 09:40:00,3-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 c1b4254c-dad9-4486-9540-e3e1ad2f5470,03/19/2026 09:40:00,5-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit

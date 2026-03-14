@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-b94e5f91-add4-456e-9a0e-15978014869b,03/13/2026 12:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
-c3bb34bf-a9ea-48ab-89f5-f306a7416239,03/13/2026 12:30:00,Capacity Utilization,HIGH,CAD,Release,0.2,Monetary Policy
-962cf605-7e24-4714-b7ca-669cfc3e3aeb,03/13/2026 12:30:00,Manufacturing Sales (MoM),HIGH,CAD,Release,0.17,Growth
-cbd5cc77-ece9-4229-af0b-697a838dd5e4,03/13/2026 12:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
-d8c74f22-6831-4e2a-a90e-95a7262c8b1c,03/13/2026 12:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
-c0a2d479-8d6a-4fa5-8db9-b5f269ec59fc,03/13/2026 12:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
 05957173-720d-4f86-81fc-b069740aa83f,03/16/2026 12:15:00,Housing Starts s.a (YoY),LOW,CAD,Release,0.07,Housing
 ded5d0a3-889e-4195-836c-1525ec505fdd,03/16/2026 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
 85ac4c04-748b-4da3-9261-dd9b32dd6f6c,03/16/2026 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation

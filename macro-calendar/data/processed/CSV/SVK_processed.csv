@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-3f0c64e2-a333-4e23-9d17-314d6daf845f,03/13/2026 08:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
-24d57206-b5ff-47ba-8f51-72f06c09fc13,03/13/2026 08:00:00,Core Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
-f4584deb-81db-4c69-82d3-ec39e83807b5,03/13/2026 08:00:00,Headline Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
-2ad8e038-a24a-4839-b374-9cf5044d3d3b,03/13/2026 08:00:00,Headline Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
 eb488330-86f6-4f94-a6a1-78d06fefaf6d,03/17/2026 08:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
 ff46e35b-efcb-49ae-9ef8-e20fbf454994,03/18/2026 08:00:00,EU Norm Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
 3083f0ae-e52d-4871-91d1-8a95765691c7,03/18/2026 08:00:00,EU Norm Inflation (YoY),HIGH,EUR,Release,0.807,Inflation

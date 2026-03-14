@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-5d22f683-fe92-40f8-bb56-e1164297e523,03/13/2026 10:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
-68c856b6-a9d0-42d1-ad24-814b0c07aa16,03/13/2026 10:00:00,Industrial Production w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth
-081eeb10-b0d9-4078-a2ab-2257e185f615,03/13/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 8b8faf4f-50c2-4030-bce1-2b2f9344f9c9,03/17/2026 10:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
 91ed565c-d067-49f3-ba14-44ba2d971a5c,03/17/2026 15:15:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 21fc62fe-587a-4c9a-8f09-059db8f010a9,03/18/2026 10:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
@@ -21,6 +18,7 @@ dee56c72-1b72-41a7-9f25-a71f31ae994a,03/19/2026 13:15:00,ECB Monetary Policy Sta
 d8f8972d-24d2-47dc-9493-0f5dca7becb8,03/20/2026 10:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External
 22ccdf3a-0cf4-4cf9-8181-b1cce67e616b,03/20/2026 17:30:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 2223021e-3b40-4def-ac03-9d7895ad8fc6,03/20/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
+c458582d-01d2-4196-b936-c0b2dbd17240,03/21/2026 08:30:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
 f9d79726-2dea-4588-95e7-f2d352d9aabc,03/23/2026 15:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 89d0ab46-5d93-4497-a84b-7c99566fdba1,03/24/2026 09:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 8f5e0a1b-f11e-49fa-bc46-d7d2d32c7082,03/24/2026 09:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth

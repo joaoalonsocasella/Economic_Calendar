@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-12a98acd-b4f5-4046-aed2-fcb796f0015d,03/13/2026 11:30:00,Bank Loan Growth,LOW,INR,Release,0.09,Money and Credit
-e1c1ec2f-3491-4baf-991f-78acc05e2310,03/13/2026 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
 e98b347e-fd8d-4953-afaf-7aa841acd2ff,03/16/2026 06:30:00,WPI Inflation,HIGH,INR,Release,0.19,Inflation
 cbb03173-a19d-4f12-9e3e-e223b1f7d886,03/16/2026 11:00:00,Trade Deficit Government,MEDIUM,INR,Release,0.11,Trade and External
 b685951f-a720-4105-b601-54adb58e2a5b,03/18/2026 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy
