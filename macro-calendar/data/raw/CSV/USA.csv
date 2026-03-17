@@ -1,17 +1,11 @@
 Id,Start,Name,Impact,Currency
-17e312f4-fc52-4ac1-af04-0336c850919e,03/16/2026 12:30:00,NY Empire State Manufacturing Index,MEDIUM,USD
-80548bec-5e6f-4fd8-b473-428a4127e69d,03/16/2026 13:15:00,Capacity Utilization,LOW,USD
-46327239-2eea-4b6c-8923-936677bf4c7d,03/16/2026 13:15:00,Industrial Production (MoM),MEDIUM,USD
-aa6a5e93-e591-40e2-b0d2-50e174f3253b,03/16/2026 14:00:00,NAHB Housing Market Index,LOW,USD
-39b5043f-3062-4e92-97b2-6bd49a8d15ff,03/16/2026 15:30:00,3-Month Bill Auction,LOW,USD
-4fb1a4c9-3e5c-412a-8da0-6b2868301fbe,03/16/2026 15:30:00,6-Month Bill Auction,LOW,USD
-286fc15b-ab44-44e5-afe0-3be33ef6ee8d,03/16/2026 18:00:00,Monthly Budget Statement,MEDIUM,USD
 6bb3c18a-9de7-4db0-92e8-10338233efba,03/17/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 5cfddccd-80c7-488b-8c69-aa04a44d763b,03/17/2026 12:55:00,Redbook Index (YoY),LOW,USD
 2c64fd12-f26f-402b-8003-4cb61cce58ab,03/17/2026 14:00:00,Pending Home Sales (MoM),MEDIUM,USD
 990388a3-35df-4f73-8691-6013591924df,03/17/2026 14:00:00,Pending Home Sales (YoY),LOW,USD
 f4cb24cb-e8b9-43ae-b9fc-a667939b42b5,03/17/2026 15:30:00,52-Week Bill Auction,LOW,USD
 c29e5188-682d-4a8e-a20e-929a5cac3737,03/17/2026 17:00:00,20-Year Bond Auction,LOW,USD
+286fc15b-ab44-44e5-afe0-3be33ef6ee8d,03/17/2026 18:00:00,Monthly Budget Statement,MEDIUM,USD
 f1d586c3-d68f-4d7c-b355-43e389d7c2e7,03/17/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
 d3d232be-cebd-4528-9868-ca07df400ee6,03/18/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 4b1f503e-4ffd-4eb8-ae62-378752af7de2,03/18/2026 12:30:00,Producer Price Index (MoM),MEDIUM,USD
@@ -39,22 +33,17 @@ d4e73b31-1c21-406f-be52-921b10a22184,03/19/2026 14:00:00,Wholesale Inventories,L
 4678d50b-8d12-49d4-ab72-786e07023984,03/19/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
 f5a7230f-6335-48ec-bdf2-ce3dad7c4770,03/19/2026 15:30:00,4-Week Bill Auction,LOW,USD
 444e5490-37e3-4444-b1c8-c2cd146796a5,03/19/2026 17:00:00,10-year TIPS Auction,LOW,USD
-27ff3534-150a-4fe5-b51c-7fca7d24cc15,03/20/2026 16:00:00,Fed Monetary Policy Report,MEDIUM,USD
 520365c7-746a-4fb1-b391-679bbd8e52e0,03/20/2026 17:00:00,Baker Hughes US Oil Rig Count,LOW,USD
 c4e71d97-fdc2-4dab-8e5a-dde9e63c23a2,03/20/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD
 0ac09190-c5b9-4fc1-af53-8943701487fe,03/20/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 8017fdc4-a35c-4309-b601-f098285c5ec2,03/20/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 b43e3e2b-9039-4fe8-baca-82e489f83cc6,03/21/2026 14:30:00,Fed's Chair Powell speech,HIGH,USD
 dad6deea-1fac-4558-afd4-014ea15e3d6c,03/23/2026 12:30:00,"Chicago Fed National Activity Index ",LOW,USD
-84bcee9d-7a61-4bdd-b93a-82a96234d458,03/23/2026 15:00:00,Construction Spending (MoM),LOW,USD
+84bcee9d-7a61-4bdd-b93a-82a96234d458,03/23/2026 14:00:00,Construction Spending (MoM),LOW,USD
 e1657ddb-129b-4297-a6c3-c6dbe6c07762,03/23/2026 15:30:00,3-Month Bill Auction,LOW,USD
 991bee86-3a99-47ff-9077-b47307cf0bab,03/23/2026 15:30:00,6-Month Bill Auction,LOW,USD
 bde54fa0-80a7-4d3b-bfd0-17d2792fa043,03/24/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 2b481004-06bc-4099-8932-bbb10646013c,03/24/2026 12:30:00,Nonfarm Productivity,MEDIUM,USD
-580ac824-e8f7-49b9-a742-5f72731956c6,03/24/2026 12:30:00,Retail Sales (MoM),HIGH,USD
-46e57a0d-4ef9-4db2-ad8a-d7b0357b5bc4,03/24/2026 12:30:00,Retail Sales (YoY),LOW,USD
-5837e5a2-2fd4-4d51-93e5-ca327898b5c5,03/24/2026 12:30:00,Retail Sales Control Group,HIGH,USD
-797709e4-8a61-47c1-bf7d-3f413311f554,03/24/2026 12:30:00,Retail Sales ex Autos (MoM),MEDIUM,USD
 e3a99da2-dd19-46fb-aff1-d4db15da3fec,03/24/2026 12:30:00,Unit Labor Costs,MEDIUM,USD
 8c999c28-1b21-4c93-a1fa-df9dfef3f587,03/24/2026 12:55:00,Redbook Index (YoY),LOW,USD
 1e99c89e-29bf-4d74-bc74-858e7b7b995b,03/24/2026 13:45:00,S&P Global Composite PMI,MEDIUM,USD
@@ -70,18 +59,11 @@ f522835b-a8b3-4512-a933-f36045390de3,03/25/2026 12:30:00,Current Account,LOW,USD
 acfbeb89-9d32-4a79-88d4-2af6b6302573,03/25/2026 12:30:00,Export Price Index (YoY),LOW,USD
 5f337f0f-ffdb-40ce-8371-4e87ed1a4996,03/25/2026 12:30:00,Import Price Index (MoM),LOW,USD
 3207ccbb-809b-4f97-acc2-d77a35c6c8e2,03/25/2026 12:30:00,Import Price Index (YoY),LOW,USD
-edad18f9-0a2e-40c5-9fd6-7de08d5ef978,03/25/2026 14:00:00,New Home Sales (MoM),LOW,USD
-2dbdef39-8f7a-454e-8d75-201463dc4c3a,03/25/2026 14:00:00,New Home Sales Change (MoM),MEDIUM,USD
 e8c63d71-2888-49d4-b82f-406bbd8fd989,03/25/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
 ca6cb4d9-4500-40c4-979f-48d44b41573c,03/25/2026 17:00:00,5-Year Note Auction,LOW,USD
 bc1b06fc-9251-45cc-ac98-c2ad53dd9fd4,03/26/2026 12:30:00,Continuing Jobless Claims,LOW,USD
-693b702f-d26e-4418-a841-337e4f276ea9,03/26/2026 12:30:00,Durable Goods Orders,MEDIUM,USD
-79f45591-0713-49f0-b763-6659adfde823,03/26/2026 12:30:00,Durable Goods Orders ex Defense,MEDIUM,USD
-22d5972d-beaa-4230-b76d-82637f6f295b,03/26/2026 12:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
 3a237bb7-ed31-4869-acd8-b872eb04ebc1,03/26/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
 30fa216d-52f5-4579-8743-02eb59b030aa,03/26/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
-448cfda2-6a65-400a-801c-f9e6775ffdda,03/26/2026 12:30:00,Nondefense Capital Goods Orders ex Aircraft,MEDIUM,USD
-5a3dd948-b24f-45df-9a9b-2925d922eefd,03/26/2026 12:30:00,Wholesale Inventories,LOW,USD
 092fd6d3-c97c-4fb4-a7aa-a0ff1933c157,03/26/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
 3f3ab78e-29d0-414e-8404-b51b0329def3,03/26/2026 15:00:00,Kansas Fed Manufacturing Activity,LOW,USD
 213bf9f5-5b3f-42b7-8dac-70f39fedebb7,03/26/2026 15:30:00,4-Week Bill Auction,LOW,USD
@@ -97,16 +79,6 @@ b1642f6e-1576-4175-9650-95a7830fb534,03/27/2026 17:00:00,Baker Hughes US Oil Rig
 95fbeb92-0085-41cc-97f1-4c667003cc67,03/30/2026 14:30:00,Dallas Fed Manufacturing Business Index,LOW,USD
 51995328-aeed-4b21-ae5a-9a72db4f487e,03/30/2026 15:30:00,3-Month Bill Auction,LOW,USD
 6a8b95e8-53af-43fe-8f05-33687bc64678,03/30/2026 15:30:00,6-Month Bill Auction,LOW,USD
-763bde2c-24ad-4ded-8559-5e3ef8d1c024,03/31/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
-9d990f8b-d837-4f83-b2d7-981f8347a71d,03/31/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
-d02871c8-11b0-4437-bd52-6988769f4c20,03/31/2026 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
-018899b3-cc3b-4fba-b558-4e3a0d83576c,03/31/2026 12:30:00,Gross Domestic Product Annualized,HIGH,USD
-bd495110-c83a-480e-85c1-e8652af0f269,03/31/2026 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD
-5b99526a-7389-4241-a422-4b3cb38dc684,03/31/2026 12:30:00,Personal Consumption Expenditures - Price Index (MoM),MEDIUM,USD
-a36bc62b-67d0-45e3-8ede-f0412ef1ccf0,03/31/2026 12:30:00,Personal Consumption Expenditures - Price Index (YoY),MEDIUM,USD
-d90e99b4-0cd8-4daa-a73f-e5e4d98eb1fc,03/31/2026 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
-946662d8-cdb6-4b8a-b7e1-68e0917036ff,03/31/2026 12:30:00,Personal Income (MoM),MEDIUM,USD
-80b80fb8-8aae-4b10-b7d6-ed567e9d0733,03/31/2026 12:30:00,Personal Spending,MEDIUM,USD
 9fb7d941-1e6a-4105-93e5-5066bbaab5af,03/31/2026 12:55:00,Redbook Index (YoY),LOW,USD
 aa3d2ec6-793c-41e2-8a7d-10fc5c43859c,03/31/2026 13:00:00,Housing Price Index (MoM),MEDIUM,USD
 e6e1d340-cb8a-4d02-b029-b0816137aa71,03/31/2026 13:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD
@@ -119,7 +91,6 @@ ec107ef5-e8ea-43a2-ae54-88d840cfca83,03/31/2026 13:45:00,Chicago PMI,MEDIUM,USD
 a98b1ab3-ffbf-4119-9ae1-a922517096f6,04/01/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 75f4d1ad-21af-4e3c-a760-cc8442e2bda1,04/01/2026 12:15:00,ADP Employment Change,HIGH,USD
 041bcf84-5272-4edb-80a3-6ea2aff369e2,04/01/2026 13:45:00,S&P Global Manufacturing PMI,LOW,USD
-a73d4f85-3a7e-477d-967e-472e339b18f1,04/01/2026 14:00:00,Construction Spending (MoM),LOW,USD
 a86fe3fd-b295-4fa1-88fc-ec3d80cf31ba,04/01/2026 14:00:00,ISM Manufacturing Employment Index,MEDIUM,USD
 ad3e1c62-f6d7-4e3e-b7dd-a5152e3eb953,04/01/2026 14:00:00,ISM Manufacturing New Orders Index,MEDIUM,USD
 9e03c746-7411-43fe-b60d-074e034c786b,04/01/2026 14:00:00,ISM Manufacturing PMI,HIGH,USD
@@ -166,8 +137,18 @@ bd569e0a-38bf-4a77-87c7-12d9328e5511,04/08/2026 11:00:00,MBA Mortgage Applicatio
 6ad5bf0c-cf2e-4142-849c-eff6168abc11,04/08/2026 18:00:00,FOMC Minutes,HIGH,USD
 97f2d4e2-9132-4d1b-a69c-5f88e7d41eb4,04/08/2026 19:00:00,Consumer Credit Change,LOW,USD
 3dcfc6ee-f0a2-45a8-9607-5042c5c7b1d1,04/09/2026 12:30:00,Continuing Jobless Claims,LOW,USD
+763bde2c-24ad-4ded-8559-5e3ef8d1c024,04/09/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+9d990f8b-d837-4f83-b2d7-981f8347a71d,04/09/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+d02871c8-11b0-4437-bd52-6988769f4c20,04/09/2026 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
+018899b3-cc3b-4fba-b558-4e3a0d83576c,04/09/2026 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+bd495110-c83a-480e-85c1-e8652af0f269,04/09/2026 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD
 d024a9b2-0b32-4835-b43c-5a605e6c97be,04/09/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
 73bdb037-5e63-4d9a-91ae-8989a39bd0f0,04/09/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
+5b99526a-7389-4241-a422-4b3cb38dc684,04/09/2026 12:30:00,Personal Consumption Expenditures - Price Index (MoM),MEDIUM,USD
+a36bc62b-67d0-45e3-8ede-f0412ef1ccf0,04/09/2026 12:30:00,Personal Consumption Expenditures - Price Index (YoY),MEDIUM,USD
+d90e99b4-0cd8-4daa-a73f-e5e4d98eb1fc,04/09/2026 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
+946662d8-cdb6-4b8a-b7e1-68e0917036ff,04/09/2026 12:30:00,Personal Income (MoM),MEDIUM,USD
+80b80fb8-8aae-4b10-b7d6-ed567e9d0733,04/09/2026 12:30:00,Personal Spending,MEDIUM,USD
 5961dd0c-db2c-4ca9-875c-9fffa6e1f031,04/09/2026 12:30:00,Wholesale Inventories,LOW,USD
 adece1ef-44f6-41b0-a3a9-94381ae5925c,04/09/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
 bb830f75-ffc1-4577-aae7-03488f0470ca,04/09/2026 15:30:00,4-Week Bill Auction,LOW,USD

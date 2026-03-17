@@ -1,16 +1,12 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-b8624280-d03d-4084-8af8-bfc95f023b07,03/16/2026 03:00:00,Money Supply Growth,HIGH,KRW,Release,0.2,Monetary Policy
-b6bab947-eaa1-4ed7-b386-3b86ec9e3e7f,03/16/2026 03:50:00,Trade Balance,MEDIUM,KRW,Release,0.11,Trade and External
-633e96ff-f7d5-4078-908d-11d5b71d4624,03/16/2026 21:00:00,Export Price Growth (YoY),MEDIUM,KRW,Release,0.11,Trade and External
-1891b952-29ed-448e-b498-fe6c20f4f963,03/16/2026 21:00:00,Import Price Growth (YoY),MEDIUM,KRW,Release,0.11,Trade and External
 8d3ba66f-c171-4ead-9772-b4217441164e,03/17/2026 23:00:00,Unemployment Rate,HIGH,KRW,Release,0.18,Labor Market
 54b683df-1ced-44e7-9f65-9beedbad3d78,03/23/2026 21:00:00,Producer Price Index Growth (MoM),HIGH,KRW,Release,0.19,Inflation
 84903527-7fa2-4ab9-b15c-6ae7e9b34a79,03/23/2026 21:00:00,Producer Price Index Growth (YoY),HIGH,KRW,Release,0.19,Inflation
 f3d74139-33e6-46d0-9ebe-f323f4b2d1b0,03/24/2026 21:00:00,Consumer Sentiment Index,MEDIUM,KRW,Release,0.14,Confidence
 5237ec03-16b6-4094-b2d3-19d0012365c1,03/26/2026 21:00:00,BOK Manufacturing BSI,HIGH,KRW,Release,0.17,Growth
-6d758d72-1d5a-43f7-8681-c094b173ec32,03/31/2026 23:00:00,Industrial Output (YoY),HIGH,KRW,Release,0.17,Growth
-95a464ab-6b03-48b6-b1b4-6c07dddfcea2,03/31/2026 23:00:00,Industrial Output Growth,HIGH,KRW,Release,0.17,Growth
-f111de49-06eb-4d1d-99ee-1575cf6f9f66,03/31/2026 23:00:00,Service Sector Output,LOW,KRW,Release,0.09,Money and Credit
+6d758d72-1d5a-43f7-8681-c094b173ec32,03/30/2026 23:00:00,Industrial Output (YoY),HIGH,KRW,Release,0.17,Growth
+95a464ab-6b03-48b6-b1b4-6c07dddfcea2,03/30/2026 23:00:00,Industrial Output Growth,HIGH,KRW,Release,0.17,Growth
+f111de49-06eb-4d1d-99ee-1575cf6f9f66,03/30/2026 23:00:00,Service Sector Output,LOW,KRW,Release,0.09,Money and Credit
 5bb33ceb-4a68-4020-be16-c268219f41fc,04/01/2026 00:00:00,Trade Balance,MEDIUM,KRW,Release,0.11,Trade and External
 298ca744-297c-4862-82e8-528249431036,04/01/2026 00:30:00,S&P Global Manufacturing PMI,HIGH,KRW,Release,0.17,Growth
 203a9567-fc1f-46ae-afac-2ebd91fd3b54,04/01/2026 23:00:00,Consumer Price Index Growth (MoM),HIGH,KRW,Release,0.19,Inflation

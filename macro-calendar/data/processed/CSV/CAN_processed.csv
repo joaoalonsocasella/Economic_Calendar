@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-05957173-720d-4f86-81fc-b069740aa83f,03/16/2026 12:15:00,Housing Starts s.a (YoY),LOW,CAD,Release,0.07,Housing
-ded5d0a3-889e-4195-836c-1525ec505fdd,03/16/2026 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
-85ac4c04-748b-4da3-9261-dd9b32dd6f6c,03/16/2026 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
-e258c1eb-c02c-4eef-b62d-580b45a41151,03/16/2026 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
-286d48fd-4d1f-47fe-8238-6e5080070c60,03/16/2026 12:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
-56c9e336-b458-4cc8-bd83-be3e058fddb9,03/16/2026 12:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
 cfebbcf6-2b4c-4623-a56c-4df6641a5e57,03/18/2026 12:30:00,Canadian Portfolio Investment in Foreign Securities,MEDIUM,CAD,Release,0.11,Trade and External
 e0df0b16-88c3-4e37-9618-1871997c79bf,03/18/2026 12:30:00,Foreign Portfolio Investment in Canadian Securities,MEDIUM,CAD,Release,0.11,Trade and External
 f986b1a4-1b2d-4422-ad18-00ac7194c945,03/18/2026 13:45:00,BoC Interest Rate Decision,MEDIUM,CAD,Speech,0.13,Monetary Policy
@@ -17,11 +11,11 @@ a1b0dc94-84a2-4df1-b773-ea6f99fd38c9,03/20/2026 12:30:00,New Housing Price Index
 1576b594-2c48-45c5-9b0a-7f801048439c,03/20/2026 12:30:00,Raw Material Price Index,MEDIUM,CAD,Release,0.11,Trade and External
 475da439-da65-4907-a9a5-e51d173e854d,03/20/2026 12:30:00,Retail Sales (MoM),HIGH,CAD,Release,0.17,Growth
 6322b64b-0853-4709-9643-d1750974e5b4,03/20/2026 12:30:00,Retail Sales ex Autos (MoM),HIGH,CAD,Release,0.17,Growth
-9ff2dc29-e611-4cc2-a721-c6b598cdc652,03/27/2026 12:30:00,Gross Domestic Product (MoM),LOW,CAD,Release,0.07,Housing
+9ff2dc29-e611-4cc2-a721-c6b598cdc652,03/31/2026 12:30:00,Gross Domestic Product (MoM),LOW,CAD,Release,0.07,Housing
 3ce81da2-c6ca-438b-a0c5-668bd2138469,04/01/2026 13:30:00,S&P Global Manufacturing PMI,HIGH,CAD,Release,0.17,Growth
-928457b6-302f-4465-b18e-2087219c1941,04/07/2026 12:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
-1a0b6416-fc0c-4437-a8e2-ce02967bbf17,04/07/2026 12:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
-97ebb610-686b-439e-a88b-2cd1b7b69619,04/07/2026 12:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
+928457b6-302f-4465-b18e-2087219c1941,04/02/2026 12:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
+1a0b6416-fc0c-4437-a8e2-ce02967bbf17,04/02/2026 12:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
+97ebb610-686b-439e-a88b-2cd1b7b69619,04/02/2026 12:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
 3872810c-b616-4a44-89a7-354600a09839,04/07/2026 14:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD,Release,0.14,Confidence
 90278b67-6fb9-4841-932f-c8cba2852b9d,04/07/2026 14:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD,Release,0.14,Confidence
 7217b878-0c9a-429a-a0f6-47b910b907c5,04/10/2026 12:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
