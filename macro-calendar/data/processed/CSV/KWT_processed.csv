@@ -1,7 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-47afb740-ab25-493e-9ce3-7557646f3478,03/17/2026 07:30:00,Consumer Price Index (MoM),HIGH,KWD,Release,0.19,Inflation
-91e80af7-8fe2-44d1-8ba3-2c19749f10ee,03/17/2026 07:30:00,Consumer Price Index (YoY),HIGH,KWD,Release,0.19,Inflation
-e615d6bc-00a9-4126-8e01-b679fe22355e,03/17/2026 08:00:00,M2 Money Supply,HIGH,KWD,Release,0.2,Monetary Policy
+e615d6bc-00a9-4126-8e01-b679fe22355e,03/24/2026 08:00:00,M2 Money Supply,HIGH,KWD,Release,0.2,Monetary Policy
 44a594b4-a8ac-4374-ae8e-ca3ba04f024b,03/31/2026 13:00:00,Exports,MEDIUM,KWD,Release,0.11,Trade and External
 17b92298-116a-4c49-847f-ef81444497dc,03/31/2026 13:00:00,Imports,MEDIUM,KWD,Release,0.11,Trade and External
 a2847a6f-6c75-47ab-a56c-3a789cf88009,04/14/2026 08:00:00,M2 Money Supply,HIGH,KWD,Release,0.2,Monetary Policy
