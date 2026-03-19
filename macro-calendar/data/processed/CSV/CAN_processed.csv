@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-cfebbcf6-2b4c-4623-a56c-4df6641a5e57,03/18/2026 12:30:00,Canadian Portfolio Investment in Foreign Securities,MEDIUM,CAD,Release,0.11,Trade and External
-e0df0b16-88c3-4e37-9618-1871997c79bf,03/18/2026 12:30:00,Foreign Portfolio Investment in Canadian Securities,MEDIUM,CAD,Release,0.11,Trade and External
-f986b1a4-1b2d-4422-ad18-00ac7194c945,03/18/2026 13:45:00,BoC Interest Rate Decision,MEDIUM,CAD,Speech,0.13,Monetary Policy
-e4406d03-8ad1-4e2a-b5ae-5148fbce70a0,03/18/2026 13:45:00,BoC Monetary Policy Statement,MEDIUM,CAD,Speech,0.13,Monetary Policy
-f1b1f2c8-6307-4dca-9fc6-d90896f89da4,03/18/2026 14:30:00,BoC Press Conference,MEDIUM,CAD,Speech,0.13,Monetary Policy
 d112c4b0-204d-4f22-b720-bbc99d41bd6c,03/19/2026 12:30:00,Employment Insurance Beneficiaries Change (MoM),HIGH,CAD,Release,0.18,Labor Market
 2d65efe6-8f16-4032-acd1-5b047bdf3357,03/20/2026 12:30:00,Industrial Product Price (MoM),HIGH,CAD,Release,0.19,Inflation
 a1b0dc94-84a2-4df1-b773-ea6f99fd38c9,03/20/2026 12:30:00,New Housing Price Index (MoM),LOW,CAD,Release,0.07,Housing

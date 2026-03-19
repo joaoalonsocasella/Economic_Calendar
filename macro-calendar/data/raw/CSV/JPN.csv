@@ -1,9 +1,5 @@
 Id,Start,Name,Impact,Currency
-659e0533-5964-43a6-ab48-20d27df4c44a,03/18/2026 23:50:00,Foreign Bond Investment,LOW,JPY
-d312c2a4-833e-4c3c-8953-4beef3715212,03/18/2026 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
-2541272e-4ace-4933-9865-1122f3d09796,03/18/2026 23:50:00,Machinery Orders (MoM),LOW,JPY
-81254b1e-ed17-486a-83db-35789aa4985a,03/18/2026 23:50:00,Machinery Orders (YoY),LOW,JPY
-f35f28e9-c4f5-4fbc-891c-b303c0b947ee,03/19/2026 03:00:00,BoJ Interest Rate Decision,HIGH,JPY
+f35f28e9-c4f5-4fbc-891c-b303c0b947ee,03/19/2026 02:46:17,BoJ Interest Rate Decision,HIGH,JPY
 9b49135e-1b94-415c-bee3-952422b896d0,03/19/2026 03:00:00,BoJ Monetary Policy Statement,HIGH,JPY
 979831a8-76c9-4025-ae97-49c49cf73712,03/19/2026 04:30:00,Capacity Utilization,LOW,JPY
 6ea0a290-f14b-41cf-bcb0-252de289a115,03/19/2026 04:30:00,Industrial Production (MoM),LOW,JPY

@@ -1,8 +1,4 @@
 Id,Start,Name,Impact,Currency
-21fc62fe-587a-4c9a-8f09-059db8f010a9,03/18/2026 10:00:00,Core Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
-0821c550-f37a-49cf-9e55-3ea41ddf0c34,03/18/2026 10:00:00,Core Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
-37e98843-5c75-46ec-8aa1-519d1b5a5dee,03/18/2026 10:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
-7911a885-800c-47b3-b296-a31dad254c46,03/18/2026 10:00:00,Harmonized Index of Consumer Prices (YoY),LOW,EUR
 59dd60c0-0535-47cf-8997-97a9fefc5f8a,03/19/2026 10:00:00,Construction Output  s.a (MoM),LOW,EUR
 658e44da-887e-449c-904f-b57d942d36b2,03/19/2026 10:00:00,Construction Output w.d.a (YoY),LOW,EUR
 c661a3ae-34c5-4f7c-97ac-bf5faef5e784,03/19/2026 10:00:00,Labor Cost Index,LOW,EUR
@@ -21,6 +17,7 @@ f9d79726-2dea-4588-95e7-f2d352d9aabc,03/23/2026 15:00:00,Consumer Confidence,MED
 89d0ab46-5d93-4497-a84b-7c99566fdba1,03/24/2026 09:00:00,HCOB Composite PMI,HIGH,EUR
 8f5e0a1b-f11e-49fa-bc46-d7d2d32c7082,03/24/2026 09:00:00,HCOB Manufacturing PMI,HIGH,EUR
 438b17b6-dcca-477b-ae12-95c41444999d,03/24/2026 09:00:00,HCOB Services PMI,HIGH,EUR
+1c6cc0e9-b599-464d-bb7e-db47a49de88d,03/24/2026 12:00:00,ECB's Sleijpen speech,MEDIUM,EUR
 e7bdea6e-59c4-4342-ac1a-c4fe685e0152,03/26/2026 09:00:00,M3 Money Supply (3m),LOW,EUR
 36561946-552d-4139-bc7f-46055a96c0c0,03/26/2026 09:00:00,M3 Money Supply (YoY),LOW,EUR
 9ed08809-13af-4161-a04e-953a431ef4e7,03/26/2026 09:00:00,Private Loans (YoY),LOW,EUR
