@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-f35f28e9-c4f5-4fbc-891c-b303c0b947ee,03/19/2026 02:46:17,BoJ Interest Rate Decision,HIGH,JPY,Release,0.2,Monetary Policy
-9b49135e-1b94-415c-bee3-952422b896d0,03/19/2026 03:00:00,BoJ Monetary Policy Statement,MEDIUM,JPY,Speech,0.13,Monetary Policy
-979831a8-76c9-4025-ae97-49c49cf73712,03/19/2026 04:30:00,Capacity Utilization,HIGH,JPY,Release,0.2,Monetary Policy
-6ea0a290-f14b-41cf-bcb0-252de289a115,03/19/2026 04:30:00,Industrial Production (MoM),HIGH,JPY,Release,0.17,Growth
-f6171ec1-5b71-4eab-bf2a-d7bd7368b844,03/19/2026 04:30:00,Industrial Production (YoY),HIGH,JPY,Release,0.17,Growth
-b54f1db9-ce1c-4e1e-9242-a9ca40999513,03/19/2026 06:30:00,BoJ Press Conference,MEDIUM,JPY,Speech,0.13,Monetary Policy
 d3e772b3-0817-44c3-ad75-7d8349adc9a4,03/20/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
 dc3f6782-070a-45db-9f47-8c1b21157bfe,03/23/2026 23:30:00,National Consumer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
 c436d1bd-80e6-40b9-85f6-0ead9c4bee28,03/23/2026 23:30:00,"National CPI ex Food, Energy (YoY)",HIGH,JPY,Release,0.19,Inflation

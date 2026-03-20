@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-c4af1feb-b105-47a5-93be-db71feb9c7f2,03/19/2026 08:30:00,Corporate Sector Wages,LOW,PLN,Release,0.09,Money and Credit
-10297757-93e3-4d1a-b064-ca66f243b319,03/19/2026 08:30:00,Industrial Output (YoY),HIGH,PLN,Release,0.17,Growth
-652cf3f2-241a-4f13-8fd7-e09bcf367e94,03/19/2026 08:30:00,Producer Price Index (YoY),HIGH,PLN,Release,0.19,Inflation
 57ad00c7-8f95-4d7f-876c-c9da0e712f24,03/23/2026 09:00:00,Retail Sales (YoY),HIGH,PLN,Release,0.17,Growth
 feec9337-12a8-4a43-a461-b92f7dcee9af,03/23/2026 13:00:00,M3 Money Supply (YoY),HIGH,PLN,Release,0.19,Inflation
 2169320f-4429-40d3-a460-ee2c60d3ee1f,03/24/2026 09:00:00,Unemployment (MoM),HIGH,PLN,Release,0.18,Labor Market

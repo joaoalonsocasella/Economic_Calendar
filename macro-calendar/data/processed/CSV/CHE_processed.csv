@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-aea1f7f2-aa81-4084-952b-65774db11c4b,03/19/2026 07:00:00,Exports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
-ccdb4de0-7e93-4462-af2b-bfef5b0cca0f,03/19/2026 07:00:00,Imports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
-e2cd23e7-8f87-4924-9fce-103c6473cd1b,03/19/2026 07:00:00,Trade Balance,MEDIUM,CHF,Release,0.11,Trade and External
-36dd71d8-8ee6-4257-8ee0-b077ad5816a7,03/19/2026 08:30:00,SNB Interest Rate Decision,HIGH,CHF,Release,0.2,Monetary Policy
-c8dac05c-6a50-4a06-aec1-13e2a9f4af0f,03/19/2026 08:30:00,SNB Monetary Policy Assessment,MEDIUM,CHF,Speech,0.13,Monetary Policy
-d845e82e-c4d8-4c99-97b1-2d12a20ca26d,03/19/2026 09:00:00,SNB Press Conference,MEDIUM,CHF,Speech,0.13,Monetary Policy
 9fe039e6-ab47-4d1d-a8c0-f0919912c33b,03/25/2026 09:00:00,ZEW Survey – Expectations,MEDIUM,CHF,Release,0.14,Confidence
 8b1bafe2-4d6e-4cb5-a364-3b0c498abbdc,03/25/2026 14:00:00,SNB Quarterly Bulletin,HIGH,CHF,Release,0.2,Monetary Policy
 4c09b031-ff5a-47fd-996e-4be35afc884a,03/29/2026 01:00:00,Daylight Saving Time ,HIGH,CHF,Release,0.2,Monetary Policy

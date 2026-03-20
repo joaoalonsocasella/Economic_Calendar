@@ -1,17 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-7500e1fe-1bd0-436b-9ef2-c277550a59bb,03/19/2026 07:00:00,Average Earnings Excluding Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
-2ab65033-4120-4945-8951-983a80831db6,03/19/2026 07:00:00,Average Earnings Including Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
-8e7bb1c6-9bf0-4404-90c9-acb1d5342e24,03/19/2026 07:00:00,Claimant Count Change,HIGH,GBP,Release,0.18,Labor Market
-beda5b0d-ef0e-4f08-b939-4d9ccacbd733,03/19/2026 07:00:00,Claimant Count Rate,HIGH,GBP,Release,0.18,Labor Market
-f2f3362f-9163-4159-8eff-5b0690a95ee0,03/19/2026 07:00:00,Employment Change (3M),HIGH,GBP,Release,0.18,Labor Market
-b4494c52-bf8f-4832-b1bf-30ebd2c07b6d,03/19/2026 07:00:00,ILO Unemployment Rate (3M),HIGH,GBP,Release,0.18,Labor Market
-42961d6f-958b-4e27-a167-0dfc888284fc,03/19/2026 12:00:00,BoE Interest Rate Decision,MEDIUM,GBP,Speech,0.13,Monetary Policy
-5473102a-1963-473e-ad07-ce224114dff1,03/19/2026 12:00:00,BoE Minutes,HIGH,GBP,Release,0.2,Monetary Policy
-ea852b0d-05f5-4159-b1cc-210431e59b10,03/19/2026 12:00:00,BoE Monetary Policy Summary,MEDIUM,GBP,Speech,0.13,Monetary Policy
-af9295ba-006e-457b-95cd-d36aa7463c2d,03/19/2026 12:00:00,BoE MPC Vote Rate Cut,MEDIUM,GBP,Speech,0.13,Monetary Policy
-f2b9326d-2f6f-4810-a37d-79c121ec0d6f,03/19/2026 12:00:00,BoE MPC Vote Rate Hike,MEDIUM,GBP,Speech,0.13,Monetary Policy
-9ccdbf3c-39c4-48ca-b0f7-382abfa38ec0,03/19/2026 12:00:00,BoE MPC Vote Rate Unchanged,MEDIUM,GBP,Speech,0.13,Monetary Policy
-7c10495a-eb52-4506-a26f-3818fa3ae648,03/20/2026 06:00:00,Public Sector Net Borrowing,LOW,GBP,Release,0.09,Money and Credit
+7c10495a-eb52-4506-a26f-3818fa3ae648,03/20/2026 07:00:00,Public Sector Net Borrowing,LOW,GBP,Release,0.09,Money and Credit
 920f3fb8-89bd-45f6-b35a-284bdc19eb7c,03/20/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 e2795826-b85b-4799-bdfe-38a88ac93f7a,03/24/2026 09:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
 de2025b3-a404-455e-b395-5caf0c4089e6,03/24/2026 09:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
