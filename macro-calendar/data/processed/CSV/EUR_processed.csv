@@ -1,25 +1,26 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-898975db-9448-40bf-b16f-ccb12504eb07,03/20/2026 07:35:00,ECB's Escrivá speech,HIGH,EUR,Speech,0.552,Monetary Policy
-f874a235-170a-44a4-a9f5-930e7cebc5e3,03/20/2026 07:35:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-ffa969c7-d7b8-4592-a1ae-847421e4c3bf,03/20/2026 07:35:00,ECB's Villeroy speech,HIGH,EUR,Speech,0.552,Monetary Policy
-5243ce94-05b0-40e5-a699-f00c2c7e12f4,03/20/2026 09:00:00,Current Account n.s.a,HIGH,EUR,Release,0.468,Trade and External
-161c13a8-eb3b-4fd2-9dca-eefec9cc4788,03/20/2026 09:00:00,Current Account s.a,HIGH,EUR,Release,0.468,Trade and External
-78860f0f-ef7f-4181-a251-3c0e50ef708f,03/20/2026 10:00:00,Trade Balance n.s.a.,HIGH,EUR,Release,0.468,Trade and External
-d8f8972d-24d2-47dc-9493-0f5dca7becb8,03/20/2026 10:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External
-22ccdf3a-0cf4-4cf9-8181-b1cce67e616b,03/20/2026 17:30:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-2223021e-3b40-4def-ac03-9d7895ad8fc6,03/20/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 c458582d-01d2-4196-b936-c0b2dbd17240,03/21/2026 08:30:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
+768fce69-6559-4b64-a4ea-577c2028ffc8,03/23/2026 08:45:00,ECB's Escrivá speech,HIGH,EUR,Speech,0.552,Monetary Policy
 f9d79726-2dea-4588-95e7-f2d352d9aabc,03/23/2026 15:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+b601ee1e-f324-47a2-aa03-40d5a1753fea,03/23/2026 15:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
+e231250f-1e6d-423a-a008-c68d8e7d74a8,03/23/2026 16:00:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
 89d0ab46-5d93-4497-a84b-7c99566fdba1,03/24/2026 09:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 8f5e0a1b-f11e-49fa-bc46-d7d2d32c7082,03/24/2026 09:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 438b17b6-dcca-477b-ae12-95c41444999d,03/24/2026 09:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 ac061a26-871c-4a88-aded-b751ca499fcf,03/24/2026 10:00:00,ECB's Kocher speech,HIGH,EUR,Speech,0.552,Monetary Policy
 1c6cc0e9-b599-464d-bb7e-db47a49de88d,03/24/2026 12:00:00,ECB's Sleijpen speech,HIGH,EUR,Speech,0.552,Monetary Policy
+c9a73772-ceb6-412d-b32a-786b63c92698,03/24/2026 13:30:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
 b884f659-74ab-4dd9-b821-c9dc6a84c0ca,03/24/2026 15:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
+9a434e41-d95b-46b7-af4e-87f5d2d00801,03/24/2026 15:45:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
+7eb9f168-55da-49db-bdee-74377d36f502,03/25/2026 08:45:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
+dd02d4dc-8a2c-469f-b67c-8932c56e6a7e,03/25/2026 09:15:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
+2259ef64-d835-4abf-b61c-8e01a9d9fd3b,03/26/2026 09:00:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
 e7bdea6e-59c4-4342-ac1a-c4fe685e0152,03/26/2026 09:00:00,M3 Money Supply (3m),HIGH,EUR,Release,0.85,Monetary Policy
 36561946-552d-4139-bc7f-46055a96c0c0,03/26/2026 09:00:00,M3 Money Supply (YoY),HIGH,EUR,Release,0.807,Inflation
 9ed08809-13af-4161-a04e-953a431ef4e7,03/26/2026 09:00:00,Private Loans (YoY),HIGH,EUR,Release,0.383,Money and Credit
+82e4c895-6244-4ddf-bf9f-ac0f1637386f,03/27/2026 16:00:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 0d96f1a5-fbe3-4970-b59f-27246b06eca3,03/27/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
+b44d5f23-ae30-4be5-a6e6-61555e166c1f,03/28/2026 09:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
 00b5519b-c8c3-4e22-955e-10196fb718e7,03/29/2026 03:00:00,Daylight Saving Time,HIGH,EUR,Release,0.85,Monetary Policy
 3c98e229-b739-4593-816f-0190752b45af,03/30/2026 09:00:00,Business Climate,HIGH,EUR,Release,0.595,Confidence
 fa833e92-cf23-42e3-a361-374cae355ac1,03/30/2026 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence

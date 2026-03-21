@@ -1,8 +1,4 @@
 Id,Start,Name,Impact,Currency
-520365c7-746a-4fb1-b391-679bbd8e52e0,03/20/2026 17:00:00,Baker Hughes US Oil Rig Count,LOW,USD
-c4e71d97-fdc2-4dab-8e5a-dde9e63c23a2,03/20/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD
-0ac09190-c5b9-4fc1-af53-8943701487fe,03/20/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD
-8017fdc4-a35c-4309-b601-f098285c5ec2,03/20/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 b43e3e2b-9039-4fe8-baca-82e489f83cc6,03/21/2026 14:30:00,Fed's Chair Powell speech,HIGH,USD
 dad6deea-1fac-4558-afd4-014ea15e3d6c,03/23/2026 12:30:00,"Chicago Fed National Activity Index ",LOW,USD
 84bcee9d-7a61-4bdd-b93a-82a96234d458,03/23/2026 14:00:00,Construction Spending (MoM),LOW,USD
@@ -44,6 +40,8 @@ edab2b13-e8ec-44da-abdc-e6399c1f67e5,03/27/2026 14:00:00,Michigan Consumer Expec
 6f365940-a166-4c71-96a7-0d89437438af,03/27/2026 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD
 d0febe76-a774-4728-be41-46c9066de85a,03/27/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
 6964fd80-779f-4c49-89c2-ef0bd836f8ad,03/27/2026 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD
+4ded4188-26ef-4384-be93-a4759057d5a0,03/27/2026 15:30:00,Fed's Daly speech,MEDIUM,USD
+f08e0ca3-b534-4de6-b749-00301522760d,03/27/2026 15:40:00,Fed's Paulson speech,MEDIUM,USD
 b1642f6e-1576-4175-9650-95a7830fb534,03/27/2026 17:00:00,Baker Hughes US Oil Rig Count,LOW,USD
 2866ee8a-40af-4e8e-892f-b99e327bb595,03/27/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD
 503e816f-e2fc-4b2d-92f4-839153c47a05,03/27/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD
