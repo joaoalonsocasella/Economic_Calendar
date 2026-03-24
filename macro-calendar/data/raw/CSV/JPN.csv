@@ -1,7 +1,4 @@
 Id,Start,Name,Impact,Currency
-dc3f6782-070a-45db-9f47-8c1b21157bfe,03/23/2026 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
-c436d1bd-80e6-40b9-85f6-0ead9c4bee28,03/23/2026 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
-7b014305-22ab-4929-b40f-b38a4e266b46,03/23/2026 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
 8ca846e9-86ce-4086-b16f-c0f11863766f,03/24/2026 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
 3d3b257a-efaf-4a5f-98be-923e7d8e4eaf,03/24/2026 00:30:00,Jibun Bank Services PMI,LOW,JPY
 1a29d322-a8f5-4516-80ea-4a009a986555,03/24/2026 23:50:00,BoJ Monetary Policy Meeting Minutes,MEDIUM,JPY
@@ -37,24 +34,24 @@ cb340927-23a9-4767-ad17-3a7559f1ed2c,03/31/2026 23:50:00,Tankan Large Manufactur
 9255d0da-aec0-46f4-9f34-cf92ef1de346,04/02/2026 03:35:00,10-y Bond Auction,LOW,JPY
 872e9461-160c-4f0b-bf37-7ab6ff0daaf9,04/03/2026 00:30:00,Jibun Bank Services PMI,LOW,JPY
 3eacad9c-be11-443f-b6ee-3d1c4c3bff0a,04/03/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
-5c9c51c5-9534-4b3d-8138-2ee3748006bc,04/06/2026 05:00:00,Coincident Index,LOW,JPY
-4c8497ac-fcc2-4fc6-88a4-3b863fcaf32e,04/06/2026 05:00:00,Leading Economic Index,LOW,JPY
+0b58b879-aa4d-434f-b056-a39c70ddc5de,04/06/2026 23:30:00,Overall Household Spending (YoY),LOW,JPY
+62b8a7dd-d0e5-4853-b1d5-de9b81571830,04/06/2026 23:50:00,JP Foreign Reserves,LOW,JPY
+5c9c51c5-9534-4b3d-8138-2ee3748006bc,04/07/2026 05:00:00,Coincident Index,LOW,JPY
+4c8497ac-fcc2-4fc6-88a4-3b863fcaf32e,04/07/2026 05:00:00,Leading Economic Index,LOW,JPY
 5029c347-d829-44c1-8278-2a923b741198,04/07/2026 23:30:00,Labor Cash Earnings (YoY),MEDIUM,JPY
-3ed254de-a43e-4f06-9f6c-398482d8135d,04/08/2026 23:50:00,Current Account n.s.a.,MEDIUM,JPY
+3ed254de-a43e-4f06-9f6c-398482d8135d,04/07/2026 23:50:00,Current Account n.s.a.,MEDIUM,JPY
+a3c9db69-2b62-4953-b271-d3dc1bf241be,04/07/2026 23:50:00,Trade Balance - BOP Basis,LOW,JPY
+5efdfae1-172c-4159-a464-fe4ee6575dcb,04/08/2026 05:00:00,Eco Watchers Survey: Current,LOW,JPY
+2bd05385-cc64-4bda-934b-c38f93952bbd,04/08/2026 05:00:00,Eco Watchers Survey: Outlook,LOW,JPY
 f323bf89-f57a-4864-9b30-3efef018ea2f,04/08/2026 23:50:00,Foreign Bond Investment,LOW,JPY
 12d7219a-8a4a-4f0d-bc16-aec0fa35d0af,04/08/2026 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
-a3c9db69-2b62-4953-b271-d3dc1bf241be,04/08/2026 23:50:00,Trade Balance - BOP Basis,LOW,JPY
 5c47a03d-9e01-4541-aa75-17365dd8146f,04/09/2026 05:00:00,Consumer Confidence Index,LOW,JPY
 b5dec8f8-6ac8-4b57-a72e-760263ca28b6,04/09/2026 06:00:00,Machine Tool Orders (YoY),LOW,JPY
-0b58b879-aa4d-434f-b056-a39c70ddc5de,04/09/2026 23:30:00,Overall Household Spending (YoY),LOW,JPY
 d0e876a7-1a50-434d-82e6-bcc5f4687eb5,04/09/2026 23:50:00,Bank Lending (YoY),LOW,JPY
-62b8a7dd-d0e5-4853-b1d5-de9b81571830,04/09/2026 23:50:00,JP Foreign Reserves,LOW,JPY
-5efdfae1-172c-4159-a464-fe4ee6575dcb,04/10/2026 05:00:00,Eco Watchers Survey: Current,LOW,JPY
-2bd05385-cc64-4bda-934b-c38f93952bbd,04/10/2026 05:00:00,Eco Watchers Survey: Outlook,LOW,JPY
+b1a2f411-9b1c-4ba1-bf39-f5873a57c429,04/09/2026 23:50:00,Producer Price Index (MoM),LOW,JPY
+cc5ff36c-de61-4c5f-b285-8aadcf66b5b9,04/09/2026 23:50:00,Producer Price Index (YoY),LOW,JPY
 a713a8f8-2b92-4d97-8c3a-02ffbbfd02b7,04/10/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 03184499-7d83-4555-86b0-0cafade30692,04/12/2026 23:50:00,Money Supply M2+CD (YoY),LOW,JPY
-b1a2f411-9b1c-4ba1-bf39-f5873a57c429,04/14/2026 23:50:00,Producer Price Index (MoM),LOW,JPY
-cc5ff36c-de61-4c5f-b285-8aadcf66b5b9,04/14/2026 23:50:00,Producer Price Index (YoY),LOW,JPY
 06ec704d-b6b2-4f10-87c0-e8ec29670b65,04/15/2026 04:30:00,Capacity Utilization,LOW,JPY
 8612548c-d253-46d9-aeb8-244bb639e38d,04/15/2026 04:30:00,Industrial Production (MoM),LOW,JPY
 ae966914-832a-478e-b1f4-d3e86ffa182a,04/15/2026 04:30:00,Industrial Production (YoY),LOW,JPY

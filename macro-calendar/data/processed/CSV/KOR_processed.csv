@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-54b683df-1ced-44e7-9f65-9beedbad3d78,03/23/2026 21:00:00,Producer Price Index Growth (MoM),HIGH,KRW,Release,0.19,Inflation
-84903527-7fa2-4ab9-b15c-6ae7e9b34a79,03/23/2026 21:00:00,Producer Price Index Growth (YoY),HIGH,KRW,Release,0.19,Inflation
 f3d74139-33e6-46d0-9ebe-f323f4b2d1b0,03/24/2026 21:00:00,Consumer Sentiment Index,MEDIUM,KRW,Release,0.14,Confidence
 5237ec03-16b6-4094-b2d3-19d0012365c1,03/26/2026 21:00:00,BOK Manufacturing BSI,HIGH,KRW,Release,0.17,Growth
 6d758d72-1d5a-43f7-8681-c094b173ec32,03/30/2026 23:00:00,Industrial Output (YoY),HIGH,KRW,Release,0.17,Growth
@@ -10,8 +8,9 @@ f111de49-06eb-4d1d-99ee-1575cf6f9f66,03/30/2026 23:00:00,Service Sector Output,L
 298ca744-297c-4862-82e8-528249431036,04/01/2026 00:30:00,S&P Global Manufacturing PMI,HIGH,KRW,Release,0.17,Growth
 203a9567-fc1f-46ae-afac-2ebd91fd3b54,04/01/2026 23:00:00,Consumer Price Index Growth (MoM),HIGH,KRW,Release,0.19,Inflation
 ab4cca92-bdfa-4e28-b0d7-f9a602be8a28,04/01/2026 23:00:00,Consumer Price Index Growth (YoY),HIGH,KRW,Release,0.19,Inflation
-7b5b4a4d-f605-4159-8a95-caef61b0c602,04/05/2026 21:00:00,FX Reserves,LOW,KRW,Release,0.09,Money and Credit
+7b5b4a4d-f605-4159-8a95-caef61b0c602,04/02/2026 21:00:00,FX Reserves,LOW,KRW,Release,0.09,Money and Credit
 b3bb0ed3-1092-4ebf-a02f-82c65479aff2,04/07/2026 23:00:00,Current Account Balance,MEDIUM,KRW,Release,0.11,Trade and External
+d1b8023a-7b47-45da-8e3d-6a362a7c9902,04/10/2026 01:00:00,BoK Interest Rate Decision,HIGH,KRW,Release,0.2,Monetary Policy
 801fd8c5-90ac-4743-9e50-41959aadfe4b,04/14/2026 03:00:00,Money Supply Growth,HIGH,KRW,Release,0.2,Monetary Policy
 a369e5ab-0550-4d4a-8e9f-4de9d0837854,04/14/2026 21:00:00,Export Price Growth (YoY),MEDIUM,KRW,Release,0.11,Trade and External
 f1cff1c4-d963-4bb8-8ad0-94e17dbb4a1c,04/14/2026 21:00:00,Import Price Growth (YoY),MEDIUM,KRW,Release,0.11,Trade and External
@@ -22,7 +21,6 @@ f4b9c30b-5abe-4afb-be75-c7c15b4a2700,04/14/2026 23:00:00,Unemployment Rate,HIGH,
 88f2266b-4454-4830-9b1d-c2511d432001,04/22/2026 21:00:00,Consumer Sentiment Index,MEDIUM,KRW,Release,0.14,Confidence
 2fb322db-897e-4ce6-b1e5-09a77c8a4c74,04/22/2026 23:00:00,Gross Domestic Product Growth (QoQ) ,HIGH,KRW,Release,0.17,Growth
 f71cb71a-18de-4c7a-a799-1f7f476f0d7f,04/22/2026 23:00:00,Gross Domestic Product Growth (YoY),HIGH,KRW,Release,0.17,Growth
-d1b8023a-7b47-45da-8e3d-6a362a7c9902,04/27/2026 01:00:00,BoK Interest Rate Decision,HIGH,KRW,Release,0.2,Monetary Policy
 c1524835-8225-4c34-83d3-f2cdf4ff850c,04/27/2026 21:00:00,BOK Manufacturing BSI,HIGH,KRW,Release,0.17,Growth
 29bfef96-f959-4af5-9690-877ce4b0942a,04/30/2026 23:00:00,Industrial Output (YoY),HIGH,KRW,Release,0.17,Growth
 6a3cd9fd-85a2-4ac1-8cdd-60b57950a373,04/30/2026 23:00:00,Industrial Output Growth,HIGH,KRW,Release,0.17,Growth

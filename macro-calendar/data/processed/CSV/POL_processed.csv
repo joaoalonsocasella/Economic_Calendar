@@ -1,9 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-57ad00c7-8f95-4d7f-876c-c9da0e712f24,03/23/2026 09:00:00,Retail Sales (YoY),HIGH,PLN,Release,0.17,Growth
-feec9337-12a8-4a43-a461-b92f7dcee9af,03/23/2026 13:00:00,M3 Money Supply (YoY),HIGH,PLN,Release,0.19,Inflation
 2169320f-4429-40d3-a460-ee2c60d3ee1f,03/24/2026 09:00:00,Unemployment (MoM),HIGH,PLN,Release,0.18,Labor Market
 c111878f-868a-46f6-a5a5-c5bdadc1668a,04/01/2026 07:00:00,S&P Global Manufacturing PMI,HIGH,PLN,Release,0.17,Growth
-be702b55-f76f-4c6b-8a81-7f8fb6ebacb5,04/06/2026 12:00:00,Central Bank FX Reserves,LOW,PLN,Release,0.09,Money and Credit
+be702b55-f76f-4c6b-8a81-7f8fb6ebacb5,04/07/2026 12:00:00,Central Bank FX Reserves,LOW,PLN,Release,0.09,Money and Credit
 5d6b3f2a-cfdb-4b5f-b58b-baa9eec98222,04/09/2026 13:00:00,NBP Base rate,HIGH,PLN,Release,0.2,Monetary Policy
 5cbd8240-00e0-44a1-ad71-4ddbc88fdabc,04/13/2026 12:00:00,Current Account,MEDIUM,PLN,Release,0.11,Trade and External
 a05deda8-0e40-48b8-bb52-b770b25f9acd,04/15/2026 08:00:00,Consumer Price Index (MoM),HIGH,PLN,Release,0.19,Inflation

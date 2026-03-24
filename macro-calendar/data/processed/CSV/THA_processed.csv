@@ -1,11 +1,11 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-c8f14635-c77f-483d-a619-90d1a3172aec,03/27/2026 03:30:00,Customs-Based Trade Balance,MEDIUM,THB,Release,0.11,Trade and External
+c8f14635-c77f-483d-a619-90d1a3172aec,03/24/2026 03:30:00,Customs-Based Trade Balance,MEDIUM,THB,Release,0.11,Trade and External
 beccb125-4475-4a9c-82e1-a17926bf956d,03/31/2026 07:00:00,Current Account,MEDIUM,THB,Release,0.11,Trade and External
 99d1fad7-8aa7-4233-9034-f98eb4678c63,03/31/2026 07:00:00,Private Consumption Index,LOW,THB,Release,0.09,Money and Credit
 2234eead-ecb3-43df-be9f-5a4b593add53,03/31/2026 07:00:00,Private Investment Index,HIGH,THB,Release,0.17,Growth
 e05e09ae-b3c6-4389-85bb-6a2728e79176,03/31/2026 07:00:00,Trade Balance,MEDIUM,THB,Release,0.11,Trade and External
-e2c877a5-8183-499f-8696-215849052f90,04/06/2026 03:30:00,Consumer Price Index (YoY),HIGH,THB,Release,0.19,Inflation
-4a109afb-2793-4ad9-8c0f-cfb9409acce8,04/06/2026 03:30:00,Core Consumer Price Index (YoY),HIGH,THB,Release,0.19,Inflation
+e2c877a5-8183-499f-8696-215849052f90,04/07/2026 03:30:00,Consumer Price Index (YoY),HIGH,THB,Release,0.19,Inflation
+4a109afb-2793-4ad9-8c0f-cfb9409acce8,04/07/2026 03:30:00,Core Consumer Price Index (YoY),HIGH,THB,Release,0.19,Inflation
 b0c2b37f-7b5c-4950-a9b7-681272c034b5,04/23/2026 03:30:00,Customs-Based Trade Balance,MEDIUM,THB,Release,0.11,Trade and External
 e0977c03-127f-4b6b-a25a-6b2da51aa37e,04/29/2026 07:00:00,BoT Interest Rate Decision,HIGH,THB,Release,0.2,Monetary Policy
 252af017-01b9-4d4f-aa6a-a41f0c2c5cbb,04/30/2026 07:00:00,Current Account,MEDIUM,THB,Release,0.11,Trade and External

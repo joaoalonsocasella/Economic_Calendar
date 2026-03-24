@@ -31,20 +31,21 @@ cf34a793-f667-4883-8067-bed432800fd9,03/31/2026 06:00:00,Retail Sales (YoY),HIGH
 e8bc8613-094b-48b0-8c87-f2969575b668,03/31/2026 07:55:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
 bb03e547-665f-44d0-9a4f-7e6fdeb906a5,03/31/2026 07:55:00,Unemployment Rate s.a.,HIGH,EUR,Release,0.765,Labor Market
 d760ede4-d83f-4195-9a4b-5fd730d26776,04/01/2026 07:55:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
-527401a7-e965-4f85-85a3-50d4f2627357,04/03/2026 07:55:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
-6ce8205c-bdcc-472b-8c2e-a62da6cf6fbd,04/03/2026 07:55:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
-2e9686a6-49f5-40d4-8607-65246305a44d,04/06/2026 06:00:00,Exports (MoM),HIGH,EUR,Release,0.468,Trade and External
-0d4838a6-7ddf-4515-b735-dc21fa427a61,04/06/2026 06:00:00,Imports (MoM),HIGH,EUR,Release,0.468,Trade and External
-b8bf483c-7bbd-4c3b-81e8-5fd8cb878234,04/06/2026 06:00:00,Industrial Production n.s.a. w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth
-426da9d8-a790-4c88-a8b0-40de3930002a,04/06/2026 06:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
-bc735f11-99df-43ab-a25d-e32fe393cdd6,04/06/2026 06:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External
-ecf31458-b5b2-4e5c-a57d-3caa75913be6,04/07/2026 06:00:00,Factory Orders n.s.a. (YoY),HIGH,EUR,Release,0.722,Growth
-f833e968-d7e2-4b40-b3e3-6d6de39c8737,04/07/2026 06:00:00,Factory Orders s.a. (MoM),HIGH,EUR,Release,0.722,Growth
+527401a7-e965-4f85-85a3-50d4f2627357,04/07/2026 07:55:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
+6ce8205c-bdcc-472b-8c2e-a62da6cf6fbd,04/07/2026 07:55:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+ecf31458-b5b2-4e5c-a57d-3caa75913be6,04/08/2026 06:00:00,Factory Orders n.s.a. (YoY),HIGH,EUR,Release,0.722,Growth
+f833e968-d7e2-4b40-b3e3-6d6de39c8737,04/08/2026 06:00:00,Factory Orders s.a. (MoM),HIGH,EUR,Release,0.722,Growth
+ef7734e4-efe7-4bbb-ba34-87c6dfe351ba,04/08/2026 09:30:00,10-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
+2e9686a6-49f5-40d4-8607-65246305a44d,04/09/2026 06:00:00,Exports (MoM),HIGH,EUR,Release,0.468,Trade and External
+0d4838a6-7ddf-4515-b735-dc21fa427a61,04/09/2026 06:00:00,Imports (MoM),HIGH,EUR,Release,0.468,Trade and External
+b8bf483c-7bbd-4c3b-81e8-5fd8cb878234,04/09/2026 06:00:00,Industrial Production n.s.a. w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth
+426da9d8-a790-4c88-a8b0-40de3930002a,04/09/2026 06:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
+bc735f11-99df-43ab-a25d-e32fe393cdd6,04/09/2026 06:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External
 da18c14a-6341-4cbf-a724-96e08cd2aca5,04/10/2026 06:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 f61601c4-d231-4ad7-99e8-5cae55965100,04/10/2026 06:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 c2f18e9a-b834-4391-a257-3fdfe46fbdb0,04/10/2026 06:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 2223bdb9-a59c-4883-bbde-a7556a378438,04/10/2026 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
-e3cf311f-9254-470b-ba1a-ca07d5051f2c,04/13/2026 12:30:00,Current Account n.s.a.,HIGH,EUR,Release,0.468,Trade and External
+e3cf311f-9254-470b-ba1a-ca07d5051f2c,04/10/2026 12:30:00,Current Account n.s.a.,HIGH,EUR,Release,0.468,Trade and External
 204a8d39-cedb-416e-a417-79ce6e2602c4,04/14/2026 06:00:00,Wholesale Price Index (MoM),HIGH,EUR,Release,0.468,Trade and External
 b6400a69-9cd2-4f98-9f86-504a2076b4e9,04/14/2026 06:00:00,Wholesale Price Index (YoY),HIGH,EUR,Release,0.468,Trade and External
 52308861-7817-4623-ab3a-fde4d2aca840,04/14/2026 09:00:00,ZEW Survey – Current Situation,HIGH,EUR,Release,0.595,Confidence
