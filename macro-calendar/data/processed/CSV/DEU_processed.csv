@@ -1,11 +1,8 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-9c3b0139-0dfd-4ab2-bec4-5c8331f81997,03/24/2026 08:30:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
-3327ec10-59d6-48bd-8373-e6e4c9e4153d,03/24/2026 08:30:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
-dd03c5e1-8467-4de8-929a-e8ebfa740ac7,03/24/2026 08:30:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
-01c413de-380b-4c68-93c1-cafc26886e04,03/24/2026 10:30:00,5-y Note Auction,HIGH,EUR,Release,0.383,Money and Credit
 e186c98e-bbe7-4656-a681-15ae4754ebaa,03/25/2026 09:00:00,IFO – Business Climate,HIGH,EUR,Release,0.595,Confidence
 3695838d-72e4-4016-9859-8b146e354b89,03/25/2026 09:00:00,IFO – Current Assessment,HIGH,EUR,Release,0.595,Confidence
 4c84f370-fcfa-4903-aa7f-5b3cc61847a2,03/25/2026 09:00:00,IFO – Expectations,HIGH,EUR,Release,0.595,Confidence
+89af7a98-d52c-4ab7-b6a9-ab308804fced,03/25/2026 10:30:00,30-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 99933da1-dda5-4924-b5b9-ad0c949508b2,03/26/2026 07:00:00,GfK Consumer Confidence Survey,HIGH,EUR,Release,0.595,Confidence
 fc412cbc-de3e-4190-9554-13ed1d080393,03/26/2026 11:00:00,German Buba Monthly Report,HIGH,EUR,Release,0.85,Monetary Policy
 c536f2c8-c9eb-428b-8034-77614e2e7ebe,03/30/2026 08:00:00,Baden-Wuerttemberg CPI (MoM),HIGH,EUR,Release,0.807,Inflation

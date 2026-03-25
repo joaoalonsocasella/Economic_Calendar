@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e2795826-b85b-4799-bdfe-38a88ac93f7a,03/24/2026 09:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
-de2025b3-a404-455e-b395-5caf0c4089e6,03/24/2026 09:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
-f140b863-a39c-4843-929e-9c63ce112572,03/24/2026 09:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
-cb22a76e-e01c-4df3-8471-04cb1248277e,03/24/2026 10:30:00,10-y Bond Auction,LOW,GBP,Release,0.09,Money and Credit
 0bafc8f8-ae92-4e16-8a68-54bab7be9b38,03/25/2026 07:00:00,Consumer Price Index (MoM),HIGH,GBP,Release,0.19,Inflation
 18aec9be-22ac-4ebc-8d35-e48fced63e91,03/25/2026 07:00:00,Consumer Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
 1ce12d44-6ff6-45c7-8775-8987778766db,03/25/2026 07:00:00,Core Consumer Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
