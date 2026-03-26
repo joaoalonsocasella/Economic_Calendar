@@ -1,6 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e42be4c5-768b-4115-8fc5-392886b8ff8d,03/25/2026 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
-350e8f0b-f7c1-4464-af1d-347c0d5e5b06,03/25/2026 16:00:00,Industrial Output,HIGH,RUB,Release,0.17,Growth
+e42be4c5-768b-4115-8fc5-392886b8ff8d,03/26/2026 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 e2ee3734-1d86-4a22-8e8e-50ec662426e6,04/01/2026 06:00:00,S&P Global Manufacturing PMI,HIGH,RUB,Release,0.17,Growth
 bce1dc24-9699-433c-b9a7-acc032aa1935,04/02/2026 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 a8d4e436-d2b1-4c2e-9e46-0b4116a2be65,04/03/2026 06:00:00,S&P Global Services PMI,HIGH,RUB,Release,0.17,Growth

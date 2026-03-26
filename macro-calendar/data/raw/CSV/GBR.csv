@@ -1,17 +1,4 @@
 Id,Start,Name,Impact,Currency
-0bafc8f8-ae92-4e16-8a68-54bab7be9b38,03/25/2026 07:00:00,Consumer Price Index (MoM),HIGH,GBP
-18aec9be-22ac-4ebc-8d35-e48fced63e91,03/25/2026 07:00:00,Consumer Price Index (YoY),HIGH,GBP
-1ce12d44-6ff6-45c7-8775-8987778766db,03/25/2026 07:00:00,Core Consumer Price Index (YoY),HIGH,GBP
-59a8c75e-e0cc-4eed-af5a-0488a627d07e,03/25/2026 07:00:00,PPI Core Output (MoM) n.s.a,MEDIUM,GBP
-a3191449-7721-498d-8202-7c8b364fc8f0,03/25/2026 07:00:00,"PPI Core Output (YoY) n.s.a ",MEDIUM,GBP
-e0bc3d8a-b57f-4682-8189-8f3d2acfe56c,03/25/2026 07:00:00,Producer Price Index - Input (MoM) n.s.a,LOW,GBP
-a9b0ba3e-928c-40bf-9f8f-ddd3e22a7b4a,03/25/2026 07:00:00,Producer Price Index - Input (YoY) n.s.a,LOW,GBP
-3bef4fd6-016a-446b-bef8-34b870f4464d,03/25/2026 07:00:00,Producer Price Index - Output (MoM) n.s.a,MEDIUM,GBP
-15ea4361-1f93-474d-8ba6-b5a7f19f0f88,03/25/2026 07:00:00,Producer Price Index - Output (YoY) n.s.a,MEDIUM,GBP
-dfdac3f0-8c74-4a3d-9174-8dc966728210,03/25/2026 07:00:00,Retail Price Index (MoM),MEDIUM,GBP
-69960201-242f-4d46-9d2d-bb89b49945d3,03/25/2026 07:00:00,Retail Price Index (YoY),MEDIUM,GBP
-f1e263b1-86d9-4c81-b6fd-712a58aa3006,03/25/2026 09:30:00,DCLG House Price Index (YoY),LOW,GBP
-71daf800-82c2-45fd-bba4-2ad7ed55f2ec,03/25/2026 12:00:00,BoE's Greene speech,MEDIUM,GBP
 f85533e3-d725-4e5f-a7d4-fa6aa04d05be,03/26/2026 09:30:00,BoE's Breeden speech,MEDIUM,GBP
 dc977116-cdde-4eb6-b631-26fc9f53d841,03/26/2026 16:30:00,BoE's Greene speech,MEDIUM,GBP
 8427cb62-65f2-475a-b97e-deabe1051bc4,03/26/2026 19:05:00,BoE's Taylor speech,MEDIUM,GBP

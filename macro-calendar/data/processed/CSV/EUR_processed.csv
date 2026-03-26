@@ -1,6 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-7eb9f168-55da-49db-bdee-74377d36f502,03/25/2026 08:45:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
-dd02d4dc-8a2c-469f-b67c-8932c56e6a7e,03/25/2026 09:15:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
+2ac404b3-1549-4902-8493-a09ecc6d4a75,03/26/2026 06:40:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 2259ef64-d835-4abf-b61c-8e01a9d9fd3b,03/26/2026 09:00:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
 e7bdea6e-59c4-4342-ac1a-c4fe685e0152,03/26/2026 09:00:00,M3 Money Supply (3m),HIGH,EUR,Release,0.85,Monetary Policy
 36561946-552d-4139-bc7f-46055a96c0c0,03/26/2026 09:00:00,M3 Money Supply (YoY),HIGH,EUR,Release,0.807,Inflation
@@ -18,6 +17,7 @@ fa833e92-cf23-42e3-a361-374cae355ac1,03/30/2026 09:00:00,Consumer Confidence,HIG
 9dec4ac8-e9c4-46f0-b270-fea2388930be,03/31/2026 09:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.807,Inflation
 29ab9a0d-25b2-4836-b3f0-80ade9b003ab,03/31/2026 09:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 cefc3b74-f63c-4acb-9d29-797c58c8fc98,03/31/2026 09:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+06657ac8-0ac2-4063-ac2f-fb5ae26e5abf,03/31/2026 13:10:00,ECB's Sleijpen speech,HIGH,EUR,Speech,0.552,Monetary Policy
 b0f884e2-afee-430d-a7b6-74e1073dcb4b,04/01/2026 08:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 9e13344c-7982-4859-9431-246289df9c1b,04/01/2026 09:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
 6ea64fe1-3d5c-4a84-aceb-03bedf530cde,04/02/2026 08:00:00,Economic Bulletin,HIGH,EUR,Release,0.85,Monetary Policy

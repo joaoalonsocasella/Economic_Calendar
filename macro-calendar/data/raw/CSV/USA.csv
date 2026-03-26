@@ -1,13 +1,4 @@
 Id,Start,Name,Impact,Currency
-de74d512-b6cb-4e4c-a48b-12579e9b4735,03/25/2026 11:00:00,MBA Mortgage Applications,LOW,USD
-f522835b-a8b3-4512-a933-f36045390de3,03/25/2026 12:30:00,Current Account,LOW,USD
-560ef80a-3dea-4ba4-886e-667e5ec2212f,03/25/2026 12:30:00,Export Price Index (MoM),LOW,USD
-acfbeb89-9d32-4a79-88d4-2af6b6302573,03/25/2026 12:30:00,Export Price Index (YoY),LOW,USD
-5f337f0f-ffdb-40ce-8371-4e87ed1a4996,03/25/2026 12:30:00,Import Price Index (MoM),LOW,USD
-3207ccbb-809b-4f97-acc2-d77a35c6c8e2,03/25/2026 12:30:00,Import Price Index (YoY),LOW,USD
-e8c63d71-2888-49d4-b82f-406bbd8fd989,03/25/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
-ca6cb4d9-4500-40c4-979f-48d44b41573c,03/25/2026 17:00:00,5-Year Note Auction,LOW,USD
-3a572c70-ffc6-4919-bef1-6456cb627394,03/25/2026 20:10:00,Fed's Miran speech,MEDIUM,USD
 bc1b06fc-9251-45cc-ac98-c2ad53dd9fd4,03/26/2026 12:30:00,Continuing Jobless Claims,LOW,USD
 3a237bb7-ed31-4869-acd8-b872eb04ebc1,03/26/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
 30fa216d-52f5-4579-8743-02eb59b030aa,03/26/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
@@ -100,7 +91,7 @@ bd569e0a-38bf-4a77-87c7-12d9328e5511,04/08/2026 11:00:00,MBA Mortgage Applicatio
 763bde2c-24ad-4ded-8559-5e3ef8d1c024,04/09/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
 9d990f8b-d837-4f83-b2d7-981f8347a71d,04/09/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
 d02871c8-11b0-4437-bd52-6988769f4c20,04/09/2026 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
-018899b3-cc3b-4fba-b558-4e3a0d83576c,04/09/2026 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+018899b3-cc3b-4fba-b558-4e3a0d83576c,04/09/2026 12:30:00,Gross Domestic Product Annualized,MEDIUM,USD
 bd495110-c83a-480e-85c1-e8652af0f269,04/09/2026 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD
 d024a9b2-0b32-4835-b43c-5a605e6c97be,04/09/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
 73bdb037-5e63-4d9a-91ae-8989a39bd0f0,04/09/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
@@ -245,7 +236,7 @@ b4642220-8601-4532-bb81-afee667e889d,04/30/2026 12:30:00,Continuing Jobless Clai
 7ce136ff-7978-4179-8604-dc1c477be4d8,04/30/2026 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
 219ccd4f-d49e-42d5-ab62-2c5a736d7287,04/30/2026 12:30:00,Employment Cost Index,MEDIUM,USD
 09477936-2e03-4d42-bd9b-f745091dc205,04/30/2026 12:30:00,Gross Domestic Product Annualized,HIGH,USD
-dfbe7309-8f4d-4fb7-b1be-b067eee42b77,04/30/2026 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD
+dfbe7309-8f4d-4fb7-b1be-b067eee42b77,04/30/2026 12:30:00,Gross Domestic Product Price Index,HIGH,USD
 46b3d981-c2ad-43b2-9375-790ded42ee75,04/30/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
 2768c557-8939-4e32-9a35-40e7df48ea9f,04/30/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
 233f0c01-1c87-4a0b-b3ae-9e6572d8315b,04/30/2026 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
@@ -410,7 +401,7 @@ bd121abe-74f5-49f5-bbf1-b403ba662d69,05/27/2026 12:30:00,Nondefense Capital Good
 9db123ab-47b2-4e2c-9d90-7eb897d98c14,05/27/2026 17:00:00,5-Year Note Auction,LOW,USD
 918a2d57-1eff-4370-93e2-cba2d5447b9b,05/28/2026 12:30:00,Continuing Jobless Claims,LOW,USD
 dd2cf54a-acfe-42c9-a243-bf1b362d62e1,05/28/2026 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
-d826a493-fca0-44b9-bbf4-4233359eb1e1,05/28/2026 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+d826a493-fca0-44b9-bbf4-4233359eb1e1,05/28/2026 12:30:00,Gross Domestic Product Annualized,MEDIUM,USD
 eef21339-0191-4dfd-8030-e7704db4d3e3,05/28/2026 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD
 82a3fa9f-9ddb-4a79-973f-66d12c57a62d,05/28/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
 4e7925f5-f38f-43ba-ab35-58fd93a21403,05/28/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
@@ -618,7 +609,7 @@ ba917197-5a92-4ed0-923f-799ac88e8631,06/29/2026 15:30:00,3-Month Bill Auction,LO
 cbe72b28-959e-4297-b8a0-177abf9c298d,06/29/2026 15:30:00,6-Month Bill Auction,LOW,USD
 325c6011-8275-4c62-b19c-90e1f6f8d188,06/30/2026 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
 34c08e18-8988-446f-9580-8ec842c56d01,06/30/2026 12:30:00,Goods Trade Balance,LOW,USD
-99ab66c4-c33e-4d11-be5b-75e4fe6f603a,06/30/2026 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+99ab66c4-c33e-4d11-be5b-75e4fe6f603a,06/30/2026 12:30:00,Gross Domestic Product Annualized,MEDIUM,USD
 158a25c7-ff12-4c3d-860c-c1e812ef93cf,06/30/2026 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD
 d9122622-bc67-461f-b48b-02c6a8bc6bbf,06/30/2026 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
 b7c18419-eb4a-41c4-a3fa-cbda4c8af321,06/30/2026 12:55:00,Redbook Index (YoY),LOW,USD
@@ -799,7 +790,7 @@ c402526a-3d94-4230-9340-6ed05f4f4d40,07/29/2026 18:00:00,Fed Interest Rate Decis
 34766125-0bee-4d23-84d4-5b664a9659fc,07/30/2026 12:30:00,Continuing Jobless Claims,LOW,USD
 691dba55-1d57-46ed-827f-ea4436e4aaea,07/30/2026 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
 7d78b24d-fc58-49ae-88b6-2480213cd42b,07/30/2026 12:30:00,Gross Domestic Product Annualized,HIGH,USD
-ff60a0c0-4546-4fd6-b3dd-587405617889,07/30/2026 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD
+ff60a0c0-4546-4fd6-b3dd-587405617889,07/30/2026 12:30:00,Gross Domestic Product Price Index,HIGH,USD
 71d75a19-77cf-4159-bd22-07a4f9321225,07/30/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
 f21b2ba3-e073-41a5-9bd5-e0115fb63b78,07/30/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
 18c44bb7-a1bb-4173-ab61-164d900bdb81,07/30/2026 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
@@ -972,7 +963,7 @@ e41d3a46-36d0-451e-bde7-4e47f7d76a7c,08/27/2026 12:30:00,"Chicago Fed National A
 2763e21d-e282-4fb8-b5b3-f8bd346f0a01,08/27/2026 12:30:00,Continuing Jobless Claims,LOW,USD
 9fa8561b-1d7b-47c6-b72e-a62e234666c1,08/27/2026 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
 1501de66-5d37-427f-a215-cb26ed8a6501,08/27/2026 12:30:00,Goods Trade Balance,LOW,USD
-ef89ba75-a9f5-4e42-856e-0dc1216eb2b2,08/27/2026 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+ef89ba75-a9f5-4e42-856e-0dc1216eb2b2,08/27/2026 12:30:00,Gross Domestic Product Annualized,MEDIUM,USD
 a54e7f24-ffd4-4ce5-91ce-ce9e0c01ffa7,08/27/2026 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD
 d157f654-b52c-4980-ab08-7555a8610fa7,08/27/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
 e04960dc-ce7d-41a2-8f1d-de1ccc70a90c,08/27/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
@@ -1185,7 +1176,7 @@ c64df516-64bb-4737-9430-1ff3df1bab9a,09/30/2026 12:15:00,ADP Employment Change,H
 ef95f488-2906-40b6-93ea-2a2ca30e6d07,09/30/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
 afc8067a-4f0d-4f1b-b39d-355dbc61dd7c,09/30/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
 e92da515-938a-44bf-823b-c1ec773dad58,09/30/2026 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
-0e1b502b-79ab-4a29-b005-4c98e7cf9bba,09/30/2026 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+0e1b502b-79ab-4a29-b005-4c98e7cf9bba,09/30/2026 12:30:00,Gross Domestic Product Annualized,MEDIUM,USD
 66d6fa54-3126-43ce-8375-f7eb1f8a9c22,09/30/2026 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD
 556cca80-bade-44b2-8321-d6a5b13750cb,09/30/2026 12:30:00,Personal Consumption Expenditures - Price Index (MoM),MEDIUM,USD
 bb4ae68a-f549-4f63-8667-64c215110236,09/30/2026 12:30:00,Personal Consumption Expenditures - Price Index (YoY),MEDIUM,USD
@@ -1367,7 +1358,7 @@ d0d870ee-01f1-40f8-b9c4-530e60645368,10/28/2026 17:00:00,7-Year Note Auction,LOW
 bd288305-962a-49c4-ae74-dcecaa22b6b7,10/29/2026 12:30:00,Continuing Jobless Claims,LOW,USD
 ae9d410c-360e-4fed-8fc8-d9569f4558b8,10/29/2026 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
 eee5daa2-7168-46ec-bf09-83c8fbe8ce20,10/29/2026 12:30:00,Gross Domestic Product Annualized,HIGH,USD
-f1a492c1-7a0d-446b-a2ae-a0afee0703f1,10/29/2026 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD
+f1a492c1-7a0d-446b-a2ae-a0afee0703f1,10/29/2026 12:30:00,Gross Domestic Product Price Index,HIGH,USD
 8f998cac-4b65-4c95-a0fa-73723b4526c5,10/29/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
 99818fd2-4fa7-49a7-beab-a7014f3550d9,10/29/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
 2e90a491-2097-47bd-92fe-5d4fde8c5c2c,10/29/2026 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
@@ -1544,7 +1535,7 @@ a43d0096-4880-4f3b-8c0e-b0081c7d3ee9,11/26/2026 13:30:00,Core Personal Consumpti
 fc581a47-9da2-42c0-99f2-8d398f7f5a99,11/26/2026 13:30:00,Durable Goods Orders,MEDIUM,USD
 9372ad5f-dffe-417b-a927-3e39ad77aa3c,11/26/2026 13:30:00,Durable Goods Orders ex Defense,MEDIUM,USD
 8f6721cc-b745-4c83-990a-fa7586c5e8a0,11/26/2026 13:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
-bd90b87c-be04-4a81-9d61-f49c4152a0f3,11/26/2026 13:30:00,Gross Domestic Product Annualized,HIGH,USD
+bd90b87c-be04-4a81-9d61-f49c4152a0f3,11/26/2026 13:30:00,Gross Domestic Product Annualized,MEDIUM,USD
 173b19e8-652d-467d-86c6-9a96bbc40efb,11/26/2026 13:30:00,Gross Domestic Product Price Index,MEDIUM,USD
 2799ebac-b2e7-46c6-a1cf-c47a0f559063,11/26/2026 13:30:00,Initial Jobless Claims,MEDIUM,USD
 812f996e-4011-40da-aa2e-f8f75a6dbd30,11/26/2026 13:30:00,Initial Jobless Claims 4-week average,LOW,USD
@@ -1688,7 +1679,7 @@ e1e45b42-d0f3-461f-b367-7cf7a8f7a907,12/17/2026 13:30:00,Continuing Jobless Clai
 c3bc9b8a-4219-458f-86c8-97d354b79904,12/17/2026 13:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
 eae75e8a-4895-406b-8137-024f2425cf7a,12/17/2026 13:30:00,Export Price Index (MoM),LOW,USD
 a1e2e30d-3481-408b-888e-6acdc78766c7,12/17/2026 13:30:00,Export Price Index (YoY),LOW,USD
-a35881ea-8f95-4f27-99d1-fd78893eeb66,12/17/2026 13:30:00,Gross Domestic Product Annualized,HIGH,USD
+a35881ea-8f95-4f27-99d1-fd78893eeb66,12/17/2026 13:30:00,Gross Domestic Product Annualized,MEDIUM,USD
 0016bbcc-9425-4899-a1be-efe70ea4ea15,12/17/2026 13:30:00,Gross Domestic Product Price Index,MEDIUM,USD
 935aa3f2-c02f-4977-80df-3dc185789928,12/17/2026 13:30:00,Housing Starts (MoM),MEDIUM,USD
 76bd5999-bc29-405e-9588-79cdf4977541,12/17/2026 13:30:00,Housing Starts Change,LOW,USD
@@ -1876,7 +1867,7 @@ e9d39565-8a2b-43ee-a912-b21ce21b9191,01/22/2027 15:00:00,UoM 5-year Consumer Inf
 9f28fc24-a9af-411c-b751-3569ff16ba74,01/27/2027 18:00:00,7-Year Note Auction,LOW,USD
 5dfd3332-32dc-4866-a2ea-d84d10d158ee,01/28/2027 13:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
 c4528d7a-d67b-498b-bfce-64ae1a54c4e1,01/28/2027 13:30:00,Gross Domestic Product Annualized,HIGH,USD
-f533417f-1fdf-4cc6-b9b3-d741ae04d349,01/28/2027 13:30:00,Gross Domestic Product Price Index,MEDIUM,USD
+f533417f-1fdf-4cc6-b9b3-d741ae04d349,01/28/2027 13:30:00,Gross Domestic Product Price Index,HIGH,USD
 4a37df80-7f25-43ab-9ca5-61e2d1e2b5ba,01/28/2027 13:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
 0a720d86-4156-46e0-953a-2ff598157a75,01/28/2027 15:00:00,Pending Home Sales (MoM),MEDIUM,USD
 2e3b3f20-a5c0-4680-a948-df4f6976f147,01/28/2027 15:00:00,Pending Home Sales (YoY),LOW,USD
@@ -1933,7 +1924,7 @@ bc4d7b8c-ab6d-4bf0-9ae6-12e252b2ba86,02/17/2027 13:30:00,Retail Sales Control Gr
 d6e2a4f0-0334-4011-996c-4f998b748160,02/24/2027 14:45:00,S&P Global Manufacturing PMI,HIGH,USD
 f3af6ad3-9b5a-4da3-807e-a5a41b4b0494,02/24/2027 14:45:00,S&P Global Services PMI,HIGH,USD
 b5df2f0f-fba6-4fb4-b308-3a24e540915f,02/25/2027 13:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
-5f29cc0b-0937-4430-bc43-98fbb7ae8f7a,02/25/2027 13:30:00,Gross Domestic Product Annualized,HIGH,USD
+5f29cc0b-0937-4430-bc43-98fbb7ae8f7a,02/25/2027 13:30:00,Gross Domestic Product Annualized,MEDIUM,USD
 d0ff2b0f-39d5-4ac5-813b-c814727094bd,02/25/2027 13:30:00,Gross Domestic Product Price Index,MEDIUM,USD
 637d5506-a6fe-4a33-98cb-859c0cfc818d,02/25/2027 13:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
 bed19152-ca59-4a09-8097-21fa90e582c7,02/26/2027 13:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
@@ -1995,7 +1986,7 @@ f044b281-297a-4e04-b5ef-dac2bf1f2fba,03/31/2027 12:15:00,ADP Employment Change,H
 207f0839-af17-479e-a226-f681b847cba5,03/31/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
 61a46175-dce3-4f09-bf73-d16cb54a60ba,03/31/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
 d9d56c5b-592f-4b84-b42d-6ec5ee9065ab,03/31/2027 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
-efc4b126-64cd-43d2-b0a4-7d8a6369213e,03/31/2027 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+efc4b126-64cd-43d2-b0a4-7d8a6369213e,03/31/2027 12:30:00,Gross Domestic Product Annualized,MEDIUM,USD
 9b5a03a1-b3ce-4216-804e-123e195f0468,03/31/2027 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD
 2822a99e-c0e3-43ed-b630-66f9a3b8e30d,03/31/2027 12:30:00,Personal Consumption Expenditures - Price Index (MoM),MEDIUM,USD
 8b4a5942-0e8b-4b43-b2f2-1380733be9d8,03/31/2027 12:30:00,Personal Consumption Expenditures - Price Index (YoY),MEDIUM,USD

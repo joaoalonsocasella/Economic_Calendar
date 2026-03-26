@@ -1,13 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-de74d512-b6cb-4e4c-a48b-12579e9b4735,03/25/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-f522835b-a8b3-4512-a933-f36045390de3,03/25/2026 12:30:00,Current Account,MEDIUM,USD,Release,0.11,Trade and External
-560ef80a-3dea-4ba4-886e-667e5ec2212f,03/25/2026 12:30:00,Export Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
-acfbeb89-9d32-4a79-88d4-2af6b6302573,03/25/2026 12:30:00,Export Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
-5f337f0f-ffdb-40ce-8371-4e87ed1a4996,03/25/2026 12:30:00,Import Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
-3207ccbb-809b-4f97-acc2-d77a35c6c8e2,03/25/2026 12:30:00,Import Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
-e8c63d71-2888-49d4-b82f-406bbd8fd989,03/25/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
-ca6cb4d9-4500-40c4-979f-48d44b41573c,03/25/2026 17:00:00,5-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-3a572c70-ffc6-4919-bef1-6456cb627394,03/25/2026 20:10:00,Fed's Miran speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 bc1b06fc-9251-45cc-ac98-c2ad53dd9fd4,03/26/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 3a237bb7-ed31-4869-acd8-b872eb04ebc1,03/26/2026 12:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 30fa216d-52f5-4579-8743-02eb59b030aa,03/26/2026 12:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market

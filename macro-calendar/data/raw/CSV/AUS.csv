@@ -1,8 +1,4 @@
 Id,Start,Name,Impact,Currency
-bf25e6ea-4438-4708-9250-58fae44efdd5,03/25/2026 00:30:00,Consumer Price Index (MoM),MEDIUM,AUD
-ace73ea1-b29b-480e-94bb-ba5e5dcd6b0e,03/25/2026 00:30:00,Consumer Price Index (YoY),HIGH,AUD
-dc82e90f-a9b3-416a-af7e-07b89f390dfb,03/25/2026 00:30:00,Trimmed Mean CPI (MoM),MEDIUM,AUD
-54e9758c-ca57-4753-a5f7-5d3ade2d572a,03/25/2026 00:30:00,Trimmed Mean CPI (YoY),HIGH,AUD
 a86c41bd-1d04-40d2-b4c0-09dc015b47e2,03/27/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
 9668c1d7-3d18-4ec9-aa2a-1c098635be35,03/31/2026 00:30:00,Private Sector Credit (MoM),LOW,AUD
 adfc922f-72ed-491c-9aa5-7053fce7d1fa,03/31/2026 00:30:00,Private Sector Credit (YoY),LOW,AUD
