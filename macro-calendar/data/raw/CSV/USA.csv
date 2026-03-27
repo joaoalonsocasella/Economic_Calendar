@@ -1,20 +1,9 @@
 Id,Start,Name,Impact,Currency
-bc1b06fc-9251-45cc-ac98-c2ad53dd9fd4,03/26/2026 12:30:00,Continuing Jobless Claims,LOW,USD
-3a237bb7-ed31-4869-acd8-b872eb04ebc1,03/26/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
-30fa216d-52f5-4579-8743-02eb59b030aa,03/26/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
-092fd6d3-c97c-4fb4-a7aa-a0ff1933c157,03/26/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
-3f3ab78e-29d0-414e-8404-b51b0329def3,03/26/2026 15:00:00,Kansas Fed Manufacturing Activity,LOW,USD
-213bf9f5-5b3f-42b7-8dac-70f39fedebb7,03/26/2026 15:30:00,4-Week Bill Auction,LOW,USD
-12a146ae-3c15-4d97-8eda-2d1a2388f586,03/26/2026 17:00:00,7-Year Note Auction,LOW,USD
-79a9b7b5-8ce2-44bf-9e0b-392eaef1ba8c,03/26/2026 20:00:00,Fed's Cook speech,MEDIUM,USD
-59d5ad6d-600f-4b64-bffa-c4a505cec764,03/26/2026 22:30:00,Fed's Miran speech,MEDIUM,USD
-cca4d280-5005-4871-b217-5357058eacc0,03/26/2026 23:00:00,Fed's Jefferson speech,MEDIUM,USD
-48e57fbc-e44b-4733-9897-0205adbafd90,03/26/2026 23:00:00,Fed's Logan speech,MEDIUM,USD
-968b7d49-0f48-4a76-ac53-cb61fe34f782,03/26/2026 23:10:00,Fed's Barr speech,MEDIUM,USD
 edab2b13-e8ec-44da-abdc-e6399c1f67e5,03/27/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
 6f365940-a166-4c71-96a7-0d89437438af,03/27/2026 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD
 d0febe76-a774-4728-be41-46c9066de85a,03/27/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
 6964fd80-779f-4c49-89c2-ef0bd836f8ad,03/27/2026 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD
+c5f54582-9f8d-4ecb-95df-3dc979169f1f,03/27/2026 15:00:00,Fed's Barkin speech,MEDIUM,USD
 4ded4188-26ef-4384-be93-a4759057d5a0,03/27/2026 15:30:00,Fed's Daly speech,MEDIUM,USD
 f08e0ca3-b534-4de6-b749-00301522760d,03/27/2026 15:40:00,Fed's Paulson speech,MEDIUM,USD
 b1642f6e-1576-4175-9650-95a7830fb534,03/27/2026 17:00:00,Baker Hughes US Oil Rig Count,LOW,USD
@@ -22,6 +11,7 @@ b1642f6e-1576-4175-9650-95a7830fb534,03/27/2026 17:00:00,Baker Hughes US Oil Rig
 503e816f-e2fc-4b2d-92f4-839153c47a05,03/27/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 7a2ded3e-b5cc-429d-97a0-aebd2a90d317,03/27/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 95fbeb92-0085-41cc-97f1-4c667003cc67,03/30/2026 14:30:00,Dallas Fed Manufacturing Business Index,LOW,USD
+bbfa7ae7-8f1b-4ce8-aa35-42a51e3662ce,03/30/2026 14:30:00,Fed's Chair Powell speech,HIGH,USD
 51995328-aeed-4b21-ae5a-9a72db4f487e,03/30/2026 15:30:00,3-Month Bill Auction,LOW,USD
 6a8b95e8-53af-43fe-8f05-33687bc64678,03/30/2026 15:30:00,6-Month Bill Auction,LOW,USD
 03f317bc-8ed2-4d27-925e-bd7ce6d68274,03/30/2026 20:00:00,Fed's Williams speech,MEDIUM,USD
@@ -33,7 +23,9 @@ ec107ef5-e8ea-43a2-ae54-88d840cfca83,03/31/2026 13:45:00,Chicago PMI,MEDIUM,USD
 277eb8ae-918f-4191-9b1f-bd48db6e495f,03/31/2026 14:00:00,JOLTS Job Openings,MEDIUM,USD
 9a1f93de-1caa-4252-8ff5-d9ba440d43d5,03/31/2026 16:00:00,Fed's Goolsbee speech,MEDIUM,USD
 6ac65d67-99f0-4ec3-a451-a02dbfc55898,03/31/2026 16:00:00,Grain Stock Report,LOW,USD
+a93b6dcc-1a25-4cac-b83c-d13b46f0b6a6,03/31/2026 19:00:00,Fed's Barr speech,MEDIUM,USD
 4e340138-84de-4e31-b357-cca7557f4210,03/31/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
+b07a3fd1-027a-4e32-baa1-045f06e0c9d4,03/31/2026 21:10:00,Fed's Bowman speech,MEDIUM,USD
 a98b1ab3-ffbf-4119-9ae1-a922517096f6,04/01/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 75f4d1ad-21af-4e3c-a760-cc8442e2bda1,04/01/2026 12:15:00,ADP Employment Change,HIGH,USD
 466a45d7-e48f-4d8b-85a5-5ec4918bf64f,04/01/2026 12:30:00,Retail Sales (MoM),HIGH,USD
@@ -41,6 +33,7 @@ a98b1ab3-ffbf-4119-9ae1-a922517096f6,04/01/2026 11:00:00,MBA Mortgage Applicatio
 a9b3e3c7-9031-4cbd-8445-b710c9dca33c,04/01/2026 12:30:00,Retail Sales Control Group,HIGH,USD
 2efe7adc-cb9e-4f59-9c51-d680a4ed580b,04/01/2026 12:30:00,Retail Sales ex Autos (MoM),MEDIUM,USD
 8ba1c2c0-b615-4d70-9c4c-6c4257a42ede,04/01/2026 13:05:00,Fed's Musalem speech,MEDIUM,USD
+a459a3ee-0839-447d-9982-d001da22f829,04/01/2026 13:10:00,Fed's Barr speech,MEDIUM,USD
 041bcf84-5272-4edb-80a3-6ea2aff369e2,04/01/2026 13:45:00,S&P Global Manufacturing PMI,LOW,USD
 823a715c-39ab-4ec4-8ebe-10e6c5acd981,04/01/2026 14:00:00,Business Inventories,LOW,USD
 a86fe3fd-b295-4fa1-88fc-ec3d80cf31ba,04/01/2026 14:00:00,ISM Manufacturing Employment Index,MEDIUM,USD
