@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-f24348bd-28de-44c8-8873-467af16ca828,03/27/2026 07:30:00,Current Account Balance (QoQ),MEDIUM,HUF,Release,0.11,Trade and External
-fe74e170-d3bb-4ddf-adb1-59780fe888c3,03/27/2026 07:30:00,Unemployment Rate (3M),HIGH,HUF,Release,0.18,Labor Market
 e3ce094c-dff3-4852-b823-664d677d10b6,03/30/2026 06:30:00,Trade Balance,MEDIUM,HUF,Release,0.11,Trade and External
 aca5b7e5-c14e-4c2d-954a-6aa22ae36c8c,03/31/2026 06:30:00,Gross Wages (YoY),HIGH,HUF,Release,0.17,Growth
 9db50912-c8cb-4ac1-ae26-0d2e10c17303,03/31/2026 06:30:00,Producer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation

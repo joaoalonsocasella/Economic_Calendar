@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-f35a8952-ef39-47b1-b69e-218dd8d44be7,03/27/2026 00:01:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
-1eeb8bfc-6c7f-4db1-9273-24f5628b9718,03/27/2026 11:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
-8c2e11cd-192b-41e7-bdac-64ec93c7650b,03/27/2026 11:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 124ccc57-387b-48f4-b01c-6a7dbf0330e6,04/01/2026 00:01:00,AIB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 d97d0020-c3c9-4263-8666-18e3f47b69dc,04/07/2026 00:01:00,AIB Services PMI,HIGH,EUR,Release,0.722,Growth
 c0c2ad47-75e5-49d7-a05c-a5b1c9080bfe,04/09/2026 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
