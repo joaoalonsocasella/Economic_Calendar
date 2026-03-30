@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-00b5519b-c8c3-4e22-955e-10196fb718e7,03/29/2026 03:00:00,Daylight Saving Time,HIGH,EUR,Release,0.85,Monetary Policy
 3c98e229-b739-4593-816f-0190752b45af,03/30/2026 09:00:00,Business Climate,HIGH,EUR,Release,0.595,Confidence
 fa833e92-cf23-42e3-a361-374cae355ac1,03/30/2026 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 71fa0a48-5bf9-41e8-a635-df913cb2c50f,03/30/2026 09:00:00,Economic Sentiment Indicator,HIGH,EUR,Release,0.595,Confidence
@@ -536,3 +535,12 @@ b3581a9a-b9a9-4002-9e87-78d28bb3c74e,03/18/2027 10:00:00,Harmonized Index of Con
 f6923148-bf64-4d19-823b-659ac86559a8,03/23/2027 09:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 723e280e-57e5-430f-9b69-3c9fb494f49d,03/23/2027 09:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 fb37a0cf-bd24-4c22-850f-ca7e68c47b1e,03/23/2027 09:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+0d7918f9-34bd-4244-bb4a-fd14f672b19f,04/01/2027 08:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+43e62b0d-3379-497e-93a0-b8713c216550,04/01/2027 09:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+ea45f08e-4a07-420e-934f-28f04d300eab,04/01/2027 09:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.807,Inflation
+13a7ae54-bb94-4e2d-9525-21d60a8d10bf,04/01/2027 09:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+e9e76c0f-44a8-4f00-a68b-44b385996a60,04/01/2027 09:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+4989714c-5699-4a03-b21d-8c6dd14020d5,04/05/2027 08:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
+a81dae94-02db-4826-84c6-086002646d3a,04/05/2027 08:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+05e314df-333a-4fff-bfa9-37508291a2ab,04/30/2027 09:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR,Release,0.722,Growth
+8593d9d5-6815-47cc-be04-5895af692c25,04/30/2027 09:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR,Release,0.722,Growth

@@ -1,6 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 9668c1d7-3d18-4ec9-aa2a-1c098635be35,03/31/2026 00:30:00,Private Sector Credit (MoM),LOW,AUD,Release,0.09,Money and Credit
 adfc922f-72ed-491c-9aa5-7053fce7d1fa,03/31/2026 00:30:00,Private Sector Credit (YoY),LOW,AUD,Release,0.09,Money and Credit
+e776729a-6871-4982-8f2c-f21881159e5f,03/31/2026 00:30:00,RBA Meeting Minutes,MEDIUM,AUD,Speech,0.13,Monetary Policy
 fdb27df5-97c0-46f1-8cf9-ec4eed448da2,03/31/2026 22:00:00,Ai Group Construction PMI,HIGH,AUD,Release,0.17,Growth
 12e3b288-2715-483a-ab74-618edbc6c5c8,03/31/2026 22:00:00,Ai Group Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
 80cbff75-26e8-42d9-9912-54251be5ff69,03/31/2026 22:00:00,AiG Industry Index,HIGH,AUD,Release,0.17,Growth
@@ -519,3 +520,6 @@ bb252a32-93c1-4b69-af39-0eb48e2d71d7,03/18/2027 00:30:00,Unemployment Rate s.a.,
 801867ee-2609-40bf-aab5-12a90c6f0fde,03/31/2027 00:30:00,Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
 d8a88815-1a8c-4b91-91fb-ce1789e194b4,03/31/2027 00:30:00,Trimmed Mean CPI (MoM),HIGH,AUD,Release,0.19,Inflation
 420d9443-bf02-4e42-b563-903935ce72c6,03/31/2027 00:30:00,Trimmed Mean CPI (YoY),HIGH,AUD,Release,0.19,Inflation
+dd3cf1e3-8f0c-4f98-bd27-27ce7d005a41,04/01/2027 00:30:00,Exports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
+e337eeec-9c69-435b-8700-bebd8543531d,04/01/2027 00:30:00,Imports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
+1b4a3f59-7938-4fa2-ab69-2b58a09e4de3,04/01/2027 00:30:00,Trade Balance (MoM),MEDIUM,AUD,Release,0.11,Trade and External

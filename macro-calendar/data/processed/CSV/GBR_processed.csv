@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-1dbaae25-be17-41cc-bc1e-64c63ba2d1ad,03/29/2026 01:00:00,Daylight Saving Time,HIGH,GBP,Release,0.2,Monetary Policy
 7b579ad1-1535-45d2-9417-56ee641fc997,03/30/2026 08:30:00,Consumer Credit,MEDIUM,GBP,Release,0.14,Confidence
 a61fd2b0-c224-4e65-8636-3580b627623a,03/30/2026 08:30:00,M4 Money Supply (MoM),HIGH,GBP,Release,0.19,Inflation
 982f54e8-f837-421d-bf1d-e2c91f7213e4,03/30/2026 08:30:00,M4 Money Supply (YoY),HIGH,GBP,Release,0.19,Inflation
@@ -721,3 +720,10 @@ f52d4572-e92f-4da1-8e57-6644a38349eb,03/28/2027 01:00:00,Daylight Saving Time,HI
 1e4cb826-f51c-4161-98b6-b724e8f056b4,03/30/2027 06:00:00,Total Business Investment (QoQ),HIGH,GBP,Release,0.17,Growth
 a9e6a478-303f-4685-8611-a550016bcad0,03/30/2027 06:00:00,Total Business Investment (YoY),HIGH,GBP,Release,0.17,Growth
 1f927683-f0cd-4e79-b2d7-c1c054c54b66,03/31/2027 06:00:00,Current Account,MEDIUM,GBP,Release,0.11,Trade and External
+0683195e-5928-4544-8398-4353f6d6c6db,04/01/2027 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
+dc66d645-0d1d-4044-afb6-1a97d4d2445a,04/05/2027 08:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
+658f1df0-2039-44dc-bd9c-53b8190e71c0,04/05/2027 08:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
+f875c96d-f54b-4a17-9c45-97ec19e3914e,04/06/2027 08:30:00,S&P Global Construction PMI,HIGH,GBP,Release,0.17,Growth
+aa9f4d49-24f1-424c-a6c0-64ab17b3e96b,04/21/2027 08:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
+512f1c92-db45-4c63-89a8-b0b6f9754ac2,04/21/2027 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
+7a096571-84da-47d4-9bc3-3081f1adb20a,04/21/2027 08:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth

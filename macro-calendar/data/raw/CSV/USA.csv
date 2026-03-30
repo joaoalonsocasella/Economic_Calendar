@@ -1,6 +1,6 @@
 Id,Start,Name,Impact,Currency
 95fbeb92-0085-41cc-97f1-4c667003cc67,03/30/2026 14:30:00,Dallas Fed Manufacturing Business Index,LOW,USD
-bbfa7ae7-8f1b-4ce8-aa35-42a51e3662ce,03/30/2026 14:30:00,Fed's Chair Powell speech,HIGH,USD
+0c9ee4ec-f575-4deb-abb6-43b230ffe020,03/30/2026 14:30:00,Fed's Chair Powell speech,HIGH,USD
 51995328-aeed-4b21-ae5a-9a72db4f487e,03/30/2026 15:30:00,3-Month Bill Auction,LOW,USD
 6a8b95e8-53af-43fe-8f05-33687bc64678,03/30/2026 15:30:00,6-Month Bill Auction,LOW,USD
 03f317bc-8ed2-4d27-925e-bd7ce6d68274,03/30/2026 20:00:00,Fed's Williams speech,MEDIUM,USD
@@ -12,6 +12,7 @@ ec107ef5-e8ea-43a2-ae54-88d840cfca83,03/31/2026 13:45:00,Chicago PMI,MEDIUM,USD
 277eb8ae-918f-4191-9b1f-bd48db6e495f,03/31/2026 14:00:00,JOLTS Job Openings,MEDIUM,USD
 9a1f93de-1caa-4252-8ff5-d9ba440d43d5,03/31/2026 16:00:00,Fed's Goolsbee speech,MEDIUM,USD
 6ac65d67-99f0-4ec3-a451-a02dbfc55898,03/31/2026 16:00:00,Grain Stock Report,LOW,USD
+7d721f13-c30f-4596-89ad-8fb835b09799,03/31/2026 17:10:00,Fed's Schmid speech,MEDIUM,USD
 a93b6dcc-1a25-4cac-b83c-d13b46f0b6a6,03/31/2026 19:00:00,Fed's Barr speech,MEDIUM,USD
 4e340138-84de-4e31-b357-cca7557f4210,03/31/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
 b07a3fd1-027a-4e32-baa1-045f06e0c9d4,03/31/2026 21:10:00,Fed's Bowman speech,MEDIUM,USD
