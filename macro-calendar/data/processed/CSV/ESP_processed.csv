@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-4a735410-0f28-432f-a647-bd6d68f9cf20,03/30/2026 07:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 f36381f5-0891-4f97-bbdc-d02e876784d0,03/31/2026 08:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
 064da52b-8ca5-4d37-aff0-cefb01064765,04/01/2026 07:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 cbd64822-f9f0-473a-bc77-55ad1de94123,04/06/2026 07:00:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
@@ -14,6 +13,11 @@ e5078dbc-26af-4fda-a7fa-0c3ea96bdf40,04/09/2026 08:40:00,5-y Bond Auction,HIGH,E
 98fbbc47-11e0-43de-a288-05ae7e10a58a,04/14/2026 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 8b8fc814-df31-4ff8-9394-994db9e82c8c,04/14/2026 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 1b627e16-ddbe-450e-965e-0cf66fde6ae4,04/14/2026 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+584f32e6-3bcb-41ae-b4cd-03f31e1cce77,04/14/2026 08:40:00,3-Month Letras Auction,HIGH,EUR,Release,0.383,Money and Credit
+3ff303f0-a994-4e7b-bfee-c3cc85b79aae,04/14/2026 08:40:00,9-Month Letras Auction,HIGH,EUR,Release,0.383,Money and Credit
+f5742465-5b42-4df1-bc4e-bbb54c4bca63,04/16/2026 08:40:00,10-y Obligaciones Auction,HIGH,EUR,Release,0.383,Money and Credit
+8be5a73f-7b16-4332-8af5-30fc3c1823e5,04/16/2026 08:40:00,3-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
+6873f898-55fd-4f9b-9ff8-9e98e8d1ae9f,04/16/2026 08:40:00,5-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 f2f1f1a7-16f0-4912-84b8-6be9f26f5131,04/28/2026 07:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 3daf55db-2ab2-4b12-93b9-8142efedcb28,04/28/2026 07:00:00,Unemployment Survey,HIGH,EUR,Release,0.765,Labor Market
 9838aeac-1d29-4a13-babe-e861a5e4bb27,04/29/2026 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation

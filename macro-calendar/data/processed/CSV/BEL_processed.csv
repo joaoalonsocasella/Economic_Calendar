@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-3cd7f9f4-704a-4cc4-8c61-ec88719c4e61,03/30/2026 09:30:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-466f4a96-46ed-464d-9203-6271f19c364b,03/30/2026 09:30:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 3d9ca0f4-c781-4ac8-8718-5e7157b592b9,04/22/2026 09:00:00,Consumer Confidence Index,HIGH,EUR,Release,0.595,Confidence
 e3889d69-7f1e-4160-9821-b7a56b7abbe5,04/24/2026 13:00:00,Leading Indicator,HIGH,EUR,Release,0.595,Confidence
 c5a19463-139f-445c-a083-a180e2905c7e,04/29/2026 09:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth

@@ -1,8 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-f52850f8-bf45-44ce-a25a-7b5f6e085368,03/30/2026 11:30:00,Cumulative Industrial Output,HIGH,INR,Release,0.17,Growth
-019b6b27-3e5d-4f3e-b87f-79f0f2920ae0,03/30/2026 11:30:00,Industrial Output,HIGH,INR,Release,0.17,Growth
-81aca640-eaf2-4d86-a22d-49ae7b365a71,03/30/2026 11:30:00,Manufacturing Output,HIGH,INR,Release,0.17,Growth
-5e567b64-e7f6-4844-8acc-86fb9f942030,03/31/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
+5e567b64-e7f6-4844-8acc-86fb9f942030,03/31/2026 07:30:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
 e9018d10-c648-4ebb-8cb6-b50f3d39911b,03/31/2026 11:30:00,Trade Deficit – RBI,MEDIUM,INR,Release,0.11,Trade and External
 6580acaf-7f9a-4a88-82e2-d1d4e774afbe,03/31/2026 12:00:00,Balance Payment $,MEDIUM,INR,Release,0.11,Trade and External
 7fca334d-55b5-4d31-8204-0c1136ae26ef,04/02/2026 05:00:00,HSBC Manufacturing PMI,HIGH,INR,Release,0.17,Growth
@@ -14,7 +11,7 @@ ad70bb48-2562-4d71-81b5-72f4a7250aa9,04/08/2026 04:30:00,RBI Interest Rate Decis
 1f11ae29-0cfb-4f75-b4ae-c6a2ee4e08db,04/08/2026 04:30:00,Reverse Repo Rate,HIGH,INR,Release,0.2,Monetary Policy
 75b29542-2011-4324-b781-f3e1d2631e3e,04/08/2026 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy
 40f60943-f648-4228-b7fe-b334ad9a962f,04/10/2026 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
-647c438a-2bc3-482e-9fef-b1cdcab9527f,04/13/2026 10:30:00,Consumer Price Index (YoY),HIGH,INR,Release,0.19,Inflation
+647c438a-2bc3-482e-9fef-b1cdcab9527f,04/12/2026 10:30:00,Consumer Price Index (YoY),HIGH,INR,Release,0.19,Inflation
 d52c3741-fb13-43de-9fc0-bdb520e70107,04/14/2026 06:30:00,WPI Inflation,HIGH,INR,Release,0.19,Inflation
 3f987ca6-c4c1-468b-94f2-d3d8e9e50df1,04/14/2026 11:00:00,Trade Deficit Government,MEDIUM,INR,Release,0.11,Trade and External
 c5356cbb-e5cb-4d83-8a73-648f0fc11d3b,04/15/2026 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy

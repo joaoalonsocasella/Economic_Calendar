@@ -1,14 +1,4 @@
 Id,Start,Name,Impact,Currency
-faefa085-84ad-4087-8906-50913942c243,03/30/2026 23:30:00,Jobs / Applicants Ratio,LOW,JPY
-1285ccfa-79c0-4781-9708-326c11da4e6b,03/30/2026 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
-2472372e-c338-47d2-8718-d5eee24a66eb,03/30/2026 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
-804fd751-e588-4e0f-b852-1cd6b55bad5b,03/30/2026 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
-f438258c-c2da-4b88-9870-603c9614d940,03/30/2026 23:30:00,Unemployment Rate,MEDIUM,JPY
-a03e9529-07df-4a31-8d97-5d54f148a2fa,03/30/2026 23:50:00,Industrial Production (MoM),LOW,JPY
-098404fe-cb51-492b-878e-6267da65cdc2,03/30/2026 23:50:00,Industrial Production (YoY),LOW,JPY
-68e446ea-2094-45c8-9a1b-064791cf2f4d,03/30/2026 23:50:00,Large Retailer Sales,MEDIUM,JPY
-daee3f2d-772a-48d8-8206-59fd43df4665,03/30/2026 23:50:00,Retail Trade (YoY),MEDIUM,JPY
-1d881e98-c76b-4ac5-bbea-e6f5e6275e76,03/30/2026 23:50:00,Retail Trade s.a (MoM),MEDIUM,JPY
 9f607ec3-9285-41da-9e76-0d99f9442dc4,03/31/2026 05:00:00,Annualized Housing Starts,LOW,JPY
 cd58a4fb-0dd9-4781-bd7e-f1d1c8272eb3,03/31/2026 05:00:00,Construction Orders (YoY),LOW,JPY
 3bd21773-8aa2-48a7-bf2a-d02f2f29902c,03/31/2026 05:00:00,Housing Starts (YoY),LOW,JPY
@@ -42,13 +32,13 @@ b1a2f411-9b1c-4ba1-bf39-f5873a57c429,04/09/2026 23:50:00,Producer Price Index (M
 cc5ff36c-de61-4c5f-b285-8aadcf66b5b9,04/09/2026 23:50:00,Producer Price Index (YoY),LOW,JPY
 a713a8f8-2b92-4d97-8c3a-02ffbbfd02b7,04/10/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 03184499-7d83-4555-86b0-0cafade30692,04/12/2026 23:50:00,Money Supply M2+CD (YoY),LOW,JPY
-06ec704d-b6b2-4f10-87c0-e8ec29670b65,04/15/2026 04:30:00,Capacity Utilization,LOW,JPY
-8612548c-d253-46d9-aeb8-244bb639e38d,04/15/2026 04:30:00,Industrial Production (MoM),LOW,JPY
-ae966914-832a-478e-b1f4-d3e86ffa182a,04/15/2026 04:30:00,Industrial Production (YoY),LOW,JPY
+06ec704d-b6b2-4f10-87c0-e8ec29670b65,04/14/2026 04:30:00,Capacity Utilization,LOW,JPY
+8612548c-d253-46d9-aeb8-244bb639e38d,04/14/2026 04:30:00,Industrial Production (MoM),LOW,JPY
+ae966914-832a-478e-b1f4-d3e86ffa182a,04/14/2026 04:30:00,Industrial Production (YoY),LOW,JPY
+8f349873-77f6-4f2c-932c-de0f73646e73,04/14/2026 23:50:00,Machinery Orders (MoM),LOW,JPY
+4df20694-152b-4617-a651-96c7bee9b8ae,04/14/2026 23:50:00,Machinery Orders (YoY),LOW,JPY
 64004c76-4d2e-465d-b6e4-601210fb8675,04/15/2026 23:50:00,Foreign Bond Investment,LOW,JPY
 fcdc0521-c13d-44ab-9d2c-e1d1b40797bc,04/15/2026 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
-8f349873-77f6-4f2c-932c-de0f73646e73,04/15/2026 23:50:00,Machinery Orders (MoM),LOW,JPY
-4df20694-152b-4617-a651-96c7bee9b8ae,04/15/2026 23:50:00,Machinery Orders (YoY),LOW,JPY
 a845ebc2-e590-47b2-8ff5-9fc53837f33e,04/17/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 42467e29-c77e-4da2-8540-fe91fc6be86e,04/20/2026 04:30:00,Tertiary Industry Index (MoM),LOW,JPY
 ac6b5724-7062-49a0-8794-03f99eddc1e0,04/21/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY

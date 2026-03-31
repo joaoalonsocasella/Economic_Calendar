@@ -3,16 +3,13 @@ bce7502c-524c-49b4-a60f-d795d95a8cd6,03/31/2026 00:00:00,ANZ Activity Outlook,ME
 df9e23fb-52d5-469d-bd6e-ab9d40a933d0,03/31/2026 00:00:00,ANZ Business Confidence,MEDIUM,NZD,Release,0.14,Confidence
 5a6fdf98-d204-474c-aca7-17259a378489,03/31/2026 21:45:00,Building Permits s.a. (MoM),LOW,NZD,Release,0.07,Housing
 ee52da80-0210-49cf-84d3-9228330d5f82,04/04/2026 16:00:00,Daylight Saving Time Ends,HIGH,NZD,Release,0.2,Monetary Policy
-7d83d419-446a-483f-a63e-70d4e6efec72,04/06/2026 22:00:00,NZIER Business Confidence (QoQ),MEDIUM,NZD,Release,0.14,Confidence
 ac8e091f-149c-4aaa-91bc-48a6fa4a76ba,04/07/2026 01:00:00,ANZ Commodity Price,MEDIUM,NZD,Release,0.14,Confidence
 68dd444d-6690-4d1d-b7d9-21104eef7e06,04/07/2026 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 38032017-e296-413e-ab12-7c855af418ae,04/08/2026 02:00:00,RBNZ Interest Rate Decision,MEDIUM,NZD,Speech,0.13,Monetary Policy
 005dbce0-289b-4176-9a79-f4e7150ef21e,04/08/2026 02:00:00,RBNZ Monetary Policy Review,HIGH,NZD,Release,0.2,Monetary Policy
 92faf9c6-a1ac-4336-8965-f15332cdf311,04/09/2026 22:30:00,Business NZ PMI,HIGH,NZD,Release,0.17,Growth
-8f37ce21-88a2-4b17-a033-b39fdd20a26b,04/13/2026 22:30:00,Business NZ PSI,MEDIUM,NZD,Release,0.14,Confidence
+8f37ce21-88a2-4b17-a033-b39fdd20a26b,04/12/2026 22:30:00,Business NZ PSI,MEDIUM,NZD,Release,0.14,Confidence
 f4ab57ba-033e-4447-97b8-eb03ec8fdb91,04/13/2026 22:45:00,Visitor Arrivals (YoY),HIGH,NZD,Release,0.19,Inflation
-a9e255c8-fd22-4906-bb91-539a60fc27cd,04/16/2026 22:45:00,Consumer Price Index (QoQ),HIGH,NZD,Release,0.19,Inflation
-2c6589f3-d981-4c6f-83e7-d13f48c52a3a,04/16/2026 22:45:00,Consumer Price Index (YoY),HIGH,NZD,Release,0.19,Inflation
 be71ac9d-713d-48c9-8bef-e77b71fe53df,04/16/2026 22:45:00,Electronic Card Retail Sales  (MoM),HIGH,NZD,Release,0.17,Growth
 d340f51e-ef68-45bb-ae50-4a0beb4c3c70,04/16/2026 22:45:00,Electronic Card Retail Sales (YoY),HIGH,NZD,Release,0.17,Growth
 f3a706bc-12f1-4064-a4c1-b73c1d33e006,04/16/2026 22:45:00,Food Price Index (MoM),HIGH,NZD,Release,0.19,Inflation
@@ -20,6 +17,9 @@ d6e3dc51-e340-49a3-93c0-4c9a65a8449b,04/19/2026 22:45:00,Exports,MEDIUM,NZD,Rele
 f4c3973f-c738-4ed5-81c6-fd5e941a7363,04/19/2026 22:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External
 c42d8357-1bc0-488b-a0f6-1c5cde1d7479,04/19/2026 22:45:00,Trade Balance NZD (MoM),MEDIUM,NZD,Release,0.11,Trade and External
 3c614b0c-4cc1-492a-bc06-9992685426f0,04/19/2026 22:45:00,Trade Balance NZD (YoY),MEDIUM,NZD,Release,0.11,Trade and External
+7d83d419-446a-483f-a63e-70d4e6efec72,04/20/2026 22:00:00,NZIER Business Confidence (QoQ),MEDIUM,NZD,Release,0.14,Confidence
+a9e255c8-fd22-4906-bb91-539a60fc27cd,04/20/2026 22:45:00,Consumer Price Index (QoQ),HIGH,NZD,Release,0.19,Inflation
+2c6589f3-d981-4c6f-83e7-d13f48c52a3a,04/20/2026 22:45:00,Consumer Price Index (YoY),HIGH,NZD,Release,0.19,Inflation
 1e325c9a-c232-44b0-87d3-beb5b9c30dc9,04/21/2026 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 181ed0a9-5814-4fc7-840a-0353c588e975,04/22/2026 03:00:00,Credit Card Spending (YoY),HIGH,NZD,Release,0.17,Growth
 8319cca1-30c1-4370-8e60-f71fa6b4a6a0,04/30/2026 01:00:00,ANZ Activity Outlook,MEDIUM,NZD,Release,0.14,Confidence
