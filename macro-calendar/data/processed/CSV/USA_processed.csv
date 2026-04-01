@@ -1,16 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-9fb7d941-1e6a-4105-93e5-5066bbaab5af,03/31/2026 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
-aa3d2ec6-793c-41e2-8a7d-10fc5c43859c,03/31/2026 13:00:00,Housing Price Index (MoM),LOW,USD,Release,0.07,Housing
-e6e1d340-cb8a-4d02-b029-b0816137aa71,03/31/2026 13:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD,Release,0.07,Housing
-ec107ef5-e8ea-43a2-ae54-88d840cfca83,03/31/2026 13:45:00,Chicago PMI,MEDIUM,USD,Release,0.14,Confidence
-8d74f3bf-95e3-4d0b-abb8-519a495593f3,03/31/2026 14:00:00,Consumer Confidence,MEDIUM,USD,Release,0.14,Confidence
-277eb8ae-918f-4191-9b1f-bd48db6e495f,03/31/2026 14:00:00,JOLTS Job Openings,HIGH,USD,Release,0.18,Labor Market
-9a1f93de-1caa-4252-8ff5-d9ba440d43d5,03/31/2026 16:00:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-6ac65d67-99f0-4ec3-a451-a02dbfc55898,03/31/2026 16:00:00,Grain Stock Report,MEDIUM,USD,Release,0.11,Trade and External
-7d721f13-c30f-4596-89ad-8fb835b09799,03/31/2026 17:10:00,Fed's Schmid speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-a93b6dcc-1a25-4cac-b83c-d13b46f0b6a6,03/31/2026 19:00:00,Fed's Barr speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-4e340138-84de-4e31-b357-cca7557f4210,03/31/2026 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
-b07a3fd1-027a-4e32-baa1-045f06e0c9d4,03/31/2026 21:10:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 a98b1ab3-ffbf-4119-9ae1-a922517096f6,04/01/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 75f4d1ad-21af-4e3c-a760-cc8442e2bda1,04/01/2026 12:15:00,ADP Employment Change,HIGH,USD,Release,0.18,Labor Market
 466a45d7-e48f-4d8b-85a5-5ec4918bf64f,04/01/2026 12:30:00,Retail Sales (MoM),HIGH,USD,Release,0.17,Growth
@@ -27,6 +15,7 @@ ad3e1c62-f6d7-4e3e-b7dd-a5152e3eb953,04/01/2026 14:00:00,ISM Manufacturing New O
 2c86e6fe-938c-43ac-b3fa-fa23d8dd47ce,04/01/2026 14:00:00,ISM Manufacturing Prices Paid,HIGH,USD,Release,0.17,Growth
 c11cd7d2-f5da-4f8c-a2e9-07a301425222,04/01/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
 318a8389-619d-4371-8a61-112655821296,04/01/2026 19:30:00,Total Vehicle Sales,HIGH,USD,Release,0.17,Growth
+b81c5ec4-16c7-497e-ba15-dd75a4495ba5,04/02/2026 01:00:00,President Trump speech,LOW,USD,Speech,0.091,Confidence
 84c5160a-10e6-4f72-bc7e-bb0c922dadb5,04/02/2026 11:30:00,Challenger Job Cuts,HIGH,USD,Release,0.18,Labor Market
 5017560f-9f09-4102-8037-fc058d43f27b,04/02/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 ed6ec1be-1fee-4cc0-9fb2-17b880751ab7,04/02/2026 12:30:00,Goods and Services Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
@@ -82,7 +71,7 @@ a36bc62b-67d0-45e3-8ede-f0412ef1ccf0,04/09/2026 12:30:00,Personal Consumption Ex
 d90e99b4-0cd8-4daa-a73f-e5e4d98eb1fc,04/09/2026 12:30:00,Personal Consumption Expenditures Prices (QoQ),HIGH,USD,Release,0.17,Growth
 946662d8-cdb6-4b8a-b7e1-68e0917036ff,04/09/2026 12:30:00,Personal Income (MoM),HIGH,USD,Release,0.17,Growth
 80b80fb8-8aae-4b10-b7d6-ed567e9d0733,04/09/2026 12:30:00,Personal Spending,HIGH,USD,Release,0.17,Growth
-5961dd0c-db2c-4ca9-875c-9fffa6e1f031,04/09/2026 12:30:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
+5961dd0c-db2c-4ca9-875c-9fffa6e1f031,04/09/2026 14:00:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
 adece1ef-44f6-41b0-a3a9-94381ae5925c,04/09/2026 14:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 bb830f75-ffc1-4577-aae7-03488f0470ca,04/09/2026 15:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 3080f91d-4499-40a4-bf4e-d6f5cd5eef16,04/09/2026 16:00:00,USDA WASDE Report,HIGH,USD,Release,0.2,Monetary Policy
@@ -203,7 +192,11 @@ f051592a-4d41-4f94-a921-7bf0eb0ed2ad,04/28/2026 14:00:00,Consumer Confidence,MED
 c28fc065-b274-4f8b-b1e9-05ef5df6beac,04/28/2026 17:00:00,5-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 0b6e9f78-aaf9-4e76-baa4-979b34ea0538,04/28/2026 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 bd8f48a7-6d10-4862-866d-9f51f4856a47,04/29/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
+33246629-e6ad-4f61-8325-b74213a49a2d,04/29/2026 12:30:00,Building Permits (MoM),LOW,USD,Release,0.07,Housing
+774566a7-fd09-4944-baab-59e677aa599b,04/29/2026 12:30:00,Building Permits Change,LOW,USD,Release,0.07,Housing
 534dd994-9e1b-4bf3-8aea-81bd211d9ac5,04/29/2026 12:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
+06444688-f5a7-496f-80f3-ef5a3fe84b2f,04/29/2026 12:30:00,Housing Starts (MoM),LOW,USD,Release,0.07,Housing
+8bc3415d-9ca6-4870-ac6d-f7011ebd87f4,04/29/2026 12:30:00,Housing Starts Change,LOW,USD,Release,0.07,Housing
 286ef315-5113-42cb-902e-5d8e6fe98d66,04/29/2026 12:30:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
 13593918-b1aa-4261-bf06-3faaba6f1009,04/29/2026 12:30:05,Building Permits (MoM),LOW,USD,Release,0.07,Housing
 7afb68fa-4f8a-435b-9229-b95361ae2231,04/29/2026 12:30:05,Building Permits Change,LOW,USD,Release,0.07,Housing

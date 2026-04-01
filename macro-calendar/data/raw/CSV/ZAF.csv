@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-c1dc5818-1efc-43a1-8d6d-117a5a2a418f,03/31/2026 12:00:00,Trade Balance (in Rands),LOW,ZAR
 5b6e4565-0db5-42e9-a40a-a0e6ef223b2d,04/01/2026 12:30:00,Total New Vehicle Sales,LOW,ZAR
 05fe02af-0e3d-4efb-8813-e471b5a6aff5,04/09/2026 06:00:00,"Gross $Gold & Forex Reserve ",LOW,ZAR
 3c565539-ead6-4ad4-9212-56d644fb8904,04/09/2026 06:00:00,Net $Gold & Forex Reserve,LOW,ZAR
@@ -64,8 +63,8 @@ cbc907b1-6326-4d08-8f6c-5ce52b60753d,08/07/2026 06:00:00,"Gross $Gold & Forex Re
 8aa55c03-1c56-4cdd-b162-93a706b54eeb,08/11/2026 09:30:00,Unemployment Rate (%),LOW,ZAR
 789b3678-b069-447a-a559-9978ae371d48,08/11/2026 09:30:00,"Unemployment Total ",LOW,ZAR
 ef60f85a-1f26-4b04-a642-73df9a7da532,08/11/2026 11:00:00,Manufacturing Production Index (YoY),LOW,ZAR
-1598447a-7cae-4342-a870-507087db3997,08/12/2026 09:30:05,Business Confidence Index,LOW,ZAR
 eb09f088-7a1e-48e2-aaab-d88b3f1c794a,08/12/2026 09:30:05,Business Confidence Index,LOW,ZAR
+1598447a-7cae-4342-a870-507087db3997,08/12/2026 09:30:05,Business Confidence Index,LOW,ZAR
 985baec1-9598-41ea-911d-b732fb6c65da,08/19/2026 08:00:00,Consumer Price Index (MoM),LOW,ZAR
 09796575-fc3e-447f-85d2-d3a0e259ade2,08/19/2026 08:00:00,Consumer Price Index (YoY),LOW,ZAR
 f2667456-1a73-467a-92aa-b00b73047e80,08/19/2026 11:00:00,Retail Sales (YoY),LOW,ZAR
@@ -93,8 +92,8 @@ c20a5224-506f-455e-9bb5-f328eaa1055c,09/30/2026 09:30:00,Producer Price Index (M
 15c0b418-49ad-4e46-9818-464df9d34619,10/08/2026 06:00:00,"Gross $Gold & Forex Reserve ",LOW,ZAR
 fc8a5212-b85b-4773-8eca-3863158b05e8,10/08/2026 06:00:00,Net $Gold & Forex Reserve,LOW,ZAR
 20101367-ae62-428a-b0a6-27781070a601,10/08/2026 11:00:00,Manufacturing Production Index (YoY),LOW,ZAR
-8cd2d1e1-13a2-4446-a7c8-272dad01c79f,10/14/2026 09:30:05,Business Confidence Index,LOW,ZAR
 0508cbd6-5d55-45d4-a952-2d340920ab3a,10/14/2026 09:30:05,Business Confidence Index,LOW,ZAR
+8cd2d1e1-13a2-4446-a7c8-272dad01c79f,10/14/2026 09:30:05,Business Confidence Index,LOW,ZAR
 0f69ea00-c13a-41b7-b64a-0b5f79980cea,10/21/2026 08:00:00,Consumer Price Index (MoM),LOW,ZAR
 9ada5b55-069f-4b6c-b829-68684ba5ce86,10/21/2026 08:00:00,Consumer Price Index (YoY),LOW,ZAR
 03f51912-1499-4e48-8463-e3a1e298262e,10/21/2026 11:00:00,Retail Sales (YoY),LOW,ZAR

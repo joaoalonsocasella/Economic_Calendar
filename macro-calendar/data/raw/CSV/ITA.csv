@@ -1,10 +1,4 @@
 Id,Start,Name,Impact,Currency
-baaf0a88-6367-4978-9eab-92d34f2354be,03/31/2026 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
-75f2c9f5-1329-48a1-b8a3-5eabee27f08b,03/31/2026 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
-f8ff4266-b051-45e6-a2c3-d8319b6f6e56,03/31/2026 09:00:00,Consumer Price Index (MoM),LOW,EUR
-4acf9695-8c84-473b-a404-c43a50324ce7,03/31/2026 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR
-d0485ddb-c4ee-44cc-8a7a-d5477fae233f,03/31/2026 10:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR
-0a249ebb-2612-4e77-a523-b087d0eae800,03/31/2026 10:00:00,Industrial Sales s.a. (MoM),LOW,EUR
 4770e981-3f3d-41ae-9f8a-eeba25268d9b,04/01/2026 07:45:00,HCOB Manufacturing PMI,MEDIUM,EUR
 24e66a77-9ba3-49f6-a27e-7199d978e562,04/01/2026 08:00:00,Unemployment,LOW,EUR
 cbc6091c-2b6b-4850-962a-03174ac63928,04/02/2026 09:00:00,Retail Sales n.s.a (YoY),LOW,EUR
