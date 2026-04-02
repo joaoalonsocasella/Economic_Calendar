@@ -1,20 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a98b1ab3-ffbf-4119-9ae1-a922517096f6,04/01/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-75f4d1ad-21af-4e3c-a760-cc8442e2bda1,04/01/2026 12:15:00,ADP Employment Change,HIGH,USD,Release,0.18,Labor Market
-466a45d7-e48f-4d8b-85a5-5ec4918bf64f,04/01/2026 12:30:00,Retail Sales (MoM),HIGH,USD,Release,0.17,Growth
-8cf50ad3-b4e9-4bc3-a598-436551fa2b24,04/01/2026 12:30:00,Retail Sales (YoY),HIGH,USD,Release,0.17,Growth
-a9b3e3c7-9031-4cbd-8445-b710c9dca33c,04/01/2026 12:30:00,Retail Sales Control Group,HIGH,USD,Release,0.17,Growth
-2efe7adc-cb9e-4f59-9c51-d680a4ed580b,04/01/2026 12:30:00,Retail Sales ex Autos (MoM),HIGH,USD,Release,0.17,Growth
-8ba1c2c0-b615-4d70-9c4c-6c4257a42ede,04/01/2026 13:05:00,Fed's Musalem speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-a459a3ee-0839-447d-9982-d001da22f829,04/01/2026 13:10:00,Fed's Barr speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-041bcf84-5272-4edb-80a3-6ea2aff369e2,04/01/2026 13:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
-823a715c-39ab-4ec4-8ebe-10e6c5acd981,04/01/2026 14:00:00,Business Inventories,HIGH,USD,Release,0.17,Growth
-a86fe3fd-b295-4fa1-88fc-ec3d80cf31ba,04/01/2026 14:00:00,ISM Manufacturing Employment Index,HIGH,USD,Release,0.18,Labor Market
-ad3e1c62-f6d7-4e3e-b7dd-a5152e3eb953,04/01/2026 14:00:00,ISM Manufacturing New Orders Index,HIGH,USD,Release,0.17,Growth
-9e03c746-7411-43fe-b60d-074e034c786b,04/01/2026 14:00:00,ISM Manufacturing PMI,HIGH,USD,Release,0.17,Growth
-2c86e6fe-938c-43ac-b3fa-fa23d8dd47ce,04/01/2026 14:00:00,ISM Manufacturing Prices Paid,HIGH,USD,Release,0.17,Growth
-c11cd7d2-f5da-4f8c-a2e9-07a301425222,04/01/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
-318a8389-619d-4371-8a61-112655821296,04/01/2026 19:30:00,Total Vehicle Sales,HIGH,USD,Release,0.17,Growth
 b81c5ec4-16c7-497e-ba15-dd75a4495ba5,04/02/2026 01:00:00,President Trump speech,LOW,USD,Speech,0.091,Confidence
 84c5160a-10e6-4f72-bc7e-bb0c922dadb5,04/02/2026 11:30:00,Challenger Job Cuts,HIGH,USD,Release,0.18,Labor Market
 5017560f-9f09-4102-8037-fc058d43f27b,04/02/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market

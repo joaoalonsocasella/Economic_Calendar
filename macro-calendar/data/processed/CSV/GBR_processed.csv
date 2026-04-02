@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0a6fd546-9c8a-4de4-91cd-fd2d803dc72f,04/01/2026 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
-7a74f192-8b99-4760-93e7-5265f831c49d,04/01/2026 09:30:00,FPC Meeting Minutes,HIGH,GBP,Release,0.2,Monetary Policy
-1fcdd5ee-8e87-4429-bb71-197d9dc9fd95,04/01/2026 09:30:00,FPC Statement,MEDIUM,GBP,Speech,0.13,Monetary Policy
 ec660f07-7129-473c-9f38-c25711783b69,04/03/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 8e5b4bf6-610f-420e-973b-4671801947e7,04/06/2026 23:01:00,BRC Like-For-Like Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
 eef2963b-71a4-46f9-a37a-e075255b253c,04/07/2026 08:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
