@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0d36296a-fa7d-426c-acd5-679fd63f2a0c,04/03/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 47d1dce5-15a4-4e2a-a101-beab9e82436a,04/06/2026 08:30:00,Sentix Investor Confidence,HIGH,EUR,Release,0.595,Confidence
 a9185254-a513-4a5a-b79c-fa4b09760970,04/07/2026 08:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 1b15e1d7-ef60-44b7-b7ad-91830f2fcee3,04/07/2026 08:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
@@ -8,6 +7,7 @@ a9185254-a513-4a5a-b79c-fa4b09760970,04/07/2026 08:00:00,HCOB Composite PMI,HIGH
 a290e92d-a89f-4821-b54a-2b450b760b96,04/08/2026 09:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 71100892-464d-43e0-8d8b-a57552b63c68,04/08/2026 09:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
 17c93b1c-9334-4261-9c25-afc360b2b61a,04/08/2026 09:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+8f6e4c74-3da9-40c7-be3b-454c414ffe90,04/10/2026 10:00:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
 29fb3a41-7999-48c4-9ef8-3cfbdf11b456,04/10/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 d566a592-c1e5-4092-8365-51d0b2924a02,04/15/2026 09:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 cac6206e-ac9c-4d3d-bcb0-2581e7813f59,04/15/2026 09:00:00,Industrial Production w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth

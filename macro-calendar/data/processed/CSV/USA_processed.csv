@@ -1,17 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-19b62c60-8e5a-40ad-a58c-fee34bf337ed,04/03/2026 12:30:00,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market
-e301893e-0392-410b-96eb-443eb2940081,04/03/2026 12:30:00,Average Hourly Earnings (YoY),HIGH,USD,Release,0.18,Labor Market
-3faa00a6-3054-4133-b4aa-7c457f4f9666,04/03/2026 12:30:00,Average Weekly Hours,HIGH,USD,Release,0.18,Labor Market
-21b8559f-f775-466a-9a80-efa32156d480,04/03/2026 12:30:00,Labor Force Participation Rate,HIGH,USD,Release,0.18,Labor Market
-c1d13c98-33db-4fb7-b9b4-a01ab5c6f492,04/03/2026 12:30:00,Nonfarm Payrolls,HIGH,USD,Release,0.18,Labor Market
-84e3ea87-bb8f-4875-bec0-ac77890c76dc,04/03/2026 12:30:00,U6 Underemployment Rate,HIGH,USD,Release,0.2,Monetary Policy
-2b94c3d3-9cce-4457-bcab-8ff2ba8a13d4,04/03/2026 12:30:00,Unemployment Rate,HIGH,USD,Release,0.18,Labor Market
-4d0e522e-d783-4c3d-adc2-4d865f9764d7,04/03/2026 13:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
-7b73280e-3077-4893-a722-6a14997ed9fa,04/03/2026 13:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
-0a0de227-6b1a-40b6-aed6-64dc3a3c216d,04/03/2026 17:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
-d37a29f9-d59e-44e1-8d8d-cdf257d4d003,04/03/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-5c5c1517-63aa-4375-b8a4-c000d3dd3651,04/03/2026 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-c566366c-eefe-4ce7-bbc8-4b25e6cf5beb,04/03/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 fc0c58a5-e9af-4f49-9306-763fac7e50f2,04/06/2026 14:00:00,ISM Services Employment Index,HIGH,USD,Release,0.18,Labor Market
 ca6a364c-8fe4-46eb-b649-41e5da586774,04/06/2026 14:00:00,ISM Services New Orders Index,HIGH,USD,Release,0.17,Growth
 9c3bfcbb-f714-45fe-901a-0bb9015a9229,04/06/2026 14:00:00,ISM Services PMI,HIGH,USD,Release,0.17,Growth
@@ -62,6 +49,7 @@ ceb3fed4-fd11-4fc4-9ad3-fb65fa4691c8,04/10/2026 14:00:00,Michigan Consumer Expec
 8374f536-7f2c-4e7c-a98a-09b10a73ef06,04/10/2026 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
 9704de5b-80db-4670-b826-9f2cefcb40eb,04/10/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
 54f18974-d0e5-4664-a20d-633d5917d7cf,04/10/2026 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
+0a0de227-6b1a-40b6-aed6-64dc3a3c216d,04/10/2026 17:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
 c19ffa5e-5d6a-4864-b2d7-91391ae47490,04/10/2026 17:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
 2eb62d4f-638a-4a5e-a521-2f5fbc65e110,04/10/2026 18:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
 4016d4c1-cd64-4e0b-9eea-90bc5ccc93da,04/10/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
