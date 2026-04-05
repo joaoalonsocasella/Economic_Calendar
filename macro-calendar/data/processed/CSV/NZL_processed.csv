@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-ee52da80-0210-49cf-84d3-9228330d5f82,04/04/2026 16:00:00,Daylight Saving Time Ends,HIGH,NZD,Release,0.2,Monetary Policy
 ac8e091f-149c-4aaa-91bc-48a6fa4a76ba,04/07/2026 01:00:00,ANZ Commodity Price,MEDIUM,NZD,Release,0.14,Confidence
 68dd444d-6690-4d1d-b7d9-21104eef7e06,04/07/2026 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 38032017-e296-413e-ab12-7c855af418ae,04/08/2026 02:00:00,RBNZ Interest Rate Decision,MEDIUM,NZD,Speech,0.13,Monetary Policy
