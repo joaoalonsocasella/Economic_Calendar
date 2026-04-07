@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-8e5b4bf6-610f-420e-973b-4671801947e7,04/06/2026 23:01:00,BRC Like-For-Like Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
 eef2963b-71a4-46f9-a37a-e075255b253c,04/07/2026 08:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
 f2dbb88d-190f-4cb3-b2c6-e4cf9af6a3a7,04/07/2026 08:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
 ca6a2121-fa7e-48c4-8598-780d785eedb3,04/08/2026 06:00:00,Halifax House Prices (MoM),LOW,GBP,Release,0.07,Housing
@@ -8,6 +7,7 @@ aa47216d-ccea-4430-8df7-0c5688ced8ca,04/08/2026 08:30:00,S&P Global Construction
 f247f044-029c-402b-81d9-e60e2f56dd6c,04/08/2026 23:01:00,RICS Housing Price Balance,LOW,GBP,Release,0.07,Housing
 0f1af36f-e819-4ad2-91fa-66b69b3d350b,04/09/2026 08:30:00,BoE Credit Conditions Survey,HIGH,GBP,Release,0.2,Monetary Policy
 222c650e-35df-4125-b5b1-efbfd7e7346c,04/10/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+8e5b4bf6-610f-420e-973b-4671801947e7,04/13/2026 23:01:00,BRC Like-For-Like Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
 e9674962-feb1-4926-b05f-f5efebdabd63,04/14/2026 16:00:00,BoE's Governor Bailey speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 3c7c68fd-97b2-40b8-a0e4-cade1dc6cce8,04/14/2026 19:00:00,BoE's Greene speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 e13d382c-5d35-4d42-ab21-988a79c9bfe6,04/15/2026 15:50:00,BoE's Governor Bailey speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
