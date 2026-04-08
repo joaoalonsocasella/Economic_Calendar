@@ -1,7 +1,4 @@
 Id,Start,Name,Impact,Currency
-d0a5c402-f60e-446c-89f8-7febecaee47b,04/07/2026 01:00:00,TD-MI Inflation Gauge (MoM),LOW,AUD
-62897769-e743-48f9-83ab-61090c05364d,04/07/2026 01:00:00,TD-MI Inflation Gauge (YoY),MEDIUM,AUD
-cd83710e-c738-4d23-b154-3daaee0923b1,04/07/2026 01:30:00,ANZ Job Advertisements,LOW,AUD
 3a0d4ca4-7eb0-4ad4-85bd-886a59d795b1,04/10/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
 f9e81498-a325-4027-9d48-68a0c7aad482,04/14/2026 00:30:00,Westpac Consumer Confidence,MEDIUM,AUD
 f49a6b2c-67dd-4327-958c-ae89b2100576,04/14/2026 01:30:00,National Australia Bank's Business Conditions,LOW,AUD
@@ -9,7 +6,6 @@ f49a6b2c-67dd-4327-958c-ae89b2100576,04/14/2026 01:30:00,National Australia Bank
 4d8a5682-4bc5-4102-b4a3-6ef77746f21e,04/16/2026 01:00:00,Consumer Inflation Expectations,MEDIUM,AUD
 f471614e-88a1-450b-9b28-0d47d24e4565,04/16/2026 01:30:00,Employment Change s.a.,HIGH,AUD
 4758d3e0-f944-448b-a02b-56d5c22f96ba,04/16/2026 01:30:00,Full-Time Employment,MEDIUM,AUD
-00998373-ba1a-40c9-ab1c-518a84512f5c,04/16/2026 01:30:00,National Australia Bank's Business Confidence (QoQ),MEDIUM,AUD
 89e83a34-f5cf-4120-8583-b72eea9f113b,04/16/2026 01:30:00,Participation Rate,MEDIUM,AUD
 bdc31eb2-75ad-46a5-8334-8a876ec39fc8,04/16/2026 01:30:00,Part-Time Employment,MEDIUM,AUD
 c863bfb1-098d-4c17-ad2d-2cdc23a66178,04/16/2026 01:30:00,Unemployment Rate s.a.,HIGH,AUD
@@ -128,6 +124,7 @@ b02a6af6-a2c4-470c-a087-057b9a7bafe9,06/24/2026 01:30:00,Consumer Price Index (M
 7f8f3b65-8907-4200-8c38-67f92eab47ed,06/24/2026 01:30:00,Consumer Price Index (YoY),HIGH,AUD
 502efe01-e97f-49fd-8ff2-d38c23f959b6,06/24/2026 01:30:00,Trimmed Mean CPI (MoM),MEDIUM,AUD
 459f0ec7-5021-42bf-bf4c-3a17b4be8561,06/24/2026 01:30:00,Trimmed Mean CPI (YoY),HIGH,AUD
+a45ce0ba-3fa7-4649-aacf-ce7aac9f028f,06/25/2026 01:30:00,National Australia Bank's Business Confidence (QoQ),MEDIUM,AUD
 58cb4ece-21d5-4731-9699-58b6c490ab99,06/26/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
 d4aae11d-fdbb-4391-ab47-127a650886fc,06/30/2026 01:30:00,Building Permits (MoM),MEDIUM,AUD
 1f332b77-5d58-45bc-bbbb-bb3a9c019be3,06/30/2026 01:30:00,Building Permits (YoY),LOW,AUD
@@ -155,7 +152,6 @@ afa330b7-2abe-4ae8-84d9-2df8d235c585,07/10/2026 19:30:00,CFTC AUD NC Net Positio
 1e02966a-1679-4505-b5f8-136f2826b569,07/16/2026 01:00:00,Consumer Inflation Expectations,MEDIUM,AUD
 ee9e24df-94a6-4963-a330-98493cebc078,07/16/2026 01:30:00,Employment Change s.a.,HIGH,AUD
 039dfb83-778f-4fbf-9089-e2ce40d5541d,07/16/2026 01:30:00,Full-Time Employment,MEDIUM,AUD
-a45ce0ba-3fa7-4649-aacf-ce7aac9f028f,07/16/2026 01:30:00,National Australia Bank's Business Confidence (QoQ),MEDIUM,AUD
 680d5683-831f-4a33-a67a-a09d4c940c27,07/16/2026 01:30:00,Participation Rate,MEDIUM,AUD
 c42c0be6-ed37-4d40-a09b-ca21f666d3cb,07/16/2026 01:30:00,Part-Time Employment,MEDIUM,AUD
 7fc63892-a163-4ffb-81c8-644c952d8283,07/16/2026 01:30:00,Unemployment Rate s.a.,HIGH,AUD

@@ -1,10 +1,9 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d451dec3-18e7-4247-9755-36e83f6e4389,04/07/2026 14:30:00,Treasury Cash Balance,MEDIUM,TRY,Release,0.11,Trade and External
 120810e8-dada-4858-8f9b-b4f00d19ff84,04/10/2026 07:00:00,Industrial Production (YoY),HIGH,TRY,Release,0.17,Growth
 8bd12ce6-16f5-4239-ad3e-e22d6686ff09,04/13/2026 07:00:00,Current Account Balance,MEDIUM,TRY,Release,0.11,Trade and External
 f8c38bdd-9d6a-4e8b-b617-734f05af55d3,04/15/2026 08:00:00,Budget Balance,MEDIUM,TRY,Release,0.11,Trade and External
-d8da97b1-1290-4cb5-a9f3-5149dedd7362,04/16/2026 11:00:00,CBRT Interest Rate Decision,HIGH,TRY,Release,0.2,Monetary Policy
 d988f1a3-d4a9-4b1c-8886-351a00dc6553,04/21/2026 07:00:00,Consumer Confidence,MEDIUM,TRY,Release,0.14,Confidence
+d8da97b1-1290-4cb5-a9f3-5149dedd7362,04/22/2026 11:00:00,CBRT Interest Rate Decision,HIGH,TRY,Release,0.2,Monetary Policy
 13f95ab7-c09c-4ea1-a9e3-41dc75dd1212,04/24/2026 07:00:00,Capacity Utilization,HIGH,TRY,Release,0.2,Monetary Policy
 97e2705b-3319-4834-a57c-42b83cb7b7cc,04/24/2026 07:00:00,Manufacturing Confidence,MEDIUM,TRY,Release,0.14,Confidence
 2bb7c830-3874-49bf-afb9-6b5998614db0,04/30/2026 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence

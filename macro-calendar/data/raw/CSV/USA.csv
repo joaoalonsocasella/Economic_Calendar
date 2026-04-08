@@ -1,16 +1,4 @@
 Id,Start,Name,Impact,Currency
-631c3336-3cdb-42d8-b70e-d839e6339a7d,04/07/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
-67ab3c2d-4548-49c4-a736-e463a4cf5649,04/07/2026 12:30:00,Durable Goods Orders,MEDIUM,USD
-5bd62e22-fe60-46d3-99f8-e60ede31f7d8,04/07/2026 12:30:00,Durable Goods Orders ex Defense,MEDIUM,USD
-d24d233d-3810-477b-909b-7ac33a489a86,04/07/2026 12:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
-59b8a9c7-f3cf-4972-9a99-e8d25fbbde0d,04/07/2026 12:30:00,Nondefense Capital Goods Orders ex Aircraft,MEDIUM,USD
-6641c199-dfd2-448d-b9f2-11d6b4d8376b,04/07/2026 12:55:00,Redbook Index (YoY),LOW,USD
-efc1c12e-e7e2-4512-be61-1eee801322aa,04/07/2026 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
-826083a9-5046-4e80-801b-d725b0ad3870,04/07/2026 16:35:00,Fed's Goolsbee speech,MEDIUM,USD
-a6888066-2329-47df-b75b-2bf2ff9ad0ed,04/07/2026 17:00:00,3-Year Note Auction,LOW,USD
-97f2d4e2-9132-4d1b-a69c-5f88e7d41eb4,04/07/2026 19:00:00,Consumer Credit Change,LOW,USD
-8b53869b-ccfa-408e-bea4-2c8020637350,04/07/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
-c319821c-4085-4aad-b951-b716526d1dcb,04/07/2026 21:50:00,Fed's Jefferson speech,MEDIUM,USD
 60c97284-b4a6-4196-84d1-e37de7921f78,04/08/2026 00:00:00,Trump's deadline for Iran,HIGH,USD
 bd569e0a-38bf-4a77-87c7-12d9328e5511,04/08/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 8dce62cf-54f6-493f-b6bc-69eb31763861,04/08/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
@@ -75,7 +63,12 @@ f2654f6f-a3cd-47c4-aab2-a79cdac227d6,04/15/2026 11:00:00,MBA Mortgage Applicatio
 431e1220-3d40-4b46-b24b-963e2c3cacd6,04/15/2026 12:30:00,Export Price Index (YoY),LOW,USD
 c779c5c1-7ae0-4839-86a3-59445135ef10,04/15/2026 12:30:00,Import Price Index (MoM),LOW,USD
 3fa06bd6-b69b-4000-9be6-c8a91dde101e,04/15/2026 12:30:00,Import Price Index (YoY),LOW,USD
+255af769-8a35-4c30-8eec-34883c9b488f,04/15/2026 12:30:00,NY Empire State Manufacturing Index,MEDIUM,USD
+7f8c1072-0f54-4aeb-9bb9-4bab4ee57658,04/15/2026 14:00:00,NAHB Housing Market Index,LOW,USD
 3ec8bf40-f258-4f20-99ce-0ee5da5e6592,04/15/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+b4535b48-cede-42a6-9dbf-514c3095d29e,04/15/2026 18:00:00,Fed's Beige Book,MEDIUM,USD
+6c52a8d1-6f3c-4e4e-a427-b03831bde804,04/15/2026 20:00:00,Net Long-Term TIC Flows,LOW,USD
+7b541ce4-5c03-40bc-b39e-6187032f7f34,04/15/2026 20:00:00,Total Net TIC Flows,LOW,USD
 f34fbff3-81c4-4a04-93b7-12c05b4b1474,04/16/2026 00:00:00,IMF Meeting,MEDIUM,USD
 e7e8bb16-13fd-41aa-b6a4-0856204c0619,04/16/2026 12:30:00,Continuing Jobless Claims,LOW,USD
 8a4e6394-0d36-4743-a955-f83e20f2f145,04/16/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
@@ -85,17 +78,13 @@ cb8c3a7f-a6c4-43e8-885b-22fbde74f67b,04/16/2026 12:30:00,Philadelphia Fed Manufa
 0ef3cd1f-410d-4a6f-b794-26bd193f4b56,04/16/2026 13:15:00,Capacity Utilization,LOW,USD
 03470b7a-03d7-4dde-89b1-e808d72465da,04/16/2026 13:15:00,Industrial Production (MoM),MEDIUM,USD
 35a71a31-92a6-4a29-9e9a-8e8e04119337,04/16/2026 14:00:00,Business Inventories,LOW,USD
-7f8c1072-0f54-4aeb-9bb9-4bab4ee57658,04/16/2026 14:00:00,NAHB Housing Market Index,LOW,USD
 e56b4b03-d436-44ce-828d-1ba61e7cb004,04/16/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
 1760bb0f-adf3-488c-bec3-8278f485c6fe,04/16/2026 15:30:00,4-Week Bill Auction,LOW,USD
 c390922e-b7d3-442b-8fab-97eb9955ba65,04/17/2026 00:00:00,IMF Meeting,MEDIUM,USD
-255af769-8a35-4c30-8eec-34883c9b488f,04/17/2026 12:30:00,NY Empire State Manufacturing Index,MEDIUM,USD
 e53182f6-5315-41bf-865c-e38f3f2e096e,04/17/2026 17:00:00,Baker Hughes US Oil Rig Count,LOW,USD
 0cd8b6b5-bdf5-455f-bedf-3965f3ccef52,04/17/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD
 5c879582-bc7d-4f10-b751-be68ea270ed4,04/17/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 8baed9b2-e31b-4c33-ae74-dd28e6aa3760,04/17/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
-6c52a8d1-6f3c-4e4e-a427-b03831bde804,04/17/2026 20:00:00,Net Long-Term TIC Flows,LOW,USD
-7b541ce4-5c03-40bc-b39e-6187032f7f34,04/17/2026 20:00:00,Total Net TIC Flows,LOW,USD
 6e4e8eb4-319a-4edc-a8b8-4d3502f44dcb,04/18/2026 00:00:00,IMF Meeting,MEDIUM,USD
 3f60cc4e-80a5-4208-a930-eb50c1265622,04/19/2026 00:00:00,IMF Meeting,MEDIUM,USD
 ff5bae10-15f7-4efc-ae32-32fd83d35ff3,04/20/2026 15:30:00,3-Month Bill Auction,LOW,USD
@@ -110,7 +99,6 @@ bfc12032-0c46-41c4-a004-4ab624c8c10b,04/21/2026 20:30:00,API Weekly Crude Oil St
 bb45b0f0-f43f-4964-a5a3-d2029c7f68f3,04/22/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 48c6d7b3-3834-451b-a229-9da8c24b4761,04/22/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
 1ab3299b-32d3-4a05-a752-cb7e57cf1f07,04/22/2026 17:00:00,20-Year Bond Auction,LOW,USD
-b4535b48-cede-42a6-9dbf-514c3095d29e,04/22/2026 18:00:00,Fed's Beige Book,MEDIUM,USD
 f44d3f0e-20a6-44c5-b99a-4107b75b68f4,04/23/2026 12:30:00,Continuing Jobless Claims,LOW,USD
 f1f8a5f0-2a0a-4939-b85f-ac5511d230fb,04/23/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
 fc5b050c-f58e-4cb9-9ab9-5ca93ddeb45b,04/23/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
