@@ -1,9 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-37d19cde-03eb-4e9c-b95d-f2686ef6d80b,04/08/2026 06:30:00,Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
-fc31e70f-040d-4cf4-ab95-824d9cc90adf,04/08/2026 06:30:00,Core Consumer Price Index (YoY),HIGH,HUF,Release,0.19,Inflation
-00d56125-942a-4d69-a48d-11d398d8fb1b,04/08/2026 06:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
-d0fad418-c8f6-4212-9cc4-c6ffd7a4167c,04/08/2026 06:30:00,Retail Sales (YoY),HIGH,HUF,Release,0.17,Growth
-60eddcd0-c0b3-47f0-8fad-16d499e36930,04/08/2026 09:00:00,Budget Balance,MEDIUM,HUF,Release,0.11,Trade and External
+60eddcd0-c0b3-47f0-8fad-16d499e36930,04/13/2026 09:00:00,Budget Balance,MEDIUM,HUF,Release,0.11,Trade and External
 8cb91802-60fe-4131-a883-1042840a7158,04/15/2026 06:30:00,Industrial Output (YoY),HIGH,HUF,Release,0.17,Growth
 f5403909-ceb1-4235-90ab-93ac86c43cba,04/17/2026 06:30:00,Gross Wages (YoY),HIGH,HUF,Release,0.17,Growth
 03afb38d-326a-44b1-a2c9-2d18c8e39907,04/24/2026 06:30:00,Unemployment Rate (3M),HIGH,HUF,Release,0.18,Labor Market

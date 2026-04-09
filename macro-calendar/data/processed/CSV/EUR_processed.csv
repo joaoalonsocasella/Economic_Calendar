@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-7895e575-db5e-4c8a-bc4b-d67af65c2a7f,04/08/2026 08:00:00,Non-Monetary Policy ECB Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
-5b620af8-0f32-4422-88ef-b6f68264afa6,04/08/2026 09:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-a290e92d-a89f-4821-b54a-2b450b760b96,04/08/2026 09:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-71100892-464d-43e0-8d8b-a57552b63c68,04/08/2026 09:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
-17c93b1c-9334-4261-9c25-afc360b2b61a,04/08/2026 09:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 408b1b52-1e82-4985-8659-1a9681013653,04/09/2026 10:45:00,ECB's Sleijpen speech,HIGH,EUR,Speech,0.552,Monetary Policy
 8f6e4c74-3da9-40c7-be3b-454c414ffe90,04/10/2026 10:00:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
 29fb3a41-7999-48c4-9ef8-3cfbdf11b456,04/10/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
@@ -21,11 +16,12 @@ f5322002-7d71-40d5-9879-868c01356409,04/17/2026 09:00:00,Trade Balance s.a.,HIGH
 5168b62e-b47c-483c-852d-8cef0afc9094,04/17/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 dd15c90a-0c49-4745-9e68-dae964606860,04/20/2026 09:00:00,Construction Output  s.a (MoM),HIGH,EUR,Release,0.297,Housing
 ecc20c10-5d19-4dbc-a5be-e181b161c393,04/20/2026 09:00:00,Construction Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
-55607adc-7127-4dd5-9423-587459266119,04/21/2026 08:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
-01b8ab72-519b-447c-b307-bf5f803f38fa,04/21/2026 08:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
-173dc8c2-27fa-4feb-8d72-d5ecf391bccf,04/21/2026 08:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 b5d09cb8-4eca-4325-ab8a-d9e64adc3ce4,04/21/2026 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
-9ee99346-388e-40c3-9893-896959dde7ba,04/23/2026 14:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+9ee99346-388e-40c3-9893-896959dde7ba,04/22/2026 14:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+a749d867-74d0-4ffb-a21f-52f5c12d22bd,04/23/2026 07:00:00,Non-Monetary Policy ECB Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
+55607adc-7127-4dd5-9423-587459266119,04/23/2026 08:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
+01b8ab72-519b-447c-b307-bf5f803f38fa,04/23/2026 08:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+173dc8c2-27fa-4feb-8d72-d5ecf391bccf,04/23/2026 08:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 53382e57-e453-4b75-b10c-46c1a4154f46,04/24/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 268e714c-116b-49d4-8021-40f2ce01a648,04/28/2026 08:00:00,ECB Bank Lending Survey,HIGH,EUR,Release,0.85,Monetary Policy
 5b97cf00-6c3c-4baf-951f-d26307d16f72,04/29/2026 08:00:00,M3 Money Supply (3m),HIGH,EUR,Release,0.85,Monetary Policy
