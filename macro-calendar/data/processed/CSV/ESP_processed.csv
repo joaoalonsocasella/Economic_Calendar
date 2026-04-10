@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-fd002d2a-96f8-418a-aeec-0bec04e8b181,04/09/2026 07:00:00,Industrial Output Cal Adjusted (YoY),HIGH,EUR,Release,0.722,Growth
-e5078dbc-26af-4fda-a7fa-0c3ea96bdf40,04/09/2026 08:40:00,5-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
-f089959e-ff4f-4622-89e1-c084bf0bc050,04/09/2026 08:55:00,10-y Obligaciones Auction,HIGH,EUR,Release,0.383,Money and Credit
-7d521e79-9605-46de-b1f3-53c3c6bcb9b3,04/09/2026 08:55:00,3-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 147b572f-8777-4bc4-9058-57a9cfdb4d82,04/14/2026 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 98fbbc47-11e0-43de-a288-05ae7e10a58a,04/14/2026 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 8b8fc814-df31-4ff8-9394-994db9e82c8c,04/14/2026 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence

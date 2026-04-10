@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-408b1b52-1e82-4985-8659-1a9681013653,04/09/2026 10:45:00,ECB's Sleijpen speech,HIGH,EUR,Speech,0.552,Monetary Policy
 8f6e4c74-3da9-40c7-be3b-454c414ffe90,04/10/2026 10:00:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
 29fb3a41-7999-48c4-9ef8-3cfbdf11b456,04/10/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 d566a592-c1e5-4092-8365-51d0b2924a02,04/15/2026 09:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
@@ -9,6 +8,7 @@ cac6206e-ac9c-4d3d-bcb0-2581e7813f59,04/15/2026 09:00:00,Industrial Production w
 f0bf7e40-3077-4b74-bb1f-3a3168d23af1,04/16/2026 09:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 209722b4-61ae-45a3-91f4-20863709204c,04/16/2026 09:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
 35138305-8d29-44a7-8b21-5d5b28cc235a,04/16/2026 11:30:00,ECB Monetary Policy Meeting Accounts,HIGH,EUR,Speech,0.552,Monetary Policy
+4a212c43-1867-4b54-b826-872b14ee5f02,04/16/2026 16:45:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 32bb6a54-cd62-4cf1-9915-daf9ec8bd4f6,04/17/2026 08:00:00,Current Account n.s.a,HIGH,EUR,Release,0.468,Trade and External
 5c6c8557-4f56-40c6-a72f-6be534547d08,04/17/2026 08:00:00,Current Account s.a,HIGH,EUR,Release,0.468,Trade and External
 08a5ff3e-8f2f-4ed6-83d5-ea6b692a061c,04/17/2026 09:00:00,Trade Balance n.s.a.,HIGH,EUR,Release,0.468,Trade and External

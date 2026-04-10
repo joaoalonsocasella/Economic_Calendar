@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-2e9686a6-49f5-40d4-8607-65246305a44d,04/09/2026 06:00:00,Exports (MoM),HIGH,EUR,Release,0.468,Trade and External
-0d4838a6-7ddf-4515-b735-dc21fa427a61,04/09/2026 06:00:00,Imports (MoM),HIGH,EUR,Release,0.468,Trade and External
-b8bf483c-7bbd-4c3b-81e8-5fd8cb878234,04/09/2026 06:00:00,Industrial Production n.s.a. w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth
-426da9d8-a790-4c88-a8b0-40de3930002a,04/09/2026 06:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
-bc735f11-99df-43ab-a25d-e32fe393cdd6,04/09/2026 06:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External
 da18c14a-6341-4cbf-a724-96e08cd2aca5,04/10/2026 06:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 f61601c4-d231-4ad7-99e8-5cae55965100,04/10/2026 06:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 c2f18e9a-b834-4391-a257-3fdfe46fbdb0,04/10/2026 06:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence

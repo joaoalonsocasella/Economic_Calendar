@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-8a9f16b2-e933-4fc9-a4f5-020136bb943a,04/09/2026 12:00:00,12-Month Inflation,HIGH,MXN,Release,0.19,Inflation
-3604081f-8778-4feb-811f-53a608d452bc,04/09/2026 12:00:00,Core Inflation,HIGH,MXN,Release,0.19,Inflation
-f03d7958-5147-4126-b4eb-ca7405eafbc4,04/09/2026 12:00:00,Headline Inflation,HIGH,MXN,Release,0.19,Inflation
-ea9c8aed-f55a-4966-9510-e3eae3888fd0,04/09/2026 15:00:00,Banxico Monetary Policy Meeting Minutes,HIGH,MXN,Release,0.2,Monetary Policy
 db98e532-d55f-4fd5-82fd-011290157f52,04/10/2026 12:00:00,Industrial Output (MoM),HIGH,MXN,Release,0.17,Growth
 f907b5d1-1459-4c41-9e10-1d8567d54f0a,04/10/2026 12:00:00,Industrial Output (YoY),HIGH,MXN,Release,0.17,Growth
 f4d6a1e8-77bd-4047-889e-c4d489d33a0d,04/23/2026 12:00:00,1st half-month Core Inflation,HIGH,MXN,Release,0.19,Inflation
