@@ -1,21 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-48e470fb-a677-4441-aef2-72f6d045b89d,04/10/2026 12:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-90e55e61-611b-4f5e-8ce3-d1c9ebcdd67a,04/10/2026 12:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-fa306102-e2ac-4a57-8335-b35e8932c0b3,04/10/2026 12:30:00,Consumer Price Index Core s.a,HIGH,USD,Release,0.19,Inflation
-e46fe180-dda9-49ed-8d32-836ab4338881,04/10/2026 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
-9e526466-58ce-44bf-a950-4d78b5b91431,04/10/2026 12:30:00,Consumer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
-ee3a49e0-de4b-4545-a07b-9b8b750864e7,04/10/2026 12:30:00,Consumer Price Index n.s.a (MoM),HIGH,USD,Release,0.19,Inflation
-88f5f1d8-9cfa-4983-8d21-b9047727c33a,04/10/2026 14:00:00,Factory Orders (MoM),HIGH,USD,Release,0.17,Growth
-ceb3fed4-fd11-4fc4-9ad3-fb65fa4691c8,04/10/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
-8374f536-7f2c-4e7c-a98a-09b10a73ef06,04/10/2026 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
-9704de5b-80db-4670-b826-9f2cefcb40eb,04/10/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
-54f18974-d0e5-4664-a20d-633d5917d7cf,04/10/2026 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
-0a0de227-6b1a-40b6-aed6-64dc3a3c216d,04/10/2026 17:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
-c19ffa5e-5d6a-4864-b2d7-91391ae47490,04/10/2026 17:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
-2eb62d4f-638a-4a5e-a521-2f5fbc65e110,04/10/2026 18:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
-4016d4c1-cd64-4e0b-9eea-90bc5ccc93da,04/10/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-eb734d65-4797-4721-9574-a4231bf0f0b7,04/10/2026 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-fc617d58-18c2-40d3-88a9-0edee7d8e844,04/10/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 8d4cc865-92a7-414e-9b7e-3542bbcf343e,04/13/2026 00:00:00,IMF Meeting,MEDIUM,USD,Speech,0.13,Monetary Policy
 4e8d671b-389b-4bde-8ceb-761323aa015a,04/13/2026 14:00:00,Existing Home Sales (MoM),LOW,USD,Release,0.07,Housing
 9a83500a-1664-403b-a821-2f82757d8c47,04/13/2026 14:00:00,Existing Home Sales Change (MoM),LOW,USD,Release,0.07,Housing

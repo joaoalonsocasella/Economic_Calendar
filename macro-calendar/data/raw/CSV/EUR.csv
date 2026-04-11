@@ -1,14 +1,24 @@
 Id,Start,Name,Impact,Currency
-8f6e4c74-3da9-40c7-be3b-454c414ffe90,04/10/2026 10:00:00,ECB's De Guindos speech,MEDIUM,EUR
-29fb3a41-7999-48c4-9ef8-3cfbdf11b456,04/10/2026 19:30:00,CFTC EUR NC Net Positions,LOW,EUR
+5726ec1b-d0af-45b3-abfe-c1ea80159bf1,04/13/2026 12:15:00,ECB's De Guindos speech,MEDIUM,EUR
+81d0c6ee-4616-4b68-a4ad-65b43feb33e8,04/14/2026 14:00:00,ECB's Lane speech,MEDIUM,EUR
+10cbd983-a662-4a5a-b1aa-4c682af8131d,04/14/2026 15:00:00,ECB's Cipollone speech,MEDIUM,EUR
+3a68e1b9-a826-4060-bc88-64b0f055a627,04/14/2026 15:30:00,ECB's Lane speech,MEDIUM,EUR
+60ba0b74-3fbc-40a6-bfa5-20e390741fa0,04/14/2026 21:00:00,ECB's President Lagarde speech,HIGH,EUR
 d566a592-c1e5-4092-8365-51d0b2924a02,04/15/2026 09:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
 cac6206e-ac9c-4d3d-bcb0-2581e7813f59,04/15/2026 09:00:00,Industrial Production w.d.a. (YoY),LOW,EUR
+9ff009f4-4795-4a89-a12c-c180ff0fa06f,04/15/2026 15:20:00,ECB's Cipollone speech,MEDIUM,EUR
+fef012fd-b81b-4a0e-98ce-a9b6da525dbb,04/15/2026 18:00:00,ECB's Cipollone speech,MEDIUM,EUR
+359a9ce9-07a1-4a02-9756-1f226520e427,04/15/2026 19:30:00,ECB's President Lagarde speech,HIGH,EUR
+6a730eee-4842-4a9d-9ee5-f4582f48e332,04/15/2026 20:00:00,ECB's Schnabel speech,MEDIUM,EUR
+1ce5c83b-dcf2-47dc-a60d-092a0d895e33,04/16/2026 03:40:00,ECB's Lane speech,MEDIUM,EUR
 4a9ee9c1-7f86-467d-9893-28a9a59e1f03,04/16/2026 09:00:00,Core Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 768fada8-3339-4f9e-b0c4-ecb86c4811f8,04/16/2026 09:00:00,Core Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
 f0bf7e40-3077-4b74-bb1f-3a3168d23af1,04/16/2026 09:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 209722b4-61ae-45a3-91f4-20863709204c,04/16/2026 09:00:00,Harmonized Index of Consumer Prices (YoY),LOW,EUR
 35138305-8d29-44a7-8b21-5d5b28cc235a,04/16/2026 11:30:00,ECB Monetary Policy Meeting Accounts,MEDIUM,EUR
+1ff6b1eb-752a-4a36-a97c-f2e2cff4f360,04/16/2026 13:00:00,ECB's Lane speech,MEDIUM,EUR
 4a212c43-1867-4b54-b826-872b14ee5f02,04/16/2026 16:45:00,ECB's Nagel speech,MEDIUM,EUR
+340fe371-40dd-466d-bcde-330f4322e62a,04/16/2026 18:30:00,ECB's Lane speech,MEDIUM,EUR
 32bb6a54-cd62-4cf1-9915-daf9ec8bd4f6,04/17/2026 08:00:00,Current Account n.s.a,LOW,EUR
 5c6c8557-4f56-40c6-a72f-6be534547d08,04/17/2026 08:00:00,Current Account s.a,LOW,EUR
 08a5ff3e-8f2f-4ed6-83d5-ea6b692a061c,04/17/2026 09:00:00,Trade Balance n.s.a.,LOW,EUR
