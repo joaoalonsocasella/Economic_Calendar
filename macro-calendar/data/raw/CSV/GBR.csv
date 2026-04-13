@@ -1,8 +1,11 @@
 Id,Start,Name,Impact,Currency
+83f16f44-cdb8-4e85-9a0a-a3269efdd3fb,04/13/2026 13:00:00,BoE's Taylor speech,MEDIUM,GBP
 8e5b4bf6-610f-420e-973b-4671801947e7,04/13/2026 23:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP
-e9674962-feb1-4926-b05f-f5efebdabd63,04/14/2026 16:00:00,BoE's Governor Bailey speech,HIGH,GBP
-3c7c68fd-97b2-40b8-a0e4-cade1dc6cce8,04/14/2026 19:00:00,BoE's Greene speech,MEDIUM,GBP
+95a310d4-26bc-4d4a-a40d-8c32fa08fe4a,04/14/2026 08:50:00,BoE's Mann speech,MEDIUM,GBP
+3c7c68fd-97b2-40b8-a0e4-cade1dc6cce8,04/14/2026 14:00:00,BoE's Greene speech,MEDIUM,GBP
+e9674962-feb1-4926-b05f-f5efebdabd63,04/14/2026 16:05:00,BoE's Governor Bailey speech,HIGH,GBP
 e13d382c-5d35-4d42-ab21-988a79c9bfe6,04/15/2026 15:50:00,BoE's Governor Bailey speech,HIGH,GBP
+8fda1f0a-f37f-4dfe-ad40-cd577a26a6a2,04/15/2026 18:00:00,BoE's Governor Bailey speech,HIGH,GBP
 0d9c7afc-5620-43b2-b97b-e18f834a081b,04/16/2026 06:00:00,Goods Trade Balance,LOW,GBP
 f8a872ed-9900-4c8f-bee9-fe69298edcb8,04/16/2026 06:00:00,Gross Domestic Product (MoM),MEDIUM,GBP
 ddce0abd-02f9-4974-8442-2ee11eca4763,04/16/2026 06:00:00,Index of Services (3M/3M),LOW,GBP
@@ -13,7 +16,9 @@ b9ab0415-88ef-49c5-b771-8d2cb4a8a802,04/16/2026 06:00:00,Industrial Production (
 06c65c79-f3b8-4ffe-8744-1791138d5bb9,04/16/2026 06:00:00,Total Trade Balance,LOW,GBP
 6953f3b2-7521-4652-a764-2d7f8978bf95,04/16/2026 06:00:00,Trade Balance; non-EU,LOW,GBP
 e438cbc7-6798-43f6-88b4-2a3b7cf9c3e5,04/16/2026 11:00:00,NIESR GDP Estimate (3M),LOW,GBP
+23c03a61-b1af-43f0-a1bc-04ea40a148ec,04/16/2026 15:40:00,BoE's Taylor speech,MEDIUM,GBP
 81cc0448-018c-447e-a229-66843f128518,04/16/2026 19:00:00,BoE's Taylor speech,MEDIUM,GBP
+328e1e75-8ed9-416e-a139-f595dc31c4f0,04/17/2026 09:00:00,BoE's Breeden speech,MEDIUM,GBP
 6be1d527-1d1c-4953-ac05-4e0fadd1408b,04/17/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
 bb6a87a0-1b85-4849-8f45-4c77cf165720,04/19/2026 23:01:00,Rightmove House Price Index (MoM),LOW,GBP
 b50e28b0-ee16-4f4d-a632-d813773c5bb3,04/19/2026 23:01:00,Rightmove House Price Index (YoY),LOW,GBP
@@ -34,6 +39,7 @@ a77e046e-1405-4070-b14e-9fb65a50544a,04/22/2026 06:00:00,Producer Price Index - 
 737e4a6f-f90e-4215-97d6-ca1239286836,04/22/2026 06:00:00,Producer Price Index - Output (YoY) n.s.a,MEDIUM,GBP
 50e636ca-ffda-433b-8270-aa3666bd3b7f,04/22/2026 06:00:00,Retail Price Index (MoM),MEDIUM,GBP
 9fea74f3-5fb7-4c1a-9447-27658cec855d,04/22/2026 06:00:00,Retail Price Index (YoY),MEDIUM,GBP
+3dc0b9f3-0141-46f6-aa5a-8af9a753b0a0,04/22/2026 08:05:00,BoE's Breeden speech,MEDIUM,GBP
 62f29053-fba6-40ca-bd38-d7e63e0eb0e0,04/22/2026 08:30:00,DCLG House Price Index (YoY),LOW,GBP
 09c22953-5b0a-4825-9504-a13ad4bdf0a4,04/23/2026 06:00:00,Public Sector Net Borrowing,LOW,GBP
 ac5ed9ac-cde7-42ad-9263-6a47d259b8a5,04/23/2026 08:30:00,S&P Global Composite PMI,HIGH,GBP
