@@ -1,9 +1,9 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-6007d037-93e3-44ec-acf8-68641a7bc779,04/13/2026 15:00:00,National Jobless Rate,HIGH,COP,Release,0.18,Labor Market
 e73fe061-b43a-4021-ac16-112385dbdb86,04/16/2026 15:00:00,Industrial output (YoY),HIGH,COP,Release,0.17,Growth
 c6fedd2e-1326-4fb5-9a7a-479f18f57a12,04/16/2026 15:00:00,Retail Sales (YoY),HIGH,COP,Release,0.17,Growth
 3104f263-3b7c-420d-b32a-9624bc694bcb,04/21/2026 15:00:00,Trade Balance,MEDIUM,COP,Release,0.11,Trade and External
 097b5320-56fc-4dc7-b5f8-cf19046a5317,04/30/2026 15:00:00,National Jobless Rate,HIGH,COP,Release,0.18,Labor Market
+6007d037-93e3-44ec-acf8-68641a7bc779,04/30/2026 15:00:00,National Jobless Rate,HIGH,COP,Release,0.18,Labor Market
 75f83473-cd3f-4a03-a2f1-58b1f7733285,04/30/2026 18:00:00,Interest rate,HIGH,COP,Release,0.2,Monetary Policy
 0821f9c6-ac36-4224-b6d8-5b316e745f5c,05/08/2026 23:00:00,Consumer Price Index (MoM),HIGH,COP,Release,0.19,Inflation
 3323afd0-c234-46b0-9271-d3723014aa0b,05/08/2026 23:00:00,Consumer Price Index (YoY),HIGH,COP,Release,0.19,Inflation

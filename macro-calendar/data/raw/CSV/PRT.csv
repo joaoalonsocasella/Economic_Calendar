@@ -1,9 +1,7 @@
 Id,Start,Name,Impact,Currency
-ba2b72b1-4dd6-4681-b0b8-a770da8af868,04/13/2026 10:00:00,Consumer Price Index (MoM),LOW,EUR
-70e38f48-b12c-46cd-8854-ae780bc74748,04/13/2026 10:00:00,Consumer Price Index (YoY),LOW,EUR
 552fadcf-03bd-490c-920e-3b888a3b5acd,04/17/2026 10:00:00,Current Account Balance,LOW,EUR
-fdc54ceb-cfdb-4eb0-8559-b811fa59b4a9,04/30/2026 08:30:00,Business Confidence,LOW,EUR
-2fea801e-6e10-47dd-9624-a7b9aba90bbc,04/30/2026 08:30:00,Consumer Confidence,LOW,EUR
+fdc54ceb-cfdb-4eb0-8559-b811fa59b4a9,04/29/2026 08:30:00,Business Confidence,LOW,EUR
+2fea801e-6e10-47dd-9624-a7b9aba90bbc,04/29/2026 08:30:00,Consumer Confidence,LOW,EUR
 aacd5712-5cc5-4f7e-9dfb-734dd7278788,04/30/2026 08:30:00,Gross Domestic Product (QoQ),LOW,EUR
 60c3c41b-31ef-4e51-a04f-34af1364e1f3,04/30/2026 08:30:00,Gross Domestic Product (YoY),LOW,EUR
 b9f68961-e0d1-478b-acd4-daac2d6e424f,04/30/2026 10:00:00,Consumer Price Index (MoM),LOW,EUR

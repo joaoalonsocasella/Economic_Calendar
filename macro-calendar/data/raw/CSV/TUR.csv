@@ -1,13 +1,12 @@
 Id,Start,Name,Impact,Currency
-8bd12ce6-16f5-4239-ad3e-e22d6686ff09,04/13/2026 07:00:00,Current Account Balance,LOW,TRY
 f8c38bdd-9d6a-4e8b-b617-734f05af55d3,04/15/2026 08:00:00,Budget Balance,LOW,TRY
 13f95ab7-c09c-4ea1-a9e3-41dc75dd1212,04/21/2026 07:00:00,Capacity Utilization,LOW,TRY
 97e2705b-3319-4834-a57c-42b83cb7b7cc,04/21/2026 07:00:00,Manufacturing Confidence,LOW,TRY
 d988f1a3-d4a9-4b1c-8886-351a00dc6553,04/22/2026 07:00:00,Consumer Confidence,LOW,TRY
 d8da97b1-1290-4cb5-a9f3-5149dedd7362,04/22/2026 11:00:00,CBRT Interest Rate Decision,MEDIUM,TRY
-2bb7c830-3874-49bf-afb9-6b5998614db0,04/30/2026 07:00:00,Economic Confidence Index,LOW,TRY
+2bb7c830-3874-49bf-afb9-6b5998614db0,04/29/2026 07:00:00,Economic Confidence Index,LOW,TRY
+b93c749a-5269-4e24-b13d-4c55eef878f1,04/29/2026 07:00:00,Unemployment Rate,LOW,TRY
 13573b60-4dec-4278-963f-baedc8f3c3b8,04/30/2026 07:00:00,Trade Balance,LOW,TRY
-b93c749a-5269-4e24-b13d-4c55eef878f1,04/30/2026 07:00:00,Unemployment Rate,LOW,TRY
 e82fc233-4c37-4944-88e1-3ccad4485114,04/30/2026 08:00:00,Foreign Arrivals,LOW,TRY
 f0c63685-e320-4095-92eb-c94d0f0ae956,05/04/2026 07:00:00,Consumer Price Index (MoM),LOW,TRY
 dc8c24c0-efcd-41b0-b532-2e1e1bb74f64,05/04/2026 07:00:00,Consumer Price Index (YoY),MEDIUM,TRY
