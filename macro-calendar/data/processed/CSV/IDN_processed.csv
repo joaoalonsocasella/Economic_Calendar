@@ -1,12 +1,12 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 4478f836-b727-481f-aa9e-e46a10a441b3,04/22/2026 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
-f20e6d0d-a160-4f05-9728-d0592d075043,05/01/2026 00:30:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 50f2c5be-6898-4d92-805a-943d78868cc8,05/01/2026 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 833be611-4b53-4c44-88f1-2e4313982183,05/01/2026 04:00:00,Exports,MEDIUM,IDR,Release,0.11,Trade and External
 9b8884bc-1e6f-42ff-a88e-8d89eed547b0,05/01/2026 04:00:00,Imports,MEDIUM,IDR,Release,0.11,Trade and External
 9c076ba4-93be-445d-a86e-487ae23966cd,05/01/2026 04:00:00,Inflation (MoM),HIGH,IDR,Release,0.19,Inflation
 621a0a1a-58b2-43f3-9bf4-160aeca83e74,05/01/2026 04:00:00,Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 4debf970-0c1e-48cd-9c93-27cd52e74c99,05/01/2026 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
+f20e6d0d-a160-4f05-9728-d0592d075043,05/04/2026 00:30:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 9e8bb408-eb96-4498-97f9-1a8d1325a0a2,05/05/2026 04:00:00,Gross Domestic Product (QoQ),HIGH,IDR,Release,0.17,Growth
 d49bfd1d-27b0-4c6b-8f67-b3f606efb684,05/05/2026 04:00:00,Gross Domestic Product (YoY),HIGH,IDR,Release,0.17,Growth
 abb7790b-f506-4a3c-a0cd-b83d2fba7b79,05/07/2026 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit

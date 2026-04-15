@@ -1,9 +1,4 @@
 Id,Start,Name,Impact,Currency
-06ec704d-b6b2-4f10-87c0-e8ec29670b65,04/14/2026 04:30:00,Capacity Utilization,LOW,JPY
-8612548c-d253-46d9-aeb8-244bb639e38d,04/14/2026 04:30:00,Industrial Production (MoM),LOW,JPY
-ae966914-832a-478e-b1f4-d3e86ffa182a,04/14/2026 04:30:00,Industrial Production (YoY),LOW,JPY
-8f349873-77f6-4f2c-932c-de0f73646e73,04/14/2026 23:50:00,Machinery Orders (MoM),LOW,JPY
-4df20694-152b-4617-a651-96c7bee9b8ae,04/14/2026 23:50:00,Machinery Orders (YoY),LOW,JPY
 64004c76-4d2e-465d-b6e4-601210fb8675,04/15/2026 23:50:00,Foreign Bond Investment,LOW,JPY
 fcdc0521-c13d-44ab-9d2c-e1d1b40797bc,04/15/2026 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
 a845ebc2-e590-47b2-8ff5-9fc53837f33e,04/17/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
@@ -36,6 +31,7 @@ dbf50af8-8cb0-4506-ab58-d7d54b9abc1c,04/29/2026 23:50:00,Industrial Production (
 21686f96-72fa-4d7c-85b9-556e0e464906,04/29/2026 23:50:00,Retail Trade s.a (MoM),MEDIUM,JPY
 7de42bf5-83a1-4e6b-97db-6a430877d87e,04/30/2026 05:00:00,Annualized Housing Starts,LOW,JPY
 2e1cdab6-0022-4df7-b2c7-f80a6951214c,04/30/2026 05:00:00,Construction Orders (YoY),LOW,JPY
+ada56494-99bf-4bbc-a451-735439e93cc0,04/30/2026 05:00:00,Consumer Confidence Index,LOW,JPY
 df8d6921-37ae-4716-b75b-cc10580743fa,04/30/2026 05:00:00,Housing Starts (YoY),LOW,JPY
 4e2b844f-4903-45d0-bfbf-37a0b86d4cd8,04/30/2026 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 7672c3c6-ab40-47ef-9754-9098e279e8d4,04/30/2026 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
@@ -43,7 +39,6 @@ df8d6921-37ae-4716-b75b-cc10580743fa,04/30/2026 05:00:00,Housing Starts (YoY),LO
 09bd97be-4ff3-4d1a-9fb5-4e5de52c0331,04/30/2026 23:50:00,Foreign Bond Investment,LOW,JPY
 9081369c-02d7-4db9-86c9-2efcb90e0c85,04/30/2026 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
 bb766332-314f-458a-9db2-95835d3fb8f7,05/01/2026 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
-ada56494-99bf-4bbc-a451-735439e93cc0,05/01/2026 05:00:00,Consumer Confidence Index,LOW,JPY
 d3c9de5c-3f90-49ec-a6e2-1bd92925ecf6,05/01/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 a2c2b5e0-6720-42a8-bbbf-e03350ec5f77,05/03/2026 23:50:00,Monetary Base (YoY),LOW,JPY
 293e4c8f-35cf-417a-a304-492f3c19a177,05/04/2026 00:30:00,Jibun Bank Services PMI,LOW,JPY

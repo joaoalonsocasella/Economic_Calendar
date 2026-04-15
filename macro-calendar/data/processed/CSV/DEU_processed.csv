@@ -1,8 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-204a8d39-cedb-416e-a417-79ce6e2602c4,04/14/2026 06:00:00,Wholesale Price Index (MoM),HIGH,EUR,Release,0.468,Trade and External
-b6400a69-9cd2-4f98-9f86-504a2076b4e9,04/14/2026 06:00:00,Wholesale Price Index (YoY),HIGH,EUR,Release,0.468,Trade and External
-224ebe3e-f080-4780-93b6-4bbf9480700a,04/14/2026 09:30:00,5-y Note Auction,HIGH,EUR,Release,0.383,Money and Credit
-7ce2fb01-2abb-496b-a280-5ead28533746,04/15/2026 09:30:00,30-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
+7ce2fb01-2abb-496b-a280-5ead28533746,04/15/2026 09:40:00,30-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 3216d8b1-6a65-430d-a93b-1b3451815956,04/16/2026 10:00:00,German Buba Monthly Report,HIGH,EUR,Release,0.85,Monetary Policy
 3f8535fa-b3e0-4cc4-b712-d19f1d8faff6,04/20/2026 06:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 23cb8d62-a0d1-47e8-8ef9-5b50fa4a5a5a,04/20/2026 06:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
@@ -41,7 +38,7 @@ ae5e07f9-541e-4a57-8bbd-8e065408ebdb,04/30/2026 06:00:00,Retail Sales (MoM),HIGH
 b0e87424-5846-4671-85ab-4b66396f4376,04/30/2026 06:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 24153524-d20a-4e01-8c5e-67de1676a606,04/30/2026 07:55:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
 a0cbdd7e-0e7a-4799-a309-971d1c90bcd0,04/30/2026 07:55:00,Unemployment Rate s.a.,HIGH,EUR,Release,0.765,Labor Market
-88842242-3661-426f-8829-4af978ee4bb9,05/01/2026 07:55:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+88842242-3661-426f-8829-4af978ee4bb9,05/04/2026 07:55:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 9158554b-6ee9-47a9-ba9d-09b8ed94646a,05/05/2026 07:55:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 f718c858-8b07-4748-9a24-26cf0d096afa,05/05/2026 07:55:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 0b539858-fa91-4c2a-99a6-041a0bc3ff36,05/06/2026 06:00:00,Factory Orders n.s.a. (YoY),HIGH,EUR,Release,0.722,Growth
