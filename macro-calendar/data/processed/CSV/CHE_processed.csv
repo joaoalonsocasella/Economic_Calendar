@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-ad491341-55f7-4797-9326-09225542c4e5,04/16/2026 06:30:00,Producer and Import Prices (MoM),HIGH,CHF,Release,0.19,Inflation
-06fd072f-def0-47d2-85da-e179a7e79a4e,04/16/2026 06:30:00,Producer and Import Prices (YoY),HIGH,CHF,Release,0.19,Inflation
 e34214bb-fe20-42cc-ba0e-16661a239ad6,04/21/2026 06:00:00,Exports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
 7ac47ca3-21af-4604-b7b6-6f7f3b409a4b,04/21/2026 06:00:00,Imports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
 d72d5048-fe46-4446-832e-0dbf74a5827b,04/21/2026 06:00:00,Trade Balance,MEDIUM,CHF,Release,0.11,Trade and External
@@ -9,9 +7,9 @@ d72d5048-fe46-4446-832e-0dbf74a5827b,04/21/2026 06:00:00,Trade Balance,MEDIUM,CH
 5356f8f3-bfe9-439a-8606-9775cc4a8304,04/30/2026 07:00:00,KOF Leading Indicator,MEDIUM,CHF,Release,0.14,Confidence
 534f7c6b-51c5-48dc-8b39-0ba6fd02ac10,05/01/2026 06:30:00,Real Retail Sales (YoY),HIGH,CHF,Release,0.17,Growth
 ee2f4bb2-3218-4513-bbef-23b14a9f386f,05/04/2026 07:30:00,SVME - Purchasing Managers' Index,MEDIUM,CHF,Release,0.14,Confidence
+06daeafb-17f0-4c35-a80d-b81e2fdd9a81,05/05/2026 06:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
+ff631349-1713-4f66-936e-81d252c45706,05/05/2026 06:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation
 87e1b675-f659-4b2a-be22-98b7bf3b6855,05/05/2026 08:00:00,Unemployment Rate s.a (MoM),HIGH,CHF,Release,0.18,Labor Market
-06daeafb-17f0-4c35-a80d-b81e2fdd9a81,05/06/2026 06:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
-ff631349-1713-4f66-936e-81d252c45706,05/06/2026 06:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation
 22d51328-92f3-4d45-bbfb-54e7738a7128,05/07/2026 07:00:00,Foreign Currency Reserves,LOW,CHF,Release,0.09,Money and Credit
 a2ef565b-125f-4cdb-add4-4420887f544e,05/08/2026 07:00:00,SECO Consumer Climate (3m),MEDIUM,CHF,Release,0.14,Confidence
 ecc7a5e6-52b1-47b2-b639-8ddd89ca7959,05/12/2026 06:30:00,Producer and Import Prices (MoM),HIGH,CHF,Release,0.19,Inflation

@@ -1,15 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-bbc5bcc9-fc8a-4bea-b559-10a03f72c612,04/15/2026 17:00:00,RBNZ's Breman speech,HIGH,NZD,Release,0.2,Monetary Policy
-be71ac9d-713d-48c9-8bef-e77b71fe53df,04/16/2026 22:45:00,Electronic Card Retail Sales  (MoM),HIGH,NZD,Release,0.17,Growth
-d340f51e-ef68-45bb-ae50-4a0beb4c3c70,04/16/2026 22:45:00,Electronic Card Retail Sales (YoY),HIGH,NZD,Release,0.17,Growth
-f3a706bc-12f1-4064-a4c1-b73c1d33e006,04/16/2026 22:45:00,Food Price Index (MoM),HIGH,NZD,Release,0.19,Inflation
-d6e3dc51-e340-49a3-93c0-4c9a65a8449b,04/19/2026 22:45:00,Exports,MEDIUM,NZD,Release,0.11,Trade and External
-f4c3973f-c738-4ed5-81c6-fd5e941a7363,04/19/2026 22:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External
-c42d8357-1bc0-488b-a0f6-1c5cde1d7479,04/19/2026 22:45:00,Trade Balance NZD (MoM),MEDIUM,NZD,Release,0.11,Trade and External
-3c614b0c-4cc1-492a-bc06-9992685426f0,04/19/2026 22:45:00,Trade Balance NZD (YoY),MEDIUM,NZD,Release,0.11,Trade and External
-7d83d419-446a-483f-a63e-70d4e6efec72,04/20/2026 22:00:00,NZIER Business Confidence (QoQ),MEDIUM,NZD,Release,0.14,Confidence
-a9e255c8-fd22-4906-bb91-539a60fc27cd,04/20/2026 22:45:00,Consumer Price Index (QoQ),HIGH,NZD,Release,0.19,Inflation
-2c6589f3-d981-4c6f-83e7-d13f48c52a3a,04/20/2026 22:45:00,Consumer Price Index (YoY),HIGH,NZD,Release,0.19,Inflation
 1e325c9a-c232-44b0-87d3-beb5b9c30dc9,04/21/2026 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 181ed0a9-5814-4fc7-840a-0353c588e975,04/23/2026 03:00:00,Credit Card Spending (YoY),HIGH,NZD,Release,0.17,Growth
 ba29b7a8-b289-434d-b123-577f74be1612,04/29/2026 12:00:00,RBNZ's Breman speech,HIGH,NZD,Release,0.2,Monetary Policy

@@ -1,26 +1,19 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-8c2e9623-734d-4247-9dd6-fc908c3bf7df,04/15/2026 09:00:00,FDI - Foreign Direct Investment (YTD) (YoY),HIGH,CNY,Release,0.17,Growth
-f3136a2f-491c-4929-b3df-1271424b5aa2,04/16/2026 01:30:00,House Price Index ,LOW,CNY,Release,0.07,Housing
-1e529f44-64c7-412a-ad99-ecbb5509489f,04/16/2026 02:00:00,Fixed Asset Investment (YTD) (YoY),HIGH,CNY,Release,0.17,Growth
-bb6261f4-3d15-402a-a7d7-d4ba34467c8f,04/16/2026 02:00:00,Gross Domestic Product (QoQ),HIGH,CNY,Release,0.17,Growth
-f465ab7f-f741-4445-a4b5-347c194120c8,04/16/2026 02:00:00,Gross Domestic Product (YoY),HIGH,CNY,Release,0.17,Growth
-39c4e9d8-61e1-4008-a3fa-f20c11b5568a,04/16/2026 02:00:00,Industrial Production (YoY),HIGH,CNY,Release,0.17,Growth
-d9432166-6790-4d22-b5c1-deb1cdf4185b,04/16/2026 02:00:00,Retail Sales (YoY),HIGH,CNY,Release,0.17,Growth
-d1c940ee-5a22-4e13-8dc0-9edd975da16d,04/20/2026 01:15:00,PBoC Interest Rate Decision,HIGH,CNY,Release,0.2,Monetary Policy
+8c2e9623-734d-4247-9dd6-fc908c3bf7df,04/21/2026 09:00:00,FDI - Foreign Direct Investment (YTD) (YoY),HIGH,CNY,Release,0.17,Growth
 9ecb80c2-6bb4-468b-b6a8-3c3bf5b91ee7,04/30/2026 01:30:00,NBS Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 31abf453-075e-45d9-a8d0-7114e1d1f9ad,04/30/2026 01:30:00,NBS Non-Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 876a3671-0e5f-496a-93d8-d54a1e387200,04/30/2026 01:45:00,RatingDog Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
-c561bef5-a001-4ba9-b4cc-d413cb88b665,05/04/2026 01:45:00,RatingDog Services PMI,HIGH,CNY,Release,0.17,Growth
-a6b42639-76a9-4e9a-acd9-938561b048b7,05/07/2026 03:00:00,Exports (YoY),MEDIUM,CNY,Release,0.11,Trade and External
-8fbe43fb-a973-41de-95ef-1757d7a2bd8d,05/07/2026 03:00:00,Exports (YoY) CNY,MEDIUM,CNY,Release,0.11,Trade and External
-68af213f-6ff3-4068-9ceb-7c01d52e3a75,05/07/2026 03:00:00,Imports (YoY),MEDIUM,CNY,Release,0.11,Trade and External
-d320d3f7-c97c-4616-9aca-a17ed95cb2c0,05/07/2026 03:00:00,Imports (YoY) CNY,MEDIUM,CNY,Release,0.11,Trade and External
-3adb5a78-f2d9-46f9-b95b-f492e456531b,05/07/2026 03:00:00,Trade Balance CNY,MEDIUM,CNY,Release,0.11,Trade and External
-fa7e3d39-123a-4fcb-8674-342c67c39c14,05/07/2026 03:00:00,Trade Balance USD,MEDIUM,CNY,Release,0.11,Trade and External
+c561bef5-a001-4ba9-b4cc-d413cb88b665,05/06/2026 01:45:00,RatingDog Services PMI,HIGH,CNY,Release,0.17,Growth
 ea0c2005-1fba-4c12-8408-f9f19027f100,05/07/2026 08:00:00,Foreign Exchange Reserves (MoM),LOW,CNY,Release,0.09,Money and Credit
 f549da6c-e4cc-4938-b431-28305f5b4f83,05/09/2026 01:30:00,Consumer Price Index (MoM),HIGH,CNY,Release,0.19,Inflation
 97ba3383-7019-4c79-8359-efa147e8af55,05/09/2026 01:30:00,Consumer Price Index (YoY),HIGH,CNY,Release,0.19,Inflation
 d1802138-f05e-4edf-a6ef-a0e0c5115012,05/09/2026 01:30:00,Producer Price Index (YoY),HIGH,CNY,Release,0.19,Inflation
+a6b42639-76a9-4e9a-acd9-938561b048b7,05/09/2026 03:00:00,Exports (YoY),MEDIUM,CNY,Release,0.11,Trade and External
+8fbe43fb-a973-41de-95ef-1757d7a2bd8d,05/09/2026 03:00:00,Exports (YoY) CNY,MEDIUM,CNY,Release,0.11,Trade and External
+68af213f-6ff3-4068-9ceb-7c01d52e3a75,05/09/2026 03:00:00,Imports (YoY),MEDIUM,CNY,Release,0.11,Trade and External
+d320d3f7-c97c-4616-9aca-a17ed95cb2c0,05/09/2026 03:00:00,Imports (YoY) CNY,MEDIUM,CNY,Release,0.11,Trade and External
+3adb5a78-f2d9-46f9-b95b-f492e456531b,05/09/2026 03:00:00,Trade Balance CNY,MEDIUM,CNY,Release,0.11,Trade and External
+fa7e3d39-123a-4fcb-8674-342c67c39c14,05/09/2026 03:00:00,Trade Balance USD,MEDIUM,CNY,Release,0.11,Trade and External
 c1084c33-4ce9-4761-a8f9-3b764298dd89,05/14/2026 10:00:00,M2 Money Supply (YoY),HIGH,CNY,Release,0.19,Inflation
 f1c461c6-701d-446e-9f3c-d71ed31b430b,05/14/2026 10:00:00,New Loans,LOW,CNY,Release,0.09,Money and Credit
 3809f7f7-f2bb-4b93-8082-206aaccfcc02,05/15/2026 01:30:00,House Price Index ,LOW,CNY,Release,0.07,Housing

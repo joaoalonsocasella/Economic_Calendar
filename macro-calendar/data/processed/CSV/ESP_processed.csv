@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-6873f898-55fd-4f9b-9ff8-9e98e8d1ae9f,04/16/2026 08:40:00,5-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 f2f1f1a7-16f0-4912-84b8-6be9f26f5131,04/28/2026 07:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 3daf55db-2ab2-4b12-93b9-8142efedcb28,04/28/2026 07:00:00,Unemployment Survey,HIGH,EUR,Release,0.765,Labor Market
 9838aeac-1d29-4a13-babe-e861a5e4bb27,04/29/2026 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
@@ -9,9 +8,11 @@ f2f1f1a7-16f0-4912-84b8-6be9f26f5131,04/28/2026 07:00:00,Retail Sales (YoY),HIGH
 ec7b3afc-ad58-4a88-b015-3a76392fce6e,04/30/2026 07:00:00,Gross Domestic Product - Estimated (QoQ),HIGH,EUR,Release,0.722,Growth
 3e318e9d-35f6-44a3-8f1f-81d4f0921e34,04/30/2026 07:00:00,Gross Domestic Product - Estimated (YoY),HIGH,EUR,Release,0.722,Growth
 05df1b9d-ea5d-4ca2-a228-be09f6db6eea,04/30/2026 08:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
-222e530e-957b-4e52-a425-468c5c22c2a1,05/04/2026 07:00:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
 826537c3-e456-40d5-baf7-d5aa5c6cd60f,05/04/2026 07:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
-5b65d926-78e7-43a1-b1e2-24b9fb76e1e9,05/04/2026 07:15:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+222e530e-957b-4e52-a425-468c5c22c2a1,05/05/2026 07:00:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
+98298993-0b9a-48b0-a115-498014a88f4d,05/05/2026 08:40:00,12-Month Letras Auction,HIGH,EUR,Release,0.383,Money and Credit
+be223ede-e438-4937-8b58-e69b028b7200,05/05/2026 08:40:00,6-Month Letras Auction,HIGH,EUR,Release,0.383,Money and Credit
+5b65d926-78e7-43a1-b1e2-24b9fb76e1e9,05/06/2026 07:15:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 63a197dc-83d6-4adc-aec7-d43b7796bb9a,05/08/2026 07:00:00,Industrial Output Cal Adjusted (YoY),HIGH,EUR,Release,0.722,Growth
 f8d3e3b7-a1d7-497a-af95-3827dded2d1e,05/14/2026 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 b645c685-bed7-4c8b-b5d3-7637de82bb1a,05/14/2026 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation

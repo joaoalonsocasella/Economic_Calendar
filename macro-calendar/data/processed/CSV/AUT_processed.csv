@@ -1,12 +1,10 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-c729d417-2588-4ea5-8b37-f1cfbb37f590,04/16/2026 07:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
-6b858d7d-c61a-4789-8796-8366af61e6a2,04/16/2026 07:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
 df92aa05-ec85-4bff-b044-2959535a7d85,04/28/2026 08:00:00,UniCredit Bank Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 1ffdc443-e73e-4d0a-97ef-2b9850a268df,04/30/2026 07:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 b07961cc-ea28-45c9-87f3-74c2c587dc92,04/30/2026 07:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 5bb89a9a-7c2b-422a-83bb-f3e91c235668,04/30/2026 07:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-eb3cf86e-423d-4678-bf72-f21449b6fd2d,05/01/2026 07:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
-f4604834-c089-48cb-8595-6ca224d86dfe,05/01/2026 07:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+eb3cf86e-423d-4678-bf72-f21449b6fd2d,05/04/2026 07:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
+f4604834-c089-48cb-8595-6ca224d86dfe,05/04/2026 07:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
 19f76ca8-688c-40d7-a9e0-9b80c4867edb,05/07/2026 07:00:00,Trade Balance,HIGH,EUR,Release,0.468,Trade and External
 f170e6db-4879-483b-aae2-a595e7077967,05/07/2026 07:00:00,Wholesale Prices n.s.a (MoM),HIGH,EUR,Release,0.722,Growth
 5dc6e752-233b-4bae-b211-be29da4ce328,05/07/2026 07:00:00,Wholesale Prices n.s.a (YoY),HIGH,EUR,Release,0.468,Trade and External
