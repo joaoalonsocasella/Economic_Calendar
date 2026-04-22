@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-6befc685-a368-435f-82fc-367dbe110153,04/21/2026 06:00:00,Average Earnings Excluding Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
-bdeb55af-49cd-4573-ad1e-2ad5b89d529b,04/21/2026 06:00:00,Average Earnings Including Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
-51857a8a-f275-4bfe-9758-dd6c68f3f380,04/21/2026 06:00:00,Claimant Count Change,HIGH,GBP,Release,0.18,Labor Market
-cb9c3301-a814-4bab-b11a-8eed885dfec1,04/21/2026 06:00:00,Claimant Count Rate,HIGH,GBP,Release,0.18,Labor Market
-ca98ea54-f5f7-4a00-9ed8-7c88533b98a6,04/21/2026 06:00:00,Employment Change (3M),HIGH,GBP,Release,0.18,Labor Market
-5f9c2bbe-4193-4b90-bfe6-3682613fd394,04/21/2026 06:00:00,ILO Unemployment Rate (3M),HIGH,GBP,Release,0.18,Labor Market
 6a03884e-4e93-412e-8e21-5a4e60b455a0,04/22/2026 06:00:00,Consumer Price Index (MoM),HIGH,GBP,Release,0.19,Inflation
 bf5bba7e-432e-40f5-8c58-c976b97df48c,04/22/2026 06:00:00,Consumer Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
 51ad4bc5-1ad6-4837-b902-7f67923a37c7,04/22/2026 06:00:00,Core Consumer Price Index (YoY),HIGH,GBP,Release,0.19,Inflation

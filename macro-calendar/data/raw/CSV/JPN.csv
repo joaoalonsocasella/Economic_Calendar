@@ -1,8 +1,4 @@
 Id,Start,Name,Impact,Currency
-ac6b5724-7062-49a0-8794-03f99eddc1e0,04/21/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY
-67961c99-9108-45c7-a4ca-56a7716e3d2a,04/21/2026 23:50:00,Exports (YoY),MEDIUM,JPY
-b10d6d4d-ca20-4f24-a11c-ef6bbf54d81e,04/21/2026 23:50:00,Imports (YoY),MEDIUM,JPY
-5aa3f96a-84a0-4957-b19f-9d7752c4799e,04/21/2026 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY
 6503f8bd-f87b-4d67-8afa-382753b3caa6,04/22/2026 23:50:00,Foreign Bond Investment,LOW,JPY
 5770fb6f-6545-4d80-892a-febd7fc4a470,04/22/2026 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
 aa19bcb2-bce0-4736-ac78-1f51cc6b02eb,04/23/2026 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
@@ -45,8 +41,6 @@ a2c2b5e0-6720-42a8-bbbf-e03350ec5f77,05/06/2026 23:50:00,Monetary Base (YoY),LOW
 536fcd83-4a4c-41f7-9cc1-9d33c264bdb9,05/07/2026 03:35:00,10-y Bond Auction,LOW,JPY
 9dffeecd-da2a-448a-8f05-fcae9789452f,05/07/2026 23:30:00,Overall Household Spending (YoY),LOW,JPY
 3be762c5-07fc-46ca-bd04-c2db4bb41e35,05/07/2026 23:50:00,JP Foreign Reserves,LOW,JPY
-82af5021-b936-4458-9799-41972a64573c,05/08/2026 05:00:00,Eco Watchers Survey: Current,LOW,JPY
-1f986e5b-5eee-4652-b138-fc9736e59e81,05/08/2026 05:00:00,Eco Watchers Survey: Outlook,LOW,JPY
 7d0e91ce-6577-4cea-87e5-20afc6a260dc,05/08/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 e5969a92-b5eb-416c-b96a-dc6c197cd8cf,05/10/2026 23:50:00,Current Account n.s.a.,MEDIUM,JPY
 d90b09b0-fcc1-4bfb-8838-9d2ed6ced864,05/10/2026 23:50:00,Trade Balance - BOP Basis,LOW,JPY
@@ -57,6 +51,8 @@ b01fbab0-8824-4234-be00-942fdb305311,05/12/2026 05:00:00,Leading Economic Index,
 00c1d6f3-18fa-47ac-9b52-a2734ed17966,05/12/2026 23:50:00,Bank Lending (YoY),LOW,JPY
 0f34b50c-31b1-4142-b680-3cc2d0b95b21,05/12/2026 23:50:00,Producer Price Index (MoM),LOW,JPY
 ac38eee0-1714-4dcf-a736-6a9c360d5971,05/12/2026 23:50:00,Producer Price Index (YoY),LOW,JPY
+82af5021-b936-4458-9799-41972a64573c,05/13/2026 05:00:00,Eco Watchers Survey: Current,LOW,JPY
+1f986e5b-5eee-4652-b138-fc9736e59e81,05/13/2026 05:00:00,Eco Watchers Survey: Outlook,LOW,JPY
 e1b8bf62-4c99-4c2f-81f5-1a47c38c5a27,05/13/2026 06:00:00,Machine Tool Orders (YoY),LOW,JPY
 d63d61b2-2018-4ca1-84a4-62646c3a27a2,05/13/2026 23:50:00,Foreign Bond Investment,LOW,JPY
 4f832f09-fd85-4893-9fc1-764391439277,05/13/2026 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
