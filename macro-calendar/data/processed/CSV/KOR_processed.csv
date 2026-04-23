@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-88f2266b-4454-4830-9b1d-c2511d432001,04/22/2026 21:00:00,Consumer Sentiment Index,MEDIUM,KRW,Release,0.14,Confidence
-2fb322db-897e-4ce6-b1e5-09a77c8a4c74,04/22/2026 23:00:00,Gross Domestic Product Growth (QoQ) ,HIGH,KRW,Release,0.17,Growth
-f71cb71a-18de-4c7a-a799-1f7f476f0d7f,04/22/2026 23:00:00,Gross Domestic Product Growth (YoY),HIGH,KRW,Release,0.17,Growth
 c1524835-8225-4c34-83d3-f2cdf4ff850c,04/27/2026 21:00:00,BOK Manufacturing BSI,HIGH,KRW,Release,0.17,Growth
 29bfef96-f959-4af5-9690-877ce4b0942a,04/29/2026 23:00:00,Industrial Output (YoY),HIGH,KRW,Release,0.17,Growth
 6a3cd9fd-85a2-4ac1-8cdd-60b57950a373,04/29/2026 23:00:00,Industrial Output Growth,HIGH,KRW,Release,0.17,Growth

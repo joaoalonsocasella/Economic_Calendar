@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d988f1a3-d4a9-4b1c-8886-351a00dc6553,04/22/2026 07:00:00,Consumer Confidence,MEDIUM,TRY,Release,0.14,Confidence
-d8da97b1-1290-4cb5-a9f3-5149dedd7362,04/22/2026 11:00:00,CBRT Interest Rate Decision,HIGH,TRY,Release,0.2,Monetary Policy
 2bb7c830-3874-49bf-afb9-6b5998614db0,04/29/2026 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
 b93c749a-5269-4e24-b13d-4c55eef878f1,04/29/2026 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
 13573b60-4dec-4278-963f-baedc8f3c3b8,04/30/2026 07:00:00,Trade Balance,MEDIUM,TRY,Release,0.11,Trade and External

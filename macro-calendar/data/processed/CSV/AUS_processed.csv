@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-3495916d-702f-4a08-9eab-92d8a807dcec,04/22/2026 01:00:00,Westpac Leading Index (MoM),MEDIUM,AUD,Release,0.14,Confidence
-759d8b42-0403-4dc8-9e3c-3720bb7d74cd,04/22/2026 23:00:00,S&P Global Composite PMI,HIGH,AUD,Release,0.17,Growth
-7b5625fc-8c64-4f85-a14c-ec760f7e3a77,04/22/2026 23:00:00,S&P Global Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
-9f19bc14-6217-45a3-ac70-03312782c59a,04/22/2026 23:00:00,S&P Global Services PMI,HIGH,AUD,Release,0.17,Growth
 7abf6782-e1e8-4fdf-ba86-ac3cee9a911e,04/24/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 c16adb3a-ed0f-448c-b538-9137351d36ea,04/29/2026 01:30:00,Consumer Price Index (MoM),HIGH,AUD,Release,0.19,Inflation
 33e80e35-4e01-441a-aa0f-7f8c64087434,04/29/2026 01:30:00,Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
