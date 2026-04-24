@@ -1,9 +1,4 @@
 Id,Start,Name,Impact,Currency
-09c22953-5b0a-4825-9504-a13ad4bdf0a4,04/23/2026 06:00:00,Public Sector Net Borrowing,LOW,GBP
-ac5ed9ac-cde7-42ad-9263-6a47d259b8a5,04/23/2026 08:30:00,S&P Global Composite PMI,HIGH,GBP
-153793cf-dfdc-4843-8976-15a3c9de29f0,04/23/2026 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP
-64bcc218-8fa8-4eaa-9399-4d874b2f149b,04/23/2026 08:30:00,S&P Global Services PMI,HIGH,GBP
-59368c89-c449-4eb7-b527-bf2e5c820b78,04/23/2026 23:01:00,GfK Consumer Confidence,MEDIUM,GBP
 ca4884ab-144c-4dce-bd23-5d07fa891114,04/24/2026 06:00:00,Retail Sales (MoM),HIGH,GBP
 d2fd8845-f8d6-491e-8151-e47568b780be,04/24/2026 06:00:00,Retail Sales (YoY),MEDIUM,GBP
 837c54aa-03d4-469f-a398-d51682360742,04/24/2026 06:00:00,Retail Sales ex-Fuel (MoM),MEDIUM,GBP
@@ -25,6 +20,7 @@ a57f69e2-32ac-492e-bd48-7cadd1a5318c,05/01/2026 08:30:00,Consumer Credit,LOW,GBP
 f617b10b-b039-402f-86d9-eaf962a9e553,05/01/2026 08:30:00,M4 Money Supply (YoY),LOW,GBP
 f1abef39-75c9-47e9-be8b-4ad0129ff0bb,05/01/2026 08:30:00,Mortgage Approvals,LOW,GBP
 3da76b8e-6849-4e4a-b963-5af528ace1d7,05/01/2026 08:30:00,Net Lending to Individuals (MoM),LOW,GBP
+bdea6b4f-401a-452f-b968-11a5fcc67ddd,05/01/2026 11:15:00,BoE's Pill speech,MEDIUM,GBP
 feb547ff-bf0e-4ca4-827e-7db0ae67d549,05/01/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
 3bc8fbf0-fb3f-47ab-8954-69b60e555831,05/04/2026 08:30:00,S&P Global Manufacturing PMI,LOW,GBP
 f24e38e3-099d-4d2a-915b-f48958defee7,05/04/2026 23:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP

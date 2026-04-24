@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a749d867-74d0-4ffb-a21f-52f5c12d22bd,04/23/2026 07:00:00,Non-Monetary Policy ECB Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
-55607adc-7127-4dd5-9423-587459266119,04/23/2026 08:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
-01b8ab72-519b-447c-b307-bf5f803f38fa,04/23/2026 08:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
-173dc8c2-27fa-4feb-8d72-d5ecf391bccf,04/23/2026 08:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
-8be39dae-3ff9-4b60-a5f6-4ff0cfec084e,04/23/2026 15:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 53382e57-e453-4b75-b10c-46c1a4154f46,04/24/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 268e714c-116b-49d4-8021-40f2ce01a648,04/28/2026 08:00:00,ECB Bank Lending Survey,HIGH,EUR,Release,0.85,Monetary Policy
 5b97cf00-6c3c-4baf-951f-d26307d16f72,04/29/2026 08:00:00,M3 Money Supply (3m),HIGH,EUR,Release,0.85,Monetary Policy

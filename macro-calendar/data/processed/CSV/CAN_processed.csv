@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-aa6c6147-f524-48ad-a386-7a248e35757d,04/23/2026 12:30:00,Employment Insurance Beneficiaries Change (MoM),HIGH,CAD,Release,0.18,Labor Market
-c6122755-f549-4961-b193-3aa9390113f2,04/23/2026 12:30:00,Industrial Product Price (MoM),HIGH,CAD,Release,0.19,Inflation
-0b77dc57-a7bd-4ed8-9b1c-31689363d373,04/23/2026 12:30:00,Raw Material Price Index,MEDIUM,CAD,Release,0.11,Trade and External
 0bdb0252-9e13-41ae-b08f-4a7bb1c4cb9f,04/24/2026 12:30:00,Retail Sales (MoM),HIGH,CAD,Release,0.17,Growth
 6aec1d6f-19dc-4a71-bb15-b36ce84297f7,04/24/2026 12:30:00,Retail Sales ex Autos (MoM),HIGH,CAD,Release,0.17,Growth
 fd97298e-fbc9-4744-895b-79cde1d19926,04/29/2026 13:45:00,BoC Interest Rate Decision,MEDIUM,CAD,Speech,0.13,Monetary Policy
