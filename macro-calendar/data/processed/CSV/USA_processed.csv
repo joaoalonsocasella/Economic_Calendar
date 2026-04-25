@@ -1,12 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-28beada6-c16d-4629-8b24-00697d61575b,04/24/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
-629dab6d-608c-406d-a213-57543821e741,04/24/2026 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
-6bcb970c-fe57-4895-95ba-bef3fb285790,04/24/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
-97002b8e-00c2-4702-938a-8e180fa16527,04/24/2026 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
-e992a244-1346-442c-8205-7046febbde2d,04/24/2026 17:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
-4d92d3c4-ecdd-48b6-babf-76cbd6b570ed,04/24/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-d6339871-24e3-48c9-af94-3216872f5008,04/24/2026 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-ad045400-87ec-45db-94cb-7f21e82f1f57,04/24/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 e2fbcffe-c366-40b4-9aff-f1314da855a6,04/27/2026 14:30:00,Dallas Fed Manufacturing Business Index,MEDIUM,USD,Release,0.14,Confidence
 643aba87-4633-45fd-8e57-8946a6ec2103,04/27/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 8d2f88ab-b1ca-47aa-bdb7-cac85988b3c8,04/27/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit

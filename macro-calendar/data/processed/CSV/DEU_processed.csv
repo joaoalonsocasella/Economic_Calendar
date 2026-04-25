@@ -1,8 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-74fc7f00-fee4-487e-8727-b826ff6822a9,04/24/2026 08:00:00,IFO – Business Climate,HIGH,EUR,Release,0.595,Confidence
-6c52e5e9-a7bc-40d2-ab16-2e1c6074150b,04/24/2026 08:00:00,IFO – Current Assessment,HIGH,EUR,Release,0.595,Confidence
-86142df2-743e-4ca5-9197-fcc772c3bd1f,04/24/2026 08:00:00,IFO – Expectations,HIGH,EUR,Release,0.595,Confidence
-f7af27fe-6c49-4536-b712-5e5d8f77d5e0,04/28/2026 06:00:00,GfK Consumer Confidence Survey,HIGH,EUR,Release,0.595,Confidence
+f7af27fe-6c49-4536-b712-5e5d8f77d5e0,04/27/2026 06:00:00,GfK Consumer Confidence Survey,HIGH,EUR,Release,0.595,Confidence
 6c510c8d-983f-4519-861a-dc1b299d1a66,04/29/2026 08:00:00,Baden-Wuerttemberg CPI (MoM),HIGH,EUR,Release,0.807,Inflation
 12febac9-fadf-44f9-b244-a3260e7e8639,04/29/2026 08:00:00,Baden-Wuerttemberg CPI (YoY),HIGH,EUR,Release,0.807,Inflation
 3f64157c-8ad9-4e09-af98-5027871101dc,04/29/2026 08:00:00,Bavaria CPI (MoM),HIGH,EUR,Release,0.807,Inflation
