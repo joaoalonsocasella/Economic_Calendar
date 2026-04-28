@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-51bd9a48-6309-4a8c-9fc8-03781aa5a688,04/27/2026 23:01:00,BRC Shop Price Index (YoY),LOW,GBP
 f7167531-043e-4bca-a508-174b310fde37,04/30/2026 06:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP
 5919ae71-f4f9-416b-9a1e-12ecfe761ed5,04/30/2026 06:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP
 52e60eba-e936-4105-8b37-4afd2022ff81,04/30/2026 11:00:00,BoE Interest Rate Decision,HIGH,GBP
@@ -27,16 +26,10 @@ feb547ff-bf0e-4ca4-827e-7db0ae67d549,05/01/2026 19:30:00,CFTC GBP NC Net Positio
 f24e38e3-099d-4d2a-915b-f48958defee7,05/11/2026 23:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP
 3aec278e-d1fa-4bc0-b923-4fdb69f45b39,05/13/2026 11:00:00,NIESR GDP Estimate (3M),LOW,GBP
 15e9a054-3d0f-4610-838b-2f7bc8e72b5c,05/13/2026 23:01:00,RICS Housing Price Balance,LOW,GBP
-a52b0088-4ba3-44af-a2bc-618f595970f5,05/14/2026 06:00:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
-0740c946-72f7-4d7f-ad7e-125fb0d8bde6,05/14/2026 06:00:00,Average Earnings Including Bonus (3Mo/Yr),MEDIUM,GBP
-5a4fe3b8-8f51-45d2-9d93-f62f2c4cc7a0,05/14/2026 06:00:00,Claimant Count Change,HIGH,GBP
-ca1a0be5-6eff-409f-8c04-002eafb13875,05/14/2026 06:00:00,Claimant Count Rate,MEDIUM,GBP
-9e41f66b-2146-4af4-85f0-e6dd178903f0,05/14/2026 06:00:00,Employment Change (3M),HIGH,GBP
 5a219c95-3440-476e-a96b-816ebf46c964,05/14/2026 06:00:00,Goods Trade Balance,LOW,GBP
 f864da54-bd47-4ffd-ace1-8737b1e8e705,05/14/2026 06:00:00,Gross Domestic Product (MoM),MEDIUM,GBP
 43e1ee14-1bfa-43c7-963c-971e5d311f8e,05/14/2026 06:00:00,Gross Domestic Product (QoQ),HIGH,GBP
 b537f13c-a4cf-4817-8bac-17c27c254e56,05/14/2026 06:00:00,Gross Domestic Product (YoY),HIGH,GBP
-b1d10d6d-c63c-4573-a373-271c5e198cbb,05/14/2026 06:00:00,ILO Unemployment Rate (3M),HIGH,GBP
 ca00c66f-7d77-4b61-904d-754d3a887d26,05/14/2026 06:00:00,Index of Services (3M/3M),LOW,GBP
 883abfad-ed6f-4658-85b4-0c547494cddf,05/14/2026 06:00:00,Industrial Production (MoM),MEDIUM,GBP
 e0ac6249-08cd-431b-aeb0-da3ce4f6d09f,05/14/2026 06:00:00,Industrial Production (YoY),LOW,GBP
@@ -49,6 +42,12 @@ afc6de75-9b88-478e-984f-7e9ae68e9402,05/14/2026 06:00:00,Total Trade Balance,LOW
 8e9ccb31-dac2-49b3-b551-6ddfa524fb6e,05/15/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
 019c08c0-2544-4915-9368-237a118014df,05/17/2026 23:01:00,Rightmove House Price Index (MoM),LOW,GBP
 be29510f-5d12-453d-b327-650ee3e24d29,05/17/2026 23:01:00,Rightmove House Price Index (YoY),LOW,GBP
+a52b0088-4ba3-44af-a2bc-618f595970f5,05/19/2026 06:00:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
+0740c946-72f7-4d7f-ad7e-125fb0d8bde6,05/19/2026 06:00:00,Average Earnings Including Bonus (3Mo/Yr),MEDIUM,GBP
+5a4fe3b8-8f51-45d2-9d93-f62f2c4cc7a0,05/19/2026 06:00:00,Claimant Count Change,HIGH,GBP
+ca1a0be5-6eff-409f-8c04-002eafb13875,05/19/2026 06:00:00,Claimant Count Rate,MEDIUM,GBP
+9e41f66b-2146-4af4-85f0-e6dd178903f0,05/19/2026 06:00:00,Employment Change (3M),HIGH,GBP
+b1d10d6d-c63c-4573-a373-271c5e198cbb,05/19/2026 06:00:00,ILO Unemployment Rate (3M),HIGH,GBP
 f7a6424b-4e08-4c86-b836-85f3c9a6efed,05/20/2026 06:00:00,Consumer Price Index (MoM),HIGH,GBP
 ff25baf0-2dab-4b2e-9502-18abb9af497b,05/20/2026 06:00:00,Consumer Price Index (YoY),HIGH,GBP
 b7a5279b-3de5-4e13-a0bb-592b177848f8,05/20/2026 06:00:00,Core Consumer Price Index (YoY),HIGH,GBP

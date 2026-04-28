@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e2fbcffe-c366-40b4-9aff-f1314da855a6,04/27/2026 14:30:00,Dallas Fed Manufacturing Business Index,MEDIUM,USD,Release,0.14,Confidence
-643aba87-4633-45fd-8e57-8946a6ec2103,04/27/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
-8d2f88ab-b1ca-47aa-bdb7-cac85988b3c8,04/27/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
-9a75e98a-4d17-4a68-8ab2-93e0c9b847ae,04/27/2026 17:00:00,2-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-c28fc065-b274-4f8b-b1e9-05ef5df6beac,04/27/2026 17:00:00,5-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 8a4386e3-89c6-47f4-b3be-09a5c0c4adfd,04/28/2026 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 59e1619c-def6-4379-b8cf-c91351a1775b,04/28/2026 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 eebf951e-3508-4bec-9f7a-532dfc8d5cce,04/28/2026 13:00:00,Housing Price Index (MoM),LOW,USD,Release,0.07,Housing
@@ -90,7 +85,6 @@ e292e0c5-2ba6-4cb1-bd48-a4791b8d85b1,05/07/2026 12:30:00,Initial Jobless Claims,
 fdfb65c3-0658-46ff-aee2-82498e6edd8e,05/07/2026 12:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
 5c31fe99-5ff8-4d87-af90-048e94e6777a,05/07/2026 12:30:00,Nonfarm Productivity,HIGH,USD,Release,0.18,Labor Market
 b92ef7f5-bfdd-425b-9938-18f1227a2951,05/07/2026 12:30:00,Unit Labor Costs,HIGH,USD,Release,0.18,Labor Market
-65f2f979-6508-4309-9389-0caf657e3477,05/07/2026 12:30:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
 1d992253-b990-41cf-9d01-675abf18ba03,05/07/2026 14:00:00,Construction Spending (MoM),HIGH,USD,Release,0.17,Growth
 749bc6c5-e2ab-4077-9436-5895d6bbd19e,05/07/2026 14:00:05,Construction Spending (MoM),HIGH,USD,Release,0.17,Growth
 b2f13227-57a9-499b-ab2a-0fac37db4ea7,05/07/2026 14:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
@@ -104,6 +98,7 @@ fa7774ca-c6ed-4290-b107-cc40d3601b87,05/07/2026 19:30:00,Fed's Williams speech,H
 e04efcba-fad4-49ce-8c53-962c55368a6b,05/08/2026 12:30:00,Nonfarm Payrolls,HIGH,USD,Release,0.18,Labor Market
 90576845-fb32-4ae1-8e29-2dc71d4c06aa,05/08/2026 12:30:00,U6 Underemployment Rate,HIGH,USD,Release,0.2,Monetary Policy
 c4e9ca48-821a-4405-8a95-f30d93b0c6d0,05/08/2026 12:30:00,Unemployment Rate,HIGH,USD,Release,0.18,Labor Market
+65f2f979-6508-4309-9389-0caf657e3477,05/08/2026 12:30:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
 0b1ff837-31dd-4521-981e-63c08a6879da,05/08/2026 17:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
 f8ed202d-d502-4f74-bb44-aa804662e50e,05/08/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 3bc83fe1-8751-4951-97c8-7496a7573724,05/08/2026 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
@@ -143,16 +138,16 @@ f01234a6-e20a-45a0-9123-88d6420d32f3,05/14/2026 12:30:00,Export Price Index (YoY
 e3d6fb76-8f16-4af3-ac30-0932e1d1b00b,05/14/2026 12:30:00,Import Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
 e20aff1f-f06d-4221-8ff4-1c7164c0bd64,05/14/2026 12:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 35bbb452-bb0d-404e-9fff-933ed3b0348f,05/14/2026 12:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
+3974ef5f-1521-4350-ab73-cdaeed64094d,05/14/2026 12:30:00,Retail Sales (MoM),HIGH,USD,Release,0.17,Growth
+438e914e-7101-4196-a1f8-11a4624f7c5a,05/14/2026 12:30:00,Retail Sales (YoY),HIGH,USD,Release,0.17,Growth
+7348cf6e-cb69-4ccd-94e1-e13dbf381a0b,05/14/2026 12:30:00,Retail Sales Control Group,HIGH,USD,Release,0.17,Growth
+246177e8-7ce0-4768-a5ff-bca7e1fe7610,05/14/2026 12:30:00,Retail Sales ex Autos (MoM),HIGH,USD,Release,0.17,Growth
+c1af0060-79c7-47a2-8a56-6ac3b9a15daf,05/14/2026 14:00:00,Business Inventories,HIGH,USD,Release,0.17,Growth
 6612b2fc-c0df-4cdd-802b-14a0bd2f4146,05/14/2026 14:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 00d92946-1518-4f9b-8247-d9279eee7d60,05/14/2026 15:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 7ab942c1-6ea1-4df7-b06d-d3d661cc52c7,05/15/2026 12:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
-3974ef5f-1521-4350-ab73-cdaeed64094d,05/15/2026 12:30:00,Retail Sales (MoM),HIGH,USD,Release,0.17,Growth
-438e914e-7101-4196-a1f8-11a4624f7c5a,05/15/2026 12:30:00,Retail Sales (YoY),HIGH,USD,Release,0.17,Growth
-7348cf6e-cb69-4ccd-94e1-e13dbf381a0b,05/15/2026 12:30:00,Retail Sales Control Group,HIGH,USD,Release,0.17,Growth
-246177e8-7ce0-4768-a5ff-bca7e1fe7610,05/15/2026 12:30:00,Retail Sales ex Autos (MoM),HIGH,USD,Release,0.17,Growth
 3204113b-3bd9-49fb-a91b-4c9a886608d6,05/15/2026 13:15:00,Capacity Utilization,HIGH,USD,Release,0.2,Monetary Policy
 68dc3441-3e80-46f8-959b-f997b6513508,05/15/2026 13:15:00,Industrial Production (MoM),HIGH,USD,Release,0.17,Growth
-c1af0060-79c7-47a2-8a56-6ac3b9a15daf,05/15/2026 14:00:00,Business Inventories,HIGH,USD,Release,0.17,Growth
 2ee5189c-0830-4f63-9cc6-0b543e6d6f23,05/15/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
 5137e8ad-6ae2-4776-9fce-332dcf441c1f,05/15/2026 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
 5208562f-88f7-498c-b01b-4674d488f22b,05/15/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
@@ -1825,6 +1820,10 @@ f549ebc7-d6f2-436d-819d-26afe75a9b66,04/13/2027 12:30:00,Consumer Price Index (Y
 db52f296-ed35-40d5-9f3b-ce85e7feb494,04/13/2027 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
 c5b1356b-5b11-49d5-8f27-f53a49fb86c2,04/13/2027 12:30:00,Consumer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
 7d0e3f98-6922-422e-bf4c-f970d557a45c,04/13/2027 12:30:00,Consumer Price Index n.s.a (MoM),HIGH,USD,Release,0.19,Inflation
+d93b2f80-e951-4fc4-8a80-9e83c89bcfd9,04/13/2027 12:30:00,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
+038bb86b-b524-4091-b336-13c8f2576d63,04/13/2027 12:30:00,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
+2792f882-a7d1-4a14-9504-8750149fb322,04/13/2027 12:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
+3d221a7c-a46b-4854-8ca0-0bc0cabf2980,04/13/2027 12:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
 b8a1ccad-55c5-4148-a825-a891c132622f,04/23/2027 13:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
 5113123c-9807-4c0e-8fb9-f0011b77fedb,04/23/2027 13:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 f6e9b2ca-f0af-4a73-aa3a-8596582352e4,04/23/2027 13:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
