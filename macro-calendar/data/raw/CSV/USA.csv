@@ -1,12 +1,4 @@
 Id,Start,Name,Impact,Currency
-8a4386e3-89c6-47f4-b3be-09a5c0c4adfd,04/28/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
-59e1619c-def6-4379-b8cf-c91351a1775b,04/28/2026 12:55:00,Redbook Index (YoY),LOW,USD
-eebf951e-3508-4bec-9f7a-532dfc8d5cce,04/28/2026 13:00:00,Housing Price Index (MoM),MEDIUM,USD
-db16c91e-9b69-4b13-99fe-57318a24fc74,04/28/2026 13:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD
-f051592a-4d41-4f94-a921-7bf0eb0ed2ad,04/28/2026 14:00:00,Consumer Confidence,MEDIUM,USD
-8e3969ad-1579-41d2-be98-9cd3b24564b1,04/28/2026 14:00:00,Richmond Fed Manufacturing Index,LOW,USD
-85a63594-8520-4183-901a-0e5e33f95bdd,04/28/2026 17:00:00,7-Year Note Auction,LOW,USD
-0b6e9f78-aaf9-4e76-baa4-979b34ea0538,04/28/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
 bd8f48a7-6d10-4862-866d-9f51f4856a47,04/29/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 33246629-e6ad-4f61-8325-b74213a49a2d,04/29/2026 12:30:00,Building Permits (MoM),MEDIUM,USD
 774566a7-fd09-4944-baab-59e677aa599b,04/29/2026 12:30:00,Building Permits Change,LOW,USD
@@ -1827,7 +1819,47 @@ d93b2f80-e951-4fc4-8a80-9e83c89bcfd9,04/13/2027 12:30:00,Producer Price Index (M
 b8a1ccad-55c5-4148-a825-a891c132622f,04/23/2027 13:45:00,S&P Global Composite PMI,MEDIUM,USD
 5113123c-9807-4c0e-8fb9-f0011b77fedb,04/23/2027 13:45:00,S&P Global Manufacturing PMI,HIGH,USD
 f6e9b2ca-f0af-4a73-aa3a-8596582352e4,04/23/2027 13:45:00,S&P Global Services PMI,HIGH,USD
+95df45c7-1c81-4a34-9dfe-6c137ac8d26c,04/29/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+f104a38c-d0dc-4e5f-ac8a-e5db9a1d64a1,04/29/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
 b6f2960d-8535-49dc-9fad-7817f24e203a,04/29/2027 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
 bf85e4ff-8eef-46c7-9026-a71a1b597f2b,04/29/2027 12:30:00,Gross Domestic Product Annualized,HIGH,USD
 1ae1e21f-d9dc-40d2-9e1d-a22e454fdfce,04/29/2027 12:30:00,Gross Domestic Product Price Index,HIGH,USD
+b2f1fd15-fb14-4d6a-80f2-76ac3a991ead,04/29/2027 12:30:00,Personal Consumption Expenditures - Price Index (MoM),MEDIUM,USD
+ae25b6f2-ffd5-4512-8a87-d534c1e44e30,04/29/2027 12:30:00,Personal Consumption Expenditures - Price Index (YoY),MEDIUM,USD
 5111b832-a647-4b11-9289-c832acdfc64c,04/29/2027 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
+433ef9a8-6948-4139-9619-e8f968cb712f,04/29/2027 12:30:00,Personal Income (MoM),MEDIUM,USD
+2dca04d6-1ebe-4b96-8a65-b7337ed9b5f4,04/29/2027 12:30:00,Personal Spending,MEDIUM,USD
+672b75d8-5814-40d0-83d7-a90c7e470a04,05/03/2027 13:45:00,S&P Global Manufacturing PMI,LOW,USD
+4bbecd60-a28e-4fa8-b21f-d59ab88a5dda,05/03/2027 14:00:00,ISM Manufacturing Employment Index,MEDIUM,USD
+c67807f2-f392-45b4-90e4-ee7d535b7079,05/03/2027 14:00:00,ISM Manufacturing New Orders Index,MEDIUM,USD
+d6f1595e-bb69-47ba-aeb7-11207fae1cb4,05/03/2027 14:00:00,ISM Manufacturing PMI,HIGH,USD
+d3d20d50-03a9-4544-bbf0-e5083d9390df,05/03/2027 14:00:00,ISM Manufacturing Prices Paid,MEDIUM,USD
+3a84f9ac-40ae-471a-8dba-89234a360389,05/05/2027 13:45:00,S&P Global Composite PMI,MEDIUM,USD
+fa41c884-f534-4269-9ec7-1be81507ae21,05/05/2027 13:45:00,S&P Global Services PMI,LOW,USD
+b3a7c9fd-a26f-4386-9073-d74f2f12b2f4,05/05/2027 14:00:00,ISM Services Employment Index,MEDIUM,USD
+37f0d3bc-e4c0-42a1-8288-5af4521b1c71,05/05/2027 14:00:00,ISM Services New Orders Index,MEDIUM,USD
+083c8c2f-54d8-4bcd-b72f-47045b2fa327,05/05/2027 14:00:00,ISM Services PMI,HIGH,USD
+f3de3735-039f-4d0f-8988-48ff9f86585e,05/05/2027 14:00:00,ISM Services Prices Paid,MEDIUM,USD
+77b3a67d-ff31-4971-9053-a98477aca20b,05/12/2027 12:30:00,Consumer Price Index (MoM),HIGH,USD
+06886cfa-15d9-412c-bc70-d897c6bf7f72,05/12/2027 12:30:00,Consumer Price Index (YoY),HIGH,USD
+7fcc9dfe-7228-437b-bd63-b2ac2e6ea7f1,05/12/2027 12:30:00,Consumer Price Index Core s.a,LOW,USD
+ea72cdc1-94b3-4e8a-a101-dbdeab817d42,05/12/2027 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+19dd00b9-89a4-497d-8c74-30c75301c12c,05/12/2027 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+0ffb518c-fc80-4c9f-88c0-2b8191500a47,05/12/2027 12:30:00,Consumer Price Index n.s.a (MoM),LOW,USD
+afdfb8ca-bb5b-4101-a8d9-aa351414a94b,05/13/2027 12:30:00,Producer Price Index (MoM),MEDIUM,USD
+657efb84-a864-4f7f-9f9c-61ccb1f60696,05/13/2027 12:30:00,Producer Price Index (YoY),MEDIUM,USD
+da57638e-a7c9-4c88-bbab-b2003055498b,05/13/2027 12:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
+eef637b9-b302-445a-9758-d9dcd8d5d64b,05/13/2027 12:30:00,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+1bebce2d-f0f4-4b79-8017-51584dc58a47,05/24/2027 13:45:00,S&P Global Composite PMI,MEDIUM,USD
+3ff28b8c-80dd-4680-8683-c5b65a5a1aea,05/24/2027 13:45:00,S&P Global Manufacturing PMI,HIGH,USD
+b15f1016-5529-4fc7-af35-9e5615925085,05/24/2027 13:45:00,S&P Global Services PMI,HIGH,USD
+c8f7c677-b706-49c7-b647-07f11320c50d,05/27/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+e46cb96b-c343-4dc0-a398-b60381dda74d,05/27/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+a1bfc750-728b-4976-a700-fd5a86a4df98,05/27/2027 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
+6b3167fa-5a58-4522-9775-45a95ccb5bfc,05/27/2027 12:30:00,Gross Domestic Product Annualized,MEDIUM,USD
+97ce8fb6-3b63-4738-bdf9-f5978fc11a1c,05/27/2027 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD
+776edc7c-0851-418a-b2c9-ba890fba373e,05/27/2027 12:30:00,Personal Consumption Expenditures - Price Index (MoM),MEDIUM,USD
+dbf9b049-dac2-4586-a68f-e43db9e3f645,05/27/2027 12:30:00,Personal Consumption Expenditures - Price Index (YoY),MEDIUM,USD
+81388b39-4393-4ee8-bd14-2e73709f972c,05/27/2027 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
+78b724e8-6e58-44df-8401-89dd8bab2c80,05/27/2027 12:30:00,Personal Income (MoM),MEDIUM,USD
+b3641a90-dbb6-4374-99ec-f802ac25cac4,05/27/2027 12:30:00,Personal Spending,MEDIUM,USD
