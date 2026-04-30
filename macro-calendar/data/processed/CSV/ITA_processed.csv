@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0ed94fbc-c963-4ced-8cbc-2df4fb3daf44,04/29/2026 08:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
-384a8d3f-75a8-44db-884f-384b01cbab88,04/29/2026 08:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
-34643aac-9c60-4a90-afc6-e8f3d7a73c96,04/29/2026 09:30:00,5-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
-602bd82f-b283-42b7-bd3c-3f85eff1a928,04/29/2026 10:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
 435515dc-086a-4650-9e9e-7b00e252d72f,04/30/2026 08:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 bbec2b89-a14b-40b1-baec-840aa8fcecaf,04/30/2026 08:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
 b85ca5f0-643f-4bb7-a39d-30b7dcd24339,04/30/2026 08:30:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market

@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-5cae7735-8643-4030-95e5-d98191fcca7a,04/29/2026 23:50:00,Industrial Production (MoM),HIGH,JPY,Release,0.17,Growth
-dbf50af8-8cb0-4506-ab58-d7d54b9abc1c,04/29/2026 23:50:00,Industrial Production (YoY),HIGH,JPY,Release,0.17,Growth
-3f66f789-e974-41db-ae90-9baa497fb7a0,04/29/2026 23:50:00,Large Retailer Sales,MEDIUM,JPY,Release,0.14,Confidence
-180c1112-64e2-4423-a3f0-3357c653362e,04/29/2026 23:50:00,Retail Trade (YoY),MEDIUM,JPY,Release,0.11,Trade and External
-21686f96-72fa-4d7c-85b9-556e0e464906,04/29/2026 23:50:00,Retail Trade s.a (MoM),MEDIUM,JPY,Release,0.11,Trade and External
 7de42bf5-83a1-4e6b-97db-6a430877d87e,04/30/2026 05:00:00,Annualized Housing Starts,LOW,JPY,Release,0.07,Housing
 2e1cdab6-0022-4df7-b2c7-f80a6951214c,04/30/2026 05:00:00,Construction Orders (YoY),HIGH,JPY,Release,0.17,Growth
 ada56494-99bf-4bbc-a451-735439e93cc0,04/30/2026 05:00:00,Consumer Confidence Index,MEDIUM,JPY,Release,0.14,Confidence

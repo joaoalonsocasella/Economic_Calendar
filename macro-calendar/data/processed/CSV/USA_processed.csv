@@ -1,23 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-bd8f48a7-6d10-4862-866d-9f51f4856a47,04/29/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-33246629-e6ad-4f61-8325-b74213a49a2d,04/29/2026 12:30:00,Building Permits (MoM),LOW,USD,Release,0.07,Housing
-774566a7-fd09-4944-baab-59e677aa599b,04/29/2026 12:30:00,Building Permits Change,LOW,USD,Release,0.07,Housing
-9e23e555-97c2-4a8c-93cc-624dc57fe0ad,04/29/2026 12:30:00,Durable Goods Orders,HIGH,USD,Release,0.17,Growth
-e06addbd-f827-4684-97ff-85f2279db4a8,04/29/2026 12:30:00,Durable Goods Orders ex Defense,HIGH,USD,Release,0.17,Growth
-c683ce4f-7562-47ef-9c12-a08b9d0e1156,04/29/2026 12:30:00,Durable Goods Orders ex Transportation,HIGH,USD,Release,0.17,Growth
-534dd994-9e1b-4bf3-8aea-81bd211d9ac5,04/29/2026 12:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
-06444688-f5a7-496f-80f3-ef5a3fe84b2f,04/29/2026 12:30:00,Housing Starts (MoM),LOW,USD,Release,0.07,Housing
-8bc3415d-9ca6-4870-ac6d-f7011ebd87f4,04/29/2026 12:30:00,Housing Starts Change,LOW,USD,Release,0.07,Housing
-0942752e-70bb-46c6-a881-862558dae8fa,04/29/2026 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD,Release,0.17,Growth
-286ef315-5113-42cb-902e-5d8e6fe98d66,04/29/2026 12:30:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
-13593918-b1aa-4261-bf06-3faaba6f1009,04/29/2026 12:30:05,Building Permits (MoM),LOW,USD,Release,0.07,Housing
-7afb68fa-4f8a-435b-9229-b95361ae2231,04/29/2026 12:30:05,Building Permits Change,LOW,USD,Release,0.07,Housing
-e45925ca-abe4-447b-b8af-ee1ccd814d78,04/29/2026 12:30:05,Housing Starts (MoM),LOW,USD,Release,0.07,Housing
-b1a9dcf3-3b2d-4bdc-b388-cc64d7a689b0,04/29/2026 12:30:05,Housing Starts Change,LOW,USD,Release,0.07,Housing
-482ee1f9-f402-4c46-814f-fa06b8b5d83e,04/29/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
-39c4bcd3-2437-4dc0-b78e-48a60d34b058,04/29/2026 18:00:00,Fed Interest Rate Decision,MEDIUM,USD,Speech,0.13,Monetary Policy
-84e2b763-4c75-4208-bd23-5bd88169146a,04/29/2026 18:00:00,Fed Monetary Policy Statement,MEDIUM,USD,Speech,0.13,Monetary Policy
-cbe19dce-d69b-442c-95c0-cb7b33bf1cd9,04/29/2026 18:30:00,FOMC Press Conference,MEDIUM,USD,Speech,0.13,Monetary Policy
 b4642220-8601-4532-bb81-afee667e889d,04/30/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 6a455150-4365-4535-9639-7777346bd34c,04/30/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 21657d13-4af2-4b2f-9953-5cebed13cba0,04/30/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation

@@ -1,12 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-c16adb3a-ed0f-448c-b538-9137351d36ea,04/29/2026 01:30:00,Consumer Price Index (MoM),HIGH,AUD,Release,0.19,Inflation
-33e80e35-4e01-441a-aa0f-7f8c64087434,04/29/2026 01:30:00,Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
-9eedb3ae-51c3-465a-9aa8-ddfb1679cdbb,04/29/2026 01:30:00,Quarterly Consumer Price Index (QoQ),HIGH,AUD,Release,0.19,Inflation
-664a5750-4da9-4eed-bcf2-38e297432006,04/29/2026 01:30:00,Quarterly Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
-f4e35f02-7842-4993-868b-e3c63a848fef,04/29/2026 01:30:00,Quarterly RBA Trimmed Mean CPI (QoQ),HIGH,AUD,Release,0.19,Inflation
-ac8c2f74-a22c-42fb-a23a-fd66e351f8a7,04/29/2026 01:30:00,Quarterly RBA Trimmed Mean CPI (YoY),HIGH,AUD,Release,0.19,Inflation
-a95350c2-d761-4390-a0e6-c18156786d70,04/29/2026 01:30:00,Trimmed Mean CPI (MoM),HIGH,AUD,Release,0.19,Inflation
-d4fea5e0-9340-4974-8a48-7bf6ac4253a6,04/29/2026 01:30:00,Trimmed Mean CPI (YoY),HIGH,AUD,Release,0.19,Inflation
 7eaf4638-e89a-4901-ad0f-f574db52761d,04/30/2026 01:30:00,Export Price Index (QoQ),MEDIUM,AUD,Release,0.11,Trade and External
 de13801b-f085-4afc-8542-e97bf8bfb401,04/30/2026 01:30:00,Import Price Index (QoQ),HIGH,AUD,Release,0.19,Inflation
 aa16d0a0-3d79-48c9-9cc7-88f19a9ad5ff,04/30/2026 01:30:00,Private Sector Credit (MoM),LOW,AUD,Release,0.09,Money and Credit
