@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-8785b01e-7f4d-4aa0-8712-581bc6045702,04/30/2026 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation
-67c07d25-1e4c-497c-8dfc-411cdf3fc0ce,04/30/2026 06:00:00,Private Sector Credit,LOW,ZAR,Release,0.09,Money and Credit
-16bdc6a8-1d46-4514-a5b9-633235a00550,04/30/2026 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
-afdc8107-31c8-4cf9-88f8-348c552666e1,04/30/2026 09:30:00,Producer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
-bf2b4b4a-cdfb-46a8-9e8e-407322392cdb,04/30/2026 12:00:00,Trade Balance (in Rands),MEDIUM,ZAR,Release,0.11,Trade and External
 25086627-bb36-419b-80ca-b1e3c67ee2f0,05/01/2026 12:30:00,Total New Vehicle Sales,LOW,ZAR,Release,0.07,Housing
 3c42b05e-b92a-461d-8bb4-e1ef1ac17df2,05/08/2026 06:00:00,Gross $Gold & Forex Reserve ,HIGH,ZAR,Release,0.2,Monetary Policy
 77c845da-fe99-401d-bcb5-f49204611375,05/08/2026 06:00:00,Net $Gold & Forex Reserve,LOW,ZAR,Release,0.09,Money and Credit
@@ -137,8 +132,8 @@ a194ec65-a6f1-4bc2-849b-a4168c998a1e,01/20/2027 08:00:00,Consumer Price Index (Y
 e39599f0-eebc-48e5-a8f8-2e03dd4c972c,01/29/2027 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation
 8e3099d1-afea-4f04-b74b-8fc0cba5941a,01/29/2027 06:00:00,Private Sector Credit,LOW,ZAR,Release,0.09,Money and Credit
 43e7980b-e029-4c3a-ad1b-995404103044,01/29/2027 12:00:00,Trade Balance (in Rands),MEDIUM,ZAR,Release,0.11,Trade and External
-ae33955e-41e8-4ee4-bc5b-67e5bab3c6ef,02/10/2027 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
 2c277521-a8dc-48e6-b503-29d63d754497,02/10/2027 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
+ae33955e-41e8-4ee4-bc5b-67e5bab3c6ef,02/10/2027 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
 696a87c3-c5d5-4d1c-b763-9c0bbc59af5d,02/11/2027 11:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth
 c3deb12f-0e42-4f10-ba37-212a3190538f,02/16/2027 09:30:00,Unemployment Rate (%),HIGH,ZAR,Release,0.18,Labor Market
 ecd65ba2-6efd-4e96-8ae6-453d0931303a,02/16/2027 09:30:00,Unemployment Total ,HIGH,ZAR,Release,0.18,Labor Market

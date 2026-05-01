@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a382ae87-05e9-4b13-b77f-76aff4cf9908,04/30/2026 06:00:08,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
-5e7159ed-f6ed-44fb-a10f-e0e0d93b8b43,04/30/2026 08:00:00,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
 66b61f8a-00c7-4bb5-8f13-6ffc543adad3,05/07/2026 08:00:00,Norges Bank Interest Rate Decision,HIGH,NOK,Release,0.2,Monetary Policy
 541657f0-b83e-49b3-aa5a-6bad9468a44a,05/08/2026 06:00:00,Manufacturing Output,HIGH,NOK,Release,0.17,Growth
 b4502482-536c-4b29-beb8-318db6551ec1,05/11/2026 06:00:00,Consumer Price Index (MoM),HIGH,NOK,Release,0.19,Inflation

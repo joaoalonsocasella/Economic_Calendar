@@ -1,11 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-435515dc-086a-4650-9e9e-7b00e252d72f,04/30/2026 08:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
-bbec2b89-a14b-40b1-baec-840aa8fcecaf,04/30/2026 08:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
-b85ca5f0-643f-4bb7-a39d-30b7dcd24339,04/30/2026 08:30:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
-22264cdb-4873-4f36-934a-23d47ed712b8,04/30/2026 09:00:00,Consumer Price Index (EU Norm) (MoM),HIGH,EUR,Release,0.807,Inflation
-e8d2c159-ce65-4630-b4b5-14f8ec2d7262,04/30/2026 09:00:00,Consumer Price Index (EU Norm) (YoY),HIGH,EUR,Release,0.807,Inflation
-2fa6aac2-c08e-4898-aebd-9805d317453b,04/30/2026 09:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-61052145-62ca-4256-832b-c9406b231e9e,04/30/2026 09:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 8f09a22c-41cf-4b5d-a21a-26fcda98c5d7,05/04/2026 07:45:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 1149f4f8-60f5-4b2c-a069-549e4ba4bc08,05/06/2026 07:45:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 8ff43b46-0097-49d6-97a0-ef81e2a633de,05/06/2026 08:00:00,Retail Sales n.s.a (YoY),HIGH,EUR,Release,0.722,Growth

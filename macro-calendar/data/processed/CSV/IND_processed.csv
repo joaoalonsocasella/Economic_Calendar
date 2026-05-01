@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-8bd02e7c-22b7-455f-8b53-75f6d68eca41,04/30/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
 983b00d5-9e9a-4ce4-b98e-403b40e9ee08,05/01/2026 11:30:00,Bank Loan Growth,LOW,INR,Release,0.09,Money and Credit
 e294e7d7-4fbe-4b23-a78b-96e38141b0f2,05/01/2026 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
 68b0ed72-4422-455e-bcc6-545f47807c3c,05/04/2026 05:00:00,HSBC Manufacturing PMI,HIGH,INR,Release,0.17,Growth
@@ -20,7 +19,6 @@ de46f298-fef4-4cc9-b377-1cde5a69bc99,05/27/2026 11:30:00,M3 Money Supply,HIGH,IN
 a7979b4c-feb4-4f2f-bb62-935c878aa5d1,05/28/2026 11:30:00,Cumulative Industrial Output,HIGH,INR,Release,0.17,Growth
 ef8a6fed-6b0d-4e5a-9bd8-95cafaf0503a,05/28/2026 11:30:00,Industrial Output,HIGH,INR,Release,0.17,Growth
 12c67244-bb2b-4c75-b0a3-5711966971cd,05/28/2026 11:30:00,Manufacturing Output,HIGH,INR,Release,0.17,Growth
-ca84c9dc-a3d2-4d86-847c-10317cb196c1,05/29/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
 d4ea620d-f52c-4100-94f5-db218d541d03,05/29/2026 10:30:00,Gross Domestic Product Quarterly (YoY),HIGH,INR,Release,0.17,Growth
 b93d1689-40cd-45bb-8d3b-d6f2bf67de84,05/29/2026 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
 769f9f7a-4d15-4895-843e-3dd7664f36cd,05/29/2026 11:30:00,Infrastructure Output (YoY),HIGH,INR,Release,0.19,Inflation
@@ -43,10 +41,11 @@ a7ad9103-04a3-48b7-9898-128ec0a2a79c,06/24/2026 05:00:00,HSBC Manufacturing PMI,
 607099f2-8268-460b-a39a-b958103bedd7,06/24/2026 05:00:00,HSBC Services PMI,HIGH,INR,Release,0.17,Growth
 41bdeaa3-0f2d-48ff-8c31-ea336134aced,06/24/2026 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy
 ea3f2e11-1834-4c3e-9a8a-8cb1ce323a61,06/26/2026 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
+8bd02e7c-22b7-455f-8b53-75f6d68eca41,06/29/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
 de59c08f-6d25-4c22-917a-6e00457585ad,06/29/2026 11:30:00,Cumulative Industrial Output,HIGH,INR,Release,0.17,Growth
 dd4e4e6e-b05e-4522-b577-d19d6815945c,06/29/2026 11:30:00,Industrial Output,HIGH,INR,Release,0.17,Growth
 8c5bdd01-1fc9-425f-ab9a-7bc4809b17cc,06/29/2026 11:30:00,Manufacturing Output,HIGH,INR,Release,0.17,Growth
-f88e87d4-0bec-4ca3-9bcc-0f40b7dead5e,06/30/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
+ca84c9dc-a3d2-4d86-847c-10317cb196c1,06/30/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
 219c5101-a389-419b-b75a-da2e54a487e2,06/30/2026 11:30:00,Current Account Balance $,MEDIUM,INR,Release,0.11,Trade and External
 1edf90aa-9fd9-4623-b57f-d416e5743fa6,06/30/2026 11:30:00,Infrastructure Output (YoY),HIGH,INR,Release,0.19,Inflation
 5e615b53-8d2e-4bb5-a114-98dfdd86641d,06/30/2026 11:30:00,Trade Deficit – RBI,MEDIUM,INR,Release,0.11,Trade and External
@@ -72,7 +71,7 @@ b3f81706-1d5b-403f-a7cf-a7d4e27b695c,07/23/2026 05:00:00,HSBC Composite PMI,HIGH
 d9665ade-1d7e-46c8-bf21-79857a436075,07/28/2026 11:30:00,Industrial Output,HIGH,INR,Release,0.17,Growth
 4fe19200-194c-4adc-a5e3-6b19a029979b,07/28/2026 11:30:00,Manufacturing Output,HIGH,INR,Release,0.17,Growth
 b42f6def-c95f-4513-b920-62820100a590,07/30/2026 11:30:00,Infrastructure Output (YoY),HIGH,INR,Release,0.19,Inflation
-801085fe-ba97-480a-bb2a-97965b8bf36d,07/31/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
+f88e87d4-0bec-4ca3-9bcc-0f40b7dead5e,07/31/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
 589407c0-592f-4bd6-9d05-135df7b1e65e,07/31/2026 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
 fab02efc-fe18-4ba2-a5f0-9e82047ca6ec,08/03/2026 05:00:00,HSBC Manufacturing PMI,HIGH,INR,Release,0.17,Growth
 598390f4-db3d-4c6a-b17f-e70e9b534fe9,08/05/2026 05:00:00,HSBC Composite PMI,HIGH,INR,Release,0.17,Growth
@@ -92,13 +91,13 @@ c32ad7c0-5442-4bba-bfc4-804ca4698a98,08/19/2026 11:30:00,M3 Money Supply,HIGH,IN
 a2612522-bd62-41a8-bb65-d1886077476b,08/21/2026 05:00:00,HSBC Services PMI,HIGH,INR,Release,0.17,Growth
 7bde2b6e-a603-45eb-993c-f0c0154ef01c,08/21/2026 11:30:00,Bank Loan Growth,LOW,INR,Release,0.09,Money and Credit
 6d8f5d36-1686-4da5-86d7-5626e41bb9db,08/21/2026 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
-2073c7f7-cb4a-4bdb-bff3-e1917184a623,08/28/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
 5be8ea51-ac48-44fa-9150-b656f4e3610d,08/28/2026 10:30:00,Gross Domestic Product Quarterly (YoY),HIGH,INR,Release,0.17,Growth
 679d54fb-0bba-49a9-ae5d-5b2e59c9f9b5,08/28/2026 11:30:00,Cumulative Industrial Output,HIGH,INR,Release,0.17,Growth
 e3a72e7a-b504-4b6c-a96a-193d7894e0bd,08/28/2026 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
 b4bd8da7-382f-4be1-a205-73592f83ac48,08/28/2026 11:30:00,Industrial Output,HIGH,INR,Release,0.17,Growth
 68ba7977-ed3e-4f95-847d-faf3adf108d4,08/28/2026 11:30:00,Infrastructure Output (YoY),HIGH,INR,Release,0.19,Inflation
 76100ef6-3aa1-424c-a249-77eea8bd9637,08/28/2026 11:30:00,Manufacturing Output,HIGH,INR,Release,0.17,Growth
+801085fe-ba97-480a-bb2a-97965b8bf36d,08/31/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
 5dc78282-2252-4a1a-84a4-6551751459d5,09/01/2026 05:00:00,HSBC Manufacturing PMI,HIGH,INR,Release,0.17,Growth
 135f973b-965b-4f04-8033-2ba42d47972b,09/02/2026 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy
 48d17554-ad20-4f18-86cc-0a54a49e2876,09/03/2026 05:00:00,HSBC Composite PMI,HIGH,INR,Release,0.17,Growth
@@ -119,7 +118,7 @@ b5d07d17-e06a-4b76-9ade-c76d27522920,09/18/2026 11:30:00,Bank Loan Growth,LOW,IN
 1a5e31b0-1336-4371-a5ed-3f17534b9a8e,09/28/2026 11:30:00,Cumulative Industrial Output,HIGH,INR,Release,0.17,Growth
 9b6fcd01-2f27-494a-9e82-bb353f69fcff,09/28/2026 11:30:00,Industrial Output,HIGH,INR,Release,0.17,Growth
 d6ee613e-0ac9-418b-9231-2f27a9275dcb,09/28/2026 11:30:00,Manufacturing Output,HIGH,INR,Release,0.17,Growth
-cda5ce56-8c43-4088-9202-8aac2048130b,09/30/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
+2073c7f7-cb4a-4bdb-bff3-e1917184a623,09/29/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
 bfdfe471-c5b3-45ac-bcd1-ff471e08cfaf,09/30/2026 11:30:00,Current Account Balance $,MEDIUM,INR,Release,0.11,Trade and External
 bbc70ea0-42a1-4463-8c28-4eb72ab7ee98,09/30/2026 11:30:00,Infrastructure Output (YoY),HIGH,INR,Release,0.19,Inflation
 747f9092-e4aa-4a6c-8d22-317ea819a9a9,09/30/2026 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy
@@ -147,7 +146,7 @@ a8d7d039-514b-4d28-bdf0-c2495738cc38,10/23/2026 11:30:00,Bank Loan Growth,LOW,IN
 422c1c51-a5a5-4fb9-af28-fd8be30e9391,10/28/2026 11:30:00,Industrial Output,HIGH,INR,Release,0.17,Growth
 0e8dfead-4115-4d51-a4f6-c50d603c8eae,10/28/2026 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy
 bb485cb1-3870-46f5-a821-8cf67883b848,10/28/2026 11:30:00,Manufacturing Output,HIGH,INR,Release,0.17,Growth
-ca7d75b5-128c-4c62-9dd2-f7156e263134,10/30/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
+cda5ce56-8c43-4088-9202-8aac2048130b,10/30/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
 e9c87a3b-fd93-4828-9161-9e8fd60430c9,10/30/2026 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
 de564d28-6db7-4e7d-8061-3a15e0e32b69,10/30/2026 11:30:00,Infrastructure Output (YoY),HIGH,INR,Release,0.19,Inflation
 35fa243b-aff8-4cb6-8a63-8aedb288afde,11/02/2026 05:00:00,HSBC Manufacturing PMI,HIGH,INR,Release,0.17,Growth
@@ -168,7 +167,7 @@ ef37e282-a9ae-4942-907c-21694489d718,11/23/2026 05:00:00,HSBC Services PMI,HIGH,
 d96faaa8-f9a0-413b-a5a9-ecd96f2e04c0,11/25/2026 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy
 0c994b5b-f9c4-49eb-b902-1c883e0fa242,11/27/2026 10:30:00,Gross Domestic Product Quarterly (YoY),HIGH,INR,Release,0.17,Growth
 f2a77d92-631e-4382-b793-64cde1997bbe,11/27/2026 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
-da59c200-4bbf-487d-b80d-789795184a97,11/30/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
+ca7d75b5-128c-4c62-9dd2-f7156e263134,11/30/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
 d0131ce6-89d1-4e53-a6e2-18a1b4895d34,11/30/2026 11:30:00,Cumulative Industrial Output,HIGH,INR,Release,0.17,Growth
 65418f78-5789-435d-ad42-e52ad5a075c5,11/30/2026 11:30:00,Industrial Output,HIGH,INR,Release,0.17,Growth
 3a3ed2bb-3d50-4dad-91c8-12d189a8ac93,11/30/2026 11:30:00,Infrastructure Output (YoY),HIGH,INR,Release,0.19,Inflation
@@ -196,9 +195,9 @@ d001bbd9-d409-470e-8621-702cf3286cfe,12/18/2026 11:30:00,"FX Reserves, USD",LOW,
 ad4066e2-7f6d-46ca-a8b7-52ad1b9456c8,12/28/2026 11:30:00,Industrial Output,HIGH,INR,Release,0.17,Growth
 803ad33f-0220-40f4-84e6-aa00f2843cb9,12/28/2026 11:30:00,Manufacturing Output,HIGH,INR,Release,0.17,Growth
 ac82b6c4-4db3-4a33-8d0e-c41df1d58a45,12/28/2026 12:00:00,Balance Payment $,MEDIUM,INR,Release,0.11,Trade and External
+da59c200-4bbf-487d-b80d-789795184a97,12/29/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
 eb793050-7713-4abb-9498-a04ffc14bfad,12/30/2026 11:30:00,Current Account Balance $,MEDIUM,INR,Release,0.11,Trade and External
 05880311-52f9-40c4-a25f-e94186fd42e7,12/30/2026 11:30:00,Infrastructure Output (YoY),HIGH,INR,Release,0.19,Inflation
-fb19010b-5899-4fb2-ace1-e88a56dad496,12/31/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
 ff8b07ed-ec2b-4186-99b9-7e19c9368dd3,12/31/2026 11:30:00,Trade Deficit – RBI,MEDIUM,INR,Release,0.11,Trade and External
 1706fc64-1f52-43f6-9823-c936c4d96679,01/01/2027 11:30:00,Bank Loan Growth,LOW,INR,Release,0.09,Money and Credit
 1c170dc1-59ac-4e22-86a1-fc09ea817cd1,01/01/2027 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
@@ -217,10 +216,11 @@ cacbbe6d-dd1c-4579-ab0d-b719c9df7d95,01/21/2027 05:00:00,HSBC Services PMI,HIGH,
 362adf10-3f53-434a-8cd9-cac6ab296a78,01/28/2027 11:30:00,Cumulative Industrial Output,HIGH,INR,Release,0.17,Growth
 61796d4d-4bc1-4817-8d78-fa1fc90507b2,01/28/2027 11:30:00,Industrial Output,HIGH,INR,Release,0.17,Growth
 9f99002c-8d51-4c58-ae33-cabaac52b6fb,01/28/2027 11:30:00,Manufacturing Output,HIGH,INR,Release,0.17,Growth
-ef5159c9-5e20-4824-9f69-b313c815bddc,01/29/2027 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
+fb19010b-5899-4fb2-ace1-e88a56dad496,01/29/2027 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
 29408b90-bb4a-4892-b557-403fa429c2ed,01/29/2027 11:30:00,Infrastructure Output (YoY),HIGH,INR,Release,0.19,Inflation
 f4474255-e9d3-454b-964d-aac7383f4f8b,02/05/2027 04:30:00,RBI Interest Rate Decision (Repo Rate),HIGH,INR,Release,0.2,Monetary Policy
 01a40146-66c3-4b3d-b9ee-1bfbb0a04194,02/05/2027 04:30:00,Reverse Repo Rate,HIGH,INR,Release,0.2,Monetary Policy
+ef5159c9-5e20-4824-9f69-b313c815bddc,02/26/2027 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
 aa7a4cec-a1e1-4f36-95ca-a0e0ccc5b10d,02/26/2027 10:30:00,Gross Domestic Product Quarterly (YoY),HIGH,INR,Release,0.17,Growth
 4f7aa7ad-8c19-41de-b6d4-6493e157dbc2,03/30/2027 11:30:00,Current Account Balance $,MEDIUM,INR,Release,0.11,Trade and External
 8f44f7ac-0b85-4b2f-a401-74a8fcd3d245,03/30/2027 11:30:00,Trade Deficit – RBI,MEDIUM,INR,Release,0.11,Trade and External
