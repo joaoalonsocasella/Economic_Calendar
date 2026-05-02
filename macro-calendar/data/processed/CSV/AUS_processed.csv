@@ -1,13 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-7eaf4638-e89a-4901-ad0f-f574db52761d,04/30/2026 01:30:00,Export Price Index (QoQ),MEDIUM,AUD,Release,0.11,Trade and External
-de13801b-f085-4afc-8542-e97bf8bfb401,04/30/2026 01:30:00,Import Price Index (QoQ),HIGH,AUD,Release,0.19,Inflation
-aa16d0a0-3d79-48c9-9cc7-88f19a9ad5ff,04/30/2026 01:30:00,Private Sector Credit (MoM),LOW,AUD,Release,0.09,Money and Credit
-5b652172-9b6f-406d-960a-1aad11d57672,04/30/2026 01:30:00,Private Sector Credit (YoY),LOW,AUD,Release,0.09,Money and Credit
-7d355e52-be98-4d4f-bcf2-6a002b76b4ce,04/30/2026 23:00:00,S&P Global Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
-249a77a1-cdac-4da9-93ee-fd57280786d5,05/01/2026 01:30:00,Producer Price Index (QoQ),HIGH,AUD,Release,0.19,Inflation
-f1cf08bc-22d8-412d-a1b3-487bfc890cd0,05/01/2026 01:30:00,Producer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
-336b51a2-25c7-439c-af56-5c4d296ef16d,05/01/2026 06:30:00,RBA Commodity Index SDR (YoY),HIGH,AUD,Release,0.19,Inflation
-9ab89a80-e7fe-44fa-8c1e-d94ae5cc899e,05/01/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 c425e0fa-3b30-4e9a-b894-b265485b495c,05/04/2026 01:00:00,TD-MI Inflation Gauge (MoM),HIGH,AUD,Release,0.19,Inflation
 955eeaa7-31dc-4933-be64-3993ea6a23da,05/04/2026 01:00:00,TD-MI Inflation Gauge (YoY),HIGH,AUD,Release,0.19,Inflation
 f4dfe9e2-ef3d-48ff-8000-3a5ad7abb419,05/04/2026 01:30:00,ANZ Job Advertisements,HIGH,AUD,Release,0.18,Labor Market
