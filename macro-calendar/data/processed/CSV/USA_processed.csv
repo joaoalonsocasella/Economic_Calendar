@@ -28,7 +28,6 @@ b478a751-7b9a-47c3-90a8-ace1cf7b46b6,05/06/2026 11:00:00,MBA Mortgage Applicatio
 079e9d66-aef0-42e2-baf4-6b3058d18fa8,05/06/2026 13:30:00,Fed's Musalem speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 f90b374a-22a0-4917-b6df-65562b86f1aa,05/06/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
 9c7ed400-ebc1-4a47-9d1e-e57b68a69e54,05/06/2026 17:00:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-5a9b7067-67b1-4f2c-b0ef-c5eb56140475,05/06/2026 17:30:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 01f9791b-8220-450e-a90b-59df1e38876f,05/07/2026 11:30:00,Challenger Job Cuts,HIGH,USD,Release,0.18,Labor Market
 2c8996be-79e1-490d-89bd-fb29692a0e07,05/07/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 e292e0c5-2ba6-4cb1-bd48-a4791b8d85b1,05/07/2026 12:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
@@ -39,6 +38,7 @@ b92ef7f5-bfdd-425b-9938-18f1227a2951,05/07/2026 12:30:00,Unit Labor Costs,HIGH,U
 749bc6c5-e2ab-4077-9436-5895d6bbd19e,05/07/2026 14:00:05,Construction Spending (MoM),HIGH,USD,Release,0.17,Growth
 b2f13227-57a9-499b-ab2a-0fac37db4ea7,05/07/2026 14:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 c4214dc6-c6e9-4f64-a431-0f86dbfaf62b,05/07/2026 15:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
+3328ba51-9f52-4d82-8343-d84ef62df863,05/07/2026 17:00:00,Fed's Kashkari speech,HIGH,USD,Release,0.2,Monetary Policy
 12710d9b-7605-4e79-985c-ba7198ff342e,05/07/2026 18:05:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 8f06ceb5-088b-4d46-acaf-82ae5995f90e,05/07/2026 19:00:00,Consumer Credit Change,MEDIUM,USD,Release,0.14,Confidence
 fa7774ca-c6ed-4290-b107-cc40d3601b87,05/07/2026 19:30:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
@@ -56,6 +56,7 @@ f8ed202d-d502-4f74-bb44-aa804662e50e,05/08/2026 19:30:00,CFTC Gold NC Net Positi
 3bc83fe1-8751-4951-97c8-7496a7573724,05/08/2026 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 92a20c73-b5fc-44a1-bc17-9a5c4ac813a3,05/08/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 1851ea50-5c3b-4631-bfb4-59604e413dcc,05/08/2026 23:30:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+e3b5f3cd-7c83-4614-92d5-0041fd3a0706,05/08/2026 23:30:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 b19a4dab-7070-41f8-b02c-23300a76f36f,05/08/2026 23:30:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 3352ce6e-a4d1-4242-8d00-f6d31469f330,05/08/2026 23:30:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 768a70fd-4cce-4dce-849b-0b3bd4f5639e,05/11/2026 14:00:00,Existing Home Sales (MoM),LOW,USD,Release,0.07,Housing
@@ -63,6 +64,7 @@ b19a4dab-7070-41f8-b02c-23300a76f36f,05/08/2026 23:30:00,Fed's Goolsbee speech,M
 8b291175-e3f7-4eab-a0d3-aaefef3760e6,05/11/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 9d010e71-922e-4449-affd-e0dbae0d27d0,05/11/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 ddd597e1-e597-4978-a933-33030acf9efc,05/11/2026 17:00:00,3-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
+417e54ff-5bc7-491f-8729-824c22f87f45,05/12/2026 07:15:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
 9b124e7c-36de-4de3-9f89-85963f7e6eae,05/12/2026 10:00:00,NFIB Business Optimism Index,MEDIUM,USD,Release,0.14,Confidence
 87e679a2-e08d-47fa-b73a-bda83a9ad02b,05/12/2026 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 76959ca9-9d93-4b9d-b173-06d7f6ca253d,05/12/2026 12:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
@@ -85,6 +87,7 @@ c1290f81-7acb-4d5a-9dd4-0acb7b278f57,05/13/2026 12:30:00,Producer Price Index (Y
 55300898-bebd-4123-bce2-1cbf5249a8ca,05/13/2026 12:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
 ef9e3862-6272-4887-90db-cadecbd27713,05/13/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
 f31e890d-6d7d-4d14-b901-bf5d59e8fefb,05/13/2026 17:00:00,30-Year Bond Auction,LOW,USD,Release,0.09,Money and Credit
+17aad740-0661-46e2-b3dc-38c0cde3f8ff,05/13/2026 17:15:00,Fed's Kashkari speech,HIGH,USD,Release,0.2,Monetary Policy
 3e4491d6-d9b4-425b-b3e5-0c4d485bc185,05/14/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 b5d7d765-e7c6-41d0-ad23-6cb8f3885b67,05/14/2026 12:30:00,Export Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
 f01234a6-e20a-45a0-9123-88d6420d32f3,05/14/2026 12:30:00,Export Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
@@ -100,6 +103,7 @@ c1af0060-79c7-47a2-8a56-6ac3b9a15daf,05/14/2026 14:00:00,Business Inventories,HI
 6612b2fc-c0df-4cdd-802b-14a0bd2f4146,05/14/2026 14:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 00d92946-1518-4f9b-8247-d9279eee7d60,05/14/2026 15:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 6dd156f9-a682-4ab6-abce-c250b354719d,05/14/2026 17:00:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+c0101431-d732-408b-bcee-c577c9e74000,05/14/2026 21:45:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
 7ab942c1-6ea1-4df7-b06d-d3d661cc52c7,05/15/2026 12:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
 3204113b-3bd9-49fb-a91b-4c9a886608d6,05/15/2026 13:15:00,Capacity Utilization,HIGH,USD,Release,0.2,Monetary Policy
 68dc3441-3e80-46f8-959b-f997b6513508,05/15/2026 13:15:00,Industrial Production (MoM),HIGH,USD,Release,0.17,Growth
