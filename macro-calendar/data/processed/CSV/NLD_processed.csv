@@ -1,10 +1,9 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-6bb6d484-9d57-4007-a22c-89d5ffd9250b,05/04/2026 05:00:00,Nevi Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 b7fbe3c6-d3ee-40eb-aef9-077924466ab1,05/07/2026 04:30:00,Consumer Spending Volume,HIGH,EUR,Release,0.595,Confidence
 4fed76fa-a88b-467f-a9ae-507bebfe5ed1,05/08/2026 04:30:00,Manufacturing Output (MoM),HIGH,EUR,Release,0.722,Growth
 8d84cbc9-0602-494e-8e86-68aaf2b3f6f3,05/13/2026 04:30:00,Consumer Price Index n.s.a (YoY),HIGH,EUR,Release,0.807,Inflation
+dce47673-4721-4fdb-bc99-5cc6b0379681,05/21/2026 04:30:00,Consumer Confidence Adj,HIGH,EUR,Release,0.595,Confidence
 39237780-c338-4216-911c-49a47f5d9f7f,05/21/2026 04:30:00,Unemployment Rate s.a (3M),HIGH,EUR,Release,0.765,Labor Market
-dce47673-4721-4fdb-bc99-5cc6b0379681,05/22/2026 04:30:00,Consumer Confidence Adj,HIGH,EUR,Release,0.595,Confidence
 92bbc6fd-9c84-46f2-8ba9-05ca350114b9,06/01/2026 05:00:00,Nevi Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 d738d779-e692-4911-b956-2079b461097b,06/02/2026 04:30:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 9e664b6b-12c3-473a-b8df-24d001f0392b,06/05/2026 04:30:00,Consumer Spending Volume,HIGH,EUR,Release,0.595,Confidence

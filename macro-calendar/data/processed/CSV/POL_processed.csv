@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-3c993df3-d115-44b9-a194-0f00f690a0e4,05/04/2026 07:00:00,S&P Global Manufacturing PMI,HIGH,PLN,Release,0.17,Growth
 37190935-52f6-4c53-bd00-c0f55fbe2d6a,05/06/2026 13:00:00,NBP Base rate,HIGH,PLN,Release,0.2,Monetary Policy
 d1b4a549-7b37-41dc-b4b8-4c441e21024e,05/07/2026 12:00:00,Central Bank FX Reserves,LOW,PLN,Release,0.09,Money and Credit
 1e83f977-530c-4b05-ae5d-1001b8ab0415,05/14/2026 08:00:00,Gross Domestic Product Qtr (YoY),HIGH,PLN,Release,0.17,Growth
@@ -7,9 +6,9 @@ d1b4a549-7b37-41dc-b4b8-4c441e21024e,05/07/2026 12:00:00,Central Bank FX Reserve
 be16c89f-78cc-49be-b719-57cd21cd3f5a,05/15/2026 08:00:00,Consumer Price Index (YoY),HIGH,PLN,Release,0.19,Inflation
 7b9449c3-f65e-47d7-9f8d-ad3490c73f75,05/15/2026 12:00:00,Current Account,MEDIUM,PLN,Release,0.11,Trade and External
 39527b95-f5b6-4fe9-9274-9f1d9868f873,05/18/2026 12:00:00,Net Inflation,HIGH,PLN,Release,0.19,Inflation
-7eba4a66-267f-4021-af58-8c043df4b8c4,05/20/2026 08:00:00,Corporate Sector Wages,LOW,PLN,Release,0.09,Money and Credit
-eb30ea27-1fab-4d16-be4e-5074975d0ace,05/20/2026 08:00:00,Industrial Output (YoY),HIGH,PLN,Release,0.17,Growth
-710be183-3f8e-46e5-a14d-d5a1904794b8,05/20/2026 08:00:00,Producer Price Index (YoY),HIGH,PLN,Release,0.19,Inflation
+7eba4a66-267f-4021-af58-8c043df4b8c4,05/21/2026 08:00:00,Corporate Sector Wages,LOW,PLN,Release,0.09,Money and Credit
+eb30ea27-1fab-4d16-be4e-5074975d0ace,05/21/2026 08:00:00,Industrial Output (YoY),HIGH,PLN,Release,0.17,Growth
+710be183-3f8e-46e5-a14d-d5a1904794b8,05/21/2026 08:00:00,Producer Price Index (YoY),HIGH,PLN,Release,0.19,Inflation
 c1524336-c77a-4493-95aa-d4b778d9b1be,05/22/2026 12:00:00,M3 Money Supply (YoY),HIGH,PLN,Release,0.19,Inflation
 f495636a-69f3-4bb8-870c-4f3193e22615,05/25/2026 08:00:00,Retail Sales (YoY),HIGH,PLN,Release,0.17,Growth
 3c73abe7-9f3b-41e6-bc1f-7b7d2bc67fcc,05/25/2026 08:00:00,Unemployment (MoM),HIGH,PLN,Release,0.18,Labor Market
