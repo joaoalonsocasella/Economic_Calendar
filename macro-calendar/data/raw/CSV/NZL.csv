@@ -1,11 +1,4 @@
 Id,Start,Name,Impact,Currency
-9c87c0c3-76c0-4c2f-9a8e-2664e7e04efc,05/05/2026 01:00:00,ANZ Commodity Price,LOW,NZD
-6b0d9a64-ce93-4af2-873e-167e8ea08fee,05/05/2026 15:00:00,GDT Price Index,LOW,NZD
-08e45a3d-7a8a-4f68-ac14-21561a8b45be,05/05/2026 22:45:00,Employment Change,HIGH,NZD
-d828c05a-0afd-4acd-b3da-326bd07f5803,05/05/2026 22:45:00,Labour Cost Index (QoQ),MEDIUM,NZD
-1da6f8ba-5826-4bf2-abfa-ea8dd34c89ce,05/05/2026 22:45:00,Labour Cost Index (YoY),LOW,NZD
-6ee11128-b5f9-4278-b688-731c5e78face,05/05/2026 22:45:00,Participation Rate,MEDIUM,NZD
-2e75d89b-562a-484f-baed-2635d86e66fb,05/05/2026 22:45:00,Unemployment Rate,HIGH,NZD
 8112e711-5273-44f0-a697-cc5abc0ce842,05/13/2026 03:00:00,RBNZ Inflation Expectations (QoQ),HIGH,NZD
 5716ff42-870f-45ad-84d0-1a085f4b7374,05/13/2026 22:45:00,Visitor Arrivals (YoY),LOW,NZD
 f69d7b31-c3f8-4a4d-b341-f04699ed92d3,05/14/2026 22:30:00,Business NZ PMI,MEDIUM,NZD
