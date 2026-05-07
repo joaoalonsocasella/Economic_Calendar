@@ -1,15 +1,11 @@
 Id,Start,Name,Impact,Currency
-2523de5d-4570-43a0-9542-8a7575aa1c7e,05/06/2026 23:30:00,Labor Cash Earnings (YoY),MEDIUM,JPY
-c80d795a-61ce-4ba7-a324-fd97ba1ecc3f,05/06/2026 23:50:00,BoJ Monetary Policy Meeting Minutes,MEDIUM,JPY
-6abf53ee-f611-4b73-b2b5-1b2cee3795b7,05/06/2026 23:50:00,Foreign Bond Investment,LOW,JPY
-42aaa6a9-8cad-4564-a905-12a44186ead1,05/06/2026 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
-a2c2b5e0-6720-42a8-bbbf-e03350ec5f77,05/06/2026 23:50:00,Monetary Base (YoY),LOW,JPY
-536fcd83-4a4c-41f7-9cc1-9d33c264bdb9,05/07/2026 03:35:00,10-y Bond Auction,LOW,JPY
+2523de5d-4570-43a0-9542-8a7575aa1c7e,05/07/2026 23:30:00,Labor Cash Earnings (YoY),MEDIUM,JPY
 293e4c8f-35cf-417a-a304-492f3c19a177,05/08/2026 00:30:00,Jibun Bank Services PMI,LOW,JPY
 7d0e91ce-6577-4cea-87e5-20afc6a260dc,05/08/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 9dffeecd-da2a-448a-8f05-fcae9789452f,05/11/2026 23:30:00,Overall Household Spending (YoY),LOW,JPY
 d3f83ff2-929f-4de2-be73-c45247dcc94d,05/11/2026 23:50:00,BoJ Summary of Opinions,LOW,JPY
 3be762c5-07fc-46ca-bd04-c2db4bb41e35,05/11/2026 23:50:00,JP Foreign Reserves,LOW,JPY
+536fcd83-4a4c-41f7-9cc1-9d33c264bdb9,05/12/2026 03:35:00,10-y Bond Auction,LOW,JPY
 64072c49-037f-413c-8a52-256e97d6eb69,05/12/2026 05:00:00,Coincident Index,LOW,JPY
 b01fbab0-8824-4234-be00-942fdb305311,05/12/2026 05:00:00,Leading Economic Index,LOW,JPY
 00c1d6f3-18fa-47ac-9b52-a2734ed17966,05/12/2026 23:50:00,Bank Lending (YoY),LOW,JPY
@@ -18,6 +14,8 @@ d90b09b0-fcc1-4bfb-8838-9d2ed6ced864,05/12/2026 23:50:00,Trade Balance - BOP Bas
 82af5021-b936-4458-9799-41972a64573c,05/13/2026 05:00:00,Eco Watchers Survey: Current,LOW,JPY
 1f986e5b-5eee-4652-b138-fc9736e59e81,05/13/2026 05:00:00,Eco Watchers Survey: Outlook,LOW,JPY
 d63d61b2-2018-4ca1-84a4-62646c3a27a2,05/13/2026 23:50:00,Foreign Bond Investment,LOW,JPY
+6abf53ee-f611-4b73-b2b5-1b2cee3795b7,05/13/2026 23:50:00,Foreign Bond Investment,LOW,JPY
+42aaa6a9-8cad-4564-a905-12a44186ead1,05/13/2026 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
 4f832f09-fd85-4893-9fc1-764391439277,05/13/2026 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
 f07b89c6-0a5e-4b36-baf7-ba4bf30c2628,05/13/2026 23:50:00,Money Supply M2+CD (YoY),LOW,JPY
 0f34b50c-31b1-4142-b680-3cc2d0b95b21,05/14/2026 23:50:00,Producer Price Index (MoM),LOW,JPY
