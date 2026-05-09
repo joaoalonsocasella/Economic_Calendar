@@ -1,19 +1,14 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-5417005c-b4f4-46e7-a46a-a108dd12b26d,05/08/2026 06:00:00,Exports (MoM),HIGH,EUR,Release,0.468,Trade and External
-2609765b-aa17-4005-869f-7b238fc26bf4,05/08/2026 06:00:00,Imports (MoM),HIGH,EUR,Release,0.468,Trade and External
-4139e745-73d3-4a3c-a0dc-3a8bf62957a0,05/08/2026 06:00:00,Industrial Production n.s.a. w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth
-fc9c26fb-137c-400c-853b-7718ae682162,05/08/2026 06:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
-3580f2e9-ee9c-4011-afad-3c5da6c57b0b,05/08/2026 06:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External
 bc56330e-6296-4596-b1a9-8a975f7cb8b1,05/12/2026 06:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 59b81362-f19c-45f1-afd8-73542d58789f,05/12/2026 06:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 e0920c2e-ca2a-475c-af78-b27c8f70b16c,05/12/2026 06:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 50e97eb3-c70d-4d35-b43a-3b942f9ff12b,05/12/2026 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
 5f98030c-3065-425a-b226-73d6c00cf68e,05/12/2026 09:00:00,ZEW Survey – Current Situation,HIGH,EUR,Release,0.595,Confidence
 6da6109c-8bab-4734-9695-8701ca9f7939,05/12/2026 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
+9d8768c5-31f4-46d0-abb9-49cd45cc092f,05/13/2026 06:00:00,Wholesale Price Index (MoM),HIGH,EUR,Release,0.468,Trade and External
+41acfa25-ff25-47be-a2dd-125b30c5d049,05/13/2026 06:00:00,Wholesale Price Index (YoY),HIGH,EUR,Release,0.468,Trade and External
 8df73006-24e9-469e-a74b-14fa7961524e,05/13/2026 09:30:00,30-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 65ee487e-0d4b-4c6a-a0a9-3adb4ac8679c,05/13/2026 12:30:00,Current Account n.s.a.,HIGH,EUR,Release,0.468,Trade and External
-9d8768c5-31f4-46d0-abb9-49cd45cc092f,05/15/2026 06:00:00,Wholesale Price Index (MoM),HIGH,EUR,Release,0.468,Trade and External
-41acfa25-ff25-47be-a2dd-125b30c5d049,05/15/2026 06:00:00,Wholesale Price Index (YoY),HIGH,EUR,Release,0.468,Trade and External
 34592f74-e8c7-448c-bcc3-e13f3915aef1,05/18/2026 10:00:00,German Buba Monthly Report,HIGH,EUR,Release,0.85,Monetary Policy
 b877e19b-9f50-402b-a78e-5c4accec9878,05/21/2026 06:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 d43afbb6-df7d-4e1c-9e39-95ceea6d96d0,05/21/2026 06:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation

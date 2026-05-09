@@ -1,18 +1,16 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-28ece9a1-48a8-4735-9930-0618bf9af2e6,05/08/2026 07:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
-2e6e7593-d603-41f7-857b-d813aae3b5a4,05/08/2026 07:05:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
-b72a8b05-f80d-41ac-94ee-9f86281c820b,05/08/2026 12:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
-29e05160-dd79-41ae-a0dd-c45bb8a61acc,05/08/2026 16:00:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-9a95b01a-b2a8-4849-85c9-d230a64527ac,05/08/2026 16:15:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-c35a9aa7-03e6-4b0d-91b1-429f05b27a87,05/08/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 4f37b83f-24da-4d59-ad50-7b91bcf89ff5,05/10/2026 09:30:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
 c17d0ec6-b1a3-4a39-9730-09c2de0b4d00,05/12/2026 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
+147aecb0-77c2-4128-a3eb-e8d702c9655d,05/12/2026 10:40:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy
 f039c59e-fa5a-47fc-8a52-9544bea4ce20,05/13/2026 09:00:00,Employment Change (QoQ),HIGH,EUR,Release,0.765,Labor Market
 4cb825fa-f9dd-4703-8ab0-59bb025fab57,05/13/2026 09:00:00,Employment Change (YoY),HIGH,EUR,Release,0.765,Labor Market
 431ef517-7954-4a62-b571-1d23dbf431cd,05/13/2026 09:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR,Release,0.722,Growth
 9bbf8bca-a64a-4392-a37c-fa4c5d965876,05/13/2026 09:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR,Release,0.722,Growth
 595c217a-5056-414f-aa09-1c65621352ea,05/13/2026 09:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 77db1754-34a1-43c1-97f5-251a29a6e24a,05/13/2026 09:00:00,Industrial Production w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth
+4a516be1-2ca5-41b8-80db-93ebd4d4fcdb,05/13/2026 19:00:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
+b3e49175-817f-4ff2-bc8b-55346f5dcd98,05/13/2026 19:15:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
+8e153505-6c21-4d5a-aa50-169907a359fa,05/14/2026 09:15:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
 ecd04c50-a46d-4390-9713-2938933a91dc,05/15/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 67989320-e1dd-4e21-9070-ce6915828074,05/19/2026 09:00:00,Trade Balance n.s.a.,HIGH,EUR,Release,0.468,Trade and External
 c22e83fd-3d11-45fc-a428-6e23078f2a7c,05/19/2026 09:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External

@@ -1,25 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-077bc5bb-4d07-4d07-b39c-1233c51426a6,05/08/2026 09:45:00,Fed's Cook speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-9f747d29-1621-4bfd-ab86-caf8691638e1,05/08/2026 12:30:00,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market
-1290bcb3-2119-4c21-9594-ec2870ae0fad,05/08/2026 12:30:00,Average Hourly Earnings (YoY),HIGH,USD,Release,0.18,Labor Market
-0a849f72-2393-419c-ad54-6a6b886ff98b,05/08/2026 12:30:00,Average Weekly Hours,HIGH,USD,Release,0.18,Labor Market
-8935a6a7-0849-49e7-b3cd-21535bb7a1d7,05/08/2026 12:30:00,Labor Force Participation Rate,HIGH,USD,Release,0.18,Labor Market
-e04efcba-fad4-49ce-8c53-962c55368a6b,05/08/2026 12:30:00,Nonfarm Payrolls,HIGH,USD,Release,0.18,Labor Market
-90576845-fb32-4ae1-8e29-2dc71d4c06aa,05/08/2026 12:30:00,U6 Underemployment Rate,HIGH,USD,Release,0.2,Monetary Policy
-c4e9ca48-821a-4405-8a95-f30d93b0c6d0,05/08/2026 12:30:00,Unemployment Rate,HIGH,USD,Release,0.18,Labor Market
-65f2f979-6508-4309-9389-0caf657e3477,05/08/2026 12:30:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
-2ee5189c-0830-4f63-9cc6-0b543e6d6f23,05/08/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
-5137e8ad-6ae2-4776-9fce-332dcf441c1f,05/08/2026 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
-5208562f-88f7-498c-b01b-4674d488f22b,05/08/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
-8e02de74-31e0-4866-8053-38ec6b239dd0,05/08/2026 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
-0b1ff837-31dd-4521-981e-63c08a6879da,05/08/2026 17:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
-f8ed202d-d502-4f74-bb44-aa804662e50e,05/08/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-3bc83fe1-8751-4951-97c8-7496a7573724,05/08/2026 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-92a20c73-b5fc-44a1-bc17-9a5c4ac813a3,05/08/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-1851ea50-5c3b-4631-bfb4-59604e413dcc,05/08/2026 23:30:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-e3b5f3cd-7c83-4614-92d5-0041fd3a0706,05/08/2026 23:30:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-b19a4dab-7070-41f8-b02c-23300a76f36f,05/08/2026 23:30:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-3352ce6e-a4d1-4242-8d00-f6d31469f330,05/08/2026 23:30:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 768a70fd-4cce-4dce-849b-0b3bd4f5639e,05/11/2026 14:00:00,Existing Home Sales (MoM),LOW,USD,Release,0.07,Housing
 5204e3ae-0437-4de2-b89c-ecb7c7dc443b,05/11/2026 14:00:00,Existing Home Sales Change (MoM),LOW,USD,Release,0.07,Housing
 8b291175-e3f7-4eab-a0d3-aaefef3760e6,05/11/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
@@ -61,6 +40,7 @@ e20aff1f-f06d-4221-8ff4-1c7164c0bd64,05/14/2026 12:30:00,Initial Jobless Claims,
 7348cf6e-cb69-4ccd-94e1-e13dbf381a0b,05/14/2026 12:30:00,Retail Sales Control Group,HIGH,USD,Release,0.17,Growth
 246177e8-7ce0-4768-a5ff-bca7e1fe7610,05/14/2026 12:30:00,Retail Sales ex Autos (MoM),HIGH,USD,Release,0.17,Growth
 c1af0060-79c7-47a2-8a56-6ac3b9a15daf,05/14/2026 14:00:00,Business Inventories,HIGH,USD,Release,0.17,Growth
+bcf27720-223d-48a9-8147-f9678ec2999a,05/14/2026 14:15:00,Fed's Schmid speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 6612b2fc-c0df-4cdd-802b-14a0bd2f4146,05/14/2026 14:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 00d92946-1518-4f9b-8247-d9279eee7d60,05/14/2026 15:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 6dd156f9-a682-4ab6-abce-c250b354719d,05/14/2026 17:00:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
