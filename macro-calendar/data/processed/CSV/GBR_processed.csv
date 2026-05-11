@@ -1,4 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
+481c99aa-dbb1-4942-97bd-b055064b7235,05/11/2026 08:46:00,BoE's Greene speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 f24e38e3-099d-4d2a-915b-f48958defee7,05/11/2026 23:01:00,BRC Like-For-Like Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
 3aec278e-d1fa-4bc0-b923-4fdb69f45b39,05/13/2026 11:00:00,NIESR GDP Estimate (3M),HIGH,GBP,Release,0.17,Growth
 ca28e5cc-f42a-4946-98f6-15da041acd07,05/13/2026 15:00:00,BoE's Mann speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
@@ -19,12 +20,15 @@ afc6de75-9b88-478e-984f-7e9ae68e9402,05/14/2026 06:00:00,Total Trade Balance,MED
 8e9ccb31-dac2-49b3-b551-6ddfa524fb6e,05/15/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 019c08c0-2544-4915-9368-237a118014df,05/17/2026 23:01:00,Rightmove House Price Index (MoM),LOW,GBP,Release,0.07,Housing
 be29510f-5d12-453d-b327-650ee3e24d29,05/17/2026 23:01:00,Rightmove House Price Index (YoY),LOW,GBP,Release,0.07,Housing
+f45caf05-d8ea-43ec-98aa-1be50411a8c5,05/18/2026 07:35:00,BoE's Greene speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
+8db745e0-689f-47c9-ac0a-72393b3acb06,05/18/2026 08:30:00,BoE's Mann speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 a52b0088-4ba3-44af-a2bc-618f595970f5,05/19/2026 06:00:00,Average Earnings Excluding Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
 0740c946-72f7-4d7f-ad7e-125fb0d8bde6,05/19/2026 06:00:00,Average Earnings Including Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
 5a4fe3b8-8f51-45d2-9d93-f62f2c4cc7a0,05/19/2026 06:00:00,Claimant Count Change,HIGH,GBP,Release,0.18,Labor Market
 ca1a0be5-6eff-409f-8c04-002eafb13875,05/19/2026 06:00:00,Claimant Count Rate,HIGH,GBP,Release,0.18,Labor Market
 9e41f66b-2146-4af4-85f0-e6dd178903f0,05/19/2026 06:00:00,Employment Change (3M),HIGH,GBP,Release,0.18,Labor Market
 b1d10d6d-c63c-4573-a373-271c5e198cbb,05/19/2026 06:00:00,ILO Unemployment Rate (3M),HIGH,GBP,Release,0.18,Labor Market
+ea4ee37e-05f8-46c1-b27b-837fa5c93538,05/19/2026 08:10:00,BoE's Breeden speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 f7a6424b-4e08-4c86-b836-85f3c9a6efed,05/20/2026 06:00:00,Consumer Price Index (MoM),HIGH,GBP,Release,0.19,Inflation
 ff25baf0-2dab-4b2e-9502-18abb9af497b,05/20/2026 06:00:00,Consumer Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
 b7a5279b-3de5-4e13-a0bb-592b177848f8,05/20/2026 06:00:00,Core Consumer Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
@@ -40,6 +44,7 @@ cc17ccaf-c891-487c-96ea-1a9280581490,05/20/2026 08:30:00,DCLG House Price Index 
 0f77311a-5174-4333-b0cb-87b1ee705192,05/21/2026 08:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
 22eb93ef-4bfc-4236-a1cb-c5e6d75205b1,05/21/2026 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
 397b7753-5b79-4513-a1e3-2638b68a6adf,05/21/2026 08:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
+2afbfb47-4e2f-4395-ba0e-6aa9ad7f1f0d,05/21/2026 12:00:00,BoE's Taylor speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 a711c212-3fc0-4447-bdd0-9d0b7d533d85,05/21/2026 23:01:00,GfK Consumer Confidence,MEDIUM,GBP,Release,0.14,Confidence
 b00c99ad-c857-4b5b-a844-b281c4172e87,05/22/2026 06:00:00,Public Sector Net Borrowing,LOW,GBP,Release,0.09,Money and Credit
 e301abbc-5bc1-462f-8c1b-804889efb09c,05/22/2026 06:00:00,Retail Sales (MoM),HIGH,GBP,Release,0.17,Growth
