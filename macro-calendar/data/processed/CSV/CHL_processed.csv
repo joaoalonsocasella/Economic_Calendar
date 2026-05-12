@@ -1,7 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 eb57b128-0f4d-414c-82b1-7ac5e98ffcd1,05/18/2026 12:30:00,Gross Domestic Product (YoY),HIGH,CLP,Release,0.17,Growth
-31ad06fa-6678-48d4-931e-231955223814,05/29/2026 12:00:00,Industrial Production (YoY),HIGH,CLP,Release,0.17,Growth
-0d3883d3-08a8-40ef-811d-63d8a2c831cd,05/29/2026 12:00:00,Unemployment rate,HIGH,CLP,Release,0.18,Labor Market
+31ad06fa-6678-48d4-931e-231955223814,05/29/2026 13:00:00,Industrial Production (YoY),HIGH,CLP,Release,0.17,Growth
+0d3883d3-08a8-40ef-811d-63d8a2c831cd,05/29/2026 13:00:00,Unemployment rate,HIGH,CLP,Release,0.18,Labor Market
 11e7b3e0-13af-474e-9c92-6194b79da819,06/01/2026 12:30:00,IMACEC,HIGH,CLP,Release,0.2,Monetary Policy
 9a67d790-b9fb-405f-97b4-a57c69c855d9,06/08/2026 11:00:00,Consumer Price Index (Inflation) (MoM),HIGH,CLP,Release,0.19,Inflation
 e02ecbce-da44-4310-9324-5f9595f152d1,06/08/2026 11:00:00,Core Consumer Price Index (Inflation) (MoM),HIGH,CLP,Release,0.19,Inflation

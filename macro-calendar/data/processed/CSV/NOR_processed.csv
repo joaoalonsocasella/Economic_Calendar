@@ -1,15 +1,10 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-b4502482-536c-4b29-beb8-318db6551ec1,05/11/2026 06:00:00,Consumer Price Index (MoM),HIGH,NOK,Release,0.19,Inflation
-aa677717-9f0c-423c-8107-84254ebbffea,05/11/2026 06:00:00,Consumer Price Index (YoY),HIGH,NOK,Release,0.19,Inflation
-6009a239-1e21-4f77-87fe-87797d9f6484,05/11/2026 06:00:00,Core Inflation (MoM),HIGH,NOK,Release,0.19,Inflation
-95e280ad-2ff8-48a5-86ef-def8d1cfc9e1,05/11/2026 06:00:00,Core Inflation (YoY),HIGH,NOK,Release,0.19,Inflation
-559cd25d-d99f-47d3-8058-42e1eae68f5c,05/11/2026 06:00:00,Producer Price Index (YoY),HIGH,NOK,Release,0.19,Inflation
-a21783d4-5feb-4207-8e2f-bada9766613c,05/14/2026 06:00:00,Gross Domestic Product Growth,LOW,NOK,Release,0.09,Money and Credit
-f0191f73-573e-4f49-b72d-5f21d9b5fd75,05/14/2026 06:00:00,Gross Domestic Product Growth Mainland,LOW,NOK,Release,0.09,Money and Credit
 fe7f0357-3b6c-4f30-b921-189acb65ea12,05/15/2026 06:00:00,Trade Balance,MEDIUM,NOK,Release,0.11,Trade and External
 a08e510f-9384-43fe-ae40-2f0fce362d61,05/26/2026 06:00:00,Credit Indicator,LOW,NOK,Release,0.09,Money and Credit
+a21783d4-5feb-4207-8e2f-bada9766613c,05/28/2026 06:00:00,Gross Domestic Product Growth,LOW,NOK,Release,0.09,Money and Credit
+f0191f73-573e-4f49-b72d-5f21d9b5fd75,05/28/2026 06:00:00,Gross Domestic Product Growth Mainland,LOW,NOK,Release,0.09,Money and Credit
+cee83e88-eb8a-4ab9-8773-8d62c83e5fca,05/29/2026 06:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
 0c53414a-6073-49c4-95b0-b3ae4f6c21e3,05/29/2026 06:00:00,Retail Sales ,HIGH,NOK,Release,0.17,Growth
-cee83e88-eb8a-4ab9-8773-8d62c83e5fca,05/29/2026 08:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
 379b4d21-a9fa-482d-8694-6b00d74d6164,05/29/2026 08:00:00,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
 5b26f6bb-e2cc-4180-a7ef-0297b7ec567b,06/04/2026 06:00:00,Current Account,MEDIUM,NOK,Release,0.11,Trade and External
 cd971a1b-ab3e-4dec-a55f-3ee1ff439613,06/05/2026 06:00:00,Manufacturing Output,HIGH,NOK,Release,0.17,Growth

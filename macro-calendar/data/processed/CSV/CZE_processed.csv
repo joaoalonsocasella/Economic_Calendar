@@ -1,6 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-6660107b-7967-4e34-b1c4-9222f6cf275d,05/11/2026 07:00:00,Retail Sales (YoY),HIGH,CZK,Release,0.17,Growth
-04b2b720-c731-4def-9555-b13c24805247,05/12/2026 07:00:00,Unemployment Rate,HIGH,CZK,Release,0.18,Labor Market
+04b2b720-c731-4def-9555-b13c24805247,05/12/2026 08:00:00,Unemployment Rate,HIGH,CZK,Release,0.18,Labor Market
 f7606330-44da-4571-9ba5-8e1bc2c39871,05/13/2026 07:00:00,Consumer Price Index (MoM),HIGH,CZK,Release,0.19,Inflation
 f24a8b58-ad6a-4bdd-94ad-50cc1d832424,05/13/2026 07:00:00,Consumer Price Index (YoY),HIGH,CZK,Release,0.19,Inflation
 7facc3c9-3e29-4509-8815-8886f52b4d1b,05/15/2026 08:00:00,Current Account (MoM),MEDIUM,CZK,Release,0.11,Trade and External

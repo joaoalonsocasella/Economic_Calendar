@@ -1,6 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-c4252e58-d1c2-4742-bcd8-6584d335e15f,05/12/2026 09:30:00,Unemployment Rate (%),HIGH,ZAR,Release,0.18,Labor Market
-7b5e8e19-d8ca-45ca-8e41-ac987938fd40,05/12/2026 09:30:00,Unemployment Total ,HIGH,ZAR,Release,0.18,Labor Market
+c4252e58-d1c2-4742-bcd8-6584d335e15f,05/12/2026 09:00:00,Unemployment Rate (%),HIGH,ZAR,Release,0.18,Labor Market
+7b5e8e19-d8ca-45ca-8e41-ac987938fd40,05/12/2026 09:00:00,Unemployment Total ,HIGH,ZAR,Release,0.18,Labor Market
 dbd22d6e-9dc1-4488-83db-f297b4ee5427,05/12/2026 11:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth
 03a28ee3-e55d-4da4-aa94-ff276d6e827f,05/20/2026 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
 30c9aeb3-8c5f-4a5c-af73-02a2655c0e79,05/20/2026 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation

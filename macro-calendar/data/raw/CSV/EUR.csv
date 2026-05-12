@@ -1,6 +1,5 @@
 Id,Start,Name,Impact,Currency
-e87e45b9-583d-4760-8236-192b90387002,05/11/2026 04:00:00,ECB's De Guindos speech,MEDIUM,EUR
-4bf49452-5abc-40c9-b6d4-82e1462a616d,05/11/2026 05:00:00,ECB's Kocher speech,MEDIUM,EUR
+0a4fad30-6c4e-4ae6-9014-10b1a44968b9,05/12/2026 08:00:00,ECB's Nagel speech,MEDIUM,EUR
 c17d0ec6-b1a3-4a39-9730-09c2de0b4d00,05/12/2026 09:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
 147aecb0-77c2-4128-a3eb-e8d702c9655d,05/12/2026 10:40:00,ECB's Elderson speech,MEDIUM,EUR
 f039c59e-fa5a-47fc-8a52-9544bea4ce20,05/13/2026 09:00:00,Employment Change (QoQ),MEDIUM,EUR
@@ -30,11 +29,13 @@ e267f1e0-62ac-4665-90b3-25945292eda7,05/21/2026 09:00:00,Construction Output w.d
 3198148f-3c0e-4ed0-bb00-a65bfa19d0f3,05/21/2026 14:00:00,Consumer Confidence,MEDIUM,EUR
 1c2f644c-8fe6-496e-98f3-b392c9cb43a2,05/22/2026 09:00:00,Negotiated Wage Rates (QoQ),LOW,EUR
 5c5875f1-3f79-450a-9ee9-6042f15408e4,05/22/2026 19:30:00,CFTC EUR NC Net Positions,LOW,EUR
-6c597bfd-bbb8-4bec-a280-5011e1352d7e,05/28/2026 08:00:00,Business Climate,MEDIUM,EUR
-d58930e3-5696-4425-8df9-7edb13658c56,05/28/2026 08:00:00,Consumer Confidence,MEDIUM,EUR
-0dcb9ccb-29ea-4c6b-a9c1-f2d91da0d865,05/28/2026 08:00:00,Economic Sentiment Indicator,MEDIUM,EUR
-421b583d-f0fe-428b-a2b4-c3b1d28c89cf,05/28/2026 08:00:00,Industrial Confidence,LOW,EUR
-cad89584-8125-43a2-abd5-04af0ad2b693,05/28/2026 08:00:00,Services Sentiment,LOW,EUR
+84152969-eae1-4815-9255-5f127c7a6e5d,05/27/2026 08:00:00,EU Financial Stability Review,LOW,EUR
+6c597bfd-bbb8-4bec-a280-5011e1352d7e,05/28/2026 09:00:00,Business Climate,MEDIUM,EUR
+d58930e3-5696-4425-8df9-7edb13658c56,05/28/2026 09:00:00,Consumer Confidence,MEDIUM,EUR
+0dcb9ccb-29ea-4c6b-a9c1-f2d91da0d865,05/28/2026 09:00:00,Economic Sentiment Indicator,MEDIUM,EUR
+421b583d-f0fe-428b-a2b4-c3b1d28c89cf,05/28/2026 09:00:00,Industrial Confidence,LOW,EUR
+cad89584-8125-43a2-abd5-04af0ad2b693,05/28/2026 09:00:00,Services Sentiment,LOW,EUR
+d58e27d5-d9e9-4c1d-b213-4ea5b05ee20a,05/28/2026 11:30:00,ECB Monetary Policy Meeting Accounts,MEDIUM,EUR
 aaf412e1-300c-40f2-bd8a-f271a14385a5,05/29/2026 08:00:00,M3 Money Supply (3m),LOW,EUR
 e89b0280-ab18-49c9-85d8-10d3bd32adf3,05/29/2026 08:00:00,M3 Money Supply (YoY),LOW,EUR
 a2f73708-cc6e-4aea-9aac-6c01c8171daa,05/29/2026 08:00:00,Private Loans (YoY),LOW,EUR
