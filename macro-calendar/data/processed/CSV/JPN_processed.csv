@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-536fcd83-4a4c-41f7-9cc1-9d33c264bdb9,05/12/2026 03:35:00,10-y Bond Auction,LOW,JPY,Release,0.09,Money and Credit
-64072c49-037f-413c-8a52-256e97d6eb69,05/12/2026 05:00:00,Coincident Index,MEDIUM,JPY,Release,0.11,Trade and External
-b01fbab0-8824-4234-be00-942fdb305311,05/12/2026 05:00:00,Leading Economic Index,MEDIUM,JPY,Release,0.14,Confidence
-00c1d6f3-18fa-47ac-9b52-a2734ed17966,05/12/2026 23:50:00,Bank Lending (YoY),HIGH,JPY,Release,0.19,Inflation
-e5969a92-b5eb-416c-b96a-dc6c197cd8cf,05/12/2026 23:50:00,Current Account n.s.a.,MEDIUM,JPY,Release,0.11,Trade and External
-d90b09b0-fcc1-4bfb-8838-9d2ed6ced864,05/12/2026 23:50:00,Trade Balance - BOP Basis,MEDIUM,JPY,Release,0.11,Trade and External
 82af5021-b936-4458-9799-41972a64573c,05/13/2026 05:00:00,Eco Watchers Survey: Current,MEDIUM,JPY,Release,0.14,Confidence
 1f986e5b-5eee-4652-b138-fc9736e59e81,05/13/2026 05:00:00,Eco Watchers Survey: Outlook,MEDIUM,JPY,Release,0.14,Confidence
 d63d61b2-2018-4ca1-84a4-62646c3a27a2,05/13/2026 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth
@@ -38,6 +32,7 @@ bac3563b-fd32-4d18-922f-1d8a3551f0a6,05/21/2026 00:30:00,Jibun Bank Services PMI
 0fb191ee-ad56-4773-963c-8803be87fdf2,05/21/2026 23:30:00,National CPI ex Fresh Food (YoY),HIGH,JPY,Release,0.19,Inflation
 e5d55160-2086-41b5-bc2e-d1770d892e8b,05/22/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
 845d5ab7-2ad4-4a8b-8a92-a699ec24d664,05/26/2026 23:50:00,Corporate Service Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
+555c359a-6a67-4c48-87c6-9e3b1eedb87a,05/27/2026 00:00:00,BoJ Governor Ueda speech,MEDIUM,JPY,Speech,0.13,Monetary Policy
 affdfc42-e47a-4580-9a77-ed46f396b1ee,05/27/2026 05:00:00,Coincident Index,MEDIUM,JPY,Release,0.11,Trade and External
 676a4e09-b62c-4d7e-8e69-3afeafb9f37e,05/27/2026 05:00:00,Leading Economic Index,MEDIUM,JPY,Release,0.14,Confidence
 9abcbd87-499a-4444-aa5f-ad06f726e14d,05/27/2026 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth

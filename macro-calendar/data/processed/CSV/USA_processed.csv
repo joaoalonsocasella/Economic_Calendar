@@ -1,26 +1,12 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-417e54ff-5bc7-491f-8729-824c22f87f45,05/12/2026 07:15:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
-9b124e7c-36de-4de3-9f89-85963f7e6eae,05/12/2026 10:00:00,NFIB Business Optimism Index,MEDIUM,USD,Release,0.14,Confidence
-87e679a2-e08d-47fa-b73a-bda83a9ad02b,05/12/2026 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
-76959ca9-9d93-4b9d-b173-06d7f6ca253d,05/12/2026 12:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-49619d15-62de-4238-8861-036d83e4f03e,05/12/2026 12:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-c21a31df-8af5-4528-a254-26832793ea3c,05/12/2026 12:30:00,Consumer Price Index Core s.a,HIGH,USD,Release,0.19,Inflation
-2eab8b17-5531-4423-88f0-e1634fddd2f2,05/12/2026 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
-17163478-2e88-4809-9d7d-669854f1b7ca,05/12/2026 12:30:00,Consumer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
-50b9588a-299e-436a-be02-c7be1b7e908f,05/12/2026 12:30:00,Consumer Price Index n.s.a (MoM),HIGH,USD,Release,0.19,Inflation
-5e9d13f6-9fd0-4c08-91f6-f7c2b39ae110,05/12/2026 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
-79d75ef2-012a-45ba-b4bc-01acac6f3122,05/12/2026 15:30:00,52-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
-f4649715-ac02-4264-9e53-670db7ccdecf,05/12/2026 16:00:00,USDA WASDE Report,HIGH,USD,Release,0.2,Monetary Policy
-f68be459-996a-4408-b9cf-962789f0b44c,05/12/2026 17:00:00,10-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-b76cbe72-3660-4f6a-80a3-449b527cecca,05/12/2026 17:00:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-5a39c5d3-3638-4e5c-873b-2b11baf72c27,05/12/2026 18:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
-0ba5884f-a9eb-4bba-a26b-c1987cdb17f3,05/12/2026 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 d1717b55-469d-42be-93ae-da0987be96dd,05/13/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 54fe26f0-1ad6-4497-9555-1ed65d178e0b,05/13/2026 12:30:00,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 c1290f81-7acb-4d5a-9dd4-0acb7b278f57,05/13/2026 12:30:00,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 05d8c570-5d66-4e83-8f73-656a55605a97,05/13/2026 12:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
 55300898-bebd-4123-bce2-1cbf5249a8ca,05/13/2026 12:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
 ef9e3862-6272-4887-90db-cadecbd27713,05/13/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
+711af79d-06a9-4708-9c2a-faea8237c1a8,05/13/2026 15:30:00,Fed's Collins speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+d126b1cc-267f-4ae6-a2e3-0545da2dbaf8,05/13/2026 15:30:00,Fed's Collins speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 f31e890d-6d7d-4d14-b901-bf5d59e8fefb,05/13/2026 17:00:00,30-Year Bond Auction,LOW,USD,Release,0.09,Money and Credit
 17aad740-0661-46e2-b3dc-38c0cde3f8ff,05/13/2026 17:15:00,Fed's Kashkari speech,HIGH,USD,Release,0.2,Monetary Policy
 3e4491d6-d9b4-425b-b3e5-0c4d485bc185,05/14/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
@@ -95,11 +81,15 @@ bb52e24e-5785-4d50-b2c1-94b0421b9a17,05/26/2026 14:00:00,Consumer Confidence,MED
 3fcd2bcf-0b05-44ce-8cd3-5b8210fe5652,05/26/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 d72a8a1c-3167-4914-b79c-bf45ded907e6,05/26/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 24956234-9f56-4d4d-baa6-763496eed3ae,05/26/2026 17:00:00,2-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
+13f723e6-2818-4895-8dd5-268ab2bd1a9d,05/27/2026 00:20:00,Fed's Kashkari speech,HIGH,USD,Release,0.2,Monetary Policy
+cca87414-c4f7-4336-abc9-a1355440cadf,05/27/2026 08:00:00,Fed's Logan speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 9afc4c1b-9e9c-4331-863e-0a880cc6bc8f,05/27/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 693e1148-6320-44e4-81c0-fd8844d49fe8,05/27/2026 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 4b431de4-7bd4-4073-9c72-53d953c8b24f,05/27/2026 14:00:00,Richmond Fed Manufacturing Index,HIGH,USD,Release,0.17,Growth
 9db123ab-47b2-4e2c-9d90-7eb897d98c14,05/27/2026 17:00:00,5-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 909a078f-7606-4f9e-b4c2-1f0976051ae8,05/27/2026 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
+3b95c215-34e3-460a-8763-562c4f5f2f60,05/28/2026 00:00:00,Fed's Jefferson speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+e242208f-af15-4f62-9cee-8125b00713d9,05/28/2026 02:25:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 918a2d57-1eff-4370-93e2-cba2d5447b9b,05/28/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 72b45e2f-53e8-417e-91f6-6c303761c752,05/28/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 6e91970f-714a-4664-b239-24f0e81e417f,05/28/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation

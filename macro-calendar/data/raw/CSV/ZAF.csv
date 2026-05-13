@@ -1,7 +1,4 @@
 Id,Start,Name,Impact,Currency
-c4252e58-d1c2-4742-bcd8-6584d335e15f,05/12/2026 09:00:00,Unemployment Rate (%),LOW,ZAR
-7b5e8e19-d8ca-45ca-8e41-ac987938fd40,05/12/2026 09:00:00,"Unemployment Total ",LOW,ZAR
-dbd22d6e-9dc1-4488-83db-f297b4ee5427,05/12/2026 11:00:00,Manufacturing Production Index (YoY),LOW,ZAR
 03a28ee3-e55d-4da4-aa94-ff276d6e827f,05/20/2026 08:00:00,Consumer Price Index (MoM),LOW,ZAR
 30c9aeb3-8c5f-4a5c-af73-02a2655c0e79,05/20/2026 08:00:00,Consumer Price Index (YoY),LOW,ZAR
 4afdfca8-59c5-4757-a09a-a9aeccb77a2d,05/20/2026 11:00:00,Retail Sales (YoY),LOW,ZAR
@@ -46,8 +43,8 @@ cbc907b1-6326-4d08-8f6c-5ce52b60753d,08/07/2026 06:00:00,"Gross $Gold & Forex Re
 8aa55c03-1c56-4cdd-b162-93a706b54eeb,08/11/2026 09:30:00,Unemployment Rate (%),LOW,ZAR
 789b3678-b069-447a-a559-9978ae371d48,08/11/2026 09:30:00,"Unemployment Total ",LOW,ZAR
 ef60f85a-1f26-4b04-a642-73df9a7da532,08/11/2026 11:00:00,Manufacturing Production Index (YoY),LOW,ZAR
-eb09f088-7a1e-48e2-aaab-d88b3f1c794a,08/12/2026 09:30:05,Business Confidence Index,LOW,ZAR
 1598447a-7cae-4342-a870-507087db3997,08/12/2026 09:30:05,Business Confidence Index,LOW,ZAR
+eb09f088-7a1e-48e2-aaab-d88b3f1c794a,08/12/2026 09:30:05,Business Confidence Index,LOW,ZAR
 985baec1-9598-41ea-911d-b732fb6c65da,08/19/2026 08:00:00,Consumer Price Index (MoM),LOW,ZAR
 09796575-fc3e-447f-85d2-d3a0e259ade2,08/19/2026 08:00:00,Consumer Price Index (YoY),LOW,ZAR
 f2667456-1a73-467a-92aa-b00b73047e80,08/19/2026 11:00:00,Retail Sales (YoY),LOW,ZAR

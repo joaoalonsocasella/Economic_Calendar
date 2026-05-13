@@ -1,7 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0a4fad30-6c4e-4ae6-9014-10b1a44968b9,05/12/2026 08:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-c17d0ec6-b1a3-4a39-9730-09c2de0b4d00,05/12/2026 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
-147aecb0-77c2-4128-a3eb-e8d702c9655d,05/12/2026 10:40:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy
+f01f9749-f25f-472e-932e-597bb266ab39,05/13/2026 06:00:00,ECB's Villeroy speech,HIGH,EUR,Speech,0.552,Monetary Policy
 f039c59e-fa5a-47fc-8a52-9544bea4ce20,05/13/2026 09:00:00,Employment Change (QoQ),HIGH,EUR,Release,0.765,Labor Market
 4cb825fa-f9dd-4703-8ab0-59bb025fab57,05/13/2026 09:00:00,Employment Change (YoY),HIGH,EUR,Release,0.765,Labor Market
 431ef517-7954-4a62-b571-1d23dbf431cd,05/13/2026 09:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR,Release,0.722,Growth
@@ -30,6 +28,7 @@ e267f1e0-62ac-4665-90b3-25945292eda7,05/21/2026 09:00:00,Construction Output w.d
 1c2f644c-8fe6-496e-98f3-b392c9cb43a2,05/22/2026 09:00:00,Negotiated Wage Rates (QoQ),HIGH,EUR,Release,0.765,Labor Market
 5c5875f1-3f79-450a-9ee9-6042f15408e4,05/22/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 84152969-eae1-4815-9255-5f127c7a6e5d,05/27/2026 08:00:00,EU Financial Stability Review,HIGH,EUR,Speech,0.552,Monetary Policy
+5887f99f-f285-44ae-85d9-9f258899a689,05/28/2026 00:00:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
 6c597bfd-bbb8-4bec-a280-5011e1352d7e,05/28/2026 09:00:00,Business Climate,HIGH,EUR,Release,0.595,Confidence
 d58930e3-5696-4425-8df9-7edb13658c56,05/28/2026 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 0dcb9ccb-29ea-4c6b-a9c1-f2d91da0d865,05/28/2026 09:00:00,Economic Sentiment Indicator,HIGH,EUR,Release,0.595,Confidence
