@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-dd74fc68-432d-4538-81d9-ce360b148753,05/13/2026 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy
 f9476caf-1353-4a0c-b452-3f79ac646b0c,05/14/2026 06:30:00,WPI Inflation,HIGH,INR,Release,0.19,Inflation
 3946b640-3f2e-491e-9891-441a334276ef,05/14/2026 11:00:00,Trade Deficit Government,MEDIUM,INR,Release,0.11,Trade and External
 ef6c79ba-a5d3-415e-b920-499d2a063a4b,05/15/2026 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit

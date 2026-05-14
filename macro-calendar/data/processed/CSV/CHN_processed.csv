@@ -1,6 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-c1084c33-4ce9-4761-a8f9-3b764298dd89,05/14/2026 10:00:00,M2 Money Supply (YoY),HIGH,CNY,Release,0.19,Inflation
-f1c461c6-701d-446e-9f3c-d71ed31b430b,05/14/2026 10:00:00,New Loans,LOW,CNY,Release,0.09,Money and Credit
+c1084c33-4ce9-4761-a8f9-3b764298dd89,05/14/2026 09:00:00,M2 Money Supply (YoY),HIGH,CNY,Release,0.19,Inflation
+f1c461c6-701d-446e-9f3c-d71ed31b430b,05/14/2026 09:00:00,New Loans,LOW,CNY,Release,0.09,Money and Credit
 3809f7f7-f2bb-4b93-8082-206aaccfcc02,05/18/2026 01:30:00,House Price Index ,LOW,CNY,Release,0.07,Housing
 9d6238cb-db80-4b8a-bcb8-b2455b2e1c7e,05/18/2026 02:00:00,Fixed Asset Investment (YTD) (YoY),HIGH,CNY,Release,0.17,Growth
 92cc5b85-c084-481e-9c45-f909360d8ab0,05/18/2026 02:00:00,Industrial Production (YoY),HIGH,CNY,Release,0.17,Growth
