@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0f34b50c-31b1-4142-b680-3cc2d0b95b21,05/14/2026 23:50:00,Producer Price Index (MoM),HIGH,JPY,Release,0.19,Inflation
-ac38eee0-1714-4dcf-a736-6a9c360d5971,05/14/2026 23:50:00,Producer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
 e1b8bf62-4c99-4c2f-81f5-1a47c38c5a27,05/15/2026 06:00:00,Machine Tool Orders (YoY),HIGH,JPY,Release,0.17,Growth
 f5f9a10b-0b7f-41a7-9770-b3aa190078e7,05/15/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
 a7b1710e-2122-45df-b702-c126dda62e13,05/18/2026 23:50:00,Gross Domestic Product (QoQ),HIGH,JPY,Release,0.17,Growth

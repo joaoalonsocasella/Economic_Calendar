@@ -1,22 +1,4 @@
 Id,Start,Name,Impact,Currency
-3e4491d6-d9b4-425b-b3e5-0c4d485bc185,05/14/2026 12:30:00,Continuing Jobless Claims,LOW,USD
-b5d7d765-e7c6-41d0-ad23-6cb8f3885b67,05/14/2026 12:30:00,Export Price Index (MoM),LOW,USD
-f01234a6-e20a-45a0-9123-88d6420d32f3,05/14/2026 12:30:00,Export Price Index (YoY),LOW,USD
-674df425-209e-4c2d-b0cd-099504d2354d,05/14/2026 12:30:00,Import Price Index (MoM),LOW,USD
-e3d6fb76-8f16-4af3-ac30-0932e1d1b00b,05/14/2026 12:30:00,Import Price Index (YoY),LOW,USD
-e20aff1f-f06d-4221-8ff4-1c7164c0bd64,05/14/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
-35bbb452-bb0d-404e-9fff-933ed3b0348f,05/14/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
-3974ef5f-1521-4350-ab73-cdaeed64094d,05/14/2026 12:30:00,Retail Sales (MoM),HIGH,USD
-438e914e-7101-4196-a1f8-11a4624f7c5a,05/14/2026 12:30:00,Retail Sales (YoY),LOW,USD
-7348cf6e-cb69-4ccd-94e1-e13dbf381a0b,05/14/2026 12:30:00,Retail Sales Control Group,HIGH,USD
-246177e8-7ce0-4768-a5ff-bca7e1fe7610,05/14/2026 12:30:00,Retail Sales ex Autos (MoM),MEDIUM,USD
-c1af0060-79c7-47a2-8a56-6ac3b9a15daf,05/14/2026 14:00:00,Business Inventories,LOW,USD
-bcf27720-223d-48a9-8147-f9678ec2999a,05/14/2026 14:15:00,Fed's Schmid speech,MEDIUM,USD
-6612b2fc-c0df-4cdd-802b-14a0bd2f4146,05/14/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
-00d92946-1518-4f9b-8247-d9279eee7d60,05/14/2026 15:30:00,4-Week Bill Auction,LOW,USD
-6dd156f9-a682-4ab6-abce-c250b354719d,05/14/2026 17:00:00,Fed's Hammack speech,MEDIUM,USD
-c0101431-d732-408b-bcee-c577c9e74000,05/14/2026 21:45:00,Fed's Williams speech,MEDIUM,USD
-e25b1d53-7ec3-45b0-bcb5-49eb7dac5c3d,05/14/2026 23:00:00,Fed's Barr speech,MEDIUM,USD
 7ab942c1-6ea1-4df7-b06d-d3d661cc52c7,05/15/2026 12:30:00,NY Empire State Manufacturing Index,MEDIUM,USD
 3204113b-3bd9-49fb-a91b-4c9a886608d6,05/15/2026 13:15:00,Capacity Utilization,LOW,USD
 68dc3441-3e80-46f8-959b-f997b6513508,05/15/2026 13:15:00,Industrial Production (MoM),MEDIUM,USD
@@ -29,12 +11,14 @@ dd52add2-41c6-4eb6-9453-d3c0e6c09b20,05/15/2026 19:30:00,CFTC S&P 500 NC Net Pos
 0d7bb512-5fca-4908-9f44-b1160873d80f,05/18/2026 15:30:00,6-Month Bill Auction,LOW,USD
 3f086e1c-3034-42ca-949d-2e6c54677760,05/18/2026 20:00:00,Net Long-Term TIC Flows,LOW,USD
 9385644e-8ef0-4752-9107-9ca77ee64e8b,05/18/2026 20:00:00,Total Net TIC Flows,LOW,USD
+5208cfee-4a68-4d35-8180-8dab99ec7756,05/19/2026 06:00:00,Fed's Waller speech,MEDIUM,USD
 0283a6ec-e2b3-4def-8d4b-d5588bc84dd6,05/19/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 1ce6e235-6bda-4ea1-bb31-23dab8775bfb,05/19/2026 12:55:00,Redbook Index (YoY),LOW,USD
 a3b1c9af-677b-459b-8f74-85a6bc34c116,05/19/2026 14:00:00,Pending Home Sales (MoM),MEDIUM,USD
 2d0d862e-c1b4-41c7-b519-978d2186938d,05/19/2026 14:00:00,Pending Home Sales (YoY),LOW,USD
 e6ded832-7a45-4664-bee6-aa80235d91e4,05/19/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
 bb238e59-412d-4ae5-a2d5-9f5ce01fc6ba,05/19/2026 23:00:00,Fed's Paulson speech,MEDIUM,USD
+0315975a-5cc6-45ad-852e-b58478a13cb1,05/20/2026 07:15:00,Fed's Barr speech,MEDIUM,USD
 2a66fdd8-e61a-430c-ad2d-901d2d3d4676,05/20/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 845ac1c9-916e-4a48-892a-9a19a1a2c7e8,05/20/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
 879cc63a-cc32-47aa-8887-d282b75914bb,05/20/2026 17:00:00,20-Year Bond Auction,LOW,USD
@@ -54,6 +38,7 @@ bf97f7f2-3ea2-49fc-96e2-e08c8ceecb4c,05/21/2026 13:45:00,S&P Global Services PMI
 4a6e2ca1-ca2d-4f14-9c45-f61477fc7543,05/21/2026 15:00:00,Kansas Fed Manufacturing Activity,LOW,USD
 a02d4e0c-0617-4a62-89ff-25f3acb33eb8,05/21/2026 15:30:00,4-Week Bill Auction,LOW,USD
 f3825610-0755-4a09-940d-13f59eaef8c9,05/21/2026 17:00:00,10-year TIPS Auction,LOW,USD
+6201ef12-f425-495b-beee-ed5e39db1d0e,05/22/2026 08:00:00,Fed's Waller speech,MEDIUM,USD
 7d61b1cc-07e6-4bc1-a3b3-a66dcb888d6f,05/22/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
 ee2485e3-1a62-4c24-943b-20397e9adf71,05/22/2026 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD
 64be26f3-cafe-4165-b8eb-c8b1234d51e6,05/22/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
