@@ -1,11 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-7ab942c1-6ea1-4df7-b06d-d3d661cc52c7,05/15/2026 12:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
-3204113b-3bd9-49fb-a91b-4c9a886608d6,05/15/2026 13:15:00,Capacity Utilization,HIGH,USD,Release,0.2,Monetary Policy
-68dc3441-3e80-46f8-959b-f997b6513508,05/15/2026 13:15:00,Industrial Production (MoM),HIGH,USD,Release,0.17,Growth
-c6f25baf-99f9-452e-a9e9-d86844011abc,05/15/2026 17:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
-a6add21a-1b8e-4b41-b23d-83668b830396,05/15/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-59b5c94f-c6f3-4195-8f67-7b0d6b7701f4,05/15/2026 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-dd52add2-41c6-4eb6-9453-d3c0e6c09b20,05/15/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 5e5da102-976a-42d8-949c-721c6beb9a20,05/18/2026 14:00:00,NAHB Housing Market Index,LOW,USD,Release,0.07,Housing
 3a2a61bb-6341-475c-8708-657ee3fc9cd0,05/18/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 0d7bb512-5fca-4908-9f44-b1160873d80f,05/18/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
