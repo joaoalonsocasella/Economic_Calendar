@@ -1,6 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-019c08c0-2544-4915-9368-237a118014df,05/17/2026 23:01:00,Rightmove House Price Index (MoM),LOW,GBP,Release,0.07,Housing
-be29510f-5d12-453d-b327-650ee3e24d29,05/17/2026 23:01:00,Rightmove House Price Index (YoY),LOW,GBP,Release,0.07,Housing
+46e60d6d-169b-454c-82c5-4a73af5bf65e,05/18/2026 05:30:00,BoE's Breeden speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 f45caf05-d8ea-43ec-98aa-1be50411a8c5,05/18/2026 07:35:00,BoE's Greene speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 8db745e0-689f-47c9-ac0a-72393b3acb06,05/18/2026 08:30:00,BoE's Mann speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 a52b0088-4ba3-44af-a2bc-618f595970f5,05/19/2026 06:00:00,Average Earnings Excluding Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market

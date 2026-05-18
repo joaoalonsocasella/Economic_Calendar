@@ -30,6 +30,7 @@ bf97f7f2-3ea2-49fc-96e2-e08c8ceecb4c,05/21/2026 13:45:00,S&P Global Services PMI
 3272bc85-97d6-4413-8e7f-9f9bb74ed32c,05/21/2026 14:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 4a6e2ca1-ca2d-4f14-9c45-f61477fc7543,05/21/2026 15:00:00,Kansas Fed Manufacturing Activity,HIGH,USD,Release,0.17,Growth
 a02d4e0c-0617-4a62-89ff-25f3acb33eb8,05/21/2026 15:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
+a3162aa6-7d05-4f40-b515-38458c4a37d9,05/21/2026 16:30:00,Fed's Barkin speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 f3825610-0755-4a09-940d-13f59eaef8c9,05/21/2026 17:00:00,10-year TIPS Auction,LOW,USD,Release,0.09,Money and Credit
 6201ef12-f425-495b-beee-ed5e39db1d0e,05/22/2026 08:00:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 7d61b1cc-07e6-4bc1-a3b3-a66dcb888d6f,05/22/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
@@ -75,6 +76,7 @@ abb1d71d-bc9e-4e66-94b8-33cb3c60b8ec,05/28/2026 12:30:00,Personal Consumption Ex
 6798d4c2-4c8e-42e8-b414-53a27876d171,05/28/2026 12:30:00,Personal Consumption Expenditures Prices (QoQ),HIGH,USD,Release,0.17,Growth
 84d70920-70c8-4fed-ac92-f3538fcdb036,05/28/2026 12:30:00,Personal Income (MoM),HIGH,USD,Release,0.17,Growth
 d3b31367-1c51-4f2b-ae8f-1e73b1b5ac09,05/28/2026 12:30:00,Personal Spending,HIGH,USD,Release,0.17,Growth
+e28d4aaa-2d77-4691-a9fb-c600a8286c6a,05/28/2026 12:55:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
 da407e9d-0572-4b0c-bcff-56954a8c0516,05/28/2026 14:00:00,New Home Sales (MoM),LOW,USD,Release,0.07,Housing
 37dee026-22bd-4a38-a4ca-6d4f4fb72850,05/28/2026 14:00:00,New Home Sales Change (MoM),LOW,USD,Release,0.07,Housing
 974ade80-4a9a-4538-bf81-2f9ae3f89df1,05/28/2026 14:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
@@ -83,6 +85,7 @@ c65c497d-c777-4cb3-8700-fa220f368d57,05/28/2026 15:30:00,4-Week Bill Auction,LOW
 63f43bad-dd1f-4aa6-a18b-b1fa6f32e298,05/28/2026 17:00:00,7-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 936262b2-d751-461b-9e58-54a373f34fbf,05/29/2026 12:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 7dceb1b0-32e0-4742-a935-87a4c50bc50e,05/29/2026 12:30:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
+54e8e2bf-5b08-4990-be3b-f0e189b14f37,05/29/2026 13:15:00,Fed's Paulson speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 f1a9c433-b28c-4b40-9788-dc61ddbcd679,05/29/2026 13:45:00,Chicago PMI,MEDIUM,USD,Release,0.14,Confidence
 663824c2-7083-4a3a-aa94-24ed8ba38938,05/29/2026 17:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
 f25acb3f-7dee-45b5-9eba-e71e8a03a921,05/29/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
