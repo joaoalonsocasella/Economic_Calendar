@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-ee3975d8-dbeb-456e-9936-10fc7f9200c3,05/18/2026 22:45:00,Electronic Card Retail Sales  (MoM),HIGH,NZD,Release,0.17,Growth
-1d22279b-566d-4acd-a4f9-397883e66da8,05/18/2026 22:45:00,Electronic Card Retail Sales (YoY),HIGH,NZD,Release,0.17,Growth
-48b8faa6-c1c3-48a0-89c6-47cbbde1e158,05/18/2026 22:45:00,Producer Price Index - Input (QoQ),HIGH,NZD,Release,0.19,Inflation
-51569ce1-c403-44bf-a843-0fa8be99ff4a,05/18/2026 22:45:00,Producer Price Index - Output (QoQ),HIGH,NZD,Release,0.19,Inflation
 fb6e0536-e281-4f56-bf0c-27f3d09305ae,05/19/2026 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 aa4ccf44-df12-4982-a01c-18d69c6102e6,05/20/2026 22:45:00,Exports,MEDIUM,NZD,Release,0.11,Trade and External
 d398e6ad-4bb1-42d4-abaa-1cf5ecfc7d4e,05/20/2026 22:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External
@@ -19,8 +15,8 @@ a20d8f70-c28a-4245-bbc5-9ad805da3e6c,05/28/2026 01:00:00,ANZ Activity Outlook,ME
 2128b07f-078a-442c-b6af-dd1b2bdbd7fb,05/28/2026 01:00:00,ANZ Business Confidence,MEDIUM,NZD,Release,0.14,Confidence
 23cfd478-1fda-4aa2-8442-80af3349b499,05/28/2026 02:00:00,Budget Release,HIGH,NZD,Release,0.2,Monetary Policy
 8e1f99db-0bf0-46ac-80f1-9405d137a837,05/28/2026 22:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Release,0.14,Confidence
-33d1881f-46af-488c-ab09-4466defe1f57,06/01/2026 22:45:00,Building Permits s.a. (MoM),LOW,NZD,Release,0.07,Housing
 6a4e029e-c9bb-4be5-8c2b-18fde601aad5,06/02/2026 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
+33d1881f-46af-488c-ab09-4466defe1f57,06/02/2026 22:45:00,Building Permits s.a. (MoM),LOW,NZD,Release,0.07,Housing
 d0e43bf2-e0ae-4ad2-b47a-97b7273aa162,06/02/2026 22:45:00,Terms of Trade Index,MEDIUM,NZD,Release,0.11,Trade and External
 a164f9cc-7927-440a-98dd-86e1fc5b0813,06/04/2026 01:00:00,ANZ Commodity Price,MEDIUM,NZD,Release,0.14,Confidence
 6d2f6246-1786-423c-ad53-48d3b7bc0e3b,06/09/2026 22:45:00,Manufacturing Sales,HIGH,NZD,Release,0.17,Growth

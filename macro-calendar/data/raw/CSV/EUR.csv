@@ -1,7 +1,4 @@
 Id,Start,Name,Impact,Currency
-4fd3f883-1698-40c5-8664-87b0cd546979,05/18/2026 00:00:00,G7 Meeting,HIGH,EUR
-1d57223e-a95d-485e-abd8-dc812e5db08d,05/18/2026 06:12:00,ECB's President Lagarde speech,HIGH,EUR
-c216df58-2202-48d0-941d-3a4c3371b0ae,05/18/2026 07:30:00,ECB's Elderson speech,MEDIUM,EUR
 7db4cc86-2b57-4cbe-b401-a3eba75d0f78,05/19/2026 00:00:00,G7 Meeting,HIGH,EUR
 67989320-e1dd-4e21-9070-ce6915828074,05/19/2026 09:00:00,Trade Balance n.s.a.,LOW,EUR
 c22e83fd-3d11-45fc-a428-6e23078f2a7c,05/19/2026 09:00:00,Trade Balance s.a.,LOW,EUR
@@ -40,21 +37,21 @@ e89b0280-ab18-49c9-85d8-10d3bd32adf3,05/29/2026 08:00:00,M3 Money Supply (YoY),L
 a2f73708-cc6e-4aea-9aac-6c01c8171daa,05/29/2026 08:00:00,Private Loans (YoY),LOW,EUR
 b601f304-bf98-426c-a8f5-2b518de6b938,05/29/2026 19:30:00,CFTC EUR NC Net Positions,LOW,EUR
 34def57a-4eb9-4885-a268-fd7e719f1b07,06/01/2026 08:00:00,HCOB Manufacturing PMI,LOW,EUR
-a17475b6-16ca-4448-ad17-ac9d033de5a4,06/01/2026 09:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR
-1ee274dc-5997-4fbb-8121-246cbab9350b,06/01/2026 09:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR
-24a71c79-04ed-43ec-9ff3-e7de986d8093,06/01/2026 09:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR
-437aed11-b83b-47c7-b4ff-3613a2e2088d,06/01/2026 09:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
-50f46035-52c1-4b55-a999-1a5f3d686e07,06/02/2026 09:00:00,Unemployment Rate,MEDIUM,EUR
+50f46035-52c1-4b55-a999-1a5f3d686e07,06/01/2026 09:00:00,Unemployment Rate,MEDIUM,EUR
+a17475b6-16ca-4448-ad17-ac9d033de5a4,06/02/2026 09:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR
+1ee274dc-5997-4fbb-8121-246cbab9350b,06/02/2026 09:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+24a71c79-04ed-43ec-9ff3-e7de986d8093,06/02/2026 09:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR
+437aed11-b83b-47c7-b4ff-3613a2e2088d,06/02/2026 09:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
 db0f4c18-59c5-4f72-9d7c-14bc2561bd64,06/03/2026 08:00:00,HCOB Composite PMI,MEDIUM,EUR
 3d7f52af-de98-4f63-bce4-8516c4f7b251,06/03/2026 08:00:00,HCOB Services PMI,LOW,EUR
-5c685cec-b387-4b13-99da-7cb189d972d9,06/04/2026 09:00:00,Producer Price Index (MoM),MEDIUM,EUR
-27350100-a567-41ab-9466-76d7aa29c16e,06/04/2026 09:00:00,Producer Price Index (YoY),MEDIUM,EUR
+5c685cec-b387-4b13-99da-7cb189d972d9,06/03/2026 09:00:00,Producer Price Index (MoM),MEDIUM,EUR
+27350100-a567-41ab-9466-76d7aa29c16e,06/03/2026 09:00:00,Producer Price Index (YoY),MEDIUM,EUR
 82a6b209-4be0-468a-9986-6f199e105b13,06/04/2026 10:00:00,Retail Sales (MoM),MEDIUM,EUR
 b991c0bc-5498-4637-870e-46a526552375,06/04/2026 10:00:00,Retail Sales (YoY),HIGH,EUR
-03e2acdb-335f-4e37-835e-2e06f96d9642,06/05/2026 10:00:00,Employment Change (QoQ),MEDIUM,EUR
-fc48e598-360d-4b88-86f9-376bdd3f82b7,06/05/2026 10:00:00,Employment Change (YoY),LOW,EUR
-ae9b3356-bde8-405b-b4da-d19682ecee73,06/05/2026 10:00:00,Gross Domestic Product s.a. (QoQ),MEDIUM,EUR
-e6deb848-8506-4fb8-b7e6-a3bee3eee582,06/05/2026 10:00:00,Gross Domestic Product s.a. (YoY),MEDIUM,EUR
+03e2acdb-335f-4e37-835e-2e06f96d9642,06/05/2026 09:00:00,Employment Change (QoQ),MEDIUM,EUR
+fc48e598-360d-4b88-86f9-376bdd3f82b7,06/05/2026 09:00:00,Employment Change (YoY),LOW,EUR
+ae9b3356-bde8-405b-b4da-d19682ecee73,06/05/2026 09:00:00,Gross Domestic Product s.a. (QoQ),MEDIUM,EUR
+e6deb848-8506-4fb8-b7e6-a3bee3eee582,06/05/2026 09:00:00,Gross Domestic Product s.a. (YoY),MEDIUM,EUR
 4b5fc7f6-f073-45bd-b613-1abc31192836,06/05/2026 19:30:00,CFTC EUR NC Net Positions,LOW,EUR
 de6606c7-d647-4048-be89-9481ccf5458b,06/08/2026 08:30:00,Sentix Investor Confidence,MEDIUM,EUR
 ab92462e-7957-4f2f-9261-e503a955ac24,06/11/2026 12:15:00,ECB Main Refinancing Operations Rate,HIGH,EUR

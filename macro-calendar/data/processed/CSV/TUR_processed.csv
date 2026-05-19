@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-b55e8f28-d70b-4f54-80e3-5716b691dd04,05/18/2026 07:00:00,Consumer Confidence,MEDIUM,TRY,Release,0.14,Confidence
 ed714bc9-6882-4dc2-bcdd-9dc364cbea8c,05/21/2026 11:00:00,CBRT Quarterly Inflation Report,HIGH,TRY,Release,0.19,Inflation
 4dd432b5-4886-44c3-9ec8-aea93e63d5ab,05/22/2026 07:00:00,Capacity Utilization,HIGH,TRY,Release,0.2,Monetary Policy
 8c1ac464-eed4-4d77-bb34-b80c798578bf,05/22/2026 07:00:00,Manufacturing Confidence,MEDIUM,TRY,Release,0.14,Confidence
@@ -9,10 +8,10 @@ ed714bc9-6882-4dc2-bcdd-9dc364cbea8c,05/21/2026 11:00:00,CBRT Quarterly Inflatio
 d64d05c1-3f5f-44ee-8625-2999d5050813,05/29/2026 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
 34be8299-5656-49ac-b5cb-e5296b411c35,06/01/2026 07:00:00,Quarterly Gross Domestic Product,HIGH,TRY,Release,0.17,Growth
 7a29a5da-8396-4b28-99a9-48ddf7752596,06/02/2026 07:00:00,Exports,MEDIUM,TRY,Release,0.11,Trade and External
-a5c9e11e-8762-44f2-897f-2a56b96995a0,06/03/2026 07:00:00,Consumer Price Index (MoM),HIGH,TRY,Release,0.19,Inflation
-bb1d78da-3e98-42be-a31d-d75017486107,06/03/2026 07:00:00,Consumer Price Index (YoY),HIGH,TRY,Release,0.19,Inflation
-32c6824f-c81d-482c-95a1-be2866639a07,06/03/2026 07:00:00,Producer Price Index (MoM),HIGH,TRY,Release,0.19,Inflation
-4f62222a-e3b3-4763-bf06-a0fa5cc54ecf,06/03/2026 07:00:00,Producer Price Index (YoY),HIGH,TRY,Release,0.19,Inflation
+a5c9e11e-8762-44f2-897f-2a56b96995a0,06/05/2026 07:00:00,Consumer Price Index (MoM),HIGH,TRY,Release,0.19,Inflation
+bb1d78da-3e98-42be-a31d-d75017486107,06/05/2026 07:00:00,Consumer Price Index (YoY),HIGH,TRY,Release,0.19,Inflation
+32c6824f-c81d-482c-95a1-be2866639a07,06/05/2026 07:00:00,Producer Price Index (MoM),HIGH,TRY,Release,0.19,Inflation
+4f62222a-e3b3-4763-bf06-a0fa5cc54ecf,06/05/2026 07:00:00,Producer Price Index (YoY),HIGH,TRY,Release,0.19,Inflation
 6312f835-0411-48b7-a2b8-34dc04bded7c,06/05/2026 14:30:00,Treasury Cash Balance,MEDIUM,TRY,Release,0.11,Trade and External
 e19deda0-c329-4329-83f7-31d82a1b15d0,06/10/2026 07:00:00,Industrial Production (YoY),HIGH,TRY,Release,0.17,Growth
 b08584a7-5849-4f8b-8bbe-7d8e317deacc,06/12/2026 07:00:00,Current Account Balance,MEDIUM,TRY,Release,0.11,Trade and External

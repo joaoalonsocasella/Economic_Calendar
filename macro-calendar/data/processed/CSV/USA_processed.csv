@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-5e5da102-976a-42d8-949c-721c6beb9a20,05/18/2026 14:00:00,NAHB Housing Market Index,LOW,USD,Release,0.07,Housing
-3a2a61bb-6341-475c-8708-657ee3fc9cd0,05/18/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
-0d7bb512-5fca-4908-9f44-b1160873d80f,05/18/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
-3f086e1c-3034-42ca-949d-2e6c54677760,05/18/2026 20:00:00,Net Long-Term TIC Flows,MEDIUM,USD,Release,0.11,Trade and External
-9385644e-8ef0-4752-9107-9ca77ee64e8b,05/18/2026 20:00:00,Total Net TIC Flows,MEDIUM,USD,Release,0.11,Trade and External
 5208cfee-4a68-4d35-8180-8dab99ec7756,05/19/2026 06:00:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 0283a6ec-e2b3-4def-8d4b-d5588bc84dd6,05/19/2026 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 1ce6e235-6bda-4ea1-bb31-23dab8775bfb,05/19/2026 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
@@ -38,6 +33,7 @@ ee2485e3-1a62-4c24-943b-20397e9adf71,05/22/2026 14:00:00,Michigan Consumer Senti
 64be26f3-cafe-4165-b8eb-c8b1234d51e6,05/22/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
 ebffdf2c-03d8-4b7b-8b22-43b2e79cbfb0,05/22/2026 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
 682acea3-1ce6-4907-beb5-c2b27e46103b,05/22/2026 17:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
+f3ac9c59-c7bd-48e7-8dde-684b51cbab57,05/22/2026 17:00:00,Fed Chair Warsh swearing-in ceremony,MEDIUM,USD,Speech,0.13,Monetary Policy
 00458061-478a-466c-8515-c0105c479fbe,05/22/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 15e71d89-c60e-43a9-9c2a-ce6a558f17cf,05/22/2026 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 3fe803aa-cfff-4475-92be-0d7b87085f49,05/22/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit

@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-eea577f5-f529-434c-a92f-76ddd5f52c53,05/18/2026 08:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
-f0838e8d-e83e-4b2b-b60f-5b3259aff281,05/18/2026 08:00:00,Trade Balance EU,HIGH,EUR,Release,0.468,Trade and External
 1c60a61d-2e54-4b2b-adb1-4982533d198f,05/27/2026 08:00:00,Industrial Sales n.s.a. (YoY),HIGH,EUR,Release,0.722,Growth
 56fe5839-0c15-4422-94b3-796b30c0a586,05/27/2026 08:00:00,Industrial Sales s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 9702ba70-8b1c-46ad-85ab-590104a98cec,05/28/2026 08:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
@@ -19,8 +17,8 @@ bfa90fe6-710e-495e-8eac-694f8c5bd78b,05/29/2026 10:00:00,Gross Domestic Product 
 a6bb741e-2c22-4dad-ac05-c1786a078c89,05/29/2026 10:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
 e6182194-6322-43be-b3f8-1bcf0984667c,06/01/2026 07:45:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 3e277a87-000e-4265-909e-0804b34b0eb5,06/03/2026 07:45:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
-feaef02f-481a-4c42-9617-815896a119e2,06/05/2026 08:00:00,Retail Sales n.s.a (YoY),HIGH,EUR,Release,0.722,Growth
-3f30169f-a808-4dbf-99fb-abd4f110ebf2,06/05/2026 08:00:00,Retail Sales s.a. (MoM),HIGH,EUR,Release,0.722,Growth
+feaef02f-481a-4c42-9617-815896a119e2,06/05/2026 09:00:00,Retail Sales n.s.a (YoY),HIGH,EUR,Release,0.722,Growth
+3f30169f-a808-4dbf-99fb-abd4f110ebf2,06/05/2026 09:00:00,Retail Sales s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 64e2fd01-1a4b-429e-b8a4-defd20335dcf,06/10/2026 08:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 d4cac3bc-accc-46f9-a604-fb4a9d13e99f,06/10/2026 08:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
 209c42ee-0dbc-40ee-ac8f-284a2769e7ff,06/16/2026 08:00:00,Consumer Price Index (EU Norm) (MoM),HIGH,EUR,Release,0.807,Inflation

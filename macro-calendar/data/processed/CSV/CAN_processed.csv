@@ -18,9 +18,6 @@ f056dfe0-34de-4bec-b280-0600b5bf4884,05/19/2026 12:30:00,New Housing Price Index
 5d03de02-9854-4f4a-b549-440f0e94350a,05/29/2026 12:30:00,Gross Domestic Product (QoQ),HIGH,CAD,Release,0.17,Growth
 17bf0226-2749-4a26-bee6-01e847d101ec,05/29/2026 12:30:00,Gross Domestic Product Annualized,HIGH,CAD,Release,0.17,Growth
 e0bc64b9-c886-4202-977a-5dab927105e1,06/01/2026 13:30:00,S&P Global Manufacturing PMI,HIGH,CAD,Release,0.17,Growth
-463ddad6-87a3-4b5a-8757-fb3cdb7a2c4c,06/03/2026 12:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
-16f26fe9-aee7-4949-845e-c7d3b71b82fa,06/03/2026 12:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
-3279f3c7-5dcd-4503-b9d9-c14b98d1996a,06/03/2026 12:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
 af574237-6b41-4a47-8a1c-58a3d89b366e,06/03/2026 12:30:00,Labor Productivity (QoQ),HIGH,CAD,Release,0.18,Labor Market
 097639e0-0c55-413c-b708-e42bd80fca40,06/05/2026 12:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
 7f5aa443-3842-4376-ad25-49f5e28ebde2,06/05/2026 12:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
@@ -28,6 +25,9 @@ ec230af6-9bce-4c70-b05c-fa81acec4b32,06/05/2026 12:30:00,Participation Rate,HIGH
 9ca4ff98-fdd0-4c2b-b29d-6c9825903f8a,06/05/2026 12:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
 ef027114-7039-4498-a4ba-f652fae9715c,06/05/2026 14:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD,Release,0.14,Confidence
 07698534-9f94-4f1c-b363-40178b42a2c4,06/05/2026 14:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD,Release,0.14,Confidence
+463ddad6-87a3-4b5a-8757-fb3cdb7a2c4c,06/09/2026 12:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
+16f26fe9-aee7-4949-845e-c7d3b71b82fa,06/09/2026 12:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
+3279f3c7-5dcd-4503-b9d9-c14b98d1996a,06/09/2026 12:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
 a5c47c74-ac36-47fb-9dde-b119c2d0cb20,06/10/2026 13:45:00,BoC Interest Rate Decision,MEDIUM,CAD,Speech,0.13,Monetary Policy
 9dc640a3-f167-491a-a2b7-d1e998645bd8,06/10/2026 13:45:00,BoC Monetary Policy Statement,MEDIUM,CAD,Speech,0.13,Monetary Policy
 c4e96662-a270-404a-a91f-93c1178d31d8,06/10/2026 14:30:00,BoC Press Conference,MEDIUM,CAD,Speech,0.13,Monetary Policy
