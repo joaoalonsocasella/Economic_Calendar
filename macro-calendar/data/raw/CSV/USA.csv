@@ -1,11 +1,4 @@
 Id,Start,Name,Impact,Currency
-5208cfee-4a68-4d35-8180-8dab99ec7756,05/19/2026 06:00:00,Fed's Waller speech,MEDIUM,USD
-0283a6ec-e2b3-4def-8d4b-d5588bc84dd6,05/19/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
-1ce6e235-6bda-4ea1-bb31-23dab8775bfb,05/19/2026 12:55:00,Redbook Index (YoY),LOW,USD
-a3b1c9af-677b-459b-8f74-85a6bc34c116,05/19/2026 14:00:00,Pending Home Sales (MoM),MEDIUM,USD
-2d0d862e-c1b4-41c7-b519-978d2186938d,05/19/2026 14:00:00,Pending Home Sales (YoY),LOW,USD
-e6ded832-7a45-4664-bee6-aa80235d91e4,05/19/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
-bb238e59-412d-4ae5-a2d5-9f5ce01fc6ba,05/19/2026 23:00:00,Fed's Paulson speech,MEDIUM,USD
 0315975a-5cc6-45ad-852e-b58478a13cb1,05/20/2026 07:15:00,Fed's Barr speech,MEDIUM,USD
 2a66fdd8-e61a-430c-ad2d-901d2d3d4676,05/20/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 845ac1c9-916e-4a48-892a-9a19a1a2c7e8,05/20/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
@@ -37,7 +30,6 @@ f3ac9c59-c7bd-48e7-8dde-684b51cbab57,05/22/2026 17:00:00,Fed Chair Warsh swearin
 00458061-478a-466c-8515-c0105c479fbe,05/22/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD
 15e71d89-c60e-43a9-9c2a-ce6a558f17cf,05/22/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 3fe803aa-cfff-4475-92be-0d7b87085f49,05/22/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
-a58b69d7-43c7-45e5-8006-700f41186071,05/26/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 df20251f-9365-4ebb-979f-210d267e3101,05/26/2026 12:30:00,"Chicago Fed National Activity Index ",LOW,USD
 438d7af4-4c00-40fe-af90-502e762f6dac,05/26/2026 13:00:00,Housing Price Index (MoM),MEDIUM,USD
 84fec3a0-3f25-44d8-8574-c002f68d2942,05/26/2026 13:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD
@@ -49,6 +41,7 @@ d72a8a1c-3167-4914-b79c-bf45ded907e6,05/26/2026 15:30:00,6-Month Bill Auction,LO
 13f723e6-2818-4895-8dd5-268ab2bd1a9d,05/27/2026 00:20:00,Fed's Kashkari speech,MEDIUM,USD
 cca87414-c4f7-4336-abc9-a1355440cadf,05/27/2026 08:00:00,Fed's Logan speech,MEDIUM,USD
 9afc4c1b-9e9c-4331-863e-0a880cc6bc8f,05/27/2026 11:00:00,MBA Mortgage Applications,LOW,USD
+a58b69d7-43c7-45e5-8006-700f41186071,05/27/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 693e1148-6320-44e4-81c0-fd8844d49fe8,05/27/2026 12:55:00,Redbook Index (YoY),LOW,USD
 4b431de4-7bd4-4073-9c72-53d953c8b24f,05/27/2026 14:00:00,Richmond Fed Manufacturing Index,LOW,USD
 9db123ab-47b2-4e2c-9d90-7eb897d98c14,05/27/2026 17:00:00,5-Year Note Auction,LOW,USD
