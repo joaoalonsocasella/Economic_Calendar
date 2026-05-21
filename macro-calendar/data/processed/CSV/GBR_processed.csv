@@ -1,20 +1,9 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-f7a6424b-4e08-4c86-b836-85f3c9a6efed,05/20/2026 06:00:00,Consumer Price Index (MoM),HIGH,GBP,Release,0.19,Inflation
-ff25baf0-2dab-4b2e-9502-18abb9af497b,05/20/2026 06:00:00,Consumer Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
-b7a5279b-3de5-4e13-a0bb-592b177848f8,05/20/2026 06:00:00,Core Consumer Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
-021b305c-ae6e-4e72-b06a-4af1420ef523,05/20/2026 06:00:00,PPI Core Output (MoM) n.s.a,HIGH,GBP,Release,0.19,Inflation
-e40ea5bf-7914-4a1f-bc9a-09ae12267b9f,05/20/2026 06:00:00,PPI Core Output (YoY) n.s.a ,HIGH,GBP,Release,0.19,Inflation
-6c0b19f5-6ee4-4a5e-b218-75d5aecfc989,05/20/2026 06:00:00,Producer Price Index - Input (MoM) n.s.a,HIGH,GBP,Release,0.19,Inflation
-c4098d0a-ca4a-47ee-8a1f-6c249555870f,05/20/2026 06:00:00,Producer Price Index - Input (YoY) n.s.a,HIGH,GBP,Release,0.19,Inflation
-4f5ff6f1-8d77-4ccc-a32c-95adc92e90a0,05/20/2026 06:00:00,Producer Price Index - Output (MoM) n.s.a,HIGH,GBP,Release,0.19,Inflation
-842792c2-42da-42d2-9760-b48ec9f21a08,05/20/2026 06:00:00,Producer Price Index - Output (YoY) n.s.a,HIGH,GBP,Release,0.19,Inflation
-08c51755-78e2-47d2-88bd-11d50d0baf20,05/20/2026 06:00:00,Retail Price Index (MoM),HIGH,GBP,Release,0.19,Inflation
-33982279-6528-40d5-b373-111e7dc670bf,05/20/2026 06:00:00,Retail Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
-cc17ccaf-c891-487c-96ea-1a9280581490,05/20/2026 08:30:00,DCLG House Price Index (YoY),LOW,GBP,Release,0.07,Housing
 0f77311a-5174-4333-b0cb-87b1ee705192,05/21/2026 08:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
 22eb93ef-4bfc-4236-a1cb-c5e6d75205b1,05/21/2026 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
 397b7753-5b79-4513-a1e3-2638b68a6adf,05/21/2026 08:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
 2afbfb47-4e2f-4395-ba0e-6aa9ad7f1f0d,05/21/2026 12:00:00,BoE's Taylor speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
+6591b2f1-fce2-469f-b5ac-373a67290d00,05/21/2026 15:00:00,BoE's Governor Bailey speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 a711c212-3fc0-4447-bdd0-9d0b7d533d85,05/21/2026 23:01:00,GfK Consumer Confidence,MEDIUM,GBP,Release,0.14,Confidence
 b00c99ad-c857-4b5b-a844-b281c4172e87,05/22/2026 06:00:00,Public Sector Net Borrowing,LOW,GBP,Release,0.09,Money and Credit
 e301abbc-5bc1-462f-8c1b-804889efb09c,05/22/2026 06:00:00,Retail Sales (MoM),HIGH,GBP,Release,0.17,Growth
