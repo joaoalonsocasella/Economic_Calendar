@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0f77311a-5174-4333-b0cb-87b1ee705192,05/21/2026 08:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
-22eb93ef-4bfc-4236-a1cb-c5e6d75205b1,05/21/2026 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
-397b7753-5b79-4513-a1e3-2638b68a6adf,05/21/2026 08:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
-2afbfb47-4e2f-4395-ba0e-6aa9ad7f1f0d,05/21/2026 12:00:00,BoE's Taylor speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
-6591b2f1-fce2-469f-b5ac-373a67290d00,05/21/2026 15:00:00,BoE's Governor Bailey speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
-a711c212-3fc0-4447-bdd0-9d0b7d533d85,05/21/2026 23:01:00,GfK Consumer Confidence,MEDIUM,GBP,Release,0.14,Confidence
 b00c99ad-c857-4b5b-a844-b281c4172e87,05/22/2026 06:00:00,Public Sector Net Borrowing,LOW,GBP,Release,0.09,Money and Credit
 e301abbc-5bc1-462f-8c1b-804889efb09c,05/22/2026 06:00:00,Retail Sales (MoM),HIGH,GBP,Release,0.17,Growth
 ca562839-b9bf-42be-a5e4-e4db1c36784e,05/22/2026 06:00:00,Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
@@ -12,9 +6,11 @@ fc3e9a6a-d03f-409f-ba85-50833a7013f2,05/22/2026 06:00:00,Retail Sales ex-Fuel (M
 f902effe-8fef-4f0a-8365-e7aa595ee3a4,05/22/2026 06:00:00,Retail Sales ex-Fuel (YoY),HIGH,GBP,Release,0.17,Growth
 5abada10-08df-4366-98a5-977892eb048e,05/22/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 48860819-7cac-4c0d-b814-fe052089c5cb,05/28/2026 02:25:00,BoE's Lombardelli speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
+3ca95ee5-7fc7-4738-8f7c-1a16714392e4,05/28/2026 15:40:00,BoE's Breeden speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 c385a895-8942-46df-bb4f-7d7797d4b438,05/28/2026 23:01:00,BRC Shop Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
 1ec1fd6f-dd77-436b-abd2-ae1b91c2e56b,05/29/2026 06:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP,Release,0.07,Housing
 a6503154-bb47-4023-9d6e-69d070c3a58d,05/29/2026 06:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP,Release,0.07,Housing
+b70a2aa3-4375-40c3-8c55-089ec8ab4582,05/29/2026 08:20:00,BoE's Governor Bailey speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 92bc079e-8972-456f-99dd-f71e6b70a633,05/29/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 22b3a5ad-9a2e-431c-960e-d530b5196248,06/01/2026 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
 5ca919ac-17e8-426d-89c1-43e9120c2806,06/02/2026 08:30:00,Consumer Credit,MEDIUM,GBP,Release,0.14,Confidence

@@ -1,9 +1,4 @@
 Id,Start,Name,Impact,Currency
-dbfa59d9-d961-4a83-aaa9-1bf87832d755,05/21/2026 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
-bac3563b-fd32-4d18-922f-1d8a3551f0a6,05/21/2026 00:30:00,Jibun Bank Services PMI,LOW,JPY
-7228f7da-6a33-4a6c-b3de-73cbd3a3083a,05/21/2026 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
-91528b3f-64d4-45fe-9ef2-d7232156fac2,05/21/2026 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
-0fb191ee-ad56-4773-963c-8803be87fdf2,05/21/2026 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
 e5d55160-2086-41b5-bc2e-d1770d892e8b,05/22/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 affdfc42-e47a-4580-9a77-ed46f396b1ee,05/26/2026 05:00:00,Coincident Index,LOW,JPY
 676a4e09-b62c-4d7e-8e69-3afeafb9f37e,05/26/2026 05:00:00,Leading Economic Index,LOW,JPY
@@ -31,6 +26,7 @@ db53fa59-35cb-43e2-913b-24b6de75135c,06/01/2026 00:30:00,Jibun Bank Manufacturin
 096758f9-3b74-4f00-8e70-23999bc0bbf7,06/01/2026 23:50:00,Monetary Base (YoY),LOW,JPY
 7cbdcd4d-14c0-4c56-91ec-7a293d38aab2,06/02/2026 03:35:00,10-y Bond Auction,LOW,JPY
 b6c08afa-bde2-415b-8587-f4203c51d56f,06/03/2026 00:30:00,Jibun Bank Services PMI,LOW,JPY
+86094414-1239-45e8-beb8-e200ce1be7c7,06/03/2026 08:50:00,BoJ Governor Ueda speech,HIGH,JPY
 bb102755-3767-402c-8e73-85977b70b6c4,06/03/2026 23:50:00,Foreign Bond Investment,LOW,JPY
 4c7214a9-2297-46a1-9725-5f7da65ba7ca,06/03/2026 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
 20648949-63f2-47aa-a911-657ad3a8e394,06/04/2026 23:30:00,Overall Household Spending (YoY),LOW,JPY
