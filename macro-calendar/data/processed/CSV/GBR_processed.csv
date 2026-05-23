@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-b00c99ad-c857-4b5b-a844-b281c4172e87,05/22/2026 06:00:00,Public Sector Net Borrowing,LOW,GBP,Release,0.09,Money and Credit
-e301abbc-5bc1-462f-8c1b-804889efb09c,05/22/2026 06:00:00,Retail Sales (MoM),HIGH,GBP,Release,0.17,Growth
-ca562839-b9bf-42be-a5e4-e4db1c36784e,05/22/2026 06:00:00,Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
-fc3e9a6a-d03f-409f-ba85-50833a7013f2,05/22/2026 06:00:00,Retail Sales ex-Fuel (MoM),HIGH,GBP,Release,0.17,Growth
-f902effe-8fef-4f0a-8365-e7aa595ee3a4,05/22/2026 06:00:00,Retail Sales ex-Fuel (YoY),HIGH,GBP,Release,0.17,Growth
-5abada10-08df-4366-98a5-977892eb048e,05/22/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 48860819-7cac-4c0d-b814-fe052089c5cb,05/28/2026 02:25:00,BoE's Lombardelli speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 3ca95ee5-7fc7-4738-8f7c-1a16714392e4,05/28/2026 15:40:00,BoE's Breeden speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 c385a895-8942-46df-bb4f-7d7797d4b438,05/28/2026 23:01:00,BRC Shop Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
