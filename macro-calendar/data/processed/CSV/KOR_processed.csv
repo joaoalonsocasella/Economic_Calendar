@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-8eeaf1e5-94dc-4496-9dc6-bc8722c2ef32,05/26/2026 21:00:00,BOK Manufacturing BSI,HIGH,KRW,Release,0.17,Growth
 2968cbdd-46a7-4691-a716-efa73546f89f,05/28/2026 01:00:00,BoK Interest Rate Decision,HIGH,KRW,Release,0.2,Monetary Policy
 ee116592-40de-47ed-88fd-4470d9f964d5,05/28/2026 23:00:00,Industrial Output (YoY),HIGH,KRW,Release,0.17,Growth
 343c56cb-adcd-45db-b44c-cae10c500302,05/28/2026 23:00:00,Industrial Output Growth,HIGH,KRW,Release,0.17,Growth
@@ -12,7 +11,7 @@ df91fc40-b7b5-4020-8888-9a5127bdfb95,06/03/2026 21:00:00,FX Reserves,LOW,KRW,Rel
 76aa7e5c-cd06-471c-8874-6d8ccd6d64c6,06/04/2026 23:00:00,Current Account Balance,MEDIUM,KRW,Release,0.11,Trade and External
 8c17fb70-72a9-42ac-b08c-519621b65e9d,06/08/2026 23:00:00,Gross Domestic Product Growth (QoQ) ,HIGH,KRW,Release,0.17,Growth
 d3fb9ca0-58ad-4344-b92c-7f4ca5e2a970,06/08/2026 23:00:00,Gross Domestic Product Growth (YoY),HIGH,KRW,Release,0.17,Growth
-9371bc03-2739-4a9d-af1f-2898b7aa3d4f,06/09/2026 23:00:00,Unemployment Rate,HIGH,KRW,Release,0.18,Labor Market
+9371bc03-2739-4a9d-af1f-2898b7aa3d4f,06/10/2026 23:00:00,Unemployment Rate,HIGH,KRW,Release,0.18,Labor Market
 ffe974c2-a7f7-4b6a-93e8-7b9b1e4d3478,06/14/2026 23:55:00,Trade Balance,MEDIUM,KRW,Release,0.11,Trade and External
 1d3cf9f1-0e8a-4c4d-a700-cfb96d964472,06/15/2026 03:00:00,Money Supply Growth,HIGH,KRW,Release,0.2,Monetary Policy
 50ce714a-f39e-461a-8c39-013a5ba64f30,06/15/2026 21:00:00,Export Price Growth (YoY),MEDIUM,KRW,Release,0.11,Trade and External

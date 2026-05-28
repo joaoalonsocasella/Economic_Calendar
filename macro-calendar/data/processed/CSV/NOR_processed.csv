@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a08e510f-9384-43fe-ae40-2f0fce362d61,05/26/2026 06:00:00,Credit Indicator,LOW,NOK,Release,0.09,Money and Credit
 a21783d4-5feb-4207-8e2f-bada9766613c,05/28/2026 06:00:00,Gross Domestic Product Growth,LOW,NOK,Release,0.09,Money and Credit
 f0191f73-573e-4f49-b72d-5f21d9b5fd75,05/28/2026 06:00:00,Gross Domestic Product Growth Mainland,LOW,NOK,Release,0.09,Money and Credit
 cee83e88-eb8a-4ab9-8773-8d62c83e5fca,05/29/2026 06:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
@@ -7,11 +6,11 @@ cee83e88-eb8a-4ab9-8773-8d62c83e5fca,05/29/2026 06:00:00,Registered Unemployment
 379b4d21-a9fa-482d-8694-6b00d74d6164,05/29/2026 08:00:00,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
 5b26f6bb-e2cc-4180-a7ef-0297b7ec567b,06/04/2026 06:00:00,Current Account,MEDIUM,NOK,Release,0.11,Trade and External
 cd971a1b-ab3e-4dec-a55f-3ee1ff439613,06/05/2026 06:00:00,Manufacturing Output,HIGH,NOK,Release,0.17,Growth
-16ee68df-ad93-4797-ae31-4ffe2e2228fe,06/09/2026 06:00:00,Consumer Price Index (MoM),HIGH,NOK,Release,0.19,Inflation
-51989db1-8382-4d53-a699-7f27a2651ad9,06/09/2026 06:00:00,Consumer Price Index (YoY),HIGH,NOK,Release,0.19,Inflation
 c38be87e-9b7c-4df7-a17f-133ff3651e9e,06/09/2026 06:00:00,Core Inflation (MoM),HIGH,NOK,Release,0.19,Inflation
-ac83f957-6fa7-4e1c-ae50-8712462114d9,06/09/2026 06:00:00,Core Inflation (YoY),HIGH,NOK,Release,0.19,Inflation
 509d7bcc-a862-40e2-ad55-a9a1becd66ed,06/09/2026 06:00:00,Producer Price Index (YoY),HIGH,NOK,Release,0.19,Inflation
+16ee68df-ad93-4797-ae31-4ffe2e2228fe,06/10/2026 06:00:00,Consumer Price Index (MoM),HIGH,NOK,Release,0.19,Inflation
+51989db1-8382-4d53-a699-7f27a2651ad9,06/10/2026 06:00:00,Consumer Price Index (YoY),HIGH,NOK,Release,0.19,Inflation
+ac83f957-6fa7-4e1c-ae50-8712462114d9,06/10/2026 06:00:00,Core Inflation (YoY),HIGH,NOK,Release,0.19,Inflation
 bd085c37-01bb-4706-a5be-7d4650e53b05,06/15/2026 06:00:00,Trade Balance,MEDIUM,NOK,Release,0.11,Trade and External
 12ed9b1d-d35a-4744-82d8-d8d2c587290a,06/18/2026 08:00:00,Norges Bank Interest Rate Decision,HIGH,NOK,Release,0.2,Monetary Policy
 dfbced34-3aec-42fc-8166-04a10f72885b,06/22/2026 06:00:00,Credit Indicator,LOW,NOK,Release,0.09,Money and Credit

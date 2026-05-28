@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-88d9f798-68f2-4c5a-b3b2-f34358eb4e21,05/26/2026 12:30:00,Current Account,MEDIUM,BRL,Release,0.11,Trade and External
-cea6cd9b-81c1-4ae1-b77a-c6cfe3ff054f,05/27/2026 12:00:00,Mid-month Inflation,HIGH,BRL,Release,0.19,Inflation
 3032b9f0-2786-4806-8a90-239c143a04f9,05/28/2026 11:00:00,Inflation Index/IGP-M,HIGH,BRL,Release,0.19,Inflation
 fe6ef704-6b53-4425-9ecc-d86109a7c50f,05/28/2026 12:00:00,Unemployment Rate,HIGH,BRL,Release,0.18,Labor Market
 951908ea-ee50-4c24-9bc4-7d872c9227e2,05/29/2026 11:30:00,Nominal Budget Balance,MEDIUM,BRL,Release,0.11,Trade and External
@@ -12,8 +10,8 @@ a65bcc97-3098-41f6-9d43-2a9ca23d600b,06/02/2026 08:00:00,Fipe's IPC Inflation,HI
 65e686ea-7585-42da-8e6a-4a5249c4ac0b,06/03/2026 12:00:00,Industrial Output (MoM),HIGH,BRL,Release,0.17,Growth
 0bf9bf41-330c-4612-a524-e3229d3f5d9f,06/03/2026 12:00:00,Industrial Output (YoY),HIGH,BRL,Release,0.17,Growth
 ed49320c-0fd8-4cdf-a559-77cf46f545b2,06/03/2026 18:00:00,Trade Balance,MEDIUM,BRL,Release,0.11,Trade and External
-ed3e1635-42c8-40bf-afe3-cbcbb8758285,06/10/2026 12:00:00,IPCA Inflation,HIGH,BRL,Release,0.19,Inflation
-5c705c81-9930-41eb-afb6-7b09849d98cc,06/11/2026 12:00:00,Retail Sales (MoM),HIGH,BRL,Release,0.17,Growth
+ed3e1635-42c8-40bf-afe3-cbcbb8758285,06/12/2026 12:00:00,IPCA Inflation,HIGH,BRL,Release,0.19,Inflation
+5c705c81-9930-41eb-afb6-7b09849d98cc,06/16/2026 12:00:00,Retail Sales (MoM),HIGH,BRL,Release,0.17,Growth
 e1014dab-0be7-44d6-943a-4fc20313c617,06/17/2026 21:00:00,Interest Rate Decision,HIGH,BRL,Release,0.2,Monetary Policy
 ae6ff01d-fac2-4d24-87ae-bd6a73e51731,06/26/2026 12:00:00,Mid-month Inflation,HIGH,BRL,Release,0.19,Inflation
 262470d9-9fd5-4af7-bb1b-95fe16437b9f,06/26/2026 12:30:00,Current Account,MEDIUM,BRL,Release,0.11,Trade and External

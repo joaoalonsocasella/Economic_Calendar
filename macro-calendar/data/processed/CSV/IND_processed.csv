@@ -1,11 +1,11 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-de46f298-fef4-4cc9-b377-1cde5a69bc99,05/27/2026 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy
-a7979b4c-feb4-4f2f-bb62-935c878aa5d1,05/28/2026 11:30:00,Cumulative Industrial Output,HIGH,INR,Release,0.17,Growth
-ef8a6fed-6b0d-4e5a-9bd8-95cafaf0503a,05/28/2026 11:30:00,Industrial Output,HIGH,INR,Release,0.17,Growth
-12c67244-bb2b-4c75-b0a3-5711966971cd,05/28/2026 11:30:00,Manufacturing Output,HIGH,INR,Release,0.17,Growth
 4c6387b5-0642-4f82-b47e-0ec5dd68e770,05/29/2026 11:30:00,Bank Loan Growth,LOW,INR,Release,0.09,Money and Credit
 b93d1689-40cd-45bb-8d3b-d6f2bf67de84,05/29/2026 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
+de46f298-fef4-4cc9-b377-1cde5a69bc99,05/29/2026 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy
 0f0200f5-784b-427a-a0b0-51fa89861f26,06/01/2026 05:00:00,HSBC Manufacturing PMI,HIGH,INR,Release,0.17,Growth
+a7979b4c-feb4-4f2f-bb62-935c878aa5d1,06/01/2026 11:30:00,Cumulative Industrial Output,HIGH,INR,Release,0.17,Growth
+ef8a6fed-6b0d-4e5a-9bd8-95cafaf0503a,06/01/2026 11:30:00,Industrial Output,HIGH,INR,Release,0.17,Growth
+12c67244-bb2b-4c75-b0a3-5711966971cd,06/01/2026 11:30:00,Manufacturing Output,HIGH,INR,Release,0.17,Growth
 2f0a211d-ad02-4042-9713-4f827f702f78,06/03/2026 05:00:00,HSBC Composite PMI,HIGH,INR,Release,0.17,Growth
 f058a1c4-b36f-44f3-8844-ec4bd024402d,06/03/2026 05:00:00,HSBC Services PMI,HIGH,INR,Release,0.17,Growth
 7934484e-abc4-451a-aa89-00e8597995f4,06/05/2026 04:30:00,RBI Interest Rate Decision (Repo Rate),HIGH,INR,Release,0.2,Monetary Policy

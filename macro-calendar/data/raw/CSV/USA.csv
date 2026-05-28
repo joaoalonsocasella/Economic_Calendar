@@ -1,21 +1,4 @@
 Id,Start,Name,Impact,Currency
-df20251f-9365-4ebb-979f-210d267e3101,05/26/2026 12:30:00,"Chicago Fed National Activity Index ",LOW,USD
-438d7af4-4c00-40fe-af90-502e762f6dac,05/26/2026 13:00:00,Housing Price Index (MoM),MEDIUM,USD
-84fec3a0-3f25-44d8-8574-c002f68d2942,05/26/2026 13:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD
-bb52e24e-5785-4d50-b2c1-94b0421b9a17,05/26/2026 14:00:00,Consumer Confidence,MEDIUM,USD
-320f11ca-4fe7-495d-8747-68e8cb7437bf,05/26/2026 14:30:00,Dallas Fed Manufacturing Business Index,LOW,USD
-3fcd2bcf-0b05-44ce-8cd3-5b8210fe5652,05/26/2026 15:30:00,3-Month Bill Auction,LOW,USD
-d72a8a1c-3167-4914-b79c-bf45ded907e6,05/26/2026 15:30:00,6-Month Bill Auction,LOW,USD
-24956234-9f56-4d4d-baa6-763496eed3ae,05/26/2026 17:00:00,2-Year Note Auction,LOW,USD
-13f723e6-2818-4895-8dd5-268ab2bd1a9d,05/27/2026 00:20:00,Fed's Kashkari speech,MEDIUM,USD
-cca87414-c4f7-4336-abc9-a1355440cadf,05/27/2026 08:00:00,Fed's Logan speech,MEDIUM,USD
-9afc4c1b-9e9c-4331-863e-0a880cc6bc8f,05/27/2026 11:00:00,MBA Mortgage Applications,LOW,USD
-a58b69d7-43c7-45e5-8006-700f41186071,05/27/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
-693e1148-6320-44e4-81c0-fd8844d49fe8,05/27/2026 12:55:00,Redbook Index (YoY),LOW,USD
-4b431de4-7bd4-4073-9c72-53d953c8b24f,05/27/2026 14:00:00,Richmond Fed Manufacturing Index,LOW,USD
-9db123ab-47b2-4e2c-9d90-7eb897d98c14,05/27/2026 17:00:00,5-Year Note Auction,LOW,USD
-e3e379f0-5a93-408b-b00b-447a57e33250,05/27/2026 19:55:00,Fed's Cook speech,MEDIUM,USD
-909a078f-7606-4f9e-b4c2-1f0976051ae8,05/27/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
 3b95c215-34e3-460a-8763-562c4f5f2f60,05/28/2026 00:00:00,Fed's Jefferson speech,MEDIUM,USD
 e242208f-af15-4f62-9cee-8125b00713d9,05/28/2026 02:25:00,Fed's Goolsbee speech,MEDIUM,USD
 918a2d57-1eff-4370-93e2-cba2d5447b9b,05/28/2026 12:30:00,Continuing Jobless Claims,LOW,USD
@@ -43,6 +26,7 @@ da407e9d-0572-4b0c-bcff-56954a8c0516,05/28/2026 14:00:00,New Home Sales (MoM),LO
 c65c497d-c777-4cb3-8700-fa220f368d57,05/28/2026 15:30:00,4-Week Bill Auction,LOW,USD
 78676a95-74b1-4eef-afec-8338465a9b20,05/28/2026 16:00:00,EIA Crude Oil Stocks Change,LOW,USD
 63f43bad-dd1f-4aa6-a18b-b1fa6f32e298,05/28/2026 17:00:00,7-Year Note Auction,LOW,USD
+f51d34ab-6e8b-4a0f-aec4-751c404364ab,05/28/2026 17:10:00,Fed's Musalem speech,MEDIUM,USD
 f097080b-bbf5-443e-bac6-04be131fc29c,05/29/2026 10:50:00,Fed's Schmid speech,MEDIUM,USD
 936262b2-d751-461b-9e58-54a373f34fbf,05/29/2026 12:30:00,Goods Trade Balance,LOW,USD
 7dceb1b0-32e0-4742-a935-87a4c50bc50e,05/29/2026 12:30:00,Wholesale Inventories,LOW,USD
