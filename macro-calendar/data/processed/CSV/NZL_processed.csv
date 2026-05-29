@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-23cfd478-1fda-4aa2-8442-80af3349b499,05/28/2026 02:00:00,Budget Release,HIGH,NZD,Release,0.2,Monetary Policy
-8e1f99db-0bf0-46ac-80f1-9405d137a837,05/28/2026 22:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Release,0.14,Confidence
 a20d8f70-c28a-4245-bbc5-9ad805da3e6c,05/29/2026 01:00:00,ANZ Activity Outlook,MEDIUM,NZD,Release,0.14,Confidence
 2128b07f-078a-442c-b6af-dd1b2bdbd7fb,05/29/2026 01:00:00,ANZ Business Confidence,MEDIUM,NZD,Release,0.14,Confidence
 6a4e029e-c9bb-4be5-8c2b-18fde601aad5,06/02/2026 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
@@ -249,3 +247,5 @@ a95eefcf-99f5-47ab-a616-1cb31597a608,05/04/2027 22:45:00,Unemployment Rate,HIGH,
 9e57d203-abbf-4d5d-9cb9-ee8b1435d16d,05/13/2027 02:00:00,RBNZ Inflation Expectations (QoQ),HIGH,NZD,Release,0.19,Inflation
 52976e64-9bae-4fdf-87f1-1b0090396c17,05/23/2027 22:45:00,Retail Sales (QoQ),HIGH,NZD,Release,0.17,Growth
 fd0c4a1e-6270-47a2-8967-822505c4d9d8,05/23/2027 22:45:00,Retail Sales ex Autos (QoQ),HIGH,NZD,Release,0.17,Growth
+e8496869-7eb4-416b-b987-8d85df06e2eb,06/16/2027 22:45:00,Gross Domestic Product (QoQ),HIGH,NZD,Release,0.17,Growth
+f7d19f80-06cb-44a1-8b4f-80d59524403a,06/16/2027 22:45:00,Gross Domestic Product (YoY),HIGH,NZD,Release,0.17,Growth

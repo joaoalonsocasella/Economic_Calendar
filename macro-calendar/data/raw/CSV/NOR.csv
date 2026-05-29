@@ -1,9 +1,7 @@
 Id,Start,Name,Impact,Currency
-a21783d4-5feb-4207-8e2f-bada9766613c,05/28/2026 06:00:00,Gross Domestic Product Growth,LOW,NOK
-f0191f73-573e-4f49-b72d-5f21d9b5fd75,05/28/2026 06:00:00,Gross Domestic Product Growth Mainland,LOW,NOK
-cee83e88-eb8a-4ab9-8773-8d62c83e5fca,05/29/2026 06:00:00,Registered Unemployment n.s.a,LOW,NOK
 0c53414a-6073-49c4-95b0-b3ae4f6c21e3,05/29/2026 06:00:00,"Retail Sales ",LOW,NOK
-379b4d21-a9fa-482d-8694-6b00d74d6164,05/29/2026 08:00:00,Registered Unemployment s.a,LOW,NOK
+cee83e88-eb8a-4ab9-8773-8d62c83e5fca,05/29/2026 06:00:04,Registered Unemployment n.s.a,LOW,NOK
+379b4d21-a9fa-482d-8694-6b00d74d6164,05/29/2026 08:00:39,Registered Unemployment s.a,LOW,NOK
 5b26f6bb-e2cc-4180-a7ef-0297b7ec567b,06/04/2026 06:00:00,Current Account,LOW,NOK
 cd971a1b-ab3e-4dec-a55f-3ee1ff439613,06/05/2026 06:00:00,Manufacturing Output,LOW,NOK
 c38be87e-9b7c-4df7-a17f-133ff3651e9e,06/09/2026 06:00:00,Core Inflation (MoM),LOW,NOK

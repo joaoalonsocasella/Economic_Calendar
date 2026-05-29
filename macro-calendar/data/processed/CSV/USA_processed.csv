@@ -1,33 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-3b95c215-34e3-460a-8763-562c4f5f2f60,05/28/2026 00:00:00,Fed's Jefferson speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-e242208f-af15-4f62-9cee-8125b00713d9,05/28/2026 02:25:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-918a2d57-1eff-4370-93e2-cba2d5447b9b,05/28/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
-72b45e2f-53e8-417e-91f6-6c303761c752,05/28/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-6e91970f-714a-4664-b239-24f0e81e417f,05/28/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-dd2cf54a-acfe-42c9-a243-bf1b362d62e1,05/28/2026 12:30:00,Core Personal Consumption Expenditures (QoQ),HIGH,USD,Release,0.17,Growth
-add2152a-621a-4cfd-9d67-31e676bb6b6b,05/28/2026 12:30:00,Durable Goods Orders,HIGH,USD,Release,0.17,Growth
-0a73aba6-1302-462f-a18c-452b21d3a7ba,05/28/2026 12:30:00,Durable Goods Orders ex Defense,HIGH,USD,Release,0.17,Growth
-2d0a0be0-374b-4f7d-a492-6777777fd95c,05/28/2026 12:30:00,Durable Goods Orders ex Transportation,HIGH,USD,Release,0.17,Growth
-d826a493-fca0-44b9-bbf4-4233359eb1e1,05/28/2026 12:30:00,Gross Domestic Product Annualized,HIGH,USD,Release,0.17,Growth
-eef21339-0191-4dfd-8030-e7704db4d3e3,05/28/2026 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD,Release,0.11,Trade and External
-82a3fa9f-9ddb-4a79-973f-66d12c57a62d,05/28/2026 12:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
-4e7925f5-f38f-43ba-ab35-58fd93a21403,05/28/2026 12:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
-bd121abe-74f5-49f5-bbf1-b403ba662d69,05/28/2026 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD,Release,0.17,Growth
-8e91c0f8-6164-4f62-9d6b-3a0e0d3a09e1,05/28/2026 12:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-abb1d71d-bc9e-4e66-94b8-33cb3c60b8ec,05/28/2026 12:30:00,Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-6798d4c2-4c8e-42e8-b414-53a27876d171,05/28/2026 12:30:00,Personal Consumption Expenditures Prices (QoQ),HIGH,USD,Release,0.17,Growth
-84d70920-70c8-4fed-ac92-f3538fcdb036,05/28/2026 12:30:00,Personal Income (MoM),HIGH,USD,Release,0.17,Growth
-d3b31367-1c51-4f2b-ae8f-1e73b1b5ac09,05/28/2026 12:30:00,Personal Spending,HIGH,USD,Release,0.17,Growth
-e28d4aaa-2d77-4691-a9fb-c600a8286c6a,05/28/2026 12:55:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
-da407e9d-0572-4b0c-bcff-56954a8c0516,05/28/2026 14:00:00,New Home Sales (MoM),LOW,USD,Release,0.07,Housing
-37dee026-22bd-4a38-a4ca-6d4f4fb72850,05/28/2026 14:00:00,New Home Sales Change (MoM),LOW,USD,Release,0.07,Housing
-68b2b9cb-6ed8-4c89-aae1-926f39425154,05/28/2026 14:15:00,Fed's Musalem speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-974ade80-4a9a-4538-bf81-2f9ae3f89df1,05/28/2026 14:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
-c65c497d-c777-4cb3-8700-fa220f368d57,05/28/2026 15:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
-78676a95-74b1-4eef-afec-8338465a9b20,05/28/2026 16:00:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
-63f43bad-dd1f-4aa6-a18b-b1fa6f32e298,05/28/2026 17:00:00,7-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-f51d34ab-6e8b-4a0f-aec4-751c404364ab,05/28/2026 17:10:00,Fed's Musalem speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-f097080b-bbf5-443e-bac6-04be131fc29c,05/29/2026 10:50:00,Fed's Schmid speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+c738b7d5-7212-4c95-87c8-36c06fe42c80,05/29/2026 06:15:00,Fed's Kashkari speech,HIGH,USD,Release,0.2,Monetary Policy
+f097080b-bbf5-443e-bac6-04be131fc29c,05/29/2026 10:30:00,Fed's Schmid speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+64103111-2b0c-4f56-a885-97906a310f49,05/29/2026 11:45:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 936262b2-d751-461b-9e58-54a373f34fbf,05/29/2026 12:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 7dceb1b0-32e0-4742-a935-87a4c50bc50e,05/29/2026 12:30:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
 a8360636-c521-438a-b164-40b2003a9000,05/29/2026 13:10:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
@@ -55,6 +29,7 @@ be79d470-2267-4a59-b8f9-3cfdfd5deb88,06/02/2026 19:30:00,Total Vehicle Sales,HIG
 a86b766c-3415-427d-b590-e5cd8b89586a,06/02/2026 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 bb4e23a0-cb6d-4449-a58e-251a9dd02f3b,06/03/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 8358d9bb-c38d-4a86-a936-2d4e1f5fd8f2,06/03/2026 12:15:00,ADP Employment Change,HIGH,USD,Release,0.18,Labor Market
+9a318863-efa5-46fd-8337-c3a9249cea8b,06/03/2026 13:00:00,Fed's Barr speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 bddd7920-96d4-4094-94b2-c83e6ebd3ed8,06/03/2026 13:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
 b146697f-458b-4ccf-a6c2-482e53d0db69,06/03/2026 13:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
 6d5e0da5-4ce9-4a39-95b9-e76badd74c92,06/03/2026 14:00:00,Factory Orders (MoM),HIGH,USD,Release,0.17,Growth
@@ -83,6 +58,7 @@ a49f5f6b-a7f3-480f-bf9f-01e5982cf579,06/05/2026 17:00:00,Baker Hughes US Oil Rig
 ba663f91-7cf3-4789-82ef-083a0923d452,06/05/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 bad38ba8-a692-4f9d-bcb0-9d8f76b034cb,06/05/2026 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 4a39e40c-ba17-40fe-98a0-1be5a8c99f73,06/05/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+b491b582-8df8-4293-b37a-46ea253f8ffd,06/06/2026 16:00:00,Fed's Barr speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 2ab7d8e5-5c98-417c-8e96-5c549f40f97f,06/08/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 97900aad-9636-4593-9623-c69afa2c8601,06/08/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 ced20fea-fd90-44f7-bf51-de1bcbc5e576,06/08/2026 19:00:00,Consumer Credit Change,MEDIUM,USD,Release,0.14,Confidence
@@ -1712,3 +1688,56 @@ b3641a90-dbb6-4374-99ec-f802ac25cac4,05/27/2027 12:30:00,Personal Spending,HIGH,
 c8bd4c80-4fb1-4393-8931-543eed70993f,05/28/2027 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
 65eaa9ad-b636-43e8-84c3-a14c3430c1ec,05/28/2027 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
 40eb98d1-859d-49c0-9cb3-ff81f258d6dd,05/28/2027 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
+92294871-b9d2-464f-bf95-fb2107268d07,06/01/2027 13:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
+a1772b8c-dae8-4ce8-8c2a-65e8c6247294,06/01/2027 14:00:00,ISM Manufacturing Employment Index,HIGH,USD,Release,0.18,Labor Market
+b413927f-1026-45b5-a225-f464b156b283,06/01/2027 14:00:00,ISM Manufacturing New Orders Index,HIGH,USD,Release,0.17,Growth
+4461b3b5-8d2e-49a2-92ae-7820276d617e,06/01/2027 14:00:00,ISM Manufacturing PMI,HIGH,USD,Release,0.17,Growth
+f5325a4f-dc21-4a20-9236-2864b260b351,06/01/2027 14:00:00,ISM Manufacturing Prices Paid,HIGH,USD,Release,0.17,Growth
+a98b8496-3c20-4baf-a582-2c339702337b,06/03/2027 13:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
+6f215b7a-5de4-408c-b937-69717a04c8c9,06/03/2027 13:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
+96feb9c1-1c01-4337-9cab-bc259e583d63,06/03/2027 14:00:00,ISM Services Employment Index,HIGH,USD,Release,0.18,Labor Market
+858d8919-1e29-4112-8db7-e5b357d08fcb,06/03/2027 14:00:00,ISM Services New Orders Index,HIGH,USD,Release,0.17,Growth
+bdd1f9b9-7c73-48b6-9e5d-887e64e57513,06/03/2027 14:00:00,ISM Services PMI,HIGH,USD,Release,0.17,Growth
+68928b50-8e32-43d1-86e8-8f24aebf6429,06/03/2027 14:00:00,ISM Services Prices Paid,MEDIUM,USD,Release,0.14,Confidence
+50993276-14e2-403b-b870-ebf34dd60793,06/04/2027 12:30:00,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market
+5fd0d222-e4cc-461e-bb81-9fe9c8801e1e,06/04/2027 12:30:00,Average Hourly Earnings (YoY),HIGH,USD,Release,0.18,Labor Market
+ac15f805-dbb5-4899-8980-1a77cf2e69cc,06/04/2027 12:30:00,Average Weekly Hours,HIGH,USD,Release,0.18,Labor Market
+30521b50-e99f-475b-b40c-b7d908a27535,06/04/2027 12:30:00,Labor Force Participation Rate,HIGH,USD,Release,0.18,Labor Market
+6cbf43d2-3131-490a-8399-7f138cebd3ac,06/04/2027 12:30:00,Nonfarm Payrolls,HIGH,USD,Release,0.18,Labor Market
+c7ccf2d6-e2a0-4283-b912-055df585d788,06/04/2027 12:30:00,U6 Underemployment Rate,HIGH,USD,Release,0.2,Monetary Policy
+e53797d8-055f-434d-b6ac-1e8fdd9eccfd,06/04/2027 12:30:00,Unemployment Rate,HIGH,USD,Release,0.18,Labor Market
+a9764e12-5a7c-4aa0-add2-9264d69b59ad,06/10/2027 12:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
+4e6672f3-8c35-4807-8959-d0bdfbf28cce,06/10/2027 12:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
+b1cbbac1-b911-486b-a035-c92d365a90e5,06/10/2027 12:30:00,Consumer Price Index Core s.a,HIGH,USD,Release,0.19,Inflation
+c5344bbe-5032-4aa8-85cd-75a09476bb22,06/10/2027 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
+818c00d5-f44b-4f57-8925-ad3ed6a315fe,06/10/2027 12:30:00,Consumer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
+c241de09-b40c-4385-bcd8-cd9a768f734c,06/10/2027 12:30:00,Consumer Price Index n.s.a (MoM),HIGH,USD,Release,0.19,Inflation
+2b651b31-d340-4d49-8819-de784690a81c,06/11/2027 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
+0505805d-bd9a-446e-b219-6ccbbab8a284,06/11/2027 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
+b1af97fc-fc25-4834-982b-91b4372a6aba,06/11/2027 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
+bbb8b1f0-184e-4942-bbe7-504ca9104985,06/11/2027 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
+5fdda41c-c801-4477-a5cb-a4121846df53,06/15/2027 12:30:00,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
+750387d7-c8d3-4491-abb4-7004ae2d154a,06/15/2027 12:30:00,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
+3af1a0c0-6aa9-4271-a409-a47679ce4b18,06/15/2027 12:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
+414590b5-a9c2-4a5e-8c62-8782e13ef9fd,06/15/2027 12:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
+2cc63f94-6381-4ebb-bc5c-da0b5fd29f91,06/16/2027 12:30:00,Retail Sales (MoM),HIGH,USD,Release,0.17,Growth
+21bebebf-6d0c-48ae-9463-11b12acfc707,06/16/2027 12:30:00,Retail Sales (YoY),HIGH,USD,Release,0.17,Growth
+b3938431-9727-4c9b-a238-0c1238e09116,06/16/2027 12:30:00,Retail Sales Control Group,HIGH,USD,Release,0.17,Growth
+12de4eb0-7063-47eb-a64b-c673fe6219c4,06/16/2027 12:30:00,Retail Sales ex Autos (MoM),HIGH,USD,Release,0.17,Growth
+999bf7ba-48c8-4eb9-b632-d08caf98a13f,06/23/2027 13:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
+7b197ef8-8bf7-4318-a519-94d09c5c84e7,06/23/2027 13:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
+1a7fc462-a7db-4485-b826-f3bf82e0bd8d,06/23/2027 13:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
+783261aa-bce2-4348-9244-b44baf24a003,06/25/2027 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
+f5150d7a-c1ba-4f50-b61e-a1c4cab24979,06/25/2027 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
+bbca2d65-4f60-4c5e-9089-d69c83567d12,06/25/2027 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
+ef03adf2-188f-4522-baa1-80b6c332cb06,06/25/2027 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
+c7278a9b-197d-45e6-b347-1eb4ee45aa68,06/30/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
+fa73477a-da34-47cb-9054-6d270b674c80,06/30/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
+907a94ff-3fc8-4065-a189-899a11ba87ba,06/30/2027 12:30:00,Core Personal Consumption Expenditures (QoQ),HIGH,USD,Release,0.17,Growth
+d632493d-0343-4eec-a92b-2f61b50013cb,06/30/2027 12:30:00,Gross Domestic Product Annualized,HIGH,USD,Release,0.17,Growth
+245e10bb-e129-4887-ae11-eea4e978518b,06/30/2027 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD,Release,0.11,Trade and External
+4f2f9f73-8fbe-413d-99e2-dd5201e02830,06/30/2027 12:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
+4045aa39-d376-4470-af8b-1f1bd89e8f58,06/30/2027 12:30:00,Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
+98966f49-3e89-4978-834f-575b1991a021,06/30/2027 12:30:00,Personal Consumption Expenditures Prices (QoQ),HIGH,USD,Release,0.17,Growth
+c4278eaf-82d2-4256-b922-34bcfcbf0e36,06/30/2027 12:30:00,Personal Income (MoM),HIGH,USD,Release,0.17,Growth
+55f58a37-1be0-4f4d-8c44-d4a5a85f8e74,06/30/2027 12:30:00,Personal Spending,HIGH,USD,Release,0.17,Growth

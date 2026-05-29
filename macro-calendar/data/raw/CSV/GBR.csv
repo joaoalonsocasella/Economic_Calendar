@@ -1,12 +1,10 @@
 Id,Start,Name,Impact,Currency
-48860819-7cac-4c0d-b814-fe052089c5cb,05/28/2026 02:25:00,BoE's Lombardelli speech,MEDIUM,GBP
-3ca95ee5-7fc7-4738-8f7c-1a16714392e4,05/28/2026 15:40:00,BoE's Breeden speech,MEDIUM,GBP
-1ec1fd6f-dd77-436b-abd2-ae1b91c2e56b,05/29/2026 06:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP
-a6503154-bb47-4023-9d6e-69d070c3a58d,05/29/2026 06:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP
 b70a2aa3-4375-40c3-8c55-089ec8ab4582,05/29/2026 08:20:00,BoE's Governor Bailey speech,HIGH,GBP
 92bc079e-8972-456f-99dd-f71e6b70a633,05/29/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
 d3577bcf-1b6c-4c4c-a651-afae7dc7e295,05/30/2026 09:40:00,BoE's Mann speech,MEDIUM,GBP
 82e84d84-2873-4e49-b15b-5108e7535b3d,05/31/2026 12:30:00,BoE's Greene speech,MEDIUM,GBP
+1ec1fd6f-dd77-436b-abd2-ae1b91c2e56b,06/01/2026 06:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP
+a6503154-bb47-4023-9d6e-69d070c3a58d,06/01/2026 06:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP
 22b3a5ad-9a2e-431c-960e-d530b5196248,06/01/2026 08:30:00,S&P Global Manufacturing PMI,LOW,GBP
 5ca919ac-17e8-426d-89c1-43e9120c2806,06/02/2026 08:30:00,Consumer Credit,LOW,GBP
 f211004d-5fe9-418d-af20-812c77ebe65b,06/02/2026 08:30:00,M4 Money Supply (MoM),LOW,GBP
@@ -685,3 +683,32 @@ b808abcb-409e-47df-8289-4633b6e275fc,05/21/2027 06:00:00,Retail Sales ex-Fuel (Y
 452d31dd-f4cd-4ba1-941b-bb7ddb964793,05/21/2027 08:30:00,S&P Global Composite PMI,HIGH,GBP
 b93f650b-9fc1-40b5-b61c-24826ac9072a,05/21/2027 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP
 147cce1e-8ad5-435b-b786-aa70d91e37e2,05/21/2027 08:30:00,S&P Global Services PMI,HIGH,GBP
+843d490e-eebe-407c-bcfb-c3b9f29593e5,06/01/2027 08:30:00,S&P Global Manufacturing PMI,LOW,GBP
+3217cdb6-bf63-4e79-a9a6-26bf65cc5d75,06/03/2027 08:30:00,S&P Global Composite PMI,LOW,GBP
+36e646a4-79fd-4fff-97f6-5e2f14e6dab6,06/03/2027 08:30:00,S&P Global Services PMI,LOW,GBP
+35d35947-ac77-4bef-b1cb-e4e21c352405,06/04/2027 08:30:00,S&P Global Construction PMI,LOW,GBP
+e6babe55-e688-4858-b0df-7c8204d552a4,06/16/2027 06:00:00,Consumer Price Index (MoM),HIGH,GBP
+7d8cdb6a-81bd-4a36-9468-128fcc3407eb,06/16/2027 06:00:00,Consumer Price Index (YoY),HIGH,GBP
+171c5fce-4e0c-44cc-8641-011de94f5a7b,06/16/2027 06:00:00,Core Consumer Price Index (YoY),HIGH,GBP
+7a901ebc-ba90-4c02-83c0-6d59dde04d98,06/16/2027 06:00:00,PPI Core Output (MoM) n.s.a,MEDIUM,GBP
+0b29e879-8f8b-4aa9-994f-7988ecf47627,06/16/2027 06:00:00,"PPI Core Output (YoY) n.s.a ",MEDIUM,GBP
+792f8126-441d-41c2-928c-be3aae77ac3d,06/16/2027 06:00:00,Producer Price Index - Input (MoM) n.s.a,LOW,GBP
+bcfbed3b-5961-4c5e-81d6-e8ac17779836,06/16/2027 06:00:00,Producer Price Index - Input (YoY) n.s.a,LOW,GBP
+fa74269f-8ff2-4e6d-805e-c643030ec5a6,06/16/2027 06:00:00,Producer Price Index - Output (MoM) n.s.a,MEDIUM,GBP
+8f9cc790-55ff-4687-92b3-a6b6a584aa39,06/16/2027 06:00:00,Producer Price Index - Output (YoY) n.s.a,LOW,GBP
+b076c6e8-9b1a-4604-91e3-afacee9610eb,06/16/2027 06:00:00,Retail Price Index (MoM),LOW,GBP
+58e0e2bf-2b3b-4425-b853-8d5b13826456,06/16/2027 06:00:00,Retail Price Index (YoY),MEDIUM,GBP
+1d191d94-ed2d-4ca5-abda-38d27703db1d,06/16/2027 08:30:00,DCLG House Price Index (YoY),LOW,GBP
+505ec6c6-73be-4cd6-851c-9280c36e4384,06/17/2027 06:00:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
+0df3eb39-b69e-4cfa-b301-9cb19804250c,06/17/2027 06:00:00,Average Earnings Including Bonus (3Mo/Yr),MEDIUM,GBP
+afc3ecba-50c5-4a1d-bef6-34d0846b8474,06/17/2027 06:00:00,Claimant Count Change,HIGH,GBP
+bd64e94a-707c-4be0-8da1-5f150fe1a584,06/17/2027 06:00:00,Claimant Count Rate,MEDIUM,GBP
+30be271a-3e16-4f97-b48a-eff726f61df5,06/17/2027 06:00:00,Employment Change (3M),HIGH,GBP
+aaf07b2f-0554-43ab-99fc-1349383f1bb5,06/17/2027 06:00:00,ILO Unemployment Rate (3M),HIGH,GBP
+c81c3f5a-0f85-448d-967c-6c19c46f5a99,06/18/2027 06:00:00,Retail Sales (MoM),HIGH,GBP
+2a074bc5-7861-425f-b7a6-14c6bb5e7e01,06/18/2027 06:00:00,Retail Sales (YoY),MEDIUM,GBP
+aa147256-6ab5-4e96-a066-65527c247635,06/18/2027 06:00:00,Retail Sales ex-Fuel (MoM),MEDIUM,GBP
+ba5ab732-9e81-45d6-8519-016a87bc4ab2,06/18/2027 06:00:00,Retail Sales ex-Fuel (YoY),MEDIUM,GBP
+df9d1242-d514-41bd-a211-e13d831d1a87,06/23/2027 08:30:00,S&P Global Composite PMI,HIGH,GBP
+8ad9d058-50a0-4efc-a984-0fe7a41e05bf,06/23/2027 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP
+85e0ceb3-7642-4e89-933f-a24bb27d1f57,06/23/2027 08:30:00,S&P Global Services PMI,HIGH,GBP
