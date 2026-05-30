@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a642c0e8-4f47-4af0-b078-5151933d88e4,05/29/2026 05:00:00,Annualized Housing Starts,LOW,JPY,Release,0.07,Housing
-470f0dc1-2c4e-4c82-be48-d264f6ecc995,05/29/2026 05:00:00,Consumer Confidence Index,MEDIUM,JPY,Release,0.14,Confidence
-372cc452-814a-4957-8ced-70e19c7c6dae,05/29/2026 05:00:00,Housing Starts (YoY),LOW,JPY,Release,0.07,Housing
-b638b2d2-4f74-4e83-b1e4-3e302be77d92,05/29/2026 05:50:20,Construction Orders (YoY),HIGH,JPY,Release,0.17,Growth
-eb5aa2c4-e004-45a6-890d-d5ecabd3ffcd,05/29/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
 8a25b3e1-d37f-4c15-91c7-abe4acb385ef,05/31/2026 23:50:00,Capital Spending,HIGH,JPY,Release,0.17,Growth
 db53fa59-35cb-43e2-913b-24b6de75135c,06/01/2026 00:30:00,Jibun Bank Manufacturing PMI,HIGH,JPY,Release,0.17,Growth
 096758f9-3b74-4f00-8e70-23999bc0bbf7,06/01/2026 23:50:00,Monetary Base (YoY),HIGH,JPY,Release,0.2,Monetary Policy

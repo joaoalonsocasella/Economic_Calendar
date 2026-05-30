@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-9be6240d-bd48-4e79-af4e-0e4ad82a69fa,05/29/2026 07:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-8d7c9f85-6442-4456-a783-b8463f757ec8,05/29/2026 07:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 8448a1a5-07c7-46c4-9c0b-dbd14c614706,06/01/2026 07:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
 355b71f7-b380-406c-96b5-0f367830fb2d,06/01/2026 07:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
 89bc7651-0e6e-41f9-bea7-17545b76ceed,06/05/2026 07:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
