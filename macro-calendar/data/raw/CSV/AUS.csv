@@ -1,10 +1,7 @@
 Id,Start,Name,Impact,Currency
-f95254c4-c18d-4b46-8f21-5065e9c6c194,05/31/2026 23:00:00,S&P Global Manufacturing PMI,LOW,AUD
 42d99934-ffd8-4917-949b-1094a1f20c2e,06/01/2026 01:00:00,TD-MI Inflation Gauge (MoM),LOW,AUD
 9c0b8aff-6c2c-4dd6-8d02-b02f7d9f278b,06/01/2026 01:00:00,TD-MI Inflation Gauge (YoY),MEDIUM,AUD
 1f61f365-f574-4f0a-90cb-a701de200bc6,06/01/2026 01:30:00,ANZ Job Advertisements,LOW,AUD
-b25b5937-f4a7-451d-aebd-864762524d1d,06/01/2026 01:30:00,Private Sector Credit (MoM),LOW,AUD
-f2923d13-e9ac-4432-b967-3d398bbf7c87,06/01/2026 01:30:00,Private Sector Credit (YoY),LOW,AUD
 4458cfcf-e8f7-4f4d-a46d-ec801648274a,06/01/2026 06:30:00,RBA Commodity Index SDR (YoY),LOW,AUD
 ae495580-7627-4423-a855-cdb4cccae5ae,06/02/2026 01:30:00,Building Permits (MoM),MEDIUM,AUD
 10944f23-00d2-422d-baaf-78b87a341e8c,06/02/2026 01:30:00,Building Permits (YoY),LOW,AUD
@@ -20,7 +17,10 @@ a5a5fe87-f14e-4b91-8fa1-fdbf4efb15c4,06/03/2026 01:30:00,Gross Domestic Product 
 8ea2b931-f8bb-4110-9ead-af8278dc45a2,06/04/2026 01:30:00,Exports (MoM),MEDIUM,AUD
 7f4a0dca-8faf-49a7-a644-20f7d4b429f5,06/04/2026 01:30:00,Imports (MoM),MEDIUM,AUD
 18840494-8c1c-4cd9-b2cb-18aad02743f1,06/04/2026 01:30:00,Trade Balance (MoM),HIGH,AUD
+18e68d6c-80a9-4ef4-8916-5dc19b637a67,06/04/2026 05:00:00,RBA Governor Bullock speech,HIGH,AUD
 252d109c-c03d-4c1e-a69a-1f52b67763aa,06/05/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
+b25b5937-f4a7-451d-aebd-864762524d1d,06/08/2026 01:30:00,Private Sector Credit (MoM),LOW,AUD
+f2923d13-e9ac-4432-b967-3d398bbf7c87,06/08/2026 01:30:00,Private Sector Credit (YoY),LOW,AUD
 8d00bf0e-3b29-4d16-bcb3-bbf0022aae06,06/09/2026 00:30:00,Westpac Consumer Confidence,MEDIUM,AUD
 6b1b93cd-580a-4278-ba2b-008b483f5426,06/09/2026 01:30:00,National Australia Bank's Business Conditions,LOW,AUD
 b7dfd776-a08c-490f-bc64-f6e6b7542a70,06/09/2026 01:30:00,National Australia Bank's Business Confidence,LOW,AUD

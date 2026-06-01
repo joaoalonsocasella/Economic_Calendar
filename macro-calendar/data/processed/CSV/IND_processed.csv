@@ -1,6 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 0f0200f5-784b-427a-a0b0-51fa89861f26,06/01/2026 05:00:00,HSBC Manufacturing PMI,HIGH,INR,Release,0.17,Growth
-a7979b4c-feb4-4f2f-bb62-935c878aa5d1,06/01/2026 11:30:00,Cumulative Industrial Output,HIGH,INR,Release,0.17,Growth
+8bd02e7c-22b7-455f-8b53-75f6d68eca41,06/01/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
+ca84c9dc-a3d2-4d86-847c-10317cb196c1,06/01/2026 11:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
 ef8a6fed-6b0d-4e5a-9bd8-95cafaf0503a,06/01/2026 11:30:00,Industrial Output,HIGH,INR,Release,0.17,Growth
 12c67244-bb2b-4c75-b0a3-5711966971cd,06/01/2026 11:30:00,Manufacturing Output,HIGH,INR,Release,0.17,Growth
 2f0a211d-ad02-4042-9713-4f827f702f78,06/03/2026 05:00:00,HSBC Composite PMI,HIGH,INR,Release,0.17,Growth
@@ -22,11 +23,9 @@ a7ad9103-04a3-48b7-9898-128ec0a2a79c,06/24/2026 05:00:00,HSBC Manufacturing PMI,
 607099f2-8268-460b-a39a-b958103bedd7,06/24/2026 05:00:00,HSBC Services PMI,HIGH,INR,Release,0.17,Growth
 41bdeaa3-0f2d-48ff-8c31-ea336134aced,06/24/2026 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy
 ea3f2e11-1834-4c3e-9a8a-8cb1ce323a61,06/26/2026 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
-8bd02e7c-22b7-455f-8b53-75f6d68eca41,06/29/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
 de59c08f-6d25-4c22-917a-6e00457585ad,06/29/2026 11:30:00,Cumulative Industrial Output,HIGH,INR,Release,0.17,Growth
 dd4e4e6e-b05e-4522-b577-d19d6815945c,06/29/2026 11:30:00,Industrial Output,HIGH,INR,Release,0.17,Growth
 8c5bdd01-1fc9-425f-ab9a-7bc4809b17cc,06/29/2026 11:30:00,Manufacturing Output,HIGH,INR,Release,0.17,Growth
-ca84c9dc-a3d2-4d86-847c-10317cb196c1,06/30/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
 219c5101-a389-419b-b75a-da2e54a487e2,06/30/2026 11:30:00,Current Account Balance $,MEDIUM,INR,Release,0.11,Trade and External
 1edf90aa-9fd9-4623-b57f-d416e5743fa6,06/30/2026 11:30:00,Infrastructure Output (YoY),HIGH,INR,Release,0.19,Inflation
 5e615b53-8d2e-4bb5-a114-98dfdd86641d,06/30/2026 11:30:00,Trade Deficit – RBI,MEDIUM,INR,Release,0.11,Trade and External

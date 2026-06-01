@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-f672c05f-ea26-4d21-9a23-8a1977a06345,05/31/2026 12:30:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 f95df659-7c7d-44ef-b7bb-e50f2db64c83,06/01/2026 00:30:00,Fed's Powell speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 d9d1ea26-f99d-4346-b193-256ac96c5eeb,06/01/2026 13:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 bddd0a4b-6ba1-4881-8634-bde158fd21bf,06/01/2026 14:00:00,Construction Spending (MoM),HIGH,USD,Release,0.17,Growth
@@ -34,6 +33,7 @@ bee11b95-d92c-4cc8-bb42-416babacc59e,06/04/2026 12:30:00,Nonfarm Productivity,HI
 4d8eebcd-4a90-4040-9f6b-a9d7f06798d5,06/04/2026 12:30:00,Unit Labor Costs,HIGH,USD,Release,0.18,Labor Market
 88d833fd-ad5f-48c9-8405-450fc3a0ff4c,06/04/2026 14:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 51751c6f-4eaf-49e9-8298-bfa63e634b57,06/04/2026 15:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
+6decb7d7-7ac2-4221-b1da-22ba9d746053,06/04/2026 17:10:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 4a74f656-a707-4463-a300-6e5017c83fae,06/05/2026 12:30:00,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market
 10b9a7b2-933c-436b-b42e-55551f17416a,06/05/2026 12:30:00,Average Hourly Earnings (YoY),HIGH,USD,Release,0.18,Labor Market
 3cd8c343-8966-4562-9dc9-7561376dfbad,06/05/2026 12:30:00,Average Weekly Hours,HIGH,USD,Release,0.18,Labor Market
@@ -169,6 +169,7 @@ e35f0fa2-f431-438d-b69d-11196ae4df32,06/25/2026 14:30:00,EIA Natural Gas Storage
 873bcdb0-812d-4836-aba8-47f69e2d236a,06/25/2026 15:00:00,Kansas Fed Manufacturing Activity,HIGH,USD,Release,0.17,Growth
 944cebfa-2945-444b-8389-2e36a41cdf11,06/25/2026 15:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 19a3399b-6ed7-4368-b591-073c7c124aaf,06/25/2026 17:00:00,7-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
+73db9105-6a0a-444b-b7d3-42f38a022384,06/25/2026 22:30:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 def429c0-0351-4fb8-8c63-6038c68e8e2c,06/26/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 34dd37a9-8984-40f2-91b5-37daf3680edb,06/26/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 7f633ddf-cac6-4d18-83fc-1abeb9da31d3,06/26/2026 12:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation

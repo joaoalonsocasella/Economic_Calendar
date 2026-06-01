@@ -1,7 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
+2f54bb03-0561-4554-92e3-926c4db2e984,06/01/2026 06:00:00,M3 Money Supply (YoY),HIGH,SAR,Release,0.19,Inflation
+d78f763a-5614-4659-973e-51798372f7de,06/01/2026 06:00:00,Private Sector Loans (YoY),LOW,SAR,Release,0.09,Money and Credit
 874ec948-694b-4bfc-b1d3-78e0d6ca0559,06/03/2026 04:15:00,Riyad Bank PMI,MEDIUM,SAR,Release,0.14,Confidence
-2f54bb03-0561-4554-92e3-926c4db2e984,06/05/2026 16:00:00,M3 Money Supply (YoY),HIGH,SAR,Release,0.19,Inflation
-d78f763a-5614-4659-973e-51798372f7de,06/05/2026 16:00:00,Private Sector Loans (YoY),LOW,SAR,Release,0.09,Money and Credit
 728cad6b-6324-4531-ae8a-3a43b96089f6,06/08/2026 06:00:00,Gross Domestic Product (YoY),HIGH,SAR,Release,0.17,Growth
 df05ce45-10df-4922-b1c8-e0516b8e46d8,06/15/2026 06:00:00,Consumer Price Index (MoM),HIGH,SAR,Release,0.19,Inflation
 bd2f7941-cf21-41c0-a3fa-5c500d3a961f,06/15/2026 06:00:00,Consumer Price Index (YoY),HIGH,SAR,Release,0.19,Inflation
