@@ -1,16 +1,15 @@
 Id,Start,Name,Impact,Currency
-e6182194-6322-43be-b3f8-1bcf0984667c,06/01/2026 07:45:00,HCOB Manufacturing PMI,MEDIUM,EUR
 3e277a87-000e-4265-909e-0804b34b0eb5,06/03/2026 07:45:00,HCOB Services PMI,LOW,EUR
 feaef02f-481a-4c42-9617-815896a119e2,06/05/2026 09:00:00,Retail Sales n.s.a (YoY),LOW,EUR
 3f30169f-a808-4dbf-99fb-abd4f110ebf2,06/05/2026 09:00:00,Retail Sales s.a. (MoM),LOW,EUR
 64e2fd01-1a4b-429e-b8a4-defd20335dcf,06/10/2026 08:00:00,Industrial Output s.a. (MoM),LOW,EUR
 d4cac3bc-accc-46f9-a604-fb4a9d13e99f,06/10/2026 08:00:00,Industrial Output w.d.a (YoY),LOW,EUR
+dc459f13-d536-43d6-af70-3ae3080e458c,06/15/2026 08:00:00,Global Trade Balance,LOW,EUR
+a3adfd40-ad93-4498-a9f5-4afb3adfb92e,06/15/2026 08:00:00,Trade Balance EU,LOW,EUR
 209c42ee-0dbc-40ee-ac8f-284a2769e7ff,06/16/2026 08:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
 e7879b03-8866-456d-a134-f719a75d2de8,06/16/2026 08:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
 c3227453-b4c3-4f6a-8e6f-c77c17801a41,06/16/2026 08:00:00,Consumer Price Index (MoM),LOW,EUR
 6e24524d-5b09-4590-bf4e-8a78741839db,06/16/2026 08:00:00,Consumer Price Index (YoY),MEDIUM,EUR
-dc459f13-d536-43d6-af70-3ae3080e458c,06/18/2026 08:00:00,Global Trade Balance,LOW,EUR
-a3adfd40-ad93-4498-a9f5-4afb3adfb92e,06/18/2026 08:00:00,Trade Balance EU,LOW,EUR
 6d6328a9-589a-46a6-8535-6328cbf8d86a,06/25/2026 08:00:00,Business Confidence,LOW,EUR
 42cfb373-b786-448b-8beb-2388172506d5,06/25/2026 08:00:00,Consumer Confidence,LOW,EUR
 2a5db766-4c4c-4274-a8b0-3d0bed2acd9d,06/30/2026 08:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR

@@ -1,8 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-48e8065a-8ad0-429b-bf89-04ec6a4e25a2,06/01/2026 07:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 ca39111f-7309-4215-9d9b-81adbc97a7bd,06/02/2026 07:00:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
-3185096d-d75a-4904-b37a-6aec945d8958,06/02/2026 08:40:00,12-Month Letras Auction,HIGH,EUR,Release,0.383,Money and Credit
-33c9d547-cb45-4313-b2b3-49b02ad2ce26,06/02/2026 08:40:00,6-Month Letras Auction,HIGH,EUR,Release,0.383,Money and Credit
+3185096d-d75a-4904-b37a-6aec945d8958,06/02/2026 08:50:00,12-Month Letras Auction,HIGH,EUR,Release,0.383,Money and Credit
+33c9d547-cb45-4313-b2b3-49b02ad2ce26,06/02/2026 09:10:00,6-Month Letras Auction,HIGH,EUR,Release,0.383,Money and Credit
 a799b757-327c-4222-955e-0eabbb82c15d,06/03/2026 07:15:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 3cf5b6bb-47ac-4c88-a320-534ca74a4752,06/04/2026 07:00:00,Industrial Output Cal Adjusted (YoY),HIGH,EUR,Release,0.722,Growth
 fed44cab-1381-424a-80ec-668d91cf1aaf,06/04/2026 08:40:00,10-y Obligaciones Auction,HIGH,EUR,Release,0.383,Money and Credit
@@ -14,6 +13,9 @@ f159dfae-d7d6-4c96-a51c-b826cf7e5b82,06/09/2026 08:40:00,3-Month Letras Auction,
 66c69b46-92d0-4d05-979d-cadd2503f31f,06/12/2026 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 2e81ab85-3c55-42d4-b056-ffd0bc90a24d,06/12/2026 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 3301d625-e482-472e-9076-6fd5b19f7f3b,06/12/2026 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+3910609c-fdac-4029-8f3a-525b4b6dd6ef,06/18/2026 08:40:00,10-y Obligaciones Auction,HIGH,EUR,Release,0.383,Money and Credit
+b001c01b-b1dc-4aca-af1d-e1e4ccefc5c8,06/18/2026 08:40:00,3-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
+157b8300-5ff1-487e-945a-c1fb35e1b13b,06/18/2026 08:40:00,5-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 23cf6706-0456-4131-ad14-8a99292a6f9c,06/25/2026 07:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 a01d9549-fb83-46d8-ae51-103229b322f8,06/25/2026 07:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
 26b3ff04-3c10-44bd-8e75-e71aa0abef8d,06/29/2026 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation

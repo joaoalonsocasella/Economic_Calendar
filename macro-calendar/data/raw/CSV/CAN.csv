@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-e0bc64b9-c886-4202-977a-5dab927105e1,06/01/2026 13:30:00,S&P Global Manufacturing PMI,MEDIUM,CAD
 af574237-6b41-4a47-8a1c-58a3d89b366e,06/03/2026 12:30:00,Labor Productivity (QoQ),LOW,CAD
 097639e0-0c55-413c-b708-e42bd80fca40,06/05/2026 12:30:00,Average Hourly Wages (YoY),MEDIUM,CAD
 7f5aa443-3842-4376-ad25-49f5e28ebde2,06/05/2026 12:30:00,Net Change in Employment,HIGH,CAD
@@ -15,21 +14,21 @@ a5c47c74-ac36-47fb-9dde-b119c2d0cb20,06/10/2026 13:45:00,BoC Interest Rate Decis
 c4e96662-a270-404a-a91f-93c1178d31d8,06/10/2026 14:30:00,BoC Press Conference,HIGH,CAD
 701157a6-2711-4bbe-a45e-05fc3ab14be4,06/11/2026 12:30:00,Building Permits (MoM),LOW,CAD
 ad9f1df6-6051-42cc-b5e9-b62a5ad6a9fc,06/12/2026 12:30:00,Capacity Utilization,LOW,CAD
+cfc76f7c-4142-4685-8ed3-001e86e3b237,06/15/2026 12:15:00,Housing Starts s.a (YoY),LOW,CAD
+e6aad61f-05a2-4d4b-ab0d-26088c2899b1,06/15/2026 12:30:00,Manufacturing Sales (MoM),LOW,CAD
 75c8e913-c407-4c87-bd71-cd7aec8c47da,06/15/2026 12:30:00,Wholesale Sales (MoM),LOW,CAD
-cfc76f7c-4142-4685-8ed3-001e86e3b237,06/16/2026 12:15:00,Housing Starts s.a (YoY),LOW,CAD
-8a4da79d-81d4-4fab-be69-6bfb9a051612,06/16/2026 12:30:00,BoC Consumer Price Index Core (MoM),MEDIUM,CAD
-25ecc457-2c26-4565-8554-dce5e4371438,06/16/2026 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD
 6e08be7a-44bf-432f-b342-31598dc0a98a,06/16/2026 12:30:00,Canadian Portfolio Investment in Foreign Securities,LOW,CAD
-cded8cb3-de47-4cf4-916b-6d629ec63ba0,06/16/2026 12:30:00,Consumer Price Index - Core (MoM),LOW,CAD
-7ee65ba1-c70c-453f-8d88-128d275055ae,06/16/2026 12:30:00,Consumer Price Index (MoM),MEDIUM,CAD
-26219b4e-aedc-4d01-b0cc-783b0a913c98,06/16/2026 12:30:00,Consumer Price Index (YoY),HIGH,CAD
 20befbe6-3077-4499-8c49-838c51b90047,06/16/2026 12:30:00,Foreign Portfolio Investment in Canadian Securities,LOW,CAD
-e6aad61f-05a2-4d4b-ab0d-26088c2899b1,06/16/2026 12:30:00,Manufacturing Sales (MoM),LOW,CAD
+cab75f14-3228-45f8-8501-ba5c4f77e9f8,06/17/2026 12:30:00,New Housing Price Index (MoM),LOW,CAD
+223cece8-a14d-47b0-aaad-d5cb41f68b80,06/17/2026 12:30:00,New Housing Price Index (YoY),LOW,CAD
 2c4241ec-722d-438b-86c1-c884c87106a8,06/18/2026 12:30:00,Employment Insurance Beneficiaries Change (MoM),LOW,CAD
+8a4da79d-81d4-4fab-be69-6bfb9a051612,06/22/2026 12:30:00,BoC Consumer Price Index Core (MoM),MEDIUM,CAD
+25ecc457-2c26-4565-8554-dce5e4371438,06/22/2026 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD
+cded8cb3-de47-4cf4-916b-6d629ec63ba0,06/22/2026 12:30:00,Consumer Price Index - Core (MoM),LOW,CAD
+7ee65ba1-c70c-453f-8d88-128d275055ae,06/22/2026 12:30:00,Consumer Price Index (MoM),MEDIUM,CAD
+26219b4e-aedc-4d01-b0cc-783b0a913c98,06/22/2026 12:30:00,Consumer Price Index (YoY),HIGH,CAD
 22e47334-efa5-41c7-8d70-6176cf5b72ec,06/22/2026 12:30:00,Industrial Product Price (MoM),LOW,CAD
 3e498c9b-b428-4a94-805c-255edea4cf50,06/22/2026 12:30:00,Raw Material Price Index,LOW,CAD
-cab75f14-3228-45f8-8501-ba5c4f77e9f8,06/24/2026 12:30:00,New Housing Price Index (MoM),LOW,CAD
-223cece8-a14d-47b0-aaad-d5cb41f68b80,06/24/2026 12:30:00,New Housing Price Index (YoY),LOW,CAD
 ad19c73e-9f3e-444a-b0de-0d142cb2662a,06/24/2026 12:30:00,Retail Sales (MoM),MEDIUM,CAD
 882fa73c-1da3-4ff2-86cc-145ac076596c,06/24/2026 12:30:00,Retail Sales ex Autos (MoM),MEDIUM,CAD
 2bfe4549-1520-40aa-82d6-a11295d44cb1,06/30/2026 12:30:00,Gross Domestic Product (MoM),MEDIUM,CAD

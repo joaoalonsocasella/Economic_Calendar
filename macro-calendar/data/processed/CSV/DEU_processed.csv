@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-42dbf536-6923-4db6-8654-3a635a43965f,06/01/2026 06:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
-9d542e6a-ebb5-4797-a67d-e7b7a8a52f72,06/01/2026 06:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
-c97c59e0-5a07-46b8-adc5-4a107791e044,06/01/2026 07:55:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 deac0d37-cc5a-4c41-8667-c75775ac76f7,06/03/2026 07:55:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 90b601d1-c330-413f-9490-f612cb12e595,06/03/2026 07:55:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 10a94322-cb3f-4a53-a9ca-b6560f2b77e5,06/08/2026 06:00:00,Factory Orders n.s.a. (YoY),HIGH,EUR,Release,0.722,Growth
@@ -21,6 +18,7 @@ f8525b40-0faf-46b4-96c0-35eff7bcc092,06/15/2026 06:00:00,Wholesale Price Index (
 95065c2f-7a43-42e6-837c-5563b87f1c32,06/15/2026 06:00:00,Wholesale Price Index (YoY),HIGH,EUR,Release,0.468,Trade and External
 74fba07d-e47d-4afe-885f-a11583c9263c,06/16/2026 09:00:00,ZEW Survey – Current Situation,HIGH,EUR,Release,0.595,Confidence
 b3d4f2cd-2e7d-4619-b902-fb917107d73c,06/16/2026 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
+330f6f4a-469e-4456-951c-5f9fb8036034,06/17/2026 09:30:00,30-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 fdc116ee-b0ac-4f0b-8808-50bf43eb65ce,06/19/2026 06:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 becd6d32-41d5-49a5-bd12-490591ebf775,06/19/2026 06:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 adfe8c6b-4b86-4915-9cf8-ea981d91e28b,06/22/2026 10:00:00,German Buba Monthly Report,HIGH,EUR,Release,0.85,Monetary Policy

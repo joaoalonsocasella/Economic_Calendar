@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-42d99934-ffd8-4917-949b-1094a1f20c2e,06/01/2026 01:00:00,TD-MI Inflation Gauge (MoM),HIGH,AUD,Release,0.19,Inflation
-9c0b8aff-6c2c-4dd6-8d02-b02f7d9f278b,06/01/2026 01:00:00,TD-MI Inflation Gauge (YoY),HIGH,AUD,Release,0.19,Inflation
-1f61f365-f574-4f0a-90cb-a701de200bc6,06/01/2026 01:30:00,ANZ Job Advertisements,HIGH,AUD,Release,0.18,Labor Market
-4458cfcf-e8f7-4f4d-a46d-ec801648274a,06/01/2026 06:30:00,RBA Commodity Index SDR (YoY),HIGH,AUD,Release,0.19,Inflation
 ae495580-7627-4423-a855-cdb4cccae5ae,06/02/2026 01:30:00,Building Permits (MoM),LOW,AUD,Release,0.07,Housing
 10944f23-00d2-422d-baaf-78b87a341e8c,06/02/2026 01:30:00,Building Permits (YoY),LOW,AUD,Release,0.07,Housing
 0f75a508-36e3-4e02-b0a5-e78ecd1442c7,06/02/2026 01:30:00,Company Gross Operating Profits (QoQ),HIGH,AUD,Release,0.17,Growth
