@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a17475b6-16ca-4448-ad17-ac9d033de5a4,06/02/2026 09:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
-1ee274dc-5997-4fbb-8121-246cbab9350b,06/02/2026 09:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.807,Inflation
-24a71c79-04ed-43ec-9ff3-e7de986d8093,06/02/2026 09:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
-437aed11-b83b-47c7-b4ff-3613a2e2088d,06/02/2026 09:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
-105f9c60-035f-47c7-8b5c-ddf3e97e17d2,06/02/2026 13:35:00,ECB's Vujčić speech,HIGH,EUR,Speech,0.552,Monetary Policy
-00f97bb8-f7b4-47e8-be7f-8c89c6bd70b1,06/02/2026 15:10:00,ECB's Sleijpen speech,HIGH,EUR,Speech,0.552,Monetary Policy
 db0f4c18-59c5-4f72-9d7c-14bc2561bd64,06/03/2026 08:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 3d7f52af-de98-4f63-bce4-8516c4f7b251,06/03/2026 08:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 5c685cec-b387-4b13-99da-7cb189d972d9,06/03/2026 09:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
@@ -37,8 +31,8 @@ a6f307ce-7069-47bd-b3cc-1fe431db625e,06/17/2026 09:00:00,Harmonized Index of Con
 a56c329a-0042-4545-b28e-4d1e4fb8e067,06/17/2026 09:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
 767baf78-d9cc-4a29-a47e-524d8d617604,06/18/2026 08:00:00,Current Account n.s.a,HIGH,EUR,Release,0.468,Trade and External
 e5f4d77d-cba6-4494-97a3-ac2a6be8ec24,06/18/2026 08:00:00,Current Account s.a,HIGH,EUR,Release,0.468,Trade and External
-f364c46b-f500-4a89-99d7-e650d7e6a831,06/19/2026 09:00:00,Construction Output  s.a (MoM),HIGH,EUR,Release,0.297,Housing
-dd1b3007-de7d-45ca-b0e9-dd3a3b25114a,06/19/2026 09:00:00,Construction Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
+f364c46b-f500-4a89-99d7-e650d7e6a831,06/18/2026 09:00:00,Construction Output  s.a (MoM),HIGH,EUR,Release,0.297,Housing
+dd1b3007-de7d-45ca-b0e9-dd3a3b25114a,06/18/2026 09:00:00,Construction Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
 d51c38ba-4805-4d9f-b41f-5afd032bae40,06/19/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 1067237c-bb14-439f-86a6-f7e14041cfcd,06/22/2026 14:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 5a5c0878-79c0-469a-9265-ebcb34230cfe,06/23/2026 08:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth

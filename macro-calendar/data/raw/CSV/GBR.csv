@@ -1,14 +1,6 @@
 Id,Start,Name,Impact,Currency
-5ca919ac-17e8-426d-89c1-43e9120c2806,06/02/2026 08:30:00,Consumer Credit,LOW,GBP
-f211004d-5fe9-418d-af20-812c77ebe65b,06/02/2026 08:30:00,M4 Money Supply (MoM),LOW,GBP
-b576af35-f236-40c6-b5e7-49f4eeb8ef42,06/02/2026 08:30:00,M4 Money Supply (YoY),LOW,GBP
-8ee27d41-836d-44af-9ded-c0e75b5c1580,06/02/2026 08:30:00,Mortgage Approvals,LOW,GBP
-4f6992c5-9b65-47e7-8be5-104d002f96f9,06/02/2026 08:30:00,Net Lending to Individuals (MoM),LOW,GBP
-331502ce-74fa-4c46-bd8a-f784875b012e,06/02/2026 14:00:00,BoE's Governor Bailey speech,HIGH,GBP
-3df81f2a-d059-48e3-8834-4af92861bf90,06/02/2026 17:00:00,BoE's Greene speech,MEDIUM,GBP
 38db5b7f-3ee5-4efa-8d41-941b06a29839,06/03/2026 08:30:00,S&P Global Composite PMI,LOW,GBP
 af481e19-d5ce-4f92-934d-e4b8a19c82d2,06/03/2026 08:30:00,S&P Global Services PMI,LOW,GBP
-bcb3dd13-fa53-4f21-9ba4-b6dbd9a403bd,06/03/2026 09:15:00,BoE Monetary Policy Report Hearings,HIGH,GBP
 61319df5-f7db-46d4-b830-103cc5c44f97,06/04/2026 08:30:00,S&P Global Construction PMI,LOW,GBP
 64ddf1a9-3868-4b1a-8076-83a75cc0fff6,06/04/2026 15:40:00,BoE's Governor Bailey speech,HIGH,GBP
 3aaf8787-d4f7-4510-8715-0275fc0d2cf8,06/05/2026 06:00:00,Halifax House Prices (MoM),LOW,GBP
@@ -57,12 +49,12 @@ f0875610-b5a2-4d82-9171-9d8d27ef2f39,06/18/2026 06:00:00,Employment Change (3M),
 6bb0b68c-29c8-4d7f-9aad-89ec1d26d2aa,06/18/2026 11:00:00,BoE MPC Vote Rate Hike,HIGH,GBP
 4cf95e0a-4e5f-4ca0-a271-7ad8281f5330,06/18/2026 11:00:00,BoE MPC Vote Rate Unchanged,HIGH,GBP
 7fce0724-0e2b-45c5-95f2-b52d899abda1,06/18/2026 23:01:00,GfK Consumer Confidence,MEDIUM,GBP
+f617368e-708e-4200-bfec-0bcd7a48731d,06/19/2026 06:00:00,Public Sector Net Borrowing,LOW,GBP
 4d4e801f-0333-443d-bbe1-278d70d7a74c,06/19/2026 06:00:00,Retail Sales (MoM),HIGH,GBP
 45706252-c704-401b-b646-fd0235774cc1,06/19/2026 06:00:00,Retail Sales (YoY),MEDIUM,GBP
 d88964f1-531a-49bd-9780-08509e55230e,06/19/2026 06:00:00,Retail Sales ex-Fuel (MoM),MEDIUM,GBP
 eaf9e7e3-b5a2-41dc-89d1-6da911d381c5,06/19/2026 06:00:00,Retail Sales ex-Fuel (YoY),MEDIUM,GBP
 e9599bd8-976e-4ea2-955a-d8c0406bea88,06/19/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
-f617368e-708e-4200-bfec-0bcd7a48731d,06/23/2026 06:00:00,Public Sector Net Borrowing,LOW,GBP
 0525de46-2062-4e0d-9a25-d2be4f81d9a7,06/23/2026 08:30:00,S&P Global Composite PMI,HIGH,GBP
 eea6373b-75f7-4aa4-b7b6-34a4407a15fd,06/23/2026 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP
 f05db088-4bb2-4e5d-b3bd-ae88339dc18c,06/23/2026 08:30:00,S&P Global Services PMI,HIGH,GBP
