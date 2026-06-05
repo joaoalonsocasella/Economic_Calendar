@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-bed300f7-144e-4081-a7a3-121c24151c33,06/04/2026 23:30:00,Labor Cash Earnings (YoY),HIGH,JPY,Release,0.18,Labor Market
-20648949-63f2-47aa-a911-657ad3a8e394,06/04/2026 23:30:00,Overall Household Spending (YoY),HIGH,JPY,Release,0.17,Growth
-bc80b4c6-fc71-4bd5-8e65-1e22a0c9cfa8,06/04/2026 23:50:00,JP Foreign Reserves,LOW,JPY,Release,0.09,Money and Credit
 340cac4e-8e1b-499f-9faa-ecfa8290383b,06/05/2026 05:00:00,Coincident Index,MEDIUM,JPY,Release,0.11,Trade and External
 519c317c-bc3b-425f-aa02-6d53735e9d6c,06/05/2026 05:00:00,Leading Economic Index,MEDIUM,JPY,Release,0.14,Confidence
 529d61ee-02e1-4699-b73e-d64d8fd72772,06/05/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
