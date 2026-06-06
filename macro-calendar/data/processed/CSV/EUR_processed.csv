@@ -1,14 +1,14 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-03e2acdb-335f-4e37-835e-2e06f96d9642,06/05/2026 09:00:00,Employment Change (QoQ),HIGH,EUR,Release,0.765,Labor Market
-fc48e598-360d-4b88-86f9-376bdd3f82b7,06/05/2026 09:00:00,Employment Change (YoY),HIGH,EUR,Release,0.765,Labor Market
-ae9b3356-bde8-405b-b4da-d19682ecee73,06/05/2026 09:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR,Release,0.722,Growth
-e6deb848-8506-4fb8-b7e6-a3bee3eee582,06/05/2026 09:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR,Release,0.722,Growth
-4b5fc7f6-f073-45bd-b613-1abc31192836,06/05/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 de6606c7-d647-4048-be89-9481ccf5458b,06/08/2026 08:30:00,Sentix Investor Confidence,HIGH,EUR,Release,0.595,Confidence
+787b3bc6-9000-4f1b-9a1f-b080065fc85d,06/09/2026 16:30:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
+66ef8c71-6dd0-44d4-b1db-de617784f67d,06/10/2026 00:00:00,European Council Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
+99de319e-078d-443e-addf-026beb1fb1be,06/11/2026 00:00:00,European Council Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
+eb7f5ad5-1085-40d3-8e04-5f233ff554eb,06/11/2026 06:00:00,Eurogroup Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
 ab92462e-7957-4f2f-9261-e503a955ac24,06/11/2026 12:15:00,ECB Main Refinancing Operations Rate,HIGH,EUR,Speech,0.552,Monetary Policy
 565b7217-782a-441e-ab80-29ba63703ed2,06/11/2026 12:15:00,ECB Monetary Policy Statement,HIGH,EUR,Speech,0.552,Monetary Policy
 3d0623dc-291a-430f-8ac2-1303aa4a395e,06/11/2026 12:15:00,ECB Rate On Deposit Facility,HIGH,EUR,Release,0.85,Monetary Policy
 0943c10c-bcd0-4199-a63f-82fbc5a6cdb9,06/11/2026 12:45:00,ECB Press Conference,HIGH,EUR,Speech,0.552,Monetary Policy
+37b31b6f-715b-4395-ba0f-45c6345839e4,06/12/2026 06:00:00,EcoFin Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
 fce4ee06-6e59-44d7-a850-c9e61bc6a7fd,06/12/2026 10:30:00,ECB's Sleijpen speech,HIGH,EUR,Speech,0.552,Monetary Policy
 e9f07c2b-bf9f-445b-a31b-ce6ccbbe7720,06/12/2026 14:30:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 bf445fbc-c9ba-44f5-ae27-7c39acf485c9,06/12/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
