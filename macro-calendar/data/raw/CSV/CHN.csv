@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-6eb7054c-ce00-44e6-a9bd-c407d97a8033,06/07/2026 08:00:00,Foreign Exchange Reserves (MoM),LOW,CNY
 3dbe0a44-acd5-4a06-9518-ff233eaa0b3d,06/09/2026 03:00:00,Exports (YoY),MEDIUM,CNY
 fa2c64fe-343b-466b-b2cb-eaac2bdac174,06/09/2026 03:00:00,Exports (YoY) CNY,MEDIUM,CNY
 c7b71bce-b157-4ffe-8c1d-b4f860c8bbfa,06/09/2026 03:00:00,Imports (YoY),MEDIUM,CNY
@@ -9,9 +8,9 @@ f6967660-fd18-4763-ae74-c11282e67563,06/09/2026 03:00:00,Imports (YoY) CNY,MEDIU
 36df565f-9d5f-4b99-b0f7-aad367fa37ee,06/10/2026 01:30:00,Consumer Price Index (MoM),MEDIUM,CNY
 4630baca-2680-40f6-b106-6d41215cd148,06/10/2026 01:30:00,Consumer Price Index (YoY),HIGH,CNY
 1bf02b30-4f0e-4fa9-81d1-de73c85d7bb8,06/10/2026 01:30:00,Producer Price Index (YoY),MEDIUM,CNY
+e4817d4a-d9d4-47df-a755-97481bbbb6bb,06/12/2026 10:00:00,M2 Money Supply (YoY),LOW,CNY
+cb08db29-ae6f-458e-bf3f-50aa8d5b2e1d,06/12/2026 10:00:00,New Loans,LOW,CNY
 66a58147-6e85-4899-bd3c-56c348b1ca99,06/15/2026 01:30:00,"House Price Index ",LOW,CNY
-e4817d4a-d9d4-47df-a755-97481bbbb6bb,06/15/2026 10:00:00,M2 Money Supply (YoY),LOW,CNY
-cb08db29-ae6f-458e-bf3f-50aa8d5b2e1d,06/15/2026 10:00:00,New Loans,LOW,CNY
 b0011a0a-1766-4b8d-9268-da83b4d982c9,06/16/2026 02:00:00,Fixed Asset Investment (YTD) (YoY),LOW,CNY
 cdbd2532-3efb-4100-a5e2-e2334e5e6ca6,06/16/2026 02:00:00,Industrial Production (YoY),HIGH,CNY
 a5dfb888-b6cc-43f8-85af-ae6a41c6b804,06/16/2026 02:00:00,Retail Sales (YoY),HIGH,CNY

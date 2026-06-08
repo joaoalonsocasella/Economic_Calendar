@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-680b5364-8c93-4e99-b4cc-8c76ab743a62,06/07/2026 23:50:00,Bank Lending (YoY),HIGH,JPY,Release,0.19,Inflation
-f42070ec-243c-4eee-8755-88e8539c4f9d,06/07/2026 23:50:00,Current Account n.s.a.,MEDIUM,JPY,Release,0.11,Trade and External
-f4c4a221-b654-44b6-b9a2-41b9943b0113,06/07/2026 23:50:00,Gross Domestic Product (QoQ),HIGH,JPY,Release,0.17,Growth
-0b28a002-c471-4dad-b722-056e34e667c8,06/07/2026 23:50:00,Gross Domestic Product Annualized,HIGH,JPY,Release,0.17,Growth
-3a4a2817-cff1-4530-9c0b-3e1a35084be3,06/07/2026 23:50:00,Gross Domestic Product Deflator (YoY),HIGH,JPY,Release,0.19,Inflation
-98f3d7d2-1d40-438e-9568-436c118f5dc5,06/07/2026 23:50:00,Trade Balance - BOP Basis,MEDIUM,JPY,Release,0.11,Trade and External
 9097aa6e-372a-4b72-9438-52dcaad11e49,06/08/2026 05:00:00,Eco Watchers Survey: Current,MEDIUM,JPY,Release,0.14,Confidence
 78e5b975-6871-4279-84c6-29dfaa9053dc,06/08/2026 05:00:00,Eco Watchers Survey: Outlook,MEDIUM,JPY,Release,0.14,Confidence
 82f0d20f-648d-4649-b99e-96b3ee6a66ac,06/08/2026 23:50:00,Money Supply M2+CD (YoY),HIGH,JPY,Release,0.19,Inflation
@@ -34,7 +28,7 @@ dbe7844a-6e06-4553-afc7-574ea52d1091,06/18/2026 23:30:00,National Consumer Price
 08acd7f8-c6b9-49a2-ab6a-b04f96b67658,06/18/2026 23:30:00,"National CPI ex Food, Energy (YoY)",HIGH,JPY,Release,0.19,Inflation
 45f24cef-3fb8-46ec-9e39-2e8a8335a0c3,06/18/2026 23:30:00,National CPI ex Fresh Food (YoY),HIGH,JPY,Release,0.19,Inflation
 e9d8b161-d6c0-4898-884f-8b8a8be29476,06/18/2026 23:50:00,BoJ Monetary Policy Meeting Minutes,MEDIUM,JPY,Speech,0.13,Monetary Policy
-f1254fde-8042-44eb-9880-0fabcf34b7b4,06/19/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
+f1254fde-8042-44eb-9880-0fabcf34b7b4,06/22/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
 b18f941f-45f6-41c0-89f3-38ab8f03f979,06/23/2026 23:50:00,BoJ Summary of Opinions,MEDIUM,JPY,Speech,0.13,Monetary Policy
 8f0374e4-d6f3-465e-83d7-d66d1a47db59,06/23/2026 23:50:00,Corporate Service Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
 414b6d25-249f-445a-a4b2-fbe70d4d1703,06/24/2026 00:30:00,Jibun Bank Manufacturing PMI,HIGH,JPY,Release,0.17,Growth
