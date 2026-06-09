@@ -1,14 +1,12 @@
 Id,Start,Name,Impact,Currency
-2ab7d8e5-5c98-417c-8e96-5c549f40f97f,06/08/2026 15:30:00,3-Month Bill Auction,LOW,USD
-97900aad-9636-4593-9623-c69afa2c8601,06/08/2026 15:30:00,6-Month Bill Auction,LOW,USD
 3c402d19-d0ec-4377-a587-3991a7576182,06/09/2026 10:00:00,NFIB Business Optimism Index,LOW,USD
 b2e78a39-39db-4543-aefa-9ea80c476e1e,06/09/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 7d4e4c1e-91c8-4d1d-ba75-b46f6b27c799,06/09/2026 12:30:00,Goods and Services Trade Balance,LOW,USD
 6b2ae920-7c41-42cb-9b31-8e1d75f2eec8,06/09/2026 12:30:00,Goods Trade Balance,LOW,USD
-739a1160-b804-426c-9600-9cbc6d2229b1,06/09/2026 12:30:00,Wholesale Inventories,LOW,USD
 d13dc91e-02b4-44f8-902c-c4acb908b3d9,06/09/2026 12:55:00,Redbook Index (YoY),LOW,USD
 5f30c768-de42-4cd5-8b15-69f050434555,06/09/2026 14:00:00,Existing Home Sales (MoM),LOW,USD
 8e86197d-8048-4923-9fc1-84215ba462e7,06/09/2026 14:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
+739a1160-b804-426c-9600-9cbc6d2229b1,06/09/2026 14:00:00,Wholesale Inventories,LOW,USD
 cac3d9cd-219f-4604-a64d-55d640eca039,06/09/2026 15:30:00,52-Week Bill Auction,LOW,USD
 6ce18803-4486-488e-a76b-c1d1ce27de9a,06/09/2026 17:00:00,3-Year Note Auction,LOW,USD
 6fdb1d08-e96e-4987-ac3b-05fc421dad31,06/09/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
@@ -107,6 +105,8 @@ eeeda4e3-cab6-46ee-b19a-3134ba046161,06/24/2026 14:30:00,EIA Crude Oil Stocks Ch
 f98ce572-15c9-4211-9401-066811cd16b7,06/24/2026 17:00:00,5-Year Note Auction,LOW,USD
 2d47a04d-8e9d-4d14-ac19-0ab6f371cf2a,06/25/2026 12:30:00,"Chicago Fed National Activity Index ",LOW,USD
 7753a75c-1ce0-42dc-9a4f-c623ed405af9,06/25/2026 12:30:00,Continuing Jobless Claims,LOW,USD
+def429c0-0351-4fb8-8c63-6038c68e8e2c,06/25/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+34dd37a9-8984-40f2-91b5-37daf3680edb,06/25/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
 325c6011-8275-4c62-b19c-90e1f6f8d188,06/25/2026 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
 3ea475cd-7f16-414e-a95f-8f328c19262f,06/25/2026 12:30:00,Durable Goods Orders,MEDIUM,USD
 be20b8ff-641c-40a9-a4c7-c98ce22acaa5,06/25/2026 12:30:00,Durable Goods Orders ex Defense,MEDIUM,USD
@@ -116,18 +116,16 @@ be20b8ff-641c-40a9-a4c7-c98ce22acaa5,06/25/2026 12:30:00,Durable Goods Orders ex
 007b616f-a0f8-4f0c-b126-b02638373479,06/25/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
 8fc21498-e5ed-4dd1-87af-6ba8ed0ca969,06/25/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
 2d7f93e5-95f8-4505-be86-da0eb7a3dec0,06/25/2026 12:30:00,Nondefense Capital Goods Orders ex Aircraft,MEDIUM,USD
+7f633ddf-cac6-4d18-83fc-1abeb9da31d3,06/25/2026 12:30:00,Personal Consumption Expenditures - Price Index (MoM),MEDIUM,USD
+f3f15ccf-7e3f-486b-9bc6-0e055187adf2,06/25/2026 12:30:00,Personal Consumption Expenditures - Price Index (YoY),MEDIUM,USD
 d9122622-bc67-461f-b48b-02c6a8bc6bbf,06/25/2026 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
+90830340-9327-4015-b619-c2af0b9f80d5,06/25/2026 12:30:00,Personal Income (MoM),MEDIUM,USD
+d0f345d0-5db3-4813-96ec-8f32f540423a,06/25/2026 12:30:00,Personal Spending,MEDIUM,USD
 e35f0fa2-f431-438d-b69d-11196ae4df32,06/25/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
 873bcdb0-812d-4836-aba8-47f69e2d236a,06/25/2026 15:00:00,Kansas Fed Manufacturing Activity,LOW,USD
 944cebfa-2945-444b-8389-2e36a41cdf11,06/25/2026 15:30:00,4-Week Bill Auction,LOW,USD
 19a3399b-6ed7-4368-b591-073c7c124aaf,06/25/2026 17:00:00,7-Year Note Auction,LOW,USD
 73db9105-6a0a-444b-b7d3-42f38a022384,06/25/2026 22:30:00,Fed's Goolsbee speech,MEDIUM,USD
-def429c0-0351-4fb8-8c63-6038c68e8e2c,06/26/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
-34dd37a9-8984-40f2-91b5-37daf3680edb,06/26/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
-7f633ddf-cac6-4d18-83fc-1abeb9da31d3,06/26/2026 12:30:00,Personal Consumption Expenditures - Price Index (MoM),MEDIUM,USD
-f3f15ccf-7e3f-486b-9bc6-0e055187adf2,06/26/2026 12:30:00,Personal Consumption Expenditures - Price Index (YoY),MEDIUM,USD
-90830340-9327-4015-b619-c2af0b9f80d5,06/26/2026 12:30:00,Personal Income (MoM),MEDIUM,USD
-d0f345d0-5db3-4813-96ec-8f32f540423a,06/26/2026 12:30:00,Personal Spending,MEDIUM,USD
 fb689bc3-87eb-48c1-869a-a44f97ac1dcc,06/26/2026 12:30:00,Wholesale Inventories,LOW,USD
 deebd982-868a-4ad3-8521-bf2da37d13f8,06/26/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
 32ce3220-a8df-42a8-bee0-db6e750201df,06/26/2026 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD

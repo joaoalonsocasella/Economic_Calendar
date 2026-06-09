@@ -1,7 +1,4 @@
 Id,Start,Name,Impact,Currency
-9097aa6e-372a-4b72-9438-52dcaad11e49,06/08/2026 05:00:00,Eco Watchers Survey: Current,LOW,JPY
-78e5b975-6871-4279-84c6-29dfaa9053dc,06/08/2026 05:00:00,Eco Watchers Survey: Outlook,LOW,JPY
-82f0d20f-648d-4649-b99e-96b3ee6a66ac,06/08/2026 23:50:00,Money Supply M2+CD (YoY),LOW,JPY
 490dc611-5a53-4df5-9884-197bde3c8aa9,06/09/2026 06:00:00,Machine Tool Orders (YoY),LOW,JPY
 f417cc8e-643c-467e-8b47-b7143e47986b,06/09/2026 23:50:00,Producer Price Index (MoM),LOW,JPY
 c8a91e85-414f-4593-b432-d62fd407ce29,06/09/2026 23:50:00,Producer Price Index (YoY),LOW,JPY
@@ -29,18 +26,18 @@ dbe7844a-6e06-4553-afc7-574ea52d1091,06/18/2026 23:30:00,National Consumer Price
 45f24cef-3fb8-46ec-9e39-2e8a8335a0c3,06/18/2026 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
 e9d8b161-d6c0-4898-884f-8b8a8be29476,06/18/2026 23:50:00,BoJ Monetary Policy Meeting Minutes,MEDIUM,JPY
 f1254fde-8042-44eb-9880-0fabcf34b7b4,06/22/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
+414b6d25-249f-445a-a4b2-fbe70d4d1703,06/23/2026 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
+296edea8-7663-477d-9e6b-38c73b7712dc,06/23/2026 00:30:00,Jibun Bank Services PMI,LOW,JPY
 b18f941f-45f6-41c0-89f3-38ab8f03f979,06/23/2026 23:50:00,BoJ Summary of Opinions,LOW,JPY
 8f0374e4-d6f3-465e-83d7-d66d1a47db59,06/23/2026 23:50:00,Corporate Service Price Index (YoY),LOW,JPY
-414b6d25-249f-445a-a4b2-fbe70d4d1703,06/24/2026 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
-296edea8-7663-477d-9e6b-38c73b7712dc,06/24/2026 00:30:00,Jibun Bank Services PMI,LOW,JPY
 a5238998-c2b7-4d7e-80ae-23d4148e623c,06/24/2026 23:50:00,Foreign Bond Investment,LOW,JPY
 598a243a-4c04-448e-874c-cfcba15b4ebb,06/24/2026 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
-bdc3c1a6-0447-4072-bf2b-a88bf9f3e288,06/26/2026 05:00:00,Coincident Index,LOW,JPY
-7908f7c5-6ff6-4270-8f4c-865d87e5ce8d,06/26/2026 05:00:00,Leading Economic Index,LOW,JPY
+bdc3c1a6-0447-4072-bf2b-a88bf9f3e288,06/25/2026 05:00:00,Coincident Index,LOW,JPY
+7908f7c5-6ff6-4270-8f4c-865d87e5ce8d,06/25/2026 05:00:00,Leading Economic Index,LOW,JPY
+369c7423-f1b6-4c27-ad01-f04e206ca890,06/25/2026 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
+c32e9df2-1e51-4ac4-8868-e437bd79aba8,06/25/2026 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
+89e71d0d-ddd5-4175-ad9a-82eb242c7f9d,06/25/2026 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
 b2db5e05-6ffa-455d-a1ce-588ecab3f094,06/26/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
-369c7423-f1b6-4c27-ad01-f04e206ca890,06/29/2026 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
-c32e9df2-1e51-4ac4-8868-e437bd79aba8,06/29/2026 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
-89e71d0d-ddd5-4175-ad9a-82eb242c7f9d,06/29/2026 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
 8890d426-2ab1-41c2-a2d1-58546fa2deb3,06/30/2026 05:00:00,Annualized Housing Starts,LOW,JPY
 3b0ddf4b-9517-4702-a484-9943f0c5c7fb,06/30/2026 05:00:00,Construction Orders (YoY),LOW,JPY
 8439f4d9-570f-49b1-bd25-5d7db20ff3d9,06/30/2026 05:00:00,Housing Starts (YoY),LOW,JPY

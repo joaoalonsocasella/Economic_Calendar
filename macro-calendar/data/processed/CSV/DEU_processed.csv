@@ -1,12 +1,10 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-10a94322-cb3f-4a53-a9ca-b6560f2b77e5,06/08/2026 06:00:00,Factory Orders n.s.a. (YoY),HIGH,EUR,Release,0.722,Growth
-42a01d51-6903-45c0-b07c-d87a26dbd6ba,06/08/2026 06:00:00,Factory Orders s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 4ea80b38-ffc9-483c-ac8e-aba344674e0f,06/09/2026 06:00:00,Exports (MoM),HIGH,EUR,Release,0.468,Trade and External
 be36e3cb-aec9-4b3c-a5e3-ea8f82a75c78,06/09/2026 06:00:00,Imports (MoM),HIGH,EUR,Release,0.468,Trade and External
 7eddb7ac-1229-4cbc-95ae-c85c06c13516,06/09/2026 06:00:00,Industrial Production n.s.a. w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth
 fa9d40e0-2613-4e60-976f-247d86af430d,06/09/2026 06:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 2553009a-1f5b-45ac-aba7-c17e4389ff6b,06/09/2026 06:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External
-3206f3b7-cdcf-4c34-b9b2-011a1b8bdab7,06/10/2026 09:30:00,10-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
+3206f3b7-cdcf-4c34-b9b2-011a1b8bdab7,06/09/2026 09:40:00,10-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 31a9720b-6a82-4561-9614-f85218918616,06/11/2026 12:30:00,Current Account n.s.a.,HIGH,EUR,Release,0.468,Trade and External
 d461ca8b-3376-4f3d-b55b-be7fa2184d99,06/12/2026 06:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 b875d1cb-fdb4-421c-bb31-851ca2574419,06/12/2026 06:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
@@ -20,13 +18,13 @@ b3d4f2cd-2e7d-4619-b902-fb917107d73c,06/16/2026 09:00:00,ZEW Survey – Economic
 fdc116ee-b0ac-4f0b-8808-50bf43eb65ce,06/19/2026 06:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 becd6d32-41d5-49a5-bd12-490591ebf775,06/19/2026 06:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 adfe8c6b-4b86-4915-9cf8-ea981d91e28b,06/22/2026 10:00:00,German Buba Monthly Report,HIGH,EUR,Release,0.85,Monetary Policy
-0f6007bb-89a9-41d9-96b8-cb3da08c1c3d,06/24/2026 07:30:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
-de403ef8-bd21-44dc-9c77-f0476a429f33,06/24/2026 07:30:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
-571e5622-4d2b-44b5-8d02-2776604a98ce,06/24/2026 07:30:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+0f6007bb-89a9-41d9-96b8-cb3da08c1c3d,06/23/2026 07:30:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
+de403ef8-bd21-44dc-9c77-f0476a429f33,06/23/2026 07:30:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+571e5622-4d2b-44b5-8d02-2776604a98ce,06/23/2026 07:30:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+2de213d4-e78f-4b11-b55c-e3c03f0b06b3,06/24/2026 08:00:00,IFO – Business Climate,HIGH,EUR,Release,0.595,Confidence
+ca5495a0-b79c-4e7b-90be-8f35820f724d,06/24/2026 08:00:00,IFO – Current Assessment,HIGH,EUR,Release,0.595,Confidence
+f67f4ee7-cad7-4dc8-bbd8-8cd716c0ff88,06/24/2026 08:00:00,IFO – Expectations,HIGH,EUR,Release,0.595,Confidence
 da630a63-31ca-43f5-a08e-44d5533ca81b,06/25/2026 06:00:00,GfK Consumer Confidence Survey,HIGH,EUR,Release,0.595,Confidence
-2de213d4-e78f-4b11-b55c-e3c03f0b06b3,06/25/2026 08:00:00,IFO – Business Climate,HIGH,EUR,Release,0.595,Confidence
-ca5495a0-b79c-4e7b-90be-8f35820f724d,06/25/2026 08:00:00,IFO – Current Assessment,HIGH,EUR,Release,0.595,Confidence
-f67f4ee7-cad7-4dc8-bbd8-8cd716c0ff88,06/25/2026 08:00:00,IFO – Expectations,HIGH,EUR,Release,0.595,Confidence
 231a0d4a-7ca5-4062-96cc-3e5fa1e0eaa8,06/30/2026 06:00:00,Import Price Index (MoM),HIGH,EUR,Release,0.468,Trade and External
 37a6053d-dba6-45ee-be1f-67bfa895f077,06/30/2026 06:00:00,Import Price Index (YoY),HIGH,EUR,Release,0.468,Trade and External
 64c2a262-b268-4785-8b32-3149cd07f3b5,06/30/2026 06:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth

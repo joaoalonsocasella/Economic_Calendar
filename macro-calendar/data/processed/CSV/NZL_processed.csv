@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-6d2f6246-1786-423c-ad53-48d3b7bc0e3b,06/08/2026 22:45:00,Manufacturing Sales,HIGH,NZD,Release,0.17,Growth
 0567637b-6b42-4f0b-9e4d-4337c84dafe3,06/11/2026 22:30:00,Business NZ PMI,HIGH,NZD,Release,0.17,Growth
 f16934fc-a008-4c4c-b2af-a88fb70adf7b,06/11/2026 22:45:00,Visitor Arrivals (YoY),HIGH,NZD,Release,0.19,Inflation
 d4c091c5-d7e8-43fe-91ea-c06eba7ebd00,06/14/2026 22:30:00,Business NZ PSI,MEDIUM,NZD,Release,0.14,Confidence
@@ -17,10 +16,10 @@ e7bea2a1-3d6b-41bf-a369-2aac2e74846d,06/16/2026 22:45:00,Current Account (QoQ),M
 d97c10a5-4c72-4590-a7e2-809a6c04546c,06/18/2026 22:45:00,Trade Balance NZD (MoM),MEDIUM,NZD,Release,0.11,Trade and External
 61ab45bc-a9f0-4d1a-995f-8727afee41c2,06/18/2026 22:45:00,Trade Balance NZD (YoY),MEDIUM,NZD,Release,0.11,Trade and External
 f896d9f1-b45b-4b04-b9d9-48f45d2162dd,06/22/2026 03:00:00,Credit Card Spending (YoY),HIGH,NZD,Release,0.17,Growth
-26284fdb-5298-4e76-887f-0998eca35dab,06/25/2026 22:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Release,0.14,Confidence
 1711e64c-73df-4649-b75f-8ba8a9df8b18,06/30/2026 01:00:00,ANZ Activity Outlook,MEDIUM,NZD,Release,0.14,Confidence
 5536e165-f8cc-4cf8-8fb4-1052f6c4ef35,06/30/2026 01:00:00,ANZ Business Confidence,MEDIUM,NZD,Release,0.14,Confidence
 a99d981b-7a6a-4ce1-93bc-0703614315c4,06/30/2026 22:45:00,Building Permits s.a. (MoM),LOW,NZD,Release,0.07,Housing
+26284fdb-5298-4e76-887f-0998eca35dab,07/02/2026 22:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Release,0.14,Confidence
 1122ed98-3b9d-4f77-a90c-a44c3def2bb4,07/06/2026 01:00:00,ANZ Commodity Price,MEDIUM,NZD,Release,0.14,Confidence
 27da6b8e-3748-4ce3-8867-182fdc43ed07,07/06/2026 22:00:00,NZIER Business Confidence (QoQ),MEDIUM,NZD,Release,0.14,Confidence
 3d91f323-980a-4c8d-87f4-1ab32afb26f0,07/07/2026 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External

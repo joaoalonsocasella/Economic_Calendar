@@ -1,16 +1,12 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-c6fcd1c0-59f1-4f99-92a2-407c90835b22,06/08/2026 07:00:00,Construction output (YoY),HIGH,CZK,Release,0.17,Growth
-45a87ab0-e6d0-4011-8baf-d6a247a515e2,06/08/2026 07:00:00,Foreign Trade Balance (MoM),MEDIUM,CZK,Release,0.11,Trade and External
-cc70a8f3-72ba-4c96-bfd5-85b96a196c7f,06/08/2026 07:00:00,Industrial Production (YoY),HIGH,CZK,Release,0.17,Growth
-fff32a08-4902-44f7-87d3-ea3278b2e1fd,06/08/2026 08:00:00,Unemployment Rate,HIGH,CZK,Release,0.18,Labor Market
 fb31d067-5474-4767-bf4c-a69d0f42dfa5,06/09/2026 08:00:00,FX Reserves,LOW,CZK,Release,0.09,Money and Credit
 a316d23b-7a13-4853-b7fb-c90e30043502,06/10/2026 07:00:00,Consumer Price Index (MoM),HIGH,CZK,Release,0.19,Inflation
 669874b5-20f9-463c-acb5-2ec0dfe15d07,06/10/2026 07:00:00,Consumer Price Index (YoY),HIGH,CZK,Release,0.19,Inflation
 d7b6c91e-01cf-4760-9c0b-7ec4e871bdea,06/12/2026 08:00:00,Current Account (MoM),MEDIUM,CZK,Release,0.11,Trade and External
 c9d07f6f-0257-44c5-9af8-0b75d445bf9c,06/16/2026 07:00:00,Producer Price Index (MoM),HIGH,CZK,Release,0.19,Inflation
 b2e9895d-2199-4ecb-94cc-f4de9c0e9cde,06/16/2026 07:00:00,Producer Price Index (YoY),HIGH,CZK,Release,0.19,Inflation
+b295ce1b-a8f5-4b3b-bcbc-fe7aaca8a5fa,06/18/2026 12:30:00,CNB Interest Rate Decision,HIGH,CZK,Release,0.2,Monetary Policy
 e9180a0d-6bf1-4b02-a1f7-83eef371d0db,06/22/2026 08:00:00,Foreign Debt,MEDIUM,CZK,Release,0.11,Trade and External
-b295ce1b-a8f5-4b3b-bcbc-fe7aaca8a5fa,06/25/2026 12:30:00,CNB Interest Rate Decision,HIGH,CZK,Release,0.2,Monetary Policy
 4e800048-4f18-401a-ad6c-c8d6ae66b391,06/30/2026 07:00:00,Gross Domestic Product (YoY) 	,HIGH,CZK,Release,0.17,Growth
 84756775-d398-42c7-9fee-b22e76f29a9d,07/01/2026 07:30:00,S&P Global PMI,HIGH,CZK,Release,0.17,Growth
 6a98dcf8-800c-4154-a816-986b54151057,07/01/2026 12:00:00,Budget Balance,MEDIUM,CZK,Release,0.11,Trade and External
