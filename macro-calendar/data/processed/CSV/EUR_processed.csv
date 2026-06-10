@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-787b3bc6-9000-4f1b-9a1f-b080065fc85d,06/09/2026 16:30:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
 66ef8c71-6dd0-44d4-b1db-de617784f67d,06/10/2026 00:00:00,European Council Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
 99de319e-078d-443e-addf-026beb1fb1be,06/11/2026 00:00:00,European Council Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
 eb7f5ad5-1085-40d3-8e04-5f233ff554eb,06/11/2026 06:00:00,Eurogroup Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
@@ -146,10 +145,10 @@ adc8b9b1-0e48-4e22-9f68-9bc01b291d1a,09/01/2026 09:00:00,Core Harmonized Index o
 3dc23f94-ea3b-4469-ba85-28be4aa07fcf,09/03/2026 08:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 b8244406-ed57-4bc3-ad6c-011c2631ee3d,09/04/2026 09:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 fd2bcf4c-e3e7-4d1d-b20f-dcc2d9f90cc1,09/04/2026 09:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+a1174894-8682-44b5-966c-b2e517dc6458,09/04/2026 09:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
+3596bc2e-3cef-4a6c-acee-228c9432a9e5,09/04/2026 09:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 554a5258-477f-4fed-9ba5-a6ba4e29f45d,09/04/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 4adc0708-5c58-4fd8-9176-c8a7375a868b,09/07/2026 08:30:00,Sentix Investor Confidence,HIGH,EUR,Release,0.595,Confidence
-a1174894-8682-44b5-966c-b2e517dc6458,09/07/2026 09:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
-3596bc2e-3cef-4a6c-acee-228c9432a9e5,09/07/2026 09:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 a990b902-a27d-4588-8e3b-06cea813f0f2,09/07/2026 10:00:00,Employment Change (QoQ),HIGH,EUR,Release,0.765,Labor Market
 eb3472d0-a5a5-4047-8da4-6ea54951e929,09/07/2026 10:00:00,Employment Change (YoY),HIGH,EUR,Release,0.765,Labor Market
 64fd90bc-08ca-4d34-a9ff-b2632e9b65b7,09/07/2026 10:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR,Release,0.722,Growth
@@ -248,8 +247,8 @@ c3337e3c-8e96-4d1d-ab3f-a41b9b0743cc,11/04/2026 09:00:00,HCOB Services PMI,HIGH,
 f8b4a07e-ddc6-48f4-a612-548d3b31c2df,11/04/2026 10:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
 9b5497a1-073d-4362-bfd0-a386a9c1e43d,11/05/2026 10:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 b8d273f5-96e3-4301-855d-240e39b891b5,11/05/2026 10:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-9bb94ec4-6b20-4870-8b95-b2acf9492206,11/05/2026 10:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
-325e19b3-01b2-4e67-9138-5533b5ecaf20,11/05/2026 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+9bb94ec4-6b20-4870-8b95-b2acf9492206,11/06/2026 10:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
+325e19b3-01b2-4e67-9138-5533b5ecaf20,11/06/2026 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 8ddc05e9-3348-4491-8f32-9db42062df93,11/06/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 eb2d0c28-b742-41b1-bf57-10e9364fdb89,11/09/2026 09:30:00,Sentix Investor Confidence,HIGH,EUR,Release,0.595,Confidence
 24e93735-2e92-4ede-917f-9844e2abec21,11/13/2026 10:00:00,Employment Change (QoQ),HIGH,EUR,Release,0.765,Labor Market
@@ -295,14 +294,14 @@ df78383c-0af0-424a-b1c0-c6b25eead7a7,12/02/2026 10:00:00,Unemployment Rate,HIGH,
 66f63689-e946-4950-a127-8d02318934bf,12/03/2026 09:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 145749ec-22d3-4170-bebc-6bf4fe2b382c,12/03/2026 10:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 c525456e-d322-45ed-b4d2-7132a362ac06,12/03/2026 10:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+5d5546d0-dce8-4186-8f72-9d1c246e44d0,12/04/2026 10:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
+576107ce-d2b7-43b8-a46c-9ed4f644c790,12/04/2026 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 22eb0b88-30c4-4169-9858-82f2183d953a,12/04/2026 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 27200c1d-9996-4172-826c-91e73f95de4f,12/07/2026 09:30:00,Sentix Investor Confidence,HIGH,EUR,Release,0.595,Confidence
 db076a7c-7501-446d-858f-796fda3dde6d,12/07/2026 10:00:00,Employment Change (QoQ),HIGH,EUR,Release,0.765,Labor Market
 878e419b-f3ca-4504-9ab0-78db2f62ff78,12/07/2026 10:00:00,Employment Change (YoY),HIGH,EUR,Release,0.765,Labor Market
 6d89c89f-4cbb-49df-869d-bbb6814b2d55,12/07/2026 10:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR,Release,0.722,Growth
 a24055a4-860f-40fa-923e-e9c1984b34f9,12/07/2026 10:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR,Release,0.722,Growth
-5d5546d0-dce8-4186-8f72-9d1c246e44d0,12/07/2026 10:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
-576107ce-d2b7-43b8-a46c-9ed4f644c790,12/07/2026 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 86f08fae-98cc-43fa-a545-3c89d483cff5,12/10/2026 13:45:00,ECB Press Conference,HIGH,EUR,Speech,0.552,Monetary Policy
 d3d3b2c7-c851-4854-8631-a0ffa03099af,12/11/2026 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 3874bc47-a202-48f1-b2e9-d5aaf5143036,12/15/2026 10:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
@@ -427,6 +426,8 @@ ea45f08e-4a07-420e-934f-28f04d300eab,04/01/2027 09:00:00,Core Harmonized Index o
 e9e76c0f-44a8-4f00-a68b-44b385996a60,04/01/2027 09:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
 4989714c-5699-4a03-b21d-8c6dd14020d5,04/05/2027 08:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 a81dae94-02db-4826-84c6-086002646d3a,04/05/2027 08:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+ea0e872b-9cee-4367-8881-6068f9ade7f0,04/05/2027 09:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
+a29a80d4-cb17-46ce-9107-9f859a830acc,04/05/2027 09:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 a469bc65-c573-4f10-9189-3d813b64cc58,04/22/2027 08:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 c48705df-162a-4d76-9c33-5cf0326046e3,04/22/2027 08:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 3a262f76-b16a-4516-b3c7-f695d33315be,04/22/2027 08:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
@@ -437,6 +438,8 @@ c48705df-162a-4d76-9c33-5cf0326046e3,04/22/2027 08:00:00,HCOB Manufacturing PMI,
 4a899448-151d-4de4-bba7-3c347856a779,05/03/2027 08:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 3ae3cdc8-c43a-49f7-b223-f96761fb039f,05/05/2027 08:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 af41ddbd-72da-4c43-b8fe-1895bb570cfa,05/05/2027 08:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+6b17f3d6-d640-495e-9b99-9f68248c1597,05/07/2027 09:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
+fc996df4-de40-4512-8acb-7a3eab4a10ea,05/07/2027 09:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 1a625027-3e6c-40c6-84ad-14fad2091ba5,05/14/2027 09:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR,Release,0.722,Growth
 d45a2a6b-0b75-4e1e-81b8-9c3987016d83,05/14/2027 09:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR,Release,0.722,Growth
 e01c7a68-e078-42ef-b0c1-ace1f8b18d14,05/21/2027 08:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
@@ -449,6 +452,8 @@ b199e7a8-29c6-45ff-8af4-60a02e0f6ad5,06/03/2027 08:00:00,HCOB Services PMI,HIGH,
 069a0a09-2078-4ff7-8ee5-c4661d105ff5,06/04/2027 09:00:00,Employment Change (YoY),HIGH,EUR,Release,0.765,Labor Market
 ec7fc390-b8ef-4178-9511-a695d4c1ca24,06/04/2027 09:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR,Release,0.722,Growth
 0bf1b164-2ab0-4e67-9d56-512070c12638,06/04/2027 09:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR,Release,0.722,Growth
+940af8d7-e3b1-409e-81f9-748f682fb5f7,06/04/2027 09:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
+e69dd453-c2ee-43de-aa29-3c259a7efe5f,06/04/2027 09:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 35c3faac-c89e-4b3e-bd82-1b2ab7f5cb42,06/23/2027 08:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 f815bde9-e3f3-41f3-af57-6a726438faf0,06/23/2027 08:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 df3b3182-57d4-44ef-b13d-76dd37123b5e,06/23/2027 08:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth

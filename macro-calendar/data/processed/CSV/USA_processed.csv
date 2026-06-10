@@ -1,15 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-3c402d19-d0ec-4377-a587-3991a7576182,06/09/2026 10:00:00,NFIB Business Optimism Index,MEDIUM,USD,Release,0.14,Confidence
-b2e78a39-39db-4543-aefa-9ea80c476e1e,06/09/2026 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
-7d4e4c1e-91c8-4d1d-ba75-b46f6b27c799,06/09/2026 12:30:00,Goods and Services Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
-6b2ae920-7c41-42cb-9b31-8e1d75f2eec8,06/09/2026 12:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
-d13dc91e-02b4-44f8-902c-c4acb908b3d9,06/09/2026 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
-5f30c768-de42-4cd5-8b15-69f050434555,06/09/2026 14:00:00,Existing Home Sales (MoM),LOW,USD,Release,0.07,Housing
-8e86197d-8048-4923-9fc1-84215ba462e7,06/09/2026 14:00:00,Existing Home Sales Change (MoM),LOW,USD,Release,0.07,Housing
-739a1160-b804-426c-9600-9cbc6d2229b1,06/09/2026 14:00:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
-cac3d9cd-219f-4604-a64d-55d640eca039,06/09/2026 15:30:00,52-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
-6ce18803-4486-488e-a76b-c1d1ce27de9a,06/09/2026 17:00:00,3-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-6fdb1d08-e96e-4987-ac3b-05fc421dad31,06/09/2026 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 2d6cf9d5-8061-4eb4-b28b-c183538b4867,06/10/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 b8fc2b34-6fdb-4a83-80cd-511b1beb9efb,06/10/2026 12:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 072b8a96-4f30-4c1c-81fb-701866d88260,06/10/2026 12:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
