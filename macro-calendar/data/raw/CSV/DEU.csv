@@ -1,5 +1,5 @@
 Id,Start,Name,Impact,Currency
-31a9720b-6a82-4561-9614-f85218918616,06/11/2026 12:30:00,Current Account n.s.a.,LOW,EUR
+31a9720b-6a82-4561-9614-f85218918616,06/11/2026 12:30:38,Current Account n.s.a.,LOW,EUR
 d461ca8b-3376-4f3d-b55b-be7fa2184d99,06/12/2026 06:00:00,Consumer Price Index (MoM),LOW,EUR
 b875d1cb-fdb4-421c-bb31-851ca2574419,06/12/2026 06:00:00,Consumer Price Index (YoY),LOW,EUR
 f5e2e0cd-3c5b-40ab-b097-627d0ec4d014,06/12/2026 06:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
@@ -127,10 +127,10 @@ d3d90aba-c193-4555-81fd-39d9bff98162,08/27/2026 06:00:00,GfK Consumer Confidence
 93fd768e-1adf-47ce-9045-e62d1e28e5e2,08/27/2026 08:00:00,IFO – Business Climate,MEDIUM,EUR
 456ece35-d9d5-4e92-a56f-a8235f3790aa,08/27/2026 08:00:00,IFO – Current Assessment,MEDIUM,EUR
 a1043858-31d7-404e-b479-3e1833f90597,08/27/2026 08:00:00,IFO – Expectations,MEDIUM,EUR
-ee6187c0-ffeb-4580-81c8-248ebe6d6098,08/28/2026 06:00:00,Import Price Index (MoM),LOW,EUR
-120588f5-b3d9-43ac-8b1d-46f547cfc547,08/28/2026 06:00:00,Import Price Index (YoY),LOW,EUR
 e2f3e197-12ee-4998-86d2-f8c4f179c5aa,08/28/2026 07:55:00,Unemployment Change,MEDIUM,EUR
 0a06fd9b-f074-4245-984b-ebecf769fbe3,08/28/2026 07:55:00,Unemployment Rate s.a.,MEDIUM,EUR
+ee6187c0-ffeb-4580-81c8-248ebe6d6098,08/31/2026 06:00:00,Import Price Index (MoM),LOW,EUR
+120588f5-b3d9-43ac-8b1d-46f547cfc547,08/31/2026 06:00:00,Import Price Index (YoY),LOW,EUR
 bf82c480-139e-4e02-b75c-0f78f63412de,08/31/2026 06:00:00,Retail Sales (MoM),MEDIUM,EUR
 d3a782e5-36f0-445f-bcd5-ba053a308be2,08/31/2026 06:00:00,Retail Sales (YoY),HIGH,EUR
 4272a529-8a5d-47d1-8558-ae8c3e9bed7f,08/31/2026 08:00:00,Baden-Wuerttemberg CPI (MoM),LOW,EUR
@@ -286,10 +286,10 @@ b4f9f540-81e2-4956-8c53-6e606f5fe08c,11/25/2026 07:00:00,Gross Domestic Product 
 aa48cb3e-c34e-4d29-bd76-8d9ac8b7edf6,11/25/2026 09:00:00,IFO – Current Assessment,MEDIUM,EUR
 521c5214-ac5c-4271-a5e8-b28c76bb14cf,11/25/2026 09:00:00,IFO – Expectations,MEDIUM,EUR
 91147c54-976a-48e9-b537-2c8b613c49ab,11/27/2026 07:00:00,GfK Consumer Confidence Survey,MEDIUM,EUR
-3033ecec-c2de-46c8-8c72-88871aabc101,11/27/2026 07:00:00,Import Price Index (MoM),LOW,EUR
-cc25182e-9821-4ed8-b2e3-e220875b0d79,11/27/2026 07:00:00,Import Price Index (YoY),LOW,EUR
 398272df-ff99-4199-9881-410812af33f7,11/27/2026 08:55:00,Unemployment Change,MEDIUM,EUR
 ba51343f-b6de-4ae5-b99c-7e03a7cc0aa2,11/27/2026 08:55:00,Unemployment Rate s.a.,MEDIUM,EUR
+3033ecec-c2de-46c8-8c72-88871aabc101,11/30/2026 07:00:00,Import Price Index (MoM),LOW,EUR
+cc25182e-9821-4ed8-b2e3-e220875b0d79,11/30/2026 07:00:00,Import Price Index (YoY),LOW,EUR
 10b668f4-0aed-4abc-81bd-8d73aa7719db,11/30/2026 07:00:00,Retail Sales (MoM),MEDIUM,EUR
 8b56deba-be73-4a31-b27b-80578a8e8ad7,11/30/2026 07:00:00,Retail Sales (YoY),HIGH,EUR
 56c8eba1-ca84-473b-8061-b685e0ab3809,11/30/2026 09:00:00,Baden-Wuerttemberg CPI (MoM),LOW,EUR
