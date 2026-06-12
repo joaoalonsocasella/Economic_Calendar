@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e57e20d7-64c9-4d97-90ef-bf13a28f8173,06/11/2026 09:30:00,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
-67daf4e8-bcd2-418f-b6fd-2fc707f108fe,06/11/2026 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
-77f80f5b-ce91-489a-b989-7dab87dbfa23,06/11/2026 11:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth
 7a5a3289-f2a3-4578-9a82-b889866b5808,06/17/2026 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
 cbe910df-568b-4751-ba46-1231162d3741,06/17/2026 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
 9b2dd1d4-e25e-44b9-b99a-132317015047,06/17/2026 11:00:00,Retail Sales (YoY),HIGH,ZAR,Release,0.17,Growth

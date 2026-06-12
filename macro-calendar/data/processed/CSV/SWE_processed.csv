@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-c472650e-b9b9-49be-8e9f-e6e9fd5a2e0a,06/11/2026 06:00:00,Consumer Price Index (MoM),HIGH,SEK,Release,0.19,Inflation
-1c08b4b3-3322-4076-b550-84a1c0abd040,06/11/2026 06:00:00,Consumer Price Index (YoY),HIGH,SEK,Release,0.19,Inflation
 a15b4677-b2d6-4f7a-a792-8991b2fcac54,06/15/2026 06:00:00,Unemployment Rate,HIGH,SEK,Release,0.18,Labor Market
 90420fe2-b2bc-47c7-ac88-1ff2b1cd4a14,06/17/2026 07:30:00,Riksbank Interest Rate Decision,HIGH,SEK,Release,0.2,Monetary Policy
 3dfc0783-9f59-4eab-bdc8-cf555819ec33,06/26/2026 06:00:00,Producer Price Index (MoM),HIGH,SEK,Release,0.19,Inflation

@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-31a9720b-6a82-4561-9614-f85218918616,06/11/2026 12:30:38,Current Account n.s.a.,HIGH,EUR,Release,0.468,Trade and External
 d461ca8b-3376-4f3d-b55b-be7fa2184d99,06/12/2026 06:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 b875d1cb-fdb4-421c-bb31-851ca2574419,06/12/2026 06:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 f5e2e0cd-3c5b-40ab-b097-627d0ec4d014,06/12/2026 06:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
@@ -9,9 +8,9 @@ f8525b40-0faf-46b4-96c0-35eff7bcc092,06/15/2026 06:00:00,Wholesale Price Index (
 74fba07d-e47d-4afe-885f-a11583c9263c,06/16/2026 09:00:00,ZEW Survey – Current Situation,HIGH,EUR,Release,0.595,Confidence
 b3d4f2cd-2e7d-4619-b902-fb917107d73c,06/16/2026 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
 330f6f4a-469e-4456-951c-5f9fb8036034,06/17/2026 09:30:00,30-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
+adfe8c6b-4b86-4915-9cf8-ea981d91e28b,06/18/2026 10:00:00,German Buba Monthly Report,HIGH,EUR,Release,0.85,Monetary Policy
 fdc116ee-b0ac-4f0b-8808-50bf43eb65ce,06/19/2026 06:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 becd6d32-41d5-49a5-bd12-490591ebf775,06/19/2026 06:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-adfe8c6b-4b86-4915-9cf8-ea981d91e28b,06/22/2026 10:00:00,German Buba Monthly Report,HIGH,EUR,Release,0.85,Monetary Policy
 0f6007bb-89a9-41d9-96b8-cb3da08c1c3d,06/23/2026 07:30:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 de403ef8-bd21-44dc-9c77-f0476a429f33,06/23/2026 07:30:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 571e5622-4d2b-44b5-8d02-2776604a98ce,06/23/2026 07:30:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth

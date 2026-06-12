@@ -1,11 +1,7 @@
 Id,Start,Name,Impact,Currency
-99de319e-078d-443e-addf-026beb1fb1be,06/11/2026 00:00:00,European Council Meeting,HIGH,EUR
-eb7f5ad5-1085-40d3-8e04-5f233ff554eb,06/11/2026 06:00:00,Eurogroup Meeting,MEDIUM,EUR
-ab92462e-7957-4f2f-9261-e503a955ac24,06/11/2026 12:15:00,ECB Main Refinancing Operations Rate,HIGH,EUR
-565b7217-782a-441e-ab80-29ba63703ed2,06/11/2026 12:15:00,ECB Monetary Policy Statement,HIGH,EUR
-3d0623dc-291a-430f-8ac2-1303aa4a395e,06/11/2026 12:15:00,ECB Rate On Deposit Facility,HIGH,EUR
-0943c10c-bcd0-4199-a63f-82fbc5a6cdb9,06/11/2026 12:45:00,ECB Press Conference,HIGH,EUR
+7a0b5e4b-e39a-47cc-8e90-f7f168457201,06/12/2026 03:30:00,ECB's Nagel speech,MEDIUM,EUR
 37b31b6f-715b-4395-ba0f-45c6345839e4,06/12/2026 06:00:00,EcoFin Meeting,MEDIUM,EUR
+f49ed726-1234-48d5-8e14-14f891420cba,06/12/2026 07:40:00,ECB's Kocher speech,MEDIUM,EUR
 fce4ee06-6e59-44d7-a850-c9e61bc6a7fd,06/12/2026 10:30:00,ECB's Sleijpen speech,MEDIUM,EUR
 e9f07c2b-bf9f-445b-a31b-ce6ccbbe7720,06/12/2026 14:30:00,ECB's Nagel speech,MEDIUM,EUR
 bf445fbc-c9ba-44f5-ae27-7c39acf485c9,06/12/2026 19:30:00,CFTC EUR NC Net Positions,LOW,EUR
@@ -21,6 +17,7 @@ ae3eb123-6dd5-4d2b-af6d-112c96467ca0,06/15/2026 09:00:00,Trade Balance n.s.a.,LO
 a6f307ce-7069-47bd-b3cc-1fe431db625e,06/17/2026 09:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 a56c329a-0042-4545-b28e-4d1e4fb8e067,06/17/2026 09:00:00,Harmonized Index of Consumer Prices (YoY),LOW,EUR
 c4e38c42-d1fe-4525-a5bd-b344ebd32e07,06/17/2026 13:00:00,ECB's Sleijpen speech,MEDIUM,EUR
+bff29746-34db-4158-872e-6c82cb0a6ae1,06/18/2026 07:00:00,ECB's Nagel speech,MEDIUM,EUR
 767baf78-d9cc-4a29-a47e-524d8d617604,06/18/2026 08:00:00,Current Account n.s.a,LOW,EUR
 e5f4d77d-cba6-4494-97a3-ac2a6be8ec24,06/18/2026 08:00:00,Current Account s.a,LOW,EUR
 f364c46b-f500-4a89-99d7-e650d7e6a831,06/18/2026 09:00:00,Construction Output  s.a (MoM),LOW,EUR

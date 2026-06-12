@@ -1,15 +1,4 @@
 Id,Start,Name,Impact,Currency
-8223c632-6c40-4bef-9b53-203e5dc52759,06/11/2026 12:30:00,Continuing Jobless Claims,LOW,USD
-b24df0d2-8a3e-4930-bc14-9f6074acecba,06/11/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
-2db40826-8d0b-4ad1-8d4a-c7b74fd40232,06/11/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
-2288c744-220c-4599-8665-bdc0c8e39cf2,06/11/2026 12:30:00,Producer Price Index (MoM),MEDIUM,USD
-654e16a6-9acd-45cd-be69-96556041313c,06/11/2026 12:30:00,Producer Price Index (YoY),MEDIUM,USD
-de9de34e-6188-40e4-97f0-79fe6b5351e0,06/11/2026 12:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
-1a6c07ff-e1d9-4fd5-bd9c-97e3dd64de59,06/11/2026 12:30:00,Producer Price Index ex Food & Energy (YoY),HIGH,USD
-45d48a8c-68c6-47d5-8f6d-12cb2d7a6bb0,06/11/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
-69346549-36e3-4bb7-b2de-885f9c712cb1,06/11/2026 15:30:00,4-Week Bill Auction,LOW,USD
-3267986c-7866-48f8-8806-2bc28d2478c4,06/11/2026 16:00:00,USDA WASDE Report,LOW,USD
-fd28c7e0-25a8-4bb0-b1bd-3ed256c52f9e,06/11/2026 17:00:00,30-Year Bond Auction,LOW,USD
 c636d6cd-d198-4470-8b36-14f4e40f6d0e,06/12/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
 56c7fe14-76e0-438b-aa20-847fc3475b74,06/12/2026 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
 3f3e2be7-db68-4c4f-aedc-1130e23f092d,06/12/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
