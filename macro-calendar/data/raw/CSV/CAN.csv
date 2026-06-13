@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-ad9f1df6-6051-42cc-b5e9-b62a5ad6a9fc,06/12/2026 12:30:00,Capacity Utilization,LOW,CAD
 cfc76f7c-4142-4685-8ed3-001e86e3b237,06/15/2026 12:15:00,Housing Starts s.a (YoY),LOW,CAD
 e6aad61f-05a2-4d4b-ab0d-26088c2899b1,06/15/2026 12:30:00,Manufacturing Sales (MoM),LOW,CAD
 75c8e913-c407-4c87-bd71-cd7aec8c47da,06/15/2026 12:30:00,Wholesale Sales (MoM),LOW,CAD
@@ -96,7 +95,6 @@ beb6a696-183d-44cf-9d11-33b2ce405549,09/03/2026 12:30:00,International Merchandi
 af2143e3-beb1-46cd-9792-95f9fef11e92,09/08/2026 14:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD
 839db2e9-dfcc-4dc8-a4f2-2141ead23226,09/11/2026 12:30:00,Average Hourly Wages (YoY),MEDIUM,CAD
 7398368c-a2d2-429a-a240-91bc74dbdedf,09/11/2026 12:30:00,Building Permits (MoM),LOW,CAD
-9c74a87b-b16e-4d9d-a1bb-5fa0e6b5708b,09/11/2026 12:30:00,Capacity Utilization,LOW,CAD
 08019d21-b6cb-4335-b3f5-13d77d3bbd28,09/11/2026 12:30:00,Net Change in Employment,HIGH,CAD
 c43abc7a-ee05-448e-aee2-9b50299d7787,09/11/2026 12:30:00,Participation Rate,LOW,CAD
 f7950b86-acc7-4fa2-9d01-4a22f71eb425,09/11/2026 12:30:00,Unemployment Rate,HIGH,CAD
@@ -197,7 +195,6 @@ d7d14404-e3b9-42b7-8924-39a570b78a34,12/09/2026 14:45:00,BoC Interest Rate Decis
 51b3da2e-9b11-492b-95a2-5d0d90d966b7,12/09/2026 15:30:00,BoC Press Conference,HIGH,CAD
 2c2c57bb-4fab-4bd2-ba3b-1d4508186b0c,12/11/2026 13:30:00,Average Hourly Wages (YoY),MEDIUM,CAD
 692ac7c2-67bf-424c-a55b-900d8f8a00ac,12/11/2026 13:30:00,Building Permits (MoM),LOW,CAD
-cbb436c5-c8b3-45b3-a078-5c2fd0df5e5a,12/11/2026 13:30:00,Capacity Utilization,LOW,CAD
 2aa2d3c0-90b8-4249-b98d-3c78b5dedbf6,12/11/2026 13:30:00,Net Change in Employment,HIGH,CAD
 396ee349-c44a-478c-abcf-5829615e2932,12/11/2026 13:30:00,Participation Rate,LOW,CAD
 f9e794c8-e68d-4a0b-a1a5-bd8fcd01d908,12/11/2026 13:30:00,Unemployment Rate,HIGH,CAD
@@ -264,7 +261,6 @@ ea12d622-adbc-4e16-83e2-e5ac054716ef,02/18/2027 13:30:00,Consumer Price Index (M
 810eb8e1-fab0-4327-9a9e-78a6611c3262,03/05/2027 13:30:00,Net Change in Employment,HIGH,CAD
 6c4196cb-dc18-4220-ae34-0d4dc1230772,03/05/2027 13:30:00,Participation Rate,LOW,CAD
 31b94974-2747-479a-bbe1-8aaf89f2fd68,03/05/2027 13:30:00,Unemployment Rate,HIGH,CAD
-e55a77de-368c-4274-b98e-55708e8e5c1c,03/12/2027 12:30:00,Capacity Utilization,LOW,CAD
 252b0ce3-eec5-431d-bcbb-c3f6dd72f0c9,03/16/2027 12:30:00,BoC Consumer Price Index Core (MoM),MEDIUM,CAD
 c2dc63f1-edf5-42ac-b1ed-ee18a05b221d,03/16/2027 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD
 02fc7549-3d5a-4b30-ac17-2417f42c5fef,03/16/2027 12:30:00,Consumer Price Index - Core (MoM),LOW,CAD
