@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-b8ebd9b7-6352-4559-b6d1-756d64dfe4a0,06/15/2026 07:30:00,Consumer Price Index (MoM),HIGH,PLN,Release,0.19,Inflation
-00fd5724-10c9-4fc4-b1bd-861a59263266,06/15/2026 07:30:00,Consumer Price Index (YoY),HIGH,PLN,Release,0.19,Inflation
 a1c047d2-d486-47d3-8dbc-a1a2af68ac6e,06/16/2026 12:00:00,Net Inflation,HIGH,PLN,Release,0.19,Inflation
 3a9c8833-89e6-4f0d-b2e6-9effb2625be2,06/18/2026 08:00:00,Industrial Output (YoY),HIGH,PLN,Release,0.17,Growth
 d91ac5e6-e3f1-431c-85fa-56e2be1db643,06/22/2026 07:30:00,Corporate Sector Wages,LOW,PLN,Release,0.09,Money and Credit

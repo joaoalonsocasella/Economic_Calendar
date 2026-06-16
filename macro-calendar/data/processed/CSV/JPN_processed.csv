@@ -1,7 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-98af2892-ffde-4562-89b2-61020e515cf7,06/15/2026 04:30:00,Tertiary Industry Index (MoM),HIGH,JPY,Release,0.17,Growth
-d4aa13b2-069b-4a1d-bd14-69ac8beb96a2,06/16/2026 03:00:00,BoJ Interest Rate Decision,HIGH,JPY,Release,0.2,Monetary Policy
 3cc5e024-da92-470a-b7cc-8d2ff2c4f353,06/16/2026 03:00:00,BoJ Monetary Policy Statement,MEDIUM,JPY,Speech,0.13,Monetary Policy
+d4aa13b2-069b-4a1d-bd14-69ac8beb96a2,06/16/2026 03:19:23,BoJ Interest Rate Decision,HIGH,JPY,Release,0.2,Monetary Policy
 8b3a3e1f-7086-4a06-ac70-4ed8bab961ef,06/16/2026 06:30:00,BoJ Press Conference,MEDIUM,JPY,Speech,0.13,Monetary Policy
 4ac48250-dd90-4a6c-82ed-7a31db502d11,06/16/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY,Release,0.11,Trade and External
 063ec4e0-be29-4773-afa9-7f2f7aa7097f,06/16/2026 23:50:00,Exports (YoY),MEDIUM,JPY,Release,0.11,Trade and External

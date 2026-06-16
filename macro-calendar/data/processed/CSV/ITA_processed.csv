@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-dc459f13-d536-43d6-af70-3ae3080e458c,06/15/2026 08:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
-a3adfd40-ad93-4498-a9f5-4afb3adfb92e,06/15/2026 08:00:00,Trade Balance EU,HIGH,EUR,Release,0.468,Trade and External
 209c42ee-0dbc-40ee-ac8f-284a2769e7ff,06/16/2026 08:00:00,Consumer Price Index (EU Norm) (MoM),HIGH,EUR,Release,0.807,Inflation
 e7879b03-8866-456d-a134-f719a75d2de8,06/16/2026 08:00:00,Consumer Price Index (EU Norm) (YoY),HIGH,EUR,Release,0.807,Inflation
 c3227453-b4c3-4f6a-8e6f-c77c17801a41,06/16/2026 08:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
@@ -14,13 +12,13 @@ c3227453-b4c3-4f6a-8e6f-c77c17801a41,06/16/2026 08:00:00,Consumer Price Index (M
 f1a2f766-d747-4f5a-b009-add1313df024,06/26/2026 10:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
 e45d1d9a-0da4-416c-9a3a-378e64f969d8,06/30/2026 08:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 a1d4a5af-ba3a-4e66-b345-6eda47a265d1,06/30/2026 08:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-979cfaa8-cf21-4474-af03-2c980e57ea87,06/30/2026 08:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
 2678a5ef-ffa0-4c1b-a4dc-c3ea6c8d21f6,06/30/2026 09:00:00,Consumer Price Index (EU Norm) (MoM),HIGH,EUR,Release,0.807,Inflation
 ee988141-96d1-40af-bc0d-0363fac11a32,06/30/2026 09:00:00,Consumer Price Index (EU Norm) (YoY),HIGH,EUR,Release,0.807,Inflation
 e07d810a-1283-490c-a579-b9db769613c2,06/30/2026 09:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 5a67a1c1-1e67-429d-8c6d-a963cc43be61,06/30/2026 09:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 e2b98724-df67-4f1a-908b-18b38dec4e04,07/01/2026 07:45:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
-209b715d-99b8-4128-92f4-c61e636666f4,07/02/2026 09:00:00,Public Deficit/GDP,HIGH,EUR,Release,0.722,Growth
+209b715d-99b8-4128-92f4-c61e636666f4,07/01/2026 08:00:00,Public Deficit/GDP,HIGH,EUR,Release,0.722,Growth
+979cfaa8-cf21-4474-af03-2c980e57ea87,07/02/2026 08:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
 a89c1006-7840-4410-8752-5497811a6b26,07/03/2026 07:45:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 aa100c98-bff0-4da0-b9e4-4d126d1662f7,07/08/2026 08:00:00,Retail Sales n.s.a (YoY),HIGH,EUR,Release,0.722,Growth
 0dfe9c97-6053-46f2-9c2a-c365d8776516,07/08/2026 08:00:00,Retail Sales s.a. (MoM),HIGH,EUR,Release,0.722,Growth

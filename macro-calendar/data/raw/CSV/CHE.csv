@@ -1,7 +1,4 @@
 Id,Start,Name,Impact,Currency
-69a3db0b-f955-4fd6-8a6c-2a74b83689be,06/15/2026 06:30:00,Producer and Import Prices (MoM),LOW,CHF
-a91409b0-d3e4-4979-8c94-18151bb579f7,06/15/2026 06:30:00,Producer and Import Prices (YoY),LOW,CHF
-3835f95c-c2e7-4243-83c0-8f2d6f886596,06/18/2026 04:30:00,SNB Financial Stability Report,MEDIUM,CHF
 db071cb2-0f58-4897-8042-92e1b2721ba9,06/18/2026 06:00:00,Exports (MoM),LOW,CHF
 d55b445a-3ba4-48dc-8160-500c175808d9,06/18/2026 06:00:00,Imports (MoM),LOW,CHF
 f1f810e2-7cb5-4b0b-9bb3-d3d90c209404,06/18/2026 06:00:00,Trade Balance,LOW,CHF
@@ -12,10 +9,11 @@ bd86d082-7505-4d73-977b-0bde9945b4c5,06/18/2026 07:30:00,SNB Monetary Policy Ass
 5779dc06-f704-403b-b482-5e6b212eba5e,06/24/2026 08:00:00,ZEW Survey – Expectations,MEDIUM,CHF
 7ab97a92-6a98-47b2-9e57-aae2880049b9,06/24/2026 13:00:00,SNB Quarterly Bulletin,MEDIUM,CHF
 aabcd807-4857-41f2-9bf7-a29aa3bac03b,06/30/2026 07:00:00,KOF Leading Indicator,LOW,CHF
+6b5599d1-38c3-4a5b-9f86-57a7e52dd564,07/01/2026 06:30:00,Real Retail Sales (YoY),MEDIUM,CHF
 ffd5105a-0bb8-434f-8430-df76c388e031,07/01/2026 07:30:00,SVME - Purchasing Managers' Index,LOW,CHF
-6b5599d1-38c3-4a5b-9f86-57a7e52dd564,07/02/2026 06:30:00,Real Retail Sales (YoY),MEDIUM,CHF
-5cfa6d5d-a895-46d8-9b4a-2b2d60037e30,07/03/2026 06:30:00,Consumer Price Index (MoM),MEDIUM,CHF
-a33e5698-04e3-4130-8d7c-c8d6ff054273,07/03/2026 06:30:00,Consumer Price Index (YoY),HIGH,CHF
+3835f95c-c2e7-4243-83c0-8f2d6f886596,07/02/2026 04:30:00,SNB Financial Stability Report,MEDIUM,CHF
+5cfa6d5d-a895-46d8-9b4a-2b2d60037e30,07/02/2026 06:30:00,Consumer Price Index (MoM),MEDIUM,CHF
+a33e5698-04e3-4130-8d7c-c8d6ff054273,07/02/2026 06:30:00,Consumer Price Index (YoY),HIGH,CHF
 9b34a090-2b7a-4133-8484-0cc0d4f8d09d,07/09/2026 07:00:00,Foreign Currency Reserves,LOW,CHF
 8ec14e4f-1912-4258-b707-f4e421f9fafc,07/10/2026 08:00:00,Unemployment Rate s.a (MoM),LOW,CHF
 0d922869-cb3a-4cfe-89be-7b2b60f66bab,07/14/2026 06:30:00,Producer and Import Prices (MoM),LOW,CHF
