@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-66a58147-6e85-4899-bd3c-56c348b1ca99,06/16/2026 01:30:00,House Price Index ,LOW,CNY,Release,0.07,Housing
-b0011a0a-1766-4b8d-9268-da83b4d982c9,06/16/2026 02:00:00,Fixed Asset Investment (YTD) (YoY),HIGH,CNY,Release,0.17,Growth
-cdbd2532-3efb-4100-a5e2-e2334e5e6ca6,06/16/2026 02:00:00,Industrial Production (YoY),HIGH,CNY,Release,0.17,Growth
-a5dfb888-b6cc-43f8-85af-ae6a41c6b804,06/16/2026 02:00:00,Retail Sales (YoY),HIGH,CNY,Release,0.17,Growth
 fb9a44d2-c230-4542-9357-86a90983b66d,06/19/2026 09:00:00,FDI - Foreign Direct Investment (YTD) (YoY),HIGH,CNY,Release,0.17,Growth
 a7efaa6a-eec4-4666-8cf1-7dddd10cd8d0,06/22/2026 01:15:00,PBoC Interest Rate Decision,HIGH,CNY,Release,0.2,Monetary Policy
 1ecb373b-1f5c-4690-b10f-533cba436177,06/30/2026 01:30:00,NBS Manufacturing PMI,HIGH,CNY,Release,0.17,Growth

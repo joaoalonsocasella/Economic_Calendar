@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-848e002b-d85a-4b9d-82f8-e30b6197f73d,06/16/2026 09:00:00,Labor Cost Index,HIGH,EUR,Release,0.765,Labor Market
-57bcdbf9-b3a5-4ed0-b524-9aefdabf7c02,06/16/2026 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
-6a47fe34-4fa3-4108-8dd6-49d177b76976,06/16/2026 10:55:00,ECB's Escrivá speech,HIGH,EUR,Speech,0.552,Monetary Policy
-ff294bb7-0c92-47a6-a372-12ee239c9ffb,06/16/2026 13:10:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
-4d268104-c51e-4de5-b549-486ff62e31ba,06/16/2026 19:05:00,ECB's Sleijpen speech,HIGH,EUR,Speech,0.552,Monetary Policy
 fb640642-322c-438e-96ac-635e68e78d23,06/17/2026 07:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
 ecbb6659-7ee5-4ad8-ba93-8c1bb4a0bf5f,06/17/2026 07:30:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
 7bd524ad-08c0-4585-bd52-d7f98f7a402e,06/17/2026 09:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
