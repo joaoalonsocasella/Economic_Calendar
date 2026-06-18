@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-330f6f4a-469e-4456-951c-5f9fb8036034,06/17/2026 09:40:00,30-y Bond Auction,LOW,EUR
 adfe8c6b-4b86-4915-9cf8-ea981d91e28b,06/18/2026 10:00:00,German Buba Monthly Report,MEDIUM,EUR
 fdc116ee-b0ac-4f0b-8808-50bf43eb65ce,06/19/2026 06:00:00,Producer Price Index (MoM),MEDIUM,EUR
 becd6d32-41d5-49a5-bd12-490591ebf775,06/19/2026 06:00:00,Producer Price Index (YoY),MEDIUM,EUR
@@ -302,10 +301,10 @@ cf02c40b-3877-408e-a196-5c3476773e11,11/30/2026 13:00:00,Harmonized Index of Con
 cd1801c6-14e1-4b00-b7f5-6fa4c0de39d1,12/01/2026 08:55:00,HCOB Manufacturing PMI,MEDIUM,EUR
 d13d30fe-321e-41cb-b213-58bf6ffd4009,12/03/2026 08:55:00,HCOB Composite PMI,MEDIUM,EUR
 2eab94e0-1e1f-44c3-b5f7-651982111089,12/03/2026 08:55:00,HCOB Services PMI,MEDIUM,EUR
+5d3f462a-9cb4-4d51-8d21-8c1743073721,12/07/2026 07:00:00,Factory Orders n.s.a. (YoY),MEDIUM,EUR
+ad4a13d3-f533-43ea-acf0-6fa0d87b59b8,12/07/2026 07:00:00,Factory Orders s.a. (MoM),MEDIUM,EUR
 cd50d25b-70f6-402c-8a83-7453a73080f5,12/07/2026 07:00:00,Industrial Production n.s.a. w.d.a. (YoY),MEDIUM,EUR
 94a42ce5-52c9-410b-abfd-2715b9f67488,12/07/2026 07:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
-5d3f462a-9cb4-4d51-8d21-8c1743073721,12/08/2026 07:00:00,Factory Orders n.s.a. (YoY),MEDIUM,EUR
-ad4a13d3-f533-43ea-acf0-6fa0d87b59b8,12/08/2026 07:00:00,Factory Orders s.a. (MoM),MEDIUM,EUR
 0b677d93-ecd5-4059-b7ae-1a21ab3b1886,12/09/2026 07:00:00,Exports (MoM),LOW,EUR
 3774493f-f3e9-4d22-bc85-59c3ddac97ed,12/09/2026 07:00:00,Imports (MoM),LOW,EUR
 1e484a7b-8f0f-4e47-bf0f-417ec7de19e6,12/09/2026 07:00:00,Trade Balance s.a.,MEDIUM,EUR
