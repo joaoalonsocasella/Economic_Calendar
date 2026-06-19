@@ -1,22 +1,28 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-bff29746-34db-4158-872e-6c82cb0a6ae1,06/18/2026 07:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-767baf78-d9cc-4a29-a47e-524d8d617604,06/18/2026 08:00:00,Current Account n.s.a,HIGH,EUR,Release,0.468,Trade and External
-e5f4d77d-cba6-4494-97a3-ac2a6be8ec24,06/18/2026 08:00:00,Current Account s.a,HIGH,EUR,Release,0.468,Trade and External
-f364c46b-f500-4a89-99d7-e650d7e6a831,06/18/2026 09:00:00,Construction Output  s.a (MoM),HIGH,EUR,Release,0.297,Housing
-dd1b3007-de7d-45ca-b0e9-dd3a3b25114a,06/18/2026 09:00:00,Construction Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
-164d586b-82e7-4f4f-b255-93cb2ad77d97,06/18/2026 10:10:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy
-440d8c69-dfe9-47b6-8695-437f96e1462d,06/18/2026 12:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
-2457afa8-88ab-44fe-b437-27be9d42a22c,06/18/2026 12:15:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
 c7e06f36-4cee-43d4-82db-99647a7fcc3d,06/19/2026 07:10:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
 3fca0f77-d4c5-4e9a-ae65-9cab6e701383,06/19/2026 10:15:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
 1110ebf4-603a-4481-9c47-27ff9818484d,06/19/2026 10:30:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy
 bf9537ac-443d-4c2c-a541-c873def4a7ee,06/19/2026 14:30:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
+767d3f43-07c4-460d-a643-2a6e520a1dfc,06/22/2026 08:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
+6ee61e1e-94ac-41dc-bb9b-8bca20cee87e,06/22/2026 13:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
 1067237c-bb14-439f-86a6-f7e14041cfcd,06/22/2026 14:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+cc0324bb-602d-409b-a1d0-276b15aab839,06/22/2026 15:15:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
 d51c38ba-4805-4d9f-b41f-5afd032bae40,06/22/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 5a5c0878-79c0-469a-9265-ebcb34230cfe,06/23/2026 08:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 65d42a5c-616f-4468-ae8f-74f22f8a499f,06/23/2026 08:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 3b3e2bc4-ec98-48f7-a7f8-297f2e8b31e2,06/23/2026 08:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+2ab20226-8b74-4d67-9017-8cbd6d177006,06/23/2026 08:30:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
+01640f36-77d6-4312-b517-d2bc5216e934,06/23/2026 13:15:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy
+81397569-de50-4a1c-a8e6-c410b410b708,06/23/2026 13:55:00,ECB's Vujčić speech,HIGH,EUR,Speech,0.552,Monetary Policy
+1e8dd6c5-72a2-45e4-b9d8-00a36619b0b7,06/24/2026 09:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
+a1d21858-e03f-416e-b5b2-7c27e345f678,06/24/2026 13:35:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
+6fd67c32-3254-4191-941a-00383bf0449d,06/25/2026 10:00:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
+a74111dd-cfc7-40a1-97b8-c26d48580c96,06/25/2026 12:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
+210fc17f-71a5-4ff8-9994-30ab7c66f451,06/25/2026 15:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
+eed1f4dd-8908-4fef-80c8-82f16a43bea2,06/26/2026 08:30:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
+e9cadc98-ba2b-4fa9-a717-c58e812b9b7b,06/26/2026 16:00:00,ECB's Vujčić speech,HIGH,EUR,Speech,0.552,Monetary Policy
 2a2cc22d-c5bb-4f04-8b81-baf15131898c,06/26/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
+c64b1ecd-27d1-499b-a510-02f6141634dd,06/27/2026 13:45:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 541ca80d-ee4e-4475-be17-6ce8f9e9dca2,06/29/2026 08:00:00,Business Climate,HIGH,EUR,Release,0.595,Confidence
 e801f912-7873-4866-8152-300c50155149,06/29/2026 08:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 58604d09-51f8-4ecc-a521-77d103d43a07,06/29/2026 08:00:00,Economic Sentiment Indicator,HIGH,EUR,Release,0.595,Confidence

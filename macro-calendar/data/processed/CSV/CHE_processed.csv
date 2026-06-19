@@ -1,11 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-db071cb2-0f58-4897-8042-92e1b2721ba9,06/18/2026 06:00:00,Exports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
-d55b445a-3ba4-48dc-8160-500c175808d9,06/18/2026 06:00:00,Imports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
-f1f810e2-7cb5-4b0b-9bb3-d3d90c209404,06/18/2026 06:00:00,Trade Balance,MEDIUM,CHF,Release,0.11,Trade and External
-913d8192-ce03-4ad7-8e3f-22202de9462a,06/18/2026 07:00:00,SECO Economic Forecasts,MEDIUM,CHF,Release,0.14,Confidence
-c5fd3217-9114-4a1a-9658-edf54591a1bc,06/18/2026 07:30:00,SNB Interest Rate Decision,HIGH,CHF,Release,0.2,Monetary Policy
-bd86d082-7505-4d73-977b-0bde9945b4c5,06/18/2026 07:30:00,SNB Monetary Policy Assessment,MEDIUM,CHF,Speech,0.13,Monetary Policy
-1dc0af51-a939-4dfd-8bfb-054363530065,06/18/2026 08:00:00,SNB Press Conference,MEDIUM,CHF,Speech,0.13,Monetary Policy
 5779dc06-f704-403b-b482-5e6b212eba5e,06/24/2026 08:00:00,ZEW Survey – Expectations,MEDIUM,CHF,Release,0.14,Confidence
 7ab97a92-6a98-47b2-9e57-aae2880049b9,06/24/2026 13:00:00,SNB Quarterly Bulletin,HIGH,CHF,Release,0.2,Monetary Policy
 aabcd807-4857-41f2-9bf7-a29aa3bac03b,06/30/2026 07:00:00,KOF Leading Indicator,MEDIUM,CHF,Release,0.14,Confidence

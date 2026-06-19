@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-dbe7844a-6e06-4553-afc7-574ea52d1091,06/18/2026 23:30:00,National Consumer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
-08acd7f8-c6b9-49a2-ab6a-b04f96b67658,06/18/2026 23:30:00,"National CPI ex Food, Energy (YoY)",HIGH,JPY,Release,0.19,Inflation
-45f24cef-3fb8-46ec-9e39-2e8a8335a0c3,06/18/2026 23:30:00,National CPI ex Fresh Food (YoY),HIGH,JPY,Release,0.19,Inflation
-e9d8b161-d6c0-4898-884f-8b8a8be29476,06/18/2026 23:50:00,BoJ Monetary Policy Meeting Minutes,MEDIUM,JPY,Speech,0.13,Monetary Policy
 f1254fde-8042-44eb-9880-0fabcf34b7b4,06/22/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
 414b6d25-249f-445a-a4b2-fbe70d4d1703,06/23/2026 00:30:00,Jibun Bank Manufacturing PMI,HIGH,JPY,Release,0.17,Growth
 296edea8-7663-477d-9e6b-38c73b7712dc,06/23/2026 00:30:00,Jibun Bank Services PMI,HIGH,JPY,Release,0.17,Growth

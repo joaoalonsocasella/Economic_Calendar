@@ -1,31 +1,5 @@
 Id,Start,Name,Impact,Currency
-c4d368af-35d9-40e0-b3fd-57982258ed4c,06/17/2026 11:00:00,MBA Mortgage Applications,LOW,USD
-4793ba11-00f8-46ef-ae2f-ba507a700865,06/17/2026 12:30:00,Retail Sales (MoM),HIGH,USD
-a527c93a-31c8-40be-8d41-893d506213fa,06/17/2026 12:30:00,Retail Sales (YoY),LOW,USD
-723a8818-7fc6-4dd7-8448-a7462574fda2,06/17/2026 12:30:00,Retail Sales Control Group,HIGH,USD
-a53449ed-6703-416f-b437-189ca87adf71,06/17/2026 12:30:00,Retail Sales ex Autos (MoM),MEDIUM,USD
-47889609-e464-4360-b122-149063207ce8,06/17/2026 14:00:00,Business Inventories,LOW,USD
-34256cd0-4682-4026-adc3-5a2985633ed9,06/17/2026 14:00:00,Pending Home Sales (MoM),MEDIUM,USD
-caaf5386-2761-4d87-8f65-e1332d70bdfe,06/17/2026 14:00:00,Pending Home Sales (YoY),LOW,USD
-e9ae6f57-4e18-43cb-87a0-7c0031af3062,06/17/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
-cc343033-5717-4f56-8f2a-afe58d48583f,06/17/2026 18:00:00,Fed Interest Rate Decision,HIGH,USD
-ff516547-9eb5-4a5b-a7bd-3cdf5f1239c8,06/17/2026 18:00:00,Fed Monetary Policy Statement,HIGH,USD
-4bcbce8d-273f-4dfd-a65a-5267c4ea5ff4,06/17/2026 18:00:00,FOMC Economic Projections,HIGH,USD
-87ea7260-51cb-497b-a7b2-7b0bd2252728,06/17/2026 18:00:00,Interest Rate Projections - 1st year,HIGH,USD
-2feeb556-b9dd-43c0-9359-c16c0dbd8ba9,06/17/2026 18:00:00,Interest Rate Projections - 2nd year,HIGH,USD
-4086a95c-6f32-4402-a28e-4dd40e8b1392,06/17/2026 18:00:00,Interest Rate Projections - Current,HIGH,USD
-daf15023-10ea-4065-acd9-5c7ecf629dce,06/17/2026 18:00:00,Interest Rate Projections - Longer,HIGH,USD
-dec8da24-95f8-4993-b673-1e4dfba40329,06/17/2026 18:30:00,FOMC Press Conference,HIGH,USD
-501a8ca3-7e34-485d-916a-71355c163f99,06/18/2026 12:30:00,Continuing Jobless Claims,LOW,USD
-43b1b2c6-b9a3-4734-92d9-fa701185f791,06/18/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
-1b295ba6-51f8-4552-9666-44272b657ca1,06/18/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
-df57d3ef-bbdc-4615-a400-adf815bd6b6b,06/18/2026 12:30:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD
-b711574e-0841-42d2-b1bc-e8ccd130ec4f,06/18/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
-2e69b22e-96a3-4acf-a202-b1252e25695e,06/18/2026 15:30:00,4-Week Bill Auction,LOW,USD
-944f3e19-e903-494d-b862-8a7c9f31b36d,06/18/2026 17:00:00,5-year TIPS Auction,LOW,USD
-1ba86c52-abab-4d05-80b4-e7289d034299,06/18/2026 17:00:00,Baker Hughes US Oil Rig Count,LOW,USD
-c0f60588-0ac6-4aec-b8c3-b298b906e303,06/18/2026 20:00:00,Net Long-Term TIC Flows,LOW,USD
-cc66bab8-f142-4aa9-8c5f-00297402e70f,06/18/2026 20:00:00,Total Net TIC Flows,LOW,USD
+7ff61f09-d6b4-48b5-9e06-b5c45ebce746,06/22/2026 13:00:00,Fed's Waller speech,MEDIUM,USD
 d6960a2e-ac31-410a-bffe-142ab9690828,06/22/2026 15:30:00,3-Month Bill Auction,LOW,USD
 52d95b37-fb0e-4fce-b447-fc8abedec6af,06/22/2026 15:30:00,6-Month Bill Auction,LOW,USD
 87c7b390-ad77-4f17-b319-82f1aa1c5dbb,06/22/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD
@@ -166,6 +140,7 @@ f77e2c79-9c4b-4dcf-b9b0-9322c135603c,07/14/2026 10:00:00,NFIB Business Optimism 
 3cb8e5ee-a721-4359-832e-bff364d91f3f,07/14/2026 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
 c354ad41-579b-4d73-9924-a115112f0523,07/14/2026 12:30:00,Consumer Price Index n.s.a (MoM),LOW,USD
 5f6822b9-c8f0-401d-aec4-0dc98f0dbfb5,07/14/2026 12:55:00,Redbook Index (YoY),LOW,USD
+be5c21a3-ecc4-4e39-9d4b-84f7bd9de71c,07/14/2026 17:00:00,Fed's Goolsbee speech,MEDIUM,USD
 8fb3045f-2208-4e08-93fe-6a39c15401d4,07/14/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
 8b5eadd0-f793-48ca-b32d-ff5a65594ece,07/15/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 7c80665f-9b49-44c9-b3ad-5ca30d980ab2,07/15/2026 12:30:00,NY Empire State Manufacturing Index,MEDIUM,USD
