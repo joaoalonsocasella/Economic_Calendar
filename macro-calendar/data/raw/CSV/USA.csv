@@ -1,10 +1,4 @@
 Id,Start,Name,Impact,Currency
-7ff61f09-d6b4-48b5-9e06-b5c45ebce746,06/22/2026 13:00:00,Fed's Waller speech,MEDIUM,USD
-d6960a2e-ac31-410a-bffe-142ab9690828,06/22/2026 15:30:00,3-Month Bill Auction,LOW,USD
-52d95b37-fb0e-4fce-b447-fc8abedec6af,06/22/2026 15:30:00,6-Month Bill Auction,LOW,USD
-87c7b390-ad77-4f17-b319-82f1aa1c5dbb,06/22/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD
-41d894eb-6ae8-4f23-9cf9-f176048638e9,06/22/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD
-5ca76610-1c02-40d6-8a6e-b703a32b5dfa,06/22/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 71b92d56-b848-437c-96f5-7834ac089145,06/23/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 206ccffe-831e-412e-ace2-ba32d420d3b6,06/23/2026 12:55:00,Redbook Index (YoY),LOW,USD
 f6bb3e73-edb4-460f-9aa1-26c8101e83fe,06/23/2026 13:45:00,S&P Global Composite PMI,MEDIUM,USD
@@ -50,6 +44,7 @@ deebd982-868a-4ad3-8521-bf2da37d13f8,06/26/2026 14:00:00,Michigan Consumer Expec
 ba29d694-c4d0-4aea-8437-342be07d95e5,06/26/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
 76e8b906-a23d-406a-b884-0700e25d6f2b,06/26/2026 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD
 0e0770d7-b9e3-41e2-aaa9-aaf0f1cb1266,06/26/2026 14:30:00,Fed's Williams speech,MEDIUM,USD
+62071d77-9ee8-4cad-bae9-33dec0ad79fe,06/26/2026 15:30:00,Fed's Kashkari speech,MEDIUM,USD
 34635507-3a34-4c41-8429-2b63d9dc1e1d,06/26/2026 17:00:00,Baker Hughes US Oil Rig Count,LOW,USD
 c8a8b450-bd2b-4d74-aeef-514eea9ec2b8,06/26/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD
 7c062ef2-04b4-4cc3-b7ce-18fdd30a7080,06/26/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD
