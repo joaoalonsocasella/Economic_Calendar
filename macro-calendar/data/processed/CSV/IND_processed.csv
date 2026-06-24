@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-f69e3111-ee2b-4c95-984b-76e5a55fbb67,06/23/2026 05:00:00,HSBC Composite PMI,HIGH,INR,Release,0.17,Growth
-a7ad9103-04a3-48b7-9898-128ec0a2a79c,06/23/2026 05:00:00,HSBC Manufacturing PMI,HIGH,INR,Release,0.17,Growth
-607099f2-8268-460b-a39a-b958103bedd7,06/23/2026 05:00:00,HSBC Services PMI,HIGH,INR,Release,0.17,Growth
 41bdeaa3-0f2d-48ff-8c31-ea336134aced,06/24/2026 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy
 acffd5c8-daaa-4b4d-bc62-d889b03c693a,06/26/2026 11:30:00,Bank Loan Growth,LOW,INR,Release,0.09,Money and Credit
 ea3f2e11-1834-4c3e-9a8a-8cb1ce323a61,06/26/2026 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
@@ -13,9 +10,9 @@ dd4e4e6e-b05e-4522-b577-d19d6815945c,06/29/2026 10:30:00,Industrial Output,HIGH,
 5fd04eb6-b0a9-466a-87cd-dac53774d54c,07/01/2026 05:00:00,HSBC Manufacturing PMI,HIGH,INR,Release,0.17,Growth
 4f8c0b36-85b4-4588-b946-6fcf7e515e02,07/03/2026 05:00:00,HSBC Composite PMI,HIGH,INR,Release,0.17,Growth
 e5fea715-3e6c-4ca7-839d-f97259332a43,07/03/2026 05:00:00,HSBC Services PMI,HIGH,INR,Release,0.17,Growth
-79eaac49-b774-4ca8-bd22-e90ec4a8fdf2,07/03/2026 11:30:00,Bank Loan Growth,LOW,INR,Release,0.09,Money and Credit
 81f9cdc8-fff9-4f49-8e4d-8a189a77a11f,07/03/2026 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
 a11d3836-ad1a-43bc-bc83-5f014c6c8d17,07/08/2026 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy
+79eaac49-b774-4ca8-bd22-e90ec4a8fdf2,07/10/2026 11:30:00,Bank Loan Growth,LOW,INR,Release,0.09,Money and Credit
 a5839a05-e4f6-4662-8d8c-0277321e81e0,07/10/2026 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
 528b00aa-e925-4558-9ad4-2b712736dcff,07/13/2026 10:30:00,Consumer Price Index (YoY),HIGH,INR,Release,0.19,Inflation
 6248f96e-a9d2-4325-8d07-1e3f58c1188b,07/14/2026 06:30:00,WPI Inflation,HIGH,INR,Release,0.19,Inflation

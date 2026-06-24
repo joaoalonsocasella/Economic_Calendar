@@ -1,12 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-71b92d56-b848-437c-96f5-7834ac089145,06/23/2026 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
-206ccffe-831e-412e-ace2-ba32d420d3b6,06/23/2026 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
-f6bb3e73-edb4-460f-9aa1-26c8101e83fe,06/23/2026 13:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
-ce021195-1e1d-411f-92ce-2a6d05db54f2,06/23/2026 13:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
-7dc96aa7-1c74-4d23-b131-e9491d424dd4,06/23/2026 13:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
-654e69ee-9d16-4c52-8faa-b15859f6a502,06/23/2026 14:00:00,Richmond Fed Manufacturing Index,HIGH,USD,Release,0.17,Growth
-91a840e2-eb26-4914-82ab-bb29f4014ff3,06/23/2026 17:00:00,2-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-b4f3ad5a-399a-46ed-9313-050e4ce1d86d,06/23/2026 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 671167ce-a426-42f3-b70c-d09ee21b0653,06/24/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 bf3c8b87-bc0e-4d2d-8448-21877b74aeb2,06/24/2026 12:30:00,Current Account,MEDIUM,USD,Release,0.11,Trade and External
 d9fb562d-7960-42e8-b79f-c70ea8806d12,06/24/2026 14:00:00,New Home Sales (MoM),LOW,USD,Release,0.07,Housing

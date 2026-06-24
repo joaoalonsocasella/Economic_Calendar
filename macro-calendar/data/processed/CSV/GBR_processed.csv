@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0525de46-2062-4e0d-9a25-d2be4f81d9a7,06/23/2026 08:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
-eea6373b-75f7-4aa4-b7b6-34a4407a15fd,06/23/2026 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
-f05db088-4bb2-4e5d-b3bd-ae88339dc18c,06/23/2026 08:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
-724b760d-ec98-48db-981a-6ebf851966ec,06/23/2026 13:55:00,BoE's Taylor speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
-7782b464-b837-424f-8b8b-4029aeb6ca55,06/23/2026 17:30:00,BoE's Dhingra speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 bc891894-bce3-46ed-9fa2-7c09d3f19797,06/24/2026 11:20:00,BoE's Breeden speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 662a2562-3d52-4445-af22-b09ffb63fee8,06/24/2026 15:00:00,BoE's Dhingra speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 3f3a941f-9bc9-4a15-90d5-38ab0a0bf9b1,06/26/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit

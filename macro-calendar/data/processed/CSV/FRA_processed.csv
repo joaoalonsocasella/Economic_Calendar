@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-9f07f697-77df-4628-97d5-72183c5dd86c,06/23/2026 06:45:00,Business Climate in Manufacturing,HIGH,EUR,Release,0.595,Confidence
-1771f397-d066-458e-8902-08bf819d7a60,06/23/2026 07:15:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
-cafcc337-5272-4567-9b28-2099e089610e,06/23/2026 07:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
-9cfe50f4-1cc3-4532-be68-b374d2f13776,06/23/2026 07:15:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 b877fd16-512c-45a3-bb01-45bd61da8e69,06/25/2026 06:45:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 aa4465c3-34ae-4246-919a-8682fa0433df,06/30/2026 06:45:00,Consumer Price Index (EU norm) (MoM),HIGH,EUR,Release,0.807,Inflation
 1071e111-b32e-4461-a765-a9210b170538,06/30/2026 06:45:00,Consumer Price Index (EU norm) (YoY),HIGH,EUR,Release,0.807,Inflation
@@ -18,9 +14,9 @@ dd122a49-2b1e-4f84-ab5e-1a2dd5ac77fd,07/02/2026 08:50:00,10-y Bond Auction,HIGH,
 91eb536a-b9b0-4ef0-baae-99d0143fddbe,07/07/2026 06:45:00,"Imports, EUR",HIGH,EUR,Release,0.468,Trade and External
 f828abf2-b350-403e-8fda-0908ad35a123,07/07/2026 06:45:00,Trade Balance EUR,HIGH,EUR,Release,0.468,Trade and External
 d7a7ef58-1c1c-4507-981f-a042ed9eb543,07/08/2026 06:45:00,Current Account,HIGH,EUR,Release,0.468,Trade and External
-3f53d9fa-d155-44f5-b4fb-5d8703a65ac5,07/17/2026 06:45:00,Consumer Price Index (EU norm) (MoM),HIGH,EUR,Release,0.807,Inflation
-64260e19-adbf-42d8-87c1-52268e9847cf,07/17/2026 06:45:00,Consumer Price Index (EU norm) (YoY),HIGH,EUR,Release,0.807,Inflation
-07fd0b4c-5182-47bd-93bd-cfd996370e80,07/17/2026 06:45:00,Inflation ex-tobacco (MoM),HIGH,EUR,Release,0.807,Inflation
+3f53d9fa-d155-44f5-b4fb-5d8703a65ac5,07/10/2026 06:45:00,Consumer Price Index (EU norm) (MoM),HIGH,EUR,Release,0.807,Inflation
+64260e19-adbf-42d8-87c1-52268e9847cf,07/10/2026 06:45:00,Consumer Price Index (EU norm) (YoY),HIGH,EUR,Release,0.807,Inflation
+07fd0b4c-5182-47bd-93bd-cfd996370e80,07/10/2026 06:45:00,Inflation ex-tobacco (MoM),HIGH,EUR,Release,0.807,Inflation
 cf725140-8958-46a0-9e26-372d07caa189,07/23/2026 07:15:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 10030b67-d838-4394-a17d-f396c64c324a,07/23/2026 07:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 301b082a-8e03-46ae-a9bd-3e776342916b,07/23/2026 07:15:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
