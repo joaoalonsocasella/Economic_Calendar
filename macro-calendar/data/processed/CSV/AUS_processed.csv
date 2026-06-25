@@ -1,14 +1,10 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-b02a6af6-a2c4-470c-a087-057b9a7bafe9,06/24/2026 01:30:00,Consumer Price Index (MoM),HIGH,AUD,Release,0.19,Inflation
-7f8f3b65-8907-4200-8c38-67f92eab47ed,06/24/2026 01:30:00,Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
-502efe01-e97f-49fd-8ff2-d38c23f959b6,06/24/2026 01:30:00,Trimmed Mean CPI (MoM),HIGH,AUD,Release,0.19,Inflation
-459f0ec7-5021-42bf-bf4c-3a17b4be8561,06/24/2026 01:30:00,Trimmed Mean CPI (YoY),HIGH,AUD,Release,0.19,Inflation
 99451c4a-6a4e-487a-a02f-05bfc5cc9cfe,06/25/2026 01:30:00,Employment Change s.a.,HIGH,AUD,Release,0.18,Labor Market
 cb65d5c3-ae3a-4a28-8e4a-88838c041a33,06/25/2026 01:30:00,Full-Time Employment,HIGH,AUD,Release,0.18,Labor Market
-a45ce0ba-3fa7-4649-aacf-ce7aac9f028f,06/25/2026 01:30:00,National Australia Bank's Business Confidence (QoQ),MEDIUM,AUD,Release,0.14,Confidence
 0be1abb7-5945-414e-9fa8-fd61d656682a,06/25/2026 01:30:00,Part-Time Employment,HIGH,AUD,Release,0.18,Labor Market
 dacd36eb-9704-425c-81d9-31461bf37d45,06/25/2026 01:30:00,Participation Rate,HIGH,AUD,Release,0.18,Labor Market
 0aafa2d3-a9e3-45c2-9814-1afd336d7f12,06/25/2026 01:30:00,Unemployment Rate s.a.,HIGH,AUD,Release,0.18,Labor Market
+a45ce0ba-3fa7-4649-aacf-ce7aac9f028f,06/26/2026 01:30:00,National Australia Bank's Business Confidence (QoQ),MEDIUM,AUD,Release,0.14,Confidence
 58cb4ece-21d5-4731-9699-58b6c490ab99,06/26/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 133d3cda-0818-418a-ad58-1d4da54343b4,06/28/2026 12:15:00,RBA Governor Bullock speech,MEDIUM,AUD,Speech,0.13,Monetary Policy
 6a2610f0-3a48-45c3-aeaf-c26653a3381c,06/30/2026 01:30:00,Private Sector Credit (MoM),LOW,AUD,Release,0.09,Money and Credit

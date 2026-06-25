@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-671167ce-a426-42f3-b70c-d09ee21b0653,06/24/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-bf3c8b87-bc0e-4d2d-8448-21877b74aeb2,06/24/2026 12:30:00,Current Account,MEDIUM,USD,Release,0.11,Trade and External
-d9fb562d-7960-42e8-b79f-c70ea8806d12,06/24/2026 14:00:00,New Home Sales (MoM),LOW,USD,Release,0.07,Housing
-c8950a44-ae12-4b58-b4b2-4d582a059f9c,06/24/2026 14:00:00,New Home Sales Change (MoM),LOW,USD,Release,0.07,Housing
-eeeda4e3-cab6-46ee-b19a-3134ba046161,06/24/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
-f98ce572-15c9-4211-9401-066811cd16b7,06/24/2026 17:00:00,5-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 2d47a04d-8e9d-4d14-ac19-0ab6f371cf2a,06/25/2026 12:30:00,Chicago Fed National Activity Index ,HIGH,USD,Release,0.17,Growth
 7753a75c-1ce0-42dc-9a4f-c623ed405af9,06/25/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 def429c0-0351-4fb8-8c63-6038c68e8e2c,06/25/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
