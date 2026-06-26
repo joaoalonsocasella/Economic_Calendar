@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-b1277b8e-476a-4427-9bee-03c8369e18ed,06/25/2026 07:10:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-95b68790-b03b-43b6-8d71-094ef42f11fd,06/25/2026 08:00:00,Economic Bulletin,HIGH,EUR,Release,0.85,Monetary Policy
-6fd67c32-3254-4191-941a-00383bf0449d,06/25/2026 10:00:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
-a74111dd-cfc7-40a1-97b8-c26d48580c96,06/25/2026 12:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
-210fc17f-71a5-4ff8-9994-30ab7c66f451,06/25/2026 15:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
 eed1f4dd-8908-4fef-80c8-82f16a43bea2,06/26/2026 08:30:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 e9cadc98-ba2b-4fa9-a717-c58e812b9b7b,06/26/2026 16:00:00,ECB's Vujčić speech,HIGH,EUR,Speech,0.552,Monetary Policy
 2a2cc22d-c5bb-4f04-8b81-baf15131898c,06/26/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
@@ -16,14 +11,25 @@ e801f912-7873-4866-8152-300c50155149,06/29/2026 09:00:00,Consumer Confidence,HIG
 58604d09-51f8-4ecc-a521-77d103d43a07,06/29/2026 09:00:00,Economic Sentiment Indicator,HIGH,EUR,Release,0.595,Confidence
 398eaf3b-5e49-4ebe-9302-2b0ed937d72c,06/29/2026 09:00:00,Industrial Confidence,HIGH,EUR,Release,0.595,Confidence
 1c2733c0-5905-4c3b-ad12-fc0aeefb76be,06/29/2026 09:00:00,Services Sentiment,HIGH,EUR,Release,0.595,Confidence
+42a28f1e-0423-4a29-8313-72e4f4a2b686,06/29/2026 17:30:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
+ed8bee6a-5da3-434f-a040-8be095d6b0f2,06/30/2026 07:40:00,ECB's Vujčić speech,HIGH,EUR,Speech,0.552,Monetary Policy
+3c51f925-1cc5-4295-97ac-fc7d77f23833,06/30/2026 08:40:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy
+65177e9d-4bef-4c4f-9300-219981d64f06,06/30/2026 10:40:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
+b2eb0c29-6636-460e-a277-e0772167a9c9,06/30/2026 13:30:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
+d2de529e-f1c2-439f-9bb9-5d1af1818b9d,07/01/2026 07:45:00,ECB's Vujčić speech,HIGH,EUR,Speech,0.552,Monetary Policy
 52573ccb-f8ac-490c-b20d-4883099b0e40,07/01/2026 08:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+fee12d32-a7b4-4f0b-9bdd-5990703c46e3,07/01/2026 08:45:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
 6d431af7-a2c5-406a-9486-4462b971e749,07/01/2026 09:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 78ee3558-ccb6-4b2c-a6aa-19b3d2941005,07/01/2026 09:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.807,Inflation
 baf93653-6a2e-40c2-b9cb-6db17c56cdcf,07/01/2026 09:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 4e019c94-56c1-4770-8286-78a079397ac7,07/01/2026 09:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+29228f20-d490-4803-8eeb-24b014e16774,07/01/2026 10:15:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
+007f4bb1-8337-4fbb-ac4f-8e21b6f69d79,07/01/2026 13:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
+ebd4e747-83dc-47c8-b621-23422b211857,07/01/2026 14:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
 966573b3-1532-4ebb-82eb-4377f6558c18,07/02/2026 09:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
 e7aa1a85-a2c0-4cc9-b69e-59afff6f9246,07/03/2026 08:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 301c991a-e09a-4596-b269-496c139f81c1,07/03/2026 08:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+cc148e90-aecd-4bb7-80fc-f0f479d8b971,07/03/2026 14:30:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 58614c0d-1430-421a-b0ec-29683f9b5798,07/06/2026 08:30:00,Sentix Investor Confidence,HIGH,EUR,Release,0.595,Confidence
 e5eab0cb-a270-4a38-9e4b-b200e10d4e8f,07/06/2026 09:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 9d74b5f0-f412-4c0b-80c3-8aa72a0cddd7,07/06/2026 09:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation

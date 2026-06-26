@@ -185,11 +185,28 @@ fb3bac6a-879b-4bb5-b448-e1717292807e,03/01/2027 01:30:00,NBS Non-Manufacturing P
 126b34a0-720e-4a88-b87a-02ff9a10ee52,04/09/2027 01:30:00,Consumer Price Index (MoM),MEDIUM,CNY
 e304aaea-3738-42f3-a3f9-9c4fd857edbc,04/09/2027 01:30:00,Consumer Price Index (YoY),HIGH,CNY
 1a5215f0-2b1d-434a-ac7e-ceb9891379aa,04/09/2027 01:30:00,Producer Price Index (YoY),MEDIUM,CNY
+817b81d3-ee29-464d-b131-788fd4ee3df8,04/16/2027 02:00:00,Fixed Asset Investment (YTD) (YoY),LOW,CNY
 e0c805b9-6a52-4587-a9ad-a7854d34a60c,04/16/2027 02:00:00,Gross Domestic Product (QoQ),HIGH,CNY
 16c81248-58a3-4d4d-9714-1d74c93612a4,04/16/2027 02:00:00,Gross Domestic Product (YoY),HIGH,CNY
+c2aa2348-daf5-4626-bcdc-1a42c64c8c19,04/16/2027 02:00:00,Industrial Production (YoY),HIGH,CNY
+dd21daa9-7e80-4f08-b83d-ebc15874134b,04/16/2027 02:00:00,Retail Sales (YoY),HIGH,CNY
+491ce0ca-e3fc-4109-9e9c-ced5f5892616,05/03/2027 01:45:00,RatingDog Manufacturing PMI,HIGH,CNY
+5703cf49-34eb-47f1-ab12-792156749433,05/05/2027 01:45:00,RatingDog Services PMI,HIGH,CNY
 d262f4ce-e1f2-44ed-9b1d-902c55635678,05/10/2027 01:30:00,Consumer Price Index (MoM),MEDIUM,CNY
 86fdf460-8e96-414b-b457-730083241256,05/10/2027 01:30:00,Consumer Price Index (YoY),HIGH,CNY
 1aa56aa7-6029-4766-924f-f7bedb9ee8f7,05/10/2027 01:30:00,Producer Price Index (YoY),MEDIUM,CNY
+79c3ef3d-9b21-4ebd-9091-f6fcd15c7adc,05/17/2027 02:00:00,Fixed Asset Investment (YTD) (YoY),LOW,CNY
+34cdeac1-f231-4267-a068-64be3652749e,05/17/2027 02:00:00,Industrial Production (YoY),HIGH,CNY
+890a9a04-4c4d-41dd-973c-74dcb69fc0c9,05/17/2027 02:00:00,Retail Sales (YoY),HIGH,CNY
+e14a5994-7eaf-41bc-aee6-1e3e225192a6,05/31/2027 01:30:00,NBS Manufacturing PMI,HIGH,CNY
+70f93fcf-ab1e-4052-8d9f-02390c4ef489,05/31/2027 01:30:00,NBS Non-Manufacturing PMI,HIGH,CNY
+8ce8bdbe-66f3-40f4-b6ff-f4472d8b6718,06/01/2027 01:45:00,RatingDog Manufacturing PMI,HIGH,CNY
+5aecd991-dc7b-4465-a7bb-fc7899a5cc99,06/03/2027 01:45:00,RatingDog Services PMI,HIGH,CNY
 16dd4ff9-4cad-467c-a768-0169c82a12f4,06/09/2027 01:30:00,Consumer Price Index (MoM),MEDIUM,CNY
 daffc3a3-2bbe-4071-a2cd-b3b52a196b69,06/09/2027 01:30:00,Consumer Price Index (YoY),HIGH,CNY
 1cea2ce7-c2e2-4c06-8792-36c043c93182,06/09/2027 01:30:00,Producer Price Index (YoY),MEDIUM,CNY
+95e5ee85-8dbb-4ec1-8ce9-495caef22dd5,06/15/2027 02:00:00,Fixed Asset Investment (YTD) (YoY),LOW,CNY
+03554fb0-cbee-4a77-b71c-2f07c674a210,06/15/2027 02:00:00,Industrial Production (YoY),HIGH,CNY
+654565b3-385d-40fc-a5f7-92e2532452f4,06/15/2027 02:00:00,Retail Sales (YoY),HIGH,CNY
+812cae6d-d60d-4c9d-8c24-0a1aed4d813d,06/30/2027 01:30:00,NBS Manufacturing PMI,HIGH,CNY
+3bc61502-ef1d-4d95-bd11-829f25a2d68f,06/30/2027 01:30:00,NBS Non-Manufacturing PMI,HIGH,CNY

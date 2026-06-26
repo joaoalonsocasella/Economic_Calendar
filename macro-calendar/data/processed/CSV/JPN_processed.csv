@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-bdc3c1a6-0447-4072-bf2b-a88bf9f3e288,06/25/2026 05:00:00,Coincident Index,MEDIUM,JPY,Release,0.11,Trade and External
-7908f7c5-6ff6-4270-8f4c-865d87e5ce8d,06/25/2026 05:00:00,Leading Economic Index,MEDIUM,JPY,Release,0.14,Confidence
-369c7423-f1b6-4c27-ad01-f04e206ca890,06/25/2026 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
-c32e9df2-1e51-4ac4-8868-e437bd79aba8,06/25/2026 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY,Release,0.19,Inflation
-89e71d0d-ddd5-4175-ad9a-82eb242c7f9d,06/25/2026 23:30:00,Tokyo CPI ex Fresh Food (YoY),HIGH,JPY,Release,0.19,Inflation
 b2db5e05-6ffa-455d-a1ce-588ecab3f094,06/26/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
 7a8a25af-95bf-4204-936f-6bdda0cb890b,06/28/2026 23:50:00,Large Retailer Sales,MEDIUM,JPY,Release,0.14,Confidence
 87c75f90-af0a-48bf-b69e-186868c77f29,06/28/2026 23:50:00,Retail Trade (YoY),MEDIUM,JPY,Release,0.11,Trade and External

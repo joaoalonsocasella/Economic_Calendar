@@ -1,28 +1,4 @@
 Id,Start,Name,Impact,Currency
-2d47a04d-8e9d-4d14-ac19-0ab6f371cf2a,06/25/2026 12:30:00,"Chicago Fed National Activity Index ",LOW,USD
-7753a75c-1ce0-42dc-9a4f-c623ed405af9,06/25/2026 12:30:00,Continuing Jobless Claims,LOW,USD
-def429c0-0351-4fb8-8c63-6038c68e8e2c,06/25/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
-34dd37a9-8984-40f2-91b5-37daf3680edb,06/25/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
-325c6011-8275-4c62-b19c-90e1f6f8d188,06/25/2026 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
-3ea475cd-7f16-414e-a95f-8f328c19262f,06/25/2026 12:30:00,Durable Goods Orders,MEDIUM,USD
-be20b8ff-641c-40a9-a4c7-c98ce22acaa5,06/25/2026 12:30:00,Durable Goods Orders ex Defense,MEDIUM,USD
-800f6109-d4c9-41e7-a730-07da8fc6c231,06/25/2026 12:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
-99ab66c4-c33e-4d11-be5b-75e4fe6f603a,06/25/2026 12:30:00,Gross Domestic Product Annualized,MEDIUM,USD
-158a25c7-ff12-4c3d-860c-c1e812ef93cf,06/25/2026 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD
-007b616f-a0f8-4f0c-b126-b02638373479,06/25/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
-8fc21498-e5ed-4dd1-87af-6ba8ed0ca969,06/25/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
-2d7f93e5-95f8-4505-be86-da0eb7a3dec0,06/25/2026 12:30:00,Nondefense Capital Goods Orders ex Aircraft,MEDIUM,USD
-7f633ddf-cac6-4d18-83fc-1abeb9da31d3,06/25/2026 12:30:00,Personal Consumption Expenditures - Price Index (MoM),MEDIUM,USD
-f3f15ccf-7e3f-486b-9bc6-0e055187adf2,06/25/2026 12:30:00,Personal Consumption Expenditures - Price Index (YoY),MEDIUM,USD
-d9122622-bc67-461f-b48b-02c6a8bc6bbf,06/25/2026 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
-90830340-9327-4015-b619-c2af0b9f80d5,06/25/2026 12:30:00,Personal Income (MoM),MEDIUM,USD
-d0f345d0-5db3-4813-96ec-8f32f540423a,06/25/2026 12:30:00,Personal Spending,MEDIUM,USD
-e35f0fa2-f431-438d-b69d-11196ae4df32,06/25/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
-873bcdb0-812d-4836-aba8-47f69e2d236a,06/25/2026 15:00:00,Kansas Fed Manufacturing Activity,LOW,USD
-944cebfa-2945-444b-8389-2e36a41cdf11,06/25/2026 15:30:00,4-Week Bill Auction,LOW,USD
-19a3399b-6ed7-4368-b591-073c7c124aaf,06/25/2026 17:00:00,7-Year Note Auction,LOW,USD
-c68abc14-23ec-43de-a0aa-c570d53b4cbc,06/25/2026 19:40:00,Fed's Williams speech,MEDIUM,USD
-73db9105-6a0a-444b-b7d3-42f38a022384,06/25/2026 22:30:00,Fed's Goolsbee speech,MEDIUM,USD
 34c08e18-8988-446f-9580-8ec842c56d01,06/26/2026 12:30:00,Goods Trade Balance,LOW,USD
 fb689bc3-87eb-48c1-869a-a44f97ac1dcc,06/26/2026 12:30:00,Wholesale Inventories,LOW,USD
 deebd982-868a-4ad3-8521-bf2da37d13f8,06/26/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
@@ -48,6 +24,7 @@ aafa2e3e-f120-43fa-b6c1-acb80df261b9,06/30/2026 16:00:00,Grain Stock Report,LOW,
 54693ee9-e7dc-497a-9eee-97a1e7c353a2,06/30/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
 2d734a1f-c48b-4bb5-8b2e-3e3e0f112f60,07/01/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 0eec4b7a-1828-40bb-9d4a-b2776b72a5ad,07/01/2026 12:15:00,ADP Employment Change,HIGH,USD
+97eb47dc-6154-4652-83ba-109c531258ef,07/01/2026 13:00:00,Fed's Chair Warsh speech,MEDIUM,USD
 305eddec-1545-4dd2-a738-37f5d6bf34bc,07/01/2026 13:45:00,S&P Global Manufacturing PMI,LOW,USD
 6d83e6f4-e20b-4a07-b58e-b465e702d832,07/01/2026 14:00:00,Construction Spending (MoM),LOW,USD
 4fd78246-eaa3-4526-81e8-a71d3d8fa1ee,07/01/2026 14:00:00,ISM Manufacturing Employment Index,MEDIUM,USD
