@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-6d6328a9-589a-46a6-8535-6328cbf8d86a,06/26/2026 09:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
-42cfb373-b786-448b-8beb-2388172506d5,06/26/2026 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
-182c3e89-1c5d-4a30-a047-f0327d02de00,06/26/2026 09:40:00,10-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
-8f06e15b-4db2-4d28-a524-183e2602096c,06/26/2026 09:40:00,5-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
-f1a2f766-d747-4f5a-b009-add1313df024,06/26/2026 10:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
 e45d1d9a-0da4-416c-9a3a-378e64f969d8,06/30/2026 08:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 a1d4a5af-ba3a-4e66-b345-6eda47a265d1,06/30/2026 08:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 2678a5ef-ffa0-4c1b-a4dc-c3ea6c8d21f6,06/30/2026 09:00:00,Consumer Price Index (EU Norm) (MoM),HIGH,EUR,Release,0.807,Inflation
