@@ -12,7 +12,7 @@ aafa2e3e-f120-43fa-b6c1-acb80df261b9,06/30/2026 16:00:00,Grain Stock Report,LOW,
 54693ee9-e7dc-497a-9eee-97a1e7c353a2,06/30/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
 2d734a1f-c48b-4bb5-8b2e-3e3e0f112f60,07/01/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 0eec4b7a-1828-40bb-9d4a-b2776b72a5ad,07/01/2026 12:15:00,ADP Employment Change,HIGH,USD
-97eb47dc-6154-4652-83ba-109c531258ef,07/01/2026 13:00:00,Fed's Chair Warsh speech,MEDIUM,USD
+97eb47dc-6154-4652-83ba-109c531258ef,07/01/2026 13:00:00,Fed's Chair Warsh speech,HIGH,USD
 305eddec-1545-4dd2-a738-37f5d6bf34bc,07/01/2026 13:45:00,S&P Global Manufacturing PMI,LOW,USD
 6d83e6f4-e20b-4a07-b58e-b465e702d832,07/01/2026 14:00:00,Construction Spending (MoM),LOW,USD
 4fd78246-eaa3-4526-81e8-a71d3d8fa1ee,07/01/2026 14:00:00,ISM Manufacturing Employment Index,MEDIUM,USD
@@ -32,6 +32,7 @@ f6ad447e-df7b-4c00-8e16-da3590b2d1db,07/02/2026 12:30:00,Labor Force Participati
 9f9c6d5f-9389-4478-94ef-ebac21ce2730,07/02/2026 12:30:00,Nonfarm Payrolls,HIGH,USD
 8fe72890-91a9-4d58-b9f5-16c6ca8000ea,07/02/2026 12:30:00,U6 Underemployment Rate,MEDIUM,USD
 b69a1b58-61b9-466a-b745-3befb8e90767,07/02/2026 12:30:00,Unemployment Rate,MEDIUM,USD
+67ccf0a3-45bc-41a9-b35f-6d37c7a9f44f,07/02/2026 13:45:00,Fed's Daly speech,MEDIUM,USD
 84dc14b2-a485-49e3-a055-a74aa585de2b,07/02/2026 14:00:00,Factory Orders (MoM),MEDIUM,USD
 32e88d09-7fd7-4d04-a498-a64fa4b7c6f9,07/02/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
 906fb28d-82c0-4ef8-96aa-3c7b1ca3ef1c,07/02/2026 15:30:00,4-Week Bill Auction,LOW,USD
@@ -64,6 +65,7 @@ e00513f1-52f7-4ae4-bd0f-e46529e00401,07/08/2026 11:00:00,MBA Mortgage Applicatio
 a22cfea5-1c13-4123-94bf-c9d3065443fc,07/09/2026 12:30:00,Continuing Jobless Claims,LOW,USD
 ed4c7ad8-ba25-4157-b463-78b51bb18f9e,07/09/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
 267eeaa7-2e26-4440-88b3-b6cbb5a87b40,07/09/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
+0603b07b-310d-4c55-b7b4-7fba0ff47b7f,07/09/2026 13:00:00,Fed's Williams speech,MEDIUM,USD
 4d6c757a-407b-4924-aa67-c51eff3f4696,07/09/2026 14:00:00,Existing Home Sales (MoM),LOW,USD
 abd43782-c89d-477b-b205-389138972d4f,07/09/2026 14:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
 9ab6ce7c-c9a4-48c8-b76a-5b1b3248df95,07/09/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
@@ -1544,3 +1546,56 @@ d632493d-0343-4eec-a92b-2f61b50013cb,06/30/2027 12:30:00,Gross Domestic Product 
 98966f49-3e89-4978-834f-575b1991a021,06/30/2027 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
 c4278eaf-82d2-4256-b922-34bcfcbf0e36,06/30/2027 12:30:00,Personal Income (MoM),MEDIUM,USD
 55f58a37-1be0-4f4d-8c44-d4a5a85f8e74,06/30/2027 12:30:00,Personal Spending,MEDIUM,USD
+04e5a039-b8a7-4fdf-bca7-29148583cf22,07/01/2027 13:45:00,S&P Global Manufacturing PMI,LOW,USD
+708434fb-0ce7-4484-930e-0378090eac48,07/01/2027 14:00:00,ISM Manufacturing Employment Index,MEDIUM,USD
+208a7b62-64eb-46fa-8739-d5419b020a99,07/01/2027 14:00:00,ISM Manufacturing New Orders Index,MEDIUM,USD
+912ee4c2-e3f3-4be5-8228-64475255ecab,07/01/2027 14:00:00,ISM Manufacturing PMI,HIGH,USD
+256d5a95-84e9-476f-b99d-79a8e62e1e3e,07/01/2027 14:00:00,ISM Manufacturing Prices Paid,MEDIUM,USD
+38efc64d-cd93-4dc0-910a-93b677995e28,07/02/2027 12:30:00,Average Hourly Earnings (MoM),HIGH,USD
+43fa2c5b-e53a-44cb-a26f-2ddb337bee37,07/02/2027 12:30:00,Average Hourly Earnings (YoY),HIGH,USD
+ed52fdf3-bbb5-4e64-9a86-23b9f7bc4fe5,07/02/2027 12:30:00,Average Weekly Hours,LOW,USD
+bdecd06f-cb93-4046-a8fb-75691b5f3ff6,07/02/2027 12:30:00,Labor Force Participation Rate,MEDIUM,USD
+791b8ef8-ed8e-4d3b-ad69-f4d4b00f7f5a,07/02/2027 12:30:00,Nonfarm Payrolls,HIGH,USD
+84389f43-7f98-426c-82db-46a32a59ec88,07/02/2027 12:30:00,U6 Underemployment Rate,MEDIUM,USD
+710788dc-bceb-463f-a74f-998ea117a040,07/02/2027 12:30:00,Unemployment Rate,MEDIUM,USD
+4ab4ab8a-d19f-489a-9282-8b21e012bd16,07/05/2027 13:45:00,S&P Global Composite PMI,MEDIUM,USD
+3e3bafc4-aaa7-49a9-aa12-45dd522591db,07/05/2027 13:45:00,S&P Global Services PMI,LOW,USD
+8d1cf133-d2d3-436b-a4ae-dd409c6dfbae,07/05/2027 14:00:00,ISM Services Employment Index,MEDIUM,USD
+bdaed9ba-bb4e-46da-ade4-7405d7ca0355,07/05/2027 14:00:00,ISM Services New Orders Index,MEDIUM,USD
+56b81ba8-1a81-4abe-bd1f-0329dca6531d,07/05/2027 14:00:00,ISM Services PMI,HIGH,USD
+cd182f72-03d9-4e99-8a96-86f8865e4127,07/05/2027 14:00:00,ISM Services Prices Paid,MEDIUM,USD
+98e017f4-16d2-48f1-91ce-fc94994c0585,07/09/2027 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
+48147bdf-d397-441d-92aa-c15856c91419,07/09/2027 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
+186ee62e-c398-4e83-954d-f8bd3d08a0e7,07/09/2027 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
+f2dc507e-9d83-4a12-977a-97b0109de5a6,07/09/2027 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD
+fed1be73-4776-48c2-bebb-d89f5f42c311,07/13/2027 12:30:00,Consumer Price Index (MoM),HIGH,USD
+f60295ae-905c-4090-a718-ffd64aaff13f,07/13/2027 12:30:00,Consumer Price Index (YoY),HIGH,USD
+35caebe4-e6cb-47c7-919a-4b0be334ad78,07/13/2027 12:30:00,Consumer Price Index Core s.a,LOW,USD
+74e07242-a78e-466d-8f31-70bc1cae9da8,07/13/2027 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+095f13a9-5b27-408a-ad61-dd0d7375746c,07/13/2027 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+b49a35a6-4b64-4d21-9849-d4eea8966f81,07/13/2027 12:30:00,Consumer Price Index n.s.a (MoM),LOW,USD
+3135c6fc-577f-44ce-bf10-e408fc2167f7,07/14/2027 12:30:00,Producer Price Index (MoM),MEDIUM,USD
+d45e9919-3d2b-4456-962a-923f6c6eecb4,07/14/2027 12:30:00,Producer Price Index (YoY),MEDIUM,USD
+e77ebe29-e439-41af-b3eb-e12be774b920,07/14/2027 12:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
+eef1c859-d484-484c-8f0f-0bcf322aa780,07/14/2027 12:30:00,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+a515ac3a-006c-4b63-9e84-e177d5c5fdf8,07/16/2027 12:30:00,Retail Sales (MoM),HIGH,USD
+0b42a6b8-21e5-4cc4-be71-57c6f89723e2,07/16/2027 12:30:00,Retail Sales (YoY),LOW,USD
+2091bfc8-e131-4cf1-997a-e280de311aad,07/16/2027 12:30:00,Retail Sales Control Group,HIGH,USD
+3744e6e5-ae9a-4e50-a36d-0081a5ff06a1,07/16/2027 12:30:00,Retail Sales ex Autos (MoM),MEDIUM,USD
+13f270ca-1ddb-4fa3-8ca4-530df0a21ebf,07/23/2027 13:45:00,S&P Global Composite PMI,MEDIUM,USD
+8e71cf8a-fa25-47ee-9f24-2b8562d10c9c,07/23/2027 13:45:00,S&P Global Manufacturing PMI,HIGH,USD
+9be9c69b-c2da-4edb-868a-fe22ba08689e,07/23/2027 13:45:00,S&P Global Services PMI,HIGH,USD
+c3c3bba8-1e64-4132-bbbd-3616626610b6,07/23/2027 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
+ad2d0d33-696f-410d-b859-5a6766352882,07/23/2027 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD
+393c5f07-9ea2-4a22-96f7-ea7ed64fa662,07/23/2027 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
+d2b8222f-4c9e-4952-9f5b-137c898c90e6,07/23/2027 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD
+0252112f-ebaa-4561-8580-62cb060dbb23,07/29/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+35b4603e-f674-4bc2-b6b2-83d5264d53fb,07/29/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+c1385b28-e830-4e05-aae1-919ac646d987,07/29/2027 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
+4ff92046-447d-4165-8307-1f1436ae4c06,07/29/2027 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+83c41cc4-d392-4bab-add1-df2d77669264,07/29/2027 12:30:00,Gross Domestic Product Price Index,HIGH,USD
+93c2c090-be70-4abf-9641-d5d5a6fe1ef8,07/29/2027 12:30:00,Personal Consumption Expenditures - Price Index (MoM),MEDIUM,USD
+b5221d81-4f7b-475c-8277-d78a45d03fa1,07/29/2027 12:30:00,Personal Consumption Expenditures - Price Index (YoY),MEDIUM,USD
+bb556d09-a045-469c-8f9f-1a0fe730be6a,07/29/2027 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
+2ac9487f-e5eb-459e-9b68-82c6b2d8a8c0,07/29/2027 12:30:00,Personal Income (MoM),MEDIUM,USD
+b20a8afb-b084-412c-bf49-a340261a4004,07/29/2027 12:30:00,Personal Spending,MEDIUM,USD
