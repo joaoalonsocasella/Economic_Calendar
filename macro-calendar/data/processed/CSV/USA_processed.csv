@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0df584ba-e945-452b-8dc9-3490d7dcde08,06/29/2026 14:30:00,Dallas Fed Manufacturing Business Index,MEDIUM,USD,Release,0.14,Confidence
-ba917197-5a92-4ed0-923f-799ac88e8631,06/29/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
-cbe72b28-959e-4297-b8a0-177abf9c298d,06/29/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 b7c18419-eb4a-41c4-a3fa-cbda4c8af321,06/30/2026 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 cadc75ab-a863-4b6f-8af7-ed0e0ea70c35,06/30/2026 13:00:00,Housing Price Index (MoM),LOW,USD,Release,0.07,Housing
 a02d6769-6249-4715-bb19-1c3a9d56d773,06/30/2026 13:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD,Release,0.07,Housing
@@ -89,6 +86,8 @@ f77e2c79-9c4b-4dcf-b9b0-9322c135603c,07/14/2026 10:00:00,NFIB Business Optimism 
 c354ad41-579b-4d73-9924-a115112f0523,07/14/2026 12:30:00,Consumer Price Index n.s.a (MoM),HIGH,USD,Release,0.19,Inflation
 5f6822b9-c8f0-401d-aec4-0dc98f0dbfb5,07/14/2026 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 be5c21a3-ecc4-4e39-9d4b-84f7bd9de71c,07/14/2026 17:00:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+ea01ef9b-2b41-4eb7-a5dc-4ba13271ae13,07/14/2026 20:00:00,Net Long-Term TIC Flows,MEDIUM,USD,Release,0.11,Trade and External
+446907ec-dcc6-4d5d-80b4-7b310ffd4a41,07/14/2026 20:00:00,Total Net TIC Flows,MEDIUM,USD,Release,0.11,Trade and External
 8fb3045f-2208-4e08-93fe-6a39c15401d4,07/14/2026 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 8b5eadd0-f793-48ca-b32d-ff5a65594ece,07/15/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 7c80665f-9b49-44c9-b3ad-5ca30d980ab2,07/15/2026 12:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
@@ -128,8 +127,6 @@ cfb8e2e4-dedc-45b7-b09f-0ebc7bbbcb8c,07/17/2026 14:00:00,Michigan Consumer Senti
 72d65476-9e32-4b80-93ee-7dab81db780d,07/17/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 7a2197a5-47ee-4751-905f-82c239d89582,07/17/2026 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 6a9aec58-39b1-423f-ace3-129fadcbb120,07/17/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-ea01ef9b-2b41-4eb7-a5dc-4ba13271ae13,07/17/2026 20:00:00,Net Long-Term TIC Flows,MEDIUM,USD,Release,0.11,Trade and External
-446907ec-dcc6-4d5d-80b4-7b310ffd4a41,07/17/2026 20:00:00,Total Net TIC Flows,MEDIUM,USD,Release,0.11,Trade and External
 d279d331-b61e-41cf-9f22-f335226c869a,07/20/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 27b5e11d-4b70-4584-8bbb-bbaee2c5162f,07/20/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 b2c98771-05ff-46dc-8697-56f5fb85230d,07/21/2026 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market

@@ -1,13 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-ba2c09ff-5191-469c-8884-c23812d22218,06/29/2026 08:00:00,M3 Money Supply (3m),HIGH,EUR,Release,0.85,Monetary Policy
-882a8c7f-bf09-4a59-ba92-e44af61b36c2,06/29/2026 08:00:00,M3 Money Supply (YoY),HIGH,EUR,Release,0.807,Inflation
-7ffffee7-7e33-4ba3-a303-b4ad914fe4b8,06/29/2026 08:00:00,Private Loans (YoY),HIGH,EUR,Release,0.383,Money and Credit
-541ca80d-ee4e-4475-be17-6ce8f9e9dca2,06/29/2026 09:00:00,Business Climate,HIGH,EUR,Release,0.595,Confidence
-e801f912-7873-4866-8152-300c50155149,06/29/2026 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
-58604d09-51f8-4ecc-a521-77d103d43a07,06/29/2026 09:00:00,Economic Sentiment Indicator,HIGH,EUR,Release,0.595,Confidence
-398eaf3b-5e49-4ebe-9302-2b0ed937d72c,06/29/2026 09:00:00,Industrial Confidence,HIGH,EUR,Release,0.595,Confidence
-1c2733c0-5905-4c3b-ad12-fc0aeefb76be,06/29/2026 09:00:00,Services Sentiment,HIGH,EUR,Release,0.595,Confidence
-42a28f1e-0423-4a29-8313-72e4f4a2b686,06/29/2026 17:30:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
+d37e90ea-3a6d-429f-912e-1397b509d008,06/30/2026 06:35:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
+b81547b1-5ac8-4b75-9664-83f6793332ca,06/30/2026 07:10:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 ed8bee6a-5da3-434f-a040-8be095d6b0f2,06/30/2026 07:40:00,ECB's Vujčić speech,HIGH,EUR,Speech,0.552,Monetary Policy
 3c51f925-1cc5-4295-97ac-fc7d77f23833,06/30/2026 08:40:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy
 65177e9d-4bef-4c4f-9300-219981d64f06,06/30/2026 10:40:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
