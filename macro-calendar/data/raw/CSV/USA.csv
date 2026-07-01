@@ -1,12 +1,5 @@
 Id,Start,Name,Impact,Currency
-b7c18419-eb4a-41c4-a3fa-cbda4c8af321,06/30/2026 12:55:00,Redbook Index (YoY),LOW,USD
-cadc75ab-a863-4b6f-8af7-ed0e0ea70c35,06/30/2026 13:00:00,Housing Price Index (MoM),MEDIUM,USD
-a02d6769-6249-4715-bb19-1c3a9d56d773,06/30/2026 13:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD
-60df30ca-da58-459f-843d-6b1ae4c17791,06/30/2026 13:45:00,Chicago PMI,MEDIUM,USD
-980e16bd-5951-44a3-a5c6-ef9c0692effa,06/30/2026 14:00:00,Consumer Confidence,MEDIUM,USD
-9b5e32c5-9477-4e42-ab2a-39418df5efab,06/30/2026 14:00:00,JOLTS Job Openings,MEDIUM,USD
-aafa2e3e-f120-43fa-b6c1-acb80df261b9,06/30/2026 16:00:00,Grain Stock Report,LOW,USD
-54693ee9-e7dc-497a-9eee-97a1e7c353a2,06/30/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
+34a93e33-5349-4067-be4c-8f9433b6bdee,07/01/2026 09:30:00,Challenger Job Cuts,MEDIUM,USD
 2d734a1f-c48b-4bb5-8b2e-3e3e0f112f60,07/01/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 0eec4b7a-1828-40bb-9d4a-b2776b72a5ad,07/01/2026 12:15:00,ADP Employment Change,HIGH,USD
 97eb47dc-6154-4652-83ba-109c531258ef,07/01/2026 13:00:00,Fed's Chair Warsh speech,HIGH,USD
@@ -18,7 +11,6 @@ a09df8af-d312-48a9-968c-a4c389fe03e5,07/01/2026 14:00:00,ISM Manufacturing New O
 c4455abd-00d9-473b-b73c-9e547179db18,07/01/2026 14:00:00,ISM Manufacturing Prices Paid,MEDIUM,USD
 a9b22fa1-311e-4ee8-96a3-be70e38afd9a,07/01/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
 34a8f342-59f7-4815-8c58-78350f3b7c38,07/01/2026 19:30:00,Total Vehicle Sales,LOW,USD
-34a93e33-5349-4067-be4c-8f9433b6bdee,07/02/2026 11:30:00,Challenger Job Cuts,MEDIUM,USD
 6f75c6cc-5009-4be8-a766-5a2d2be06bbf,07/02/2026 12:30:00,Average Hourly Earnings (MoM),HIGH,USD
 65df7395-aacd-46d8-b9ed-ec2a9969904b,07/02/2026 12:30:00,Average Hourly Earnings (YoY),HIGH,USD
 4edaf976-9a7e-4f53-a620-b549dc1f16f2,07/02/2026 12:30:00,Average Weekly Hours,LOW,USD

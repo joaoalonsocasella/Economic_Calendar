@@ -1,14 +1,8 @@
 Id,Start,Name,Impact,Currency
-10102caf-635a-4b5a-b572-3f042014638c,06/30/2026 06:00:00,Current Account,LOW,GBP
-f4efe6b0-2901-431b-a2ae-de65391a533c,06/30/2026 06:00:00,Gross Domestic Product (QoQ),HIGH,GBP
-ec4d9aba-7806-4975-a6ae-06d88dd665ca,06/30/2026 06:00:00,Gross Domestic Product (YoY),HIGH,GBP
-9fd06e40-8a3b-4cda-9f51-58f9fb764ddf,06/30/2026 06:00:00,Total Business Investment (QoQ),LOW,GBP
-31dca2a9-064b-4888-88a2-d0bfe2b7e1f7,06/30/2026 06:00:00,Total Business Investment (YoY),LOW,GBP
-3101e45c-1fd1-4633-b944-347e5d2962d3,06/30/2026 10:40:00,BoE's Breeden speech,MEDIUM,GBP
 2856498c-2410-4c0a-a7df-8bdebc50026a,07/01/2026 06:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP
 5ae9d671-ef99-46c0-ba02-fd1d09774e55,07/01/2026 06:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP
 e4611968-7e90-42d7-9d20-809bf8e5045a,07/01/2026 08:30:00,S&P Global Manufacturing PMI,LOW,GBP
-027a85e2-2878-4656-8b93-65d383bd8eae,07/01/2026 13:30:00,BoE's Governor Bailey speech,HIGH,GBP
+027a85e2-2878-4656-8b93-65d383bd8eae,07/01/2026 13:00:00,BoE's Governor Bailey speech,HIGH,GBP
 4734a0aa-81a2-4cdf-9d77-5da43c3b9020,07/02/2026 08:30:00,BoE Credit Conditions Survey,LOW,GBP
 70801343-3c67-4d15-86ce-9d632e16e26a,07/02/2026 14:00:00,BoE's Mann speech,MEDIUM,GBP
 9995b5ae-85fb-49c7-a5bf-f6cf48403b30,07/03/2026 08:30:00,S&P Global Composite PMI,LOW,GBP

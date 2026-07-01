@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-1711e64c-73df-4649-b75f-8ba8a9df8b18,06/30/2026 01:00:00,ANZ Activity Outlook,MEDIUM,NZD,Release,0.14,Confidence
-5536e165-f8cc-4cf8-8fb4-1052f6c4ef35,06/30/2026 01:00:00,ANZ Business Confidence,MEDIUM,NZD,Release,0.14,Confidence
 a99d981b-7a6a-4ce1-93bc-0703614315c4,07/01/2026 22:45:00,Building Permits s.a. (MoM),LOW,NZD,Release,0.07,Housing
 26284fdb-5298-4e76-887f-0998eca35dab,07/02/2026 22:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Release,0.14,Confidence
 1122ed98-3b9d-4f77-a90c-a44c3def2bb4,07/06/2026 01:00:00,ANZ Commodity Price,MEDIUM,NZD,Release,0.14,Confidence
@@ -157,8 +155,8 @@ f5e2e978-f08f-40a6-8a8b-5c5f49a4d7c1,12/13/2026 21:45:00,Visitor Arrivals (YoY),
 cbe28735-15f2-458a-8a86-b8db0560a859,12/15/2026 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 c9833742-a399-4ac7-a014-994329a08b3a,12/15/2026 21:45:00,Current Account - GDP Ratio,MEDIUM,NZD,Release,0.11,Trade and External
 687a8a96-46f7-41f5-9b29-68ffc6f93732,12/15/2026 21:45:00,Current Account (QoQ),MEDIUM,NZD,Release,0.11,Trade and External
-b5e99630-d62e-4e16-8d82-e7430d8a7ca6,12/16/2026 21:45:00,Gross Domestic Product (QoQ),HIGH,NZD,Release,0.17,Growth
 7fe0aeb8-692e-4e19-9abe-568029b31077,12/16/2026 21:45:00,Gross Domestic Product (QoQ),HIGH,NZD,Release,0.17,Growth
+b5e99630-d62e-4e16-8d82-e7430d8a7ca6,12/16/2026 21:45:00,Gross Domestic Product (QoQ),HIGH,NZD,Release,0.17,Growth
 8853b60a-524a-4cd2-8a6e-09a140e6ea58,12/16/2026 21:45:00,Gross Domestic Product (YoY),HIGH,NZD,Release,0.17,Growth
 f61b53ed-12b7-4c5b-95b4-1a08e99eb7ba,12/16/2026 21:45:00,Gross Domestic Product (YoY),HIGH,NZD,Release,0.17,Growth
 9dc34985-bf44-406b-9233-10815326bcc9,12/18/2026 00:00:00,ANZ Activity Outlook,MEDIUM,NZD,Release,0.14,Confidence

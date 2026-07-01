@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-7ab2ac91-ffbe-42cc-9620-db6f49eb57fe,06/30/2026 11:30:00,Nominal Budget Balance,MEDIUM,BRL,Release,0.11,Trade and External
-0e975253-ab08-4f79-876a-f841f71564a0,06/30/2026 11:30:00,Primary Budget Surplus,HIGH,BRL,Release,0.2,Monetary Policy
 0d6023b4-d1e2-40dd-b6a7-f194d4faeb86,07/01/2026 13:00:00,S&P Global Manufacturing PMI,HIGH,BRL,Release,0.17,Growth
 3785f512-3541-4861-b7b0-88c1b6228b07,07/02/2026 08:00:00,Fipe's IPC Inflation,HIGH,BRL,Release,0.19,Inflation
 2de84f2b-b617-4899-89b1-065370011f08,07/03/2026 12:00:00,Industrial Output (MoM),HIGH,BRL,Release,0.17,Growth
