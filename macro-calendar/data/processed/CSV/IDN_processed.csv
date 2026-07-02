@@ -1,11 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-1aa5dd0c-5768-4346-a7ef-526e3766a3ac,07/01/2026 00:30:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
-54d634ca-f36d-413c-a05c-79f69a79d55a,07/01/2026 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
-146cd14f-280d-4c2e-a8a5-93b39c7a5286,07/01/2026 04:00:00,Exports,MEDIUM,IDR,Release,0.11,Trade and External
-01a2cbb4-fc48-489d-83d4-e1e33f5ef601,07/01/2026 04:00:00,Imports,MEDIUM,IDR,Release,0.11,Trade and External
-47ef8a95-ef65-4ed7-9cba-b1b0bf9e86d9,07/01/2026 04:00:00,Inflation (MoM),HIGH,IDR,Release,0.19,Inflation
-3c81060e-ef6f-4f46-9b7e-c564c3717a8e,07/01/2026 04:00:00,Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
-707cfa81-1666-48fc-96ec-f880351f474e,07/01/2026 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
 d09e835a-5b35-466f-b2db-d37594431178,07/08/2026 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
 cc9f6277-1b9e-4805-ba6f-901829d5b44d,07/08/2026 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
 eb427a6c-f0fb-457f-b27c-883b7c198a9c,07/09/2026 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth

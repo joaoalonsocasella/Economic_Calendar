@@ -1,8 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a44ae932-d8be-4c3f-8407-4d8dafa66939,07/01/2026 07:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 58562e29-4e51-4214-ad02-1b5523f81ae5,07/02/2026 07:00:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
 403e73ac-aced-436f-83c1-013d57363e88,07/02/2026 08:40:00,10-y Obligaciones Auction,HIGH,EUR,Release,0.383,Money and Credit
-c4922dc0-a7f4-4f5c-ab1e-3befd4afc249,07/02/2026 08:40:00,5-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
+c4922dc0-a7f4-4f5c-ab1e-3befd4afc249,07/02/2026 08:50:00,5-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 534af8c5-5956-49df-b5b7-999b2b01748e,07/03/2026 07:00:00,Industrial Output Cal Adjusted (YoY),HIGH,EUR,Release,0.722,Growth
 8949e72e-8fa8-4f7d-bc79-2c1ecfa5c5e0,07/03/2026 07:15:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 18b80975-2f38-4987-97cb-a6fd0aaadd7c,07/07/2026 08:40:00,12-Month Letras Auction,HIGH,EUR,Release,0.383,Money and Credit
