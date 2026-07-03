@@ -1,12 +1,8 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-966573b3-1532-4ebb-82eb-4377f6558c18,07/02/2026 09:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
-9cd010bd-25d6-4959-8446-00d51ace1305,07/02/2026 10:00:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy
-ca9e70c7-92dc-4e02-b405-24a12b64ce82,07/02/2026 13:45:00,ECB's Escrivá speech,HIGH,EUR,Speech,0.552,Monetary Policy
-f6e0546b-0397-485a-90d9-ec405915d189,07/02/2026 17:55:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
 2051139a-9a40-4432-870e-c9ca62443650,07/03/2026 08:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
 e7aa1a85-a2c0-4cc9-b69e-59afff6f9246,07/03/2026 08:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 301c991a-e09a-4596-b269-496c139f81c1,07/03/2026 08:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
-cc148e90-aecd-4bb7-80fc-f0f479d8b971,07/03/2026 14:30:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
+cc148e90-aecd-4bb7-80fc-f0f479d8b971,07/03/2026 15:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 58614c0d-1430-421a-b0ec-29683f9b5798,07/06/2026 08:30:00,Sentix Investor Confidence,HIGH,EUR,Release,0.595,Confidence
 e5eab0cb-a270-4a38-9e4b-b200e10d4e8f,07/06/2026 09:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 9d74b5f0-f412-4c0b-80c3-8aa72a0cddd7,07/06/2026 09:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation

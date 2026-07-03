@@ -1,25 +1,11 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-6f75c6cc-5009-4be8-a766-5a2d2be06bbf,07/02/2026 12:30:00,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market
-65df7395-aacd-46d8-b9ed-ec2a9969904b,07/02/2026 12:30:00,Average Hourly Earnings (YoY),HIGH,USD,Release,0.18,Labor Market
-4edaf976-9a7e-4f53-a620-b549dc1f16f2,07/02/2026 12:30:00,Average Weekly Hours,HIGH,USD,Release,0.18,Labor Market
-a7f5e0a3-2645-4e39-994f-dd31adadb3ee,07/02/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
-0b334a81-f6ca-4cca-9772-0a9297f3e6c3,07/02/2026 12:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
-b1874f51-d459-41da-969b-6a88e71228b9,07/02/2026 12:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
-f6ad447e-df7b-4c00-8e16-da3590b2d1db,07/02/2026 12:30:00,Labor Force Participation Rate,HIGH,USD,Release,0.18,Labor Market
-9f9c6d5f-9389-4478-94ef-ebac21ce2730,07/02/2026 12:30:00,Nonfarm Payrolls,HIGH,USD,Release,0.18,Labor Market
-8fe72890-91a9-4d58-b9f5-16c6ca8000ea,07/02/2026 12:30:00,U6 Underemployment Rate,HIGH,USD,Release,0.2,Monetary Policy
-b69a1b58-61b9-466a-b745-3befb8e90767,07/02/2026 12:30:00,Unemployment Rate,HIGH,USD,Release,0.18,Labor Market
-67ccf0a3-45bc-41a9-b35f-6d37c7a9f44f,07/02/2026 13:45:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-84dc14b2-a485-49e3-a055-a74aa585de2b,07/02/2026 14:00:00,Factory Orders (MoM),HIGH,USD,Release,0.17,Growth
-32e88d09-7fd7-4d04-a498-a64fa4b7c6f9,07/02/2026 14:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
-906fb28d-82c0-4ef8-96aa-3c7b1ca3ef1c,07/02/2026 15:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
-75188023-1dab-4bb7-b00c-6ed9a12fbc35,07/02/2026 17:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
 86e2e334-f0d0-4587-9263-8d279a17e919,07/06/2026 13:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
 6a2fbd5a-f3bd-4723-8e73-eecccdb784bd,07/06/2026 13:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
 c498d66d-0f24-44ef-8ac1-b4e3e111c19b,07/06/2026 14:00:00,ISM Services Employment Index,HIGH,USD,Release,0.18,Labor Market
 03f35545-f5f7-4563-b579-1d681dbdf5d8,07/06/2026 14:00:00,ISM Services New Orders Index,HIGH,USD,Release,0.17,Growth
 fc652edc-28c2-4fe3-93ab-ef56438b81b0,07/06/2026 14:00:00,ISM Services PMI,HIGH,USD,Release,0.17,Growth
 5a974d1b-f263-4bc3-836f-8fa83a82418c,07/06/2026 14:00:00,ISM Services Prices Paid,MEDIUM,USD,Release,0.14,Confidence
+aee44238-e5ee-47ae-b60b-4d1f91c4697c,07/06/2026 15:00:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 212344ac-8ad0-432d-a33d-4408ab00df22,07/06/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 578a4387-51f4-4245-a127-0c0ceed91236,07/06/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 2620bde9-43e8-417a-894e-b901bc14f96e,07/06/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit

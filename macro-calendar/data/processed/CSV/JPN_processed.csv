@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0e9c75ea-c26d-49e1-a6c9-721c77e387dc,07/02/2026 03:35:00,10-y Bond Auction,LOW,JPY,Release,0.09,Money and Credit
 956ab019-b19a-486b-af89-a12afcdbe03c,07/03/2026 00:30:00,Jibun Bank Services PMI,HIGH,JPY,Release,0.17,Growth
 ba44b579-b0ef-4f32-867c-9303e74ac2a0,07/06/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
 e1849720-f534-434c-a5e9-fe04d8181175,07/06/2026 23:30:00,Labor Cash Earnings (YoY),HIGH,JPY,Release,0.18,Labor Market
@@ -351,7 +350,6 @@ ef1deda7-3f98-4e12-9f39-d9c58fff0935,11/30/2026 23:50:00,Large Retailer Sales,ME
 cac08cdf-3cb4-42b7-b3ff-71a25b7c3e6a,12/02/2026 23:50:00,Foreign Investment in Japan Stocks,HIGH,JPY,Release,0.17,Growth
 5c173fc2-5dfa-49c6-82fd-3ce90624a64d,12/03/2026 00:30:00,Jibun Bank Services PMI,HIGH,JPY,Release,0.17,Growth
 936a98f3-35b3-40d7-a7a7-421cb6616f19,12/03/2026 03:35:00,10-y Bond Auction,LOW,JPY,Release,0.09,Money and Credit
-726f9de3-8aaa-4485-8500-77a663125db6,12/03/2026 23:30:00,Overall Household Spending (YoY),HIGH,JPY,Release,0.17,Growth
 c43524b6-0d76-4eb7-87eb-52c3592d36ca,12/04/2026 20:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
 1541d767-5d09-46fa-a80f-b6f33a7cd1a4,12/06/2026 23:50:00,Gross Domestic Product (QoQ),HIGH,JPY,Release,0.17,Growth
 40e118e1-20b4-4468-ac7c-d14cc6ef7002,12/06/2026 23:50:00,Gross Domestic Product Annualized,HIGH,JPY,Release,0.17,Growth
@@ -360,6 +358,7 @@ c43524b6-0d76-4eb7-87eb-52c3592d36ca,12/04/2026 20:30:00,CFTC JPY NC Net Positio
 6de6dfa6-9e28-4002-af6a-915da4855f91,12/07/2026 05:00:00,Coincident Index,MEDIUM,JPY,Release,0.11,Trade and External
 2a729e2b-a105-4ef2-b049-60b0e641a1b8,12/07/2026 05:00:00,Leading Economic Index,MEDIUM,JPY,Release,0.14,Confidence
 c9d5af20-0824-4590-b1f2-8ab23241ed67,12/07/2026 23:30:00,Labor Cash Earnings (YoY),HIGH,JPY,Release,0.18,Labor Market
+726f9de3-8aaa-4485-8500-77a663125db6,12/07/2026 23:30:00,Overall Household Spending (YoY),HIGH,JPY,Release,0.17,Growth
 7ef69a70-24bb-4498-aa26-5ce05fe53e3a,12/07/2026 23:50:00,Current Account n.s.a.,MEDIUM,JPY,Release,0.11,Trade and External
 213f8798-b4f2-4e05-8ad2-4e7ffaac0927,12/07/2026 23:50:00,Trade Balance - BOP Basis,MEDIUM,JPY,Release,0.11,Trade and External
 4cf986c1-0f93-40f5-87e4-b3302d2ee48b,12/09/2026 06:00:00,Machine Tool Orders (YoY),HIGH,JPY,Release,0.17,Growth

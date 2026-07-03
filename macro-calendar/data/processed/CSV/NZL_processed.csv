@@ -1,10 +1,9 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-26284fdb-5298-4e76-887f-0998eca35dab,07/02/2026 22:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Release,0.14,Confidence
 1122ed98-3b9d-4f77-a90c-a44c3def2bb4,07/06/2026 01:00:00,ANZ Commodity Price,MEDIUM,NZD,Release,0.14,Confidence
 3d91f323-980a-4c8d-87f4-1ab32afb26f0,07/07/2026 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 084ba9be-484f-420c-bc76-92e6fec6b8e3,07/08/2026 02:00:00,RBNZ Interest Rate Decision,MEDIUM,NZD,Speech,0.13,Monetary Policy
 834afad3-8ecb-468d-9c93-0402fcf56c07,07/08/2026 02:00:00,RBNZ Monetary Policy Review,HIGH,NZD,Release,0.2,Monetary Policy
-5768beff-412b-483b-b9ff-9a9c5c459a1f,07/08/2026 02:00:00,RBNZ Monetary Policy Statement,MEDIUM,NZD,Speech,0.13,Monetary Policy
+db9f073f-1c53-425c-93da-e6431d50b9a0,07/08/2026 03:00:00,RBNZ Press Conference,MEDIUM,NZD,Speech,0.13,Monetary Policy
 2261ff17-621e-4777-a8b8-c9b95f5b5a5b,07/08/2026 22:30:00,Business NZ PMI,HIGH,NZD,Release,0.17,Growth
 efbcc47a-7c7d-41e0-b007-e06f4861e57b,07/12/2026 22:30:00,Business NZ PSI,MEDIUM,NZD,Release,0.14,Confidence
 27da6b8e-3748-4ce3-8867-182fdc43ed07,07/13/2026 22:00:00,NZIER Business Confidence (QoQ),MEDIUM,NZD,Release,0.14,Confidence
