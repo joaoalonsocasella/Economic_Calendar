@@ -1,8 +1,8 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-01e23388-fbb6-4c6f-a18f-db48a6c6408b,07/06/2026 07:00:00,Industrial Production (YoY),HIGH,EUR,Release,0.722,Growth
 32634628-4f9a-4f16-8537-b9d271288369,07/07/2026 07:00:00,Wholesale Prices n.s.a (MoM),HIGH,EUR,Release,0.722,Growth
 46095648-4c7c-41c5-802d-ff772b5da0a2,07/07/2026 07:00:00,Wholesale Prices n.s.a (YoY),HIGH,EUR,Release,0.468,Trade and External
 16a1f73d-7c27-4a91-8ad8-111c9b2b696e,07/08/2026 07:00:00,Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+01e23388-fbb6-4c6f-a18f-db48a6c6408b,07/10/2026 07:00:00,Industrial Production (YoY),HIGH,EUR,Release,0.722,Growth
 dddc15c4-8778-45b4-8254-8d6031b9c386,07/17/2026 07:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
 b6d15e4a-1104-40b7-8971-a76041749734,07/17/2026 07:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
 5cacd77b-bc4f-4901-aeda-a2185b9fffee,07/29/2026 08:00:00,UniCredit Bank Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
