@@ -1,16 +1,5 @@
 Id,Start,Name,Impact,Currency
-86e2e334-f0d0-4587-9263-8d279a17e919,07/06/2026 13:45:00,S&P Global Composite PMI,MEDIUM,USD
-6a2fbd5a-f3bd-4723-8e73-eecccdb784bd,07/06/2026 13:45:00,S&P Global Services PMI,LOW,USD
-c498d66d-0f24-44ef-8ac1-b4e3e111c19b,07/06/2026 14:00:00,ISM Services Employment Index,MEDIUM,USD
-03f35545-f5f7-4563-b579-1d681dbdf5d8,07/06/2026 14:00:00,ISM Services New Orders Index,MEDIUM,USD
-fc652edc-28c2-4fe3-93ab-ef56438b81b0,07/06/2026 14:00:00,ISM Services PMI,HIGH,USD
-5a974d1b-f263-4bc3-836f-8fa83a82418c,07/06/2026 14:00:00,ISM Services Prices Paid,MEDIUM,USD
-aee44238-e5ee-47ae-b60b-4d1f91c4697c,07/06/2026 15:00:00,Fed's Waller speech,MEDIUM,USD
-212344ac-8ad0-432d-a33d-4408ab00df22,07/06/2026 15:30:00,3-Month Bill Auction,LOW,USD
-578a4387-51f4-4245-a127-0c0ceed91236,07/06/2026 15:30:00,6-Month Bill Auction,LOW,USD
-2620bde9-43e8-417a-894e-b901bc14f96e,07/06/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD
-b940b1d7-bb8e-4c4f-a793-91fd900a95f6,07/06/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD
-619ea8f3-c594-4754-a47d-9c1ac9b3713c,07/06/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
+8ed19bd9-8d9b-44be-967c-7811fac41c55,07/07/2026 11:00:00,Fed's Bowman speech,MEDIUM,USD
 ca508d5e-a0b3-46e7-8bc7-eb5cd374d17a,07/07/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 588e434e-41bb-4ba5-b905-7c2569bca86a,07/07/2026 12:30:00,Goods and Services Trade Balance,LOW,USD
 1d417604-1a2f-446a-94fe-872f6eecae2d,07/07/2026 12:30:00,Goods Trade Balance,LOW,USD

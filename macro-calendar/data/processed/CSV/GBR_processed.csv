@@ -1,9 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-994fa952-07e0-48c6-ad63-e90d4d96a259,07/06/2026 08:30:00,S&P Global Construction PMI,HIGH,GBP,Release,0.17,Growth
-ed20ccab-e7bb-4428-a259-c24dc9ea7f8e,07/06/2026 16:45:00,BoE's Mann speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
-fae77ba6-6d78-4b48-9bdc-d5b23a68175c,07/06/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
-2d27b828-1f5c-4bf3-b8d8-4fd4eacb2348,07/07/2026 06:00:00,Halifax House Prices (MoM),LOW,GBP,Release,0.07,Housing
-beec13f9-85ef-4961-80b5-0cebd64abefe,07/07/2026 06:00:00,Halifax House Prices (YoY/3m),LOW,GBP,Release,0.07,Housing
+2d27b828-1f5c-4bf3-b8d8-4fd4eacb2348,07/07/2026 06:00:00,Lloyds House Price Index (MoM),LOW,GBP,Release,0.07,Housing
+beec13f9-85ef-4961-80b5-0cebd64abefe,07/07/2026 06:00:00,Lloyds House Price Index (YoY),LOW,GBP,Release,0.07,Housing
 da8e60c7-33a7-47b6-b30b-f08b5718b49e,07/07/2026 09:30:00,Financial Stability Report,HIGH,GBP,Release,0.2,Monetary Policy
 fa0b9128-7dfe-4585-b405-6015672c8e27,07/07/2026 09:30:00,FPC Meeting Minutes,HIGH,GBP,Release,0.2,Monetary Policy
 13d14e88-83b3-4893-8cc5-a3a4ffa41549,07/07/2026 09:30:00,FPC Statement,MEDIUM,GBP,Speech,0.13,Monetary Policy
@@ -74,8 +71,8 @@ c20486a3-d327-4767-91eb-9f365a773062,08/03/2026 08:30:00,Mortgage Approvals,LOW,
 b97fe992-d192-469b-afd2-44d2c63a3de9,08/03/2026 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
 f9d594bf-6245-43ad-b1b4-0b430f649022,08/05/2026 08:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
 53243d79-147e-44ec-98b3-52a98f6dc940,08/05/2026 08:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
-285d87c6-6a92-4b73-88ba-c3e6f54d2bd2,08/06/2026 06:00:00,Halifax House Prices (MoM),LOW,GBP,Release,0.07,Housing
-d378decd-b56e-4c33-ace1-51ff667577d4,08/06/2026 06:00:00,Halifax House Prices (YoY/3m),LOW,GBP,Release,0.07,Housing
+285d87c6-6a92-4b73-88ba-c3e6f54d2bd2,08/06/2026 06:00:00,Lloyds House Price Index (MoM),LOW,GBP,Release,0.07,Housing
+d378decd-b56e-4c33-ace1-51ff667577d4,08/06/2026 06:00:00,Lloyds House Price Index (YoY),LOW,GBP,Release,0.07,Housing
 7e421772-6430-4d8d-a996-4884116d0c48,08/06/2026 08:30:00,S&P Global Construction PMI,HIGH,GBP,Release,0.17,Growth
 137f6db7-2b56-41a9-bef7-6b833a0be44b,08/07/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 0da8a3d2-3ce7-4d97-83b5-9d074a7e6fff,08/10/2026 23:01:00,BRC Like-For-Like Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
@@ -140,8 +137,8 @@ b3941392-10cd-4e9c-a70e-f7c6ca15e6fe,09/01/2026 08:30:00,Mortgage Approvals,LOW,
 20972f0a-4a27-48dc-a9fd-351763626580,09/03/2026 09:15:00,BoE Monetary Policy Report Hearings,MEDIUM,GBP,Speech,0.13,Monetary Policy
 3e8d1513-a60d-4e78-af13-71a8ab6333f9,09/04/2026 08:30:00,S&P Global Construction PMI,HIGH,GBP,Release,0.17,Growth
 a06f7f38-ef79-4019-a19c-5500368cf3fa,09/04/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
-340a86b2-fda1-44b2-ab50-20b8c1e3d954,09/08/2026 06:00:00,Halifax House Prices (MoM),LOW,GBP,Release,0.07,Housing
-5ec87422-a379-47ed-97ba-d07fa2fd5f3c,09/08/2026 06:00:00,Halifax House Prices (YoY/3m),LOW,GBP,Release,0.07,Housing
+340a86b2-fda1-44b2-ab50-20b8c1e3d954,09/08/2026 06:00:00,Lloyds House Price Index (MoM),LOW,GBP,Release,0.07,Housing
+5ec87422-a379-47ed-97ba-d07fa2fd5f3c,09/08/2026 06:00:00,Lloyds House Price Index (YoY),LOW,GBP,Release,0.07,Housing
 44435e1b-dd93-4487-85ba-2764748817c0,09/09/2026 23:01:00,RICS Housing Price Balance,LOW,GBP,Release,0.07,Housing
 3ac2df5a-4a0e-4cd8-932e-2dba67125fa0,09/11/2026 06:00:00,Goods Trade Balance,MEDIUM,GBP,Release,0.11,Trade and External
 4f369a44-4c2b-4c7f-b28a-5936c689971e,09/11/2026 06:00:00,Gross Domestic Product (MoM),LOW,GBP,Release,0.07,Housing
@@ -213,8 +210,8 @@ c4330f33-3f30-4aed-b4dd-be690b35d1c7,10/02/2026 19:30:00,CFTC GBP NC Net Positio
 c5359a4e-475f-44ad-942c-a56bad91ae98,10/05/2026 08:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
 467ba32a-2df2-4f10-b844-f9884224e8fe,10/05/2026 08:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
 29be0f8c-284d-472b-bd4f-bba3bacd0427,10/06/2026 08:30:00,S&P Global Construction PMI,HIGH,GBP,Release,0.17,Growth
-afabfe00-ec93-4e56-bc54-79a8cb9105d4,10/08/2026 06:00:00,Halifax House Prices (MoM),LOW,GBP,Release,0.07,Housing
-899f110c-d6e1-4cbc-b630-c76d3040f3ac,10/08/2026 06:00:00,Halifax House Prices (YoY/3m),LOW,GBP,Release,0.07,Housing
+afabfe00-ec93-4e56-bc54-79a8cb9105d4,10/08/2026 06:00:00,Lloyds House Price Index (MoM),LOW,GBP,Release,0.07,Housing
+899f110c-d6e1-4cbc-b630-c76d3040f3ac,10/08/2026 06:00:00,Lloyds House Price Index (YoY),LOW,GBP,Release,0.07,Housing
 84a59dbf-c873-44fb-ad49-6fce68b08661,10/08/2026 08:30:00,BoE Credit Conditions Survey,HIGH,GBP,Release,0.2,Monetary Policy
 c5ec23ed-d05e-4979-8965-e78ac5a79b36,10/09/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 1d5a44a5-7b52-40b5-8d79-05f497c9dcf6,10/12/2026 23:01:00,BRC Like-For-Like Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
@@ -282,8 +279,8 @@ d877acfe-fc11-448a-a375-eb814853a930,11/05/2026 12:00:00,BoE Monetary Policy Rep
 38938af9-5052-40d9-b878-da46c82c4af0,11/05/2026 12:00:00,BoE MPC Vote Rate Hike,MEDIUM,GBP,Speech,0.13,Monetary Policy
 b6f8ab3e-5fe3-4088-9678-81822be75992,11/05/2026 12:00:00,BoE MPC Vote Rate Unchanged,MEDIUM,GBP,Speech,0.13,Monetary Policy
 b7686588-d8da-4567-a380-e9eff4b6d41c,11/05/2026 12:30:00,BoE's Governor Bailey speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
-6dd83d20-0c68-491e-bd98-d23bafe2921c,11/06/2026 07:00:00,Halifax House Prices (MoM),LOW,GBP,Release,0.07,Housing
-22843f0b-d29f-4db0-a2db-ff7cfea5527a,11/06/2026 07:00:00,Halifax House Prices (YoY/3m),LOW,GBP,Release,0.07,Housing
+6dd83d20-0c68-491e-bd98-d23bafe2921c,11/06/2026 07:00:00,Lloyds House Price Index (MoM),LOW,GBP,Release,0.07,Housing
+22843f0b-d29f-4db0-a2db-ff7cfea5527a,11/06/2026 07:00:00,Lloyds House Price Index (YoY),LOW,GBP,Release,0.07,Housing
 3e15ccf1-d78c-47e6-be2e-25358365bd77,11/06/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 a33c59ef-35ac-433c-8a0f-6fb0371e8ed0,11/10/2026 00:01:00,BRC Like-For-Like Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
 f68ce273-41d1-4ef8-b709-8169275fd13c,11/12/2026 00:01:00,RICS Housing Price Balance,LOW,GBP,Release,0.07,Housing
@@ -353,8 +350,8 @@ c9d23882-32e7-495e-a533-9651eadb609a,12/03/2026 09:30:00,S&P Global Services PMI
 7afa706e-4e06-47be-9529-cd53b52f65bb,12/04/2026 09:30:00,S&P Global Construction PMI,HIGH,GBP,Release,0.17,Growth
 8d6ca15c-c093-4dc3-a51e-b14675cb0a13,12/04/2026 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 f4ebc9bc-a372-436c-802d-3cecd0569c30,12/08/2026 00:01:00,BRC Like-For-Like Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
-2af5fb8d-3d9d-4588-a778-23b4c2d1144f,12/08/2026 07:00:00,Halifax House Prices (MoM),LOW,GBP,Release,0.07,Housing
-5c3c0df0-193e-4ac4-8ec5-53ef5468f973,12/08/2026 07:00:00,Halifax House Prices (YoY/3m),LOW,GBP,Release,0.07,Housing
+2af5fb8d-3d9d-4588-a778-23b4c2d1144f,12/08/2026 07:00:00,Lloyds House Price Index (MoM),LOW,GBP,Release,0.07,Housing
+5c3c0df0-193e-4ac4-8ec5-53ef5468f973,12/08/2026 07:00:00,Lloyds House Price Index (YoY),LOW,GBP,Release,0.07,Housing
 9c47a728-90ac-4800-afb2-ee2e52988da8,12/10/2026 00:01:00,RICS Housing Price Balance,LOW,GBP,Release,0.07,Housing
 91d8f90d-8fa3-4d4d-bb3e-60d3c5d21699,12/11/2026 07:00:00,Goods Trade Balance,MEDIUM,GBP,Release,0.11,Trade and External
 d221af64-88c0-484b-b454-f5668ad58e1a,12/11/2026 07:00:00,Gross Domestic Product (MoM),LOW,GBP,Release,0.07,Housing
@@ -423,8 +420,8 @@ a18cb6a3-8de2-4eb6-97c1-e8b6f1875525,01/04/2027 09:30:00,M4 Money Supply (YoY),H
 c3c23082-edfc-4f82-91c8-14d65778bf93,01/05/2027 00:01:00,BRC Like-For-Like Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
 8d774af0-4369-4859-b298-f1e86a4acc0e,01/06/2027 09:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
 99779cbf-a44d-4c11-a044-422629a6be39,01/06/2027 09:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
-d91ea092-b3bb-4702-8313-3f58382182a9,01/07/2027 07:00:00,Halifax House Prices (MoM),LOW,GBP,Release,0.07,Housing
-b3ffcdd2-77d0-498f-956e-2f92999219d6,01/07/2027 07:00:00,Halifax House Prices (YoY/3m),LOW,GBP,Release,0.07,Housing
+d91ea092-b3bb-4702-8313-3f58382182a9,01/07/2027 07:00:00,Lloyds House Price Index (MoM),LOW,GBP,Release,0.07,Housing
+b3ffcdd2-77d0-498f-956e-2f92999219d6,01/07/2027 07:00:00,Lloyds House Price Index (YoY),LOW,GBP,Release,0.07,Housing
 d14dac52-7cf8-4bbd-8033-e13ccec91eb9,01/07/2027 09:30:00,S&P Global Construction PMI,HIGH,GBP,Release,0.17,Growth
 8d9764b0-096f-478b-a9fb-586f3b6ae00e,01/12/2027 07:00:00,Average Earnings Excluding Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
 39eb3a6d-1e3f-4343-899c-c18989621f7b,01/12/2027 07:00:00,Average Earnings Including Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
