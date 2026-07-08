@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e9b6e99c-e130-4d4f-9e54-f1054284bda0,07/07/2026 05:00:00,Coincident Index,MEDIUM,JPY,Release,0.11,Trade and External
-e5aa6b14-715d-4e86-b57f-c8f1ac3a3419,07/07/2026 05:00:00,Leading Economic Index,MEDIUM,JPY,Release,0.14,Confidence
-2215ae3d-7413-4064-8983-7e785e3305cf,07/07/2026 23:50:00,Bank Lending (YoY),HIGH,JPY,Release,0.19,Inflation
-e83fa8bd-69ce-47c6-80ba-734efdab4c1f,07/07/2026 23:50:00,Current Account n.s.a.,MEDIUM,JPY,Release,0.11,Trade and External
-f1530cb3-e8f3-4427-847b-4a22b984275b,07/07/2026 23:50:00,Trade Balance - BOP Basis,MEDIUM,JPY,Release,0.11,Trade and External
 04f22880-4709-4fb4-aa4e-86b8a4665f1e,07/08/2026 05:00:00,Eco Watchers Survey: Current,MEDIUM,JPY,Release,0.14,Confidence
 f0a2498a-4f3e-4b77-a100-77270ec94ce4,07/08/2026 05:00:00,Eco Watchers Survey: Outlook,MEDIUM,JPY,Release,0.14,Confidence
 fdafdee8-29e3-49b9-8ad5-4a6be30a1356,07/08/2026 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth

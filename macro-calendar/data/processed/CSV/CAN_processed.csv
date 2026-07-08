@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-878ff5c6-fe72-4bb0-b065-3047d76561de,07/07/2026 12:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
-b845e7f4-6b45-4ff5-a737-f7b3329d087e,07/07/2026 12:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
-015a4857-5bb0-46ce-b3a6-ae9a3f892e97,07/07/2026 12:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
-731fbd7a-c868-4119-a30e-408d4664e1fd,07/07/2026 14:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD,Release,0.14,Confidence
-55a8c99e-2dc0-4985-a794-a290cf558adf,07/07/2026 14:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD,Release,0.14,Confidence
 7a3da818-3f5e-4a92-add8-c98121329c6b,07/10/2026 12:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
 e9dc0122-a597-410b-aff8-8673acd6bfc1,07/10/2026 12:30:00,Building Permits (MoM),LOW,CAD,Release,0.07,Housing
 ac6db3b8-1cb3-48c4-b03c-694b9b3210d9,07/10/2026 12:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market

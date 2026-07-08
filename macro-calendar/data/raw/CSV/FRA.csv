@@ -1,8 +1,5 @@
 Id,Start,Name,Impact,Currency
-325a253d-7f5c-4c05-98fb-4a91011c437e,07/07/2026 06:45:00,"Exports, EUR",LOW,EUR
-91eb536a-b9b0-4ef0-baae-99d0143fddbe,07/07/2026 06:45:00,"Imports, EUR",LOW,EUR
-f828abf2-b350-403e-8fda-0908ad35a123,07/07/2026 06:45:00,Trade Balance EUR,LOW,EUR
-d7a7ef58-1c1c-4507-981f-a042ed9eb543,07/08/2026 06:45:00,Current Account,LOW,EUR
+d7a7ef58-1c1c-4507-981f-a042ed9eb543,07/08/2026 10:00:01,Current Account,LOW,EUR
 3f53d9fa-d155-44f5-b4fb-5d8703a65ac5,07/10/2026 06:45:00,Consumer Price Index (EU norm) (MoM),LOW,EUR
 64260e19-adbf-42d8-87c1-52268e9847cf,07/10/2026 06:45:00,Consumer Price Index (EU norm) (YoY),MEDIUM,EUR
 07fd0b4c-5182-47bd-93bd-cfd996370e80,07/10/2026 06:45:00,Inflation ex-tobacco (MoM),LOW,EUR
