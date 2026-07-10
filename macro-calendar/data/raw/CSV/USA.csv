@@ -1,20 +1,14 @@
 Id,Start,Name,Impact,Currency
-a22cfea5-1c13-4123-94bf-c9d3065443fc,07/09/2026 12:30:00,Continuing Jobless Claims,LOW,USD
-ed4c7ad8-ba25-4157-b463-78b51bb18f9e,07/09/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
-267eeaa7-2e26-4440-88b3-b6cbb5a87b40,07/09/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
-0603b07b-310d-4c55-b7b4-7fba0ff47b7f,07/09/2026 13:00:00,Fed's Williams speech,MEDIUM,USD
-4d6c757a-407b-4924-aa67-c51eff3f4696,07/09/2026 14:00:00,Existing Home Sales (MoM),LOW,USD
-abd43782-c89d-477b-b205-389138972d4f,07/09/2026 14:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
-9ab6ce7c-c9a4-48c8-b76a-5b1b3248df95,07/09/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
-05903509-4ccf-49d7-ab08-ee5828cfc185,07/09/2026 15:30:00,4-Week Bill Auction,LOW,USD
-b2079647-5a17-48d6-9ca6-2a5e91c582ea,07/09/2026 17:00:00,30-Year Bond Auction,LOW,USD
 a1ec61ed-737e-4c99-8e3d-9b2fd9c5fa80,07/10/2026 16:00:00,USDA WASDE Report,LOW,USD
 78b42c64-29b9-4a94-b700-694cd8cd1b25,07/10/2026 17:00:00,Baker Hughes US Oil Rig Count,LOW,USD
+40a5204f-e230-41e6-8b6f-de784b002ad6,07/10/2026 18:00:00,Fed Monetary Policy Report,MEDIUM,USD
 bbd5e723-6080-42e0-859d-43d4468c222f,07/10/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD
 04115512-438d-4b3b-a498-3f296f0b8dad,07/10/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 ad8cc545-9a89-46e8-b8b4-a88e6a22b74b,07/10/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
+eff9e202-c1fc-401b-abfc-c8bc6a8e0134,07/13/2026 09:25:00,Fed's Bowman speech,MEDIUM,USD
 4d9f4114-015c-4690-9e43-078918bf8c0d,07/13/2026 15:30:00,3-Month Bill Auction,LOW,USD
 54d7f7e4-eb7d-48c9-a135-d4d38feda1d5,07/13/2026 15:30:00,6-Month Bill Auction,LOW,USD
+0b8f4697-73d9-45ad-9f0a-1766bfd27fec,07/13/2026 16:30:00,Fed's Waller speech,MEDIUM,USD
 6bd7f3b9-8d74-4926-841e-554aa10532a4,07/13/2026 18:00:00,Monthly Budget Statement,MEDIUM,USD
 f77e2c79-9c4b-4dcf-b9b0-9322c135603c,07/14/2026 10:00:00,NFIB Business Optimism Index,LOW,USD
 8aa18890-3e90-4e00-a479-0941970b2df8,07/14/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
@@ -25,7 +19,11 @@ f77e2c79-9c4b-4dcf-b9b0-9322c135603c,07/14/2026 10:00:00,NFIB Business Optimism 
 3cb8e5ee-a721-4359-832e-bff364d91f3f,07/14/2026 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
 c354ad41-579b-4d73-9924-a115112f0523,07/14/2026 12:30:00,Consumer Price Index n.s.a (MoM),LOW,USD
 5f6822b9-c8f0-401d-aec4-0dc98f0dbfb5,07/14/2026 12:55:00,Redbook Index (YoY),LOW,USD
+14187702-79b2-4714-8da7-db38b7d530e6,07/14/2026 14:00:00,Fed Chair Warsh testifies,HIGH,USD
+5fcc83a2-3d08-494d-bd41-11ff95e555a8,07/14/2026 16:40:00,Fed's Barr speech,MEDIUM,USD
 be5c21a3-ecc4-4e39-9d4b-84f7bd9de71c,07/14/2026 17:00:00,Fed's Goolsbee speech,MEDIUM,USD
+56fc0eb1-7ee9-410c-970c-1b225fee7f12,07/14/2026 17:30:00,Fed's Cook speech,MEDIUM,USD
+cbabb269-e5e4-4653-906f-7868b59abb87,07/14/2026 18:55:00,Fed's Bowman speech,MEDIUM,USD
 ea01ef9b-2b41-4eb7-a5dc-4ba13271ae13,07/14/2026 20:00:00,Net Long-Term TIC Flows,LOW,USD
 446907ec-dcc6-4d5d-80b4-7b310ffd4a41,07/14/2026 20:00:00,Total Net TIC Flows,LOW,USD
 8fb3045f-2208-4e08-93fe-6a39c15401d4,07/14/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
@@ -35,7 +33,10 @@ ea01ef9b-2b41-4eb7-a5dc-4ba13271ae13,07/14/2026 20:00:00,Net Long-Term TIC Flows
 b74627f8-7567-41f8-a546-2c84998ae637,07/15/2026 12:30:00,Producer Price Index (YoY),MEDIUM,USD
 67b943c3-e8a4-4215-92fc-9b3f67ac37b0,07/15/2026 12:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
 e2f2f0d9-7751-4b1c-ba20-2a81bf5ba313,07/15/2026 12:30:00,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+cd3a4f5e-86e5-4aa3-b739-9c865e3895b6,07/15/2026 12:45:00,Fed's Williams speech,MEDIUM,USD
+624e84ff-096d-4982-a621-39a546c12fea,07/15/2026 14:00:00,Fed Chair Warsh testifies,HIGH,USD
 f10b8360-c36d-4ddf-8ef1-c5ffdc7b1d4b,07/15/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+15b15d6f-a681-42b3-8a5e-c871faff66d4,07/15/2026 17:00:00,Fed's Cook speech,MEDIUM,USD
 20627bc9-62ab-4581-9656-8460b8ef4dd6,07/15/2026 18:00:00,Fed's Beige Book,MEDIUM,USD
 233c0e37-2765-4add-960a-904473c50876,07/15/2026 23:30:00,Fed's Musalem speech,MEDIUM,USD
 8d79ce2a-16ed-40c2-b1f3-0d278d67bac2,07/16/2026 12:30:00,Continuing Jobless Claims,LOW,USD
@@ -50,6 +51,9 @@ d6f4d0bf-0267-4ee8-be50-a0bec5e6b061,07/16/2026 12:30:00,Retail Sales (YoY),LOW,
 1b4f7799-5087-4ab6-8675-8f9717438f16,07/16/2026 14:00:00,NAHB Housing Market Index,LOW,USD
 ea7fae4d-395b-48ed-8d3d-5c9157108cad,07/16/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
 b48f7b80-faef-49c0-a792-36b6a6efe4ec,07/16/2026 15:30:00,4-Week Bill Auction,LOW,USD
+c65dc933-56d9-433d-8e51-e84b54c95765,07/16/2026 16:30:00,Fed's Logan speech,MEDIUM,USD
+563da728-93b6-4704-8d61-2f110f4fc0f6,07/16/2026 17:25:00,Fed's Schmid speech,MEDIUM,USD
+19727de1-4774-43ef-b6d0-4ee906536499,07/16/2026 23:00:00,Fed's Jefferson speech,MEDIUM,USD
 1ea2d0c4-b3e8-44b3-8c66-f52b44a59421,07/17/2026 12:30:00,Building Permits (MoM),MEDIUM,USD
 68c4adb0-9a58-4b28-b6c6-0085007c2d86,07/17/2026 12:30:00,Building Permits Change,LOW,USD
 40ea318e-367b-4249-8bbb-ed17ba2f2e1e,07/17/2026 12:30:00,Export Price Index (MoM),LOW,USD
