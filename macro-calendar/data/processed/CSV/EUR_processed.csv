@@ -1,6 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-94a772ba-5bad-4f58-ba89-604c6f284334,07/10/2026 07:15:00,ECB's Vujčić speech,HIGH,EUR,Speech,0.552,Monetary Policy
-0b5fbc00-00fb-43a8-ab5a-bc78f6a351ab,07/10/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
+f326f68c-cd6f-48c7-9a4d-add8fff65249,07/13/2026 16:45:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 b489bb4b-74b1-4b84-8d31-8f878d1d726d,07/15/2026 09:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 f09af2e7-0ade-423c-a8e7-28acdfd29f41,07/15/2026 09:00:00,Industrial Production w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth
 9d42f07f-b4cf-4254-b108-fd096c368646,07/15/2026 16:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
@@ -12,6 +11,7 @@ af513228-2e53-40a5-b3ff-c18dbba0dcba,07/17/2026 09:00:00,Core Harmonized Index o
 c62da2bc-6c31-4f57-8027-f0d4ad11c0ba,07/17/2026 09:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.807,Inflation
 9eeca4f3-c3ce-496a-b884-004a8b0147e6,07/17/2026 09:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 7ec0f12e-f6d6-496e-b6cb-ec9d177be436,07/17/2026 09:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+f00961b4-a38d-417d-a35a-9d202f4c2c6e,07/17/2026 10:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
 44b4aeb9-d76f-49dd-9f6b-172751d9dbff,07/17/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 7311ace7-cf2c-4f99-82a8-f9385f6a018b,07/20/2026 09:00:00,Construction Output  s.a (MoM),HIGH,EUR,Release,0.297,Housing
 a9254926-6760-4c3b-b27a-ec891587b331,07/20/2026 09:00:00,Construction Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
