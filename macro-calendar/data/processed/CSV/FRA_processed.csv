@@ -1,9 +1,9 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-cf725140-8958-46a0-9e26-372d07caa189,07/23/2026 07:15:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
-10030b67-d838-4394-a17d-f396c64c324a,07/23/2026 07:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
-301b082a-8e03-46ae-a9bd-3e776342916b,07/23/2026 07:15:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
-2e123536-27e6-4aff-9b24-2eed802c9053,07/24/2026 06:45:00,Business Climate in Manufacturing,HIGH,EUR,Release,0.595,Confidence
-029ead2a-b3d9-44d2-87f2-1247486ea375,07/24/2026 06:45:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+2e123536-27e6-4aff-9b24-2eed802c9053,07/23/2026 06:45:00,Business Climate in Manufacturing,HIGH,EUR,Release,0.595,Confidence
+cf725140-8958-46a0-9e26-372d07caa189,07/24/2026 07:15:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
+10030b67-d838-4394-a17d-f396c64c324a,07/24/2026 07:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+301b082a-8e03-46ae-a9bd-3e776342916b,07/24/2026 07:15:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+029ead2a-b3d9-44d2-87f2-1247486ea375,07/28/2026 06:45:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 e2aea58b-f0c9-43ed-a1e7-fce414ec0fe4,07/30/2026 06:45:00,Consumer Price Index (EU norm) (MoM),HIGH,EUR,Release,0.807,Inflation
 20dfa884-3203-4026-af58-72ec31792dda,07/30/2026 06:45:00,Consumer Price Index (EU norm) (YoY),HIGH,EUR,Release,0.807,Inflation
 11d67d14-8f97-44f5-bd13-e12b92986011,07/30/2026 06:45:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth

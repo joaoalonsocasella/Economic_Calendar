@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-eff9e202-c1fc-401b-abfc-c8bc6a8e0134,07/13/2026 09:25:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-4d9f4114-015c-4690-9e43-078918bf8c0d,07/13/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
-54d7f7e4-eb7d-48c9-a135-d4d38feda1d5,07/13/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
-0b8f4697-73d9-45ad-9f0a-1766bfd27fec,07/13/2026 16:30:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-6bd7f3b9-8d74-4926-841e-554aa10532a4,07/13/2026 18:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
 f77e2c79-9c4b-4dcf-b9b0-9322c135603c,07/14/2026 10:00:00,NFIB Business Optimism Index,MEDIUM,USD,Release,0.14,Confidence
 8aa18890-3e90-4e00-a479-0941970b2df8,07/14/2026 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 12c820fe-bd6c-4d47-abaf-6b0dafb3c969,07/14/2026 12:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
@@ -99,6 +94,7 @@ aa0e0de8-3b35-4889-a612-b6bf352716f4,07/27/2026 14:30:00,Dallas Fed Manufacturin
 e5ec50fd-368c-4bab-94d4-7b858e6dab49,07/27/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 5404f688-d6cd-4787-bba0-8fa0f64d0cba,07/27/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 511a035f-f532-4884-83be-754b912c31f4,07/27/2026 17:00:00,2-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
+fbad53f8-185b-4117-b8f8-e599cfdf2aab,07/27/2026 17:00:00,5-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 02789b58-e8b5-4bf8-a347-f823892cf4f6,07/28/2026 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 5d5fd186-5050-432f-9b53-c42c397edccd,07/28/2026 12:30:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
 75be124a-c362-48c5-b04c-fef504d60148,07/28/2026 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
@@ -106,14 +102,13 @@ e5ec50fd-368c-4bab-94d4-7b858e6dab49,07/27/2026 15:30:00,3-Month Bill Auction,LO
 262fd8bd-54bc-49ca-baae-8f0852c9b7a1,07/28/2026 13:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD,Release,0.07,Housing
 73e0bc18-e4be-4062-b05c-67f019d4328a,07/28/2026 14:00:00,Consumer Confidence,MEDIUM,USD,Release,0.14,Confidence
 4ce62f15-b2c2-4f5d-ad8f-642038d000b8,07/28/2026 14:00:00,Richmond Fed Manufacturing Index,HIGH,USD,Release,0.17,Growth
-fbad53f8-185b-4117-b8f8-e599cfdf2aab,07/28/2026 17:00:00,5-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
+cb35a130-3a83-4609-bb1c-2ebdb22a657e,07/28/2026 17:00:00,7-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 a9567b6b-771a-4e98-9c7b-2e3839603bd0,07/28/2026 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 9f51b330-2640-475d-a05c-65be4c7953dd,07/29/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 29177a85-7a2e-4870-b1c5-6c30acca8d9e,07/29/2026 12:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 140ed977-80f4-4c32-94fc-b79d69a94968,07/29/2026 14:00:00,Pending Home Sales (MoM),LOW,USD,Release,0.07,Housing
 b6ab2e95-acb0-4d0f-b042-05b55e73b4f3,07/29/2026 14:00:00,Pending Home Sales (YoY),LOW,USD,Release,0.07,Housing
 d4c880ca-5377-4055-a0b0-0e45ed7c614c,07/29/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
-cb35a130-3a83-4609-bb1c-2ebdb22a657e,07/29/2026 17:00:00,7-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 c402526a-3d94-4230-9340-6ed05f4f4d40,07/29/2026 18:00:00,Fed Interest Rate Decision,MEDIUM,USD,Speech,0.13,Monetary Policy
 8e61a6fd-f7dc-4425-97db-5c139b16e086,07/29/2026 18:00:00,Fed Monetary Policy Statement,MEDIUM,USD,Speech,0.13,Monetary Policy
 08e85942-07f1-4c23-9ca3-b7998339d217,07/29/2026 18:30:00,FOMC Press Conference,MEDIUM,USD,Speech,0.13,Monetary Policy
@@ -723,6 +718,7 @@ f2f9d593-a194-49f6-8eea-fec094f159bc,11/02/2026 14:00:00,ISM Manufacturing PMI,H
 08e3a6b2-7c7d-4912-806c-76a0194da265,11/02/2026 14:00:00,ISM Manufacturing Prices Paid,HIGH,USD,Release,0.17,Growth
 f1e11c80-3e5c-474b-84d9-b933b4519876,11/02/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 a5db4153-33a0-438b-bac6-b0c613d44a6e,11/02/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
+b3dc9f7b-c6f5-419d-aa17-f827b79f264c,11/03/2026 05:00:00,US Midterm Elections,MEDIUM,USD,Release,0.14,Confidence
 fdd53d89-52f2-414a-aac9-acf57dae7dd2,11/03/2026 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 47195adf-128c-4273-adfa-cf58046a0337,11/03/2026 14:00:00,Factory Orders (MoM),HIGH,USD,Release,0.17,Growth
 fe568be2-0b21-4bb8-ad63-8f09f72cfd7f,11/03/2026 14:00:00,JOLTS Job Openings,HIGH,USD,Release,0.18,Labor Market

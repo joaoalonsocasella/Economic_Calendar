@@ -5,13 +5,13 @@ Id,Start,Name,Impact,Currency
 d7159eaa-fa10-4630-82c5-ffce56a2a1e3,07/16/2026 08:00:00,Consumer Price Index (YoY),MEDIUM,EUR
 646ed115-fcf1-4d1e-b661-af237eaf65dc,07/16/2026 09:00:00,Global Trade Balance,LOW,EUR
 c7343506-443c-4ec4-9bea-6f177eabf92a,07/16/2026 09:00:00,Trade Balance EU,LOW,EUR
-c08d26c2-549e-4c70-8e28-d8b908266bac,07/28/2026 08:00:00,Business Confidence,LOW,EUR
-80f630a8-ddd4-4477-94b8-b1f1855c1e47,07/28/2026 08:00:00,Consumer Confidence,LOW,EUR
+bf3488f7-0e93-4328-8cde-2515701af677,07/28/2026 08:00:00,Trade Balance non-EU,LOW,EUR
+bc2c9bcc-40a9-4d85-b68d-d64db7ae9cfd,07/29/2026 08:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR
+9734d47b-73d2-45e0-bac8-5d3f5f18dd67,07/29/2026 08:00:00,Industrial Sales s.a. (MoM),LOW,EUR
+c08d26c2-549e-4c70-8e28-d8b908266bac,07/30/2026 08:00:00,Business Confidence,LOW,EUR
+80f630a8-ddd4-4477-94b8-b1f1855c1e47,07/30/2026 08:00:00,Consumer Confidence,LOW,EUR
 729f0d3e-741f-4260-a8a9-9f2772fb6486,07/30/2026 08:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR
 d53ba204-0305-4e03-8a1c-c73a93055986,07/30/2026 08:00:00,Gross Domestic Product (YoY),MEDIUM,EUR
-bc2c9bcc-40a9-4d85-b68d-d64db7ae9cfd,07/31/2026 08:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR
-9734d47b-73d2-45e0-bac8-5d3f5f18dd67,07/31/2026 08:00:00,Industrial Sales s.a. (MoM),LOW,EUR
-bf3488f7-0e93-4328-8cde-2515701af677,07/31/2026 08:00:00,Trade Balance non-EU,LOW,EUR
 78638b27-734d-4de9-806d-94531cfe1e2f,07/31/2026 08:00:00,Unemployment,LOW,EUR
 acb57486-784a-4ed6-b729-da7d0cd2ef80,07/31/2026 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
 6055a4c6-b052-4019-a173-4f181074de63,07/31/2026 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR

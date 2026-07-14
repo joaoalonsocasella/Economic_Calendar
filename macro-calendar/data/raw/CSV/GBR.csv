@@ -1,6 +1,5 @@
 Id,Start,Name,Impact,Currency
-600c63c3-41a9-4070-8053-1b0ba3f06865,07/13/2026 18:00:00,BoE's Pill speech,MEDIUM,GBP
-8b220551-246d-4b75-bfcf-c20d7e68835f,07/13/2026 23:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP
+5e33334f-cdbb-4546-b5f4-3efb62b7a31a,07/14/2026 08:55:00,BoE's Governor Bailey speech,HIGH,GBP
 8bd1b873-0b74-4e38-b06c-a3376a356b26,07/14/2026 20:00:00,BoE's Governor Bailey speech,HIGH,GBP
 b0589587-97dc-43fa-b325-a33993d7b716,07/15/2026 10:30:00,BoE's Pill speech,MEDIUM,GBP
 e0bb6990-8774-4b33-aff6-b6afa96d77aa,07/16/2026 06:00:00,Goods Trade Balance,LOW,GBP
@@ -23,6 +22,7 @@ bae94c06-cf7a-4f97-97e5-7a6bb0e8ac6e,07/21/2026 06:00:00,Claimant Count Change,H
 33f98b99-1d78-4f39-88fd-20639445349e,07/21/2026 06:00:00,Claimant Count Rate,MEDIUM,GBP
 d43af124-edb7-4f02-87a3-8bd2541e1d4f,07/21/2026 06:00:00,Employment Change (3M),HIGH,GBP
 66285257-2412-437a-97a9-3bd0c6f41b72,07/21/2026 06:00:00,ILO Unemployment Rate (3M),HIGH,GBP
+083449c7-9210-4815-b625-6dfb3b3af5c9,07/21/2026 06:00:00,Public Sector Net Borrowing,LOW,GBP
 ddc0b357-8a49-4cca-8040-97f9ad216a8a,07/22/2026 06:00:00,Consumer Price Index (MoM),HIGH,GBP
 f918ea31-1969-41ba-8113-936f5f96752f,07/22/2026 06:00:00,Consumer Price Index (YoY),HIGH,GBP
 64ffb6f6-c3d8-4be2-9536-86c903736f36,07/22/2026 06:00:00,Core Consumer Price Index (YoY),HIGH,GBP
@@ -32,7 +32,6 @@ f9999bab-a27d-43c9-84d4-537bd11fb64c,07/22/2026 06:00:00,Producer Price Index - 
 24175d90-1229-4e0a-9fd1-511581f9f498,07/22/2026 06:00:00,Producer Price Index - Input (YoY) n.s.a,LOW,GBP
 8d73ae9b-40a4-4916-922d-48d9a87a9227,07/22/2026 06:00:00,Producer Price Index - Output (MoM) n.s.a,MEDIUM,GBP
 5d4b834a-8c61-43a2-ae85-e1880e00fc81,07/22/2026 06:00:00,Producer Price Index - Output (YoY) n.s.a,MEDIUM,GBP
-083449c7-9210-4815-b625-6dfb3b3af5c9,07/22/2026 06:00:00,Public Sector Net Borrowing,LOW,GBP
 d6e5429e-2bad-47d8-a3a2-57be863ec90b,07/22/2026 06:00:00,Retail Price Index (MoM),MEDIUM,GBP
 66dfa341-4a11-4c57-abc3-76b98d773ce5,07/22/2026 06:00:00,Retail Price Index (YoY),MEDIUM,GBP
 35cbdc53-6f12-49e8-85ef-e5e2cdc23b0b,07/22/2026 08:30:00,DCLG House Price Index (YoY),LOW,GBP
