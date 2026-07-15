@@ -1,14 +1,12 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0d922869-cb3a-4cfe-89be-7b2b60f66bab,07/14/2026 06:30:00,Producer and Import Prices (MoM),HIGH,CHF,Release,0.19,Inflation
-1fc947da-1b00-45ec-a9df-dbe944f55ecf,07/14/2026 06:30:00,Producer and Import Prices (YoY),HIGH,CHF,Release,0.19,Inflation
 62406fdd-1e18-477b-b93d-337bc886a3bd,07/20/2026 06:00:00,Exports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
 49cbc074-0b02-4134-88c7-f860afab7292,07/20/2026 06:00:00,Imports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
 547e65d4-a66e-471c-9641-081adae5bd81,07/20/2026 06:00:00,Trade Balance,MEDIUM,CHF,Release,0.11,Trade and External
 efca5187-6611-4d8b-8fa6-b86ded7c4cde,07/29/2026 08:00:00,ZEW Survey – Expectations,MEDIUM,CHF,Release,0.14,Confidence
 23097e46-32c7-449d-b44d-e0077edbb0ec,07/30/2026 07:00:00,KOF Leading Indicator,MEDIUM,CHF,Release,0.14,Confidence
+14590936-6c21-418f-b0a0-d75928c95300,07/31/2026 06:30:00,Real Retail Sales (YoY),HIGH,CHF,Release,0.17,Growth
 7759e117-375d-41aa-af66-0429c34daeab,08/03/2026 06:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
 91a8e900-9f4e-4cd9-a310-6183f52cd11f,08/03/2026 06:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation
-14590936-6c21-418f-b0a0-d75928c95300,08/03/2026 06:30:00,Real Retail Sales (YoY),HIGH,CHF,Release,0.17,Growth
 db219ae1-5a69-4af0-b2ca-ae2e7d9399a8,08/03/2026 07:30:00,SVME - Purchasing Managers' Index,MEDIUM,CHF,Release,0.14,Confidence
 b04ae8b6-d001-4141-9fbd-8e4895f1554d,08/06/2026 08:00:00,Unemployment Rate s.a (MoM),HIGH,CHF,Release,0.18,Labor Market
 2c9df40b-bec2-4c13-ab10-54ea8d4f78f3,08/07/2026 07:00:00,Foreign Currency Reserves,LOW,CHF,Release,0.09,Money and Credit

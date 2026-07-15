@@ -1,5 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-948f214e-c967-4bbe-94e1-2b94178b52ba,07/14/2026 13:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
+bdf84286-d0e2-4587-bf3e-2ed428971991,07/15/2026 05:15:00,ECB's Kocher speech,HIGH,EUR,Speech,0.552,Monetary Policy
+31c6f360-0119-4622-a944-10eeceae7744,07/15/2026 08:10:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 b062fa78-4540-4608-9197-5fee492cba3a,07/15/2026 08:40:00,ECB's Panetta speech,HIGH,EUR,Speech,0.552,Monetary Policy
 b489bb4b-74b1-4b84-8d31-8f878d1d726d,07/15/2026 09:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 f09af2e7-0ade-423c-a8e7-28acdfd29f41,07/15/2026 09:00:00,Industrial Production w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth
@@ -30,19 +31,19 @@ aca6f130-c5ac-4bd9-9a2d-82a7c417b4b1,07/24/2026 08:00:00,HCOB Manufacturing PMI,
 66e6402b-0a5d-4a50-971f-588528be40fa,07/27/2026 08:00:00,M3 Money Supply (3m),HIGH,EUR,Release,0.85,Monetary Policy
 7b2da139-e883-4ab6-ab6b-4ebd19543280,07/27/2026 08:00:00,M3 Money Supply (YoY),HIGH,EUR,Release,0.807,Inflation
 e1c21b1a-2280-4aaf-9ae8-02d6fde9e0e8,07/27/2026 08:00:00,Private Loans (YoY),HIGH,EUR,Release,0.383,Money and Credit
-32e6aaff-dadc-4767-bf52-e664a38f1d55,07/30/2026 08:00:00,Business Climate,HIGH,EUR,Release,0.595,Confidence
-35120015-7979-4806-8c0c-0c914509553b,07/30/2026 08:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
-9f95be9e-be15-48e4-8567-7bdac179c9d4,07/30/2026 08:00:00,Economic Sentiment Indicator,HIGH,EUR,Release,0.595,Confidence
-6beb9795-ab03-4197-a224-19982012b473,07/30/2026 08:00:00,Industrial Confidence,HIGH,EUR,Release,0.595,Confidence
-4c9f8a38-7343-4915-9878-7aa1c76d1f68,07/30/2026 08:00:00,Services Sentiment,HIGH,EUR,Release,0.595,Confidence
-177ac2fa-b4ac-471b-9f0c-ce54e6de8881,07/30/2026 10:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR,Release,0.722,Growth
-a2f8b74f-f455-4b77-bca3-41d698ecdf67,07/30/2026 10:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR,Release,0.722,Growth
+32e6aaff-dadc-4767-bf52-e664a38f1d55,07/30/2026 09:00:00,Business Climate,HIGH,EUR,Release,0.595,Confidence
+35120015-7979-4806-8c0c-0c914509553b,07/30/2026 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+9f95be9e-be15-48e4-8567-7bdac179c9d4,07/30/2026 09:00:00,Economic Sentiment Indicator,HIGH,EUR,Release,0.595,Confidence
+177ac2fa-b4ac-471b-9f0c-ce54e6de8881,07/30/2026 09:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR,Release,0.722,Growth
+a2f8b74f-f455-4b77-bca3-41d698ecdf67,07/30/2026 09:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR,Release,0.722,Growth
+6beb9795-ab03-4197-a224-19982012b473,07/30/2026 09:00:00,Industrial Confidence,HIGH,EUR,Release,0.595,Confidence
+4c9f8a38-7343-4915-9878-7aa1c76d1f68,07/30/2026 09:00:00,Services Sentiment,HIGH,EUR,Release,0.595,Confidence
 b556c2ce-0126-46d3-817c-3c34756a03a4,07/31/2026 09:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 97cf5aa9-d210-406e-b666-03392604c9ff,07/31/2026 09:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.807,Inflation
+42e971bc-6fe7-4e33-84af-1ca62af4cc6b,07/31/2026 09:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 3dfc7ead-ed18-4641-ad0d-3e0507b622db,07/31/2026 09:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
 738d1635-1854-47e7-9f83-5858512d1ac1,07/31/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 596e0cb1-da8e-4084-8b3e-39e2fb0dd59d,08/03/2026 08:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
-42e971bc-6fe7-4e33-84af-1ca62af4cc6b,08/03/2026 09:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 c3c359a4-9898-4a2e-bc79-31b5266ab071,08/04/2026 09:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
 c81dd8fd-b878-4fdf-86a6-3845097f0884,08/05/2026 08:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 dc6c37ac-6d71-43e3-8109-898dc244ae3c,08/05/2026 08:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth

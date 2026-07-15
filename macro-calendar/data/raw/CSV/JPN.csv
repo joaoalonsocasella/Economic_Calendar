@@ -1,9 +1,4 @@
 Id,Start,Name,Impact,Currency
-8aca284c-592e-4623-8dab-1a005646f9ac,07/14/2026 04:30:00,Capacity Utilization,LOW,JPY
-0c306da9-1959-42da-a26e-2f4af32fb22f,07/14/2026 04:30:00,Industrial Production (MoM),LOW,JPY
-d889239a-63dd-4a5b-b128-25e42ea46d4c,07/14/2026 04:30:00,Industrial Production (YoY),LOW,JPY
-02d47148-4bf2-42e9-b379-bfcc907ecbff,07/14/2026 23:50:00,Machinery Orders (MoM),LOW,JPY
-eff0cefd-2be4-4867-8f67-b673932dec66,07/14/2026 23:50:00,Machinery Orders (YoY),LOW,JPY
 ba662b8e-2a98-4e48-b195-e79aff94f530,07/15/2026 04:30:00,Tertiary Industry Index (MoM),LOW,JPY
 82eb3313-62f1-4af7-ac55-924a5d7c060e,07/15/2026 23:50:00,Foreign Bond Investment,LOW,JPY
 a380bcaf-cad0-4d21-af78-667c2c939ef3,07/15/2026 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
@@ -25,6 +20,7 @@ b1c41955-92b7-4760-8428-6fee9ae3179c,07/27/2026 05:00:00,Coincident Index,LOW,JP
 fdaad49d-f614-41cd-b103-bfc7ad0fe779,07/27/2026 05:00:00,Leading Economic Index,LOW,JPY
 41e757b0-f7b5-4387-866a-199a05d0d849,07/29/2026 23:50:00,Foreign Bond Investment,LOW,JPY
 32263d81-40da-4054-a419-015e68438a17,07/29/2026 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
+bb70b63c-1397-4d97-a9ad-a203a941a9c4,07/30/2026 05:00:00,Consumer Confidence Index,LOW,JPY
 bc9e7188-f7a1-4183-8577-b57a0798cc58,07/30/2026 23:30:00,Jobs / Applicants Ratio,LOW,JPY
 94c890f5-977a-4eeb-ae01-92b949c08089,07/30/2026 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 3e38e18a-4663-42bd-8b2b-253f2a675b41,07/30/2026 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
@@ -40,7 +36,6 @@ a5573d8b-0cdf-434f-b84b-cdd51e69af27,07/31/2026 03:00:00,BoJ Monetary Policy Sta
 96bbb197-e5ae-4b02-b292-1972cd36a4ce,07/31/2026 03:00:00,BoJ Outlook Report,MEDIUM,JPY
 5bee8ee0-c75c-4892-bd6e-254c9f3fd14b,07/31/2026 05:00:00,Annualized Housing Starts,LOW,JPY
 f8f4a7ff-a4bd-4920-ba3c-546a4c117fbe,07/31/2026 05:00:00,Construction Orders (YoY),LOW,JPY
-bb70b63c-1397-4d97-a9ad-a203a941a9c4,07/31/2026 05:00:00,Consumer Confidence Index,LOW,JPY
 15112952-3cc7-4231-983e-a314407b785e,07/31/2026 05:00:00,Housing Starts (YoY),LOW,JPY
 503a9e58-8416-4bef-bceb-2c81e96e7c6d,07/31/2026 06:30:00,BoJ Press Conference,HIGH,JPY
 5311f8d2-80b6-4d98-9fb7-3ccdc3a1f922,07/31/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY

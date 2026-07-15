@@ -1,7 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-77db3851-54b0-4d0c-99c5-31b2ea96893c,07/14/2026 06:00:00,Wholesale Price Index (MoM),HIGH,EUR,Release,0.468,Trade and External
-17639747-6972-459e-92eb-99c9b5129195,07/14/2026 06:00:00,Wholesale Price Index (YoY),HIGH,EUR,Release,0.468,Trade and External
-49534c37-20c5-42e5-8617-9d8de41c2708,07/15/2026 09:30:00,30-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
+49534c37-20c5-42e5-8617-9d8de41c2708,07/15/2026 09:40:00,30-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 67b6d595-9b0a-4165-bfb7-e790f7c892db,07/20/2026 06:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 0bc904ca-61e0-41ad-bd6f-31c79c9165c0,07/20/2026 06:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 598dfb9b-64fb-4b87-9388-abcd94bcafe2,07/20/2026 10:00:00,German Buba Monthly Report,HIGH,EUR,Release,0.85,Monetary Policy
@@ -14,31 +12,32 @@ dac6d42b-7262-4417-8e32-51a92645745c,07/24/2026 07:30:00,HCOB Manufacturing PMI,
 01e5739f-8a5c-43d0-9466-c2beae9fb68b,07/27/2026 08:00:00,IFO – Business Climate,HIGH,EUR,Release,0.595,Confidence
 a52eba11-7a07-4142-96e2-c60943afb777,07/27/2026 08:00:00,IFO – Current Assessment,HIGH,EUR,Release,0.595,Confidence
 de1249e3-7f4d-4c2f-bb68-185664711ace,07/27/2026 08:00:00,IFO – Expectations,HIGH,EUR,Release,0.595,Confidence
+83b9624e-4f61-4f04-8d84-c684ebf0f273,07/29/2026 09:30:00,10-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 8be7d905-cc24-4855-889d-27a7a6ac6682,07/30/2026 06:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 1d0fb1f6-5f1b-458e-8d44-3bb7ba0a148f,07/30/2026 06:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
 16cf5b96-08fb-48c4-9827-85452d82f5a3,07/30/2026 06:00:00,Gross Domestic Product w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
+84c0c1f3-28c6-44f2-af8d-6fe1af5e0f07,07/30/2026 08:00:00,Baden-Wuerttemberg CPI (MoM),HIGH,EUR,Release,0.807,Inflation
+c07bffaf-2a5e-4872-9aaa-2ec5c3d832b4,07/30/2026 08:00:00,Baden-Wuerttemberg CPI (YoY),HIGH,EUR,Release,0.807,Inflation
+e6fe8767-5743-40b5-b5b5-0e32b6c38d1c,07/30/2026 08:00:00,Bavaria CPI (MoM),HIGH,EUR,Release,0.807,Inflation
+f8d63dab-442b-4b84-8a5b-ecd5f48707ec,07/30/2026 08:00:00,Bavaria CPI (YoY),HIGH,EUR,Release,0.807,Inflation
+a0601ea0-2f72-4912-bc31-3d8af889bb39,07/30/2026 08:00:00,Brandenburg CPI (MoM),HIGH,EUR,Release,0.807,Inflation
+803dfeb2-91ca-4ca5-9b98-661c63f8e482,07/30/2026 08:00:00,Brandenburg CPI (YoY),HIGH,EUR,Release,0.807,Inflation
+54abecd1-786c-4b83-99df-60581ce11ec5,07/30/2026 08:00:00,Hesse CPI (MoM),HIGH,EUR,Release,0.807,Inflation
+4c02a84a-fbbf-45a1-85de-d64152a726cd,07/30/2026 08:00:00,Hesse CPI (YoY),HIGH,EUR,Release,0.807,Inflation
+c2d7a73c-0277-49fb-a822-19a2e23f22d8,07/30/2026 08:00:00,North Rhine-Westphalia CPI (MoM),HIGH,EUR,Release,0.807,Inflation
+1b66cac8-2cd9-4514-b8fc-ff4b39479de4,07/30/2026 08:00:00,North Rhine-Westphalia CPI (YoY),HIGH,EUR,Release,0.807,Inflation
+623a5f5a-ee6d-4cda-b88e-c9a6ae59b4fc,07/30/2026 08:00:00,Saxony CPI (MoM),HIGH,EUR,Release,0.807,Inflation
+2ed97be3-13ad-4c2d-8de9-ad52dc7de5e5,07/30/2026 08:00:00,Saxony CPI (YoY),HIGH,EUR,Release,0.807,Inflation
+de58d9f5-1d5a-4722-a108-4f7c52045db9,07/30/2026 12:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+df8bd3ce-2b75-4fd7-a502-d8187dad32a1,07/30/2026 12:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+e24fd466-105a-40a1-b3e6-48dc04f682b4,07/30/2026 12:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+bccba7a9-18e8-4cd3-a3ba-b5196c1821e4,07/30/2026 12:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
 14c0ab6f-3a90-4f42-a0e3-d14be848547a,07/31/2026 06:00:00,Import Price Index (MoM),HIGH,EUR,Release,0.468,Trade and External
 56b136c8-4dca-4573-afc6-b92ef478ce8a,07/31/2026 06:00:00,Import Price Index (YoY),HIGH,EUR,Release,0.468,Trade and External
-bad88b6b-46c6-4dc2-a44a-cdb0a45309bd,07/31/2026 06:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
-89218a73-c16f-411e-8c8e-88359c61cb52,07/31/2026 06:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 459da8a4-c8ed-472c-bc93-785e9a013c52,07/31/2026 07:55:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
 6391eba2-17ca-406b-ab7f-a7152a0589ac,07/31/2026 07:55:00,Unemployment Rate s.a.,HIGH,EUR,Release,0.765,Labor Market
-84c0c1f3-28c6-44f2-af8d-6fe1af5e0f07,07/31/2026 08:00:00,Baden-Wuerttemberg CPI (MoM),HIGH,EUR,Release,0.807,Inflation
-c07bffaf-2a5e-4872-9aaa-2ec5c3d832b4,07/31/2026 08:00:00,Baden-Wuerttemberg CPI (YoY),HIGH,EUR,Release,0.807,Inflation
-e6fe8767-5743-40b5-b5b5-0e32b6c38d1c,07/31/2026 08:00:00,Bavaria CPI (MoM),HIGH,EUR,Release,0.807,Inflation
-f8d63dab-442b-4b84-8a5b-ecd5f48707ec,07/31/2026 08:00:00,Bavaria CPI (YoY),HIGH,EUR,Release,0.807,Inflation
-a0601ea0-2f72-4912-bc31-3d8af889bb39,07/31/2026 08:00:00,Brandenburg CPI (MoM),HIGH,EUR,Release,0.807,Inflation
-803dfeb2-91ca-4ca5-9b98-661c63f8e482,07/31/2026 08:00:00,Brandenburg CPI (YoY),HIGH,EUR,Release,0.807,Inflation
-54abecd1-786c-4b83-99df-60581ce11ec5,07/31/2026 08:00:00,Hesse CPI (MoM),HIGH,EUR,Release,0.807,Inflation
-4c02a84a-fbbf-45a1-85de-d64152a726cd,07/31/2026 08:00:00,Hesse CPI (YoY),HIGH,EUR,Release,0.807,Inflation
-c2d7a73c-0277-49fb-a822-19a2e23f22d8,07/31/2026 08:00:00,North Rhine-Westphalia CPI (MoM),HIGH,EUR,Release,0.807,Inflation
-1b66cac8-2cd9-4514-b8fc-ff4b39479de4,07/31/2026 08:00:00,North Rhine-Westphalia CPI (YoY),HIGH,EUR,Release,0.807,Inflation
-623a5f5a-ee6d-4cda-b88e-c9a6ae59b4fc,07/31/2026 08:00:00,Saxony CPI (MoM),HIGH,EUR,Release,0.807,Inflation
-2ed97be3-13ad-4c2d-8de9-ad52dc7de5e5,07/31/2026 08:00:00,Saxony CPI (YoY),HIGH,EUR,Release,0.807,Inflation
-de58d9f5-1d5a-4722-a108-4f7c52045db9,07/31/2026 12:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-df8bd3ce-2b75-4fd7-a502-d8187dad32a1,07/31/2026 12:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-e24fd466-105a-40a1-b3e6-48dc04f682b4,07/31/2026 12:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
-bccba7a9-18e8-4cd3-a3ba-b5196c1821e4,07/31/2026 12:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+bad88b6b-46c6-4dc2-a44a-cdb0a45309bd,08/03/2026 06:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
+89218a73-c16f-411e-8c8e-88359c61cb52,08/03/2026 06:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 7d0325b1-41b0-40f0-b014-13f544821418,08/03/2026 07:55:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 393aabe8-e52c-41d6-aa43-9e5b6c5a9925,08/05/2026 07:55:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 add3714a-f2cc-4d71-8adc-77974e9f95af,08/05/2026 07:55:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth

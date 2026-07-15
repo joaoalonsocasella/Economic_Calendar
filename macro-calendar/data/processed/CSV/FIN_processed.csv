@@ -1,12 +1,11 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-6415b317-5687-4bec-b41b-a57bad8e3f3b,07/14/2026 05:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 d42bc4cd-4ebf-452f-8b3b-e595ebb9b396,07/21/2026 05:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
 1a1644e6-96da-444d-9c07-19ffa710e6ce,07/24/2026 05:00:00,Export Prices (YoY),HIGH,EUR,Release,0.468,Trade and External
 2cf60629-1658-4af4-a6c8-26d1aabb0ba3,07/24/2026 05:00:00,Import Prices (YoY),HIGH,EUR,Release,0.807,Inflation
 553fb80f-4412-4879-87b1-5cf8a9119440,07/24/2026 05:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 4d71dfda-2133-4666-a093-933c452b2c02,07/27/2026 05:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 db2ce681-2133-44cd-843f-69d174fc670c,07/27/2026 05:00:00,Industrial Confidence,HIGH,EUR,Release,0.595,Confidence
-f1330e64-c14f-4b10-8b23-901617c88f1f,07/31/2026 05:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
+f1330e64-c14f-4b10-8b23-901617c88f1f,07/30/2026 05:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
 f48bc3fc-e6a3-49a7-80ab-3256798d50c4,08/07/2026 06:00:00,Trade Balance,HIGH,EUR,Release,0.468,Trade and External
 774e2f2f-7ad1-43a1-94b4-7eb2c117669f,08/10/2026 05:00:00,Industrial Output (MoM),HIGH,EUR,Release,0.722,Growth
 f3f3d2bf-6939-4503-9961-bfe373f559da,08/12/2026 05:00:00,Current Account,HIGH,EUR,Release,0.468,Trade and External
