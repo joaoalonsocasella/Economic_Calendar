@@ -1,16 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-8b5eadd0-f793-48ca-b32d-ff5a65594ece,07/15/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-7c80665f-9b49-44c9-b3ad-5ca30d980ab2,07/15/2026 12:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
-2c279c18-0da8-441a-be04-9e82db046b07,07/15/2026 12:30:00,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-b74627f8-7567-41f8-a546-2c84998ae637,07/15/2026 12:30:00,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-67b943c3-e8a4-4215-92fc-9b3f67ac37b0,07/15/2026 12:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
-e2f2f0d9-7751-4b1c-ba20-2a81bf5ba313,07/15/2026 12:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
-cd3a4f5e-86e5-4aa3-b739-9c865e3895b6,07/15/2026 12:45:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
-624e84ff-096d-4982-a621-39a546c12fea,07/15/2026 14:00:00,Fed Chair Warsh testifies,MEDIUM,USD,Speech,0.13,Monetary Policy
-f10b8360-c36d-4ddf-8ef1-c5ffdc7b1d4b,07/15/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
-15b15d6f-a681-42b3-8a5e-c871faff66d4,07/15/2026 17:00:00,Fed's Cook speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-20627bc9-62ab-4581-9656-8460b8ef4dd6,07/15/2026 18:00:00,Fed's Beige Book,MEDIUM,USD,Release,0.14,Confidence
-233c0e37-2765-4add-960a-904473c50876,07/15/2026 23:30:00,Fed's Musalem speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 8d79ce2a-16ed-40c2-b1f3-0d278d67bac2,07/16/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 4194e762-c4c0-4583-a34e-a4481ee22e3a,07/16/2026 12:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 62fd7ef6-e921-4c7e-8b40-a5f76233056b,07/16/2026 12:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
