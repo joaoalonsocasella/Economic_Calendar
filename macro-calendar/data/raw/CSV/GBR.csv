@@ -1,16 +1,4 @@
 Id,Start,Name,Impact,Currency
-e0bb6990-8774-4b33-aff6-b6afa96d77aa,07/16/2026 06:00:00,Goods Trade Balance,LOW,GBP
-f006f603-0f6b-44b8-967d-216c39fd7737,07/16/2026 06:00:00,Gross Domestic Product (MoM),MEDIUM,GBP
-c9c6820a-3de6-445c-a6b2-e6e151cfe548,07/16/2026 06:00:00,Index of Services (3M/3M),LOW,GBP
-3290f612-5342-4b8a-9bb2-992d60b480b4,07/16/2026 06:00:00,Industrial Production (MoM),MEDIUM,GBP
-5043b7cc-c3d9-464b-a044-17ccdbe1ce69,07/16/2026 06:00:00,Industrial Production (YoY),LOW,GBP
-e6b58b3d-1abd-4cda-a31a-61ad2af1ca0e,07/16/2026 06:00:00,Manufacturing Production (MoM),MEDIUM,GBP
-44183742-a08b-425b-a5eb-b1b4acddf0dc,07/16/2026 06:00:00,Manufacturing Production (YoY),LOW,GBP
-21e73aa8-4c9d-462c-b94d-7f97de9ad29e,07/16/2026 06:00:00,Total Trade Balance,LOW,GBP
-3a89885b-f98e-4714-b69f-ab3678efadee,07/16/2026 06:00:00,Trade Balance; non-EU,LOW,GBP
-ce7be9b0-25e2-4da7-b3cf-e1d8ebb0454b,07/16/2026 08:10:00,BoE's Breeden speech,MEDIUM,GBP
-42a1d99a-306d-4bf4-a06a-17191c3073a8,07/16/2026 09:40:00,10-y Bond Auction,LOW,GBP
-5603262f-36b8-4e3f-bcf1-f13ff4e443d2,07/16/2026 11:00:00,NIESR GDP Estimate (3M),LOW,GBP
 b4d0b8f1-d003-4e22-8c46-7fce14ea1509,07/17/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
 0c1e0773-6b13-49e7-83e3-5eda85f775ad,07/19/2026 23:01:00,Rightmove House Price Index (MoM),LOW,GBP
 a3e94b4d-867b-4fc2-bc91-af224350f1cf,07/19/2026 23:01:00,Rightmove House Price Index (YoY),LOW,GBP

@@ -1,21 +1,4 @@
 Id,Start,Name,Impact,Currency
-8d79ce2a-16ed-40c2-b1f3-0d278d67bac2,07/16/2026 12:30:00,Continuing Jobless Claims,LOW,USD
-4194e762-c4c0-4583-a34e-a4481ee22e3a,07/16/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
-62fd7ef6-e921-4c7e-8b40-a5f76233056b,07/16/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
-1d5bc4a5-3c2d-4f7d-a836-b2102ce5ae37,07/16/2026 12:30:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD
-43ae7ad2-6620-4b56-a30a-0ed35e7da504,07/16/2026 12:30:00,Retail Sales (MoM),HIGH,USD
-d6f4d0bf-0267-4ee8-be50-a0bec5e6b061,07/16/2026 12:30:00,Retail Sales (YoY),LOW,USD
-20a0cf26-038b-447a-b0bc-8755d6646e41,07/16/2026 12:30:00,Retail Sales Control Group,HIGH,USD
-3bd5d599-0065-480f-bd56-74f04334a315,07/16/2026 12:30:00,Retail Sales ex Autos (MoM),MEDIUM,USD
-96c87bcf-3356-4468-9f86-0949c7a87553,07/16/2026 14:00:00,Business Inventories,LOW,USD
-1b4f7799-5087-4ab6-8675-8f9717438f16,07/16/2026 14:00:00,NAHB Housing Market Index,LOW,USD
-140ed977-80f4-4c32-94fc-b79d69a94968,07/16/2026 14:00:00,Pending Home Sales (MoM),MEDIUM,USD
-b6ab2e95-acb0-4d0f-b042-05b55e73b4f3,07/16/2026 14:00:00,Pending Home Sales (YoY),LOW,USD
-ea7fae4d-395b-48ed-8d3d-5c9157108cad,07/16/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
-b48f7b80-faef-49c0-a792-36b6a6efe4ec,07/16/2026 15:30:00,4-Week Bill Auction,LOW,USD
-c65dc933-56d9-433d-8e51-e84b54c95765,07/16/2026 16:30:00,Fed's Logan speech,MEDIUM,USD
-563da728-93b6-4704-8d61-2f110f4fc0f6,07/16/2026 17:25:00,Fed's Schmid speech,MEDIUM,USD
-19727de1-4774-43ef-b6d0-4ee906536499,07/16/2026 23:00:00,Fed's Jefferson speech,MEDIUM,USD
 1ea2d0c4-b3e8-44b3-8c66-f52b44a59421,07/17/2026 12:30:00,Building Permits (MoM),MEDIUM,USD
 68c4adb0-9a58-4b28-b6c6-0085007c2d86,07/17/2026 12:30:00,Building Permits Change,LOW,USD
 40ea318e-367b-4249-8bbb-ed17ba2f2e1e,07/17/2026 12:30:00,Export Price Index (MoM),LOW,USD

@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-1e02966a-1679-4505-b5f8-136f2826b569,07/16/2026 01:00:00,Consumer Inflation Expectations,MEDIUM,AUD,Release,0.14,Confidence
 2d4b6b93-7ad7-43f9-bf12-d56fe5f0ec28,07/17/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 f0e3d316-75d7-4444-8326-cf311bcb59e7,07/22/2026 01:00:00,Westpac Leading Index (MoM),MEDIUM,AUD,Release,0.14,Confidence
 ee9e24df-94a6-4963-a330-98493cebc078,07/23/2026 01:30:00,Employment Change s.a.,HIGH,AUD,Release,0.18,Labor Market
@@ -11,6 +10,7 @@ fef34bfa-300d-4f6f-9ddb-d9bd9f0817a5,07/23/2026 23:00:00,S&P Global Composite PM
 6f2cdb88-098b-40a3-8b57-e19f2a6cd628,07/23/2026 23:00:00,S&P Global Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
 6278bf99-b9c5-4183-bb4f-67dc7ca045f8,07/23/2026 23:00:00,S&P Global Services PMI,HIGH,AUD,Release,0.17,Growth
 2fbd5c7c-5618-4f98-8be8-a3ef4f849812,07/24/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
+7b714d4c-d216-4623-bf29-e3f70b4e079f,07/28/2026 03:05:00,RBA Governor Bullock speech,MEDIUM,AUD,Speech,0.13,Monetary Policy
 ad429dba-5b32-4fa6-b2a9-9ce88dce2bf9,07/29/2026 01:30:00,Consumer Price Index (MoM),HIGH,AUD,Release,0.19,Inflation
 2dc7213f-dd2f-4054-9c42-15b120672c39,07/29/2026 01:30:00,Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
 1d09a3c6-20ed-4f41-94f7-59a9337b9649,07/29/2026 01:30:00,Quarterly Consumer Price Index (QoQ),HIGH,AUD,Release,0.19,Inflation
