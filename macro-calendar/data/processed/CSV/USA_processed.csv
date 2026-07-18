@@ -1,22 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-1ea2d0c4-b3e8-44b3-8c66-f52b44a59421,07/17/2026 12:30:00,Building Permits (MoM),LOW,USD,Release,0.07,Housing
-68c4adb0-9a58-4b28-b6c6-0085007c2d86,07/17/2026 12:30:00,Building Permits Change,LOW,USD,Release,0.07,Housing
-40ea318e-367b-4249-8bbb-ed17ba2f2e1e,07/17/2026 12:30:00,Export Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
-82bae148-1b53-4924-bedb-e0605ba511d0,07/17/2026 12:30:00,Export Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
-dee3343e-eba5-4663-be24-1926176ce3d0,07/17/2026 12:30:00,Housing Starts (MoM),LOW,USD,Release,0.07,Housing
-5a7c2eb5-c646-4ba2-ae86-e2fb8338c690,07/17/2026 12:30:00,Housing Starts Change,LOW,USD,Release,0.07,Housing
-53ad1e65-a1a8-4942-9b10-5271f38d8b31,07/17/2026 12:30:00,Import Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
-51886962-97ba-49f8-ab61-1bb9992d536a,07/17/2026 12:30:00,Import Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
-33e24b27-6867-41cd-9a4b-23eeeb53553b,07/17/2026 13:15:00,Capacity Utilization,HIGH,USD,Release,0.2,Monetary Policy
-d54ae0bb-a3b5-435e-83aa-1459167f5045,07/17/2026 13:15:00,Industrial Production (MoM),HIGH,USD,Release,0.17,Growth
-7c6147be-c612-45d4-b362-f0dea0add25d,07/17/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
-cfb8e2e4-dedc-45b7-b09f-0ebc7bbbcb8c,07/17/2026 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
-043cb336-4be0-402b-bb42-64d8863b5490,07/17/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
-12ead511-33d2-4823-9ce0-031db1d891b0,07/17/2026 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
-2250ee2a-e906-4d25-a90b-b3c7fa7d905b,07/17/2026 17:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
-72d65476-9e32-4b80-93ee-7dab81db780d,07/17/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-7a2197a5-47ee-4751-905f-82c239d89582,07/17/2026 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-6a9aec58-39b1-423f-ace3-129fadcbb120,07/17/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 d279d331-b61e-41cf-9f22-f335226c869a,07/20/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 27b5e11d-4b70-4584-8bbb-bbaee2c5162f,07/20/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 b2c98771-05ff-46dc-8697-56f5fb85230d,07/21/2026 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market

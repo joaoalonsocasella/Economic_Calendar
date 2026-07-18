@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-87142706-2969-4eca-a738-be6196aa6cf7,07/17/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 1cb1754b-9525-4c71-bd5c-13174634ad95,07/21/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY
 da5e3ab9-98ea-4eea-a741-3a243b25cf6a,07/21/2026 23:50:00,Exports (YoY),MEDIUM,JPY
 7db45a84-a8c0-4a77-bc0a-2e0b148527ef,07/21/2026 23:50:00,Imports (YoY),MEDIUM,JPY
@@ -470,9 +469,15 @@ e9d70db7-7e8f-4639-bbfd-609fdc39ba40,03/25/2027 23:30:00,"Tokyo CPI ex Food, Ene
 a8fe194b-913e-4f09-9bc8-9e93a86bf2b9,04/29/2027 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 28ba5a69-5179-4edd-b8e6-1288c1a62df5,04/29/2027 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
 8c3d4fbc-b249-43b5-8ba1-2b56c83e88f4,04/29/2027 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
+aca17c0b-2c30-4635-974e-1d64808d51b9,05/16/2027 23:50:00,Gross Domestic Product (QoQ),HIGH,JPY
+d1e55429-35df-4b4f-a259-7d947c43b5d5,05/16/2027 23:50:00,Gross Domestic Product Annualized,MEDIUM,JPY
+416224af-c882-4911-b4ac-660ddc380fbf,05/16/2027 23:50:00,Gross Domestic Product Deflator (YoY),MEDIUM,JPY
 6a10cae0-07b5-4e7b-8049-8dd0a5a3b849,05/27/2027 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 583dacaa-c5e2-4c71-89d6-1bded8bc4608,05/27/2027 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
 254e886e-992d-4738-85be-98565eb98945,05/27/2027 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
+dc549871-ceba-4904-8b6e-ee1185146fe3,06/06/2027 23:50:00,Gross Domestic Product (QoQ),HIGH,JPY
+ae35c5c0-e8ba-48fe-b31f-a8cdb92d6e7c,06/06/2027 23:50:00,Gross Domestic Product Annualized,MEDIUM,JPY
+43df71c7-90f3-4f22-ad07-898c7d54eb3c,06/06/2027 23:50:00,Gross Domestic Product Deflator (YoY),MEDIUM,JPY
 0db85094-97ca-4ef5-8a32-eb32fa70e349,06/28/2027 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 b0d90538-2aae-4b9a-9e8d-dd7a69609947,06/28/2027 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
 a8f4da08-c872-4470-999c-92cbe498af36,06/28/2027 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY

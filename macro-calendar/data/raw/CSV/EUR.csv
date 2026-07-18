@@ -1,12 +1,4 @@
 Id,Start,Name,Impact,Currency
-9dbd341a-a424-4d86-abc1-7427a6276a74,07/17/2026 08:00:00,Current Account n.s.a,LOW,EUR
-e6e424d9-ea9e-4e67-8c71-e5569e585ea4,07/17/2026 08:00:00,Current Account s.a,LOW,EUR
-af513228-2e53-40a5-b3ff-c18dbba0dcba,07/17/2026 09:00:00,Core Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
-c62da2bc-6c31-4f57-8027-f0d4ad11c0ba,07/17/2026 09:00:00,Core Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
-9eeca4f3-c3ce-496a-b884-004a8b0147e6,07/17/2026 09:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
-7ec0f12e-f6d6-496e-b6cb-ec9d177be436,07/17/2026 09:00:00,Harmonized Index of Consumer Prices (YoY),LOW,EUR
-f00961b4-a38d-417d-a35a-9d202f4c2c6e,07/17/2026 10:00:00,ECB's Cipollone speech,MEDIUM,EUR
-44b4aeb9-d76f-49dd-9f6b-172751d9dbff,07/17/2026 19:30:00,CFTC EUR NC Net Positions,LOW,EUR
 7311ace7-cf2c-4f99-82a8-f9385f6a018b,07/20/2026 09:00:00,Construction Output  s.a (MoM),LOW,EUR
 a9254926-6760-4c3b-b27a-ec891587b331,07/20/2026 09:00:00,Construction Output w.d.a (YoY),LOW,EUR
 e0958882-99d0-44f7-b4cc-cbed73c4ca4c,07/21/2026 08:00:00,ECB Bank Lending Survey,HIGH,EUR
@@ -20,6 +12,7 @@ a7007706-9eb3-4e14-9f40-7dcdd6790fff,07/23/2026 12:15:00,ECB Monetary Policy Sta
 50e408b8-0d7a-4cdb-a538-d94d236065af,07/24/2026 08:00:00,HCOB Composite PMI,HIGH,EUR
 aca6f130-c5ac-4bd9-9a2d-82a7c417b4b1,07/24/2026 08:00:00,HCOB Manufacturing PMI,HIGH,EUR
 0608f4c1-5c98-44f9-b03d-69f42ca74ec2,07/24/2026 08:00:00,HCOB Services PMI,HIGH,EUR
+6f9debb1-0620-4491-82fd-f39cfcf556bc,07/24/2026 15:30:00,ECB's Lane speech,MEDIUM,EUR
 62afbddc-fe4a-4aff-9c82-25fe680d1ba0,07/24/2026 19:30:00,CFTC EUR NC Net Positions,LOW,EUR
 66e6402b-0a5d-4a50-971f-588528be40fa,07/27/2026 08:00:00,M3 Money Supply (3m),LOW,EUR
 7b2da139-e883-4ab6-ab6b-4ebd19543280,07/27/2026 08:00:00,M3 Money Supply (YoY),LOW,EUR
