@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0fe51e38-b323-4656-bf57-192159cf5492,07/19/2026 22:45:00,Exports,MEDIUM,NZD,Release,0.11,Trade and External
-9870cfdb-dc94-46f6-abd7-8e4c490652dc,07/19/2026 22:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External
-50a53885-c163-45d4-a212-db239bbe6cb3,07/19/2026 22:45:00,Trade Balance NZD (MoM),MEDIUM,NZD,Release,0.11,Trade and External
-9689c50f-0563-4e68-bb1f-9a1e514db8d1,07/19/2026 22:45:00,Trade Balance NZD (YoY),MEDIUM,NZD,Release,0.11,Trade and External
 0d6e77df-9dc6-49ec-b6b4-eaec8acb3d57,07/20/2026 22:45:00,Consumer Price Index (QoQ),HIGH,NZD,Release,0.19,Inflation
 3ae61ed1-8170-4773-a660-581d6b34a361,07/20/2026 22:45:00,Consumer Price Index (YoY),HIGH,NZD,Release,0.19,Inflation
 1a3df90d-f57b-4246-a78d-6e76a487db9a,07/21/2026 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External

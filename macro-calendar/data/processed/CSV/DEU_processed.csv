@@ -1,7 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 67b6d595-9b0a-4165-bfb7-e790f7c892db,07/20/2026 06:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 0bc904ca-61e0-41ad-bd6f-31c79c9165c0,07/20/2026 06:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-598dfb9b-64fb-4b87-9388-abcd94bcafe2,07/20/2026 10:00:00,German Buba Monthly Report,HIGH,EUR,Release,0.85,Monetary Policy
 a11675dd-b61c-459f-bf52-faf13557ffd1,07/21/2026 09:00:00,ZEW Survey – Current Situation,HIGH,EUR,Release,0.595,Confidence
 3e2eed38-3be9-4f54-932d-8cb92ec7da57,07/21/2026 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
 5ceec16e-2647-428c-b1d4-f9a0c47ac1a6,07/24/2026 06:00:00,GfK Consumer Confidence Survey,HIGH,EUR,Release,0.595,Confidence
@@ -11,6 +10,7 @@ dac6d42b-7262-4417-8e32-51a92645745c,07/24/2026 07:30:00,HCOB Manufacturing PMI,
 01e5739f-8a5c-43d0-9466-c2beae9fb68b,07/27/2026 08:00:00,IFO – Business Climate,HIGH,EUR,Release,0.595,Confidence
 a52eba11-7a07-4142-96e2-c60943afb777,07/27/2026 08:00:00,IFO – Current Assessment,HIGH,EUR,Release,0.595,Confidence
 de1249e3-7f4d-4c2f-bb68-185664711ace,07/27/2026 08:00:00,IFO – Expectations,HIGH,EUR,Release,0.595,Confidence
+598dfb9b-64fb-4b87-9388-abcd94bcafe2,07/27/2026 10:00:00,German Buba Monthly Report,HIGH,EUR,Release,0.85,Monetary Policy
 83b9624e-4f61-4f04-8d84-c684ebf0f273,07/29/2026 09:30:00,10-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 8be7d905-cc24-4855-889d-27a7a6ac6682,07/30/2026 06:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 1d0fb1f6-5f1b-458e-8d44-3bb7ba0a148f,07/30/2026 06:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth

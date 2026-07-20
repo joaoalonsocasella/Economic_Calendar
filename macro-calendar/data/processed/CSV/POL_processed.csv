@@ -1,7 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-21d9cf6a-08c0-4300-b5a4-f1cb8ca17822,07/20/2026 08:00:00,Corporate Sector Wages,LOW,PLN,Release,0.09,Money and Credit
-7b5bcddc-66d5-4126-93f5-2c8528c88989,07/20/2026 08:00:00,Industrial Output (YoY),HIGH,PLN,Release,0.17,Growth
-e7f169a2-7bfb-4782-8181-8df4ba714ad4,07/20/2026 08:00:00,Producer Price Index (YoY),HIGH,PLN,Release,0.19,Inflation
+21d9cf6a-08c0-4300-b5a4-f1cb8ca17822,07/20/2026 07:30:00,Corporate Sector Wages,LOW,PLN,Release,0.09,Money and Credit
+7b5bcddc-66d5-4126-93f5-2c8528c88989,07/20/2026 07:30:00,Industrial Output (YoY),HIGH,PLN,Release,0.17,Growth
+e7f169a2-7bfb-4782-8181-8df4ba714ad4,07/20/2026 07:30:00,Producer Price Index (YoY),HIGH,PLN,Release,0.19,Inflation
 101f11b0-f5c0-48b3-b61a-4a0025316b2c,07/22/2026 08:00:00,Retail Sales (YoY),HIGH,PLN,Release,0.17,Growth
 2e6ca949-1b3e-4548-9a02-251b789b6556,07/23/2026 08:00:00,Unemployment (MoM),HIGH,PLN,Release,0.18,Labor Market
 e6e15da1-2d76-4298-aee1-17671db0e752,07/24/2026 12:00:00,M3 Money Supply (YoY),HIGH,PLN,Release,0.19,Inflation
