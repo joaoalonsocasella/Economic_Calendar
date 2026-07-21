@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-7311ace7-cf2c-4f99-82a8-f9385f6a018b,07/20/2026 09:00:00,Construction Output  s.a (MoM),HIGH,EUR,Release,0.297,Housing
-a9254926-6760-4c3b-b27a-ec891587b331,07/20/2026 09:00:00,Construction Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
 e0958882-99d0-44f7-b4cc-cbed73c4ca4c,07/21/2026 08:00:00,ECB Bank Lending Survey,HIGH,EUR,Release,0.85,Monetary Policy
 c1c992f4-1ee8-4066-a51b-8d847ddd17c5,07/21/2026 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
 2fba9406-52af-4888-be11-649901f5c027,07/21/2026 11:30:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
@@ -35,6 +33,7 @@ c81dd8fd-b878-4fdf-86a6-3845097f0884,08/05/2026 08:00:00,HCOB Composite PMI,HIGH
 dc6c37ac-6d71-43e3-8109-898dc244ae3c,08/05/2026 08:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 c30d4b30-6ef8-4531-8c6c-4c101881dfa6,08/05/2026 09:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 00fbb8ed-a723-423a-a4cd-2de9cb525c1b,08/05/2026 09:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+fb7da0d9-669f-4b08-afdb-0b492c8111bf,08/06/2026 08:00:00,Economic Bulletin,HIGH,EUR,Release,0.85,Monetary Policy
 e792241d-efb9-4f7e-9050-4add0ae10253,08/06/2026 09:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
 b11e8799-2329-4773-b014-9facacdb8996,08/06/2026 09:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 2e2dc6d2-5daa-4a0e-aa10-9a49f3105cfb,08/07/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit

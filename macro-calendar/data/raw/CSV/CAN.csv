@@ -1,9 +1,4 @@
 Id,Start,Name,Impact,Currency
-1c548b05-fe86-4c9e-badc-f7888d047992,07/20/2026 12:30:00,BoC Consumer Price Index Core (MoM),MEDIUM,CAD
-88c93f21-6dc7-41a1-86af-51eccd0c7d0c,07/20/2026 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD
-c09095cd-9f67-4a3a-9be4-63cab9948685,07/20/2026 12:30:00,Consumer Price Index - Core (MoM),LOW,CAD
-d9afa1b5-8ed4-4b14-a681-c45d3a891453,07/20/2026 12:30:00,Consumer Price Index (MoM),MEDIUM,CAD
-74d5e1e0-f509-4b6c-8e81-4d054e5af2c6,07/20/2026 12:30:00,Consumer Price Index (YoY),HIGH,CAD
 ada1e1b9-34f9-470a-b933-049e69388462,07/23/2026 12:30:00,Employment Insurance Beneficiaries Change (MoM),LOW,CAD
 5aa6542f-7e1b-4459-8a9c-6f04f64aa545,07/23/2026 12:30:00,Retail Sales (MoM),MEDIUM,CAD
 f6e25421-dfef-4d4a-9750-24764a156bf1,07/23/2026 12:30:00,Retail Sales ex Autos (MoM),MEDIUM,CAD
@@ -12,16 +7,16 @@ a19f8fa9-29b9-446e-8bd9-6562443bc82e,07/24/2026 12:30:00,New Housing Price Index
 7fd030e1-43b6-453a-a0d9-a805710a1c7d,07/24/2026 12:30:00,New Housing Price Index (YoY),LOW,CAD
 8b8bc5e0-2395-4b4e-b492-ac17d7dec3db,07/24/2026 12:30:00,Raw Material Price Index,LOW,CAD
 bdc3b376-32ae-4b6a-8c2e-8df576af3154,07/31/2026 12:30:00,Gross Domestic Product (MoM),MEDIUM,CAD
-d4922b58-3c89-4e23-a681-789cc41b2817,08/03/2026 13:30:00,S&P Global Manufacturing PMI,MEDIUM,CAD
-b9ca29e0-6e44-4fa6-8eda-89f77b28ed33,08/06/2026 12:30:00,Exports,LOW,CAD
-a9d45df1-2ebc-4200-bed2-f20b88ceb2cd,08/06/2026 12:30:00,Imports,LOW,CAD
-213f7475-f21b-492f-8fec-ce26f8f71b66,08/06/2026 12:30:00,International Merchandise Trade,LOW,CAD
-d83fede0-8c4d-4371-94b2-78892cd2da02,08/06/2026 14:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD
-3aca8234-f826-49a4-90b7-5b5d64ddad9e,08/06/2026 14:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD
+b9ca29e0-6e44-4fa6-8eda-89f77b28ed33,08/04/2026 12:30:00,Exports,LOW,CAD
+a9d45df1-2ebc-4200-bed2-f20b88ceb2cd,08/04/2026 12:30:00,Imports,LOW,CAD
+213f7475-f21b-492f-8fec-ce26f8f71b66,08/04/2026 12:30:00,International Merchandise Trade,LOW,CAD
+d4922b58-3c89-4e23-a681-789cc41b2817,08/04/2026 13:30:00,S&P Global Manufacturing PMI,MEDIUM,CAD
 2ab1f69c-4fbf-462e-9d24-7ead32c29256,08/07/2026 12:30:00,Average Hourly Wages (YoY),MEDIUM,CAD
 827d878d-2ebc-4f12-8d97-6128c2ef5224,08/07/2026 12:30:00,Net Change in Employment,HIGH,CAD
 0b1c9e84-a12a-4e86-9a39-752f0063c28f,08/07/2026 12:30:00,Participation Rate,LOW,CAD
 da24aa64-e8a6-47c3-8ed4-5a2dd4deb474,08/07/2026 12:30:00,Unemployment Rate,HIGH,CAD
+d83fede0-8c4d-4371-94b2-78892cd2da02,08/07/2026 14:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD
+3aca8234-f826-49a4-90b7-5b5d64ddad9e,08/07/2026 14:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD
 931dd27d-30cb-464a-b905-6d4ffba2e413,08/13/2026 12:30:00,Building Permits (MoM),LOW,CAD
 f81fda86-51d6-4674-af03-e45bb799882a,08/14/2026 12:30:00,Manufacturing Sales (MoM),LOW,CAD
 461622bf-7ae8-4026-98ec-bd337832febc,08/14/2026 12:30:00,Wholesale Sales (MoM),LOW,CAD

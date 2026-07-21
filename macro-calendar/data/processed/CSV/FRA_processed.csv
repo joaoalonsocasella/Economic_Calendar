@@ -6,6 +6,7 @@ cf725140-8958-46a0-9e26-372d07caa189,07/24/2026 07:15:00,HCOB Composite PMI,HIGH
 029ead2a-b3d9-44d2-87f2-1247486ea375,07/28/2026 06:45:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 84bab21d-1a8d-43a7-a46a-6d36ab6743c1,07/30/2026 05:30:00,Consumer Spending (MoM),HIGH,EUR,Release,0.722,Growth
 11d67d14-8f97-44f5-bd13-e12b92986011,07/30/2026 05:30:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+d81f9291-b11d-4125-bca4-bebd5f29dc8d,07/30/2026 06:45:00,Nonfarm Payrolls (QoQ),HIGH,EUR,Release,0.765,Labor Market
 e2aea58b-f0c9-43ed-a1e7-fce414ec0fe4,07/31/2026 06:45:00,Consumer Price Index (EU norm) (MoM),HIGH,EUR,Release,0.807,Inflation
 20dfa884-3203-4026-af58-72ec31792dda,07/31/2026 06:45:00,Consumer Price Index (EU norm) (YoY),HIGH,EUR,Release,0.807,Inflation
 b0a678c4-e6ac-4d30-aff3-9642421b7e44,07/31/2026 06:45:00,Producer Prices (MoM),HIGH,EUR,Release,0.807,Inflation
@@ -14,7 +15,7 @@ cb5a4204-0dd2-4653-9f4b-630f45cfbfd3,08/03/2026 07:50:00,HCOB Manufacturing PMI,
 97238d3d-c4e6-4900-a901-6689e184e94e,08/05/2026 06:45:00,Industrial Output (MoM),HIGH,EUR,Release,0.722,Growth
 9448656f-bc21-4ab5-a808-fd0b56878f94,08/05/2026 07:50:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 a5213958-d76c-48ab-b6e1-0c9676deae4e,08/05/2026 07:50:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
-d81f9291-b11d-4125-bca4-bebd5f29dc8d,08/06/2026 06:45:00,Nonfarm Payrolls (QoQ),HIGH,EUR,Release,0.765,Labor Market
+8753ac42-5f36-4ac2-8156-a97b2db41e3f,08/06/2026 09:00:00,10-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 3ca3970c-f216-4681-b03c-c83ea75bff86,08/07/2026 06:45:00,Current Account,HIGH,EUR,Release,0.468,Trade and External
 d66b928a-1862-45bf-b3eb-c2d49fecde7b,08/07/2026 06:45:00,"Exports, EUR",HIGH,EUR,Release,0.468,Trade and External
 b6e58a26-c1dc-4413-9490-78de98dda260,08/07/2026 06:45:00,"Imports, EUR",HIGH,EUR,Release,0.468,Trade and External
