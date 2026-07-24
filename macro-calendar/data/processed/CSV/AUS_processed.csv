@@ -1,12 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-ee9e24df-94a6-4963-a330-98493cebc078,07/23/2026 01:30:00,Employment Change s.a.,HIGH,AUD,Release,0.18,Labor Market
-039dfb83-778f-4fbf-9089-e2ce40d5541d,07/23/2026 01:30:00,Full-Time Employment,HIGH,AUD,Release,0.18,Labor Market
-c42c0be6-ed37-4d40-a09b-ca21f666d3cb,07/23/2026 01:30:00,Part-Time Employment,HIGH,AUD,Release,0.18,Labor Market
-680d5683-831f-4a33-a67a-a09d4c940c27,07/23/2026 01:30:00,Participation Rate,HIGH,AUD,Release,0.18,Labor Market
-7fc63892-a163-4ffb-81c8-644c952d8283,07/23/2026 01:30:00,Unemployment Rate s.a.,HIGH,AUD,Release,0.18,Labor Market
-fef34bfa-300d-4f6f-9ddb-d9bd9f0817a5,07/23/2026 23:00:00,S&P Global Composite PMI,HIGH,AUD,Release,0.17,Growth
-6f2cdb88-098b-40a3-8b57-e19f2a6cd628,07/23/2026 23:00:00,S&P Global Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
-6278bf99-b9c5-4183-bb4f-67dc7ca045f8,07/23/2026 23:00:00,S&P Global Services PMI,HIGH,AUD,Release,0.17,Growth
 2fbd5c7c-5618-4f98-8be8-a3ef4f849812,07/24/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 7b714d4c-d216-4623-bf29-e3f70b4e079f,07/28/2026 03:05:00,RBA Governor Bullock speech,MEDIUM,AUD,Speech,0.13,Monetary Policy
 ad429dba-5b32-4fa6-b2a9-9ce88dce2bf9,07/29/2026 01:30:00,Consumer Price Index (MoM),HIGH,AUD,Release,0.19,Inflation
