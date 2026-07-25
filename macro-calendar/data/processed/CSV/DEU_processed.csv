@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-5ceec16e-2647-428c-b1d4-f9a0c47ac1a6,07/24/2026 06:00:00,GfK Consumer Confidence Survey,HIGH,EUR,Release,0.595,Confidence
-99d972bf-d756-4059-8ce5-adc27142f5ed,07/24/2026 07:30:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
-dac6d42b-7262-4417-8e32-51a92645745c,07/24/2026 07:30:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
-56bf2230-a94b-4673-afee-ccf15a56163a,07/24/2026 07:30:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 01e5739f-8a5c-43d0-9466-c2beae9fb68b,07/27/2026 08:00:00,IFO – Business Climate,HIGH,EUR,Release,0.595,Confidence
 a52eba11-7a07-4142-96e2-c60943afb777,07/27/2026 08:00:00,IFO – Current Assessment,HIGH,EUR,Release,0.595,Confidence
 de1249e3-7f4d-4c2f-bb68-185664711ace,07/27/2026 08:00:00,IFO – Expectations,HIGH,EUR,Release,0.595,Confidence

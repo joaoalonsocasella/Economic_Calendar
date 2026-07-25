@@ -1,13 +1,4 @@
 Id,Start,Name,Impact,Currency
-f9c0f016-9dbf-41c7-aafe-83cb06129ec7,07/24/2026 13:45:00,S&P Global Composite PMI,MEDIUM,USD
-e776cc33-69a8-4da0-96c3-c6cd87d91ec9,07/24/2026 13:45:00,S&P Global Manufacturing PMI,HIGH,USD
-c08bda9a-4a8a-47c2-a396-0c6f99b44f06,07/24/2026 13:45:00,S&P Global Services PMI,HIGH,USD
-b0086479-10db-4516-b9c2-1a0f40b8f67b,07/24/2026 14:00:00,New Home Sales (MoM),LOW,USD
-6ab21ba9-2503-4f7c-9eaf-a2474d2afc99,07/24/2026 14:00:00,New Home Sales Change (MoM),MEDIUM,USD
-6b707d34-b28a-4cee-a17b-0fb33983bbe0,07/24/2026 17:00:00,Baker Hughes US Oil Rig Count,LOW,USD
-2b773fb5-ceaf-48de-a10c-11a1ef7d37a2,07/24/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD
-7227406b-afff-466a-96f0-e8a741fbc218,07/24/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD
-e009c637-66e3-43bb-bce2-8f412d841e04,07/24/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 27c59c4c-08dc-444e-bb69-63eb7f1ea84a,07/27/2026 12:30:00,Durable Goods Orders,MEDIUM,USD
 8db01d58-1479-4219-921b-fec8764ffe42,07/27/2026 12:30:00,Durable Goods Orders ex Defense,MEDIUM,USD
 ec8b606a-a77d-4bd6-964d-b972e96b89f9,07/27/2026 12:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
