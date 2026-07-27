@@ -1,4 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
+bbbebf25-eb5a-4579-a53d-b81ebe5b0e03,07/29/2026 17:30:00,BoC Summary of Deliberations,HIGH,CAD,Release,0.2,Monetary Policy
 bdc3b376-32ae-4b6a-8c2e-8df576af3154,07/31/2026 12:30:00,Gross Domestic Product (MoM),LOW,CAD,Release,0.07,Housing
 b9ca29e0-6e44-4fa6-8eda-89f77b28ed33,08/04/2026 12:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
 a9d45df1-2ebc-4200-bed2-f20b88ceb2cd,08/04/2026 12:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
@@ -47,15 +48,16 @@ af2143e3-beb1-46cd-9792-95f9fef11e92,09/08/2026 14:00:00,Ivey Purchasing Manager
 08019d21-b6cb-4335-b3f5-13d77d3bbd28,09/11/2026 12:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
 c43abc7a-ee05-448e-aee2-9b50299d7787,09/11/2026 12:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
 f7950b86-acc7-4fa2-9d01-4a22f71eb425,09/11/2026 12:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
+d457cbdd-1830-4673-825b-4fce0e9e8ad7,09/14/2026 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
+f5923e32-a59a-422e-84c9-475a3fbec742,09/14/2026 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
+b881d1aa-f488-43e7-9acd-ca7c5eeea12b,09/14/2026 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
+d619ff96-0ed6-4e5c-a299-300b33f3e1fe,09/14/2026 12:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
+90ede9f3-d925-4dc7-9e28-df3ef5f7ace6,09/14/2026 12:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
 881fc6a1-59f3-4cd4-8a71-326d7a92a36f,09/14/2026 12:30:00,Manufacturing Sales (MoM),HIGH,CAD,Release,0.17,Growth
 c0b059fc-e317-426d-809b-9008b8521a8d,09/14/2026 12:30:00,Wholesale Sales (MoM),HIGH,CAD,Release,0.17,Growth
 f4b7e052-6b6d-4259-80ba-c68d99c7362e,09/16/2026 12:15:00,Housing Starts s.a (YoY),LOW,CAD,Release,0.07,Housing
-d457cbdd-1830-4673-825b-4fce0e9e8ad7,09/17/2026 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
-f5923e32-a59a-422e-84c9-475a3fbec742,09/17/2026 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
+0cb7c47a-fad2-4e70-be36-3d4f51d16e11,09/16/2026 17:30:00,BoC Summary of Deliberations,HIGH,CAD,Release,0.2,Monetary Policy
 d6813c9a-abcb-4448-9e10-5ee0c34c1d74,09/17/2026 12:30:00,Canadian Portfolio Investment in Foreign Securities,MEDIUM,CAD,Release,0.11,Trade and External
-b881d1aa-f488-43e7-9acd-ca7c5eeea12b,09/17/2026 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
-d619ff96-0ed6-4e5c-a299-300b33f3e1fe,09/17/2026 12:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
-90ede9f3-d925-4dc7-9e28-df3ef5f7ace6,09/17/2026 12:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
 96509184-0f7c-4dfe-9bfe-89544032c722,09/17/2026 12:30:00,Employment Insurance Beneficiaries Change (MoM),HIGH,CAD,Release,0.18,Labor Market
 702d264c-16e5-4b8e-acbb-18a3c358b6d5,09/17/2026 12:30:00,Foreign Portfolio Investment in Canadian Securities,MEDIUM,CAD,Release,0.11,Trade and External
 235f10f3-aec9-4f64-9dc0-42e272ebe467,09/17/2026 12:30:00,Industrial Product Price (MoM),HIGH,CAD,Release,0.19,Inflation
@@ -77,15 +79,15 @@ d94b70a4-94d7-427a-b74e-e7e5743610ac,10/09/2026 12:30:00,Participation Rate,HIGH
 407585b8-2351-4d13-b0bd-2ff8ae3ec458,10/09/2026 12:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
 b9267ff4-62be-4507-b351-87608f633cb8,10/14/2026 12:30:00,Building Permits (MoM),LOW,CAD,Release,0.07,Housing
 6b8b796d-75e9-4f1b-a9fa-033ffa44aefb,10/15/2026 12:15:00,Housing Starts s.a (YoY),LOW,CAD,Release,0.07,Housing
-0bcef3c0-08bc-45fd-9e3b-dea851b2593f,10/15/2026 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
-5c23a309-494b-46fe-bdd8-ddbde0e05ca3,10/15/2026 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
-d33e41dd-91cb-4555-9934-6446bea25438,10/15/2026 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
-1c13d46d-f8ef-4c5e-9c39-ab6bf9a15c73,10/15/2026 12:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
-47a521e9-988a-4932-9cf4-0658ef86a122,10/15/2026 12:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
 e5c15ac5-3df5-4c8a-ace2-26c31846d23e,10/15/2026 12:30:00,Manufacturing Sales (MoM),HIGH,CAD,Release,0.17,Growth
 9a769215-27a6-445e-aee1-0b1f5e746b70,10/15/2026 12:30:00,Wholesale Sales (MoM),HIGH,CAD,Release,0.17,Growth
 f6f8cf22-fd8f-4675-a8f4-e54f77ce387a,10/16/2026 12:30:00,Canadian Portfolio Investment in Foreign Securities,MEDIUM,CAD,Release,0.11,Trade and External
 4af05aeb-bd90-46da-a6e8-94b957cc3663,10/16/2026 12:30:00,Foreign Portfolio Investment in Canadian Securities,MEDIUM,CAD,Release,0.11,Trade and External
+0bcef3c0-08bc-45fd-9e3b-dea851b2593f,10/19/2026 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
+5c23a309-494b-46fe-bdd8-ddbde0e05ca3,10/19/2026 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
+d33e41dd-91cb-4555-9934-6446bea25438,10/19/2026 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
+1c13d46d-f8ef-4c5e-9c39-ab6bf9a15c73,10/19/2026 12:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
+47a521e9-988a-4932-9cf4-0658ef86a122,10/19/2026 12:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
 4a9d7ee1-6761-485a-8372-d20a7d73cace,10/19/2026 14:30:00,Bank of Canada Business Outlook Survey,MEDIUM,CAD,Release,0.14,Confidence
 02f8a701-2f65-4850-8657-4f2314556d3a,10/22/2026 12:30:00,Employment Insurance Beneficiaries Change (MoM),HIGH,CAD,Release,0.18,Labor Market
 69f0509c-039f-4652-928c-288698aaba17,10/22/2026 12:30:00,Industrial Product Price (MoM),HIGH,CAD,Release,0.19,Inflation
@@ -106,6 +108,7 @@ ef8bd21d-788c-4ffa-92d3-23033cb1af0c,11/05/2026 12:30:00,Exports,MEDIUM,CAD,Rele
 36acbaa9-6f06-497f-ad50-1853e6e2fdd7,11/05/2026 12:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
 ec94e324-5fe0-48b8-aa33-7c4754124a8f,11/05/2026 14:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD,Release,0.14,Confidence
 3429732b-052e-4a61-a8be-cc5ff900b594,11/05/2026 14:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD,Release,0.14,Confidence
+70bcbea2-9db1-4813-bfb3-1dcc5d020623,11/10/2026 18:30:00,BoC Summary of Deliberations,HIGH,CAD,Release,0.2,Monetary Policy
 dd2b30ed-6d68-4c1e-87f4-5591f0e5df62,11/12/2026 13:30:00,Building Permits (MoM),LOW,CAD,Release,0.07,Housing
 7bcb9ebf-fdaf-4c53-9d2a-67d084e0935e,11/13/2026 13:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
 17b6f48f-9218-4b53-99c3-7c939b521a65,11/13/2026 13:30:00,Manufacturing Sales (MoM),HIGH,CAD,Release,0.17,Growth
@@ -147,15 +150,15 @@ d7d14404-e3b9-42b7-8924-39a570b78a34,12/09/2026 14:45:00,BoC Interest Rate Decis
 2aa2d3c0-90b8-4249-b98d-3c78b5dedbf6,12/11/2026 13:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
 396ee349-c44a-478c-abcf-5829615e2932,12/11/2026 13:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
 f9e794c8-e68d-4a0b-a1a5-bd8fcd01d908,12/11/2026 13:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
+718dd84f-11e1-4f26-bb66-bde23e35f6ec,12/14/2026 13:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
+c235a384-f213-45bc-9587-cb96083c6ac6,12/14/2026 13:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
+12df34a2-2415-4bee-bc6d-6447be108b99,12/14/2026 13:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
+d2e287ff-3a79-4cd8-bffb-7de933225962,12/14/2026 13:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
+06af4619-cac9-43e0-91ca-1c489c9c1313,12/14/2026 13:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
 35fa7d50-ddc0-4ad4-a3ed-ee6de98aebef,12/14/2026 13:30:00,Manufacturing Sales (MoM),HIGH,CAD,Release,0.17,Growth
 c5dedb33-8eaf-4808-a1e2-65bd41a7948a,12/14/2026 13:30:00,Wholesale Sales (MoM),HIGH,CAD,Release,0.17,Growth
 0634cac9-cd6c-43ac-8fce-23d61152fb62,12/16/2026 13:15:00,Housing Starts s.a (YoY),LOW,CAD,Release,0.07,Housing
-718dd84f-11e1-4f26-bb66-bde23e35f6ec,12/17/2026 13:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
-c235a384-f213-45bc-9587-cb96083c6ac6,12/17/2026 13:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
 c9bfee16-602d-45eb-802b-39e10010546a,12/17/2026 13:30:00,Canadian Portfolio Investment in Foreign Securities,MEDIUM,CAD,Release,0.11,Trade and External
-12df34a2-2415-4bee-bc6d-6447be108b99,12/17/2026 13:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
-d2e287ff-3a79-4cd8-bffb-7de933225962,12/17/2026 13:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
-06af4619-cac9-43e0-91ca-1c489c9c1313,12/17/2026 13:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
 b76ea6a5-5e0d-4390-b42e-b35a913350fb,12/17/2026 13:30:00,Employment Insurance Beneficiaries Change (MoM),HIGH,CAD,Release,0.18,Labor Market
 2cb66f0a-e2c6-4c5e-b327-19d775845975,12/17/2026 13:30:00,Foreign Portfolio Investment in Canadian Securities,MEDIUM,CAD,Release,0.11,Trade and External
 08062254-a32b-476a-951c-7f37284b7362,12/17/2026 13:30:00,Industrial Product Price (MoM),HIGH,CAD,Release,0.19,Inflation
@@ -165,6 +168,7 @@ e7a1693b-cd8d-4441-871f-5323cf1dbe54,12/17/2026 13:30:00,Raw Material Price Inde
 a4aa9f03-caf4-4269-ad61-f9029e5a966c,12/22/2026 13:30:00,New Housing Price Index (MoM),LOW,CAD,Release,0.07,Housing
 832c8066-2333-4b0a-993d-f222addc6e23,12/22/2026 13:30:00,New Housing Price Index (YoY),LOW,CAD,Release,0.07,Housing
 42fc0965-a8a0-42f1-84fc-0017bfd9627d,12/23/2026 13:30:00,Gross Domestic Product (MoM),LOW,CAD,Release,0.07,Housing
+f2ebe0c2-0565-496a-b695-b28c6df00898,12/23/2026 18:30:00,BoC Summary of Deliberations,HIGH,CAD,Release,0.2,Monetary Policy
 ab58410c-dc1f-4f8f-b816-1d16ac7ab534,01/04/2027 14:30:00,S&P Global Manufacturing PMI,HIGH,CAD,Release,0.17,Growth
 f208c242-6d02-4ce9-98db-a17a1309c633,01/07/2027 13:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
 7aee43b2-f0c6-4828-adaf-12da48815b33,01/07/2027 13:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
@@ -198,11 +202,11 @@ af82096e-8f12-4224-9cf3-a48680840803,01/22/2027 13:30:00,New Housing Price Index
 a78e0d78-67d7-44b7-88a1-bd39d6653876,02/05/2027 13:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
 e43baa11-9658-49a8-a240-8469b7490fbb,02/05/2027 13:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
 b17f1725-8044-4df9-80d8-a2505f2c710d,02/05/2027 13:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
-41326a9d-65b0-4d06-b626-d488b7103e2c,02/18/2027 13:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
-7f8167fd-1382-4fbd-b062-e5191316d66f,02/18/2027 13:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
-44b3f215-4c38-442f-986c-636c1fb232e0,02/18/2027 13:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
-ea12d622-adbc-4e16-83e2-e5ac054716ef,02/18/2027 13:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
-49f6c682-842f-4809-b812-aaed5fd94460,02/18/2027 13:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
+41326a9d-65b0-4d06-b626-d488b7103e2c,02/16/2027 13:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
+7f8167fd-1382-4fbd-b062-e5191316d66f,02/16/2027 13:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
+44b3f215-4c38-442f-986c-636c1fb232e0,02/16/2027 13:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
+ea12d622-adbc-4e16-83e2-e5ac054716ef,02/16/2027 13:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
+49f6c682-842f-4809-b812-aaed5fd94460,02/16/2027 13:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
 58b2070f-4643-4d9e-b574-54f0e17b4ab0,02/26/2027 13:30:00,Gross Domestic Product (QoQ),HIGH,CAD,Release,0.17,Growth
 1bd7b227-e0d1-4c00-92d7-ac1cbc823ae4,02/26/2027 13:30:00,Gross Domestic Product Annualized,HIGH,CAD,Release,0.17,Growth
 377b97b0-4870-4b5e-8e43-8e5ee28746f6,03/01/2027 13:30:00,Current Account,MEDIUM,CAD,Release,0.11,Trade and External
@@ -211,10 +215,30 @@ ea12d622-adbc-4e16-83e2-e5ac054716ef,02/18/2027 13:30:00,Consumer Price Index (M
 6c4196cb-dc18-4220-ae34-0d4dc1230772,03/05/2027 13:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
 31b94974-2747-479a-bbe1-8aaf89f2fd68,03/05/2027 13:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
 305eb0fc-e796-4cd0-9781-048c8f5ea59e,03/14/2027 07:00:00, Daylight Saving Time ,HIGH,CAD,Release,0.2,Monetary Policy
-252b0ce3-eec5-431d-bcbb-c3f6dd72f0c9,03/16/2027 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
-c2dc63f1-edf5-42ac-b1ed-ee18a05b221d,03/16/2027 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
-02fc7549-3d5a-4b30-ac17-2417f42c5fef,03/16/2027 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
-4ac168e3-c256-43cb-a187-c27cb1022067,03/16/2027 12:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
-152ce02b-15ee-4219-86ca-5537ab50b56d,03/16/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
+252b0ce3-eec5-431d-bcbb-c3f6dd72f0c9,03/15/2027 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
+c2dc63f1-edf5-42ac-b1ed-ee18a05b221d,03/15/2027 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
+02fc7549-3d5a-4b30-ac17-2417f42c5fef,03/15/2027 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
+4ac168e3-c256-43cb-a187-c27cb1022067,03/15/2027 12:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
+152ce02b-15ee-4219-86ca-5537ab50b56d,03/15/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
+4400e337-fb53-4900-9ee5-bd3febf14093,04/19/2027 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
+a899c6fd-14f9-4ee1-a1b6-921c4099d99b,04/19/2027 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
+c2f4f454-7816-41d2-8017-b5118eb5adba,04/19/2027 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
+dea2a8ff-116b-4952-b4c0-1eb1c10d56b4,04/19/2027 12:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
+e0ac34e1-5aaa-4119-9528-55402b210c04,04/19/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
+60683f6a-5857-4fda-a121-59496a83a175,05/17/2027 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
+812f59fa-7ea0-4aae-a0aa-ed10cd5bd61f,05/17/2027 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
+639a6ac2-d16a-42eb-92d4-94dda1c77199,05/17/2027 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
+0c89338c-94b8-4436-a0fb-bc858d9632a1,05/17/2027 12:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
+7466c6a3-378f-481c-ae5d-2092662dfa64,05/17/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
 81939227-6aa8-42b3-bdd6-89499abe8794,05/28/2027 12:30:00,Gross Domestic Product (QoQ),HIGH,CAD,Release,0.17,Growth
 b488a224-48b4-498c-94e9-e17aacd9b8ac,05/28/2027 12:30:00,Gross Domestic Product Annualized,HIGH,CAD,Release,0.17,Growth
+edc40384-c5dc-49b8-8dda-f3300d78add9,06/17/2027 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
+d48e9af9-18f3-40a8-93d4-799ad028ec1a,06/17/2027 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
+b143f026-7a39-43f5-9475-f4818f87137b,06/17/2027 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
+08198c5c-b0c3-46eb-825e-8d17af60ce7a,06/17/2027 12:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
+fb2ee0ce-f862-4962-a6fe-06baa163770c,06/17/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
+9f411322-edf1-49d5-b097-eecba7e21ebc,07/20/2027 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
+b19fd9f1-581c-4f03-a6e2-59b7f501ce0e,07/20/2027 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
+e42b7731-211d-4001-9580-373f42bbd8af,07/20/2027 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
+02fc2214-9249-4363-a23e-022873407049,07/20/2027 12:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
+50cac9c2-cdea-4b48-8fa2-ff778262b1b2,07/20/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
