@@ -1,7 +1,4 @@
 Id,Start,Name,Impact,Currency
-01e5739f-8a5c-43d0-9466-c2beae9fb68b,07/27/2026 08:00:00,IFO – Business Climate,MEDIUM,EUR
-a52eba11-7a07-4142-96e2-c60943afb777,07/27/2026 08:00:00,IFO – Current Assessment,MEDIUM,EUR
-de1249e3-7f4d-4c2f-bb68-185664711ace,07/27/2026 08:00:00,IFO – Expectations,MEDIUM,EUR
 598dfb9b-64fb-4b87-9388-abcd94bcafe2,07/28/2026 10:00:00,German Buba Monthly Report,MEDIUM,EUR
 83b9624e-4f61-4f04-8d84-c684ebf0f273,07/29/2026 09:30:00,10-y Bond Auction,LOW,EUR
 84c0c1f3-28c6-44f2-af8d-6fe1af5e0f07,07/30/2026 08:00:00,Baden-Wuerttemberg CPI (MoM),LOW,EUR
@@ -39,10 +36,12 @@ ae60b349-2cf1-432d-9786-10430c3d707f,08/06/2026 06:00:00,Factory Orders n.s.a. (
 38c77d55-8370-420a-af46-54ffc475957a,08/07/2026 06:00:00,Industrial Production n.s.a. w.d.a. (YoY),MEDIUM,EUR
 0cd4655c-f82a-43aa-a965-93f1539b9cfb,08/07/2026 06:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
 384157d7-9c60-4640-92b9-1c293fcf7633,08/07/2026 06:00:00,Trade Balance s.a.,MEDIUM,EUR
+57008cc4-ac76-41e3-83c6-210ab219dcdc,08/11/2026 09:30:00,5-y Note Auction,LOW,EUR
 a7314dab-5cf2-48a4-92c6-db541bd81afc,08/12/2026 06:00:00,Consumer Price Index (MoM),LOW,EUR
 28a4fd56-e7fd-411f-b8b5-546c0f9331d7,08/12/2026 06:00:00,Consumer Price Index (YoY),LOW,EUR
 68bfcadd-a17b-42be-b13c-ce4df93aa401,08/12/2026 06:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 72b99f3f-a194-4b9d-b907-1ea4fac6d508,08/12/2026 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+049d289b-bc02-4f0b-b7e2-4e49046af9ed,08/12/2026 09:30:00,30-y Bond Auction,LOW,EUR
 5a936387-b73a-4e96-8972-61e70169035c,08/12/2026 12:30:00,Current Account n.s.a.,LOW,EUR
 6265eac2-7d75-4457-b9cb-d947d309c604,08/14/2026 06:00:00,Wholesale Price Index (MoM),LOW,EUR
 b7a81121-1076-41d3-ae74-b16bcd62ea07,08/14/2026 06:00:00,Wholesale Price Index (YoY),LOW,EUR

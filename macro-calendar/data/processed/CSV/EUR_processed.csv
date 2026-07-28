@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-76874890-576a-4275-9344-753524a089ef,07/27/2026 06:00:00,EcoFin Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
-66e6402b-0a5d-4a50-971f-588528be40fa,07/27/2026 08:00:00,M3 Money Supply (3m),HIGH,EUR,Release,0.85,Monetary Policy
-7b2da139-e883-4ab6-ab6b-4ebd19543280,07/27/2026 08:00:00,M3 Money Supply (YoY),HIGH,EUR,Release,0.807,Inflation
-e1c21b1a-2280-4aaf-9ae8-02d6fde9e0e8,07/27/2026 08:00:00,Private Loans (YoY),HIGH,EUR,Release,0.383,Money and Credit
 32e6aaff-dadc-4767-bf52-e664a38f1d55,07/30/2026 09:00:00,Business Climate,HIGH,EUR,Release,0.595,Confidence
 35120015-7979-4806-8c0c-0c914509553b,07/30/2026 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 9f95be9e-be15-48e4-8567-7bdac179c9d4,07/30/2026 09:00:00,Economic Sentiment Indicator,HIGH,EUR,Release,0.595,Confidence

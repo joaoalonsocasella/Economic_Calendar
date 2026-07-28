@@ -11,7 +11,7 @@ d4922b58-3c89-4e23-a681-789cc41b2817,08/04/2026 13:30:00,S&P Global Manufacturin
 da24aa64-e8a6-47c3-8ed4-5a2dd4deb474,08/07/2026 12:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
 d83fede0-8c4d-4371-94b2-78892cd2da02,08/07/2026 14:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD,Release,0.14,Confidence
 3aca8234-f826-49a4-90b7-5b5d64ddad9e,08/07/2026 14:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD,Release,0.14,Confidence
-931dd27d-30cb-464a-b905-6d4ffba2e413,08/13/2026 12:30:00,Building Permits (MoM),LOW,CAD,Release,0.07,Housing
+931dd27d-30cb-464a-b905-6d4ffba2e413,08/12/2026 12:30:00,Building Permits (MoM),LOW,CAD,Release,0.07,Housing
 f81fda86-51d6-4674-af03-e45bb799882a,08/14/2026 12:30:00,Manufacturing Sales (MoM),HIGH,CAD,Release,0.17,Growth
 461622bf-7ae8-4026-98ec-bd337832febc,08/14/2026 12:30:00,Wholesale Sales (MoM),HIGH,CAD,Release,0.17,Growth
 a07a3c0d-7083-4bd3-93f1-6b91502ea7a4,08/17/2026 12:15:00,Housing Starts s.a (YoY),LOW,CAD,Release,0.07,Housing
@@ -41,13 +41,13 @@ ddf40a44-eacb-41ee-90b6-621b677e7518,09/02/2026 13:45:00,BoC Monetary Policy Sta
 352d37b0-8b8c-4e8a-9748-bd89ec19dcb4,09/03/2026 12:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
 8c0c4f86-33e5-432e-9a26-a2940c7b07be,09/03/2026 12:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
 beb6a696-183d-44cf-9d11-33b2ce405549,09/03/2026 12:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
+839db2e9-dfcc-4dc8-a4f2-2141ead23226,09/04/2026 12:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
+08019d21-b6cb-4335-b3f5-13d77d3bbd28,09/04/2026 12:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
+c43abc7a-ee05-448e-aee2-9b50299d7787,09/04/2026 12:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
+f7950b86-acc7-4fa2-9d01-4a22f71eb425,09/04/2026 12:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
 2cb4b718-4aa3-4aa7-86e5-301aa49a5a2f,09/08/2026 14:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD,Release,0.14,Confidence
 af2143e3-beb1-46cd-9792-95f9fef11e92,09/08/2026 14:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD,Release,0.14,Confidence
-839db2e9-dfcc-4dc8-a4f2-2141ead23226,09/11/2026 12:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
 7398368c-a2d2-429a-a240-91bc74dbdedf,09/11/2026 12:30:00,Building Permits (MoM),LOW,CAD,Release,0.07,Housing
-08019d21-b6cb-4335-b3f5-13d77d3bbd28,09/11/2026 12:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
-c43abc7a-ee05-448e-aee2-9b50299d7787,09/11/2026 12:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
-f7950b86-acc7-4fa2-9d01-4a22f71eb425,09/11/2026 12:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
 d457cbdd-1830-4673-825b-4fce0e9e8ad7,09/14/2026 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
 f5923e32-a59a-422e-84c9-475a3fbec742,09/14/2026 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
 b881d1aa-f488-43e7-9acd-ca7c5eeea12b,09/14/2026 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
@@ -108,12 +108,12 @@ ef8bd21d-788c-4ffa-92d3-23033cb1af0c,11/05/2026 12:30:00,Exports,MEDIUM,CAD,Rele
 36acbaa9-6f06-497f-ad50-1853e6e2fdd7,11/05/2026 12:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
 ec94e324-5fe0-48b8-aa33-7c4754124a8f,11/05/2026 14:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD,Release,0.14,Confidence
 3429732b-052e-4a61-a8be-cc5ff900b594,11/05/2026 14:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD,Release,0.14,Confidence
+7bcb9ebf-fdaf-4c53-9d2a-67d084e0935e,11/06/2026 13:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
+885a5f56-bfde-4b2f-86eb-39b6e85ff6b8,11/06/2026 13:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
+ae83b3e8-6c4f-4389-bca3-8d6a9e6575fa,11/06/2026 13:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
 70bcbea2-9db1-4813-bfb3-1dcc5d020623,11/10/2026 18:30:00,BoC Summary of Deliberations,HIGH,CAD,Release,0.2,Monetary Policy
 dd2b30ed-6d68-4c1e-87f4-5591f0e5df62,11/12/2026 13:30:00,Building Permits (MoM),LOW,CAD,Release,0.07,Housing
-7bcb9ebf-fdaf-4c53-9d2a-67d084e0935e,11/13/2026 13:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
 17b6f48f-9218-4b53-99c3-7c939b521a65,11/13/2026 13:30:00,Manufacturing Sales (MoM),HIGH,CAD,Release,0.17,Growth
-885a5f56-bfde-4b2f-86eb-39b6e85ff6b8,11/13/2026 13:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
-ae83b3e8-6c4f-4389-bca3-8d6a9e6575fa,11/13/2026 13:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
 6e63b29a-c967-44a7-aedc-af675fec97e3,11/13/2026 13:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
 ce7f0564-b42e-4323-bc4a-a8711ae8ff67,11/13/2026 13:30:00,Wholesale Sales (MoM),HIGH,CAD,Release,0.17,Growth
 2e41c8f9-8beb-4aa7-94e5-fa802bab7dd9,11/16/2026 13:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
@@ -137,6 +137,10 @@ d076f15d-82b0-467c-9a95-0c37d31ffcbd,12/01/2026 13:30:00,Gross Domestic Product 
 8f249def-8a17-4ddc-9d06-b2e508f40531,12/01/2026 13:30:00,Gross Domestic Product Annualized,HIGH,CAD,Release,0.17,Growth
 4804c9cc-7d4a-4f9b-a7c4-58f401cdbdb7,12/01/2026 14:30:00,S&P Global Manufacturing PMI,HIGH,CAD,Release,0.17,Growth
 46967c1b-1ac9-4717-9db0-4aa3e4df8f65,12/02/2026 13:30:00,Labor Productivity (QoQ),HIGH,CAD,Release,0.18,Labor Market
+2c2c57bb-4fab-4bd2-ba3b-1d4508186b0c,12/04/2026 13:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
+2aa2d3c0-90b8-4249-b98d-3c78b5dedbf6,12/04/2026 13:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
+396ee349-c44a-478c-abcf-5829615e2932,12/04/2026 13:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
+f9e794c8-e68d-4a0b-a1a5-bd8fcd01d908,12/04/2026 13:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
 672c1dd8-23e6-4661-8b85-dc5cc5a0249c,12/08/2026 13:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
 ce00effa-6cff-493f-9d0a-8c315f81719c,12/08/2026 13:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
 9db5bfe6-2e0d-433b-b8f8-4483dec6feb1,12/08/2026 13:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
@@ -145,11 +149,7 @@ c23a94fb-97d8-427d-863d-52b97977e80b,12/08/2026 15:00:00,Ivey Purchasing Manager
 d7d14404-e3b9-42b7-8924-39a570b78a34,12/09/2026 14:45:00,BoC Interest Rate Decision,MEDIUM,CAD,Speech,0.13,Monetary Policy
 17b71778-d51e-470d-9072-ed973720c8aa,12/09/2026 14:45:00,BoC Monetary Policy Statement,MEDIUM,CAD,Speech,0.13,Monetary Policy
 51b3da2e-9b11-492b-95a2-5d0d90d966b7,12/09/2026 15:30:00,BoC Press Conference,MEDIUM,CAD,Speech,0.13,Monetary Policy
-2c2c57bb-4fab-4bd2-ba3b-1d4508186b0c,12/11/2026 13:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
 692ac7c2-67bf-424c-a55b-900d8f8a00ac,12/11/2026 13:30:00,Building Permits (MoM),LOW,CAD,Release,0.07,Housing
-2aa2d3c0-90b8-4249-b98d-3c78b5dedbf6,12/11/2026 13:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
-396ee349-c44a-478c-abcf-5829615e2932,12/11/2026 13:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
-f9e794c8-e68d-4a0b-a1a5-bd8fcd01d908,12/11/2026 13:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
 718dd84f-11e1-4f26-bb66-bde23e35f6ec,12/14/2026 13:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
 c235a384-f213-45bc-9587-cb96083c6ac6,12/14/2026 13:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
 12df34a2-2415-4bee-bc6d-6447be108b99,12/14/2026 13:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
@@ -210,21 +210,29 @@ ea12d622-adbc-4e16-83e2-e5ac054716ef,02/16/2027 13:30:00,Consumer Price Index (M
 58b2070f-4643-4d9e-b574-54f0e17b4ab0,02/26/2027 13:30:00,Gross Domestic Product (QoQ),HIGH,CAD,Release,0.17,Growth
 1bd7b227-e0d1-4c00-92d7-ac1cbc823ae4,02/26/2027 13:30:00,Gross Domestic Product Annualized,HIGH,CAD,Release,0.17,Growth
 377b97b0-4870-4b5e-8e43-8e5ee28746f6,03/01/2027 13:30:00,Current Account,MEDIUM,CAD,Release,0.11,Trade and External
-0b0ff7cd-4c4a-4777-a16a-224a1141471c,03/05/2027 13:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
-810eb8e1-fab0-4327-9a9e-78a6611c3262,03/05/2027 13:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
-6c4196cb-dc18-4220-ae34-0d4dc1230772,03/05/2027 13:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
-31b94974-2747-479a-bbe1-8aaf89f2fd68,03/05/2027 13:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
+0b0ff7cd-4c4a-4777-a16a-224a1141471c,03/12/2027 13:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
+810eb8e1-fab0-4327-9a9e-78a6611c3262,03/12/2027 13:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
+6c4196cb-dc18-4220-ae34-0d4dc1230772,03/12/2027 13:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
+31b94974-2747-479a-bbe1-8aaf89f2fd68,03/12/2027 13:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
 305eb0fc-e796-4cd0-9781-048c8f5ea59e,03/14/2027 07:00:00, Daylight Saving Time ,HIGH,CAD,Release,0.2,Monetary Policy
 252b0ce3-eec5-431d-bcbb-c3f6dd72f0c9,03/15/2027 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
 c2dc63f1-edf5-42ac-b1ed-ee18a05b221d,03/15/2027 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
 02fc7549-3d5a-4b30-ac17-2417f42c5fef,03/15/2027 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
 4ac168e3-c256-43cb-a187-c27cb1022067,03/15/2027 12:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
 152ce02b-15ee-4219-86ca-5537ab50b56d,03/15/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
+ef181955-dba4-4141-a35d-aa64cd896d68,04/09/2027 12:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
+139db3b4-78ce-4ccd-80a7-569fef238e08,04/09/2027 12:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
+82cca308-5cda-461c-b5bb-1c5a19e41a7c,04/09/2027 12:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
+bf5ebf7c-bb63-4a81-9ea5-ac468366d8fe,04/09/2027 12:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
 4400e337-fb53-4900-9ee5-bd3febf14093,04/19/2027 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
 a899c6fd-14f9-4ee1-a1b6-921c4099d99b,04/19/2027 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
 c2f4f454-7816-41d2-8017-b5118eb5adba,04/19/2027 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
 dea2a8ff-116b-4952-b4c0-1eb1c10d56b4,04/19/2027 12:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
 e0ac34e1-5aaa-4119-9528-55402b210c04,04/19/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
+37f81ec1-0740-4513-a2ff-40d644fe8c2a,05/07/2027 12:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
+1eb81eb7-c8b2-4b68-8ccb-a6d578f59fbe,05/07/2027 12:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
+0d820db0-4e53-4430-b335-b4e6144aeacd,05/07/2027 12:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
+aa3daf51-0446-42f5-bf69-055a71e26f5b,05/07/2027 12:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
 60683f6a-5857-4fda-a121-59496a83a175,05/17/2027 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
 812f59fa-7ea0-4aae-a0aa-ed10cd5bd61f,05/17/2027 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
 639a6ac2-d16a-42eb-92d4-94dda1c77199,05/17/2027 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
@@ -232,11 +240,19 @@ e0ac34e1-5aaa-4119-9528-55402b210c04,04/19/2027 12:30:00,Consumer Price Index (Y
 7466c6a3-378f-481c-ae5d-2092662dfa64,05/17/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
 81939227-6aa8-42b3-bdd6-89499abe8794,05/28/2027 12:30:00,Gross Domestic Product (QoQ),HIGH,CAD,Release,0.17,Growth
 b488a224-48b4-498c-94e9-e17aacd9b8ac,05/28/2027 12:30:00,Gross Domestic Product Annualized,HIGH,CAD,Release,0.17,Growth
+b4a79a94-c87a-40b7-8054-ba313738af97,06/11/2027 12:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
+55f1ac4c-9230-4c1b-bb73-6762762391dc,06/11/2027 12:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
+c96c4452-00fc-413e-9533-e5c290dd1d4a,06/11/2027 12:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
+a50c6330-bd4c-4c79-afa5-0f91bcb71192,06/11/2027 12:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
 edc40384-c5dc-49b8-8dda-f3300d78add9,06/17/2027 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
 d48e9af9-18f3-40a8-93d4-799ad028ec1a,06/17/2027 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
 b143f026-7a39-43f5-9475-f4818f87137b,06/17/2027 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
 08198c5c-b0c3-46eb-825e-8d17af60ce7a,06/17/2027 12:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
 fb2ee0ce-f862-4962-a6fe-06baa163770c,06/17/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
+0c598c2f-0b06-4a05-b5f9-df0d371ab387,07/09/2027 12:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
+9eb8f8b4-a6cf-4427-80ec-9a20c8a426b4,07/09/2027 12:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
+efe81e52-ab87-4c9e-89bb-a44d82ce827d,07/09/2027 12:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
+e08c42b6-633c-48f9-94bb-493a6861f45c,07/09/2027 12:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
 9f411322-edf1-49d5-b097-eecba7e21ebc,07/20/2027 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
 b19fd9f1-581c-4f03-a6e2-59b7f501ce0e,07/20/2027 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
 e42b7731-211d-4001-9580-373f42bbd8af,07/20/2027 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation

@@ -1,13 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-27c59c4c-08dc-444e-bb69-63eb7f1ea84a,07/27/2026 12:30:00,Durable Goods Orders,HIGH,USD,Release,0.17,Growth
-8db01d58-1479-4219-921b-fec8764ffe42,07/27/2026 12:30:00,Durable Goods Orders ex Defense,HIGH,USD,Release,0.17,Growth
-ec8b606a-a77d-4bd6-964d-b972e96b89f9,07/27/2026 12:30:00,Durable Goods Orders ex Transportation,HIGH,USD,Release,0.17,Growth
-7fb43107-1c8a-43be-947e-543a104beb3d,07/27/2026 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD,Release,0.17,Growth
-aa0e0de8-3b35-4889-a612-b6bf352716f4,07/27/2026 14:30:00,Dallas Fed Manufacturing Business Index,MEDIUM,USD,Release,0.14,Confidence
-e5ec50fd-368c-4bab-94d4-7b858e6dab49,07/27/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
-5404f688-d6cd-4787-bba0-8fa0f64d0cba,07/27/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
-511a035f-f532-4884-83be-754b912c31f4,07/27/2026 17:00:00,2-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-fbad53f8-185b-4117-b8f8-e599cfdf2aab,07/27/2026 17:00:00,5-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 02789b58-e8b5-4bf8-a347-f823892cf4f6,07/28/2026 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 29177a85-7a2e-4870-b1c5-6c30acca8d9e,07/28/2026 12:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 5d5fd186-5050-432f-9b53-c42c397edccd,07/28/2026 12:30:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
@@ -81,7 +72,7 @@ a6b3f4d0-8860-4fdc-8a7f-b49f58ed0916,08/05/2026 14:00:00,ISM Services Prices Pai
 cf42ff73-0dee-447a-b454-c9483d1c030d,08/06/2026 12:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
 12ad0dd0-838b-43cb-ba5a-22c0bff3464f,08/06/2026 12:30:00,Nonfarm Productivity,HIGH,USD,Release,0.18,Labor Market
 07a226ef-d179-4a97-a9b0-edef2a674604,08/06/2026 12:30:00,Unit Labor Costs,HIGH,USD,Release,0.18,Labor Market
-dea0b895-3071-41fa-bc48-43a8977230fb,08/06/2026 12:30:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
+dea0b895-3071-41fa-bc48-43a8977230fb,08/06/2026 14:00:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
 1e958063-3733-47d9-b434-9ebf8adb242d,08/06/2026 14:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 7f89b507-bf1f-4aa2-8543-f3f1d3645162,08/06/2026 15:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 6bb8c905-31aa-4b28-9e05-cf1fa33bac14,08/07/2026 12:30:00,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market

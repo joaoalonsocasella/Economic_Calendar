@@ -1,11 +1,11 @@
 Id,Start,Name,Impact,Currency
 429363a6-661f-4c78-8117-9cf415d3ce08,08/03/2026 07:00:00,S&P Global Manufacturing PMI,LOW,PLN
 4e7a83b7-c8b6-4d55-8982-bd6340b81a63,08/07/2026 12:00:00,Central Bank FX Reserves,LOW,PLN
+b37e60fe-da71-4aa6-8fc0-13c923aee352,08/13/2026 07:30:00,Consumer Price Index (MoM),LOW,PLN
+15a03bbf-b26f-47bf-9bcb-ff75dfab2418,08/13/2026 07:30:00,Consumer Price Index (YoY),LOW,PLN
 c35b3de1-933d-4aeb-956a-38d7bbd3eb81,08/13/2026 08:00:00,Gross Domestic Product Qtr (YoY),LOW,PLN
-b37e60fe-da71-4aa6-8fc0-13c923aee352,08/14/2026 08:00:00,Consumer Price Index (MoM),LOW,PLN
-15a03bbf-b26f-47bf-9bcb-ff75dfab2418,08/14/2026 08:00:00,Consumer Price Index (YoY),LOW,PLN
-f71d272c-f0b8-4adf-9330-ef7cc9fda17a,08/14/2026 12:00:00,Current Account,LOW,PLN
-5c93d671-71ea-441d-ad0a-6c8296917a58,08/17/2026 12:00:00,Net Inflation,LOW,PLN
+f71d272c-f0b8-4adf-9330-ef7cc9fda17a,08/13/2026 12:00:00,Current Account,LOW,PLN
+5c93d671-71ea-441d-ad0a-6c8296917a58,08/14/2026 12:00:00,Net Inflation,LOW,PLN
 14211510-9c80-4449-a4e5-32b96386120b,08/20/2026 08:00:00,Corporate Sector Wages,LOW,PLN
 3a328165-17a8-48d2-b7e1-39bf1ee6bfce,08/20/2026 08:00:00,Industrial Output (YoY),LOW,PLN
 9545ddf4-be8e-45d6-92e0-695820d188a6,08/20/2026 08:00:00,Producer Price Index (YoY),LOW,PLN
