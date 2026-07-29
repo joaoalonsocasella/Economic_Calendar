@@ -1,5 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-598dfb9b-64fb-4b87-9388-abcd94bcafe2,07/28/2026 10:00:00,German Buba Monthly Report,HIGH,EUR,Release,0.85,Monetary Policy
+14c0ab6f-3a90-4f42-a0e3-d14be848547a,07/29/2026 06:00:00,Import Price Index (MoM),HIGH,EUR,Release,0.468,Trade and External
+56b136c8-4dca-4573-afc6-b92ef478ce8a,07/29/2026 06:00:00,Import Price Index (YoY),HIGH,EUR,Release,0.468,Trade and External
 83b9624e-4f61-4f04-8d84-c684ebf0f273,07/29/2026 09:30:00,10-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 84c0c1f3-28c6-44f2-af8d-6fe1af5e0f07,07/30/2026 08:00:00,Baden-Wuerttemberg CPI (MoM),HIGH,EUR,Release,0.807,Inflation
 c07bffaf-2a5e-4872-9aaa-2ec5c3d832b4,07/30/2026 08:00:00,Baden-Wuerttemberg CPI (YoY),HIGH,EUR,Release,0.807,Inflation
@@ -20,8 +21,6 @@ de58d9f5-1d5a-4722-a108-4f7c52045db9,07/30/2026 12:00:00,Consumer Price Index (M
 df8bd3ce-2b75-4fd7-a502-d8187dad32a1,07/30/2026 12:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 e24fd466-105a-40a1-b3e6-48dc04f682b4,07/30/2026 12:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 bccba7a9-18e8-4cd3-a3ba-b5196c1821e4,07/30/2026 12:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
-14c0ab6f-3a90-4f42-a0e3-d14be848547a,07/31/2026 06:00:00,Import Price Index (MoM),HIGH,EUR,Release,0.468,Trade and External
-56b136c8-4dca-4573-afc6-b92ef478ce8a,07/31/2026 06:00:00,Import Price Index (YoY),HIGH,EUR,Release,0.468,Trade and External
 459da8a4-c8ed-472c-bc93-785e9a013c52,07/31/2026 07:55:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
 6391eba2-17ca-406b-ab7f-a7152a0589ac,07/31/2026 07:55:00,Unemployment Rate s.a.,HIGH,EUR,Release,0.765,Labor Market
 bad88b6b-46c6-4dc2-a44a-cdb0a45309bd,08/03/2026 06:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
