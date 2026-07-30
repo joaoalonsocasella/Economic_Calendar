@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-41e757b0-f7b5-4387-866a-199a05d0d849,07/29/2026 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth
-32263d81-40da-4054-a419-015e68438a17,07/29/2026 23:50:00,Foreign Investment in Japan Stocks,HIGH,JPY,Release,0.17,Growth
 bb70b63c-1397-4d97-a9ad-a203a941a9c4,07/30/2026 05:00:00,Consumer Confidence Index,MEDIUM,JPY,Release,0.14,Confidence
 bc9e7188-f7a1-4183-8577-b57a0798cc58,07/30/2026 23:30:00,Jobs / Applicants Ratio,HIGH,JPY,Release,0.18,Labor Market
 94c890f5-977a-4eeb-ae01-92b949c08089,07/30/2026 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
@@ -474,3 +472,9 @@ d7bf33e4-7f6a-4903-892d-8b3db3912d6d,06/30/2027 23:50:00,Tankan Non - Manufactur
 a41732ab-7645-414a-bd2a-38cbce51ccb8,07/29/2027 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
 a39eba07-6836-4d57-b54b-b2d6c000c8a6,07/29/2027 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY,Release,0.19,Inflation
 42afd2d9-d0ca-4565-ad99-7e0c0b327cfe,07/29/2027 23:30:00,Tokyo CPI ex Fresh Food (YoY),HIGH,JPY,Release,0.19,Inflation
+7f247c19-89cb-4a43-8ad9-d760c04a0a99,08/15/2027 23:50:00,Gross Domestic Product (QoQ),HIGH,JPY,Release,0.17,Growth
+04096a21-5ba5-4956-b95c-50ac66a8c710,08/15/2027 23:50:00,Gross Domestic Product Annualized,HIGH,JPY,Release,0.17,Growth
+dabc4caf-e5be-432a-982e-cd0f6ad2ee64,08/15/2027 23:50:00,Gross Domestic Product Deflator (YoY),HIGH,JPY,Release,0.19,Inflation
+6955ed39-e826-4e02-9de4-6399ac3d5336,08/30/2027 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
+64da15f4-d542-4051-9272-7f122180f73b,08/30/2027 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY,Release,0.19,Inflation
+380e305d-6078-4b94-9b0d-77ce4d53ecf9,08/30/2027 23:30:00,Tokyo CPI ex Fresh Food (YoY),HIGH,JPY,Release,0.19,Inflation

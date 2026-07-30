@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-bbbebf25-eb5a-4579-a53d-b81ebe5b0e03,07/29/2026 17:30:00,BoC Summary of Deliberations,MEDIUM,CAD
 bdc3b376-32ae-4b6a-8c2e-8df576af3154,07/31/2026 12:30:00,Gross Domestic Product (MoM),MEDIUM,CAD
 b9ca29e0-6e44-4fa6-8eda-89f77b28ed33,08/04/2026 12:30:00,Exports,LOW,CAD
 a9d45df1-2ebc-4200-bed2-f20b88ceb2cd,08/04/2026 12:30:00,Imports,LOW,CAD
@@ -47,7 +46,6 @@ c43abc7a-ee05-448e-aee2-9b50299d7787,09/04/2026 12:30:00,Participation Rate,LOW,
 f7950b86-acc7-4fa2-9d01-4a22f71eb425,09/04/2026 12:30:00,Unemployment Rate,HIGH,CAD
 2cb4b718-4aa3-4aa7-86e5-301aa49a5a2f,09/08/2026 14:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD
 af2143e3-beb1-46cd-9792-95f9fef11e92,09/08/2026 14:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD
-7398368c-a2d2-429a-a240-91bc74dbdedf,09/11/2026 12:30:00,Building Permits (MoM),LOW,CAD
 d457cbdd-1830-4673-825b-4fce0e9e8ad7,09/14/2026 12:30:00,BoC Consumer Price Index Core (MoM),MEDIUM,CAD
 f5923e32-a59a-422e-84c9-475a3fbec742,09/14/2026 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD
 b881d1aa-f488-43e7-9acd-ca7c5eeea12b,09/14/2026 12:30:00,Consumer Price Index - Core (MoM),LOW,CAD
@@ -56,6 +54,7 @@ d619ff96-0ed6-4e5c-a299-300b33f3e1fe,09/14/2026 12:30:00,Consumer Price Index (M
 881fc6a1-59f3-4cd4-8a71-326d7a92a36f,09/14/2026 12:30:00,Manufacturing Sales (MoM),LOW,CAD
 c0b059fc-e317-426d-809b-9008b8521a8d,09/15/2026 12:30:00,Wholesale Sales (MoM),LOW,CAD
 f4b7e052-6b6d-4259-80ba-c68d99c7362e,09/16/2026 12:15:00,Housing Starts s.a (YoY),LOW,CAD
+7398368c-a2d2-429a-a240-91bc74dbdedf,09/16/2026 12:30:00,Building Permits (MoM),LOW,CAD
 0cb7c47a-fad2-4e70-be36-3d4f51d16e11,09/16/2026 17:30:00,BoC Summary of Deliberations,MEDIUM,CAD
 d6813c9a-abcb-4448-9e10-5ee0c34c1d74,09/17/2026 12:30:00,Canadian Portfolio Investment in Foreign Securities,LOW,CAD
 96509184-0f7c-4dfe-9bfe-89544032c722,09/17/2026 12:30:00,Employment Insurance Beneficiaries Change (MoM),LOW,CAD
@@ -103,9 +102,9 @@ ca541175-42f2-4ff7-afa4-34063bf55c41,10/28/2026 13:45:00,BoC Monetary Policy Sta
 1b5432e7-7e89-496e-a359-c94e72e5bdba,10/30/2026 12:30:00,Gross Domestic Product (MoM),MEDIUM,CAD
 4252c666-55b8-4d2d-bf5d-0760a91a1812,11/01/2026 07:00:00,Daylight Saving Time ends,NONE,CAD
 f1f907e1-0253-4525-b536-e577d3aee3df,11/02/2026 14:30:00,S&P Global Manufacturing PMI,MEDIUM,CAD
-ef8bd21d-788c-4ffa-92d3-23033cb1af0c,11/05/2026 12:30:00,Exports,LOW,CAD
-990358e7-a27a-4f45-8106-06c3bf165173,11/05/2026 12:30:00,Imports,LOW,CAD
-36acbaa9-6f06-497f-ad50-1853e6e2fdd7,11/05/2026 12:30:00,International Merchandise Trade,LOW,CAD
+ef8bd21d-788c-4ffa-92d3-23033cb1af0c,11/04/2026 12:30:00,Exports,LOW,CAD
+990358e7-a27a-4f45-8106-06c3bf165173,11/04/2026 12:30:00,Imports,LOW,CAD
+36acbaa9-6f06-497f-ad50-1853e6e2fdd7,11/04/2026 12:30:00,International Merchandise Trade,LOW,CAD
 ec94e324-5fe0-48b8-aa33-7c4754124a8f,11/05/2026 14:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD
 3429732b-052e-4a61-a8be-cc5ff900b594,11/05/2026 14:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD
 7bcb9ebf-fdaf-4c53-9d2a-67d084e0935e,11/06/2026 13:30:00,Average Hourly Wages (YoY),MEDIUM,CAD
@@ -170,17 +169,17 @@ a4aa9f03-caf4-4269-ad61-f9029e5a966c,12/22/2026 13:30:00,New Housing Price Index
 42fc0965-a8a0-42f1-84fc-0017bfd9627d,12/23/2026 13:30:00,Gross Domestic Product (MoM),MEDIUM,CAD
 f2ebe0c2-0565-496a-b695-b28c6df00898,12/23/2026 18:30:00,BoC Summary of Deliberations,MEDIUM,CAD
 ab58410c-dc1f-4f8f-b816-1d16ac7ab534,01/04/2027 14:30:00,S&P Global Manufacturing PMI,MEDIUM,CAD
-f208c242-6d02-4ce9-98db-a17a1309c633,01/07/2027 13:30:00,Exports,LOW,CAD
-7aee43b2-f0c6-4828-adaf-12da48815b33,01/07/2027 13:30:00,Imports,LOW,CAD
-c904c5e9-134d-42d4-b503-c1df001ed0c7,01/07/2027 13:30:00,International Merchandise Trade,LOW,CAD
+f208c242-6d02-4ce9-98db-a17a1309c633,01/06/2027 13:30:00,Exports,LOW,CAD
+7aee43b2-f0c6-4828-adaf-12da48815b33,01/06/2027 13:30:00,Imports,LOW,CAD
+c904c5e9-134d-42d4-b503-c1df001ed0c7,01/06/2027 13:30:00,International Merchandise Trade,LOW,CAD
 e273a4a6-5080-4e59-abcc-764f17e7baab,01/07/2027 15:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD
 684317b2-25be-4116-87fc-b7ee237b2b76,01/07/2027 15:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD
 215db18f-c934-46ef-a51f-387b4b8437c5,01/08/2027 13:30:00,Average Hourly Wages (YoY),MEDIUM,CAD
 03114292-4d79-41b2-91c8-f0e292caa1a1,01/08/2027 13:30:00,Net Change in Employment,HIGH,CAD
 7f5c003b-6102-45a4-a80b-4aaf4f14ee58,01/08/2027 13:30:00,Participation Rate,LOW,CAD
 b136e3ad-d366-4207-87e3-3a00d8bddb22,01/08/2027 13:30:00,Unemployment Rate,HIGH,CAD
-b66d12d5-7478-4a35-984e-3fc03c15563a,01/12/2027 13:30:00,Building Permits (MoM),LOW,CAD
 76bcd192-425e-40ef-97aa-baf4845309dc,01/14/2027 13:30:00,Wholesale Sales (MoM),LOW,CAD
+b66d12d5-7478-4a35-984e-3fc03c15563a,01/15/2027 13:30:00,Building Permits (MoM),LOW,CAD
 b1085918-d3ae-4b20-9337-85eb94051c62,01/15/2027 13:30:00,Manufacturing Sales (MoM),LOW,CAD
 e7ef6268-3985-482c-8ca5-8e4e6648ad80,01/18/2027 13:15:00,Housing Starts s.a (YoY),LOW,CAD
 844f895d-4b21-4d68-9645-84864902ed54,01/18/2027 13:30:00,BoC Consumer Price Index Core (MoM),MEDIUM,CAD
@@ -258,3 +257,14 @@ b19fd9f1-581c-4f03-a6e2-59b7f501ce0e,07/20/2027 12:30:00,BoC Consumer Price Inde
 e42b7731-211d-4001-9580-373f42bbd8af,07/20/2027 12:30:00,Consumer Price Index - Core (MoM),LOW,CAD
 02fc2214-9249-4363-a23e-022873407049,07/20/2027 12:30:00,Consumer Price Index (MoM),MEDIUM,CAD
 50cac9c2-cdea-4b48-8fa2-ff778262b1b2,07/20/2027 12:30:00,Consumer Price Index (YoY),MEDIUM,CAD
+4b0eb706-2e65-471e-bf6d-259f163af476,08/13/2027 12:30:00,Average Hourly Wages (YoY),MEDIUM,CAD
+53c7704c-55e7-4b4a-a366-7acad3da8169,08/13/2027 12:30:00,Net Change in Employment,HIGH,CAD
+0984e361-10ea-4af1-b6ec-910a383d4b5f,08/13/2027 12:30:00,Participation Rate,LOW,CAD
+9d2249bb-e649-4407-84b7-a7370b9c1a63,08/13/2027 12:30:00,Unemployment Rate,HIGH,CAD
+6418e869-0d68-4bc6-9ebd-85b63ff2fc76,08/19/2027 12:30:00,BoC Consumer Price Index Core (MoM),MEDIUM,CAD
+fceafa84-c64e-41dc-9051-a4d17819e194,08/19/2027 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD
+0b4c995a-ce61-4257-8192-65ce48b14d35,08/19/2027 12:30:00,Consumer Price Index - Core (MoM),LOW,CAD
+771671d2-2aa3-4eb7-b0ff-6b1a60b788f5,08/19/2027 12:30:00,Consumer Price Index (MoM),MEDIUM,CAD
+97c48c60-956f-4e16-bfd1-1cfdac91fed0,08/19/2027 12:30:00,Consumer Price Index (YoY),MEDIUM,CAD
+af5b61d8-5b01-4f80-acd7-01d5b44fedc9,08/31/2027 12:30:00,Gross Domestic Product (QoQ),MEDIUM,CAD
+b08abb47-af9b-4d66-b868-277f6dba50bb,08/31/2027 12:30:00,Gross Domestic Product Annualized,HIGH,CAD

@@ -1,7 +1,4 @@
 Id,Start,Name,Impact,Currency
-14c0ab6f-3a90-4f42-a0e3-d14be848547a,07/29/2026 06:00:00,Import Price Index (MoM),LOW,EUR
-56b136c8-4dca-4573-afc6-b92ef478ce8a,07/29/2026 06:00:00,Import Price Index (YoY),LOW,EUR
-83b9624e-4f61-4f04-8d84-c684ebf0f273,07/29/2026 09:30:00,10-y Bond Auction,LOW,EUR
 84c0c1f3-28c6-44f2-af8d-6fe1af5e0f07,07/30/2026 08:00:00,Baden-Wuerttemberg CPI (MoM),LOW,EUR
 c07bffaf-2a5e-4872-9aaa-2ec5c3d832b4,07/30/2026 08:00:00,Baden-Wuerttemberg CPI (YoY),LOW,EUR
 e6fe8767-5743-40b5-b5b5-0e32b6c38d1c,07/30/2026 08:00:00,Bavaria CPI (MoM),LOW,EUR
@@ -526,3 +523,13 @@ c7660cba-93f9-49a1-b16e-380870b32864,07/30/2027 08:00:00,Saxony CPI (YoY),LOW,EU
 a686fe05-a312-4c23-8fe6-66a3237b28df,07/30/2027 12:00:00,Consumer Price Index (YoY),HIGH,EUR
 7adf28f3-e539-4c93-ad01-38d435162c96,07/30/2027 12:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 16a4b6d7-6f13-435a-85a2-4ac850638389,07/30/2027 12:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+7a6f0863-5fd0-4f04-8fcc-28890c0c5978,08/02/2027 07:30:00,HCOB Manufacturing PMI,MEDIUM,EUR
+3339e019-281c-48ce-af32-d5c83bf29a83,08/04/2027 07:30:00,HCOB Composite PMI,MEDIUM,EUR
+428e34e8-2664-4611-9488-44c8d24b1d0c,08/04/2027 07:30:00,HCOB Services PMI,MEDIUM,EUR
+8c9ef5dd-b344-4016-a055-40e98cdffc90,08/13/2027 06:00:00,Consumer Price Index (MoM),LOW,EUR
+43eba03c-6daa-4d5c-8cb6-72c86c9d1455,08/13/2027 06:00:00,Consumer Price Index (YoY),LOW,EUR
+422d9f34-448a-45ed-93cb-43b9c62817b3,08/13/2027 06:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
+a9bbd40f-3f4f-48a8-872a-c3022af8bf56,08/13/2027 06:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+675f623a-3730-4927-9aef-4782a538580f,08/24/2027 06:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR
+2c42749f-3422-42f8-bd33-8eba81f8e4b0,08/24/2027 06:00:00,Gross Domestic Product (YoY),MEDIUM,EUR
+0915d5f2-79b8-49f1-9053-81fc0c3c9545,08/24/2027 06:00:00,Gross Domestic Product w.d.a (YoY),MEDIUM,EUR

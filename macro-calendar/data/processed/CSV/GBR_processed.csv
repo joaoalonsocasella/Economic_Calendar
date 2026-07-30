@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-b9f7ef8c-0062-4981-b758-2c9efaecfe6a,07/29/2026 08:30:00,Consumer Credit,MEDIUM,GBP,Release,0.14,Confidence
-8e6f8e3c-495e-4c90-833c-8d461fa0e0db,07/29/2026 08:30:00,M4 Money Supply (MoM),HIGH,GBP,Release,0.19,Inflation
-29932fee-d6f3-4646-a607-6f65adb1a1a5,07/29/2026 08:30:00,M4 Money Supply (YoY),HIGH,GBP,Release,0.19,Inflation
-c20486a3-d327-4767-91eb-9f365a773062,07/29/2026 08:30:00,Mortgage Approvals,LOW,GBP,Release,0.07,Housing
-59a73da3-ed24-42e9-80f8-90271abd5bb9,07/29/2026 08:30:00,Net Lending to Individuals (MoM),MEDIUM,GBP,Release,0.11,Trade and External
 509d028b-7651-4ec9-b681-5be5b8c0ea07,07/30/2026 11:00:00,BoE Interest Rate Decision,MEDIUM,GBP,Speech,0.13,Monetary Policy
 02f0f0f2-b746-450b-9fe1-618eaa42d16f,07/30/2026 11:00:00,BoE Minutes,HIGH,GBP,Release,0.2,Monetary Policy
 a7d30a75-32c5-4758-81a5-b92cc9cfbaf5,07/30/2026 11:00:00,BoE Monetary Policy Report,MEDIUM,GBP,Speech,0.13,Monetary Policy

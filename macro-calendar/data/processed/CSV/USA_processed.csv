@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-9f51b330-2640-475d-a05c-65be4c7953dd,07/29/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-d4c880ca-5377-4055-a0b0-0e45ed7c614c,07/29/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
-c402526a-3d94-4230-9340-6ed05f4f4d40,07/29/2026 18:00:00,Fed Interest Rate Decision,MEDIUM,USD,Speech,0.13,Monetary Policy
-8e61a6fd-f7dc-4425-97db-5c139b16e086,07/29/2026 18:00:00,Fed Monetary Policy Statement,MEDIUM,USD,Speech,0.13,Monetary Policy
-08e85942-07f1-4c23-9ca3-b7998339d217,07/29/2026 18:30:00,FOMC Press Conference,MEDIUM,USD,Speech,0.13,Monetary Policy
 34766125-0bee-4d23-84d4-5b664a9659fc,07/30/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 8be895f8-cc27-40ba-ae80-4081c5410be5,07/30/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 51d8a2a2-8687-4fc7-8612-ee0a16371573,07/30/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation

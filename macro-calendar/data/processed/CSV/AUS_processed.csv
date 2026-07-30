@@ -1,12 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-ad429dba-5b32-4fa6-b2a9-9ce88dce2bf9,07/29/2026 01:30:00,Consumer Price Index (MoM),HIGH,AUD,Release,0.19,Inflation
-2dc7213f-dd2f-4054-9c42-15b120672c39,07/29/2026 01:30:00,Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
-1d09a3c6-20ed-4f41-94f7-59a9337b9649,07/29/2026 01:30:00,Quarterly Consumer Price Index (QoQ),HIGH,AUD,Release,0.19,Inflation
-c50e1518-5f61-4231-a8c0-b532e9040865,07/29/2026 01:30:00,Quarterly Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
-e15fcb1f-f4bf-468d-b3be-47150e62ed84,07/29/2026 01:30:00,Quarterly RBA Trimmed Mean CPI (QoQ),HIGH,AUD,Release,0.19,Inflation
-1edbe5b6-7fa5-499f-9cf7-1eba7eebffbb,07/29/2026 01:30:00,Quarterly RBA Trimmed Mean CPI (YoY),HIGH,AUD,Release,0.19,Inflation
-46c58be3-858f-4009-b420-a0e04a82e4d8,07/29/2026 01:30:00,Trimmed Mean CPI (MoM),HIGH,AUD,Release,0.19,Inflation
-f787885f-7f59-4bab-8c94-2b0362c3e157,07/29/2026 01:30:00,Trimmed Mean CPI (YoY),HIGH,AUD,Release,0.19,Inflation
 27eb6baa-7464-4350-a1a8-223067e59791,07/30/2026 01:30:00,Building Permits (MoM),LOW,AUD,Release,0.07,Housing
 ae75e085-39f5-4e80-805e-f38ec2b231a9,07/30/2026 01:30:00,Building Permits (YoY),LOW,AUD,Release,0.07,Housing
 df75c02f-1d97-4433-8207-6ef87454f848,07/30/2026 01:30:00,Export Price Index (QoQ),MEDIUM,AUD,Release,0.11,Trade and External
