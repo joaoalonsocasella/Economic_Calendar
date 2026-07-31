@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-6a09abbb-92f6-4836-b462-96f40ffde5a1,07/30/2026 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-b1b14f80-24a2-4d73-ac3f-4b0b4b4320b1,07/30/2026 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-9469254f-e061-4c3a-9d82-f05faf9b6bd8,07/30/2026 07:00:00,Gross Domestic Product - Estimated (QoQ),HIGH,EUR,Release,0.722,Growth
-abda3b56-70dc-4e3a-9fdd-9bd64a945ca8,07/30/2026 07:00:00,Gross Domestic Product - Estimated (YoY),HIGH,EUR,Release,0.722,Growth
-6cf8a177-78b7-425b-9f5b-e581c57c766a,07/30/2026 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
-d7ee263f-9513-4009-8c2b-88ee78c368b5,07/30/2026 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
 804ad6d2-6d16-46c0-8965-83211f6920fb,07/31/2026 08:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
 4fbf23dc-3840-4328-b692-a48ac65bb1ba,08/03/2026 07:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 e9a7a545-baa2-4908-b271-a3c0154a4b41,08/04/2026 07:00:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market

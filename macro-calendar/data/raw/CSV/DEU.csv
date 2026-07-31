@@ -1,23 +1,4 @@
 Id,Start,Name,Impact,Currency
-84c0c1f3-28c6-44f2-af8d-6fe1af5e0f07,07/30/2026 08:00:00,Baden-Wuerttemberg CPI (MoM),LOW,EUR
-c07bffaf-2a5e-4872-9aaa-2ec5c3d832b4,07/30/2026 08:00:00,Baden-Wuerttemberg CPI (YoY),LOW,EUR
-e6fe8767-5743-40b5-b5b5-0e32b6c38d1c,07/30/2026 08:00:00,Bavaria CPI (MoM),LOW,EUR
-f8d63dab-442b-4b84-8a5b-ecd5f48707ec,07/30/2026 08:00:00,Bavaria CPI (YoY),LOW,EUR
-a0601ea0-2f72-4912-bc31-3d8af889bb39,07/30/2026 08:00:00,Brandenburg CPI (MoM),LOW,EUR
-803dfeb2-91ca-4ca5-9b98-661c63f8e482,07/30/2026 08:00:00,Brandenburg CPI (YoY),LOW,EUR
-8be7d905-cc24-4855-889d-27a7a6ac6682,07/30/2026 08:00:00,Gross Domestic Product (QoQ),HIGH,EUR
-1d0fb1f6-5f1b-458e-8d44-3bb7ba0a148f,07/30/2026 08:00:00,Gross Domestic Product (YoY),HIGH,EUR
-16cf5b96-08fb-48c4-9827-85452d82f5a3,07/30/2026 08:00:00,Gross Domestic Product w.d.a (YoY),MEDIUM,EUR
-54abecd1-786c-4b83-99df-60581ce11ec5,07/30/2026 08:00:00,Hesse CPI (MoM),LOW,EUR
-4c02a84a-fbbf-45a1-85de-d64152a726cd,07/30/2026 08:00:00,Hesse CPI (YoY),LOW,EUR
-c2d7a73c-0277-49fb-a822-19a2e23f22d8,07/30/2026 08:00:00,North Rhine-Westphalia CPI (MoM),LOW,EUR
-1b66cac8-2cd9-4514-b8fc-ff4b39479de4,07/30/2026 08:00:00,North Rhine-Westphalia CPI (YoY),LOW,EUR
-623a5f5a-ee6d-4cda-b88e-c9a6ae59b4fc,07/30/2026 08:00:00,Saxony CPI (MoM),LOW,EUR
-2ed97be3-13ad-4c2d-8de9-ad52dc7de5e5,07/30/2026 08:00:00,Saxony CPI (YoY),LOW,EUR
-de58d9f5-1d5a-4722-a108-4f7c52045db9,07/30/2026 12:00:00,Consumer Price Index (MoM),HIGH,EUR
-df8bd3ce-2b75-4fd7-a502-d8187dad32a1,07/30/2026 12:00:00,Consumer Price Index (YoY),HIGH,EUR
-e24fd466-105a-40a1-b3e6-48dc04f682b4,07/30/2026 12:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
-bccba7a9-18e8-4cd3-a3ba-b5196c1821e4,07/30/2026 12:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
 459da8a4-c8ed-472c-bc93-785e9a013c52,07/31/2026 07:55:00,Unemployment Change,MEDIUM,EUR
 6391eba2-17ca-406b-ab7f-a7152a0589ac,07/31/2026 07:55:00,Unemployment Rate s.a.,MEDIUM,EUR
 bad88b6b-46c6-4dc2-a44a-cdb0a45309bd,08/03/2026 06:00:00,Retail Sales (MoM),MEDIUM,EUR

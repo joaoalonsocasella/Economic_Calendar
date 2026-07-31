@@ -1,19 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-34766125-0bee-4d23-84d4-5b664a9659fc,07/30/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
-8be895f8-cc27-40ba-ae80-4081c5410be5,07/30/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-51d8a2a2-8687-4fc7-8612-ee0a16371573,07/30/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-691dba55-1d57-46ed-827f-ea4436e4aaea,07/30/2026 12:30:00,Core Personal Consumption Expenditures (QoQ),HIGH,USD,Release,0.17,Growth
-7d78b24d-fc58-49ae-88b6-2480213cd42b,07/30/2026 12:30:00,Gross Domestic Product Annualized,HIGH,USD,Release,0.17,Growth
-ff60a0c0-4546-4fd6-b3dd-587405617889,07/30/2026 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD,Release,0.11,Trade and External
-71d75a19-77cf-4159-bd22-07a4f9321225,07/30/2026 12:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
-f21b2ba3-e073-41a5-9bd5-e0115fb63b78,07/30/2026 12:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
-12c10f98-3261-4510-9cf7-99b47be881a3,07/30/2026 12:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-08c4a8fc-c0e0-4f97-8ce0-7749848d0663,07/30/2026 12:30:00,Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-18c44bb7-a1bb-4173-ab61-164d900bdb81,07/30/2026 12:30:00,Personal Consumption Expenditures Prices (QoQ),HIGH,USD,Release,0.17,Growth
-11410fbd-6c06-4865-8e74-e1f691c8f613,07/30/2026 12:30:00,Personal Income (MoM),HIGH,USD,Release,0.17,Growth
-3850296e-4327-4de2-b7a3-e09cdd8d9342,07/30/2026 12:30:00,Personal Spending,HIGH,USD,Release,0.17,Growth
-9c9c06ac-a01e-4bd1-9f23-7803f42c0d98,07/30/2026 14:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
-28212ee6-2c60-42e8-b069-104ccd93aff6,07/30/2026 15:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 57ff13de-caa4-4b8e-ab17-2d66a7cefd1b,07/31/2026 12:30:00,Employment Cost Index,HIGH,USD,Release,0.18,Labor Market
 bbb1b88d-cc1d-433b-bb13-8109b3533513,07/31/2026 13:45:00,Chicago PMI,MEDIUM,USD,Release,0.14,Confidence
 8bce89fc-fa59-413b-8659-ddfcb0f09156,07/31/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence

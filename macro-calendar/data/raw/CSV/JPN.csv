@@ -1,18 +1,7 @@
 Id,Start,Name,Impact,Currency
-bb70b63c-1397-4d97-a9ad-a203a941a9c4,07/30/2026 05:00:00,Consumer Confidence Index,LOW,JPY
-bc9e7188-f7a1-4183-8577-b57a0798cc58,07/30/2026 23:30:00,Jobs / Applicants Ratio,LOW,JPY
-94c890f5-977a-4eeb-ae01-92b949c08089,07/30/2026 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
-3e38e18a-4663-42bd-8b2b-253f2a675b41,07/30/2026 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
-e7975cb5-8a4b-4348-bdee-d0142a496043,07/30/2026 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
-05efd5b3-f5b3-42f3-9a00-56630dca8dde,07/30/2026 23:30:00,Unemployment Rate,MEDIUM,JPY
-c8546923-450d-44ba-99ad-7aa458885dd1,07/30/2026 23:50:00,Industrial Production (MoM),LOW,JPY
-e49ac3f9-d9a4-46cd-8c0f-a2a75585d3cb,07/30/2026 23:50:00,Industrial Production (YoY),LOW,JPY
-339dde3e-9231-4354-8220-80579ecedda5,07/30/2026 23:50:00,Large Retailer Sales,MEDIUM,JPY
-fb5a642a-87ae-430a-908f-77bd8b0ab2dc,07/30/2026 23:50:00,Retail Trade (YoY),MEDIUM,JPY
-ffdee0c4-d88d-4b40-b2dc-44f735c5dd07,07/30/2026 23:50:00,Retail Trade s.a (MoM),MEDIUM,JPY
-f8ff114f-2103-4093-8708-d377422a9873,07/31/2026 03:00:00,BoJ Interest Rate Decision,HIGH,JPY
 a5573d8b-0cdf-434f-b84b-cdd51e69af27,07/31/2026 03:00:00,BoJ Monetary Policy Statement,HIGH,JPY
 96bbb197-e5ae-4b02-b292-1972cd36a4ce,07/31/2026 03:00:00,BoJ Outlook Report,MEDIUM,JPY
+f8ff114f-2103-4093-8708-d377422a9873,07/31/2026 03:11:27,BoJ Interest Rate Decision,HIGH,JPY
 5bee8ee0-c75c-4892-bd6e-254c9f3fd14b,07/31/2026 05:00:00,Annualized Housing Starts,LOW,JPY
 f8f4a7ff-a4bd-4920-ba3c-546a4c117fbe,07/31/2026 05:00:00,Construction Orders (YoY),LOW,JPY
 15112952-3cc7-4231-983e-a314407b785e,07/31/2026 05:00:00,Housing Starts (YoY),LOW,JPY
