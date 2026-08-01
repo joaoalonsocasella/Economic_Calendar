@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-b556c2ce-0126-46d3-817c-3c34756a03a4,07/31/2026 09:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
-97cf5aa9-d210-406e-b666-03392604c9ff,07/31/2026 09:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.807,Inflation
-42e971bc-6fe7-4e33-84af-1ca62af4cc6b,07/31/2026 09:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
-3dfc7ead-ed18-4641-ad0d-3e0507b622db,07/31/2026 09:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
-63549796-ca7c-449b-bd59-5c8b8ffb2d3d,07/31/2026 09:20:00,ECB's Kocher speech,HIGH,EUR,Speech,0.552,Monetary Policy
-738d1635-1854-47e7-9f83-5858512d1ac1,07/31/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 596e0cb1-da8e-4084-8b3e-39e2fb0dd59d,08/03/2026 08:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 c81dd8fd-b878-4fdf-86a6-3845097f0884,08/05/2026 08:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 dc6c37ac-6d71-43e3-8109-898dc244ae3c,08/05/2026 08:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth

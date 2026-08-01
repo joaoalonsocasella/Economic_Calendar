@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-c08d26c2-549e-4c70-8e28-d8b908266bac,07/31/2026 08:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
-80f630a8-ddd4-4477-94b8-b1f1855c1e47,07/31/2026 08:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
-acb57486-784a-4ed6-b729-da7d0cd2ef80,07/31/2026 09:00:00,Consumer Price Index (EU Norm) (MoM),HIGH,EUR,Release,0.807,Inflation
-6055a4c6-b052-4019-a173-4f181074de63,07/31/2026 09:00:00,Consumer Price Index (EU Norm) (YoY),HIGH,EUR,Release,0.807,Inflation
-c4ec6b45-d8cf-4013-b57a-b435b24e051f,07/31/2026 09:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-644845b5-a040-4ead-8543-5ea0fd524444,07/31/2026 09:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 d5443289-9b0e-48f6-9800-20af47790a8c,08/03/2026 07:45:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 2ab01eaf-a9bf-454a-9b10-939481425c1b,08/04/2026 08:00:00,Retail Sales n.s.a (YoY),HIGH,EUR,Release,0.722,Growth
 0de91796-cf5b-40c5-a762-b7642ddf0651,08/04/2026 08:00:00,Retail Sales s.a. (MoM),HIGH,EUR,Release,0.722,Growth
