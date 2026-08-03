@@ -1,4 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
+aca8733e-c435-4322-9146-80282654fbf5,08/03/2026 10:15:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
 4523d351-b1d2-46d4-adab-f966bab64d18,08/03/2026 13:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 5e829d01-04e6-4f87-8432-64335b716935,08/03/2026 14:00:00,Construction Spending (MoM),HIGH,USD,Release,0.17,Growth
 05ae36f0-1f02-4729-a7cb-d8de2581db77,08/03/2026 14:00:00,ISM Manufacturing Employment Index,HIGH,USD,Release,0.18,Labor Market
@@ -26,6 +27,7 @@ d3a8abea-c61b-4c29-8ccb-8b1987e7b03c,08/05/2026 14:00:00,ISM Services New Orders
 d5dc5aaa-94ed-487f-82a4-1ae690b3f0c7,08/05/2026 14:00:00,ISM Services PMI,HIGH,USD,Release,0.17,Growth
 a6b3f4d0-8860-4fdc-8a7f-b49f58ed0916,08/05/2026 14:00:00,ISM Services Prices Paid,MEDIUM,USD,Release,0.14,Confidence
 3149c61c-f1c3-4c4e-b3cc-3c5460490efc,08/05/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
+bc4b30b7-8658-436c-b465-d18d95783a70,08/05/2026 20:05:00,Fed's Cook speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 5854b34c-b312-412c-9081-261f7cb16790,08/06/2026 11:30:00,Challenger Job Cuts,HIGH,USD,Release,0.18,Labor Market
 2aa28ac4-ffe8-412a-a96b-40368e41747e,08/06/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 21d054e7-c1af-4eb9-85f0-f3cc29088500,08/06/2026 12:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
@@ -48,6 +50,7 @@ f52a7121-21db-4590-b677-f77e6308ff6a,08/07/2026 12:30:00,Unemployment Rate,HIGH,
 86d05523-06e0-4b4d-a9f9-6f3d05a1efc4,08/07/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 dec97eeb-b801-4ce6-b701-7749e571a7d5,08/07/2026 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 31839ee4-5cc6-4736-b9da-76cb4eeeecbc,08/07/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+8865ba09-a216-4ed4-a758-1f2d01a36bd6,08/08/2026 16:45:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 96c3a845-3fc5-4670-895c-4a9fb51a9609,08/10/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 a6d8b6e7-c797-4151-b26a-6ddf31aaebed,08/10/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 9ba93cb4-2d9d-4740-980f-4d0768885a3e,08/11/2026 10:00:00,NFIB Business Optimism Index,MEDIUM,USD,Release,0.14,Confidence
@@ -68,6 +71,7 @@ bcb8438d-8152-4c9b-a406-5cde3e5458a4,08/11/2026 20:30:00,API Weekly Crude Oil St
 242d633f-598a-4598-becc-630b81871bd6,08/12/2026 16:00:00,USDA WASDE Report,HIGH,USD,Release,0.2,Monetary Policy
 dcaa7d65-99e7-4209-913d-66846caa804d,08/12/2026 17:00:00,10-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 7d1dc407-a46c-4e8d-ab60-5bd3424c2733,08/12/2026 18:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
+e44e1e6e-4c1d-4431-949d-c4ff25dbc054,08/13/2026 12:15:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 3cb743a0-dc8f-4e80-9f3d-84a3fd302e4e,08/13/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 c162cf79-7718-4e7e-b092-e3473c10f65c,08/13/2026 12:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 a672f74c-e0f2-4ddf-9c91-635719fabd86,08/13/2026 12:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
