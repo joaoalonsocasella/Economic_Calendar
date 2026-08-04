@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-6acd483b-b0f4-4bb3-bd4c-77e3a45351b5,08/03/2026 00:30:00,S&P Global Manufacturing PMI,HIGH,KRW,Release,0.17,Growth
-65a794e7-d9cc-4e9a-a976-5ce03f85e69b,08/03/2026 23:00:00,Consumer Price Index Growth (MoM),HIGH,KRW,Release,0.19,Inflation
-4ec22a26-af05-46cd-9089-3ab6f3240041,08/03/2026 23:00:00,Consumer Price Index Growth (YoY),HIGH,KRW,Release,0.19,Inflation
 e97b1cba-42bd-475f-8849-04d7e3810149,08/04/2026 21:00:00,FX Reserves,LOW,KRW,Release,0.09,Money and Credit
 5badd3cb-c8e7-4026-8e48-6b5fe14da312,08/05/2026 23:00:00,Current Account Balance,MEDIUM,KRW,Release,0.11,Trade and External
 8714464e-9e06-461b-b7d4-0e1f5c07ec52,08/11/2026 23:00:00,Unemployment Rate,HIGH,KRW,Release,0.18,Labor Market

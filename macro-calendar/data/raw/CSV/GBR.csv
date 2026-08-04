@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-b97fe992-d192-469b-afd2-44d2c63a3de9,08/03/2026 08:30:00,S&P Global Manufacturing PMI,LOW,GBP
 f9d594bf-6245-43ad-b1b4-0b430f649022,08/05/2026 08:30:00,S&P Global Composite PMI,LOW,GBP
 53243d79-147e-44ec-98b3-52a98f6dc940,08/05/2026 08:30:00,S&P Global Services PMI,LOW,GBP
 285d87c6-6a92-4b73-88ba-c3e6f54d2bd2,08/06/2026 06:00:00,Lloyds House Price Index (MoM),LOW,GBP
@@ -31,6 +30,7 @@ ddbfea2d-fe18-4e01-8159-f02f98629622,08/18/2026 06:00:00,Claimant Count Change,H
 36b84e99-91f5-48df-be7c-fadb0667937b,08/18/2026 06:00:00,Claimant Count Rate,MEDIUM,GBP
 ac362dc1-9bf7-4609-ba75-2aac68d7c37a,08/18/2026 06:00:00,Employment Change (3M),HIGH,GBP
 a3a5b698-b88b-4ce7-a517-928702b7141e,08/18/2026 06:00:00,ILO Unemployment Rate (3M),HIGH,GBP
+822a25fa-f555-421a-9b58-382490d52af3,08/18/2026 09:30:00,10-y Bond Auction,LOW,GBP
 388c36d0-6c82-421c-a150-bf04c521da13,08/19/2026 06:00:00,Consumer Price Index (MoM),HIGH,GBP
 f9a9dd43-e484-4bf6-9a46-cc0fac35b21f,08/19/2026 06:00:00,Consumer Price Index (YoY),HIGH,GBP
 d3d8c835-3924-4f83-8828-ff938e7394ce,08/19/2026 06:00:00,Core Consumer Price Index (YoY),HIGH,GBP
