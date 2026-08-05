@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-b9ca29e0-6e44-4fa6-8eda-89f77b28ed33,08/04/2026 12:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
-a9d45df1-2ebc-4200-bed2-f20b88ceb2cd,08/04/2026 12:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
-213f7475-f21b-492f-8fec-ce26f8f71b66,08/04/2026 12:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
-d4922b58-3c89-4e23-a681-789cc41b2817,08/04/2026 13:30:00,S&P Global Manufacturing PMI,HIGH,CAD,Release,0.17,Growth
 2ab1f69c-4fbf-462e-9d24-7ead32c29256,08/07/2026 12:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
 827d878d-2ebc-4f12-8d97-6128c2ef5224,08/07/2026 12:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
 0b1c9e84-a12a-4e86-9a39-752f0063c28f,08/07/2026 12:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market

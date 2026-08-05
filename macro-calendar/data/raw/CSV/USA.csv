@@ -1,12 +1,5 @@
 Id,Start,Name,Impact,Currency
-cec300cc-9c50-4068-94cc-890064e0ef41,08/04/2026 12:30:00,Goods and Services Trade Balance,LOW,USD
-ccf375ea-f05c-4049-8dec-655242b56b57,08/04/2026 12:30:00,Goods Trade Balance,LOW,USD
-819c6557-14bd-4c4d-929a-4c5b1331a221,08/04/2026 12:55:00,Redbook Index (YoY),LOW,USD
-359974f8-ffdc-41e5-9819-46bfc6135d59,08/04/2026 14:00:00,Factory Orders (MoM),MEDIUM,USD
-e03a8ac8-b0ee-40f9-9561-a10943efefd5,08/04/2026 14:00:00,JOLTS Job Openings,MEDIUM,USD
-7c083885-6d6d-4137-803e-ce0d0dae93f2,08/04/2026 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
-43a20e8c-b66a-4058-aedd-56f53ceb6144,08/04/2026 15:30:00,52-Week Bill Auction,LOW,USD
-a8d424ef-3a4c-4913-9fef-93ee8974faab,08/04/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
+a8b0ce43-c731-470c-a4ca-0c1a3b7b4ff9,08/05/2026 00:00:00,Fed's Schmid speech,MEDIUM,USD
 7497ada7-a67d-4eff-b41e-f746698691f2,08/05/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 9f3a4281-094a-4c89-aa19-0c88d18d03fc,08/05/2026 12:15:00,ADP Employment Change,HIGH,USD
 f119f9dc-d28e-4629-9109-56471d67d16b,08/05/2026 13:45:00,S&P Global Composite PMI,MEDIUM,USD
