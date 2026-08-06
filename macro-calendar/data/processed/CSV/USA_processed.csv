@@ -1,16 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a8b0ce43-c731-470c-a4ca-0c1a3b7b4ff9,08/05/2026 00:00:00,Fed's Schmid speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-7497ada7-a67d-4eff-b41e-f746698691f2,08/05/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-9f3a4281-094a-4c89-aa19-0c88d18d03fc,08/05/2026 12:15:00,ADP Employment Change,HIGH,USD,Release,0.18,Labor Market
-f119f9dc-d28e-4629-9109-56471d67d16b,08/05/2026 13:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
-ab22a624-1160-4868-bc92-25e6cc1ad4ab,08/05/2026 13:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
-f26e1521-eb90-45d8-9cbd-545a89cf4ed8,08/05/2026 14:00:00,ISM Services Employment Index,HIGH,USD,Release,0.18,Labor Market
-d3a8abea-c61b-4c29-8ccb-8b1987e7b03c,08/05/2026 14:00:00,ISM Services New Orders Index,HIGH,USD,Release,0.17,Growth
-d5dc5aaa-94ed-487f-82a4-1ae690b3f0c7,08/05/2026 14:00:00,ISM Services PMI,HIGH,USD,Release,0.17,Growth
-a6b3f4d0-8860-4fdc-8a7f-b49f58ed0916,08/05/2026 14:00:00,ISM Services Prices Paid,MEDIUM,USD,Release,0.14,Confidence
-3149c61c-f1c3-4c4e-b3cc-3c5460490efc,08/05/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
-bc4b30b7-8658-436c-b465-d18d95783a70,08/05/2026 20:05:00,Fed's Cook speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-5854b34c-b312-412c-9081-261f7cb16790,08/06/2026 11:30:00,Challenger Job Cuts,HIGH,USD,Release,0.18,Labor Market
+06085f67-cd90-477e-8fa4-a3fb970b207d,08/06/2026 00:40:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+5854b34c-b312-412c-9081-261f7cb16790,08/06/2026 09:30:00,Challenger Job Cuts,HIGH,USD,Release,0.18,Labor Market
 2aa28ac4-ffe8-412a-a96b-40368e41747e,08/06/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 21d054e7-c1af-4eb9-85f0-f3cc29088500,08/06/2026 12:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 cf42ff73-0dee-447a-b454-c9483d1c030d,08/06/2026 12:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market

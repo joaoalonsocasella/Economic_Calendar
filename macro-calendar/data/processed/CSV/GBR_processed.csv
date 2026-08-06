@@ -1,9 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-f9d594bf-6245-43ad-b1b4-0b430f649022,08/05/2026 08:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
-53243d79-147e-44ec-98b3-52a98f6dc940,08/05/2026 08:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
-285d87c6-6a92-4b73-88ba-c3e6f54d2bd2,08/06/2026 06:00:00,Lloyds House Price Index (MoM),LOW,GBP,Release,0.07,Housing
-d378decd-b56e-4c33-ace1-51ff667577d4,08/06/2026 06:00:00,Lloyds House Price Index (YoY),LOW,GBP,Release,0.07,Housing
 7e421772-6430-4d8d-a996-4884116d0c48,08/06/2026 08:30:00,S&P Global Construction PMI,HIGH,GBP,Release,0.17,Growth
+285d87c6-6a92-4b73-88ba-c3e6f54d2bd2,08/07/2026 06:00:00,Lloyds House Price Index (MoM),LOW,GBP,Release,0.07,Housing
+d378decd-b56e-4c33-ace1-51ff667577d4,08/07/2026 06:00:00,Lloyds House Price Index (YoY),LOW,GBP,Release,0.07,Housing
 137f6db7-2b56-41a9-bef7-6b833a0be44b,08/07/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 0da8a3d2-3ce7-4d97-83b5-9d074a7e6fff,08/10/2026 23:01:00,BRC Like-For-Like Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
 75a2b71e-f7a6-423b-ab45-456bb83cfbe1,08/12/2026 23:01:00,RICS Housing Price Balance,LOW,GBP,Release,0.07,Housing
