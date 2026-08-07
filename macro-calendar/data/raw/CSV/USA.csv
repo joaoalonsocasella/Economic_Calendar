@@ -1,15 +1,4 @@
 Id,Start,Name,Impact,Currency
-06085f67-cd90-477e-8fa4-a3fb970b207d,08/06/2026 00:40:00,Fed's Daly speech,MEDIUM,USD
-5854b34c-b312-412c-9081-261f7cb16790,08/06/2026 09:30:00,Challenger Job Cuts,MEDIUM,USD
-2aa28ac4-ffe8-412a-a96b-40368e41747e,08/06/2026 12:30:00,Continuing Jobless Claims,LOW,USD
-21d054e7-c1af-4eb9-85f0-f3cc29088500,08/06/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
-cf42ff73-0dee-447a-b454-c9483d1c030d,08/06/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
-12ad0dd0-838b-43cb-ba5a-22c0bff3464f,08/06/2026 12:30:00,Nonfarm Productivity,MEDIUM,USD
-07a226ef-d179-4a97-a9b0-edef2a674604,08/06/2026 12:30:00,Unit Labor Costs,MEDIUM,USD
-dea0b895-3071-41fa-bc48-43a8977230fb,08/06/2026 14:00:00,Wholesale Inventories,LOW,USD
-1e958063-3733-47d9-b434-9ebf8adb242d,08/06/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
-7f89b507-bf1f-4aa2-8543-f3f1d3645162,08/06/2026 15:30:00,4-Week Bill Auction,LOW,USD
-8f640292-2806-490c-9149-60133254c50f,08/06/2026 21:30:00,Fed's Musalem speech,MEDIUM,USD
 6bb8c905-31aa-4b28-9e05-cf1fa33bac14,08/07/2026 12:30:00,Average Hourly Earnings (MoM),HIGH,USD
 25d49c1d-8e5d-4191-b99c-e26753bea05a,08/07/2026 12:30:00,Average Hourly Earnings (YoY),HIGH,USD
 b895330e-359e-482d-8389-cd8522c2b801,08/07/2026 12:30:00,Average Weekly Hours,LOW,USD
@@ -51,6 +40,7 @@ a672f74c-e0f2-4ddf-9c91-635719fabd86,08/13/2026 12:30:00,Initial Jobless Claims 
 70d0d153-0654-45a1-975b-af6ddc5b387f,08/13/2026 12:30:00,Producer Price Index (YoY),MEDIUM,USD
 03ffe49a-f478-43d9-ab3c-23098a03237a,08/13/2026 12:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
 2d7c8039-e79c-4075-a42a-c9ea8281358e,08/13/2026 12:30:00,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+cf419c05-54e1-4ae5-be67-3d25dcf3916f,08/13/2026 12:40:00,Fed's Barkin speech,MEDIUM,USD
 4dbbc099-4a0c-4f38-b015-23335436aaab,08/13/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
 89362104-63ae-4112-933a-cbcda162a185,08/13/2026 15:30:00,4-Week Bill Auction,LOW,USD
 bd726152-d452-4976-9fc5-efdf3fd4882c,08/13/2026 17:00:00,30-Year Bond Auction,LOW,USD

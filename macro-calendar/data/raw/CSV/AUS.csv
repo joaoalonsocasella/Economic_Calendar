@@ -1,7 +1,4 @@
 Id,Start,Name,Impact,Currency
-7b914e19-6cb7-4830-ac76-08c4f2609783,08/06/2026 01:30:00,Exports (MoM),MEDIUM,AUD
-15a56b8e-8665-49d7-94a2-cc742b66c54b,08/06/2026 01:30:00,Imports (MoM),MEDIUM,AUD
-8784af70-fb6a-45ee-97d5-e91c12c316ba,08/06/2026 01:30:00,Trade Balance (MoM),HIGH,AUD
 8766c804-e14b-4ab8-83d8-df8b7d41d361,08/07/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
 f3ac24c6-d0ad-4d6b-a587-3ca91f321282,08/11/2026 01:30:00,National Australia Bank's Business Conditions,LOW,AUD
 23e291c8-b8f1-49cc-912f-fa32b826059d,08/11/2026 01:30:00,National Australia Bank's Business Confidence,LOW,AUD
@@ -10,6 +7,7 @@ fb7435e6-1696-42f8-ae94-f4fcc61c7f30,08/11/2026 04:30:00,RBA Monetary Policy Sta
 d061e9d3-0280-4b7f-8a16-660605213ad5,08/11/2026 04:30:00,RBA Rate Statement,HIGH,AUD
 6c1b2ead-4a93-4b1f-a6d3-b4d94508a6a3,08/11/2026 05:30:00,RBA Press Conference,HIGH,AUD
 b322db4d-fe05-4e4a-bd1f-c0abc01feebb,08/13/2026 01:00:00,Consumer Inflation Expectations,MEDIUM,AUD
+cbd331d7-a3f6-4554-9f63-ecd1032922c9,08/13/2026 23:30:00,RBA Governor Bullock speech,HIGH,AUD
 fe5aa060-1c0e-4e99-8e24-882264530265,08/14/2026 01:30:00,Home Loans,LOW,AUD
 318e191c-7987-41c4-95d8-e383d63c91d8,08/14/2026 01:30:00,Investment Lending for Homes,LOW,AUD
 9ccae9f1-c834-4d49-ac6b-1bb91f3ab720,08/14/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
