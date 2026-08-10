@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-688a081d-46b7-49b6-992f-58bcab4f4630,08/09/2026 23:50:00,Bank Lending (YoY),HIGH,JPY,Release,0.19,Inflation
-ff2329a0-e7d3-4540-9fcf-b78641b8af4e,08/09/2026 23:50:00,BoJ Summary of Opinions,MEDIUM,JPY,Speech,0.13,Monetary Policy
-05b76fd9-6b86-4e78-b10d-60822080da13,08/09/2026 23:50:00,Current Account n.s.a.,MEDIUM,JPY,Release,0.11,Trade and External
-beeffbbd-8402-4627-b901-1a8b89e1a8de,08/09/2026 23:50:00,Trade Balance - BOP Basis,MEDIUM,JPY,Release,0.11,Trade and External
 7687c5cd-9a80-471c-b79c-2e45fcadb016,08/10/2026 05:00:00,Eco Watchers Survey: Current,MEDIUM,JPY,Release,0.14,Confidence
 b66697a9-5e37-4672-8ac0-ec2b24932a56,08/10/2026 05:00:00,Eco Watchers Survey: Outlook,MEDIUM,JPY,Release,0.14,Confidence
 cdcb882f-f379-47ab-a94d-db05b2c8a005,08/11/2026 23:50:00,Money Supply M2+CD (YoY),HIGH,JPY,Release,0.19,Inflation
@@ -15,12 +11,12 @@ c811baf2-8a65-4d90-9b01-a53717a736f8,08/13/2026 23:50:00,Foreign Bond Investment
 192b02bf-8f4a-488e-b54c-332f3b37393b,08/16/2026 23:50:00,Gross Domestic Product (QoQ),HIGH,JPY,Release,0.17,Growth
 fd0dfa98-53e0-485f-908a-41a32d2ec400,08/16/2026 23:50:00,Gross Domestic Product Annualized,HIGH,JPY,Release,0.17,Growth
 25fa4d26-23a8-45f0-829b-3028ed59e6d4,08/16/2026 23:50:00,Gross Domestic Product Deflator (YoY),HIGH,JPY,Release,0.19,Inflation
-0d4467e8-ea00-4d3f-b8d9-263508402b34,08/16/2026 23:50:00,Machinery Orders (MoM),HIGH,JPY,Release,0.17,Growth
-252c671b-ba33-43ce-9817-27b1b7dead36,08/16/2026 23:50:00,Machinery Orders (YoY),HIGH,JPY,Release,0.17,Growth
 4d777626-6ca4-40bd-bc9f-be87fe6bf71b,08/17/2026 04:30:00,Capacity Utilization,HIGH,JPY,Release,0.2,Monetary Policy
 731e0ae8-50da-40df-9e2a-cb43147608eb,08/17/2026 04:30:00,Industrial Production (MoM),HIGH,JPY,Release,0.17,Growth
 9eceba38-244c-4e75-87fe-b449f698c039,08/17/2026 04:30:00,Industrial Production (YoY),HIGH,JPY,Release,0.17,Growth
 5ca2518d-afc7-4c2d-9e45-d0958f6e8fe7,08/17/2026 04:30:00,Tertiary Industry Index (MoM),HIGH,JPY,Release,0.17,Growth
+0d4467e8-ea00-4d3f-b8d9-263508402b34,08/18/2026 23:50:00,Machinery Orders (MoM),HIGH,JPY,Release,0.17,Growth
+252c671b-ba33-43ce-9817-27b1b7dead36,08/18/2026 23:50:00,Machinery Orders (YoY),HIGH,JPY,Release,0.17,Growth
 2522be0c-c715-4b88-890e-365a2da2c758,08/19/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY,Release,0.11,Trade and External
 66e2f41f-e943-4110-abbc-c2e9199630fc,08/19/2026 23:50:00,Exports (YoY),MEDIUM,JPY,Release,0.11,Trade and External
 b2cd9ade-53dc-49c9-a385-dd261433e352,08/19/2026 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth

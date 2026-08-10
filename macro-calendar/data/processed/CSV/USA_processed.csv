@@ -45,6 +45,7 @@ fe03ba18-3293-4db8-9136-3741ce8c098b,08/14/2026 14:00:00,Michigan Consumer Senti
 c2d7c9a5-8738-4fa7-917f-a8cff3f8aa30,08/14/2026 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 a3db99d6-1e93-428f-9c72-9275f0979767,08/14/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 f278d9eb-2cb5-44bc-bfd7-fe1f5fd94ff6,08/17/2026 12:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
+bbb867af-57f7-409f-93a6-40ac876e7829,08/17/2026 14:00:00,NAHB Housing Market Index,LOW,USD,Release,0.07,Housing
 15c56876-b27c-4792-8a81-1e3462398225,08/17/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 7073e560-78a3-4610-9672-44f74aa7d6a2,08/17/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 50102e52-80b0-473c-a6a1-b6de304a28ed,08/17/2026 20:00:00,Net Long-Term TIC Flows,MEDIUM,USD,Release,0.11,Trade and External
@@ -61,7 +62,8 @@ cea48d6d-d05b-4c68-be44-ba489539bc90,08/18/2026 12:30:00,Housing Starts Change,L
 6874de3b-7332-4cc7-96a5-0e242cb4b438,08/18/2026 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 5a8ef86e-a332-4ebc-94b0-85006785d3d4,08/18/2026 13:15:00,Capacity Utilization,HIGH,USD,Release,0.2,Monetary Policy
 1d2d13c6-4bf2-430f-985d-bf0d9f3a9e33,08/18/2026 13:15:00,Industrial Production (MoM),HIGH,USD,Release,0.17,Growth
-bbb867af-57f7-409f-93a6-40ac876e7829,08/18/2026 14:00:00,NAHB Housing Market Index,LOW,USD,Release,0.07,Housing
+d262f39b-0083-4a86-b993-dea7c5101afb,08/18/2026 14:00:00,Pending Home Sales (MoM),LOW,USD,Release,0.07,Housing
+ee152400-3b0b-4348-82c3-85786d13a8ba,08/18/2026 14:00:00,Pending Home Sales (YoY),LOW,USD,Release,0.07,Housing
 b129b826-9373-4e8d-bdf6-6371cca71e34,08/18/2026 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 57b06a57-f80b-4d1c-8e60-4eac1eee05b1,08/19/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 fed13290-5281-4d70-83e9-175c93a2d204,08/19/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
@@ -110,8 +112,6 @@ e41d3a46-36d0-451e-bde7-4e47f7d76a7c,08/27/2026 12:30:00,Chicago Fed National Ac
 d157f654-b52c-4980-ab08-7555a8610fa7,08/27/2026 12:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 e04960dc-ce7d-41a2-8f1d-de1ccc70a90c,08/27/2026 12:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
 2ef5c31c-fe36-4e7e-8abd-183cecb174aa,08/27/2026 12:30:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
-d262f39b-0083-4a86-b993-dea7c5101afb,08/27/2026 14:00:00,Pending Home Sales (MoM),LOW,USD,Release,0.07,Housing
-ee152400-3b0b-4348-82c3-85786d13a8ba,08/27/2026 14:00:00,Pending Home Sales (YoY),LOW,USD,Release,0.07,Housing
 fac9d3e4-93af-4817-87bc-7b90dc55c7c0,08/27/2026 14:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 0bb8f7b1-eb28-44a2-97cd-76f6c48267bc,08/27/2026 15:00:00,Kansas Fed Manufacturing Activity,HIGH,USD,Release,0.17,Growth
 9ec18364-3670-4437-806d-c3c9009dd69e,08/27/2026 15:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit

@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-2c7397ee-0d6a-43a5-8ab7-4d46ac34de70,08/09/2026 01:30:00,Consumer Price Index (MoM),HIGH,CNY,Release,0.19,Inflation
-190134c9-3132-4d3e-9c51-bdc3357ae387,08/09/2026 01:30:00,Consumer Price Index (YoY),HIGH,CNY,Release,0.19,Inflation
-4da2014a-94a2-43f0-8c04-2f4cae94a390,08/09/2026 01:30:00,Producer Price Index (YoY),HIGH,CNY,Release,0.19,Inflation
 12738edc-8c36-4f87-821d-a0eb28e69ffb,08/14/2026 10:00:00,M2 Money Supply (YoY),HIGH,CNY,Release,0.19,Inflation
 3e15ba4b-2eea-42fd-8845-52be2f09efd4,08/14/2026 10:00:00,New Loans,LOW,CNY,Release,0.09,Money and Credit
 2aa26d26-bf81-4099-b367-c179b87061fa,08/17/2026 01:30:00,House Price Index ,LOW,CNY,Release,0.07,Housing
