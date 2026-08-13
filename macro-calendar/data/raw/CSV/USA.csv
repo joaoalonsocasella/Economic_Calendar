@@ -1,15 +1,4 @@
 Id,Start,Name,Impact,Currency
-973b07bc-bd31-495d-970d-6df80fdf3bbd,08/12/2026 11:00:00,MBA Mortgage Applications,LOW,USD
-4ec19768-2535-4f3b-baa4-4a651486c9f9,08/12/2026 12:30:00,Consumer Price Index (MoM),HIGH,USD
-826af32a-5b1f-41d5-bc2f-6d98adb330c8,08/12/2026 12:30:00,Consumer Price Index (YoY),HIGH,USD
-73d85cd0-3fd2-4c40-abce-074abaaac89d,08/12/2026 12:30:00,Consumer Price Index Core s.a,LOW,USD
-0315b8d3-3dd9-4226-9452-aa3ebb98ed45,08/12/2026 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
-95d6a4dc-9e1c-4bcd-9ab5-f3dd95167443,08/12/2026 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
-13f2e2e4-7272-4eac-a81c-637096dd5fcc,08/12/2026 12:30:00,Consumer Price Index n.s.a (MoM),LOW,USD
-60d291c0-ccaf-4bbc-b1a2-e9120ae44241,08/12/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
-242d633f-598a-4598-becc-630b81871bd6,08/12/2026 16:00:00,USDA WASDE Report,LOW,USD
-dcaa7d65-99e7-4209-913d-66846caa804d,08/12/2026 17:00:00,10-Year Note Auction,LOW,USD
-7d1dc407-a46c-4e8d-ab60-5bd3424c2733,08/12/2026 18:00:00,Monthly Budget Statement,MEDIUM,USD
 e44e1e6e-4c1d-4431-949d-c4ff25dbc054,08/13/2026 12:15:00,Fed's Hammack speech,MEDIUM,USD
 3cb743a0-dc8f-4e80-9f3d-84a3fd302e4e,08/13/2026 12:30:00,Continuing Jobless Claims,LOW,USD
 c162cf79-7718-4e7e-b092-e3473c10f65c,08/13/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
@@ -88,6 +77,8 @@ fdf3f273-1e23-4d36-9572-8101337af77e,08/25/2026 14:00:00,Richmond Fed Manufactur
 81401983-748d-4b21-b141-1d59ba12ad55,08/25/2026 17:00:00,5-Year Note Auction,LOW,USD
 c463d3cf-9284-4350-8147-2d2d16ad7c5f,08/25/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
 e4a64c40-49ef-4d4c-98f5-b8096b7da9f9,08/26/2026 11:00:00,MBA Mortgage Applications,LOW,USD
+82803e88-0e44-47f8-915f-b8caeeb11b1d,08/26/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+4141f68c-7e2c-48ba-97ab-dded377cf59c,08/26/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
 9fa8561b-1d7b-47c6-b72e-a62e234666c1,08/26/2026 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
 c310c633-d818-448f-982c-d865da1eb950,08/26/2026 12:30:00,Durable Goods Orders,MEDIUM,USD
 f62de9f0-771f-49c0-aee3-8793d758a197,08/26/2026 12:30:00,Durable Goods Orders ex Defense,MEDIUM,USD
@@ -95,7 +86,11 @@ ae80a45e-17f8-4737-bf4a-04bfc3a20be3,08/26/2026 12:30:00,Durable Goods Orders ex
 ef89ba75-a9f5-4e42-856e-0dc1216eb2b2,08/26/2026 12:30:00,Gross Domestic Product Annualized,MEDIUM,USD
 a54e7f24-ffd4-4ce5-91ce-ce9e0c01ffa7,08/26/2026 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD
 c4b5f77a-5711-4654-8f37-fa9a7b09536c,08/26/2026 12:30:00,Nondefense Capital Goods Orders ex Aircraft,MEDIUM,USD
+01a3c5ac-f46c-4463-8735-e59115c05a43,08/26/2026 12:30:00,Personal Consumption Expenditures - Price Index (MoM),MEDIUM,USD
+364a748f-9e7c-4ae6-a9c4-390310e7f341,08/26/2026 12:30:00,Personal Consumption Expenditures - Price Index (YoY),MEDIUM,USD
 fa77eaba-9d87-441d-a05d-fb72525d9d76,08/26/2026 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
+c87f5ce3-48ba-44c9-affa-35c29d1ed307,08/26/2026 12:30:00,Personal Income (MoM),MEDIUM,USD
+465d3586-10d4-450e-9b0b-1c8e59f70a42,08/26/2026 12:30:00,Personal Spending,MEDIUM,USD
 fbf88bba-1a32-4217-86a8-468f4980cdf4,08/26/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
 2b5bc6d6-5bbc-40c8-836e-e9126c5fe710,08/27/2026 00:00:00,Jackson Hole Symposium,HIGH,USD
 e41d3a46-36d0-451e-bde7-4e47f7d76a7c,08/27/2026 12:30:00,"Chicago Fed National Activity Index ",LOW,USD
@@ -109,12 +104,6 @@ fac9d3e4-93af-4817-87bc-7b90dc55c7c0,08/27/2026 14:30:00,EIA Natural Gas Storage
 9ec18364-3670-4437-806d-c3c9009dd69e,08/27/2026 15:30:00,4-Week Bill Auction,LOW,USD
 d4b40d6b-646d-470a-9d2a-9054158456b4,08/27/2026 17:00:00,7-Year Note Auction,LOW,USD
 2b605a0a-5c1a-42df-8241-512cdf6bad92,08/28/2026 00:00:00,Jackson Hole Symposium,HIGH,USD
-82803e88-0e44-47f8-915f-b8caeeb11b1d,08/28/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
-4141f68c-7e2c-48ba-97ab-dded377cf59c,08/28/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
-01a3c5ac-f46c-4463-8735-e59115c05a43,08/28/2026 12:30:00,Personal Consumption Expenditures - Price Index (MoM),MEDIUM,USD
-364a748f-9e7c-4ae6-a9c4-390310e7f341,08/28/2026 12:30:00,Personal Consumption Expenditures - Price Index (YoY),MEDIUM,USD
-c87f5ce3-48ba-44c9-affa-35c29d1ed307,08/28/2026 12:30:00,Personal Income (MoM),MEDIUM,USD
-465d3586-10d4-450e-9b0b-1c8e59f70a42,08/28/2026 12:30:00,Personal Spending,MEDIUM,USD
 51fecc0e-6f81-4105-a69f-2040855ef9aa,08/28/2026 13:45:00,Chicago PMI,MEDIUM,USD
 174696fa-bffa-426c-97f5-86542efa7c41,08/28/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
 001ece90-2262-4b98-9a5a-67ffd5070222,08/28/2026 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD
