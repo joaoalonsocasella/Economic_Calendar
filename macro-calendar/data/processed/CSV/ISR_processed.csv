@@ -1,10 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d35108b2-eb55-4d9f-91be-3028239cf779,08/13/2026 11:00:00,Exports,MEDIUM,ILS,Release,0.11,Trade and External
-a91f84d3-111f-4e1b-81e5-68b880322572,08/13/2026 11:00:00,Imports,MEDIUM,ILS,Release,0.11,Trade and External
-57f14d85-c8d1-4c1a-bf63-420f9a9ceaa5,08/13/2026 11:00:00,M1 Money Supply (YoY),HIGH,ILS,Release,0.19,Inflation
-7cc28c45-c65c-4d8e-bdbc-b773debf08a1,08/13/2026 11:00:00,Trade Balance,MEDIUM,ILS,Release,0.11,Trade and External
-aa0cfbbb-5964-4541-8136-59d046785219,08/14/2026 16:30:00,Consumer Price Index (MoM),HIGH,ILS,Release,0.19,Inflation
-4a4d06ce-2b5e-4029-ad83-4146e1da212f,08/14/2026 16:30:00,Consumer Price Index (YoY),HIGH,ILS,Release,0.19,Inflation
+57f14d85-c8d1-4c1a-bf63-420f9a9ceaa5,08/14/2026 06:45:00,M1 Money Supply (YoY),HIGH,ILS,Release,0.19,Inflation
+aa0cfbbb-5964-4541-8136-59d046785219,08/14/2026 11:00:00,Consumer Price Index (MoM),HIGH,ILS,Release,0.19,Inflation
+4a4d06ce-2b5e-4029-ad83-4146e1da212f,08/14/2026 11:00:00,Consumer Price Index (YoY),HIGH,ILS,Release,0.19,Inflation
 05480595-f90e-4c8f-8fad-7ca07194472e,08/16/2026 11:00:00,Gross Domestic Product (QoQ),HIGH,ILS,Release,0.17,Growth
 3f7004b6-6e6a-4393-a659-ce2d12ebc1d7,08/26/2026 11:00:00,Industrial Production (MoM),HIGH,ILS,Release,0.17,Growth
 c5f1d617-920e-426f-964a-5e608e7377f4,08/31/2026 14:00:00,BoI Interest Rate Decision,HIGH,ILS,Release,0.2,Monetary Policy

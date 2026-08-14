@@ -1,12 +1,10 @@
 Id,Start,Name,Impact,Currency
-d6a7b1a3-83ff-4055-8491-5e876968d53a,08/13/2026 09:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
-dac061c0-0277-4283-929b-ef41f59b4e42,08/13/2026 09:00:00,Industrial Production w.d.a. (YoY),LOW,EUR
+93cdbd69-1818-4cc2-b9aa-7c96cbcf8112,08/14/2026 09:00:00,Employment Change (QoQ),MEDIUM,EUR
+f4142c2d-8700-4833-b594-88171c9d91a2,08/14/2026 09:00:00,Employment Change (YoY),LOW,EUR
+ce75e0d9-0e63-4140-bac1-57a7d1c851cd,08/14/2026 09:00:00,Gross Domestic Product s.a. (QoQ),MEDIUM,EUR
+0c265b56-a607-44ed-8474-b496ddf58be2,08/14/2026 09:00:00,Gross Domestic Product s.a. (YoY),MEDIUM,EUR
 e3c55e75-d163-45c2-8be6-406d3f9b83d8,08/14/2026 09:00:00,Trade Balance n.s.a.,LOW,EUR
 3806ffc3-67d8-4e93-80fa-a0cf13310b09,08/14/2026 09:00:00,Trade Balance s.a.,LOW,EUR
-93cdbd69-1818-4cc2-b9aa-7c96cbcf8112,08/14/2026 10:00:00,Employment Change (QoQ),MEDIUM,EUR
-f4142c2d-8700-4833-b594-88171c9d91a2,08/14/2026 10:00:00,Employment Change (YoY),LOW,EUR
-ce75e0d9-0e63-4140-bac1-57a7d1c851cd,08/14/2026 10:00:00,Gross Domestic Product s.a. (QoQ),MEDIUM,EUR
-0c265b56-a607-44ed-8474-b496ddf58be2,08/14/2026 10:00:00,Gross Domestic Product s.a. (YoY),MEDIUM,EUR
 2060dafa-148a-47ff-8993-6bd92591e62f,08/14/2026 19:30:00,CFTC EUR NC Net Positions,LOW,EUR
 31dd7c4e-6508-400b-8a00-9bffc53de88f,08/18/2026 09:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
 3b58d0b5-1265-454e-a5d5-58023908d60b,08/19/2026 08:00:00,Current Account n.s.a,LOW,EUR
@@ -29,11 +27,11 @@ da56a215-4378-4f57-9210-b715f3a00dd8,08/21/2026 19:30:00,CFTC EUR NC Net Positio
 77ea1bac-82e6-431f-bb71-f52a4c45d408,08/27/2026 08:00:00,M3 Money Supply (YoY),LOW,EUR
 ce491b55-7f05-4c76-adb6-026453492990,08/27/2026 08:00:00,Private Loans (YoY),LOW,EUR
 e9706fb8-ffdf-4135-9980-18f465607fd8,08/27/2026 11:30:00,ECB Monetary Policy Meeting Accounts,MEDIUM,EUR
-4dd6cd04-4841-429d-8783-3cbc77cbd3c6,08/28/2026 08:00:00,Business Climate,MEDIUM,EUR
-9b617949-68ee-4e00-b447-666f224d7218,08/28/2026 08:00:00,Consumer Confidence,MEDIUM,EUR
-49acaa12-97ff-40c1-9adc-f16f66067212,08/28/2026 08:00:00,Economic Sentiment Indicator,MEDIUM,EUR
-7a0954a6-c23e-4daf-91ab-a4928e81f4fd,08/28/2026 08:00:00,Industrial Confidence,LOW,EUR
-23dc89f7-699c-4e91-9abf-eba530181ddb,08/28/2026 08:00:00,Services Sentiment,LOW,EUR
+4dd6cd04-4841-429d-8783-3cbc77cbd3c6,08/28/2026 09:00:00,Business Climate,MEDIUM,EUR
+9b617949-68ee-4e00-b447-666f224d7218,08/28/2026 09:00:00,Consumer Confidence,MEDIUM,EUR
+49acaa12-97ff-40c1-9adc-f16f66067212,08/28/2026 09:00:00,Economic Sentiment Indicator,MEDIUM,EUR
+7a0954a6-c23e-4daf-91ab-a4928e81f4fd,08/28/2026 09:00:00,Industrial Confidence,LOW,EUR
+23dc89f7-699c-4e91-9abf-eba530181ddb,08/28/2026 09:00:00,Services Sentiment,LOW,EUR
 fed33d23-aa74-409f-b0de-83ef0705c573,08/28/2026 19:30:00,CFTC EUR NC Net Positions,LOW,EUR
 fbbabaac-4fb1-4302-bda2-41c06272f220,09/01/2026 08:00:00,HCOB Manufacturing PMI,LOW,EUR
 adc8b9b1-0e48-4e22-9f68-9bc01b291d1a,09/01/2026 09:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR
@@ -49,10 +47,10 @@ a1174894-8682-44b5-966c-b2e517dc6458,09/04/2026 09:00:00,Retail Sales (MoM),MEDI
 3596bc2e-3cef-4a6c-acee-228c9432a9e5,09/04/2026 09:00:00,Retail Sales (YoY),HIGH,EUR
 554a5258-477f-4fed-9ba5-a6ba4e29f45d,09/04/2026 19:30:00,CFTC EUR NC Net Positions,LOW,EUR
 4adc0708-5c58-4fd8-9176-c8a7375a868b,09/07/2026 08:30:00,Sentix Investor Confidence,MEDIUM,EUR
-a990b902-a27d-4588-8e3b-06cea813f0f2,09/07/2026 10:00:00,Employment Change (QoQ),MEDIUM,EUR
-eb3472d0-a5a5-4047-8da4-6ea54951e929,09/07/2026 10:00:00,Employment Change (YoY),LOW,EUR
-64fd90bc-08ca-4d34-a9ff-b2632e9b65b7,09/07/2026 10:00:00,Gross Domestic Product s.a. (QoQ),MEDIUM,EUR
-a0cf7c25-a0db-434a-918c-47071c65556b,09/07/2026 10:00:00,Gross Domestic Product s.a. (YoY),MEDIUM,EUR
+a990b902-a27d-4588-8e3b-06cea813f0f2,09/07/2026 09:00:00,Employment Change (QoQ),MEDIUM,EUR
+eb3472d0-a5a5-4047-8da4-6ea54951e929,09/07/2026 09:00:00,Employment Change (YoY),LOW,EUR
+64fd90bc-08ca-4d34-a9ff-b2632e9b65b7,09/07/2026 09:00:00,Gross Domestic Product s.a. (QoQ),MEDIUM,EUR
+a0cf7c25-a0db-434a-918c-47071c65556b,09/07/2026 09:00:00,Gross Domestic Product s.a. (YoY),MEDIUM,EUR
 a071c91d-8461-4751-8f6e-14b7d4253369,09/10/2026 12:15:00,ECB Main Refinancing Operations Rate,HIGH,EUR
 35c59829-bf34-4845-96c4-134c93cf3126,09/10/2026 12:15:00,ECB Monetary Policy Statement,HIGH,EUR
 d7d6e099-259e-4042-b917-654fb80a70a1,09/10/2026 12:15:00,ECB Rate On Deposit Facility,HIGH,EUR

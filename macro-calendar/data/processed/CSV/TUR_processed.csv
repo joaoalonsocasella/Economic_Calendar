@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-35c2aa39-f618-4d39-9a7e-178ce20dad32,08/13/2026 07:00:00,Current Account Balance,MEDIUM,TRY,Release,0.11,Trade and External
-e9f4e155-ae1f-4304-b069-b883c7c8c9ce,08/13/2026 11:00:00,CBRT Quarterly Inflation Report,HIGH,TRY,Release,0.19,Inflation
 1d2eb703-a67b-4dd1-89e5-7a957a18f365,08/17/2026 08:00:00,Budget Balance,MEDIUM,TRY,Release,0.11,Trade and External
 834d9ea0-ada3-4abe-8411-e8e1a37d48ad,08/21/2026 07:00:00,Capacity Utilization,HIGH,TRY,Release,0.2,Monetary Policy
 3f0b2573-5fb8-47ad-9e4c-ddd51238e22e,08/21/2026 07:00:00,Consumer Confidence,MEDIUM,TRY,Release,0.14,Confidence
