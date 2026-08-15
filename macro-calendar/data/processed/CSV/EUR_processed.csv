@@ -1,12 +1,8 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-93cdbd69-1818-4cc2-b9aa-7c96cbcf8112,08/14/2026 09:00:00,Employment Change (QoQ),HIGH,EUR,Release,0.765,Labor Market
-f4142c2d-8700-4833-b594-88171c9d91a2,08/14/2026 09:00:00,Employment Change (YoY),HIGH,EUR,Release,0.765,Labor Market
-ce75e0d9-0e63-4140-bac1-57a7d1c851cd,08/14/2026 09:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR,Release,0.722,Growth
-0c265b56-a607-44ed-8474-b496ddf58be2,08/14/2026 09:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR,Release,0.722,Growth
-e3c55e75-d163-45c2-8be6-406d3f9b83d8,08/14/2026 09:00:00,Trade Balance n.s.a.,HIGH,EUR,Release,0.468,Trade and External
-3806ffc3-67d8-4e93-80fa-a0cf13310b09,08/14/2026 09:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External
-2060dafa-148a-47ff-8993-6bd92591e62f,08/14/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
+041341f5-cfe2-4420-8065-d0b0ae02e977,08/17/2026 09:30:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
 31dd7c4e-6508-400b-8a00-9bffc53de88f,08/18/2026 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
+1ada0d25-62a0-4fea-93be-27156626a7bc,08/18/2026 11:45:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
+05a0ebc4-f747-4eae-8cba-d2280d33cbe1,08/19/2026 07:10:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
 3b58d0b5-1265-454e-a5d5-58023908d60b,08/19/2026 08:00:00,Current Account n.s.a,HIGH,EUR,Release,0.468,Trade and External
 045bbde1-e181-4df4-a75c-7a56e2caa85f,08/19/2026 08:00:00,Current Account s.a,HIGH,EUR,Release,0.468,Trade and External
 457cf791-6eff-47b9-9ee7-750bcac6a2c6,08/19/2026 09:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
