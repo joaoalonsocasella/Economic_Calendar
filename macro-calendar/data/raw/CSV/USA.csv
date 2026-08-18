@@ -1,10 +1,4 @@
 Id,Start,Name,Impact,Currency
-f278d9eb-2cb5-44bc-bfd7-fe1f5fd94ff6,08/17/2026 12:30:00,NY Empire State Manufacturing Index,MEDIUM,USD
-bbb867af-57f7-409f-93a6-40ac876e7829,08/17/2026 14:00:00,NAHB Housing Market Index,LOW,USD
-15c56876-b27c-4792-8a81-1e3462398225,08/17/2026 15:30:00,3-Month Bill Auction,LOW,USD
-7073e560-78a3-4610-9672-44f74aa7d6a2,08/17/2026 15:30:00,6-Month Bill Auction,LOW,USD
-50102e52-80b0-473c-a6a1-b6de304a28ed,08/17/2026 20:00:00,Net Long-Term TIC Flows,LOW,USD
-63ed2c4d-4d5d-4102-b25a-121e0deb81e1,08/17/2026 20:00:00,Total Net TIC Flows,LOW,USD
 8c8717d7-8cf4-4af9-81ac-0dca06738ba1,08/18/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 9ef853ce-13ad-4d4f-b862-e158529d129f,08/18/2026 12:30:00,Building Permits (MoM),MEDIUM,USD
 0ef2564f-6b59-4720-9ac3-ffb31ef30886,08/18/2026 12:30:00,Building Permits Change,LOW,USD
@@ -24,6 +18,7 @@ b129b826-9373-4e8d-bdf6-6371cca71e34,08/18/2026 20:30:00,API Weekly Crude Oil St
 fed13290-5281-4d70-83e9-175c93a2d204,08/19/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
 b95e8826-e358-4d27-ae8a-6d415ab01d92,08/19/2026 14:30:00,EIA Distillate Stocks Change,LOW,USD
 52ddb9e8-c068-459d-b243-5f5b496c4c67,08/19/2026 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+442b9bf6-d92e-4aac-84d1-7024efd0acc8,08/19/2026 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 86edcbf4-25ff-43bb-aac0-158c13d4db4e,08/19/2026 17:00:00,20-Year Bond Auction,LOW,USD
 4c1d0e50-8162-4398-adbe-38e8bd0c9b61,08/19/2026 18:00:00,FOMC Minutes,HIGH,USD
 d8b90f21-b849-45e1-9df3-502fbe8f0bcf,08/20/2026 12:30:00,Continuing Jobless Claims,LOW,USD
@@ -51,7 +46,6 @@ a83e5c29-4511-4efb-a478-14d0f99bc770,08/25/2026 14:00:00,New Home Sales (MoM),LO
 75002e73-b682-4de0-b012-4dc84515e707,08/25/2026 14:00:00,New Home Sales Change (MoM),MEDIUM,USD
 fdf3f273-1e23-4d36-9572-8101337af77e,08/25/2026 14:00:00,Richmond Fed Manufacturing Index,LOW,USD
 88e52706-d50f-449c-a791-4965ff49b539,08/25/2026 17:00:00,2-Year Note Auction,LOW,USD
-81401983-748d-4b21-b141-1d59ba12ad55,08/25/2026 17:00:00,5-Year Note Auction,LOW,USD
 c463d3cf-9284-4350-8147-2d2d16ad7c5f,08/25/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
 e4a64c40-49ef-4d4c-98f5-b8096b7da9f9,08/26/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 82803e88-0e44-47f8-915f-b8caeeb11b1d,08/26/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
@@ -69,6 +63,7 @@ fa77eaba-9d87-441d-a05d-fb72525d9d76,08/26/2026 12:30:00,Personal Consumption Ex
 c87f5ce3-48ba-44c9-affa-35c29d1ed307,08/26/2026 12:30:00,Personal Income (MoM),MEDIUM,USD
 465d3586-10d4-450e-9b0b-1c8e59f70a42,08/26/2026 12:30:00,Personal Spending,MEDIUM,USD
 fbf88bba-1a32-4217-86a8-468f4980cdf4,08/26/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+81401983-748d-4b21-b141-1d59ba12ad55,08/26/2026 17:00:00,5-Year Note Auction,LOW,USD
 2b5bc6d6-5bbc-40c8-836e-e9126c5fe710,08/27/2026 00:00:00,Jackson Hole Symposium,HIGH,USD
 e41d3a46-36d0-451e-bde7-4e47f7d76a7c,08/27/2026 12:30:00,"Chicago Fed National Activity Index ",LOW,USD
 2763e21d-e282-4fb8-b5b3-f8bd346f0a01,08/27/2026 12:30:00,Continuing Jobless Claims,LOW,USD
