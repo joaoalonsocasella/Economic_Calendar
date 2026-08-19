@@ -1,19 +1,4 @@
 Id,Start,Name,Impact,Currency
-8c8717d7-8cf4-4af9-81ac-0dca06738ba1,08/18/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
-9ef853ce-13ad-4d4f-b862-e158529d129f,08/18/2026 12:30:00,Building Permits (MoM),MEDIUM,USD
-0ef2564f-6b59-4720-9ac3-ffb31ef30886,08/18/2026 12:30:00,Building Permits Change,LOW,USD
-78b6b1fa-3b63-4bfd-a2c8-83ab1a7084d0,08/18/2026 12:30:00,Export Price Index (MoM),LOW,USD
-e145171c-1618-41f1-9d67-74c33382fd5f,08/18/2026 12:30:00,Export Price Index (YoY),LOW,USD
-4d7a0143-e7ac-4a05-b63a-21bff2cab4d7,08/18/2026 12:30:00,Housing Starts (MoM),MEDIUM,USD
-cea48d6d-d05b-4c68-be44-ba489539bc90,08/18/2026 12:30:00,Housing Starts Change,LOW,USD
-07179c1e-32c0-417f-bd70-90fb81569083,08/18/2026 12:30:00,Import Price Index (MoM),LOW,USD
-82fce1f8-e8ab-45b5-8ac0-62a7aaa15b7c,08/18/2026 12:30:00,Import Price Index (YoY),LOW,USD
-6874de3b-7332-4cc7-96a5-0e242cb4b438,08/18/2026 12:55:00,Redbook Index (YoY),LOW,USD
-5a8ef86e-a332-4ebc-94b0-85006785d3d4,08/18/2026 13:15:00,Capacity Utilization,LOW,USD
-1d2d13c6-4bf2-430f-985d-bf0d9f3a9e33,08/18/2026 13:15:00,Industrial Production (MoM),MEDIUM,USD
-d262f39b-0083-4a86-b993-dea7c5101afb,08/18/2026 14:00:00,Pending Home Sales (MoM),MEDIUM,USD
-ee152400-3b0b-4348-82c3-85786d13a8ba,08/18/2026 14:00:00,Pending Home Sales (YoY),LOW,USD
-b129b826-9373-4e8d-bdf6-6371cca71e34,08/18/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
 57b06a57-f80b-4d1c-8e60-4eac1eee05b1,08/19/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 fed13290-5281-4d70-83e9-175c93a2d204,08/19/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
 b95e8826-e358-4d27-ae8a-6d415ab01d92,08/19/2026 14:30:00,EIA Distillate Stocks Change,LOW,USD
@@ -26,6 +11,7 @@ d8b90f21-b849-45e1-9df3-502fbe8f0bcf,08/20/2026 12:30:00,Continuing Jobless Clai
 d5a60d68-a4e4-4323-86dc-2a64f4145350,08/20/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
 c63e37a0-4d0b-4f57-acdb-72c2c613c271,08/20/2026 12:30:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD
 80206635-5c33-40f7-9d1c-6ff614fce1fe,08/20/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
+78d4562e-0ca1-4260-ae93-58196783a1bf,08/20/2026 15:10:00,Fed's Musalem speech,MEDIUM,USD
 99e32e8a-0cb9-4d6d-9714-08178f0c4c6f,08/20/2026 15:30:00,4-Week Bill Auction,LOW,USD
 639bf21d-a1a8-489d-b43e-9378ecf723c5,08/20/2026 17:00:00,30-year TIPS Auction,LOW,USD
 57916d35-c649-4dc4-98a4-03e8964fee81,08/21/2026 13:45:00,S&P Global Composite PMI,MEDIUM,USD

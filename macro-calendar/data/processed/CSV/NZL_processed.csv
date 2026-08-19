@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-c7324da3-60d2-477c-9128-b12f9005d1a6,08/18/2026 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
-d444a06c-24b6-4bb3-9fa4-1e0a6bef52aa,08/18/2026 22:45:00,Producer Price Index - Input (QoQ),HIGH,NZD,Release,0.19,Inflation
-238d3e1a-b01a-44dc-82ab-2fc95107ab4a,08/18/2026 22:45:00,Producer Price Index - Output (QoQ),HIGH,NZD,Release,0.19,Inflation
 0e86ce70-634b-4521-8c29-5b014dec1d76,08/20/2026 22:45:00,Exports,MEDIUM,NZD,Release,0.11,Trade and External
 8e87d1ae-a6db-4699-b87f-a6b77f297a83,08/20/2026 22:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External
 63d1a6ac-1f3e-47a2-85ba-7b0bc2296eb7,08/20/2026 22:45:00,Trade Balance NZD (MoM),MEDIUM,NZD,Release,0.11,Trade and External
@@ -168,8 +165,8 @@ f0d651c9-f6e9-4321-b49a-f35f34abc268,03/16/2027 21:45:00,Current Account - GDP R
 77a52779-a44f-48bd-8459-8d0c9d41c3d0,03/16/2027 21:45:00,Current Account (QoQ),MEDIUM,NZD,Release,0.11,Trade and External
 f0522f46-51fd-4a9d-b892-74c610959777,03/17/2027 21:45:00,Gross Domestic Product (QoQ),HIGH,NZD,Release,0.17,Growth
 31f77553-4b50-4e2f-8a65-bc606f2126d7,03/17/2027 21:45:00,Gross Domestic Product (QoQ),HIGH,NZD,Release,0.17,Growth
-4feafd2e-8bd7-4caa-ba39-fe010c550300,03/17/2027 21:45:00,Gross Domestic Product (YoY),HIGH,NZD,Release,0.17,Growth
 8e815ef0-347e-4ec8-b399-3ba01dfeb260,03/17/2027 21:45:00,Gross Domestic Product (YoY),HIGH,NZD,Release,0.17,Growth
+4feafd2e-8bd7-4caa-ba39-fe010c550300,03/17/2027 21:45:00,Gross Domestic Product (YoY),HIGH,NZD,Release,0.17,Growth
 0bc8a074-ecca-44b4-a28b-07572ebf0e1e,03/18/2027 20:00:00,Westpac Consumer Survey,MEDIUM,NZD,Release,0.14,Confidence
 ec8c520b-09d4-4941-8a6b-0639cd5f12ff,04/20/2027 22:45:00,Consumer Price Index (QoQ),HIGH,NZD,Release,0.19,Inflation
 5083a563-6766-4a9a-8da2-8c61d58f5cc8,04/20/2027 22:45:00,Consumer Price Index (YoY),HIGH,NZD,Release,0.19,Inflation
