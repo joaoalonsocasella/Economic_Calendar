@@ -1,12 +1,6 @@
 Id,Start,Name,Impact,Currency
-57b06a57-f80b-4d1c-8e60-4eac1eee05b1,08/19/2026 11:00:00,MBA Mortgage Applications,LOW,USD
-fed13290-5281-4d70-83e9-175c93a2d204,08/19/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
-b95e8826-e358-4d27-ae8a-6d415ab01d92,08/19/2026 14:30:00,EIA Distillate Stocks Change,LOW,USD
-52ddb9e8-c068-459d-b243-5f5b496c4c67,08/19/2026 14:30:00,EIA Gasoline Stocks Change,LOW,USD
-442b9bf6-d92e-4aac-84d1-7024efd0acc8,08/19/2026 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
-86edcbf4-25ff-43bb-aac0-158c13d4db4e,08/19/2026 17:00:00,20-Year Bond Auction,LOW,USD
-4c1d0e50-8162-4398-adbe-38e8bd0c9b61,08/19/2026 18:00:00,FOMC Minutes,HIGH,USD
 d8b90f21-b849-45e1-9df3-502fbe8f0bcf,08/20/2026 12:30:00,Continuing Jobless Claims,LOW,USD
+5b49cf63-fdc3-4667-9f3e-eb6f2470eeea,08/20/2026 12:30:00,Fed's Daly speech,MEDIUM,USD
 616fee79-d6e1-4c79-88e8-b203b66423a5,08/20/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
 d5a60d68-a4e4-4323-86dc-2a64f4145350,08/20/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
 c63e37a0-4d0b-4f57-acdb-72c2c613c271,08/20/2026 12:30:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD
@@ -65,6 +59,7 @@ d4b40d6b-646d-470a-9d2a-9054158456b4,08/27/2026 17:00:00,7-Year Note Auction,LOW
 51fecc0e-6f81-4105-a69f-2040855ef9aa,08/28/2026 13:45:00,Chicago PMI,MEDIUM,USD
 174696fa-bffa-426c-97f5-86542efa7c41,08/28/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
 001ece90-2262-4b98-9a5a-67ffd5070222,08/28/2026 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD
+b0d4e3c3-5569-4add-8d8e-52cdbad73d85,08/28/2026 14:00:00,Nonfarm Payrolls Benchmark Revision,HIGH,USD
 d7cfbdcf-4cb9-4095-b300-fbeccbd61137,08/28/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
 34ba9ffe-a391-481c-85eb-3e160f36c4b5,08/28/2026 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD
 74c23104-324f-49bf-94b2-f476c088423e,08/28/2026 17:00:00,Baker Hughes US Oil Rig Count,LOW,USD

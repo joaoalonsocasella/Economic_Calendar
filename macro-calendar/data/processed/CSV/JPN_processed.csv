@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-2522be0c-c715-4b88-890e-365a2da2c758,08/19/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY,Release,0.11,Trade and External
-66e2f41f-e943-4110-abbc-c2e9199630fc,08/19/2026 23:50:00,Exports (YoY),MEDIUM,JPY,Release,0.11,Trade and External
-b2cd9ade-53dc-49c9-a385-dd261433e352,08/19/2026 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth
-29f7f85a-586e-4c3c-b378-f7b303a2b983,08/19/2026 23:50:00,Foreign Investment in Japan Stocks,HIGH,JPY,Release,0.17,Growth
-3a0fe828-0112-41c8-9607-3411661a3b0f,08/19/2026 23:50:00,Imports (YoY),MEDIUM,JPY,Release,0.11,Trade and External
-b9b84d1b-5b1e-4c64-9d17-8a4e1a9d2049,08/19/2026 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY,Release,0.11,Trade and External
 ff704f44-9f78-4a02-8acf-b82dae2b70d7,08/20/2026 23:30:00,National Consumer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
 b692037e-48bd-42ea-ab8f-d489a9246ae8,08/20/2026 23:30:00,"National CPI ex Food, Energy (YoY)",HIGH,JPY,Release,0.19,Inflation
 4153036b-2319-48d4-be27-f08523fb39db,08/20/2026 23:30:00,National CPI ex Fresh Food (YoY),HIGH,JPY,Release,0.19,Inflation

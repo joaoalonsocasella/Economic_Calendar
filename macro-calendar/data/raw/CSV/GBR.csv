@@ -1,16 +1,4 @@
 Id,Start,Name,Impact,Currency
-388c36d0-6c82-421c-a150-bf04c521da13,08/19/2026 06:00:00,Consumer Price Index (MoM),HIGH,GBP
-f9a9dd43-e484-4bf6-9a46-cc0fac35b21f,08/19/2026 06:00:00,Consumer Price Index (YoY),HIGH,GBP
-d3d8c835-3924-4f83-8828-ff938e7394ce,08/19/2026 06:00:00,Core Consumer Price Index (YoY),HIGH,GBP
-b4e23962-1750-441e-9436-e0bfbf130e5e,08/19/2026 06:00:00,PPI Core Output (MoM) n.s.a,MEDIUM,GBP
-47d5397e-856f-4da8-b416-08c7c6d9076b,08/19/2026 06:00:00,"PPI Core Output (YoY) n.s.a ",MEDIUM,GBP
-a8bf2fed-b14e-4b14-a9c1-1c9b1016b23b,08/19/2026 06:00:00,Producer Price Index - Input (MoM) n.s.a,LOW,GBP
-2893842f-295b-439c-9e64-19abac6ae1e4,08/19/2026 06:00:00,Producer Price Index - Input (YoY) n.s.a,LOW,GBP
-25cc1a37-dfbe-4cfe-b8af-e700aadb9257,08/19/2026 06:00:00,Producer Price Index - Output (MoM) n.s.a,MEDIUM,GBP
-b3d6d5f3-803a-45df-9290-064b5dc8182f,08/19/2026 06:00:00,Producer Price Index - Output (YoY) n.s.a,MEDIUM,GBP
-f708c951-317b-4741-bf6d-3b1f9b13bf1b,08/19/2026 06:00:00,Retail Price Index (MoM),MEDIUM,GBP
-cb43ddf0-7714-43be-b6b8-e713d793bc84,08/19/2026 06:00:00,Retail Price Index (YoY),MEDIUM,GBP
-1198c97f-0395-4825-a0e5-aaef09993dfe,08/19/2026 08:30:00,DCLG House Price Index (YoY),LOW,GBP
 5fafd2f3-4278-4644-aa33-7647c4e7ff9f,08/20/2026 23:01:00,GfK Consumer Confidence,MEDIUM,GBP
 76d3f462-3f54-4ac6-9e55-8a636d9a8b14,08/21/2026 06:00:00,Public Sector Net Borrowing,LOW,GBP
 4fc90060-f20f-4dfc-adbe-f179eae9eb4b,08/21/2026 06:00:00,Retail Sales (MoM),HIGH,GBP
