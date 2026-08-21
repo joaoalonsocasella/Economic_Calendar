@@ -1,13 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-b322db4d-fe05-4e4a-bd1f-c0abc01feebb,08/20/2026 01:13:13,Consumer Inflation Expectations,MEDIUM,AUD,Release,0.14,Confidence
-a9c8f199-ed37-4a4f-af64-e9d143f04446,08/20/2026 01:30:00,Employment Change s.a.,HIGH,AUD,Release,0.18,Labor Market
-512369e1-8fe9-4b54-98af-f1db3da957a7,08/20/2026 01:30:00,Full-Time Employment,HIGH,AUD,Release,0.18,Labor Market
-f9f5de41-f2f3-4434-96a4-755df75701c1,08/20/2026 01:30:00,Part-Time Employment,HIGH,AUD,Release,0.18,Labor Market
-f2392999-e858-467e-b511-48a2add4308a,08/20/2026 01:30:00,Participation Rate,HIGH,AUD,Release,0.18,Labor Market
-6739061c-71ec-4ef4-a841-7d5d2ffeea97,08/20/2026 01:30:00,Unemployment Rate s.a.,HIGH,AUD,Release,0.18,Labor Market
-3643d388-21af-4d12-8927-d395b23bf0af,08/20/2026 23:00:00,S&P Global Composite PMI,HIGH,AUD,Release,0.17,Growth
-d250367e-604e-4c49-9852-b4990703a937,08/20/2026 23:00:00,S&P Global Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
-cc4b2a88-230e-4a11-b9cd-8a216c9c38db,08/20/2026 23:00:00,S&P Global Services PMI,HIGH,AUD,Release,0.17,Growth
 aa4859b3-c6dd-4ab3-ba60-05be5fd6fc58,08/21/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 641a4c00-edbd-4348-b375-4b242eecf3ae,08/25/2026 01:30:00,RBA Meeting Minutes,MEDIUM,AUD,Speech,0.13,Monetary Policy
 86bd4ff7-3c83-4752-8d10-99b85d4aec58,08/26/2026 01:00:00,Westpac Leading Index (MoM),MEDIUM,AUD,Release,0.14,Confidence
@@ -51,7 +42,9 @@ fb099d09-e89f-4f5a-8383-7793df596af9,09/11/2026 19:30:00,CFTC AUD NC Net Positio
 c839ee7f-20f4-4028-b90f-3a8b6d7f37b8,09/17/2026 01:30:00,Part-Time Employment,HIGH,AUD,Release,0.18,Labor Market
 e4ddcb53-a53d-4564-960c-f9c36a33e0c2,09/17/2026 01:30:00,Participation Rate,HIGH,AUD,Release,0.18,Labor Market
 79a2e50a-a05d-4c3f-91af-726bfc24f0eb,09/17/2026 01:30:00,Unemployment Rate s.a.,HIGH,AUD,Release,0.18,Labor Market
+2462c9a6-25ec-4cd6-8a89-d9c0aa1a2cd5,09/17/2026 23:30:00,RBA Governor Bullock speech,MEDIUM,AUD,Speech,0.13,Monetary Policy
 c5256b34-a05f-4879-ae25-b80658db9d90,09/18/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
+ee65feca-efd2-4276-9b63-ef5fb4555fcf,09/22/2026 03:10:00,RBA Governor Bullock speech,MEDIUM,AUD,Speech,0.13,Monetary Policy
 b97aa58f-9f9c-45bb-8187-3981b17a65cd,09/22/2026 23:00:00,S&P Global Composite PMI,HIGH,AUD,Release,0.17,Growth
 b01f741e-49a3-4691-99a6-8a91eb6d319a,09/22/2026 23:00:00,S&P Global Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
 e9255e8a-9147-4b47-bb83-a98865cc373f,09/22/2026 23:00:00,S&P Global Services PMI,HIGH,AUD,Release,0.17,Growth
@@ -297,15 +290,35 @@ d8a88815-1a8c-4b91-91fb-ce1789e194b4,03/31/2027 00:30:00,Trimmed Mean CPI (MoM),
 dd3cf1e3-8f0c-4f98-bd27-27ce7d005a41,04/01/2027 00:30:00,Exports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
 e337eeec-9c69-435b-8700-bebd8543531d,04/01/2027 00:30:00,Imports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
 1b4a3f59-7938-4fa2-ab69-2b58a09e4de3,04/01/2027 00:30:00,Trade Balance (MoM),MEDIUM,AUD,Release,0.11,Trade and External
+29fb4a89-c895-4f3e-882d-dac4ae3fa6a0,04/28/2027 01:30:00,Consumer Price Index (MoM),HIGH,AUD,Release,0.19,Inflation
+d3d976f9-6b76-45c0-8803-b076be871976,04/28/2027 01:30:00,Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
+dc77519e-3b73-466b-a9c8-6df90cee47ab,04/28/2027 01:30:00,Trimmed Mean CPI (MoM),HIGH,AUD,Release,0.19,Inflation
+c6ba3003-0324-4bc2-95db-6f5718bfc246,04/28/2027 01:30:00,Trimmed Mean CPI (YoY),HIGH,AUD,Release,0.19,Inflation
 672d598e-a189-4ccc-af2e-5d6abe981b4f,05/06/2027 00:30:00,Imports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
 9c53e784-f619-4e61-b9d0-7cde94582f6a,05/06/2027 00:30:00,Trade Balance (MoM),MEDIUM,AUD,Release,0.11,Trade and External
 d40226fd-cce6-44df-9d14-fb24b7c8a4c8,05/06/2027 01:30:00,Exports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
+b1ac63ae-8ef0-429f-a9b9-beb7bfb457b6,05/26/2027 01:30:00,Consumer Price Index (MoM),HIGH,AUD,Release,0.19,Inflation
+4a7ff4ea-9743-4bad-97bc-11e0b6c8f06b,05/26/2027 01:30:00,Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
+4e5b56f4-537e-4647-8f66-2319f8b31639,05/26/2027 01:30:00,Trimmed Mean CPI (MoM),HIGH,AUD,Release,0.19,Inflation
+8164c2ea-cc72-4657-a04b-267aed85b734,05/26/2027 01:30:00,Trimmed Mean CPI (YoY),HIGH,AUD,Release,0.19,Inflation
 98a332a1-995f-479d-af36-a1531724fbf8,06/03/2027 01:30:00,Exports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
 e3c7ecf2-fc25-4ca0-b95d-d0483d55d57d,06/03/2027 01:30:00,Imports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
 0fcdfa57-2a5e-43ee-ad59-70de39578f5d,06/03/2027 01:30:00,Trade Balance (MoM),MEDIUM,AUD,Release,0.11,Trade and External
+8f51340d-0015-4fa8-b7bf-8c87d37d0dc0,06/30/2027 01:30:00,Consumer Price Index (MoM),HIGH,AUD,Release,0.19,Inflation
+8acf27a1-961c-4c42-a860-f0fd8093cac4,06/30/2027 01:30:00,Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
+40524126-6081-4e69-8e30-8cc6d1751101,06/30/2027 01:30:00,Trimmed Mean CPI (MoM),HIGH,AUD,Release,0.19,Inflation
+47afb96f-c7d8-4a05-ab10-9dbcd10f257a,06/30/2027 01:30:00,Trimmed Mean CPI (YoY),HIGH,AUD,Release,0.19,Inflation
 dfafd2ea-3f4e-4883-8c8a-80b70d538424,07/01/2027 01:30:00,Exports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
 b705a28d-5a47-4377-8d4c-4326bb0b315f,07/01/2027 01:30:00,Imports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
 26c416e6-0c54-4500-b192-2c0bc757822b,07/01/2027 01:30:00,Trade Balance (MoM),MEDIUM,AUD,Release,0.11,Trade and External
+5bdca70b-dfb4-45fb-af3f-89aac7442aff,07/28/2027 01:30:00,Consumer Price Index (MoM),HIGH,AUD,Release,0.19,Inflation
+2f45218f-ff48-42bc-bdb8-21ce55104e62,07/28/2027 01:30:00,Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
+2399a226-ab04-400b-882c-fb711cdde4ee,07/28/2027 01:30:00,Trimmed Mean CPI (MoM),HIGH,AUD,Release,0.19,Inflation
+6003b1d5-6e28-46f5-938d-e823ee72ef7d,07/28/2027 01:30:00,Trimmed Mean CPI (YoY),HIGH,AUD,Release,0.19,Inflation
 a502cbba-4b68-4af1-aa48-749e223a0412,08/05/2027 01:30:00,Exports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
 7acc6bd5-295d-4fce-9599-0c547840c40d,08/05/2027 01:30:00,Imports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
 f17fc89b-cfb5-4b1d-bfff-5186357997f0,08/05/2027 01:30:00,Trade Balance (MoM),MEDIUM,AUD,Release,0.11,Trade and External
+d515a7d2-9644-4fbe-b436-bfd7a5028836,08/25/2027 01:30:00,Consumer Price Index (MoM),HIGH,AUD,Release,0.19,Inflation
+1c6f99bd-2104-4a8b-8609-3c42e359d05d,08/25/2027 01:30:00,Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
+7d6e362d-a224-4afe-a703-477f38eb1ea6,08/25/2027 01:30:00,Trimmed Mean CPI (MoM),HIGH,AUD,Release,0.19,Inflation
+716e0a6d-7e0e-4f34-a33f-3d7727c7bb71,08/25/2027 01:30:00,Trimmed Mean CPI (YoY),HIGH,AUD,Release,0.19,Inflation

@@ -1,13 +1,4 @@
 Id,Start,Name,Impact,Currency
-d8b90f21-b849-45e1-9df3-502fbe8f0bcf,08/20/2026 12:30:00,Continuing Jobless Claims,LOW,USD
-5b49cf63-fdc3-4667-9f3e-eb6f2470eeea,08/20/2026 12:30:00,Fed's Daly speech,MEDIUM,USD
-616fee79-d6e1-4c79-88e8-b203b66423a5,08/20/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
-d5a60d68-a4e4-4323-86dc-2a64f4145350,08/20/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
-c63e37a0-4d0b-4f57-acdb-72c2c613c271,08/20/2026 12:30:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD
-80206635-5c33-40f7-9d1c-6ff614fce1fe,08/20/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
-78d4562e-0ca1-4260-ae93-58196783a1bf,08/20/2026 15:10:00,Fed's Musalem speech,MEDIUM,USD
-99e32e8a-0cb9-4d6d-9714-08178f0c4c6f,08/20/2026 15:30:00,4-Week Bill Auction,LOW,USD
-639bf21d-a1a8-489d-b43e-9378ecf723c5,08/20/2026 17:00:00,30-year TIPS Auction,LOW,USD
 57916d35-c649-4dc4-98a4-03e8964fee81,08/21/2026 13:45:00,S&P Global Composite PMI,MEDIUM,USD
 41bbcccb-31f3-4372-b33e-fbdc51593153,08/21/2026 13:45:00,S&P Global Manufacturing PMI,HIGH,USD
 30bf2a48-048c-4468-ba85-77446b3a87cf,08/21/2026 13:45:00,S&P Global Services PMI,HIGH,USD
@@ -43,6 +34,9 @@ fa77eaba-9d87-441d-a05d-fb72525d9d76,08/26/2026 12:30:00,Personal Consumption Ex
 c87f5ce3-48ba-44c9-affa-35c29d1ed307,08/26/2026 12:30:00,Personal Income (MoM),MEDIUM,USD
 465d3586-10d4-450e-9b0b-1c8e59f70a42,08/26/2026 12:30:00,Personal Spending,MEDIUM,USD
 fbf88bba-1a32-4217-86a8-468f4980cdf4,08/26/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+e3e9bf69-be24-4a8d-90af-3b2aec386f10,08/26/2026 14:30:00,EIA Distillate Stocks Change,LOW,USD
+81758607-66ef-42eb-85dc-4c58a8353a31,08/26/2026 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+c1a34400-8d09-4a27-a08f-9fb54308f431,08/26/2026 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 81401983-748d-4b21-b141-1d59ba12ad55,08/26/2026 17:00:00,5-Year Note Auction,LOW,USD
 2b5bc6d6-5bbc-40c8-836e-e9126c5fe710,08/27/2026 00:00:00,Jackson Hole Symposium,HIGH,USD
 e41d3a46-36d0-451e-bde7-4e47f7d76a7c,08/27/2026 12:30:00,"Chicago Fed National Activity Index ",LOW,USD
@@ -57,6 +51,7 @@ fac9d3e4-93af-4817-87bc-7b90dc55c7c0,08/27/2026 14:30:00,EIA Natural Gas Storage
 d4b40d6b-646d-470a-9d2a-9054158456b4,08/27/2026 17:00:00,7-Year Note Auction,LOW,USD
 2b605a0a-5c1a-42df-8241-512cdf6bad92,08/28/2026 00:00:00,Jackson Hole Symposium,HIGH,USD
 51fecc0e-6f81-4105-a69f-2040855ef9aa,08/28/2026 13:45:00,Chicago PMI,MEDIUM,USD
+58b51ca1-dc68-48d8-800c-99b6dd7ca3ab,08/28/2026 14:00:00,Fed's Chair Warsh speech,HIGH,USD
 174696fa-bffa-426c-97f5-86542efa7c41,08/28/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
 001ece90-2262-4b98-9a5a-67ffd5070222,08/28/2026 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD
 b0d4e3c3-5569-4add-8d8e-52cdbad73d85,08/28/2026 14:00:00,Nonfarm Payrolls Benchmark Revision,HIGH,USD
@@ -86,6 +81,9 @@ b14505c4-e65c-4bc5-b1e7-fc96100c90ea,09/02/2026 11:00:00,MBA Mortgage Applicatio
 29611bc0-b129-4936-95b4-cf2d08478b8e,09/02/2026 12:15:00,ADP Employment Change,HIGH,USD
 e1ea145c-adc8-42b3-be5c-f5a874476f50,09/02/2026 14:00:00,Factory Orders (MoM),MEDIUM,USD
 ea07dc1d-f049-404c-b34d-a85b05d7bce1,09/02/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+ba2ad407-e82f-449c-8710-382f99e42cff,09/02/2026 14:30:00,EIA Distillate Stocks Change,LOW,USD
+519f5ec6-bc19-405a-830c-d06117e00a11,09/02/2026 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+83b67276-37a5-471b-8e5d-65ac5a3f1149,09/02/2026 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 34c349af-d149-47c1-a949-ba7d9d82c612,09/02/2026 18:00:00,Fed's Beige Book,MEDIUM,USD
 b610dda1-0cbf-4fd1-a030-819ad17bb1b3,09/03/2026 11:30:00,Challenger Job Cuts,MEDIUM,USD
 3ffaa14e-c956-42b8-b4ab-c227b58fb48f,09/03/2026 12:30:00,Continuing Jobless Claims,LOW,USD
@@ -124,6 +122,9 @@ fb1df06a-6d00-445c-8c89-a77b64452df2,09/08/2026 17:00:00,3-Year Note Auction,LOW
 e65a0b70-e075-44cc-8849-65311a56234b,09/08/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
 dfe73947-589e-4e92-b5b5-0b0e5fd237e8,09/09/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 f498e541-d6ec-444b-a236-8ddc0a79ecbe,09/09/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+50c0b74b-8ac6-4b90-aa44-f9b9a1a0c3df,09/09/2026 14:30:00,EIA Distillate Stocks Change,LOW,USD
+5b89923e-1b34-40f4-9650-5476c2379138,09/09/2026 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+618ae2eb-75da-4430-a896-c5e85373005f,09/09/2026 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 9586869b-1d42-4a33-b32e-c1fb08b27f53,09/09/2026 17:00:00,10-Year Note Auction,LOW,USD
 37c9d128-725c-4a8d-b9d5-f7c566894f8b,09/10/2026 12:30:00,Continuing Jobless Claims,LOW,USD
 e3f79fa1-75f2-40f2-bd84-d3fa5a6791e0,09/10/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
@@ -171,6 +172,9 @@ ef6efe4b-e1bc-450b-a1c6-4383108ec54c,09/16/2026 12:30:00,Retail Sales (YoY),LOW,
 6a4ea5dd-bdcc-4d43-9c44-79ebaad7bbcb,09/16/2026 14:00:00,Business Inventories,LOW,USD
 414e5074-58c3-45cc-b4ec-6c8d07b563e3,09/16/2026 14:00:00,NAHB Housing Market Index,LOW,USD
 bebe4e65-4a07-4069-821c-65941089e395,09/16/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+182e7c95-c93f-4dc6-92f5-f670274f5fbc,09/16/2026 14:30:00,EIA Distillate Stocks Change,LOW,USD
+b9ce9d21-701d-46e0-9327-bed9a28c2f93,09/16/2026 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+ec15cfb3-562d-4c4b-9fd5-0a422cb1d431,09/16/2026 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 2f1b6a4a-ff1e-428b-b8ad-d8521ebc870f,09/16/2026 18:00:00,Fed Interest Rate Decision,HIGH,USD
 6058ca5b-901f-46b7-bfd9-657446035047,09/16/2026 18:00:00,Fed Monetary Policy Statement,HIGH,USD
 11c9039f-f6ea-4b36-a7bd-dc45ccff3bd5,09/16/2026 18:00:00,FOMC Economic Projections,HIGH,USD
@@ -210,6 +214,9 @@ a5bfd9b4-b523-48fa-b164-a2146ed4951c,09/22/2026 14:00:00,Richmond Fed Manufactur
 6dd30953-081a-47f8-bd4c-1d8c81ccc7bb,09/23/2026 13:45:00,S&P Global Manufacturing PMI,HIGH,USD
 11406332-cc3c-4add-a860-087f85dfddc6,09/23/2026 13:45:00,S&P Global Services PMI,HIGH,USD
 6a0491a7-f992-4f28-9efd-a4b7b18b2ba3,09/23/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+955e00e7-6f97-4a47-b47c-6a07c63a5fe9,09/23/2026 14:30:00,EIA Distillate Stocks Change,LOW,USD
+95313159-e653-4791-a99c-9218a7bd2f68,09/23/2026 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+03897ae5-2948-4c4c-9769-8581e3186c87,09/23/2026 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 154f0b9f-c476-4a18-8bff-e2d534bd43ac,09/23/2026 17:00:00,20-Year Bond Auction,LOW,USD
 8e4cd720-4ef3-4dca-a8fb-e53ab69c452b,09/24/2026 12:30:00,Continuing Jobless Claims,LOW,USD
 990add36-d75c-49d5-a2a5-52ef7365ec0d,09/24/2026 12:30:00,Current Account,LOW,USD
@@ -264,7 +271,11 @@ f74c263d-3c85-43ce-a508-fc790e47289b,09/30/2026 13:45:00,Chicago PMI,MEDIUM,USD
 356de820-a4af-4f42-b44d-b8d0b4574439,09/30/2026 14:00:00,Pending Home Sales (MoM),MEDIUM,USD
 8c74d829-3147-4931-a611-d1ce63f7c234,09/30/2026 14:00:00,Pending Home Sales (YoY),LOW,USD
 4c352cf7-1bd5-477e-9a94-08eb9aed211c,09/30/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+d61299c7-0f8a-42a9-ad0b-b5a6d53abf5a,09/30/2026 14:30:00,EIA Distillate Stocks Change,LOW,USD
+d6171eb5-173b-4388-a3f1-9d7b71163735,09/30/2026 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+2776d894-0549-4a02-b16e-8356d692ed2e,09/30/2026 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 5925ec70-a1eb-47ee-8055-16a96a609a2b,09/30/2026 16:00:00,Grain Stock Report,LOW,USD
+2a76b27e-43cc-41d2-a3de-c78d4fd7c311,09/30/2026 20:05:00,Fed's Goolsbee speech,MEDIUM,USD
 2f05ab14-ddbf-4071-9999-d3ae2816c0f6,10/01/2026 11:30:00,Challenger Job Cuts,MEDIUM,USD
 c740d09d-cea7-4ac9-b091-8370309512e0,10/01/2026 12:30:00,Continuing Jobless Claims,LOW,USD
 16b79aed-b72f-4980-a235-5168cdf0b431,10/01/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
@@ -308,6 +319,9 @@ fdc2a609-1fb4-4ff7-90f4-60a97d83d00d,10/06/2026 17:00:00,3-Year Note Auction,LOW
 bdc7801d-8510-4744-a489-fb70eac99dad,10/06/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
 2d100fe1-5948-4741-ad42-44e4a50226ff,10/07/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 23d4f861-ceb4-415f-a8fc-202439295086,10/07/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+a5a4945a-eca7-4fbf-ad9d-ba81cb5d2d92,10/07/2026 14:30:00,EIA Distillate Stocks Change,LOW,USD
+ec2a1495-6a2a-4459-ad57-f561bc0c91bc,10/07/2026 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+4994df27-6854-45a7-89c2-4bd4957dee31,10/07/2026 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 87e53130-4beb-489a-96d1-3b482f574310,10/07/2026 17:00:00,10-Year Note Auction,LOW,USD
 02a53a33-4794-47f5-9def-bc39d26272b3,10/07/2026 18:00:00,FOMC Minutes,HIGH,USD
 729d32d5-c19b-4601-a071-8e149563d435,10/07/2026 19:00:00,Consumer Credit Change,LOW,USD
@@ -347,6 +361,9 @@ cfaffea7-7471-4647-926d-581b3eecb400,10/14/2026 12:30:00,Consumer Price Index ex
 e3111bf6-764b-4b93-9319-9fe860d7bf34,10/14/2026 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
 34b98fc0-3d41-4392-a238-1cf098d02347,10/14/2026 12:30:00,Consumer Price Index n.s.a (MoM),LOW,USD
 e5e2c65e-a4cb-4b9b-8b85-127ba986f584,10/14/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+b05fbba4-4537-4cca-9b3b-1efdc576e06a,10/14/2026 14:30:00,EIA Distillate Stocks Change,LOW,USD
+e844eb06-2739-4ae4-a1cc-04b19bbff976,10/14/2026 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+6eaf5af8-3a8b-43ef-824d-be76819d9b8f,10/14/2026 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 b724b18d-2303-49f0-9c5b-314211a7cb9c,10/15/2026 00:00:00,IMF Meeting,MEDIUM,USD
 5ad23a01-47f5-4f05-be2d-db6209a5f31c,10/15/2026 12:30:00,Continuing Jobless Claims,LOW,USD
 435eda76-2a80-4b67-b056-c2bbac99285d,10/15/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
@@ -391,6 +408,9 @@ e6aec4f5-d117-40e6-80cd-52fb069b34c9,10/20/2026 12:55:00,Redbook Index (YoY),LOW
 f271341c-9693-428a-81cd-cb8e1bf3c373,10/20/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
 782485cf-22b8-466a-9eda-868d52a6fee5,10/21/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 4fed02f5-bac3-4552-9a1e-40438e609d02,10/21/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+f48c3675-4daa-4107-bc7e-9ef5c29f6131,10/21/2026 14:30:00,EIA Distillate Stocks Change,LOW,USD
+76a91eee-03ad-4c94-a66a-6b3ffed6d5fc,10/21/2026 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+f2146d01-1a52-4e0e-afea-9bd453d8981a,10/21/2026 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 2d8d6fd0-ae06-4fe0-98bb-8ae50e478daf,10/21/2026 17:00:00,20-Year Bond Auction,LOW,USD
 17d99074-3c9e-45ef-aafd-a5deabb8e7ec,10/22/2026 12:30:00,Continuing Jobless Claims,LOW,USD
 12fc3d95-f321-4007-84d2-68a90b452a37,10/22/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
@@ -433,6 +453,9 @@ b8f467d2-4d0d-4a02-942f-11552703e48d,10/27/2026 17:00:00,5-Year Note Auction,LOW
 ad267756-9070-49d1-8f28-d119a3e28de4,10/28/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 d4f9a6a5-29cc-4bd4-a1c4-f089c45dff71,10/28/2026 12:30:00,Wholesale Inventories,LOW,USD
 3a732b6a-a297-4629-9285-80c7be034b5f,10/28/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+2ab8378f-8f31-4768-a6aa-c2492db71877,10/28/2026 14:30:00,EIA Distillate Stocks Change,LOW,USD
+1bd7d609-5ce7-4ec1-b495-06de9f246616,10/28/2026 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+5b00ec5c-5e91-49f3-9944-d2dee9c1db08,10/28/2026 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 d0d870ee-01f1-40f8-b9c4-530e60645368,10/28/2026 17:00:00,7-Year Note Auction,LOW,USD
 0fa5c63c-f61c-4436-8763-66222addfe7a,10/28/2026 18:00:00,Fed Interest Rate Decision,HIGH,USD
 3c0c7b61-7aaa-4ca6-bff2-15593a479a36,10/28/2026 18:00:00,Fed Monetary Policy Statement,HIGH,USD
@@ -488,6 +511,9 @@ d1dd9b9a-56aa-4bb8-b95e-ad2d7e6185b0,11/04/2026 14:00:00,ISM Services Employment
 3c1033c6-6706-445b-bcaf-55e38dfbbe6f,11/04/2026 14:00:00,ISM Services PMI,HIGH,USD
 a4528029-f562-4924-95cc-78c68bbfb95d,11/04/2026 14:00:00,ISM Services Prices Paid,MEDIUM,USD
 ca05347e-9bf9-4b0f-a609-3e75d5585e37,11/04/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+08ff417c-a5d1-44e3-b97a-48c7ad23bfe3,11/04/2026 14:30:00,EIA Distillate Stocks Change,LOW,USD
+3abdd8e2-e85a-460e-a7ab-c08a76e15a87,11/04/2026 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+6cb4a779-334a-4f7c-82c4-8e78f2a1d31e,11/04/2026 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 19e683ff-acc3-4cc3-bd7f-66b296b2044b,11/05/2026 11:30:00,Challenger Job Cuts,MEDIUM,USD
 5b0bc9d4-792e-41d2-b062-d5b63c3c4b58,11/05/2026 12:30:00,Continuing Jobless Claims,LOW,USD
 deafa8d4-f1fb-46d1-af7a-61186993120d,11/05/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
@@ -530,6 +556,9 @@ f336b3ca-fa8a-4c10-8cef-422dbe62a92b,11/10/2026 17:00:00,USDA WASDE Report,LOW,U
 9ac33757-176f-4a21-a74e-a08fee08bb9e,11/10/2026 21:30:00,API Weekly Crude Oil Stock,LOW,USD
 104adfae-fcf3-4cdd-9cca-40296706a254,11/11/2026 12:00:00,MBA Mortgage Applications,LOW,USD
 3c4dcd95-aa1c-4aa1-be53-d8d70e6fb67e,11/11/2026 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
+3f41783f-5fcd-471f-b8f3-efffce820663,11/11/2026 15:30:00,EIA Distillate Stocks Change,LOW,USD
+66bf2a98-a745-4857-a0ef-b71bea9a23c6,11/11/2026 15:30:00,EIA Gasoline Stocks Change,LOW,USD
+e64c26db-341e-4cb6-a671-152d438e4452,11/11/2026 15:30:00,EIA Heating Oil Stocks Change,LOW,USD
 a8ef97b5-96b3-4849-bd57-08605c1cab7b,11/11/2026 18:00:00,10-Year Note Auction,LOW,USD
 849a9a10-92f4-46e8-820d-65af826f7b10,11/11/2026 19:00:00,Monthly Budget Statement,MEDIUM,USD
 1e7adfad-5c5d-4a80-9590-78f4421bae72,11/12/2026 13:30:00,Continuing Jobless Claims,LOW,USD
@@ -572,6 +601,9 @@ d164006c-55c3-4c5f-8014-ec55ddd4698a,11/18/2026 13:30:00,Building Permits Change
 d44d06ba-95b8-4ff4-add7-bcd65964fb5a,11/18/2026 13:30:00,Housing Starts (MoM),MEDIUM,USD
 a08bc30a-a62d-40b4-914e-a48edbcc09ef,11/18/2026 13:30:00,Housing Starts Change,LOW,USD
 7595b1bc-753e-4d65-927a-2ed94deae7bd,11/18/2026 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
+00c99173-cd4c-4855-ae6f-3efed0642769,11/18/2026 15:30:00,EIA Distillate Stocks Change,LOW,USD
+f1011f08-aeaa-44b9-bb07-d47a8146952e,11/18/2026 15:30:00,EIA Gasoline Stocks Change,LOW,USD
+86b406a1-cdf5-4426-8b13-ab84a92fd886,11/18/2026 15:30:00,EIA Heating Oil Stocks Change,LOW,USD
 125becc3-8f58-48df-b7a2-87763af4bf53,11/18/2026 18:00:00,20-Year Bond Auction,LOW,USD
 d97b15ef-1df0-4a15-b58a-326c46646d1a,11/18/2026 19:00:00,FOMC Minutes,HIGH,USD
 cf9710da-4da3-4c08-869f-f8d452ba009a,11/19/2026 13:30:00,Continuing Jobless Claims,LOW,USD
@@ -617,6 +649,9 @@ d09fa664-2fa5-45d1-a556-4afa3ff8bd3d,11/25/2026 13:30:00,Nondefense Capital Good
 6938e25d-18c2-425a-9bab-27d70845a03e,11/25/2026 15:00:00,New Home Sales (MoM),LOW,USD
 7d45507d-7398-47e0-8231-0f1c156a066b,11/25/2026 15:00:00,New Home Sales Change (MoM),MEDIUM,USD
 f6161bfd-b117-4df4-bdea-043b22ff9788,11/25/2026 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
+343458d9-b023-4b56-ae6f-91b4211983ef,11/25/2026 15:30:00,EIA Distillate Stocks Change,LOW,USD
+b0959f76-684e-4b32-a590-eda6993c79c2,11/25/2026 15:30:00,EIA Gasoline Stocks Change,LOW,USD
+f91a1070-345b-457a-856d-cd5feee69b96,11/25/2026 15:30:00,EIA Heating Oil Stocks Change,LOW,USD
 90ca48e8-e391-450e-952b-939881dafec1,11/25/2026 18:00:00,5-Year Note Auction,LOW,USD
 9807c577-b2a1-4636-9794-acf711490a27,11/25/2026 19:00:00,Fed's Beige Book,MEDIUM,USD
 acc78656-3c1c-455a-9869-ffe5eecc6dfa,11/26/2026 13:30:00,"Chicago Fed National Activity Index ",LOW,USD
@@ -658,6 +693,9 @@ c6cf5bbd-be2e-4544-b62d-c16b7c60b137,12/01/2026 21:30:00,API Weekly Crude Oil St
 9cdf1b43-e047-43e2-b206-8f8a5b726c04,12/02/2026 12:00:00,MBA Mortgage Applications,LOW,USD
 c06b7892-e635-4827-ac1a-b153aab0eb9b,12/02/2026 13:15:00,ADP Employment Change,HIGH,USD
 93a0c7b3-8d29-4c8b-923b-80c04057ebc5,12/02/2026 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
+d466b7d8-19d0-4204-a212-7a9183f93067,12/02/2026 15:30:00,EIA Distillate Stocks Change,LOW,USD
+c4a5c669-a597-4a05-8547-49e9c28877f9,12/02/2026 15:30:00,EIA Gasoline Stocks Change,LOW,USD
+18113e3d-e1e0-4b56-8ad7-31c864cf4e75,12/02/2026 15:30:00,EIA Heating Oil Stocks Change,LOW,USD
 45a7b802-4505-47f4-a162-c53824a645c2,12/02/2026 20:30:00,Total Vehicle Sales,LOW,USD
 5c5d6b4c-ab3a-4049-b95b-9f17c2fac85d,12/03/2026 12:30:00,Challenger Job Cuts,MEDIUM,USD
 ad49dd0b-da2a-4bf5-81e2-0bcbb120bfde,12/03/2026 13:30:00,Continuing Jobless Claims,LOW,USD
@@ -702,6 +740,9 @@ b38acafa-32e0-494a-a7cf-488f00fd336e,12/08/2026 13:30:00,Goods Trade Balance,LOW
 0f7b3fd9-c981-4560-823e-51cc16958b88,12/09/2026 15:00:00,Existing Home Sales (MoM),LOW,USD
 a70b02a4-9025-42e2-94ae-7e4966d64ad7,12/09/2026 15:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
 f5d53f83-bce8-4077-b0fe-8fb9d1968e25,12/09/2026 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
+07285ef1-dc00-4bc6-8b9f-5098f8e94b58,12/09/2026 15:30:00,EIA Distillate Stocks Change,LOW,USD
+554bf10b-19a4-4ed0-b5ca-e2c5e7c9a496,12/09/2026 15:30:00,EIA Gasoline Stocks Change,LOW,USD
+d9f79102-a351-48df-962a-62d1fd7dbfa7,12/09/2026 15:30:00,EIA Heating Oil Stocks Change,LOW,USD
 07139a1f-47ee-4fd4-83f6-e40e65d9e87a,12/09/2026 18:00:00,10-Year Note Auction,LOW,USD
 0f5a2e3a-6db9-4a82-9624-600da78dde70,12/09/2026 19:00:00,Fed Interest Rate Decision,HIGH,USD
 aaa8dbe3-191c-4112-bc06-658211f04879,12/09/2026 19:00:00,Fed Monetary Policy Statement,HIGH,USD
@@ -752,6 +793,9 @@ abf40988-ad21-4280-a88c-73a560925c91,12/16/2026 14:15:00,Industrial Production (
 29e9a9c2-eee4-41af-9078-c04f31affa60,12/16/2026 15:00:00,Business Inventories,LOW,USD
 118531a1-c90e-4062-a283-89d680d7afce,12/16/2026 15:00:00,NAHB Housing Market Index,LOW,USD
 ad2bbb3f-f866-4ee8-8dfb-8ab54eebdabd,12/16/2026 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
+d60f9c3a-09b1-4c0a-a841-488a7a267aa8,12/16/2026 15:30:00,EIA Distillate Stocks Change,LOW,USD
+5c001f8f-c289-48d0-b0f2-199a1c0148b1,12/16/2026 15:30:00,EIA Gasoline Stocks Change,LOW,USD
+a82c94a2-d0bd-40f0-ae16-828fb114f344,12/16/2026 15:30:00,EIA Heating Oil Stocks Change,LOW,USD
 077fbe51-1e33-43f1-b49d-efe6a01ac39b,12/17/2026 13:30:00,Building Permits (MoM),MEDIUM,USD
 79d50e1c-3cc8-4b4b-a924-9aec40c1b157,12/17/2026 13:30:00,Building Permits Change,LOW,USD
 e1e45b42-d0f3-461f-b367-7cf7a8f7a907,12/17/2026 13:30:00,Continuing Jobless Claims,LOW,USD
@@ -809,6 +853,9 @@ ab5b3a5b-c5b6-4bf5-8dfd-d610d9d81fb9,12/23/2026 13:30:00,Initial Jobless Claims 
 5c0d46a7-ee7f-4ba1-8995-7f04f92b8ef1,12/23/2026 15:00:00,New Home Sales (MoM),LOW,USD
 eedbe494-c11f-478f-ba23-71b839182400,12/23/2026 15:00:00,New Home Sales Change (MoM),MEDIUM,USD
 d38ffc7f-4385-43cd-9c52-86141a22f5af,12/23/2026 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
+cb4eae3a-6dfc-41f4-98b2-42bb28e2f663,12/23/2026 15:30:00,EIA Distillate Stocks Change,LOW,USD
+f4a707b7-c87c-4b0a-b112-b21329dd2b05,12/23/2026 15:30:00,EIA Gasoline Stocks Change,LOW,USD
+4eb0e847-d939-4fb5-95e6-d8e4f5147566,12/23/2026 15:30:00,EIA Heating Oil Stocks Change,LOW,USD
 68296ca4-2eea-4505-ba99-f1021b927247,12/23/2026 16:30:00,4-Week Bill Auction,LOW,USD
 cba09b8d-9c27-4cea-9c92-18fab5057394,12/23/2026 18:00:00,20-Year Bond Auction,LOW,USD
 0cce440a-270e-44b4-8dd3-772e5cfa2d7d,12/24/2026 15:30:00,EIA Natural Gas Storage Change,LOW,USD
@@ -839,6 +886,9 @@ c0e1d088-3a3a-4f51-ae8e-40ac7bf9be65,12/30/2026 13:30:00,Continuing Jobless Clai
 cad6bab8-4287-4bc8-9961-a73192dad595,12/30/2026 15:00:00,Pending Home Sales (MoM),MEDIUM,USD
 dbb23a93-4be4-4cfd-af72-d6aba089a082,12/30/2026 15:00:00,Pending Home Sales (YoY),LOW,USD
 3e5fe1b4-c1d6-4b28-bc48-1dafa309b994,12/30/2026 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
+b047c1fc-fba9-4594-a72f-2b0381b1f16c,12/30/2026 15:30:00,EIA Distillate Stocks Change,LOW,USD
+cf674847-fd46-4acb-84d2-f85086648157,12/30/2026 15:30:00,EIA Gasoline Stocks Change,LOW,USD
+26f8ae5c-d889-4d98-9700-b7b0b6738188,12/30/2026 15:30:00,EIA Heating Oil Stocks Change,LOW,USD
 3a229598-1dd9-4d0a-9554-20731c26d9ff,12/30/2026 16:30:00,4-Week Bill Auction,LOW,USD
 e05a1327-3e9e-4beb-862b-fd71e5b569b9,12/31/2026 15:30:00,EIA Natural Gas Storage Change,LOW,USD
 0652c2ec-abdd-4bf3-8a4e-09ee31fb3ccf,01/01/2027 13:30:00,Average Hourly Earnings (MoM),HIGH,USD
@@ -877,6 +927,9 @@ e87e46de-8fb1-4569-ae7d-a7e5e6c77e12,01/06/2027 15:00:00,ISM Services New Orders
 da06b4b7-a3cc-40c2-b641-3961b670cba0,01/06/2027 15:00:00,ISM Services PMI,HIGH,USD
 8248d600-9194-465f-aa1f-3a66e7ff1751,01/06/2027 15:00:00,ISM Services Prices Paid,MEDIUM,USD
 0e5e5ee4-17af-4263-a4aa-a6a179682bd3,01/06/2027 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
+9493b928-9383-489c-b888-467fd2096f84,01/06/2027 15:30:00,EIA Distillate Stocks Change,LOW,USD
+2fe52b32-5152-41e4-8ec2-c0a04466f99c,01/06/2027 15:30:00,EIA Gasoline Stocks Change,LOW,USD
+fad9426e-6077-4413-95f5-7f0ace760136,01/06/2027 15:30:00,EIA Heating Oil Stocks Change,LOW,USD
 30f82e10-536e-44ab-92d3-870f745bb483,01/06/2027 18:00:00,10-Year Note Auction,LOW,USD
 db5befcf-52ee-478b-9e1d-c77775a9eb34,01/06/2027 19:00:00,FOMC Minutes,HIGH,USD
 544e5f99-11b1-4315-be1f-228b1e6a68f5,01/07/2027 12:30:00,Challenger Job Cuts,MEDIUM,USD
