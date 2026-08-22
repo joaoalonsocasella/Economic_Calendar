@@ -1,11 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-57916d35-c649-4dc4-98a4-03e8964fee81,08/21/2026 13:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
-41bbcccb-31f3-4372-b33e-fbdc51593153,08/21/2026 13:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
-30bf2a48-048c-4468-ba85-77446b3a87cf,08/21/2026 13:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
-1f5c92b8-c135-4c6b-b44d-bdeb2c83c978,08/21/2026 17:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
-807fcd31-aa52-4054-9df7-2d03e1efdb2c,08/21/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-96598e9a-20b5-4db0-a86a-e50d92999aa0,08/21/2026 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-edf1a1ec-e4a4-468d-a058-d795cd788c86,08/21/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 fb97fdfd-a83b-4b7a-a656-420e883dc31a,08/24/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 f84d0032-640d-4054-8cdb-00711f3aa8a7,08/24/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 7f63d9b5-1002-487c-8061-a92cd877cbf0,08/25/2026 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
