@@ -1,4 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
+e41d3a46-36d0-451e-bde7-4e47f7d76a7c,08/24/2026 12:30:00,Chicago Fed National Activity Index ,HIGH,USD,Release,0.17,Growth
 fb97fdfd-a83b-4b7a-a656-420e883dc31a,08/24/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 f84d0032-640d-4054-8cdb-00711f3aa8a7,08/24/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 7f63d9b5-1002-487c-8061-a92cd877cbf0,08/25/2026 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
@@ -32,7 +33,6 @@ e3e9bf69-be24-4a8d-90af-3b2aec386f10,08/26/2026 14:30:00,EIA Distillate Stocks C
 c1a34400-8d09-4a27-a08f-9fb54308f431,08/26/2026 14:30:00,EIA Heating Oil Stocks Change,HIGH,USD,Release,0.18,Labor Market
 81401983-748d-4b21-b141-1d59ba12ad55,08/26/2026 17:00:00,5-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 2b5bc6d6-5bbc-40c8-836e-e9126c5fe710,08/27/2026 00:00:00,Jackson Hole Symposium,MEDIUM,USD,Speech,0.13,Monetary Policy
-e41d3a46-36d0-451e-bde7-4e47f7d76a7c,08/27/2026 12:30:00,Chicago Fed National Activity Index ,HIGH,USD,Release,0.17,Growth
 2763e21d-e282-4fb8-b5b3-f8bd346f0a01,08/27/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 1501de66-5d37-427f-a215-cb26ed8a6501,08/27/2026 12:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 d157f654-b52c-4980-ab08-7555a8610fa7,08/27/2026 12:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
