@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d0fe34f4-685a-4b98-b81e-44651192fe26,08/24/2026 12:00:00,1st half-month Core Inflation,HIGH,MXN,Release,0.19,Inflation
-6affb791-1bb0-4505-8cec-b1c3c578b4ba,08/24/2026 12:00:00,1st half-month Inflation,HIGH,MXN,Release,0.19,Inflation
-f8e7804b-2482-41a3-b019-f6701a2f0ddf,08/24/2026 12:00:00,Gross Domestic Product (QoQ),HIGH,MXN,Release,0.17,Growth
-e1b9c940-c39a-4196-ba5e-31f316a9f603,08/24/2026 12:00:00,Gross Domestic Product (YoY),HIGH,MXN,Release,0.17,Growth
 207ea357-ba46-407d-9905-2dc0d918f930,08/25/2026 15:00:00,Accumulated Current Account/GDP,MEDIUM,MXN,Release,0.11,Trade and External
 1a9f7fd8-98e6-44e7-a902-98156579fafa,08/25/2026 15:00:00,"Current Account, $ (QoQ)",MEDIUM,MXN,Release,0.11,Trade and External
 9e41fb06-6512-41ec-b637-3b93f34ea5a7,08/27/2026 12:00:00,Jobless Rate,HIGH,MXN,Release,0.18,Labor Market
