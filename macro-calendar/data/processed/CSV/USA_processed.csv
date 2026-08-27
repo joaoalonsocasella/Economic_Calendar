@@ -1,37 +1,20 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e4a64c40-49ef-4d4c-98f5-b8096b7da9f9,08/26/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-82803e88-0e44-47f8-915f-b8caeeb11b1d,08/26/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-4141f68c-7e2c-48ba-97ab-dded377cf59c,08/26/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-9fa8561b-1d7b-47c6-b72e-a62e234666c1,08/26/2026 12:30:00,Core Personal Consumption Expenditures (QoQ),HIGH,USD,Release,0.17,Growth
-c310c633-d818-448f-982c-d865da1eb950,08/26/2026 12:30:00,Durable Goods Orders,HIGH,USD,Release,0.17,Growth
-f62de9f0-771f-49c0-aee3-8793d758a197,08/26/2026 12:30:00,Durable Goods Orders ex Defense,HIGH,USD,Release,0.17,Growth
-ae80a45e-17f8-4737-bf4a-04bfc3a20be3,08/26/2026 12:30:00,Durable Goods Orders ex Transportation,HIGH,USD,Release,0.17,Growth
-ef89ba75-a9f5-4e42-856e-0dc1216eb2b2,08/26/2026 12:30:00,Gross Domestic Product Annualized,HIGH,USD,Release,0.17,Growth
-a54e7f24-ffd4-4ce5-91ce-ce9e0c01ffa7,08/26/2026 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD,Release,0.11,Trade and External
-c4b5f77a-5711-4654-8f37-fa9a7b09536c,08/26/2026 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD,Release,0.17,Growth
-01a3c5ac-f46c-4463-8735-e59115c05a43,08/26/2026 12:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-364a748f-9e7c-4ae6-a9c4-390310e7f341,08/26/2026 12:30:00,Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-fa77eaba-9d87-441d-a05d-fb72525d9d76,08/26/2026 12:30:00,Personal Consumption Expenditures Prices (QoQ),HIGH,USD,Release,0.17,Growth
-c87f5ce3-48ba-44c9-affa-35c29d1ed307,08/26/2026 12:30:00,Personal Income (MoM),HIGH,USD,Release,0.17,Growth
-465d3586-10d4-450e-9b0b-1c8e59f70a42,08/26/2026 12:30:00,Personal Spending,HIGH,USD,Release,0.17,Growth
-fbf88bba-1a32-4217-86a8-468f4980cdf4,08/26/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
-e3e9bf69-be24-4a8d-90af-3b2aec386f10,08/26/2026 14:30:00,EIA Distillate Stocks Change,HIGH,USD,Release,0.18,Labor Market
-81758607-66ef-42eb-85dc-4c58a8353a31,08/26/2026 14:30:00,EIA Gasoline Stocks Change,HIGH,USD,Release,0.18,Labor Market
-c1a34400-8d09-4a27-a08f-9fb54308f431,08/26/2026 14:30:00,EIA Heating Oil Stocks Change,HIGH,USD,Release,0.18,Labor Market
-81401983-748d-4b21-b141-1d59ba12ad55,08/26/2026 17:00:00,5-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-2b5bc6d6-5bbc-40c8-836e-e9126c5fe710,08/27/2026 00:00:00,Jackson Hole Symposium,MEDIUM,USD,Speech,0.13,Monetary Policy
+a234972f-6bff-467d-95f7-f65e92fc74ca,08/27/2026 11:30:00,Fed's Schmid speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+b91aed73-2faf-4bb3-b0be-40c8dd2ae378,08/27/2026 12:15:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 2763e21d-e282-4fb8-b5b3-f8bd346f0a01,08/27/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 1501de66-5d37-427f-a215-cb26ed8a6501,08/27/2026 12:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 d157f654-b52c-4980-ab08-7555a8610fa7,08/27/2026 12:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 e04960dc-ce7d-41a2-8f1d-de1ccc70a90c,08/27/2026 12:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
 2ef5c31c-fe36-4e7e-8abd-183cecb174aa,08/27/2026 12:30:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
+2b5bc6d6-5bbc-40c8-836e-e9126c5fe710,08/27/2026 14:00:00,Jackson Hole Symposium,MEDIUM,USD,Speech,0.13,Monetary Policy
 fac9d3e4-93af-4817-87bc-7b90dc55c7c0,08/27/2026 14:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
+27ef4cb9-e37f-464c-b706-c5e7cb9b475b,08/27/2026 14:30:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 0bb8f7b1-eb28-44a2-97cd-76f6c48267bc,08/27/2026 15:00:00,Kansas Fed Manufacturing Activity,HIGH,USD,Release,0.17,Growth
 9ec18364-3670-4437-806d-c3c9009dd69e,08/27/2026 15:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 d4b40d6b-646d-470a-9d2a-9054158456b4,08/27/2026 17:00:00,7-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-2b605a0a-5c1a-42df-8241-512cdf6bad92,08/28/2026 00:00:00,Jackson Hole Symposium,MEDIUM,USD,Speech,0.13,Monetary Policy
 51fecc0e-6f81-4105-a69f-2040855ef9aa,08/28/2026 13:45:00,Chicago PMI,MEDIUM,USD,Release,0.14,Confidence
 58b51ca1-dc68-48d8-800c-99b6dd7ca3ab,08/28/2026 14:00:00,Fed's Chair Warsh speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+2b605a0a-5c1a-42df-8241-512cdf6bad92,08/28/2026 14:00:00,Jackson Hole Symposium,MEDIUM,USD,Speech,0.13,Monetary Policy
 174696fa-bffa-426c-97f5-86542efa7c41,08/28/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
 001ece90-2262-4b98-9a5a-67ffd5070222,08/28/2026 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
 b0d4e3c3-5569-4add-8d8e-52cdbad73d85,08/28/2026 14:00:00,Nonfarm Payrolls Benchmark Revision,HIGH,USD,Release,0.18,Labor Market
@@ -41,7 +24,7 @@ d7cfbdcf-4cb9-4095-b300-fbeccbd61137,08/28/2026 14:00:00,UoM 1-year Consumer Inf
 f81ffcda-6838-4e72-b753-1bb7cb07927d,08/28/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 e6203c95-0ad6-4db6-b46c-38dab8da6784,08/28/2026 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 ac0cdf42-3064-480d-9c02-4d3b8403ec4f,08/28/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-64455197-8e57-4821-a0b9-895cdf923d38,08/29/2026 00:00:00,Jackson Hole Symposium,MEDIUM,USD,Speech,0.13,Monetary Policy
+64455197-8e57-4821-a0b9-895cdf923d38,08/29/2026 14:00:00,Jackson Hole Symposium,MEDIUM,USD,Speech,0.13,Monetary Policy
 555afba4-ef96-491a-8d91-0e075a912d92,08/31/2026 14:30:00,Dallas Fed Manufacturing Business Index,MEDIUM,USD,Release,0.14,Confidence
 c9385ba5-3fac-4f27-85fd-c6bc7f73388c,08/31/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 ee419e73-1da2-4d61-835b-a06a8fef791e,08/31/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
