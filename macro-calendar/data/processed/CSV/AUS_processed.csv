@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-4fbc8aa5-ef7e-447b-ac7e-0af11f3ad256,08/27/2026 01:30:00,Private Capital Expenditure,HIGH,AUD,Release,0.17,Growth
-1fbfd78e-0314-4fd4-882c-ab858bb524f9,08/27/2026 01:30:00,RBA Bulletin,MEDIUM,AUD,Speech,0.13,Monetary Policy
 afb24860-2ba1-4903-a295-b6a60625af6e,08/28/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 e59128e9-2207-4cfa-aae1-0f08b6723941,08/31/2026 01:00:00,TD-MI Inflation Gauge (MoM),HIGH,AUD,Release,0.19,Inflation
 f656c6bf-7770-48ee-ad30-ef4d75a4a04a,08/31/2026 01:00:00,TD-MI Inflation Gauge (YoY),HIGH,AUD,Release,0.19,Inflation
@@ -282,6 +280,7 @@ d8a88815-1a8c-4b91-91fb-ce1789e194b4,03/31/2027 00:30:00,Trimmed Mean CPI (MoM),
 dd3cf1e3-8f0c-4f98-bd27-27ce7d005a41,04/01/2027 00:30:00,Exports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
 e337eeec-9c69-435b-8700-bebd8543531d,04/01/2027 00:30:00,Imports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
 1b4a3f59-7938-4fa2-ab69-2b58a09e4de3,04/01/2027 00:30:00,Trade Balance (MoM),MEDIUM,AUD,Release,0.11,Trade and External
+9a51cbb5-bab4-4b37-864e-dbc30e4970d5,04/03/2027 16:00:00,Daylight Saving Time Ends,HIGH,AUD,Release,0.2,Monetary Policy
 ca9c3dcb-1c26-4418-aca4-55eab173d4ea,04/22/2027 01:30:00,Employment Change s.a.,HIGH,AUD,Release,0.18,Labor Market
 79fed7b3-70b8-41a9-b8b9-7ace1ac4e6b0,04/22/2027 01:30:00,Full-Time Employment,HIGH,AUD,Release,0.18,Labor Market
 e4dcea73-a816-4bce-806f-8ead1751fe4c,04/22/2027 01:30:00,Part-Time Employment,HIGH,AUD,Release,0.18,Labor Market
@@ -341,3 +340,10 @@ d515a7d2-9644-4fbe-b436-bfd7a5028836,08/25/2027 01:30:00,Consumer Price Index (M
 1c6f99bd-2104-4a8b-8609-3c42e359d05d,08/25/2027 01:30:00,Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
 7d6e362d-a224-4afe-a703-477f38eb1ea6,08/25/2027 01:30:00,Trimmed Mean CPI (MoM),HIGH,AUD,Release,0.19,Inflation
 716e0a6d-7e0e-4f34-a33f-3d7727c7bb71,08/25/2027 01:30:00,Trimmed Mean CPI (YoY),HIGH,AUD,Release,0.19,Inflation
+24b15208-beba-4c23-a6e1-81df5dd1ff9c,09/01/2027 01:30:00,Gross Domestic Product (QoQ),HIGH,AUD,Release,0.17,Growth
+a6fc5230-4e84-4286-8c7e-4ba152917f83,09/01/2027 01:30:00,Gross Domestic Product (YoY),HIGH,AUD,Release,0.17,Growth
+dd645c96-b98d-45a8-aa3c-e146cd60e57d,09/16/2027 01:30:00,Employment Change s.a.,HIGH,AUD,Release,0.18,Labor Market
+db33d36a-e963-426b-b9e5-6da183849a54,09/16/2027 01:30:00,Full-Time Employment,HIGH,AUD,Release,0.18,Labor Market
+5a2e7000-c881-4c44-a7fb-e3a6030b1520,09/16/2027 01:30:00,Part-Time Employment,HIGH,AUD,Release,0.18,Labor Market
+2ff84c22-63c6-4000-ae7f-e207ddf534f2,09/16/2027 01:30:00,Participation Rate,HIGH,AUD,Release,0.18,Labor Market
+c0173bfb-bd25-4660-abd0-7acab38e99aa,09/16/2027 01:30:00,Unemployment Rate s.a.,HIGH,AUD,Release,0.18,Labor Market

@@ -1,9 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-10885605-7165-4293-82f6-27cb98f195d7,08/27/2026 06:00:00,Gross Domestic Product Growth,LOW,NOK,Release,0.09,Money and Credit
-64ddab54-db27-49fc-b0df-abe63f714e82,08/27/2026 06:00:00,Gross Domestic Product Growth Mainland,LOW,NOK,Release,0.09,Money and Credit
-3238ae0e-16d6-44db-b1ff-6e5107b0ba7f,08/28/2026 06:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
 6dde1dad-86ed-44db-8cc0-0e4fb939f6ad,08/28/2026 06:00:00,Retail Sales ,HIGH,NOK,Release,0.17,Growth
-7c8bee43-526b-41ce-a6d6-d00a9cccd0c2,08/28/2026 08:00:00,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
+3238ae0e-16d6-44db-b1ff-6e5107b0ba7f,08/28/2026 06:00:05,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
+7c8bee43-526b-41ce-a6d6-d00a9cccd0c2,08/28/2026 08:00:07,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
 c8178945-6161-4db8-8589-f5861cace59f,09/02/2026 06:00:00,Current Account,MEDIUM,NOK,Release,0.11,Trade and External
 f46a2fbf-3826-41c0-8109-1143caf7a63b,09/07/2026 06:00:00,Manufacturing Output,HIGH,NOK,Release,0.17,Growth
 cb1754cc-50bb-4284-91b4-390cdadfb753,09/09/2026 06:00:00,Consumer Price Index (MoM),HIGH,NOK,Release,0.19,Inflation

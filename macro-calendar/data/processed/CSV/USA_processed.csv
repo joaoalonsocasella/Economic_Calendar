@@ -1,18 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a234972f-6bff-467d-95f7-f65e92fc74ca,08/27/2026 11:30:00,Fed's Schmid speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-b91aed73-2faf-4bb3-b0be-40c8dd2ae378,08/27/2026 12:15:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-2763e21d-e282-4fb8-b5b3-f8bd346f0a01,08/27/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
-1501de66-5d37-427f-a215-cb26ed8a6501,08/27/2026 12:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
-d157f654-b52c-4980-ab08-7555a8610fa7,08/27/2026 12:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
-e04960dc-ce7d-41a2-8f1d-de1ccc70a90c,08/27/2026 12:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
-2ef5c31c-fe36-4e7e-8abd-183cecb174aa,08/27/2026 12:30:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
-2b5bc6d6-5bbc-40c8-836e-e9126c5fe710,08/27/2026 14:00:00,Jackson Hole Symposium,MEDIUM,USD,Speech,0.13,Monetary Policy
-fac9d3e4-93af-4817-87bc-7b90dc55c7c0,08/27/2026 14:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
-27ef4cb9-e37f-464c-b706-c5e7cb9b475b,08/27/2026 14:30:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-0bb8f7b1-eb28-44a2-97cd-76f6c48267bc,08/27/2026 15:00:00,Kansas Fed Manufacturing Activity,HIGH,USD,Release,0.17,Growth
-9ec18364-3670-4437-806d-c3c9009dd69e,08/27/2026 15:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
-d4b40d6b-646d-470a-9d2a-9054158456b4,08/27/2026 17:00:00,7-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-51fecc0e-6f81-4105-a69f-2040855ef9aa,08/28/2026 13:45:00,Chicago PMI,MEDIUM,USD,Release,0.14,Confidence
+e1930f93-3121-4a81-bf05-c8d02a4dcc8d,08/28/2026 13:00:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 58b51ca1-dc68-48d8-800c-99b6dd7ca3ab,08/28/2026 14:00:00,Fed's Chair Warsh speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 2b605a0a-5c1a-42df-8241-512cdf6bad92,08/28/2026 14:00:00,Jackson Hole Symposium,MEDIUM,USD,Speech,0.13,Monetary Policy
 174696fa-bffa-426c-97f5-86542efa7c41,08/28/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
@@ -20,11 +7,13 @@ d4b40d6b-646d-470a-9d2a-9054158456b4,08/27/2026 17:00:00,7-Year Note Auction,LOW
 b0d4e3c3-5569-4add-8d8e-52cdbad73d85,08/28/2026 14:00:00,Nonfarm Payrolls Benchmark Revision,HIGH,USD,Release,0.18,Labor Market
 d7cfbdcf-4cb9-4095-b300-fbeccbd61137,08/28/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
 34ba9ffe-a391-481c-85eb-3e160f36c4b5,08/28/2026 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
+93372552-bfb1-4097-baa6-6cee8f0ba173,08/28/2026 16:45:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 74c23104-324f-49bf-94b2-f476c088423e,08/28/2026 17:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
 f81ffcda-6838-4e72-b753-1bb7cb07927d,08/28/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 e6203c95-0ad6-4db6-b46c-38dab8da6784,08/28/2026 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 ac0cdf42-3064-480d-9c02-4d3b8403ec4f,08/28/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 64455197-8e57-4821-a0b9-895cdf923d38,08/29/2026 14:00:00,Jackson Hole Symposium,MEDIUM,USD,Speech,0.13,Monetary Policy
+51fecc0e-6f81-4105-a69f-2040855ef9aa,08/31/2026 13:45:00,Chicago PMI,MEDIUM,USD,Release,0.14,Confidence
 555afba4-ef96-491a-8d91-0e075a912d92,08/31/2026 14:30:00,Dallas Fed Manufacturing Business Index,MEDIUM,USD,Release,0.14,Confidence
 c9385ba5-3fac-4f27-85fd-c6bc7f73388c,08/31/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 ee419e73-1da2-4d61-835b-a06a8fef791e,08/31/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit

@@ -1,9 +1,4 @@
 Id,Start,Name,Impact,Currency
-831249c6-1200-4a15-b44a-d5a39e5697e5,08/27/2026 23:30:00,Jobs / Applicants Ratio,LOW,JPY
-dea52e2b-7690-408a-9388-9918f5769972,08/27/2026 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
-97e52105-4cb2-4d45-a355-15bec2fb6ea1,08/27/2026 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
-0ece72bd-004e-4cac-a584-52f8fb200c55,08/27/2026 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
-161fef8a-70c9-4cce-964a-bb98c3f74429,08/27/2026 23:30:00,Unemployment Rate,MEDIUM,JPY
 3a2df94a-49c5-48f6-a88e-83fb6b8917f9,08/28/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 a6b3e423-ecf9-4b8e-907b-1b7c7662c52c,08/30/2026 23:50:00,Industrial Production (MoM),LOW,JPY
 3f6e561f-cf68-4cae-ba35-4520a2032329,08/30/2026 23:50:00,Industrial Production (YoY),LOW,JPY
@@ -407,3 +402,11 @@ dabc4caf-e5be-432a-982e-cd0f6ad2ee64,08/15/2027 23:50:00,Gross Domestic Product 
 6955ed39-e826-4e02-9de4-6399ac3d5336,08/30/2027 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 64da15f4-d542-4051-9272-7f122180f73b,08/30/2027 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
 380e305d-6078-4b94-9b0d-77ce4d53ecf9,08/30/2027 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
+869bd570-ec27-4358-8b4b-f50ebef2f3b8,09/06/2027 23:50:00,Gross Domestic Product (QoQ),HIGH,JPY
+21816cdc-f585-4b86-9414-2d21ce7534b1,09/06/2027 23:50:00,Gross Domestic Product Annualized,MEDIUM,JPY
+d3f6dcbb-9aef-4e0b-a3b6-82b9eb8665b9,09/06/2027 23:50:00,Gross Domestic Product Deflator (YoY),MEDIUM,JPY
+8a71262f-98be-4423-ba59-d88a795b4733,09/30/2027 23:50:00,Tankan Large All Industry Capex,MEDIUM,JPY
+4bc5aee7-8b9e-44a6-a372-c8b14d5f74a3,09/30/2027 23:50:00,Tankan Large Manufacturing Index,HIGH,JPY
+fabf9206-0894-448c-824d-deab706223f4,09/30/2027 23:50:00,Tankan Large Manufacturing Outlook,MEDIUM,JPY
+4bf54699-415b-4539-a7e4-c4d3bb4671ae,09/30/2027 23:50:00,Tankan Non - Manufacturing Index,LOW,JPY
+865bf33c-838f-4fc6-8227-42fc91673457,09/30/2027 23:50:00,Tankan Non - Manufacturing Outlook,LOW,JPY
