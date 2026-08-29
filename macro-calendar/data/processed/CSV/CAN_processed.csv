@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-516030b5-f19c-42b3-a83c-2064e83ade9e,08/28/2026 12:30:00,Gross Domestic Product (MoM),LOW,CAD,Release,0.07,Housing
-7b13a891-c73b-48b3-8e25-c85932ef9ec3,08/28/2026 12:30:00,Gross Domestic Product (QoQ),HIGH,CAD,Release,0.17,Growth
-753fbcb0-8c05-47a5-953c-f07c841da271,08/28/2026 12:30:00,Gross Domestic Product Annualized,HIGH,CAD,Release,0.17,Growth
 789d953f-93b7-43b1-ac20-842dc0e4e12e,09/01/2026 13:30:00,S&P Global Manufacturing PMI,HIGH,CAD,Release,0.17,Growth
 6ec28cd4-3283-4157-9eb8-06c46fa5249d,09/02/2026 12:30:00,Labor Productivity (QoQ),HIGH,CAD,Release,0.18,Labor Market
 b8da849e-3653-441c-b145-7f1356419ee0,09/02/2026 13:45:00,BoC Interest Rate Decision,MEDIUM,CAD,Speech,0.13,Monetary Policy

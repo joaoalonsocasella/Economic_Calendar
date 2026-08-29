@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-ee6187c0-ffeb-4580-81c8-248ebe6d6098,08/28/2026 06:00:00,Import Price Index (MoM),HIGH,EUR,Release,0.468,Trade and External
-120588f5-b3d9-43ac-8b1d-46f547cfc547,08/28/2026 06:00:00,Import Price Index (YoY),HIGH,EUR,Release,0.468,Trade and External
-e2f3e197-12ee-4998-86d2-f8c4f179c5aa,08/28/2026 07:55:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
-0a06fd9b-f074-4245-984b-ebecf769fbe3,08/28/2026 07:55:00,Unemployment Rate s.a.,HIGH,EUR,Release,0.765,Labor Market
 4272a529-8a5d-47d1-8558-ae8c3e9bed7f,08/31/2026 08:00:00,Baden-Wuerttemberg CPI (MoM),HIGH,EUR,Release,0.807,Inflation
 bea0ba26-8e3d-455b-97de-b14262ef4104,08/31/2026 08:00:00,Baden-Wuerttemberg CPI (YoY),HIGH,EUR,Release,0.807,Inflation
 c35f8386-b6dd-4d7c-86a6-502823e776bb,08/31/2026 08:00:00,Bavaria CPI (MoM),HIGH,EUR,Release,0.807,Inflation

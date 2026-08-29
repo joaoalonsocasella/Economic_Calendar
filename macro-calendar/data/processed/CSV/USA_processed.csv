@@ -1,17 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e1930f93-3121-4a81-bf05-c8d02a4dcc8d,08/28/2026 13:00:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-58b51ca1-dc68-48d8-800c-99b6dd7ca3ab,08/28/2026 14:00:00,Fed's Chair Warsh speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-2b605a0a-5c1a-42df-8241-512cdf6bad92,08/28/2026 14:00:00,Jackson Hole Symposium,MEDIUM,USD,Speech,0.13,Monetary Policy
-174696fa-bffa-426c-97f5-86542efa7c41,08/28/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
-001ece90-2262-4b98-9a5a-67ffd5070222,08/28/2026 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
-b0d4e3c3-5569-4add-8d8e-52cdbad73d85,08/28/2026 14:00:00,Nonfarm Payrolls Benchmark Revision,HIGH,USD,Release,0.18,Labor Market
-d7cfbdcf-4cb9-4095-b300-fbeccbd61137,08/28/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
-34ba9ffe-a391-481c-85eb-3e160f36c4b5,08/28/2026 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
-93372552-bfb1-4097-baa6-6cee8f0ba173,08/28/2026 16:45:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-74c23104-324f-49bf-94b2-f476c088423e,08/28/2026 17:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
-f81ffcda-6838-4e72-b753-1bb7cb07927d,08/28/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-e6203c95-0ad6-4db6-b46c-38dab8da6784,08/28/2026 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-ac0cdf42-3064-480d-9c02-4d3b8403ec4f,08/28/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 64455197-8e57-4821-a0b9-895cdf923d38,08/29/2026 14:00:00,Jackson Hole Symposium,MEDIUM,USD,Speech,0.13,Monetary Policy
 51fecc0e-6f81-4105-a69f-2040855ef9aa,08/31/2026 13:45:00,Chicago PMI,MEDIUM,USD,Release,0.14,Confidence
 555afba4-ef96-491a-8d91-0e075a912d92,08/31/2026 14:30:00,Dallas Fed Manufacturing Business Index,MEDIUM,USD,Release,0.14,Confidence
