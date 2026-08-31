@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a6b3e423-ecf9-4b8e-907b-1b7c7662c52c,08/30/2026 23:50:00,Industrial Production (MoM),HIGH,JPY,Release,0.17,Growth
-3f6e561f-cf68-4cae-ba35-4520a2032329,08/30/2026 23:50:00,Industrial Production (YoY),HIGH,JPY,Release,0.17,Growth
-ee645a50-fa0a-428b-8e50-7c9bbd7c0e34,08/30/2026 23:50:00,Large Retailer Sales,MEDIUM,JPY,Release,0.14,Confidence
-29766eb1-2db4-4f96-b619-5aff57a8677a,08/30/2026 23:50:00,Retail Trade (YoY),MEDIUM,JPY,Release,0.11,Trade and External
-4f358cf6-3c55-4ee4-8ab8-5129626eee2d,08/30/2026 23:50:00,Retail Trade s.a (MoM),MEDIUM,JPY,Release,0.11,Trade and External
 fb173ab3-b94a-4b9f-8720-3472978732f4,08/31/2026 05:00:00,Annualized Housing Starts,LOW,JPY,Release,0.07,Housing
 251f0ed9-4274-457b-8ada-a92dcfab04ca,08/31/2026 05:00:00,Construction Orders (YoY),HIGH,JPY,Release,0.17,Growth
 070c6cda-4815-4773-a59b-a5855220248f,08/31/2026 05:00:00,Housing Starts (YoY),LOW,JPY,Release,0.07,Housing
@@ -31,23 +26,23 @@ cb69d0b6-b45f-48c4-b520-5975e58602e1,09/08/2026 05:00:00,Eco Watchers Survey: Cu
 cf963f4a-7685-4027-ab43-5986943a0a21,09/08/2026 23:50:00,Money Supply M2+CD (YoY),HIGH,JPY,Release,0.19,Inflation
 98a8144b-6442-42fe-8b02-465195223560,09/09/2026 06:00:00,Machine Tool Orders (YoY),HIGH,JPY,Release,0.17,Growth
 9bdd48fc-e67b-4332-8a13-4189164193d7,09/09/2026 23:50:00,Bank Lending (YoY),HIGH,JPY,Release,0.19,Inflation
-01b28736-48a6-4a18-a92e-65f44fc2c160,09/09/2026 23:50:00,BSI Large Manufacturing Conditions Index (QoQ),MEDIUM,JPY,Release,0.14,Confidence
 249c08c3-0b95-480f-893d-404142219f79,09/09/2026 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth
 358d1abb-9c65-4f39-b1df-33273d5bde76,09/09/2026 23:50:00,Foreign Investment in Japan Stocks,HIGH,JPY,Release,0.17,Growth
-389bc1a0-dfb9-4533-8d01-f171396b11e3,09/09/2026 23:50:00,Producer Price Index (MoM),HIGH,JPY,Release,0.19,Inflation
-1dd6f9d5-eb8d-4545-acb6-0f2379a562a2,09/09/2026 23:50:00,Producer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
+01b28736-48a6-4a18-a92e-65f44fc2c160,09/10/2026 23:50:00,BSI Large Manufacturing Conditions Index (QoQ),MEDIUM,JPY,Release,0.14,Confidence
+389bc1a0-dfb9-4533-8d01-f171396b11e3,09/10/2026 23:50:00,Producer Price Index (MoM),HIGH,JPY,Release,0.19,Inflation
+1dd6f9d5-eb8d-4545-acb6-0f2379a562a2,09/10/2026 23:50:00,Producer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
 d956b9ad-e6ed-4ebf-bc87-c2da56f68c7e,09/11/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
 315e96c8-eb9f-456a-b10e-92d4079e2eed,09/15/2026 04:30:00,Capacity Utilization,HIGH,JPY,Release,0.2,Monetary Policy
 029bc37f-a6a5-40a0-b329-d9d1f9a0dd87,09/15/2026 04:30:00,Industrial Production (MoM),HIGH,JPY,Release,0.17,Growth
 9d100f47-d43a-4a2d-b785-82c6ea87daac,09/15/2026 04:30:00,Industrial Production (YoY),HIGH,JPY,Release,0.17,Growth
-a130c745-7a2c-4602-92a9-c67c5f4a24b2,09/16/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY,Release,0.11,Trade and External
-c18dd204-e1a4-466a-9990-95314526db66,09/16/2026 23:50:00,Exports (YoY),MEDIUM,JPY,Release,0.11,Trade and External
+a130c745-7a2c-4602-92a9-c67c5f4a24b2,09/15/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY,Release,0.11,Trade and External
+c18dd204-e1a4-466a-9990-95314526db66,09/15/2026 23:50:00,Exports (YoY),MEDIUM,JPY,Release,0.11,Trade and External
+f4f047a7-970d-4638-b4c8-7e0d2879a354,09/15/2026 23:50:00,Imports (YoY),MEDIUM,JPY,Release,0.11,Trade and External
+4890cc38-8144-4db2-88d3-2b986f3c5a88,09/15/2026 23:50:00,Machinery Orders (MoM),HIGH,JPY,Release,0.17,Growth
+c11d6657-e98b-48f0-8a40-a8e45092f302,09/15/2026 23:50:00,Machinery Orders (YoY),HIGH,JPY,Release,0.17,Growth
+070bd7a3-37bd-4ecc-adcb-50052aeba3ae,09/15/2026 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY,Release,0.11,Trade and External
 c26515b1-eee0-4a7d-bafe-0844fc981c49,09/16/2026 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth
 d4c49daf-2504-4298-ad3d-d89166f921f9,09/16/2026 23:50:00,Foreign Investment in Japan Stocks,HIGH,JPY,Release,0.17,Growth
-f4f047a7-970d-4638-b4c8-7e0d2879a354,09/16/2026 23:50:00,Imports (YoY),MEDIUM,JPY,Release,0.11,Trade and External
-4890cc38-8144-4db2-88d3-2b986f3c5a88,09/16/2026 23:50:00,Machinery Orders (MoM),HIGH,JPY,Release,0.17,Growth
-c11d6657-e98b-48f0-8a40-a8e45092f302,09/16/2026 23:50:00,Machinery Orders (YoY),HIGH,JPY,Release,0.17,Growth
-070bd7a3-37bd-4ecc-adcb-50052aeba3ae,09/16/2026 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY,Release,0.11,Trade and External
 f4255e7f-bf92-4be4-8e47-6f6143676466,09/17/2026 23:30:00,National Consumer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
 cf065e22-9fa7-4765-9ecd-3b776d6b33da,09/17/2026 23:30:00,"National CPI ex Food, Energy (YoY)",HIGH,JPY,Release,0.19,Inflation
 8605a4e9-72ad-42f3-9ccd-a9bd58a33bc3,09/17/2026 23:30:00,National CPI ex Fresh Food (YoY),HIGH,JPY,Release,0.19,Inflation
