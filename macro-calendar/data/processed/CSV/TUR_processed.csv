@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-b0167f71-2d8b-45d1-8a94-733bacf60fe7,08/31/2026 07:00:00,Quarterly Gross Domestic Product,HIGH,TRY,Release,0.17,Growth
-fd10395c-a61f-4317-b5b2-27454828d963,08/31/2026 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
 c37cbf06-2cc7-4377-bb3f-4c80ac9f07cc,09/02/2026 07:00:00,Exports,MEDIUM,TRY,Release,0.11,Trade and External
 d69e5844-0344-4afd-9879-45576d993593,09/03/2026 07:00:00,Consumer Price Index (MoM),HIGH,TRY,Release,0.19,Inflation
 3d833c48-b9a9-4168-9b74-f58fa92cd841,09/03/2026 07:00:00,Consumer Price Index (YoY),HIGH,TRY,Release,0.19,Inflation
