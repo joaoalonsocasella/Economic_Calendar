@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-5dc78282-2252-4a1a-84a4-6551751459d5,09/01/2026 05:00:00,HSBC Manufacturing PMI,HIGH,INR,Release,0.17,Growth
-135f973b-965b-4f04-8033-2ba42d47972b,09/02/2026 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy
 48d17554-ad20-4f18-86cc-0a54a49e2876,09/03/2026 05:00:00,HSBC Composite PMI,HIGH,INR,Release,0.17,Growth
 6710f250-595c-4c2e-8d0f-ad155b0cfde0,09/03/2026 05:00:00,HSBC Services PMI,HIGH,INR,Release,0.17,Growth
 0123615a-8fea-4fc8-affb-5e20163b25f9,09/04/2026 11:30:00,Bank Loan Growth,LOW,INR,Release,0.09,Money and Credit

@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-8f5ca21e-1557-4677-8e70-2d0a0a022e01,09/01/2026 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
-e2c1bdc0-f80e-4bdb-aa93-afc3f2e8b790,09/01/2026 22:45:00,Building Permits s.a. (MoM),LOW,NZD,Release,0.07,Housing
 2881fb4b-d447-408a-9300-3eb4bc0e5a9e,09/02/2026 02:00:00,RBNZ Interest Rate Decision,MEDIUM,NZD,Speech,0.13,Monetary Policy
 c28bdeb6-42d8-49d8-975c-02971c442f1e,09/02/2026 02:00:00,RBNZ Monetary Policy Review,HIGH,NZD,Release,0.2,Monetary Policy
 ac4eaa46-6def-4281-a8e2-d7e7b79a6912,09/02/2026 02:00:00,RBNZ Monetary Policy Statement,MEDIUM,NZD,Speech,0.13,Monetary Policy
@@ -17,10 +15,8 @@ b58fe930-0936-4950-976a-967c2f7daf24,09/14/2026 22:45:00,Electronic Card Retail 
 c5e9547b-a144-45cc-8e07-e05f90b5cde6,09/15/2026 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 e3ae9726-2d04-46df-9e0f-cbb329f5fe22,09/15/2026 22:45:00,Current Account - GDP Ratio,MEDIUM,NZD,Release,0.11,Trade and External
 8d7bda32-71d3-4d1d-a599-1cbfddcb283b,09/15/2026 22:45:00,Current Account (QoQ),MEDIUM,NZD,Release,0.11,Trade and External
-e1c58351-e883-4cce-952d-c529e3a0eda6,09/16/2026 21:45:00,Gross Domestic Product (QoQ),HIGH,NZD,Release,0.17,Growth
-974b01ed-8fdc-468f-a765-75ae14565fb6,09/16/2026 21:45:00,Gross Domestic Product (YoY),HIGH,NZD,Release,0.17,Growth
-b5a575d6-a5b3-43fa-9eb9-1bac6fa26573,09/16/2026 22:45:00,Gross Domestic Product (QoQ),HIGH,NZD,Release,0.17,Growth
-b86ab990-0330-481f-9993-0a08dec199c3,09/16/2026 22:45:00,Gross Domestic Product (YoY),HIGH,NZD,Release,0.17,Growth
+e1c58351-e883-4cce-952d-c529e3a0eda6,09/16/2026 22:45:00,Gross Domestic Product (QoQ),HIGH,NZD,Release,0.17,Growth
+974b01ed-8fdc-468f-a765-75ae14565fb6,09/16/2026 22:45:00,Gross Domestic Product (YoY),HIGH,NZD,Release,0.17,Growth
 385badcd-743c-429b-88f4-c59a77e47b55,09/17/2026 22:45:00,Exports,MEDIUM,NZD,Release,0.11,Trade and External
 c603beb6-4d82-461f-a1b2-0bae55fe255c,09/17/2026 22:45:00,Food Price Index (MoM),HIGH,NZD,Release,0.19,Inflation
 14ff2a41-1b38-42fd-a0a0-d1d800fee3b5,09/17/2026 22:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External
@@ -103,8 +99,6 @@ cbe28735-15f2-458a-8a86-b8db0560a859,12/15/2026 15:00:00,GDT Price Index,MEDIUM,
 c9833742-a399-4ac7-a014-994329a08b3a,12/15/2026 21:45:00,Current Account - GDP Ratio,MEDIUM,NZD,Release,0.11,Trade and External
 687a8a96-46f7-41f5-9b29-68ffc6f93732,12/15/2026 21:45:00,Current Account (QoQ),MEDIUM,NZD,Release,0.11,Trade and External
 7fe0aeb8-692e-4e19-9abe-568029b31077,12/16/2026 21:45:00,Gross Domestic Product (QoQ),HIGH,NZD,Release,0.17,Growth
-b5e99630-d62e-4e16-8d82-e7430d8a7ca6,12/16/2026 21:45:00,Gross Domestic Product (QoQ),HIGH,NZD,Release,0.17,Growth
-f61b53ed-12b7-4c5b-95b4-1a08e99eb7ba,12/16/2026 21:45:00,Gross Domestic Product (YoY),HIGH,NZD,Release,0.17,Growth
 8853b60a-524a-4cd2-8a6e-09a140e6ea58,12/16/2026 21:45:00,Gross Domestic Product (YoY),HIGH,NZD,Release,0.17,Growth
 d4ac89a3-fd9b-437e-9774-f13cf79a8d87,12/17/2026 21:45:00,Exports,MEDIUM,NZD,Release,0.11,Trade and External
 80a16e8d-0749-48e8-a177-e66e17899137,12/17/2026 21:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External
@@ -154,10 +148,9 @@ c4630f1c-241d-496e-9902-ecdf4b4a2016,03/03/2027 21:45:00,Terms of Trade Index,ME
 f0d651c9-f6e9-4321-b49a-f35f34abc268,03/16/2027 21:45:00,Current Account - GDP Ratio,MEDIUM,NZD,Release,0.11,Trade and External
 77a52779-a44f-48bd-8459-8d0c9d41c3d0,03/16/2027 21:45:00,Current Account (QoQ),MEDIUM,NZD,Release,0.11,Trade and External
 f0522f46-51fd-4a9d-b892-74c610959777,03/17/2027 21:45:00,Gross Domestic Product (QoQ),HIGH,NZD,Release,0.17,Growth
-31f77553-4b50-4e2f-8a65-bc606f2126d7,03/17/2027 21:45:00,Gross Domestic Product (QoQ),HIGH,NZD,Release,0.17,Growth
-4feafd2e-8bd7-4caa-ba39-fe010c550300,03/17/2027 21:45:00,Gross Domestic Product (YoY),HIGH,NZD,Release,0.17,Growth
 8e815ef0-347e-4ec8-b399-3ba01dfeb260,03/17/2027 21:45:00,Gross Domestic Product (YoY),HIGH,NZD,Release,0.17,Growth
 0bc8a074-ecca-44b4-a28b-07572ebf0e1e,03/18/2027 20:00:00,Westpac Consumer Survey,MEDIUM,NZD,Release,0.14,Confidence
+184b7bb0-905f-48ab-bd65-22e27f442f97,04/03/2027 16:00:00,Daylight Saving Time Ends,HIGH,NZD,Release,0.2,Monetary Policy
 ec8c520b-09d4-4941-8a6b-0639cd5f12ff,04/20/2027 22:45:00,Consumer Price Index (QoQ),HIGH,NZD,Release,0.19,Inflation
 5083a563-6766-4a9a-8da2-8c61d58f5cc8,04/20/2027 22:45:00,Consumer Price Index (YoY),HIGH,NZD,Release,0.19,Inflation
 7774b560-7b49-467b-a053-5336aef23612,05/04/2027 22:45:00,Employment Change,HIGH,NZD,Release,0.18,Labor Market
@@ -170,3 +163,15 @@ a95eefcf-99f5-47ab-a616-1cb31597a608,05/04/2027 22:45:00,Unemployment Rate,HIGH,
 fd0c4a1e-6270-47a2-8967-822505c4d9d8,05/23/2027 22:45:00,Retail Sales ex Autos (QoQ),HIGH,NZD,Release,0.17,Growth
 e8496869-7eb4-416b-b987-8d85df06e2eb,06/16/2027 22:45:00,Gross Domestic Product (QoQ),HIGH,NZD,Release,0.17,Growth
 f7d19f80-06cb-44a1-8b4f-80d59524403a,06/16/2027 22:45:00,Gross Domestic Product (YoY),HIGH,NZD,Release,0.17,Growth
+02ed53ad-8e30-4544-b43d-0f75af56f380,07/19/2027 22:45:00,Consumer Price Index (QoQ),HIGH,NZD,Release,0.19,Inflation
+3afc794a-806a-49e9-bce2-ff281dfded61,07/19/2027 22:45:00,Consumer Price Index (YoY),HIGH,NZD,Release,0.19,Inflation
+310d2379-d549-4807-9280-1648b288c557,08/03/2027 22:45:00,Employment Change,HIGH,NZD,Release,0.18,Labor Market
+907d7d63-0e64-4fca-8fb4-dd0a31aeef11,08/03/2027 22:45:00,Labour Cost Index (QoQ),HIGH,NZD,Release,0.18,Labor Market
+025f7c01-f5eb-46bd-bf09-07fa66adf0e4,08/03/2027 22:45:00,Labour Cost Index (YoY),HIGH,NZD,Release,0.19,Inflation
+cbd5ef3b-fe83-4019-a2a2-219abb9c0733,08/03/2027 22:45:00,Participation Rate,HIGH,NZD,Release,0.18,Labor Market
+4612f927-26fd-4e0a-ad2e-87a36ea4223b,08/03/2027 22:45:00,Unemployment Rate,HIGH,NZD,Release,0.18,Labor Market
+43a84864-b68b-4ded-b33e-765939458f96,08/22/2027 22:45:00,Retail Sales (QoQ),HIGH,NZD,Release,0.17,Growth
+c4e045c0-ef3a-4cee-af92-227b1c812134,08/22/2027 22:45:00,Retail Sales ex Autos (QoQ),HIGH,NZD,Release,0.17,Growth
+512ced72-02e3-47bc-8288-d99a2427b57e,09/15/2027 22:45:00,Gross Domestic Product (QoQ),HIGH,NZD,Release,0.17,Growth
+1c370589-006b-4a18-9702-d1365533aac5,09/15/2027 22:45:00,Gross Domestic Product (YoY),HIGH,NZD,Release,0.17,Growth
+14300a88-08bd-4991-b67a-c9d688584ec7,09/25/2027 16:00:00,Daylight Saving Time,HIGH,NZD,Release,0.2,Monetary Policy

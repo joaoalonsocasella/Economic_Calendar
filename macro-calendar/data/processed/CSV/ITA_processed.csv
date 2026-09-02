@@ -1,12 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-98f06d3f-6278-4ee6-81c7-3203f36d1083,09/01/2026 07:45:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
-ffd6462b-9d00-4510-ad4c-7181bb6c7507,09/01/2026 08:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
-8f7de770-1ddf-43af-96d5-08b7381e986c,09/01/2026 08:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
-eb810f3e-a368-45b5-9c4c-6cebd28efc02,09/01/2026 08:30:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
-a2599e10-8960-4112-9701-b0f2bb9dd9da,09/01/2026 09:00:00,Consumer Price Index (EU Norm) (MoM),HIGH,EUR,Release,0.807,Inflation
-4fe6be7b-ae94-487e-8bad-05011554ab3b,09/01/2026 09:00:00,Consumer Price Index (EU Norm) (YoY),HIGH,EUR,Release,0.807,Inflation
-151eea2a-6bff-4e03-b83e-6964e34a1f91,09/01/2026 09:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-898bf6b7-9a96-468c-a639-2012735b8ef1,09/01/2026 09:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 1139ae9b-56b8-4133-aaa5-92402fb6fdc9,09/02/2026 08:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 1a6ad34f-7258-4851-a30e-de2cbfe32f44,09/02/2026 08:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 21446e3d-1b80-4a79-9089-cfd029f4c124,09/03/2026 07:45:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
