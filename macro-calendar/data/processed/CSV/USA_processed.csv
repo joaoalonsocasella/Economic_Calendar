@@ -1,13 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-b14505c4-e65c-4bc5-b1e7-fc96100c90ea,09/02/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-67581943-5e47-44a9-826f-b9e8c6f378c0,09/02/2026 12:00:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
-29611bc0-b129-4936-95b4-cf2d08478b8e,09/02/2026 12:15:00,ADP Employment Change,HIGH,USD,Release,0.18,Labor Market
-e1ea145c-adc8-42b3-be5c-f5a874476f50,09/02/2026 14:00:00,Factory Orders (MoM),HIGH,USD,Release,0.17,Growth
-ea07dc1d-f049-404c-b34d-a85b05d7bce1,09/02/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
-ba2ad407-e82f-449c-8710-382f99e42cff,09/02/2026 14:30:00,EIA Distillate Stocks Change,HIGH,USD,Release,0.18,Labor Market
-519f5ec6-bc19-405a-830c-d06117e00a11,09/02/2026 14:30:00,EIA Gasoline Stocks Change,HIGH,USD,Release,0.18,Labor Market
-83b67276-37a5-471b-8e5d-65ac5a3f1149,09/02/2026 14:30:00,EIA Heating Oil Stocks Change,HIGH,USD,Release,0.18,Labor Market
-34c349af-d149-47c1-a949-ba7d9d82c612,09/02/2026 18:00:00,Fed's Beige Book,MEDIUM,USD,Release,0.14,Confidence
 b610dda1-0cbf-4fd1-a030-819ad17bb1b3,09/03/2026 09:30:00,Challenger Job Cuts,HIGH,USD,Release,0.18,Labor Market
 3ffaa14e-c956-42b8-b4ab-c227b58fb48f,09/03/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 cb243d49-82a9-4789-b19a-2365399fcd76,09/03/2026 12:30:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy

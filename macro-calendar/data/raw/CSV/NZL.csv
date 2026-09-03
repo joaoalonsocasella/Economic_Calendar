@@ -1,10 +1,4 @@
 Id,Start,Name,Impact,Currency
-2881fb4b-d447-408a-9300-3eb4bc0e5a9e,09/02/2026 02:00:00,RBNZ Interest Rate Decision,HIGH,NZD
-c28bdeb6-42d8-49d8-975c-02971c442f1e,09/02/2026 02:00:00,RBNZ Monetary Policy Review,HIGH,NZD
-ac4eaa46-6def-4281-a8e2-d7e7b79a6912,09/02/2026 02:00:00,RBNZ Monetary Policy Statement,HIGH,NZD
-fc74e544-8273-48be-849c-8fc6c5e3275b,09/02/2026 03:00:00,RBNZ Press Conference,HIGH,NZD
-7b47e6b4-0ffb-4cc4-a44b-794d525ffa58,09/02/2026 21:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD
-8ade3541-c934-48bd-8487-072f84ab3257,09/02/2026 22:45:00,Terms of Trade Index,LOW,NZD
 4b4da4ad-8af5-4f0b-a308-5b94d5aa9fe9,09/03/2026 01:00:00,ANZ Commodity Price,LOW,NZD
 914f8838-3680-49f1-b298-3405667e846f,09/07/2026 22:45:00,Manufacturing Sales,LOW,NZD
 602fbcbc-d916-4ef8-ab11-422ba1c2b7f1,09/10/2026 22:30:00,Business NZ PMI,MEDIUM,NZD
@@ -28,6 +22,7 @@ a3c65917-99dd-4954-b4f1-076e7124842a,09/21/2026 21:00:00,Westpac Consumer Survey
 46115f87-6341-4027-82a5-441ee74932d4,09/30/2026 00:00:00,ANZ Activity Outlook,LOW,NZD
 ecade591-fd5f-41ac-af1e-478b69c3f959,09/30/2026 00:00:00,ANZ Business Confidence,LOW,NZD
 ba1d20db-ee8b-4aa7-b395-446fcfee8982,09/30/2026 21:45:00,Building Permits s.a. (MoM),MEDIUM,NZD
+7b47e6b4-0ffb-4cc4-a44b-794d525ffa58,10/01/2026 21:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD
 812d511d-27ef-4e78-95d6-d9bf7fdc5e0f,10/05/2026 00:00:00,ANZ Commodity Price,LOW,NZD
 34f7a4ca-06ff-4e26-ae6e-2475b5027d47,10/05/2026 21:00:00,NZIER Business Confidence (QoQ),MEDIUM,NZD
 335e51ba-e609-40c9-ab93-4f838f5628e2,10/06/2026 15:00:00,GDT Price Index,LOW,NZD
