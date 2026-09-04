@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-2a25a606-bd57-4b44-971e-28b81b401a5d,09/03/2026 01:30:00,Exports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
-4185cdc0-1e34-4917-9468-fe9783536158,09/03/2026 01:30:00,Imports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
-8d5fb9f4-fb45-4be2-bc58-5460f5aca8d1,09/03/2026 01:30:00,Trade Balance (MoM),MEDIUM,AUD,Release,0.11,Trade and External
 2370bcb5-d556-4be5-80b8-30be872ddbc3,09/04/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 1e977e70-6341-451c-be0b-9ab82a155ec0,09/07/2026 01:30:00,ANZ Job Advertisements,HIGH,AUD,Release,0.18,Labor Market
 25904a95-43b2-43e2-b50e-7966b3dff16f,09/08/2026 00:30:00,Westpac Consumer Confidence,MEDIUM,AUD,Release,0.14,Confidence

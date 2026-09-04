@@ -1,22 +1,4 @@
 Id,Start,Name,Impact,Currency
-b610dda1-0cbf-4fd1-a030-819ad17bb1b3,09/03/2026 09:30:00,Challenger Job Cuts,MEDIUM,USD
-3ffaa14e-c956-42b8-b4ab-c227b58fb48f,09/03/2026 12:30:00,Continuing Jobless Claims,LOW,USD
-cb243d49-82a9-4789-b19a-2365399fcd76,09/03/2026 12:30:00,Fed's Waller speech,MEDIUM,USD
-76be2dee-5219-48b1-87c7-7a3e2029df7a,09/03/2026 12:30:00,Goods and Services Trade Balance,LOW,USD
-7160abeb-4b8c-4088-8641-358a4f00226e,09/03/2026 12:30:00,Goods Trade Balance,LOW,USD
-5302203c-ac5a-4127-9345-7e9ed9caee68,09/03/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
-bfa84140-8ca9-48d5-bdc8-f3431b70ed5a,09/03/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
-c44360b4-98f7-44ed-a10c-297b73346d53,09/03/2026 12:30:00,Nonfarm Productivity,MEDIUM,USD
-44bd03b1-781b-497b-a9d9-dea57828402d,09/03/2026 12:30:00,Unit Labor Costs,MEDIUM,USD
-17a0613e-12bd-4002-9f04-76250d10b96c,09/03/2026 13:45:00,S&P Global Composite PMI,MEDIUM,USD
-1bb53160-2e32-479a-bfea-b8f384cc341f,09/03/2026 13:45:00,S&P Global Services PMI,LOW,USD
-e5f07d4c-c772-4211-80ba-f066c1804cc0,09/03/2026 14:00:00,ISM Services Employment Index,MEDIUM,USD
-eab18d73-6878-4a3c-a052-15d769a3321a,09/03/2026 14:00:00,ISM Services New Orders Index,MEDIUM,USD
-a41fb50c-f9c4-490b-8e84-2d2e1dd86ffd,09/03/2026 14:00:00,ISM Services PMI,HIGH,USD
-4a7ea81e-79b7-4c8b-8790-9d5e5a5fb994,09/03/2026 14:00:00,ISM Services Prices Paid,MEDIUM,USD
-df631548-0641-42b7-ab39-5803f16daf4b,09/03/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
-b6cbee14-a861-40f8-b100-4bbda119a8cd,09/03/2026 15:30:00,4-Week Bill Auction,LOW,USD
-e4d2612c-2e3f-4edf-94a9-d5d77e48e5ea,09/03/2026 19:00:00,Fed's Hammack speech,MEDIUM,USD
 6d68c541-24aa-45d8-b7c7-ec7451dce531,09/04/2026 12:30:00,Average Hourly Earnings (MoM),HIGH,USD
 61e0e764-c044-44c7-8d33-71281e4a48b0,09/04/2026 12:30:00,Average Hourly Earnings (YoY),HIGH,USD
 63b312b4-c4c6-44ee-8477-08066271a258,09/04/2026 12:30:00,Average Weekly Hours,LOW,USD
@@ -863,6 +845,7 @@ bb085c3f-e76c-468c-8e88-1e4512eca9e1,01/08/2027 15:00:00,UoM 1-year Consumer Inf
 0f94da05-4206-45a8-8ecf-18c168a5c79e,01/08/2027 15:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD
 f30afd9c-03a7-49c4-b42b-5503d1c8c646,01/08/2027 18:00:00,Baker Hughes US Oil Rig Count,LOW,USD
 808198ca-b751-4f71-a9f2-5e87169d1525,01/12/2027 11:00:00,NFIB Business Optimism Index,LOW,USD
+08041b3d-d564-4b20-917c-03c83db4361d,01/12/2027 15:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
 6c56ddc7-1167-429d-890b-93f6082dd75a,01/12/2027 19:00:00,Monthly Budget Statement,MEDIUM,USD
 135822a9-bd43-403d-ac36-649bcb51e21b,01/13/2027 13:30:00,Producer Price Index (MoM),MEDIUM,USD
 fd6f7695-63a9-4d3b-96e3-86386cdc70ce,01/13/2027 13:30:00,Producer Price Index (YoY),MEDIUM,USD
@@ -878,6 +861,8 @@ e3887aca-7a99-4036-96c3-896c58390926,01/14/2027 13:30:00,Consumer Price Index n.
 b087325a-8f33-4118-99e2-bcb4dfffb82a,01/15/2027 13:30:00,Retail Sales (YoY),LOW,USD
 8433253b-360d-455f-83a7-6bf4dabb3ed4,01/15/2027 13:30:00,Retail Sales Control Group,HIGH,USD
 27348f82-7923-4177-8e83-34e73837a646,01/15/2027 13:30:00,Retail Sales ex Autos (MoM),MEDIUM,USD
+2e971a21-fee8-44cd-b733-0e2b65c6f58f,01/15/2027 14:15:00,Capacity Utilization,LOW,USD
+d56b7f95-3cdd-47ab-92e8-c683cf088c92,01/15/2027 14:15:00,Industrial Production (MoM),MEDIUM,USD
 daf5bb37-2aca-417e-a30a-834de4330720,01/15/2027 15:00:00,Business Inventories,LOW,USD
 cd0f197a-5605-4c4b-a883-ce6fa37fb639,01/18/2027 15:00:00,NAHB Housing Market Index,LOW,USD
 ebc22175-d069-4d30-bb14-35588caf2409,01/19/2027 13:30:00,Building Permits (MoM),MEDIUM,USD
@@ -932,6 +917,7 @@ ecabc8f1-6d75-4adc-84fe-e14ebcfe7823,02/01/2027 14:45:00,S&P Global Manufacturin
 fd1d7305-43da-470c-b1ca-4685e54d4822,02/01/2027 15:00:00,ISM Manufacturing PMI,HIGH,USD
 da24e5c4-b22a-41e4-8b58-ba5b55f806a9,02/01/2027 15:00:00,ISM Manufacturing Prices Paid,MEDIUM,USD
 a03e3c0c-5fac-4890-8b71-017e9ac06932,02/01/2027 19:00:00,Loan Officer Survey,MEDIUM,USD
+457d7161-561a-4134-8801-1980087a9ffd,02/02/2027 15:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
 9156fc30-bbb8-4ed4-94b9-938e02d94af0,02/03/2027 13:15:00,ADP Employment Change,HIGH,USD
 8b38fb8a-46f7-4195-a5f9-e1c7f14a539d,02/03/2027 14:45:00,S&P Global Composite PMI,MEDIUM,USD
 aa79292a-a689-4c73-8113-41ed392a657a,02/03/2027 14:45:00,S&P Global Services PMI,LOW,USD
@@ -962,10 +948,14 @@ f9898fb5-c2cf-4e46-91fa-2683c4ace34d,02/12/2027 13:30:00,Producer Price Index ex
 711e7c80-db0f-4453-a4d1-9305d99d8991,02/12/2027 15:00:00,Michigan Consumer Sentiment Index,HIGH,USD
 69dbcbf7-bb23-4ebe-a3c3-ca26e3dee50f,02/12/2027 15:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
 c4686b67-dabc-4786-902e-db0b4b409d43,02/12/2027 15:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD
+d7f96e2e-c79f-4fab-b332-bf54e1ef21f6,02/16/2027 16:30:00,52-Week Bill Auction,LOW,USD
 87a76e69-18b5-4a9c-afa5-6314b63bc9aa,02/17/2027 13:30:00,Retail Sales (MoM),HIGH,USD
 9b9f7973-bf92-4c75-861a-9fe3430e4f53,02/17/2027 13:30:00,Retail Sales (YoY),LOW,USD
 bc4d7b8c-ab6d-4bf0-9ae6-12e252b2ba86,02/17/2027 13:30:00,Retail Sales Control Group,HIGH,USD
 814697b8-8177-4095-9538-6605982d3833,02/17/2027 13:30:00,Retail Sales ex Autos (MoM),MEDIUM,USD
+7fb51a94-782b-4115-8cf2-96ba14afa62b,02/17/2027 14:15:00,Capacity Utilization,LOW,USD
+33db8f02-4cd0-4d4c-933f-d9d1584b69b2,02/17/2027 14:15:00,Industrial Production (MoM),MEDIUM,USD
+59f1a17e-06ef-4435-b1de-03c408af8780,02/17/2027 19:00:00,FOMC Minutes,HIGH,USD
 92b476de-61a5-4533-9135-7958d58d481d,02/18/2027 18:00:00,30-year TIPS Auction,LOW,USD
 01514793-5074-4c36-81fc-699074168b97,02/24/2027 14:45:00,S&P Global Composite PMI,MEDIUM,USD
 d6e2a4f0-0334-4011-996c-4f998b748160,02/24/2027 14:45:00,S&P Global Manufacturing PMI,HIGH,USD
@@ -989,6 +979,7 @@ c2ea4435-934d-4d2a-bedf-7ab818b802ae,02/26/2027 15:00:00,UoM 1-year Consumer Inf
 c5ef889c-5a64-4d8f-944c-590f9005cb57,03/01/2027 15:00:00,ISM Manufacturing New Orders Index,MEDIUM,USD
 50fe780a-ac25-4436-a45c-c0665ed89cae,03/01/2027 15:00:00,ISM Manufacturing PMI,HIGH,USD
 acde4ce2-96f9-4340-956d-d975dfba64da,03/01/2027 15:00:00,ISM Manufacturing Prices Paid,MEDIUM,USD
+55adf836-58ad-44fb-8daf-c5a9fa6f1dfa,03/02/2027 15:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
 7accb7be-dd87-4113-8ee4-260dfa5a9e46,03/03/2027 13:15:00,ADP Employment Change,HIGH,USD
 dd249242-0b5f-4eb1-84b7-115585feac5e,03/03/2027 14:45:00,S&P Global Composite PMI,MEDIUM,USD
 06ab9787-861d-47ba-96a2-9833e8fb5772,03/03/2027 14:45:00,S&P Global Services PMI,LOW,USD
@@ -1018,6 +1009,9 @@ a7092fcc-8e49-4c69-81f3-76fef85eb43d,03/12/2027 12:30:00,Producer Price Index (Y
 f19457f2-2c04-428e-ad49-26945661769f,03/12/2027 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
 69c35aef-7928-4265-9f44-cbbfdad9029e,03/12/2027 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD
 a8817804-f521-40d5-9c0d-c43d9a4c943d,03/14/2027 07:00:00,"Daylight Saving Time ",NONE,USD
+bfdee5ad-ec7b-47e4-9272-4216b9da436e,03/15/2027 13:15:00,Capacity Utilization,LOW,USD
+c478eb43-4f48-450d-98cd-c044c2e6944c,03/15/2027 13:15:00,Industrial Production (MoM),MEDIUM,USD
+b8d05e54-8c43-417a-a5c4-48b94664582c,03/16/2027 15:30:00,52-Week Bill Auction,LOW,USD
 81e78d16-ff7b-4eff-8439-bf63629e5e65,03/17/2027 12:30:00,Retail Sales (MoM),HIGH,USD
 b02b05f3-2520-4d3c-8355-5dfd68e4a159,03/17/2027 12:30:00,Retail Sales (YoY),LOW,USD
 fadb1514-f836-4276-b774-4a1838c9e32f,03/17/2027 12:30:00,Retail Sales Control Group,HIGH,USD
@@ -1058,6 +1052,8 @@ f78bbf4f-e74c-4d3e-b564-3d9cbfd9c2a8,04/05/2027 14:00:00,ISM Services Employment
 7e1a8959-166d-4199-b35c-d0af4e41e2b2,04/05/2027 14:00:00,ISM Services New Orders Index,MEDIUM,USD
 acab3eb6-00a2-4a16-99c1-7937b7e54953,04/05/2027 14:00:00,ISM Services PMI,HIGH,USD
 da8b63c4-e09f-4d09-8fb4-9b566f420ca0,04/05/2027 14:00:00,ISM Services Prices Paid,MEDIUM,USD
+b9e44adf-712f-4db2-8e45-c46c1a8b79d7,04/06/2027 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
+5ea7ebfd-1815-4c39-954b-5bb8586bf00c,04/07/2027 18:00:00,FOMC Minutes,HIGH,USD
 433fec71-33c4-4218-baf5-01f672c7ca87,04/09/2027 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
 6b31b4ef-e370-44c8-9b13-1ac003965289,04/09/2027 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
 063ac140-749b-4774-b1db-82c207098a3c,04/09/2027 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
@@ -1072,6 +1068,9 @@ d93b2f80-e951-4fc4-8a80-9e83c89bcfd9,04/13/2027 12:30:00,Producer Price Index (M
 038bb86b-b524-4091-b336-13c8f2576d63,04/13/2027 12:30:00,Producer Price Index (YoY),MEDIUM,USD
 2792f882-a7d1-4a14-9504-8750149fb322,04/13/2027 12:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
 3d221a7c-a46b-4854-8ca0-0bc0cabf2980,04/13/2027 12:30:00,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+948f2d41-7c49-49c0-aaf3-c8637ca0a593,04/13/2027 15:30:00,52-Week Bill Auction,LOW,USD
+2692e230-8d72-4322-81bf-98401e1e0184,04/15/2027 13:15:00,Capacity Utilization,LOW,USD
+153c0a72-bdde-4ee8-a415-681ae969e7f7,04/15/2027 13:15:00,Industrial Production (MoM),MEDIUM,USD
 bb761dc9-2e14-48d9-af83-bfd29119e859,04/16/2027 12:30:00,Retail Sales (MoM),HIGH,USD
 0a67c2b2-d7af-4538-93b5-160212fd2152,04/16/2027 12:30:00,Retail Sales (YoY),LOW,USD
 202c15ea-5934-486f-9435-19fb3b3f39a6,04/16/2027 12:30:00,Retail Sales Control Group,HIGH,USD
@@ -1098,6 +1097,7 @@ ae25b6f2-ffd5-4512-8a87-d534c1e44e30,04/29/2027 12:30:00,Personal Consumption Ex
 c67807f2-f392-45b4-90e4-ee7d535b7079,05/03/2027 14:00:00,ISM Manufacturing New Orders Index,MEDIUM,USD
 d6f1595e-bb69-47ba-aeb7-11207fae1cb4,05/03/2027 14:00:00,ISM Manufacturing PMI,HIGH,USD
 d3d20d50-03a9-4544-bbf0-e5083d9390df,05/03/2027 14:00:00,ISM Manufacturing Prices Paid,MEDIUM,USD
+2435c56b-47aa-41b3-b98c-50e56dec7a1c,05/04/2027 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
 3a84f9ac-40ae-471a-8dba-89234a360389,05/05/2027 13:45:00,S&P Global Composite PMI,MEDIUM,USD
 fa41c884-f534-4269-9ec7-1be81507ae21,05/05/2027 13:45:00,S&P Global Services PMI,LOW,USD
 b3a7c9fd-a26f-4386-9073-d74f2f12b2f4,05/05/2027 14:00:00,ISM Services Employment Index,MEDIUM,USD
@@ -1111,6 +1111,7 @@ a86beea1-b24e-4872-a78b-78b7c43c5b3e,05/07/2027 12:30:00,Average Weekly Hours,LO
 10deb594-a45d-46fe-be43-ee84d60a0636,05/07/2027 12:30:00,Nonfarm Payrolls,HIGH,USD
 9969ef7d-7cbc-496b-9ef0-3be9127b4bcd,05/07/2027 12:30:00,U6 Underemployment Rate,MEDIUM,USD
 90f4883b-6b2d-41bb-91e6-ac60c7da948f,05/07/2027 12:30:00,Unemployment Rate,MEDIUM,USD
+155633ab-cd01-49c9-9fdb-3dee93f6e936,05/11/2027 15:30:00,52-Week Bill Auction,LOW,USD
 77b3a67d-ff31-4971-9053-a98477aca20b,05/12/2027 12:30:00,Consumer Price Index (MoM),HIGH,USD
 06886cfa-15d9-412c-bc70-d897c6bf7f72,05/12/2027 12:30:00,Consumer Price Index (YoY),HIGH,USD
 7fcc9dfe-7228-437b-bd63-b2ac2e6ea7f1,05/12/2027 12:30:00,Consumer Price Index Core s.a,LOW,USD
@@ -1129,6 +1130,9 @@ bd93ad57-4dcf-4b42-8aa9-4b3446a172a9,05/14/2027 14:00:00,UoM 1-year Consumer Inf
 c68b4c60-d8e8-4f9d-a3d7-5cba580ca50e,05/17/2027 12:30:00,Retail Sales (YoY),LOW,USD
 6111de8b-500e-49e3-af2c-b17f274e2435,05/17/2027 12:30:00,Retail Sales Control Group,HIGH,USD
 ed47ad2d-c45e-41d1-b886-706b0ff088a4,05/17/2027 12:30:00,Retail Sales ex Autos (MoM),MEDIUM,USD
+6276e948-97c7-4a27-af90-4a90878bbd1f,05/17/2027 13:15:00,Capacity Utilization,LOW,USD
+1e358289-9c0f-4509-9af1-210691483add,05/17/2027 13:15:00,Industrial Production (MoM),MEDIUM,USD
+abfc9bcd-5f81-48ea-bd73-05c91a51c7ea,05/19/2027 18:00:00,FOMC Minutes,HIGH,USD
 1bebce2d-f0f4-4b79-8017-51584dc58a47,05/24/2027 13:45:00,S&P Global Composite PMI,MEDIUM,USD
 3ff28b8c-80dd-4680-8683-c5b65a5a1aea,05/24/2027 13:45:00,S&P Global Manufacturing PMI,HIGH,USD
 b15f1016-5529-4fc7-af35-9e5615925085,05/24/2027 13:45:00,S&P Global Services PMI,HIGH,USD
@@ -1151,6 +1155,7 @@ a1772b8c-dae8-4ce8-8c2a-65e8c6247294,06/01/2027 14:00:00,ISM Manufacturing Emplo
 b413927f-1026-45b5-a225-f464b156b283,06/01/2027 14:00:00,ISM Manufacturing New Orders Index,MEDIUM,USD
 4461b3b5-8d2e-49a2-92ae-7820276d617e,06/01/2027 14:00:00,ISM Manufacturing PMI,HIGH,USD
 f5325a4f-dc21-4a20-9236-2864b260b351,06/01/2027 14:00:00,ISM Manufacturing Prices Paid,MEDIUM,USD
+b9c11535-f2d4-480d-a9bf-3b793ec891f2,06/01/2027 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
 a98b8496-3c20-4baf-a582-2c339702337b,06/03/2027 13:45:00,S&P Global Composite PMI,MEDIUM,USD
 6f215b7a-5de4-408c-b937-69717a04c8c9,06/03/2027 13:45:00,S&P Global Services PMI,LOW,USD
 96feb9c1-1c01-4337-9cab-bc259e583d63,06/03/2027 14:00:00,ISM Services Employment Index,MEDIUM,USD
@@ -1164,6 +1169,7 @@ ac15f805-dbb5-4899-8980-1a77cf2e69cc,06/04/2027 12:30:00,Average Weekly Hours,LO
 6cbf43d2-3131-490a-8399-7f138cebd3ac,06/04/2027 12:30:00,Nonfarm Payrolls,HIGH,USD
 c7ccf2d6-e2a0-4283-b912-055df585d788,06/04/2027 12:30:00,U6 Underemployment Rate,MEDIUM,USD
 e53797d8-055f-434d-b6ac-1e8fdd9eccfd,06/04/2027 12:30:00,Unemployment Rate,MEDIUM,USD
+56ca3fb5-5e94-4bc6-8b0f-ce0c242ac97c,06/08/2027 15:30:00,52-Week Bill Auction,LOW,USD
 a9764e12-5a7c-4aa0-add2-9264d69b59ad,06/10/2027 12:30:00,Consumer Price Index (MoM),HIGH,USD
 4e6672f3-8c35-4807-8959-d0bdfbf28cce,06/10/2027 12:30:00,Consumer Price Index (YoY),HIGH,USD
 b1cbbac1-b911-486b-a035-c92d365a90e5,06/10/2027 12:30:00,Consumer Price Index Core s.a,LOW,USD
@@ -1182,6 +1188,8 @@ bbb8b1f0-184e-4942-bbe7-504ca9104985,06/11/2027 14:00:00,UoM 5-year Consumer Inf
 21bebebf-6d0c-48ae-9463-11b12acfc707,06/16/2027 12:30:00,Retail Sales (YoY),LOW,USD
 b3938431-9727-4c9b-a238-0c1238e09116,06/16/2027 12:30:00,Retail Sales Control Group,HIGH,USD
 12de4eb0-7063-47eb-a64b-c673fe6219c4,06/16/2027 12:30:00,Retail Sales ex Autos (MoM),MEDIUM,USD
+b3177b9c-6429-4620-b2d6-7018a3326df8,06/16/2027 13:15:00,Capacity Utilization,LOW,USD
+99ea9c72-1894-4cd0-9086-5ff2acce0d69,06/16/2027 13:15:00,Industrial Production (MoM),MEDIUM,USD
 999bf7ba-48c8-4eb9-b632-d08caf98a13f,06/23/2027 13:45:00,S&P Global Composite PMI,MEDIUM,USD
 7b197ef8-8bf7-4318-a519-94d09c5c84e7,06/23/2027 13:45:00,S&P Global Manufacturing PMI,HIGH,USD
 1a7fc462-a7db-4485-b826-f3bf82e0bd8d,06/23/2027 13:45:00,S&P Global Services PMI,HIGH,USD
@@ -1217,6 +1225,9 @@ bdecd06f-cb93-4046-a8fb-75691b5f3ff6,07/02/2027 12:30:00,Labor Force Participati
 bdaed9ba-bb4e-46da-ade4-7405d7ca0355,07/05/2027 14:00:00,ISM Services New Orders Index,MEDIUM,USD
 56b81ba8-1a81-4abe-bd1f-0329dca6531d,07/05/2027 14:00:00,ISM Services PMI,HIGH,USD
 cd182f72-03d9-4e99-8a96-86f8865e4127,07/05/2027 14:00:00,ISM Services Prices Paid,MEDIUM,USD
+c916aa07-b397-4d6a-8823-c786529d8188,07/06/2027 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
+5f328a2e-a00b-4352-aa44-c7508a89ceb6,07/06/2027 15:30:00,52-Week Bill Auction,LOW,USD
+83db9250-cba1-43b0-acd0-ada638cc55c0,07/07/2027 18:00:00,FOMC Minutes,HIGH,USD
 98e017f4-16d2-48f1-91ce-fc94994c0585,07/09/2027 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
 48147bdf-d397-441d-92aa-c15856c91419,07/09/2027 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
 186ee62e-c398-4e83-954d-f8bd3d08a0e7,07/09/2027 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
@@ -1235,6 +1246,8 @@ a515ac3a-006c-4b63-9e84-e177d5c5fdf8,07/16/2027 12:30:00,Retail Sales (MoM),HIGH
 0b42a6b8-21e5-4cc4-be71-57c6f89723e2,07/16/2027 12:30:00,Retail Sales (YoY),LOW,USD
 2091bfc8-e131-4cf1-997a-e280de311aad,07/16/2027 12:30:00,Retail Sales Control Group,HIGH,USD
 3744e6e5-ae9a-4e50-a36d-0081a5ff06a1,07/16/2027 12:30:00,Retail Sales ex Autos (MoM),MEDIUM,USD
+ac69d102-bc51-4a30-87ec-f1c7d04df8c8,07/16/2027 13:15:00,Capacity Utilization,LOW,USD
+b053579a-d98e-46c7-89b9-2b22bbf29f22,07/16/2027 13:15:00,Industrial Production (MoM),MEDIUM,USD
 13f270ca-1ddb-4fa3-8ca4-530df0a21ebf,07/23/2027 13:45:00,S&P Global Composite PMI,MEDIUM,USD
 8e71cf8a-fa25-47ee-9f24-2b8562d10c9c,07/23/2027 13:45:00,S&P Global Manufacturing PMI,HIGH,USD
 9be9c69b-c2da-4edb-868a-fe22ba08689e,07/23/2027 13:45:00,S&P Global Services PMI,HIGH,USD
@@ -1252,3 +1265,33 @@ b5221d81-4f7b-475c-8277-d78a45d03fa1,07/29/2027 12:30:00,Personal Consumption Ex
 bb556d09-a045-469c-8f9f-1a0fe730be6a,07/29/2027 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
 2ac9487f-e5eb-459e-9b68-82c6b2d8a8c0,07/29/2027 12:30:00,Personal Income (MoM),MEDIUM,USD
 b20a8afb-b084-412c-bf49-a340261a4004,07/29/2027 12:30:00,Personal Spending,MEDIUM,USD
+a0a7c8a6-320c-4b53-859b-e8cdab2c90ba,08/03/2027 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
+461bbdef-982f-480e-8419-88d84a3659b7,08/03/2027 15:30:00,52-Week Bill Auction,LOW,USD
+c4650c1b-bdc5-4cb6-86fe-a3a6a6a7ffb4,08/04/2027 14:00:00,ISM Services Employment Index,MEDIUM,USD
+a6faea73-9288-4739-b424-b9bfb854f3da,08/04/2027 14:00:00,ISM Services New Orders Index,MEDIUM,USD
+743a621b-963a-4378-98c4-75d3f2af6e28,08/04/2027 14:00:00,ISM Services PMI,HIGH,USD
+b549061b-5fb1-4add-8a85-c97da0120ad5,08/04/2027 14:00:00,ISM Services Prices Paid,MEDIUM,USD
+e122798a-665b-4ce0-99fd-fad19d3d335f,08/12/2027 12:30:00,Consumer Price Index (MoM),HIGH,USD
+3af642c1-5743-4989-9118-b48730459eff,08/12/2027 12:30:00,Consumer Price Index (YoY),HIGH,USD
+82fa461b-93ee-47ed-be5b-dd718a36d736,08/12/2027 12:30:00,Consumer Price Index Core s.a,LOW,USD
+933069e4-e41e-4f35-930e-fd146e639276,08/12/2027 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+7f6fba65-e796-47c3-9c33-2eade3d8069a,08/12/2027 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+b8dc0bdd-129f-4de4-9f9b-34e5068ab43f,08/12/2027 12:30:00,Consumer Price Index n.s.a (MoM),LOW,USD
+fb55da12-9cf7-447e-8267-64babff4dd06,08/17/2027 13:15:00,Capacity Utilization,LOW,USD
+01887d8c-9454-40ef-9cc6-281e2c31cf59,08/17/2027 13:15:00,Industrial Production (MoM),MEDIUM,USD
+3af6b358-e8f9-487b-8202-efe97656941a,08/18/2027 18:00:00,FOMC Minutes,HIGH,USD
+fb4edced-ef2d-4116-abef-b45bc1cfbcbd,08/31/2027 15:30:00,52-Week Bill Auction,LOW,USD
+ed680661-85a1-45b9-8774-2cbf95e6f0fb,09/03/2027 14:00:00,ISM Services Employment Index,MEDIUM,USD
+bc0a6e05-01c3-4f7c-8f93-d79567ffb22f,09/03/2027 14:00:00,ISM Services New Orders Index,MEDIUM,USD
+bdd967d6-1629-4807-a75a-7784aa38a819,09/03/2027 14:00:00,ISM Services PMI,HIGH,USD
+56d439df-0717-4b43-ab7b-62a735206707,09/03/2027 14:00:00,ISM Services Prices Paid,MEDIUM,USD
+1cee4a7e-8649-4458-b11b-5c18b944601a,09/07/2027 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
+5fb5a1a8-ebb9-4646-a87e-4cd7240798ec,09/10/2027 12:30:00,Consumer Price Index (MoM),HIGH,USD
+aca909db-0828-4e43-8a00-34ac73499041,09/10/2027 12:30:00,Consumer Price Index (YoY),HIGH,USD
+1acbf507-608a-4b3f-ab0e-9aeece4cb4a9,09/10/2027 12:30:00,Consumer Price Index Core s.a,LOW,USD
+fd7020b3-5ee3-4fbb-9d52-b1cb6b6e3ee7,09/10/2027 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+fcddcf33-1eb8-4578-a7e7-208bbc7a5fb8,09/10/2027 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+a585e397-55b0-45b2-a81d-d2dedb6b9068,09/10/2027 12:30:00,Consumer Price Index n.s.a (MoM),LOW,USD
+e4dd4d40-2b41-40e6-bb79-d051a4740861,09/16/2027 13:15:00,Capacity Utilization,LOW,USD
+5569b617-7bcd-4ef7-9e3c-07db14bc8627,09/16/2027 13:15:00,Industrial Production (MoM),MEDIUM,USD
+4225086a-e369-495c-81bf-821dc1026615,09/28/2027 15:30:00,52-Week Bill Auction,LOW,USD
