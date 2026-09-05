@@ -1,10 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-3e8d1513-a60d-4e78-af13-71a8ab6333f9,09/04/2026 08:30:00,S&P Global Construction PMI,HIGH,GBP,Release,0.17,Growth
-59741606-d5d5-4072-b31d-c11383896dc7,09/04/2026 08:50:00,BoE's Governor Bailey speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
-a06f7f38-ef79-4019-a19c-5500368cf3fa,09/04/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+340a86b2-fda1-44b2-ab50-20b8c1e3d954,09/07/2026 06:00:00,Lloyds House Price Index (MoM),LOW,GBP,Release,0.07,Housing
+5ec87422-a379-47ed-97ba-d07fa2fd5f3c,09/07/2026 06:00:00,Lloyds House Price Index (YoY),LOW,GBP,Release,0.07,Housing
 1ed09b70-877b-468b-bdff-1350a7e1792a,09/07/2026 23:01:00,BRC Like-For-Like Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
-340a86b2-fda1-44b2-ab50-20b8c1e3d954,09/08/2026 06:00:00,Lloyds House Price Index (MoM),LOW,GBP,Release,0.07,Housing
-5ec87422-a379-47ed-97ba-d07fa2fd5f3c,09/08/2026 06:00:00,Lloyds House Price Index (YoY),LOW,GBP,Release,0.07,Housing
 44435e1b-dd93-4487-85ba-2764748817c0,09/09/2026 23:01:00,RICS Housing Price Balance,LOW,GBP,Release,0.07,Housing
 3ac2df5a-4a0e-4cd8-932e-2dba67125fa0,09/11/2026 06:00:00,Goods Trade Balance,MEDIUM,GBP,Release,0.11,Trade and External
 4f369a44-4c2b-4c7f-b28a-5936c689971e,09/11/2026 06:00:00,Gross Domestic Product (MoM),LOW,GBP,Release,0.07,Housing
@@ -288,6 +285,7 @@ c3c23082-edfc-4f82-91c8-14d65778bf93,01/05/2027 00:01:00,BRC Like-For-Like Retai
 d91ea092-b3bb-4702-8313-3f58382182a9,01/07/2027 07:00:00,Lloyds House Price Index (MoM),LOW,GBP,Release,0.07,Housing
 b3ffcdd2-77d0-498f-956e-2f92999219d6,01/07/2027 07:00:00,Lloyds House Price Index (YoY),LOW,GBP,Release,0.07,Housing
 d14dac52-7cf8-4bbd-8033-e13ccec91eb9,01/07/2027 09:30:00,S&P Global Construction PMI,HIGH,GBP,Release,0.17,Growth
+d980fca7-eed0-4e20-a4e4-64687ea27915,01/08/2027 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 8d9764b0-096f-478b-a9fb-586f3b6ae00e,01/12/2027 07:00:00,Average Earnings Excluding Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
 39eb3a6d-1e3f-4343-899c-c18989621f7b,01/12/2027 07:00:00,Average Earnings Including Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
 6b5dab65-5276-4c0b-ad3f-73af1460123d,01/12/2027 07:00:00,Claimant Count Change,HIGH,GBP,Release,0.18,Labor Market
@@ -306,6 +304,7 @@ c3ea92ab-0fa3-4d8d-9d53-ace26184ba48,01/14/2027 07:00:00,Total Trade Balance,MED
 f9035a5b-1129-4307-ad5d-caee73457f39,01/14/2027 07:00:00,Trade Balance; non-EU,MEDIUM,GBP,Release,0.11,Trade and External
 0806a676-aab7-4d7e-b58e-4d9312daff01,01/14/2027 09:30:00,BoE Credit Conditions Survey,HIGH,GBP,Release,0.2,Monetary Policy
 78e34b26-48f5-4075-a058-47f15a0c1fea,01/14/2027 12:00:00,NIESR GDP Estimate (3M),HIGH,GBP,Release,0.17,Growth
+4efa7571-24cd-40e0-bcfd-b9c033658f7b,01/15/2027 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 d8078d89-7a83-426f-aa70-2dd1d729876e,01/18/2027 00:01:00,Rightmove House Price Index (MoM),LOW,GBP,Release,0.07,Housing
 2f7b076f-cf9e-45e5-a89b-a57f4aaa4e85,01/18/2027 00:01:00,Rightmove House Price Index (YoY),LOW,GBP,Release,0.07,Housing
 734b9268-e788-4329-a4dd-43043944390a,01/20/2027 07:00:00,Consumer Price Index (MoM),HIGH,GBP,Release,0.19,Inflation
@@ -329,15 +328,19 @@ cdf7993c-49dc-43ec-a122-cb59dfc07f5b,01/22/2027 07:00:00,Retail Sales (MoM),HIGH
 6c50f010-b780-49ce-bca4-8f79ea848d92,01/22/2027 07:00:00,Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
 a3c221aa-68b1-4c69-bd66-b655aa81b4b9,01/22/2027 07:00:00,Retail Sales ex-Fuel (MoM),HIGH,GBP,Release,0.17,Growth
 ac250319-a873-4235-a174-e664a78704ee,01/22/2027 07:00:00,Retail Sales ex-Fuel (YoY),HIGH,GBP,Release,0.17,Growth
+6bab712e-8faa-434e-9c1d-58cf10fe7b65,01/22/2027 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 dd472d73-ce16-4577-8592-cd5fa35142f3,01/28/2027 00:01:00,BRC Shop Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
+acdfebaf-a153-44e8-83a1-5392182f8769,01/29/2027 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 2b631847-3544-4f5c-817e-f2aa35f18e20,02/01/2027 09:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
 577ed472-a7e4-4244-b7ad-03af8ee84def,02/03/2027 09:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
 b4ff2019-4de8-437d-91f8-605c8fce8c25,02/03/2027 09:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
 af67edc9-3d9e-49f6-ba44-baefd1d9b348,02/04/2027 09:30:00,S&P Global Construction PMI,HIGH,GBP,Release,0.17,Growth
+4f2c7e84-e522-4726-a894-c4074b14ad44,02/05/2027 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 380da470-7338-4037-a6d7-60bc2faa58ea,02/12/2027 07:00:00,Gross Domestic Product (QoQ),HIGH,GBP,Release,0.17,Growth
 b5b21913-6711-4cec-b4a2-526c30a802ed,02/12/2027 07:00:00,Gross Domestic Product (YoY),HIGH,GBP,Release,0.17,Growth
 3061aeaa-589a-4131-b4fe-ff9dfcf0f849,02/12/2027 07:00:00,Total Business Investment (QoQ),HIGH,GBP,Release,0.17,Growth
 e0664be1-398d-4851-a80f-140f2a211fd3,02/12/2027 07:00:00,Total Business Investment (YoY),HIGH,GBP,Release,0.17,Growth
+d6f83fcc-c465-4fce-b251-b831d7b6c4e3,02/12/2027 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 ebd61de3-4f00-41fe-99b2-9bc73008ee8c,02/16/2027 07:00:00,Average Earnings Excluding Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
 4f813b1f-6b92-4c69-8328-5c135c35c3a2,02/16/2027 07:00:00,Average Earnings Including Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
 626fd38c-c894-476e-9a42-97c373e2a16d,02/16/2027 07:00:00,Claimant Count Change,HIGH,GBP,Release,0.18,Labor Market
@@ -360,14 +363,18 @@ c4c13121-5fd4-434a-8929-b58bb8e8e3a8,02/19/2027 07:00:00,Retail Sales (MoM),HIGH
 4a18c232-31f4-40c4-a5bb-79653efb86f7,02/19/2027 07:00:00,Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
 6968e73b-8af1-4645-a7e0-db10ab390543,02/19/2027 07:00:00,Retail Sales ex-Fuel (MoM),HIGH,GBP,Release,0.17,Growth
 5237e05a-b55b-4a2a-8936-933c52850a83,02/19/2027 07:00:00,Retail Sales ex-Fuel (YoY),HIGH,GBP,Release,0.17,Growth
+30c391a7-45c4-4616-b8d5-e0844cea2fd0,02/19/2027 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 728840af-601a-4125-8ef5-07f671b7d3c7,02/23/2027 09:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
 3e0d6f1d-7524-4607-9c18-ae424eabcbf5,02/23/2027 09:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
 005c6d43-f296-49b7-899a-191d8f4464eb,02/23/2027 09:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
+b88402a4-87b9-43a5-a69b-2c69866a4996,02/26/2027 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 d606a5d2-a3f9-47e2-9517-841bfaecbd31,03/01/2027 09:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
 cd232a34-6b78-407e-a683-548eb559ddc4,03/03/2027 09:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
 1527a7c0-cd23-468c-bc3a-82042166b22d,03/03/2027 09:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
 01069b8d-2e65-4b91-b756-58a0929b1a6c,03/04/2027 09:30:00,S&P Global Construction PMI,HIGH,GBP,Release,0.17,Growth
+45194e94-23cd-4fc5-bce3-586fc2f85474,03/05/2027 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 cd8a1c42-7821-4d59-905b-5fc73cab440e,03/12/2027 09:30:00,Consumer Inflation Expectations,MEDIUM,GBP,Release,0.14,Confidence
+fc413685-6e74-4a2e-8a72-2175766ea548,03/12/2027 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 7e8ea661-7876-4e26-b504-566528899d1c,03/16/2027 07:00:00,Average Earnings Excluding Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
 ee1e03ae-a697-40b1-b52e-acc5e850d5f3,03/16/2027 07:00:00,Average Earnings Including Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
 23d2f9c9-c71a-4b9d-b1b2-faee958beeb4,03/16/2027 07:00:00,Claimant Count Change,HIGH,GBP,Release,0.18,Labor Market
@@ -386,6 +393,7 @@ aa8dccab-6535-4d11-9f7b-8b2dfa2a2c7c,03/17/2027 07:00:00,Producer Price Index - 
 128d7704-1702-47ba-895a-8e353337fe6f,03/17/2027 07:00:00,Retail Price Index (MoM),HIGH,GBP,Release,0.19,Inflation
 b2108210-fd42-4604-8eca-a5967b8bf7f4,03/17/2027 07:00:00,Retail Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
 553f3226-fbed-4928-850a-9a33b299640d,03/17/2027 09:30:00,DCLG House Price Index (YoY),LOW,GBP,Release,0.07,Housing
+28cb015a-7ce0-47b0-84f2-72a2acf50b5b,03/19/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 508b1d41-aa65-4785-a146-e1129e5ac978,03/23/2027 09:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
 020f5ae7-bb86-4e1d-960d-8025e4a6a4c3,03/23/2027 09:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
 1c500b01-b191-49a3-8f00-b8eb72b468f1,03/23/2027 09:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
@@ -393,6 +401,7 @@ b2108210-fd42-4604-8eca-a5967b8bf7f4,03/17/2027 07:00:00,Retail Price Index (YoY
 2df629fa-b89e-4ac9-8b75-5017b2040893,03/25/2027 07:00:00,Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
 4f7a3877-b9f7-4e50-b079-4c4399de1fc8,03/25/2027 07:00:00,Retail Sales ex-Fuel (MoM),HIGH,GBP,Release,0.17,Growth
 ad3ea79c-79a3-46a3-961e-e960a1f91aca,03/25/2027 07:00:00,Retail Sales ex-Fuel (YoY),HIGH,GBP,Release,0.17,Growth
+ac281493-8901-4f4b-adee-486ef1c1f9bd,03/26/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 f52d4572-e92f-4da1-8e57-6644a38349eb,03/28/2027 01:00:00,Daylight Saving Time,HIGH,GBP,Release,0.2,Monetary Policy
 23d454a3-f130-456a-a04f-ad9e51ec5e04,03/30/2027 06:00:00,Gross Domestic Product (QoQ),HIGH,GBP,Release,0.17,Growth
 28eb99d1-d31d-406d-836f-eb6361a63cda,03/30/2027 06:00:00,Gross Domestic Product (YoY),HIGH,GBP,Release,0.17,Growth
@@ -400,9 +409,12 @@ f52d4572-e92f-4da1-8e57-6644a38349eb,03/28/2027 01:00:00,Daylight Saving Time,HI
 a9e6a478-303f-4685-8611-a550016bcad0,03/30/2027 06:00:00,Total Business Investment (YoY),HIGH,GBP,Release,0.17,Growth
 1f927683-f0cd-4e79-b2d7-c1c054c54b66,03/31/2027 06:00:00,Current Account,MEDIUM,GBP,Release,0.11,Trade and External
 0683195e-5928-4544-8398-4353f6d6c6db,04/01/2027 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
+655b020a-0c8c-4339-a46f-b687f7994e8b,04/02/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 dc66d645-0d1d-4044-afb6-1a97d4d2445a,04/05/2027 08:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
 658f1df0-2039-44dc-bd9c-53b8190e71c0,04/05/2027 08:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
 f875c96d-f54b-4a17-9c45-97ec19e3914e,04/06/2027 08:30:00,S&P Global Construction PMI,HIGH,GBP,Release,0.17,Growth
+9d82267e-2bba-429a-8843-f8374e3bbee0,04/09/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+950d25d8-4ed0-4ad6-8659-c9efa69b7a4c,04/16/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 5b6a8c0b-7b2b-462c-88a6-a81f5ce6f8f1,04/20/2027 06:00:00,Average Earnings Excluding Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
 a3a0c5f7-01b9-4d4a-a493-8f16377d36a6,04/20/2027 06:00:00,Average Earnings Including Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
 c80cbe06-3295-4289-b5e0-08b2deeb82e2,04/20/2027 06:00:00,Claimant Count Change,HIGH,GBP,Release,0.18,Labor Market
@@ -428,10 +440,14 @@ f39cc033-e800-417c-8d64-7aa7c1185a98,04/23/2027 06:00:00,Retail Sales (MoM),HIGH
 3bea2bb5-5902-42e7-82c7-4ff51f01d85d,04/23/2027 06:00:00,Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
 9e7ec517-4d89-4ca4-9f75-bea5b193c816,04/23/2027 06:00:00,Retail Sales ex-Fuel (MoM),HIGH,GBP,Release,0.17,Growth
 ef2f880b-6a59-4cfe-977f-9e87f6ead0a9,04/23/2027 06:00:00,Retail Sales ex-Fuel (YoY),HIGH,GBP,Release,0.17,Growth
+bf80ea10-f1e5-4c55-ba93-a039d7e44a35,04/23/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+955359fd-381e-4ccc-a69e-3196c615a775,04/30/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 514dbf67-60bc-4678-8828-6a3eeb2a7611,05/03/2027 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
 05fd91fc-5bee-4e95-a2b0-9fec1e91b7fd,05/05/2027 08:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
 f8aabf16-362a-451e-885c-2a6da0431111,05/05/2027 08:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
 50b833d9-b362-4bc1-afbd-244f9e61d59b,05/06/2027 08:30:00,S&P Global Construction PMI,HIGH,GBP,Release,0.17,Growth
+182a6d6a-860c-456b-86c4-580ca1f6dfa1,05/07/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+dc8c0c53-7d98-454c-941b-81fe2b364663,05/14/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 c27d8cb3-658c-42fb-bdae-b9225048ece0,05/18/2027 06:00:00,Average Earnings Excluding Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
 798c834f-4c6e-42fc-af6e-06dcbb3d7f1f,05/18/2027 06:00:00,Average Earnings Including Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
 7e45f27a-8360-4f05-bde4-7bd7a3e4782b,05/18/2027 06:00:00,Claimant Count Change,HIGH,GBP,Release,0.18,Labor Market
@@ -457,10 +473,14 @@ b808abcb-409e-47df-8289-4633b6e275fc,05/21/2027 06:00:00,Retail Sales ex-Fuel (Y
 452d31dd-f4cd-4ba1-941b-bb7ddb964793,05/21/2027 08:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
 b93f650b-9fc1-40b5-b61c-24826ac9072a,05/21/2027 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
 147cce1e-8ad5-435b-b786-aa70d91e37e2,05/21/2027 08:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
+43780365-a1e4-4c76-917c-f5717246dc3a,05/21/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+92230cfa-8897-432c-9954-0827beaeda13,05/28/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 843d490e-eebe-407c-bcfb-c3b9f29593e5,06/01/2027 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
 3217cdb6-bf63-4e79-a9a6-26bf65cc5d75,06/03/2027 08:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
 36e646a4-79fd-4fff-97f6-5e2f14e6dab6,06/03/2027 08:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
 35d35947-ac77-4bef-b1cb-e4e21c352405,06/04/2027 08:30:00,S&P Global Construction PMI,HIGH,GBP,Release,0.17,Growth
+dc7f2c03-8ae2-41a8-9a33-b6335dccce1e,06/04/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+98690c4c-8e0b-4e92-9506-096d9c8dcd89,06/11/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 e6babe55-e688-4858-b0df-7c8204d552a4,06/16/2027 06:00:00,Consumer Price Index (MoM),HIGH,GBP,Release,0.19,Inflation
 7d8cdb6a-81bd-4a36-9468-128fcc3407eb,06/16/2027 06:00:00,Consumer Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
 171c5fce-4e0c-44cc-8641-011de94f5a7b,06/16/2027 06:00:00,Core Consumer Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
@@ -483,13 +503,18 @@ c81c3f5a-0f85-448d-967c-6c19c46f5a99,06/18/2027 06:00:00,Retail Sales (MoM),HIGH
 2a074bc5-7861-425f-b7a6-14c6bb5e7e01,06/18/2027 06:00:00,Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
 aa147256-6ab5-4e96-a066-65527c247635,06/18/2027 06:00:00,Retail Sales ex-Fuel (MoM),HIGH,GBP,Release,0.17,Growth
 ba5ab732-9e81-45d6-8519-016a87bc4ab2,06/18/2027 06:00:00,Retail Sales ex-Fuel (YoY),HIGH,GBP,Release,0.17,Growth
+3db83c9e-2d5c-4f4a-9490-c8885b1899ae,06/18/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 df9d1242-d514-41bd-a211-e13d831d1a87,06/23/2027 08:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
 8ad9d058-50a0-4efc-a984-0fe7a41e05bf,06/23/2027 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
 85e0ceb3-7642-4e89-933f-a24bb27d1f57,06/23/2027 08:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
+bf63dcdc-2932-4d4d-a2ce-e426d785b012,06/25/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 bd287d32-663b-4277-96a3-b8c1bd65f8aa,07/01/2027 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
+2b68d834-8930-4dbe-b6f0-e869f656f9c4,07/02/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 462a5ac2-e04f-4465-9faf-1009260a9929,07/05/2027 08:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
 206818ee-93e7-4a5b-9f7d-3df8fd5e81bf,07/05/2027 08:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
 97f46391-84e5-4df3-9046-0b0139984684,07/06/2027 08:30:00,S&P Global Construction PMI,HIGH,GBP,Release,0.17,Growth
+30a24480-8696-4d20-9871-8fc13f0a775e,07/09/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+de8b5cff-c579-4455-b92b-108d2a9122bd,07/16/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 633c06da-032d-4726-88f7-90b0dc815883,07/20/2027 06:00:00,Average Earnings Excluding Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
 80abcd84-e04f-46ab-a6d7-22967acdf32b,07/20/2027 06:00:00,Average Earnings Including Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
 850774c5-11be-44e6-8f53-745588de9dee,07/20/2027 06:00:00,Claimant Count Change,HIGH,GBP,Release,0.18,Labor Market
@@ -515,3 +540,13 @@ fe3a9005-1bff-4bba-8a1d-89551218fc8e,07/22/2027 08:30:00,S&P Global Manufacturin
 5516aaef-5389-434b-9bcb-694c39b0ef2c,07/23/2027 06:00:00,Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
 68cf20a4-df1f-459e-b878-e2d054dedaee,07/23/2027 06:00:00,Retail Sales ex-Fuel (MoM),HIGH,GBP,Release,0.17,Growth
 9f21e116-1b76-4f38-9196-7f536eda6b55,07/23/2027 06:00:00,Retail Sales ex-Fuel (YoY),HIGH,GBP,Release,0.17,Growth
+2988afae-784f-48b1-b1b1-f4d2f5320ef2,07/23/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+6933b0b9-213d-40b5-92db-97ea60c81e75,07/30/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+dbdf71c7-9ea9-44b8-b242-3df96da94a98,08/06/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+1045fe86-a750-41d0-848a-6513bbb69c65,08/13/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+5d8b530a-8623-447d-8a5e-6ce5aeb0392b,08/20/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+edafa330-462d-422f-b5b1-49c41a8d386b,08/27/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+c99ceb3d-18bc-43b2-b8f7-47520f456a14,09/03/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+23314703-7b5a-4eb8-b5d2-58f61cb5ee29,09/10/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+87484fa6-1007-43f6-9fa2-d63c19ad330c,09/17/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+8ca47d6d-0999-4f0b-8f84-e22410ea8df3,09/24/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
