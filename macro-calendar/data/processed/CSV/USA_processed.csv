@@ -26,7 +26,6 @@ feec74d7-74ee-4532-893f-ad2689f3771a,09/10/2026 14:00:00,Wholesale Inventories,M
 769d7f99-cc39-4873-9ab1-6ea7be0d0950,09/10/2026 14:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 2e2868fc-caa0-4218-9c52-d45d1a0c4e1e,09/10/2026 15:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 9175f41c-e90e-4368-b9ee-d7880bb9cee6,09/10/2026 17:00:00,30-Year Bond Auction,LOW,USD,Release,0.09,Money and Credit
-142fa0fb-b263-4c5b-be46-4446354bf750,09/10/2026 18:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
 3e882694-dd74-4fae-a29a-d20098a1c906,09/11/2026 12:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 e39adcbf-65f3-4fd0-92e9-a02b3685d81f,09/11/2026 12:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 2f14ee84-67b4-4e53-bfbe-cc6eb0846ff0,09/11/2026 12:30:00,Consumer Price Index Core s.a,HIGH,USD,Release,0.19,Inflation
@@ -39,6 +38,7 @@ cf53987b-ec2b-45cd-8fb5-2f6fbe1656cf,09/11/2026 14:00:00,UoM 1-year Consumer Inf
 d3ea8612-487c-4aad-9e8f-e270cf19b06f,09/11/2026 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
 d6be50cf-1985-4147-abab-85681de8dc3a,09/11/2026 16:00:00,USDA WASDE Report,HIGH,USD,Release,0.2,Monetary Policy
 13ca0751-5e77-4c66-8cf1-76bd2c1b146e,09/11/2026 17:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
+142fa0fb-b263-4c5b-be46-4446354bf750,09/11/2026 18:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
 70729f4f-6ed7-4f8e-bbf3-8f1a3edea3be,09/11/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 cf75be79-91fb-46a9-9eaf-6253b8788590,09/11/2026 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 9f03780f-775b-4059-9e4c-090af1bf3bcc,09/11/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
@@ -837,6 +837,7 @@ f30afd9c-03a7-49c4-b42b-5503d1c8c646,01/08/2027 18:00:00,Baker Hughes US Oil Rig
 72019245-f962-4e85-ae05-cacc0b2d8021,01/08/2027 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 260ce50c-7bf1-4bf6-86a9-903afc5c6db1,01/08/2027 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 808198ca-b751-4f71-a9f2-5e87169d1525,01/12/2027 11:00:00,NFIB Business Optimism Index,MEDIUM,USD,Release,0.14,Confidence
+ac5333e8-da45-4233-acbd-55374ed50450,01/12/2027 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 08041b3d-d564-4b20-917c-03c83db4361d,01/12/2027 15:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),HIGH,USD,Release,0.19,Inflation
 6c56ddc7-1167-429d-890b-93f6082dd75a,01/12/2027 19:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
 135822a9-bd43-403d-ac36-649bcb51e21b,01/13/2027 13:30:00,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
@@ -849,6 +850,10 @@ f98f0317-666c-4e30-87e4-808460864f99,01/14/2027 13:30:00,Consumer Price Index Co
 02c6975e-eef6-43d8-8b6a-c2f2ef1f3c4b,01/14/2027 13:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
 d7916369-143f-4fc8-9ecd-a5a7cefb90c2,01/14/2027 13:30:00,Consumer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
 e3887aca-7a99-4036-96c3-896c58390926,01/14/2027 13:30:00,Consumer Price Index n.s.a (MoM),HIGH,USD,Release,0.19,Inflation
+5d05fa87-054f-4edd-8c8d-17a383d0c04a,01/14/2027 13:30:00,Export Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
+78a6a420-8d61-4e71-8046-6651c346869c,01/14/2027 13:30:00,Export Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
+2b019fae-3ab8-41b4-815e-614a4b94fc72,01/14/2027 13:30:00,Import Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
+06f89bea-e902-42a3-9a8f-411a11a284b5,01/14/2027 13:30:00,Import Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
 121f2acd-118c-424c-a7eb-06803fceec6d,01/15/2027 13:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
 2d3c413c-3bbb-4eba-9564-829cece732c8,01/15/2027 13:30:00,Retail Sales (MoM),HIGH,USD,Release,0.17,Growth
 b087325a-8f33-4118-99e2-bcb4dfffb82a,01/15/2027 13:30:00,Retail Sales (YoY),HIGH,USD,Release,0.17,Growth
@@ -861,6 +866,7 @@ daf5bb37-2aca-417e-a30a-834de4330720,01/15/2027 15:00:00,Business Inventories,HI
 c62eade5-05a5-46c5-9834-111abd641416,01/15/2027 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 25d3e281-f888-44dd-b400-8264fe5e1436,01/15/2027 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 cd0f197a-5605-4c4b-a883-ce6fa37fb639,01/18/2027 15:00:00,NAHB Housing Market Index,LOW,USD,Release,0.07,Housing
+294bc416-09a2-4058-bf19-af57c038bdd7,01/19/2027 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 ebc22175-d069-4d30-bb14-35588caf2409,01/19/2027 13:30:00,Building Permits (MoM),LOW,USD,Release,0.07,Housing
 944608d9-7d82-4a7d-a27d-c0ce32a2e158,01/19/2027 13:30:00,Building Permits Change,LOW,USD,Release,0.07,Housing
 e1145c6c-f6e9-447e-83d9-19f0f48773aa,01/19/2027 13:30:00,Housing Starts (MoM),LOW,USD,Release,0.07,Housing
@@ -885,6 +891,7 @@ a7803e92-c878-493d-b056-143b0e53fb10,01/22/2027 20:30:00,CFTC Oil NC Net Positio
 75472fcd-dfde-4c44-8b6b-4237c02b9c7e,01/25/2027 13:30:00,Chicago Fed National Activity Index ,HIGH,USD,Release,0.17,Growth
 90ca71fd-b30b-4bef-b469-6bc239db08d2,01/25/2027 15:00:00,New Home Sales (MoM),LOW,USD,Release,0.07,Housing
 6d2c0b25-9464-415b-92e8-0af92495dd66,01/25/2027 15:00:00,New Home Sales Change (MoM),LOW,USD,Release,0.07,Housing
+a0c4dbeb-d628-4c55-91df-344098c11ef0,01/26/2027 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 771a3317-dce5-40ca-b335-a3ce06ddb90d,01/26/2027 14:00:00,Housing Price Index (MoM),LOW,USD,Release,0.07,Housing
 128d0061-99f5-4782-927a-e013f8aa63d7,01/26/2027 14:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD,Release,0.07,Housing
 136a40fa-ca98-4d10-8bca-826edfc36221,01/26/2027 15:00:00,Consumer Confidence,MEDIUM,USD,Release,0.14,Confidence
@@ -897,6 +904,9 @@ a7803e92-c878-493d-b056-143b0e53fb10,01/22/2027 20:30:00,CFTC Oil NC Net Positio
 3c0bc89d-e887-47bd-9ce7-a163eff48673,01/27/2027 13:30:00,Durable Goods Orders ex Transportation,HIGH,USD,Release,0.17,Growth
 906f12fc-06b2-4f93-8348-de9e1a702d58,01/27/2027 13:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD,Release,0.17,Growth
 9f28fc24-a9af-411c-b751-3569ff16ba74,01/27/2027 18:00:00,7-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
+57ee874c-f3c1-488e-9b0c-55a1d43d7de7,01/27/2027 19:00:00,Fed Interest Rate Decision,MEDIUM,USD,Speech,0.13,Monetary Policy
+b60dfe46-3e2f-4257-a6d6-e275b061713d,01/27/2027 19:00:00,Fed Monetary Policy Statement,MEDIUM,USD,Speech,0.13,Monetary Policy
+7ffe24b9-6acd-4ce3-8b46-ccc2967a9838,01/27/2027 19:30:00,FOMC Press Conference,MEDIUM,USD,Speech,0.13,Monetary Policy
 5dfd3332-32dc-4866-a2ea-d84d10d158ee,01/28/2027 13:30:00,Core Personal Consumption Expenditures (QoQ),HIGH,USD,Release,0.17,Growth
 c4528d7a-d67b-498b-bfce-64ae1a54c4e1,01/28/2027 13:30:00,Gross Domestic Product Annualized,HIGH,USD,Release,0.17,Growth
 f533417f-1fdf-4cc6-b9b3-d741ae04d349,01/28/2027 13:30:00,Gross Domestic Product Price Index,MEDIUM,USD,Release,0.11,Trade and External
@@ -940,12 +950,19 @@ cf6cc1c9-b129-448d-92c0-49b347a222c8,02/05/2027 13:30:00,U6 Underemployment Rate
 52a11c4d-b083-42d5-8f23-a209d00c2da5,02/05/2027 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 1521822b-2dce-4f0c-b640-419746c2671d,02/05/2027 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 55a6edf6-1eef-462f-9026-4ea731f455d6,02/05/2027 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+8cb153b9-cb58-4b13-98ee-1a28963006cf,02/09/2027 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
+325c2819-938c-4576-9f07-b048ee727c03,02/09/2027 18:00:00,3-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 51d66c91-5359-4583-82a4-6400f9463f30,02/11/2027 13:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 3a3d2bb2-1ffa-41f2-9689-21a7a871b85d,02/11/2027 13:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 81bb5ef2-7507-4f5d-9379-56c91e3ab7e8,02/11/2027 13:30:00,Consumer Price Index Core s.a,HIGH,USD,Release,0.19,Inflation
 c244c128-615f-4838-b409-2bc9985af794,02/11/2027 13:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
 83022d4a-d90a-4fcd-ab52-adaac854f669,02/11/2027 13:30:00,Consumer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
 66c26d50-d0c0-4bed-bcd5-830b996ce3de,02/11/2027 13:30:00,Consumer Price Index n.s.a (MoM),HIGH,USD,Release,0.19,Inflation
+37fa2c8d-ce7f-4544-8afd-59c161353740,02/11/2027 19:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
+a524d18b-803f-4de2-be84-9af6a64cfe3e,02/12/2027 13:30:00,Export Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
+3cf3eeb7-750a-47b9-914f-20f9c5c4ba0b,02/12/2027 13:30:00,Export Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
+8ef5f232-1a8b-4b95-b1c7-58567a429a6f,02/12/2027 13:30:00,Import Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
+7f1d4538-db5b-47c0-a9e1-ab2cc3bc3f31,02/12/2027 13:30:00,Import Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
 245eb830-dd32-46d2-8dcb-249f2753463d,02/12/2027 13:30:00,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 f9ae11a6-6e57-48ea-aa14-a6cf519e02d6,02/12/2027 13:30:00,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 f9898fb5-c2cf-4e46-91fa-2683c4ace34d,02/12/2027 13:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
@@ -958,6 +975,7 @@ c4686b67-dabc-4786-902e-db0b4b409d43,02/12/2027 15:00:00,UoM 5-year Consumer Inf
 df1f95ba-1196-44b3-be5a-8953047fbae2,02/12/2027 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 8a1fd077-ebf1-4405-ba86-330bcf03912c,02/12/2027 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 ae936c45-e234-4638-aa49-3e4758f32a4d,02/15/2027 13:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
+7f20ba8b-2121-4a20-961f-01cc5f1f5330,02/16/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 d7f96e2e-c79f-4fab-b332-bf54e1ef21f6,02/16/2027 16:30:00,52-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 87a76e69-18b5-4a9c-afa5-6314b63bc9aa,02/17/2027 13:30:00,Retail Sales (MoM),HIGH,USD,Release,0.17,Growth
 9b9f7973-bf92-4c75-861a-9fe3430e4f53,02/17/2027 13:30:00,Retail Sales (YoY),HIGH,USD,Release,0.17,Growth
@@ -966,10 +984,15 @@ bc4d7b8c-ab6d-4bf0-9ae6-12e252b2ba86,02/17/2027 13:30:00,Retail Sales Control Gr
 7fb51a94-782b-4115-8cf2-96ba14afa62b,02/17/2027 14:15:00,Capacity Utilization,HIGH,USD,Release,0.2,Monetary Policy
 33db8f02-4cd0-4d4c-933f-d9d1584b69b2,02/17/2027 14:15:00,Industrial Production (MoM),HIGH,USD,Release,0.17,Growth
 59f1a17e-06ef-4435-b1de-03c408af8780,02/17/2027 19:00:00,FOMC Minutes,MEDIUM,USD,Speech,0.13,Monetary Policy
+f89117fa-c1e0-405a-855a-9a71f69601c1,02/18/2027 13:30:00,Building Permits (MoM),LOW,USD,Release,0.07,Housing
+14e93bfe-49df-45bc-b259-8b1bcacebde7,02/18/2027 13:30:00,Building Permits Change,LOW,USD,Release,0.07,Housing
+ceacd7aa-50b1-4b31-8fd6-5562a9500ab9,02/18/2027 13:30:00,Housing Starts (MoM),LOW,USD,Release,0.07,Housing
+bc6448b6-ebdc-4d27-8ba9-11dff403a76f,02/18/2027 13:30:00,Housing Starts Change,LOW,USD,Release,0.07,Housing
 92b476de-61a5-4533-9135-7958d58d481d,02/18/2027 18:00:00,30-year TIPS Auction,LOW,USD,Release,0.09,Money and Credit
 cabe250f-cb79-4650-9392-ff2b5d6b6da7,02/19/2027 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 417b1706-c227-4f1e-ad29-03b6d6abd6ee,02/19/2027 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 f08f44ce-b2cd-4f1a-b3b6-33397dbc9d01,02/19/2027 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+14fbdfcb-ac1a-4089-918d-82a30ebb6d55,02/23/2027 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 d25a8ad7-3c54-42fa-9d75-3e65f6c26dd3,02/23/2027 18:00:00,2-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 01514793-5074-4c36-81fc-699074168b97,02/24/2027 14:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
 d6e2a4f0-0334-4011-996c-4f998b748160,02/24/2027 14:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
@@ -978,8 +1001,14 @@ b5df2f0f-fba6-4fb4-b308-3a24e540915f,02/25/2027 13:30:00,Core Personal Consumpti
 5f29cc0b-0937-4430-bc43-98fbb7ae8f7a,02/25/2027 13:30:00,Gross Domestic Product Annualized,HIGH,USD,Release,0.17,Growth
 d0ff2b0f-39d5-4ac5-813b-c814727094bd,02/25/2027 13:30:00,Gross Domestic Product Price Index,MEDIUM,USD,Release,0.11,Trade and External
 637d5506-a6fe-4a33-98cb-859c0cfc818d,02/25/2027 13:30:00,Personal Consumption Expenditures Prices (QoQ),HIGH,USD,Release,0.17,Growth
+6a6b0b24-f21e-49fa-a17b-8640a365b2e0,02/25/2027 15:30:00,Dallas Fed Manufacturing Business Index,MEDIUM,USD,Release,0.14,Confidence
+69c93bb0-927c-435b-8995-57f43d21cfd2,02/25/2027 16:00:00,Kansas Fed Manufacturing Activity,HIGH,USD,Release,0.17,Growth
 bed19152-ca59-4a09-8097-21fa90e582c7,02/26/2027 13:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 efa5a8e8-1ad0-458e-9fd7-46278db6c8d0,02/26/2027 13:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
+dbac8418-0aa2-4c13-8ff3-d1470c5cfdb6,02/26/2027 13:30:00,Durable Goods Orders,HIGH,USD,Release,0.17,Growth
+ac62879e-29bc-4139-91f8-2d656aa7ede8,02/26/2027 13:30:00,Durable Goods Orders ex Defense,HIGH,USD,Release,0.17,Growth
+f0e64a31-e161-4763-b787-0a800d21b89b,02/26/2027 13:30:00,Durable Goods Orders ex Transportation,HIGH,USD,Release,0.17,Growth
+554b360a-2db0-4ddb-abfa-70b7e7b3595e,02/26/2027 13:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD,Release,0.17,Growth
 1bb40a90-d90b-4f63-b66f-819c2004c7fe,02/26/2027 13:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 9a4b7780-6cab-4681-b556-749930d207c9,02/26/2027 13:30:00,Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 51e36c89-d23e-424d-b062-719eddb202e6,02/26/2027 13:30:00,Personal Income (MoM),HIGH,USD,Release,0.17,Growth
@@ -1014,16 +1043,23 @@ aa805854-9595-4712-81b1-e82eba10d7f0,03/05/2027 13:30:00,Unemployment Rate,HIGH,
 93fd465f-53b0-45f5-923f-9912d3f71ce4,03/05/2027 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 468c233e-3650-4cba-83af-b1f281f8dab0,03/05/2027 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 b610b1d2-b1ad-469b-a883-869cec3c9fa5,03/05/2027 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+b2dbf85e-5592-4e7f-b30a-880be99a89b6,03/09/2027 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
+a0980ab0-c67f-4050-a732-5980fa54c8a4,03/09/2027 18:00:00,3-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 6208c036-3009-4686-bf83-9d9bd765c343,03/11/2027 13:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 2f332c01-d972-4c54-aeb1-e6eef67e5d9d,03/11/2027 13:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 34743e51-38a7-44f8-a786-8f0ade065015,03/11/2027 13:30:00,Consumer Price Index Core s.a,HIGH,USD,Release,0.19,Inflation
 94a30a20-3c0e-4683-89d2-ab519d5f9a79,03/11/2027 13:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
 c667309c-39c3-4d16-a24d-e7cc9cb2981c,03/11/2027 13:30:00,Consumer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
 66a89324-320a-49cf-8d8c-30ecc7814305,03/11/2027 13:30:00,Consumer Price Index n.s.a (MoM),HIGH,USD,Release,0.19,Inflation
+5ccaa8f4-2749-4e10-88a1-74eef9c89efe,03/11/2027 19:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
 9c252fc0-2c44-4f4e-bdec-0e1fb12e87ba,03/12/2027 12:30:00,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 a7092fcc-8e49-4c69-81f3-76fef85eb43d,03/12/2027 12:30:00,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 7fdede6b-fc04-4e2c-9588-466987566fa4,03/12/2027 12:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
 0e7bd5e5-31b9-4283-9b06-3b7d0abc43a9,03/12/2027 12:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
+05009d7a-8dbd-45e8-bb39-d86eba33bf3c,03/12/2027 13:30:00,Export Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
+a28cc68e-79ee-46d3-9beb-f87e01c40e82,03/12/2027 13:30:00,Export Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
+8898d4f7-bd9f-4a02-ba94-0c0d54f9aa45,03/12/2027 13:30:00,Import Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
+487bc28e-f097-4712-b8ef-65c2997b9294,03/12/2027 13:30:00,Import Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
 1e932f88-217d-460b-b229-e3a9dbccc1dd,03/12/2027 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
 024c4780-d0fc-41b4-9091-d5b128c6458d,03/12/2027 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
 f19457f2-2c04-428e-ad49-26945661769f,03/12/2027 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
@@ -1035,18 +1071,37 @@ a8817804-f521-40d5-9c0d-c43d9a4c943d,03/14/2027 07:00:00,Daylight Saving Time ,H
 e51a4296-a193-4f39-9833-83e32e077c24,03/15/2027 12:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
 bfdee5ad-ec7b-47e4-9272-4216b9da436e,03/15/2027 13:15:00,Capacity Utilization,HIGH,USD,Release,0.2,Monetary Policy
 c478eb43-4f48-450d-98cd-c044c2e6944c,03/15/2027 13:15:00,Industrial Production (MoM),HIGH,USD,Release,0.17,Growth
+92223fe7-cca5-4b27-bb2d-554629382f24,03/16/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 b8d05e54-8c43-417a-a5c4-48b94664582c,03/16/2027 15:30:00,52-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 81e78d16-ff7b-4eff-8439-bf63629e5e65,03/17/2027 12:30:00,Retail Sales (MoM),HIGH,USD,Release,0.17,Growth
 b02b05f3-2520-4d3c-8355-5dfd68e4a159,03/17/2027 12:30:00,Retail Sales (YoY),HIGH,USD,Release,0.17,Growth
 fadb1514-f836-4276-b774-4a1838c9e32f,03/17/2027 12:30:00,Retail Sales Control Group,HIGH,USD,Release,0.17,Growth
 b259c3f2-388e-4da9-a590-955de9d1e29e,03/17/2027 12:30:00,Retail Sales ex Autos (MoM),HIGH,USD,Release,0.17,Growth
+1f0d4172-b895-4548-a4d9-df431c711edd,03/17/2027 18:00:00,Fed Interest Rate Decision,MEDIUM,USD,Speech,0.13,Monetary Policy
+9ddff595-f289-4df6-ae6c-0eaa63eb2edd,03/17/2027 18:00:00,Fed Monetary Policy Statement,MEDIUM,USD,Speech,0.13,Monetary Policy
+0262d0b1-1f30-49c6-8a39-a96479252663,03/17/2027 18:00:00,FOMC Economic Projections,MEDIUM,USD,Speech,0.13,Monetary Policy
+8618e5fa-f155-45b6-b00d-1eb797af1976,03/17/2027 18:00:00,Interest Rate Projections - 1st year,HIGH,USD,Release,0.2,Monetary Policy
+e1626f80-5c0b-40b2-bed2-131f7c7290ad,03/17/2027 18:00:00,Interest Rate Projections - 2nd year,HIGH,USD,Release,0.2,Monetary Policy
+7c60b192-cf31-4753-af61-4863de35a2ec,03/17/2027 18:00:00,Interest Rate Projections - Current,HIGH,USD,Release,0.2,Monetary Policy
+81bc18ec-96ec-43bf-abd8-c123381c3192,03/17/2027 18:00:00,Interest Rate Projections - Longer,HIGH,USD,Release,0.2,Monetary Policy
+3da83ac4-0787-45b9-9e64-586323f46ddb,03/17/2027 18:30:00,FOMC Press Conference,MEDIUM,USD,Speech,0.13,Monetary Policy
+49223008-6d25-491c-9cd8-eab3520adcaf,03/18/2027 12:30:00,Building Permits (MoM),LOW,USD,Release,0.07,Housing
+26401f4d-8e91-4f04-a34b-cc8a47af2b4a,03/18/2027 12:30:00,Building Permits Change,LOW,USD,Release,0.07,Housing
+3be91da5-41d1-4159-ad06-e6de4e542c39,03/18/2027 12:30:00,Housing Starts (MoM),LOW,USD,Release,0.07,Housing
+bb134c63-a3f1-4b1c-8379-4142dd618381,03/18/2027 12:30:00,Housing Starts Change,LOW,USD,Release,0.07,Housing
 62ac4e33-aa21-4f6f-8f80-4e297f73e85c,03/19/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 7548e379-df7b-45a3-af63-41bdf9191dfa,03/19/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 eb592cbb-4f47-4c06-b9b6-4146ac1071c8,03/19/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 f1c41f87-5208-410a-a3ca-37d7ac58341c,03/22/2027 13:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
 0303d761-1c57-47d2-9e22-b96bd9af7aeb,03/22/2027 13:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 9e224cc3-7029-4bc1-8564-b736ba412197,03/22/2027 13:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
+c0d532d7-d46a-4486-a1ad-e0d2c3391539,03/23/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 80c9970d-28a8-44fd-9395-bc2887b2f14c,03/23/2027 17:00:00,2-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
+a0401205-7e42-46be-a46a-0a0e3dcb8961,03/25/2027 15:00:00,Kansas Fed Manufacturing Activity,HIGH,USD,Release,0.17,Growth
+b2f2a222-a211-4236-a64b-9a5c1da63326,03/26/2027 12:30:00,Durable Goods Orders,HIGH,USD,Release,0.17,Growth
+d3eeb98b-cf6a-44ec-a579-08d5cc7dc043,03/26/2027 12:30:00,Durable Goods Orders ex Defense,HIGH,USD,Release,0.17,Growth
+04692d71-d5d4-4ea1-9f85-331ece58194a,03/26/2027 12:30:00,Durable Goods Orders ex Transportation,HIGH,USD,Release,0.17,Growth
+ec15c2db-04f6-42b9-9763-8b8615217cc1,03/26/2027 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD,Release,0.17,Growth
 43251300-17f7-485c-b256-e7c73650089a,03/26/2027 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
 173e0c3c-d710-44b9-af1e-560c8d4c1482,03/26/2027 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
 2f66f818-73c6-46b8-9625-722e9e63bd90,03/26/2027 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
@@ -1054,6 +1109,7 @@ f1c41f87-5208-410a-a3ca-37d7ac58341c,03/22/2027 13:45:00,S&P Global Composite PM
 5aa5a8a4-c886-4de0-ba66-67bf2d686110,03/26/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 e912bc34-3677-4ffe-826f-8ac4c3e8ff9d,03/26/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 981cdb86-fd7a-42d7-8c8b-9961d7aa5513,03/26/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+ac2fac3b-74e5-4413-b78c-3f2729b500af,03/30/2027 14:30:00,Dallas Fed Manufacturing Business Index,MEDIUM,USD,Release,0.14,Confidence
 f044b281-297a-4e04-b5ef-dac2bf1f2fba,03/31/2027 12:15:00,ADP Employment Change,HIGH,USD,Release,0.18,Labor Market
 207f0839-af17-479e-a226-f681b847cba5,03/31/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 61a46175-dce3-4f09-bf73-d16cb54a60ba,03/31/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
@@ -1087,6 +1143,7 @@ f78bbf4f-e74c-4d3e-b564-3d9cbfd9c2a8,04/05/2027 14:00:00,ISM Services Employment
 acab3eb6-00a2-4a16-99c1-7937b7e54953,04/05/2027 14:00:00,ISM Services PMI,HIGH,USD,Release,0.17,Growth
 da8b63c4-e09f-4d09-8fb4-9b566f420ca0,04/05/2027 14:00:00,ISM Services Prices Paid,MEDIUM,USD,Release,0.14,Confidence
 b9e44adf-712f-4db2-8e45-c46c1a8b79d7,04/06/2027 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),HIGH,USD,Release,0.19,Inflation
+e590217b-aec3-40b3-a05f-d745a5657d5f,04/06/2027 17:00:00,3-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 5ea7ebfd-1815-4c39-954b-5bb8586bf00c,04/07/2027 18:00:00,FOMC Minutes,MEDIUM,USD,Speech,0.13,Monetary Policy
 433fec71-33c4-4218-baf5-01f672c7ca87,04/09/2027 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
 6b31b4ef-e370-44c8-9b13-1ac003965289,04/09/2027 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
@@ -1095,6 +1152,8 @@ b9e44adf-712f-4db2-8e45-c46c1a8b79d7,04/06/2027 14:00:00,RealClearMarkets/TIPP E
 0b552089-d283-4faf-a509-17efaead523c,04/09/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 493296a0-9e7e-4c8d-bda9-551140d276ae,04/09/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 253a0fd5-99f7-4959-81e4-6e36a5811599,04/09/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+4bba0b86-3c93-4647-baa2-d7ff99e341d1,04/12/2027 18:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
+2f276599-4eaa-4f3d-b04b-5ea3afaf012a,04/13/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 616e3ea0-b2a1-4ecf-ad44-0790cc9abf00,04/13/2027 12:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 f549ebc7-d6f2-436d-819d-26afe75a9b66,04/13/2027 12:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 93050927-1be9-4a42-9e79-b034a4bad79c,04/13/2027 12:30:00,Consumer Price Index Core s.a,HIGH,USD,Release,0.19,Inflation
@@ -1106,9 +1165,17 @@ d93b2f80-e951-4fc4-8a80-9e83c89bcfd9,04/13/2027 12:30:00,Producer Price Index (M
 2792f882-a7d1-4a14-9504-8750149fb322,04/13/2027 12:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
 3d221a7c-a46b-4854-8ca0-0bc0cabf2980,04/13/2027 12:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
 948f2d41-7c49-49c0-aaf3-c8637ca0a593,04/13/2027 15:30:00,52-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
+ae606730-267e-4c92-ba96-7fd291ab2dbc,04/15/2027 12:30:00,Export Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
+0da1bcef-a8e7-49f0-8aea-c91a2b83199f,04/15/2027 12:30:00,Export Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
+66a33210-56d7-4e69-b9f4-2ef29adb69ce,04/15/2027 12:30:00,Import Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
+f0a001de-54f3-4abb-a27a-d370d433d2f3,04/15/2027 12:30:00,Import Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
 22499fbe-fec6-46c2-b470-8bb68c3ebd02,04/15/2027 12:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
 2692e230-8d72-4322-81bf-98401e1e0184,04/15/2027 13:15:00,Capacity Utilization,HIGH,USD,Release,0.2,Monetary Policy
 153c0a72-bdde-4ee8-a415-681ae969e7f7,04/15/2027 13:15:00,Industrial Production (MoM),HIGH,USD,Release,0.17,Growth
+343ed31c-0b4f-4551-9525-7b5513732488,04/16/2027 12:30:00,Building Permits (MoM),LOW,USD,Release,0.07,Housing
+fe6cdc7c-aa0e-4f09-93d1-c70bf0629bd3,04/16/2027 12:30:00,Building Permits Change,LOW,USD,Release,0.07,Housing
+d197048b-3ce7-41ef-9c9a-0dffc2025d01,04/16/2027 12:30:00,Housing Starts (MoM),LOW,USD,Release,0.07,Housing
+918b0db4-de1a-420d-a85f-760a77af3624,04/16/2027 12:30:00,Housing Starts Change,LOW,USD,Release,0.07,Housing
 bb761dc9-2e14-48d9-af83-bfd29119e859,04/16/2027 12:30:00,Retail Sales (MoM),HIGH,USD,Release,0.17,Growth
 0a67c2b2-d7af-4538-93b5-160212fd2152,04/16/2027 12:30:00,Retail Sales (YoY),HIGH,USD,Release,0.17,Growth
 202c15ea-5934-486f-9435-19fb3b3f39a6,04/16/2027 12:30:00,Retail Sales Control Group,HIGH,USD,Release,0.17,Growth
@@ -1116,6 +1183,8 @@ bb761dc9-2e14-48d9-af83-bfd29119e859,04/16/2027 12:30:00,Retail Sales (MoM),HIGH
 87365871-6754-4e70-8ffc-5bff41e2d5b3,04/16/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 60a05fa7-a108-470c-971c-40a4259dc399,04/16/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 f15bd3ac-45b0-4539-99f2-c724685da9e1,04/16/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+b6648cff-6345-4be0-b755-42f2a948f905,04/20/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
+37e8ff63-a567-41ef-95c3-e86f62a0c488,04/22/2027 15:00:00,Kansas Fed Manufacturing Activity,HIGH,USD,Release,0.17,Growth
 b8a1ccad-55c5-4148-a825-a891c132622f,04/23/2027 13:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
 5113123c-9807-4c0e-8fb9-f0011b77fedb,04/23/2027 13:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 f6e9b2ca-f0af-4a73-aa3a-8596582352e4,04/23/2027 13:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
@@ -1127,6 +1196,15 @@ f6e9b2ca-f0af-4a73-aa3a-8596582352e4,04/23/2027 13:45:00,S&P Global Services PMI
 5e6490fc-ba7b-4e58-b845-398d473ec7b9,04/23/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 e6e24c86-a596-4a0a-b4fe-302b2570f1bf,04/23/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 234f8f77-77b5-43ae-acad-ba7d9c087af3,04/26/2027 17:00:00,2-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
+a79a6525-1f11-454d-bb43-d9af9994125b,04/27/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
+b29bf64d-8848-4996-9e70-a98ccace25c1,04/27/2027 12:30:00,Durable Goods Orders,HIGH,USD,Release,0.17,Growth
+53a86b6f-56be-40ab-a229-7625b0fd932d,04/27/2027 12:30:00,Durable Goods Orders ex Defense,HIGH,USD,Release,0.17,Growth
+fbf32bc4-770a-4a9f-ad72-e271fd4dbccc,04/27/2027 12:30:00,Durable Goods Orders ex Transportation,HIGH,USD,Release,0.17,Growth
+40857941-b227-4c27-b14a-331b23ef11ac,04/27/2027 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD,Release,0.17,Growth
+d6acdeed-81ff-403a-961c-e944103907ec,04/27/2027 14:30:00,Dallas Fed Manufacturing Business Index,MEDIUM,USD,Release,0.14,Confidence
+3e4b29b8-8594-4861-a788-0d1b20f1575d,04/28/2027 18:00:00,Fed Interest Rate Decision,MEDIUM,USD,Speech,0.13,Monetary Policy
+780b3dd5-ceab-41b5-9442-03ff494f887a,04/28/2027 18:00:00,Fed Monetary Policy Statement,MEDIUM,USD,Speech,0.13,Monetary Policy
+8795602f-8e03-44b5-9013-7725da977c37,04/28/2027 18:30:00,FOMC Press Conference,MEDIUM,USD,Speech,0.13,Monetary Policy
 95df45c7-1c81-4a34-9dfe-6c137ac8d26c,04/29/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 f104a38c-d0dc-4e5f-ac8a-e5db9a1d64a1,04/29/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 b6f2960d-8535-49dc-9fad-7817f24e203a,04/29/2027 12:30:00,Core Personal Consumption Expenditures (QoQ),HIGH,USD,Release,0.17,Growth
@@ -1162,13 +1240,20 @@ a86beea1-b24e-4872-a78b-78b7c43c5b3e,05/07/2027 12:30:00,Average Weekly Hours,HI
 eebaffcc-f3b3-48c0-8cfc-edd13cc2fe37,05/07/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 7fdff78c-0f6e-42c3-82bd-808e1d841a43,05/07/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 0a7cff75-9191-4f71-9c85-f0bbf5828b21,05/07/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+9820377d-bb73-49a6-a4c9-f67a711300b8,05/11/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 155633ab-cd01-49c9-9fdb-3dee93f6e936,05/11/2027 15:30:00,52-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
+4f8834fb-5cf4-415a-b0f2-febdc0032bb0,05/11/2027 17:00:00,3-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
+8f632517-ac37-4a50-989b-d2b957c3e956,05/11/2027 18:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
 77b3a67d-ff31-4971-9053-a98477aca20b,05/12/2027 12:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 06886cfa-15d9-412c-bc70-d897c6bf7f72,05/12/2027 12:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 7fcc9dfe-7228-437b-bd63-b2ac2e6ea7f1,05/12/2027 12:30:00,Consumer Price Index Core s.a,HIGH,USD,Release,0.19,Inflation
 ea72cdc1-94b3-4e8a-a101-dbdeab817d42,05/12/2027 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
 19dd00b9-89a4-497d-8c74-30c75301c12c,05/12/2027 12:30:00,Consumer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
 0ffb518c-fc80-4c9f-88c0-2b8191500a47,05/12/2027 12:30:00,Consumer Price Index n.s.a (MoM),HIGH,USD,Release,0.19,Inflation
+7bb627fa-f2ca-46b5-bf09-9a09f62dcfa1,05/13/2027 12:30:00,Export Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
+f660065b-e995-4930-9bee-ff48a8be3e05,05/13/2027 12:30:00,Export Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
+73645cd7-4b2f-43c6-bc52-cb0cb32b95a2,05/13/2027 12:30:00,Import Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
+cee05a3e-bea6-4b43-b56b-7cdc18c0c149,05/13/2027 12:30:00,Import Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
 afdfb8ca-bb5b-4101-a8d9-aa351414a94b,05/13/2027 12:30:00,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 657efb84-a864-4f7f-9f9c-61ccb1f60696,05/13/2027 12:30:00,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 da57638e-a7c9-4c88-bbab-b2003055498b,05/13/2027 12:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
@@ -1187,7 +1272,13 @@ c68b4c60-d8e8-4f9d-a3d7-5cba580ca50e,05/17/2027 12:30:00,Retail Sales (YoY),HIGH
 ed47ad2d-c45e-41d1-b886-706b0ff088a4,05/17/2027 12:30:00,Retail Sales ex Autos (MoM),HIGH,USD,Release,0.17,Growth
 6276e948-97c7-4a27-af90-4a90878bbd1f,05/17/2027 13:15:00,Capacity Utilization,HIGH,USD,Release,0.2,Monetary Policy
 1e358289-9c0f-4509-9af1-210691483add,05/17/2027 13:15:00,Industrial Production (MoM),HIGH,USD,Release,0.17,Growth
+5fec50c0-cb8c-49fa-87e2-873f7c3bd2fd,05/18/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
+3cc5c154-3ad4-4a39-94f6-4695c5c57ab7,05/18/2027 12:30:00,Building Permits (MoM),LOW,USD,Release,0.07,Housing
+70b525fb-b88e-438b-9677-d143507e10ee,05/18/2027 12:30:00,Building Permits Change,LOW,USD,Release,0.07,Housing
+1c9a569d-3fa1-4a06-a414-44e5f4fb0195,05/18/2027 12:30:00,Housing Starts (MoM),LOW,USD,Release,0.07,Housing
+7cc15d7e-f2c9-40fd-933c-84b9fc524293,05/18/2027 12:30:00,Housing Starts Change,LOW,USD,Release,0.07,Housing
 abfc9bcd-5f81-48ea-bd73-05c91a51c7ea,05/19/2027 18:00:00,FOMC Minutes,MEDIUM,USD,Speech,0.13,Monetary Policy
+e64e1635-8a83-4230-8665-2f51e2c9278e,05/20/2027 15:00:00,Kansas Fed Manufacturing Activity,HIGH,USD,Release,0.17,Growth
 519c10c9-dc2e-46c9-9f4f-92b472fc9c48,05/21/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 fbe91a15-537b-4f94-a83d-6bb9fdcf2753,05/21/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 bfe635eb-fb01-4a29-ba56-b75656905ac4,05/21/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
@@ -1195,6 +1286,11 @@ bfe635eb-fb01-4a29-ba56-b75656905ac4,05/21/2027 19:30:00,CFTC S&P 500 NC Net Pos
 3ff28b8c-80dd-4680-8683-c5b65a5a1aea,05/24/2027 13:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 b15f1016-5529-4fc7-af35-9e5615925085,05/24/2027 13:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
 9ab59d35-bfda-4e7d-8725-c87ca09b1d2e,05/24/2027 17:00:00,2-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
+94f8ef67-48ff-4e7f-8609-6ef75e4b3654,05/25/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
+acd3174b-cde1-45e4-8a55-85e369d53480,05/26/2027 12:30:00,Durable Goods Orders,HIGH,USD,Release,0.17,Growth
+f1b23400-1d4e-4056-bc6d-c1b39c858c5b,05/26/2027 12:30:00,Durable Goods Orders ex Defense,HIGH,USD,Release,0.17,Growth
+e12c7fb5-009f-4406-8113-fa674a9be7b9,05/26/2027 12:30:00,Durable Goods Orders ex Transportation,HIGH,USD,Release,0.17,Growth
+5336a45f-b40f-4de7-a33d-b59f275b23c7,05/26/2027 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD,Release,0.17,Growth
 c8f7c677-b706-49c7-b647-07f11320c50d,05/27/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 e46cb96b-c343-4dc0-a398-b60381dda74d,05/27/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 a1bfc750-728b-4976-a700-fd5a86a4df98,05/27/2027 12:30:00,Core Personal Consumption Expenditures (QoQ),HIGH,USD,Release,0.17,Growth
@@ -1212,6 +1308,7 @@ c8bd4c80-4fb1-4393-8931-543eed70993f,05/28/2027 14:00:00,Michigan Consumer Senti
 3572fa90-ae7c-4ea7-bfac-9e96373f6012,05/28/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 b6862334-1f38-4747-b03f-a6235162dcfa,05/28/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 24ecc0e5-1a7f-4dcb-93ce-9a6b10c25b0e,05/28/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+7221384c-af5c-4bbc-83df-45ae6a6c3528,05/31/2027 14:30:00,Dallas Fed Manufacturing Business Index,MEDIUM,USD,Release,0.14,Confidence
 92294871-b9d2-464f-bf95-fb2107268d07,06/01/2027 13:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 a1772b8c-dae8-4ce8-8c2a-65e8c6247294,06/01/2027 14:00:00,ISM Manufacturing Employment Index,HIGH,USD,Release,0.18,Labor Market
 b413927f-1026-45b5-a225-f464b156b283,06/01/2027 14:00:00,ISM Manufacturing New Orders Index,HIGH,USD,Release,0.17,Growth
@@ -1234,13 +1331,24 @@ e53797d8-055f-434d-b6ac-1e8fdd9eccfd,06/04/2027 12:30:00,Unemployment Rate,HIGH,
 fa41a75e-4182-4cd0-b306-fb47bb99841f,06/04/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 f942f5bb-f154-4586-b689-644d8ce970df,06/04/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 f953160b-14b4-4883-abdc-f679e56027d0,06/04/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+76d52f16-2435-4f62-a212-cabb766de5cc,06/08/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 56ca3fb5-5e94-4bc6-8b0f-ce0c242ac97c,06/08/2027 15:30:00,52-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
+1cc7ad25-b7e5-4d78-852d-c157b88b291a,06/08/2027 17:00:00,3-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
+65ce17da-e88f-4faa-8836-4f8491261b8c,06/09/2027 18:00:00,Fed Interest Rate Decision,MEDIUM,USD,Speech,0.13,Monetary Policy
+a3b29192-61c6-4c6b-b4f4-c7629010e3cf,06/09/2027 18:00:00,Fed Monetary Policy Statement,MEDIUM,USD,Speech,0.13,Monetary Policy
+48df31f8-5892-4c04-96a7-e506ed1c761b,06/09/2027 18:00:00,FOMC Economic Projections,MEDIUM,USD,Speech,0.13,Monetary Policy
+7894439d-5533-4aaa-a3b6-08d92b7b803e,06/09/2027 18:00:00,Interest Rate Projections - 1st year,HIGH,USD,Release,0.2,Monetary Policy
+e5a9226d-1464-4e53-9b50-5650d282e212,06/09/2027 18:00:00,Interest Rate Projections - 2nd year,HIGH,USD,Release,0.2,Monetary Policy
+38121ab6-6128-436b-bc1d-32ca1e844014,06/09/2027 18:00:00,Interest Rate Projections - Current,HIGH,USD,Release,0.2,Monetary Policy
+86ca4f09-4004-43aa-a5f0-20a4ebec5c05,06/09/2027 18:00:00,Interest Rate Projections - Longer,HIGH,USD,Release,0.2,Monetary Policy
+084aa8f7-d222-4ac3-8eb2-ea97cbe67c0e,06/09/2027 18:30:00,FOMC Press Conference,MEDIUM,USD,Speech,0.13,Monetary Policy
 a9764e12-5a7c-4aa0-add2-9264d69b59ad,06/10/2027 12:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 4e6672f3-8c35-4807-8959-d0bdfbf28cce,06/10/2027 12:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 b1cbbac1-b911-486b-a035-c92d365a90e5,06/10/2027 12:30:00,Consumer Price Index Core s.a,HIGH,USD,Release,0.19,Inflation
 c5344bbe-5032-4aa8-85cd-75a09476bb22,06/10/2027 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
 818c00d5-f44b-4f57-8925-ad3ed6a315fe,06/10/2027 12:30:00,Consumer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
 c241de09-b40c-4385-bcd8-cd9a768f734c,06/10/2027 12:30:00,Consumer Price Index n.s.a (MoM),HIGH,USD,Release,0.19,Inflation
+aff136d4-e99a-477e-ac8d-c0321de14745,06/10/2027 18:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
 2b651b31-d340-4d49-8819-de784690a81c,06/11/2027 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
 0505805d-bd9a-446e-b219-6ccbbab8a284,06/11/2027 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
 b1af97fc-fc25-4834-982b-91b4372a6aba,06/11/2027 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
@@ -1248,10 +1356,15 @@ bbb8b1f0-184e-4942-bbe7-504ca9104985,06/11/2027 14:00:00,UoM 5-year Consumer Inf
 45eec099-a9bc-4642-a52e-12cd9402422b,06/11/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 c7368ec7-46fb-4b7a-a783-1f0fb3471a95,06/11/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 2bf25b65-b03b-4ef5-940c-8227dfa167c0,06/11/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+00a2a74f-c599-4fd7-a769-662b30a7af22,06/15/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 5fdda41c-c801-4477-a5cb-a4121846df53,06/15/2027 12:30:00,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 750387d7-c8d3-4491-abb4-7004ae2d154a,06/15/2027 12:30:00,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 3af1a0c0-6aa9-4271-a409-a47679ce4b18,06/15/2027 12:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
 414590b5-a9c2-4a5e-8c62-8782e13ef9fd,06/15/2027 12:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
+65ac98c0-fca0-4515-9474-3599901edd82,06/16/2027 12:30:00,Export Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
+44f376c5-1054-4af2-a7d3-a02b2122f86e,06/16/2027 12:30:00,Export Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
+c23d7b6f-9699-4e6d-9006-f81042bce2ce,06/16/2027 12:30:00,Import Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
+7a9b367f-a624-414e-886f-82fd9148e948,06/16/2027 12:30:00,Import Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
 f4f184ad-9a16-4aa3-acaf-85d1a605a9f1,06/16/2027 12:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
 2cc63f94-6381-4ebb-bc5c-da0b5fd29f91,06/16/2027 12:30:00,Retail Sales (MoM),HIGH,USD,Release,0.17,Growth
 21bebebf-6d0c-48ae-9463-11b12acfc707,06/16/2027 12:30:00,Retail Sales (YoY),HIGH,USD,Release,0.17,Growth
@@ -1259,12 +1372,22 @@ b3938431-9727-4c9b-a238-0c1238e09116,06/16/2027 12:30:00,Retail Sales Control Gr
 12de4eb0-7063-47eb-a64b-c673fe6219c4,06/16/2027 12:30:00,Retail Sales ex Autos (MoM),HIGH,USD,Release,0.17,Growth
 b3177b9c-6429-4620-b2d6-7018a3326df8,06/16/2027 13:15:00,Capacity Utilization,HIGH,USD,Release,0.2,Monetary Policy
 99ea9c72-1894-4cd0-9086-5ff2acce0d69,06/16/2027 13:15:00,Industrial Production (MoM),HIGH,USD,Release,0.17,Growth
+c4ba433d-d11c-44df-8ccb-9da3152038b6,06/17/2027 12:30:00,Building Permits (MoM),LOW,USD,Release,0.07,Housing
+4854f678-0a66-4e1c-b047-caa2680ca3af,06/17/2027 12:30:00,Building Permits Change,LOW,USD,Release,0.07,Housing
+e050194a-b9fc-4c02-af98-65ef93f48790,06/17/2027 12:30:00,Housing Starts (MoM),LOW,USD,Release,0.07,Housing
+9a4eda4c-e9ee-4902-8ea3-b14283097848,06/17/2027 12:30:00,Housing Starts Change,LOW,USD,Release,0.07,Housing
 1de45ae8-5e86-4822-8cea-c6cb3507671d,06/18/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 c10f2c77-73dd-45c7-95ef-2604efa2bc90,06/18/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 8da0bb13-adee-416a-b0cb-ab751515eaf1,06/18/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+73754fb6-2c6e-4fe4-854c-7209eef8e9d5,06/22/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 999bf7ba-48c8-4eb9-b632-d08caf98a13f,06/23/2027 13:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
 7b197ef8-8bf7-4318-a519-94d09c5c84e7,06/23/2027 13:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 1a7fc462-a7db-4485-b826-f3bf82e0bd8d,06/23/2027 13:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
+12a575fd-f12f-40de-bd74-ae4d278be2b1,06/24/2027 15:00:00,Kansas Fed Manufacturing Activity,HIGH,USD,Release,0.17,Growth
+c086563e-a819-4cd0-9283-9573c64991b3,06/25/2027 12:30:00,Durable Goods Orders,HIGH,USD,Release,0.17,Growth
+58ab9910-cd3d-43fa-9f32-9bba8d2864a6,06/25/2027 12:30:00,Durable Goods Orders ex Defense,HIGH,USD,Release,0.17,Growth
+17c468de-db5a-400c-b2ef-b0dd3a59f883,06/25/2027 12:30:00,Durable Goods Orders ex Transportation,HIGH,USD,Release,0.17,Growth
+fde62574-7e0c-4237-844a-409aad187665,06/25/2027 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD,Release,0.17,Growth
 783261aa-bce2-4348-9244-b44baf24a003,06/25/2027 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
 f5150d7a-c1ba-4f50-b61e-a1c4cab24979,06/25/2027 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
 bbca2d65-4f60-4c5e-9089-d69c83567d12,06/25/2027 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
@@ -1273,6 +1396,7 @@ be5003d7-c538-46d7-8a29-7a890cd63db4,06/25/2027 19:30:00,CFTC Gold NC Net Positi
 1934fcde-1e37-485b-94d6-5c7c092a70ea,06/25/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 125b6cd4-3408-4e84-88d2-5307c9cb5349,06/25/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 2ba50f15-148a-46a1-bb00-c2142a905e1d,06/28/2027 17:00:00,2-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
+df8c689e-0d56-4d95-8582-f6a77e741047,06/29/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 c7278a9b-197d-45e6-b347-1eb4ee45aa68,06/30/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 fa73477a-da34-47cb-9054-6d270b674c80,06/30/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 907a94ff-3fc8-4065-a189-899a11ba87ba,06/30/2027 12:30:00,Core Personal Consumption Expenditures (QoQ),HIGH,USD,Release,0.17,Growth
@@ -1283,6 +1407,7 @@ d632493d-0343-4eec-a92b-2f61b50013cb,06/30/2027 12:30:00,Gross Domestic Product 
 98966f49-3e89-4978-834f-575b1991a021,06/30/2027 12:30:00,Personal Consumption Expenditures Prices (QoQ),HIGH,USD,Release,0.17,Growth
 c4278eaf-82d2-4256-b922-34bcfcbf0e36,06/30/2027 12:30:00,Personal Income (MoM),HIGH,USD,Release,0.17,Growth
 55f58a37-1be0-4f4d-8c44-d4a5a85f8e74,06/30/2027 12:30:00,Personal Spending,HIGH,USD,Release,0.17,Growth
+a7cbd078-27e7-491e-b9dd-56ff818e79e9,06/30/2027 14:30:00,Dallas Fed Manufacturing Business Index,MEDIUM,USD,Release,0.14,Confidence
 04e5a039-b8a7-4fdf-bca7-29148583cf22,07/01/2027 13:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 708434fb-0ce7-4484-930e-0378090eac48,07/01/2027 14:00:00,ISM Manufacturing Employment Index,HIGH,USD,Release,0.18,Labor Market
 208a7b62-64eb-46fa-8739-d5419b020a99,07/01/2027 14:00:00,ISM Manufacturing New Orders Index,HIGH,USD,Release,0.17,Growth
@@ -1304,8 +1429,10 @@ c1985c6e-bbdb-4748-8410-133c1f520d77,07/02/2027 19:30:00,CFTC Oil NC Net Positio
 bdaed9ba-bb4e-46da-ade4-7405d7ca0355,07/05/2027 14:00:00,ISM Services New Orders Index,HIGH,USD,Release,0.17,Growth
 56b81ba8-1a81-4abe-bd1f-0329dca6531d,07/05/2027 14:00:00,ISM Services PMI,HIGH,USD,Release,0.17,Growth
 cd182f72-03d9-4e99-8a96-86f8865e4127,07/05/2027 14:00:00,ISM Services Prices Paid,MEDIUM,USD,Release,0.14,Confidence
+ff14eac0-c053-4fd9-a5e1-9bd3b8a3d360,07/06/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 c916aa07-b397-4d6a-8823-c786529d8188,07/06/2027 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),HIGH,USD,Release,0.19,Inflation
 5f328a2e-a00b-4352-aa44-c7508a89ceb6,07/06/2027 15:30:00,52-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
+9e814120-59fb-4061-b2c1-3289b8857a23,07/06/2027 17:00:00,3-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 83db9250-cba1-43b0-acd0-ada638cc55c0,07/07/2027 18:00:00,FOMC Minutes,MEDIUM,USD,Speech,0.13,Monetary Policy
 98e017f4-16d2-48f1-91ce-fc94994c0585,07/09/2027 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
 48147bdf-d397-441d-92aa-c15856c91419,07/09/2027 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
@@ -1314,6 +1441,8 @@ f2dc507e-9d83-4a12-977a-97b0109de5a6,07/09/2027 14:00:00,UoM 5-year Consumer Inf
 ad59d41b-3d75-418e-b9ea-b06eb8940f0e,07/09/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 00adabfd-7564-414c-975b-ba1d951e339e,07/09/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 3a2f6c96-2607-426f-b591-1094e37e3ca1,07/09/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+55be228f-af10-4cb1-93d0-e8c85475392b,07/12/2027 18:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
+cc7cc92c-8c04-4395-a14d-5d01a5b9fe0d,07/13/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 fed1be73-4776-48c2-bebb-d89f5f42c311,07/13/2027 12:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 f60295ae-905c-4090-a718-ffd64aaff13f,07/13/2027 12:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 35caebe4-e6cb-47c7-919a-4b0be334ad78,07/13/2027 12:30:00,Consumer Price Index Core s.a,HIGH,USD,Release,0.19,Inflation
@@ -1324,7 +1453,15 @@ b49a35a6-4b64-4d21-9849-d4eea8966f81,07/13/2027 12:30:00,Consumer Price Index n.
 d45e9919-3d2b-4456-962a-923f6c6eecb4,07/14/2027 12:30:00,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 e77ebe29-e439-41af-b3eb-e12be774b920,07/14/2027 12:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
 eef1c859-d484-484c-8f0f-0bcf322aa780,07/14/2027 12:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
+f5898b89-691a-4aa2-ac21-2ac6acf81066,07/15/2027 12:30:00,Export Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
+6b020969-0a3a-488b-b019-bd89efe43931,07/15/2027 12:30:00,Export Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
+2134cfa4-bf92-4146-8500-c59d433becea,07/15/2027 12:30:00,Import Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
+9e82a583-3725-46d6-9037-487b5263a033,07/15/2027 12:30:00,Import Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
 69950a7a-9505-447d-8fca-6bc42bc5bcf1,07/15/2027 12:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
+f1235213-8ea5-4f2d-b8c9-91bc0cf4cfee,07/16/2027 12:30:00,Building Permits (MoM),LOW,USD,Release,0.07,Housing
+edf7aa5d-0356-4f6f-97eb-337e112a05ce,07/16/2027 12:30:00,Building Permits Change,LOW,USD,Release,0.07,Housing
+614a6a35-2f3a-4d32-8296-afd81fee1233,07/16/2027 12:30:00,Housing Starts (MoM),LOW,USD,Release,0.07,Housing
+a01884c9-7525-4127-872b-40da22a9f90e,07/16/2027 12:30:00,Housing Starts Change,LOW,USD,Release,0.07,Housing
 a515ac3a-006c-4b63-9e84-e177d5c5fdf8,07/16/2027 12:30:00,Retail Sales (MoM),HIGH,USD,Release,0.17,Growth
 0b42a6b8-21e5-4cc4-be71-57c6f89723e2,07/16/2027 12:30:00,Retail Sales (YoY),HIGH,USD,Release,0.17,Growth
 2091bfc8-e131-4cf1-997a-e280de311aad,07/16/2027 12:30:00,Retail Sales Control Group,HIGH,USD,Release,0.17,Growth
@@ -1334,6 +1471,8 @@ b053579a-d98e-46c7-89b9-2b22bbf29f22,07/16/2027 13:15:00,Industrial Production (
 1ce9384e-14b7-47fe-9ea0-d277f50384a1,07/16/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 fa5a4f80-430d-4b1b-b8d1-8247d10433c5,07/16/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 d18ca2d8-4890-4ea5-a309-cff15ee7954f,07/16/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+97761235-1a7b-419b-b051-b968527d0722,07/20/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
+811eef4e-4c24-4948-a054-4d3df339c74c,07/22/2027 15:00:00,Kansas Fed Manufacturing Activity,HIGH,USD,Release,0.17,Growth
 13f270ca-1ddb-4fa3-8ca4-530df0a21ebf,07/23/2027 13:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
 8e71cf8a-fa25-47ee-9f24-2b8562d10c9c,07/23/2027 13:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 9be9c69b-c2da-4edb-868a-fe22ba08689e,07/23/2027 13:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
@@ -1345,6 +1484,15 @@ d2b8222f-4c9e-4952-9f5b-137c898c90e6,07/23/2027 14:00:00,UoM 5-year Consumer Inf
 2a1f229d-0593-4742-99de-ec55f6576ebb,07/23/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 989bbc5e-fafd-416e-830a-2b59bba1fed5,07/23/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 541189d2-81e7-48b5-a422-4fb215672e0f,07/26/2027 17:00:00,2-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
+b248fc0d-424c-4360-a7dd-fe3fab0eb2c3,07/27/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
+d2b40f75-c71e-4760-96e2-506f0f15c96c,07/27/2027 12:30:00,Durable Goods Orders,HIGH,USD,Release,0.17,Growth
+a9c321d4-d1c4-47f4-9e7f-564c39eac1ca,07/27/2027 12:30:00,Durable Goods Orders ex Defense,HIGH,USD,Release,0.17,Growth
+d599edb4-ae6a-47a1-a4af-e31ef39a5119,07/27/2027 12:30:00,Durable Goods Orders ex Transportation,HIGH,USD,Release,0.17,Growth
+ee0eec33-5233-443d-bae8-692073121a75,07/27/2027 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD,Release,0.17,Growth
+842af927-337a-482b-841c-35534581e252,07/27/2027 14:30:00,Dallas Fed Manufacturing Business Index,MEDIUM,USD,Release,0.14,Confidence
+8edd094f-2224-4d5e-801e-58ac69134937,07/28/2027 18:00:00,Fed Interest Rate Decision,MEDIUM,USD,Speech,0.13,Monetary Policy
+7da668eb-d707-4c18-b3dd-a65b93f97ac5,07/28/2027 18:00:00,Fed Monetary Policy Statement,MEDIUM,USD,Speech,0.13,Monetary Policy
+5d5b6bee-152a-438c-b1a1-bfe9e8ed7df6,07/28/2027 18:30:00,FOMC Press Conference,MEDIUM,USD,Speech,0.13,Monetary Policy
 0252112f-ebaa-4561-8580-62cb060dbb23,07/29/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 35b4603e-f674-4bc2-b6b2-83d5264d53fb,07/29/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 c1385b28-e830-4e05-aae1-919ac646d987,07/29/2027 12:30:00,Core Personal Consumption Expenditures (QoQ),HIGH,USD,Release,0.17,Growth
@@ -1358,36 +1506,99 @@ b20a8afb-b084-412c-bf49-a340261a4004,07/29/2027 12:30:00,Personal Spending,HIGH,
 4a88d28b-8d24-4cb6-859b-6f8691991819,07/30/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 c7d52f72-647f-4c12-a8a4-9165b310a575,07/30/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 5553d68b-146b-4069-be18-8c7f00ac2095,07/30/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+90604c77-a327-43e8-9555-8aa9b3ec7b0f,08/02/2027 14:00:00,ISM Manufacturing Employment Index,HIGH,USD,Release,0.18,Labor Market
+7e8fbbe4-e4ce-464c-8773-5f5890eea301,08/02/2027 14:00:00,ISM Manufacturing New Orders Index,HIGH,USD,Release,0.17,Growth
+a895605b-b467-46bd-89d2-34953249b7bd,08/02/2027 14:00:00,ISM Manufacturing PMI,HIGH,USD,Release,0.17,Growth
+cacfbbfd-20a1-49af-b63d-91a6514cd72d,08/02/2027 14:00:00,ISM Manufacturing Prices Paid,HIGH,USD,Release,0.17,Growth
 a0a7c8a6-320c-4b53-859b-e8cdab2c90ba,08/03/2027 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),HIGH,USD,Release,0.19,Inflation
 461bbdef-982f-480e-8419-88d84a3659b7,08/03/2027 15:30:00,52-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 c4650c1b-bdc5-4cb6-86fe-a3a6a6a7ffb4,08/04/2027 14:00:00,ISM Services Employment Index,HIGH,USD,Release,0.18,Labor Market
 a6faea73-9288-4739-b424-b9bfb854f3da,08/04/2027 14:00:00,ISM Services New Orders Index,HIGH,USD,Release,0.17,Growth
 743a621b-963a-4378-98c4-75d3f2af6e28,08/04/2027 14:00:00,ISM Services PMI,HIGH,USD,Release,0.17,Growth
 b549061b-5fb1-4add-8a85-c97da0120ad5,08/04/2027 14:00:00,ISM Services Prices Paid,MEDIUM,USD,Release,0.14,Confidence
+662312c4-8d50-4ae7-80eb-c4bbfb3a80d2,08/06/2027 12:30:00,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market
+7cde8994-922a-49f4-bfc2-74fca6200060,08/06/2027 12:30:00,Average Hourly Earnings (YoY),HIGH,USD,Release,0.18,Labor Market
+10ce829c-3bfa-44d3-b565-bc5b8a978620,08/06/2027 12:30:00,Average Weekly Hours,HIGH,USD,Release,0.18,Labor Market
+b0936a0a-7334-46b2-8817-eedbb790ab88,08/06/2027 12:30:00,Labor Force Participation Rate,HIGH,USD,Release,0.18,Labor Market
+94302fe0-b895-4d82-9f25-9c37d85c4f42,08/06/2027 12:30:00,Nonfarm Payrolls,HIGH,USD,Release,0.18,Labor Market
+50ff6ac3-391a-4e19-b920-70c7e2ce65e1,08/06/2027 12:30:00,U6 Underemployment Rate,HIGH,USD,Release,0.2,Monetary Policy
+36b10fe8-1d6f-495d-8fd7-2a12d46647c1,08/06/2027 12:30:00,Unemployment Rate,HIGH,USD,Release,0.18,Labor Market
 dfce3581-e3e6-4157-a78e-c1bd82712300,08/06/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 f31f5c5d-ac08-42d2-80ec-574b03280d2e,08/06/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 9018fecd-de79-4b55-9bce-9760eefefab0,08/06/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+d7e2ccd2-39e7-46bd-a547-29eefab62d3c,08/10/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
+654e57b9-11ab-4555-89f2-341eae484237,08/10/2027 17:00:00,3-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
+8a7741ef-8d6c-407d-b2a3-f0c601db9ff9,08/11/2027 18:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
 e122798a-665b-4ce0-99fd-fad19d3d335f,08/12/2027 12:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 3af642c1-5743-4989-9118-b48730459eff,08/12/2027 12:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 82fa461b-93ee-47ed-be5b-dd718a36d736,08/12/2027 12:30:00,Consumer Price Index Core s.a,HIGH,USD,Release,0.19,Inflation
 933069e4-e41e-4f35-930e-fd146e639276,08/12/2027 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
 7f6fba65-e796-47c3-9c33-2eade3d8069a,08/12/2027 12:30:00,Consumer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
 b8dc0bdd-129f-4de4-9f9b-34e5068ab43f,08/12/2027 12:30:00,Consumer Price Index n.s.a (MoM),HIGH,USD,Release,0.19,Inflation
+24eb4c65-9325-4e41-98e1-7d0d86ecfac3,08/13/2027 12:30:00,Export Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
+9094af66-aee1-4fa1-b1b0-d4370aa7c9be,08/13/2027 12:30:00,Export Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
+393b784c-f6ff-407c-a1fb-0df14ae29942,08/13/2027 12:30:00,Import Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
+09bcc0dd-6321-494d-8b4c-a4927c1bcb4b,08/13/2027 12:30:00,Import Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
+82c15cbc-c116-49ef-90f8-6a78bc8393fb,08/13/2027 12:30:00,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
+008789b3-4537-403c-9ba8-67a7b4dd89c1,08/13/2027 12:30:00,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
+c9c89215-d267-4b56-a4fa-3dec5d0ba4b8,08/13/2027 12:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
+b85ff916-48bb-4cde-aed7-f18b96f96d66,08/13/2027 12:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
+30c846d2-a772-410c-865d-3d988dbbf037,08/13/2027 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
+5b410628-de08-43d1-95dd-0083fef1a565,08/13/2027 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
+17b2f813-64d1-41c8-8725-3edb4fc76020,08/13/2027 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
+73d858c7-1f5a-42d8-8976-5af1c3815948,08/13/2027 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
 8685d544-13f6-459b-95ae-6ac3b8461398,08/13/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 380d5c7a-e967-4788-8114-ccd4cece67a4,08/13/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 999cad45-4d4b-4f3e-a3e4-fbff93639fef,08/13/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 f5000fdd-e2e4-41da-8bcb-97eef9b3cf31,08/16/2027 12:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
+124c9959-5b07-4cf5-9b49-34583dccf244,08/17/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
+967c2357-9012-4a65-a077-776f6ddfa4fe,08/17/2027 12:30:00,Building Permits (MoM),LOW,USD,Release,0.07,Housing
+1dd67478-4faf-42e2-8fc7-96cf4eb7ee94,08/17/2027 12:30:00,Building Permits Change,LOW,USD,Release,0.07,Housing
+3a61f77c-594c-4d35-9863-9fc57f17c981,08/17/2027 12:30:00,Housing Starts (MoM),LOW,USD,Release,0.07,Housing
+598c824c-4f23-4e40-9951-f1954a3a9969,08/17/2027 12:30:00,Housing Starts Change,LOW,USD,Release,0.07,Housing
+7296d24e-cd94-4944-9c67-68de6c318898,08/17/2027 12:30:00,Retail Sales (MoM),HIGH,USD,Release,0.17,Growth
+4f5fdd8d-d94a-467a-986f-599b615e519d,08/17/2027 12:30:00,Retail Sales (YoY),HIGH,USD,Release,0.17,Growth
+ee583ee9-0580-4389-87bd-aa182005720c,08/17/2027 12:30:00,Retail Sales Control Group,HIGH,USD,Release,0.17,Growth
+47292989-68e3-49d4-94b2-c08bafcab1db,08/17/2027 12:30:00,Retail Sales ex Autos (MoM),HIGH,USD,Release,0.17,Growth
 fb55da12-9cf7-447e-8267-64babff4dd06,08/17/2027 13:15:00,Capacity Utilization,HIGH,USD,Release,0.2,Monetary Policy
 01887d8c-9454-40ef-9cc6-281e2c31cf59,08/17/2027 13:15:00,Industrial Production (MoM),HIGH,USD,Release,0.17,Growth
 3af6b358-e8f9-487b-8202-efe97656941a,08/18/2027 18:00:00,FOMC Minutes,MEDIUM,USD,Speech,0.13,Monetary Policy
 69320536-eb84-4099-b760-1caaa52201f5,08/20/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 640ae833-ffe8-4abd-89ac-9b17410df380,08/20/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 eda98a4e-aff3-47b2-b92a-9526f7f8b45f,08/20/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+fb6c4767-3244-455f-a65f-f4364b308242,08/24/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 02d2a2e2-4ba5-433e-9961-f7b91f100fe0,08/24/2027 17:00:00,2-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
+5cea87c4-e10f-4534-9bbf-ae3352e88e6a,08/26/2027 12:30:00,Durable Goods Orders,HIGH,USD,Release,0.17,Growth
+7ec93f9c-1ca7-490b-81b8-9c65854d7ddd,08/26/2027 12:30:00,Durable Goods Orders ex Defense,HIGH,USD,Release,0.17,Growth
+6647a706-a2e9-4610-825d-7be3eac51b9e,08/26/2027 12:30:00,Durable Goods Orders ex Transportation,HIGH,USD,Release,0.17,Growth
+e7482af4-1b06-4543-aa6d-62080bf96664,08/26/2027 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD,Release,0.17,Growth
+d205d594-5121-47fc-93f6-6467dbfdf96e,08/26/2027 15:00:00,Kansas Fed Manufacturing Activity,HIGH,USD,Release,0.17,Growth
+d2b3795d-013e-47e4-bccc-b287af500d3a,08/27/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
+ad3fc5d4-95e3-4603-a0ad-4f5e4b7b9b67,08/27/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
+be1cbe3f-46e1-4757-9ef7-a6f2b5500803,08/27/2027 12:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
+4b557720-5fb8-4931-b201-888e3c06780d,08/27/2027 12:30:00,Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
+82b7f05d-9875-4267-ad45-87fda9100e46,08/27/2027 12:30:00,Personal Income (MoM),HIGH,USD,Release,0.17,Growth
+129ed15a-f896-46ab-ae84-18645e86ec86,08/27/2027 12:30:00,Personal Spending,HIGH,USD,Release,0.17,Growth
+3e383001-e4e6-43bb-949f-eca1eedcd68d,08/27/2027 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
+1a1e7b4d-c247-41c4-9235-da4aa6f79c56,08/27/2027 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
+b95dd0d0-dd60-4ae6-a9fa-0cfd2edd3907,08/27/2027 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
+c2e2e46e-8e2e-4df9-a78e-95d5cc27c368,08/27/2027 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
 9d1af632-3a7c-448c-84ad-dc9b0ee3ea11,08/27/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 ca21dad8-4262-43fd-93c6-03c0556ec9a0,08/27/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 06dc5599-1cc8-47e2-abec-3645b5cccef4,08/27/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+70c198f4-8356-432b-bd6c-20872e362edf,08/30/2027 14:30:00,Dallas Fed Manufacturing Business Index,MEDIUM,USD,Release,0.14,Confidence
 fb4edced-ef2d-4116-abef-b45bc1cfbcbd,08/31/2027 15:30:00,52-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
+86423e1d-39f7-46d6-bb40-283d2be476e4,09/01/2027 14:00:00,ISM Manufacturing Employment Index,HIGH,USD,Release,0.18,Labor Market
+f55072ad-3625-4ff9-9936-e52e85bb6e9e,09/01/2027 14:00:00,ISM Manufacturing New Orders Index,HIGH,USD,Release,0.17,Growth
+51ef6204-5328-4422-977a-59cb782bed5a,09/01/2027 14:00:00,ISM Manufacturing PMI,HIGH,USD,Release,0.17,Growth
+be33e7dc-d4af-491b-9c7a-1c3c0d94a951,09/01/2027 14:00:00,ISM Manufacturing Prices Paid,HIGH,USD,Release,0.17,Growth
+a657c919-d95f-4418-a6df-f4383ff7436f,09/03/2027 12:30:00,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market
+d06ed24f-1836-48d8-a14e-1a4805479a5e,09/03/2027 12:30:00,Average Hourly Earnings (YoY),HIGH,USD,Release,0.18,Labor Market
+ecc89b6b-e2fb-4160-9002-f403721729ca,09/03/2027 12:30:00,Average Weekly Hours,HIGH,USD,Release,0.18,Labor Market
+ca354e1a-2033-4749-a655-2ea104be7dac,09/03/2027 12:30:00,Labor Force Participation Rate,HIGH,USD,Release,0.18,Labor Market
+2d5963f6-b97c-49be-be8b-9c02a2ba1c89,09/03/2027 12:30:00,Nonfarm Payrolls,HIGH,USD,Release,0.18,Labor Market
+0fe9e1f6-6c48-4bef-9243-15603e0daac0,09/03/2027 12:30:00,U6 Underemployment Rate,HIGH,USD,Release,0.2,Monetary Policy
+d1581607-92c0-4723-a7eb-5b6a0c0e1023,09/03/2027 12:30:00,Unemployment Rate,HIGH,USD,Release,0.18,Labor Market
 ed680661-85a1-45b9-8774-2cbf95e6f0fb,09/03/2027 14:00:00,ISM Services Employment Index,HIGH,USD,Release,0.18,Labor Market
 bc0a6e05-01c3-4f7c-8f93-d79567ffb22f,09/03/2027 14:00:00,ISM Services New Orders Index,HIGH,USD,Release,0.17,Growth
 bdd967d6-1629-4807-a75a-7784aa38a819,09/03/2027 14:00:00,ISM Services PMI,HIGH,USD,Release,0.17,Growth
@@ -1395,24 +1606,74 @@ bdd967d6-1629-4807-a75a-7784aa38a819,09/03/2027 14:00:00,ISM Services PMI,HIGH,U
 41bc229c-438b-4e27-a974-fb879f51be7f,09/03/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 a7daadb6-729b-437c-85c5-880ed81cf2e7,09/03/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 f89f8498-9bb4-4429-90c1-58263c2cfcb9,09/03/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+3721f034-84e4-4fbe-8e62-d74a7b4ca99e,09/07/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 1cee4a7e-8649-4458-b11b-5c18b944601a,09/07/2027 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),HIGH,USD,Release,0.19,Inflation
+946b5b5a-febd-4bbe-8ede-b4d8ff2601bf,09/07/2027 17:00:00,3-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 5fb5a1a8-ebb9-4646-a87e-4cd7240798ec,09/10/2027 12:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 aca909db-0828-4e43-8a00-34ac73499041,09/10/2027 12:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 1acbf507-608a-4b3f-ab0e-9aeece4cb4a9,09/10/2027 12:30:00,Consumer Price Index Core s.a,HIGH,USD,Release,0.19,Inflation
 fd7020b3-5ee3-4fbb-9d52-b1cb6b6e3ee7,09/10/2027 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
 fcddcf33-1eb8-4578-a7e7-208bbc7a5fb8,09/10/2027 12:30:00,Consumer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
 a585e397-55b0-45b2-a81d-d2dedb6b9068,09/10/2027 12:30:00,Consumer Price Index n.s.a (MoM),HIGH,USD,Release,0.19,Inflation
+be301c66-be0e-4105-acb1-eeef2ed5a7ec,09/10/2027 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
+49c7651f-873c-48db-9615-a4efaa7f5128,09/10/2027 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
+34c20dd2-5143-4a3e-98cc-0d10458f2bdf,09/10/2027 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
+9d1ed382-7730-4dd3-a13c-c7af4e5ebf50,09/10/2027 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
+bdb07bee-d9cc-4a6b-ba02-c6401371ef15,09/10/2027 18:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
 a1b1f723-9e5a-4284-b03c-491dc7a31996,09/10/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 27ef34c3-dfec-498d-b806-56ff7c05ac62,09/10/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 c4c8cdb3-b5e0-4c12-8ce3-a99499a28095,09/10/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+e68b1d24-a412-41e5-aa61-00e0d2fe5b06,09/14/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 b7511b87-e89a-4b09-8670-7a01ef34e23e,09/15/2027 12:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
+fea27428-5a1e-401d-88aa-85c7651bfaf7,09/15/2027 12:30:00,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
+ff7341d6-96ad-4cac-aac1-7ff82d61cc3d,09/15/2027 12:30:00,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
+47502500-843b-4e3a-9c3d-4bdfa3688318,09/15/2027 12:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
+b5523844-6cdb-4516-91a8-0972bc95f04c,09/15/2027 12:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
+ee098ecf-3ae2-4142-b857-af3313415fd6,09/15/2027 12:30:00,Retail Sales (MoM),HIGH,USD,Release,0.17,Growth
+f08a14ea-c834-4d50-8442-518bea6c2f70,09/15/2027 12:30:00,Retail Sales (YoY),HIGH,USD,Release,0.17,Growth
+d4a5b8de-2fe7-4c6c-b834-a3777c424019,09/15/2027 12:30:00,Retail Sales Control Group,HIGH,USD,Release,0.17,Growth
+a7ddc9fb-debb-4fd2-ad9f-d1d0b461b4ca,09/15/2027 12:30:00,Retail Sales ex Autos (MoM),HIGH,USD,Release,0.17,Growth
+49f9af44-2b18-464c-8d1b-33daf78059de,09/15/2027 18:00:00,Fed Interest Rate Decision,MEDIUM,USD,Speech,0.13,Monetary Policy
+d48b04d7-c546-468d-9d1b-3f7a824306a0,09/15/2027 18:00:00,Fed Monetary Policy Statement,MEDIUM,USD,Speech,0.13,Monetary Policy
+333c947a-3fce-4d51-adec-869ace2feb33,09/15/2027 18:00:00,FOMC Economic Projections,MEDIUM,USD,Speech,0.13,Monetary Policy
+8e5bc7b4-efb4-4019-80a9-56e6b2e16963,09/15/2027 18:00:00,Interest Rate Projections - 1st year,HIGH,USD,Release,0.2,Monetary Policy
+c4104939-d1e5-4b2e-8302-a0e886f50b82,09/15/2027 18:00:00,Interest Rate Projections - 2nd year,HIGH,USD,Release,0.2,Monetary Policy
+42311d11-11c0-46cb-a219-2aae3899f4ca,09/15/2027 18:00:00,Interest Rate Projections - 3rd year,HIGH,USD,Release,0.2,Monetary Policy
+da048300-9bf2-48ef-90ad-16e7a24574d7,09/15/2027 18:00:00,Interest Rate Projections - Current,HIGH,USD,Release,0.2,Monetary Policy
+cf9d8130-f91e-42f7-a5dc-9190d9de15a5,09/15/2027 18:00:00,Interest Rate Projections - Longer,HIGH,USD,Release,0.2,Monetary Policy
+a7d1de93-b309-48cc-9c2e-3713b7b66a4a,09/15/2027 18:30:00,FOMC Press Conference,MEDIUM,USD,Speech,0.13,Monetary Policy
+27215db7-ce77-479e-b829-0b590ad5772b,09/16/2027 12:30:00,Building Permits (MoM),LOW,USD,Release,0.07,Housing
+6eeb2c7b-5022-4c04-abe4-9ea273300c19,09/16/2027 12:30:00,Building Permits Change,LOW,USD,Release,0.07,Housing
+beff38b7-8a51-4515-bfc1-a9be0e80c4ac,09/16/2027 12:30:00,Export Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
+12bfc324-95fe-41c4-be29-b22217f6126d,09/16/2027 12:30:00,Export Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
+87dce648-b2db-4c73-9d0b-288d529fb1e6,09/16/2027 12:30:00,Housing Starts (MoM),LOW,USD,Release,0.07,Housing
+12fa70f6-f414-4e6c-bd3e-667125fe9423,09/16/2027 12:30:00,Housing Starts Change,LOW,USD,Release,0.07,Housing
+eb08669d-16cb-45ef-8231-babc8ea237b8,09/16/2027 12:30:00,Import Price Index (MoM),MEDIUM,USD,Release,0.11,Trade and External
+fe7658fe-7c0e-405f-8372-924ebe964ebd,09/16/2027 12:30:00,Import Price Index (YoY),MEDIUM,USD,Release,0.11,Trade and External
 e4dd4d40-2b41-40e6-bb79-d051a4740861,09/16/2027 13:15:00,Capacity Utilization,HIGH,USD,Release,0.2,Monetary Policy
 5569b617-7bcd-4ef7-9e3c-07db14bc8627,09/16/2027 13:15:00,Industrial Production (MoM),HIGH,USD,Release,0.17,Growth
 1e2bf7b2-d809-486f-a9a1-7d3e75ff936e,09/17/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 3f45ac34-ed30-4a0e-aee3-2409a0e23681,09/17/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 6a6b21b4-7ec6-4629-94b0-face44b58d39,09/17/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+d77ba5db-59fd-49b8-88d2-a390391fc9d8,09/21/2027 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
+404c1abc-abec-45e4-8e63-08c102620b82,09/23/2027 15:00:00,Kansas Fed Manufacturing Activity,HIGH,USD,Release,0.17,Growth
+e0a74ae8-3bd2-4737-bae7-174f35a28b69,09/24/2027 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
+e896c03d-356a-404a-be40-dc33a0bf78a7,09/24/2027 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
+5b6129e5-8b46-483f-9fc5-aa1bf8a2be35,09/24/2027 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
+21b07c2a-2e1f-401b-bf5d-1547dbaadfaf,09/24/2027 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
 d5035fd7-8012-4d73-9377-20ae2fa9907f,09/24/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 de9a7845-e6b8-448a-a21c-abc4775769cb,09/24/2027 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 3322dd87-f4f0-44a9-bbe5-5fad3d15aec4,09/24/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
+f1441de9-8dc5-4ca7-ab07-9621267bc41c,09/28/2027 12:30:00,Durable Goods Orders,HIGH,USD,Release,0.17,Growth
+613edf85-372e-4422-af6a-de6ee51938f3,09/28/2027 12:30:00,Durable Goods Orders ex Defense,HIGH,USD,Release,0.17,Growth
+330f7624-b883-4690-a46f-7a0acc63abd6,09/28/2027 12:30:00,Durable Goods Orders ex Transportation,HIGH,USD,Release,0.17,Growth
+f16b9419-c8a4-45d6-a088-f410edd5fb78,09/28/2027 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD,Release,0.17,Growth
 4225086a-e369-495c-81bf-821dc1026615,09/28/2027 15:30:00,52-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 bd662f17-c647-4b81-b2d5-94042d26a7bf,09/28/2027 17:00:00,2-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
+d101a142-1ca2-458c-bda3-5934a35c5aa2,09/30/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
+a5eb331c-d4de-45ef-b246-a3d3f7bf38eb,09/30/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
+2424ab40-7dad-47e6-a903-6e510489dedd,09/30/2027 12:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
+6bd0cb41-1421-4abf-89b1-0f2a976e542d,09/30/2027 12:30:00,Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
+b3cb4342-128b-4935-bbe6-40ed531af63c,09/30/2027 12:30:00,Personal Income (MoM),HIGH,USD,Release,0.17,Growth
+955eb803-c490-41e7-a8d6-776133298c95,09/30/2027 12:30:00,Personal Spending,HIGH,USD,Release,0.17,Growth
+00c0f9d6-210d-4e33-9a82-e4d06776861c,09/30/2027 14:30:00,Dallas Fed Manufacturing Business Index,MEDIUM,USD,Release,0.14,Confidence

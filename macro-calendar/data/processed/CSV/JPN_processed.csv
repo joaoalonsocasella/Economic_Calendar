@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-609d2cee-3ed9-4151-bb48-1207ff5ab810,09/06/2026 23:50:00,JP Foreign Reserves,LOW,JPY,Release,0.09,Money and Credit
 91a9d11c-788d-437f-98b9-6a426b98f599,09/07/2026 05:00:00,Coincident Index,MEDIUM,JPY,Release,0.11,Trade and External
 d7c47c0e-1473-4c4f-b36a-680a5fc56f21,09/07/2026 05:00:00,Leading Economic Index,MEDIUM,JPY,Release,0.14,Confidence
 b664259b-428f-417a-8fef-12f652266a6a,09/07/2026 23:30:00,Labor Cash Earnings (YoY),HIGH,JPY,Release,0.18,Labor Market
@@ -19,9 +18,9 @@ cf963f4a-7685-4027-ab43-5986943a0a21,09/08/2026 23:50:00,Money Supply M2+CD (YoY
 389bc1a0-dfb9-4533-8d01-f171396b11e3,09/10/2026 23:50:00,Producer Price Index (MoM),HIGH,JPY,Release,0.19,Inflation
 1dd6f9d5-eb8d-4545-acb6-0f2379a562a2,09/10/2026 23:50:00,Producer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
 d956b9ad-e6ed-4ebf-bc87-c2da56f68c7e,09/11/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
-315e96c8-eb9f-456a-b10e-92d4079e2eed,09/15/2026 04:30:00,Capacity Utilization,HIGH,JPY,Release,0.2,Monetary Policy
-029bc37f-a6a5-40a0-b329-d9d1f9a0dd87,09/15/2026 04:30:00,Industrial Production (MoM),HIGH,JPY,Release,0.17,Growth
-9d100f47-d43a-4a2d-b785-82c6ea87daac,09/15/2026 04:30:00,Industrial Production (YoY),HIGH,JPY,Release,0.17,Growth
+315e96c8-eb9f-456a-b10e-92d4079e2eed,09/14/2026 04:30:00,Capacity Utilization,HIGH,JPY,Release,0.2,Monetary Policy
+029bc37f-a6a5-40a0-b329-d9d1f9a0dd87,09/14/2026 04:30:00,Industrial Production (MoM),HIGH,JPY,Release,0.17,Growth
+9d100f47-d43a-4a2d-b785-82c6ea87daac,09/14/2026 04:30:00,Industrial Production (YoY),HIGH,JPY,Release,0.17,Growth
 a130c745-7a2c-4602-92a9-c67c5f4a24b2,09/15/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY,Release,0.11,Trade and External
 c18dd204-e1a4-466a-9990-95314526db66,09/15/2026 23:50:00,Exports (YoY),MEDIUM,JPY,Release,0.11,Trade and External
 f4f047a7-970d-4638-b4c8-7e0d2879a354,09/15/2026 23:50:00,Imports (YoY),MEDIUM,JPY,Release,0.11,Trade and External
