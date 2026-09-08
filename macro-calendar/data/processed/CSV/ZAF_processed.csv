@@ -1,13 +1,11 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-59fdce3b-687b-4166-b0df-48cfd458abea,09/07/2026 06:00:00,Gross $Gold & Forex Reserve ,HIGH,ZAR,Release,0.2,Monetary Policy
-c038547d-f68b-4cb4-a774-753152cdbd69,09/07/2026 06:00:00,Net $Gold & Forex Reserve,LOW,ZAR,Release,0.09,Money and Credit
-915dcb95-3c37-4311-946c-fc1b0b0f7007,09/08/2026 09:30:00,Gross Domestic Product (QoQ),HIGH,ZAR,Release,0.17,Growth
-474675f4-b4fb-4ef6-897c-61191a4f75d1,09/08/2026 09:30:00,Gross Domestic Product (YoY),HIGH,ZAR,Release,0.17,Growth
+915dcb95-3c37-4311-946c-fc1b0b0f7007,09/08/2026 09:00:00,Gross Domestic Product (QoQ),HIGH,ZAR,Release,0.17,Growth
+474675f4-b4fb-4ef6-897c-61191a4f75d1,09/08/2026 09:00:00,Gross Domestic Product (YoY),HIGH,ZAR,Release,0.17,Growth
 d0c162ae-fd8f-492d-b6d8-e9662b150fff,09/10/2026 11:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth
 a13554e3-2807-446c-b7c8-98c4049b8088,09/16/2026 11:00:00,Retail Sales (YoY),HIGH,ZAR,Release,0.17,Growth
 4154f57f-0256-4547-baad-fa4036a3f848,09/23/2026 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
 bc4820e4-8f56-4366-8dca-ad4bfc24b710,09/23/2026 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
-fa013c75-a4eb-4091-b701-1aa2280cd1d5,09/24/2026 13:00:00,SARB Interest Rate Decision,HIGH,ZAR,Release,0.2,Monetary Policy
+fa013c75-a4eb-4091-b701-1aa2280cd1d5,09/23/2026 13:00:00,SARB Interest Rate Decision,HIGH,ZAR,Release,0.2,Monetary Policy
 1ee3a794-4290-4b27-a4b1-988ef7fa5f2f,09/30/2026 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation
 7e6e01ea-0a38-43cd-8752-06452c0921ef,09/30/2026 06:00:00,Private Sector Credit,LOW,ZAR,Release,0.09,Money and Credit
 c20a5224-506f-455e-9bb5-f328eaa1055c,09/30/2026 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation

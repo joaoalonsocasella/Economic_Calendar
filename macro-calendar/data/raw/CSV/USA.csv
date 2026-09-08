@@ -1,13 +1,13 @@
 Id,Start,Name,Impact,Currency
 dec5e1bf-fdb2-4b8d-9722-a7e8508c1331,09/08/2026 10:00:00,NFIB Business Optimism Index,LOW,USD
-9d267058-78b1-4f7e-bb43-bac1cd05691e,09/08/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
-0d9bee18-0063-48d1-92fe-b3fdd0e05702,09/08/2026 12:55:00,Redbook Index (YoY),LOW,USD
 a80d1d7c-4dd1-411e-b635-9fef866fbc5a,09/08/2026 15:30:00,3-Month Bill Auction,LOW,USD
 a7e648a1-a7ea-4d5c-b52a-afaf801733af,09/08/2026 15:30:00,6-Month Bill Auction,LOW,USD
 fb1df06a-6d00-445c-8c89-a77b64452df2,09/08/2026 17:00:00,3-Year Note Auction,LOW,USD
 768e09dd-9c7f-4179-ba7f-9c74617d4a98,09/08/2026 19:00:00,Consumer Credit Change,LOW,USD
 e65a0b70-e075-44cc-8849-65311a56234b,09/08/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
 dfe73947-589e-4e92-b5b5-0b0e5fd237e8,09/09/2026 11:00:00,MBA Mortgage Applications,LOW,USD
+9d267058-78b1-4f7e-bb43-bac1cd05691e,09/09/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+0d9bee18-0063-48d1-92fe-b3fdd0e05702,09/09/2026 12:55:00,Redbook Index (YoY),LOW,USD
 f498e541-d6ec-444b-a236-8ddc0a79ecbe,09/09/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
 50c0b74b-8ac6-4b90-aa44-f9b9a1a0c3df,09/09/2026 14:30:00,EIA Distillate Stocks Change,LOW,USD
 5b89923e-1b34-40f4-9650-5476c2379138,09/09/2026 14:30:00,EIA Gasoline Stocks Change,LOW,USD
@@ -81,6 +81,8 @@ f103afea-7c50-4403-9545-f014850492d5,09/17/2026 12:30:00,Housing Starts Change,L
 b63eab1c-6055-48b1-9821-503445a2f067,09/17/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
 325e7533-b2ff-427b-96a7-0cf022aa7664,09/17/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
 9909c0ea-a176-41b4-afc6-85a3d0bef52e,09/17/2026 12:30:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD
+356de820-a4af-4f42-b44d-b8d0b4574439,09/17/2026 14:00:00,Pending Home Sales (MoM),MEDIUM,USD
+8c74d829-3147-4931-a611-d1ce63f7c234,09/17/2026 14:00:00,Pending Home Sales (YoY),LOW,USD
 aa17f77d-e650-4a24-8f2c-2654507241a5,09/17/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
 c0ae1b39-bcd4-4626-8764-e73338ee6d33,09/17/2026 15:30:00,4-Week Bill Auction,LOW,USD
 39fa570b-920a-4be7-b0d5-dfc203ee690c,09/17/2026 20:00:00,Net Long-Term TIC Flows,LOW,USD
@@ -155,8 +157,6 @@ cd62e4a7-3843-42dd-8e2d-bd3eac49c042,09/30/2026 12:30:00,Personal Consumption Ex
 46cf5aa0-d73f-4cbb-9c27-32a7492f22af,09/30/2026 12:30:00,Personal Spending,MEDIUM,USD
 5e05969c-c7c2-4060-860b-46c17ba2fad7,09/30/2026 12:30:00,Wholesale Inventories,LOW,USD
 f74c263d-3c85-43ce-a508-fc790e47289b,09/30/2026 13:45:00,Chicago PMI,MEDIUM,USD
-356de820-a4af-4f42-b44d-b8d0b4574439,09/30/2026 14:00:00,Pending Home Sales (MoM),MEDIUM,USD
-8c74d829-3147-4931-a611-d1ce63f7c234,09/30/2026 14:00:00,Pending Home Sales (YoY),LOW,USD
 4c352cf7-1bd5-477e-9a94-08eb9aed211c,09/30/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
 d61299c7-0f8a-42a9-ad0b-b5a6d53abf5a,09/30/2026 14:30:00,EIA Distillate Stocks Change,LOW,USD
 d6171eb5-173b-4388-a3f1-9d7b71163735,09/30/2026 14:30:00,EIA Gasoline Stocks Change,LOW,USD
@@ -215,7 +215,7 @@ ec2a1495-6a2a-4459-ad57-f561bc0c91bc,10/07/2026 14:30:00,EIA Gasoline Stocks Cha
 ca5d9523-c7af-4346-b865-5f1464c7c4b3,10/08/2026 12:30:00,Continuing Jobless Claims,LOW,USD
 9b347ce9-d89e-44e3-92c1-a530ea21db90,10/08/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
 234f33ed-4ee3-490f-be7b-0c6f7209edc1,10/08/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
-44ec4b6c-5af1-4ea3-a27c-679ca06bc44b,10/08/2026 12:30:00,Wholesale Inventories,LOW,USD
+44ec4b6c-5af1-4ea3-a27c-679ca06bc44b,10/08/2026 14:00:00,Wholesale Inventories,LOW,USD
 0b480de8-55e4-428e-a596-d64567bef557,10/08/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
 1294be93-8582-43af-8556-bff30b4d7f4f,10/08/2026 15:30:00,4-Week Bill Auction,LOW,USD
 ea8dd0f6-6efc-4a7b-ac69-a84310157370,10/08/2026 17:00:00,30-Year Bond Auction,LOW,USD
@@ -425,7 +425,7 @@ b8f48aa0-3046-487f-a38e-684c754462af,11/06/2026 17:00:00,Baker Hughes US Oil Rig
 7c41c071-0553-470a-b1e1-7f8f457edbbf,11/06/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD
 cff804f2-a232-4faa-b71a-b6d5a125f1f9,11/06/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 34c5e5c6-de06-4b9a-8a14-97a803634b31,11/06/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
-7220f518-6a40-4e29-8133-cdfdef018f67,11/09/2026 13:30:00,Wholesale Inventories,LOW,USD
+7220f518-6a40-4e29-8133-cdfdef018f67,11/09/2026 15:00:00,Wholesale Inventories,LOW,USD
 c8d3d517-bbf3-4675-95a8-589802d69e1b,11/09/2026 16:30:00,3-Month Bill Auction,LOW,USD
 ff72f8aa-2f4f-4ed0-947d-39e73448dffc,11/09/2026 16:30:00,6-Month Bill Auction,LOW,USD
 ac050576-690c-43fc-89d8-8ff5cb9b389c,11/09/2026 19:00:00,Loan Officer Survey,MEDIUM,USD
@@ -623,9 +623,9 @@ b38acafa-32e0-494a-a7cf-488f00fd336e,12/08/2026 13:30:00,Goods Trade Balance,LOW
 68274342-5ddb-4262-ade1-b53dce8c682b,12/08/2026 18:00:00,3-Year Note Auction,LOW,USD
 3756a950-1510-4589-ad39-506702bbbecf,12/08/2026 21:30:00,API Weekly Crude Oil Stock,LOW,USD
 9525ea7a-3f9c-44a0-8fc7-79850c46f03f,12/09/2026 12:00:00,MBA Mortgage Applications,LOW,USD
-884150d1-eaf5-4f17-b374-149f796d2237,12/09/2026 13:30:00,Wholesale Inventories,LOW,USD
 0f7b3fd9-c981-4560-823e-51cc16958b88,12/09/2026 15:00:00,Existing Home Sales (MoM),LOW,USD
 a70b02a4-9025-42e2-94ae-7e4966d64ad7,12/09/2026 15:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
+884150d1-eaf5-4f17-b374-149f796d2237,12/09/2026 15:00:00,Wholesale Inventories,LOW,USD
 f5d53f83-bce8-4077-b0fe-8fb9d1968e25,12/09/2026 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
 07285ef1-dc00-4bc6-8b9f-5098f8e94b58,12/09/2026 15:30:00,EIA Distillate Stocks Change,LOW,USD
 554bf10b-19a4-4ed0-b5ca-e2c5e7c9a496,12/09/2026 15:30:00,EIA Gasoline Stocks Change,LOW,USD
@@ -827,23 +827,29 @@ de2032bf-888b-4ad4-af3c-80d28b1f2f15,01/07/2027 13:30:00,Initial Jobless Claims 
 7b0eb077-27ef-44cb-91db-e1a45dc88952,01/07/2027 16:30:00,4-Week Bill Auction,LOW,USD
 51560ab0-b98e-455d-b488-45c90377adbc,01/07/2027 18:00:00,30-Year Bond Auction,LOW,USD
 d6959b80-f699-4ead-a8a3-85c6940c6564,01/07/2027 20:00:00,Consumer Credit Change,LOW,USD
-536986db-be7d-4d8f-a07d-77b7db434df3,01/08/2027 13:30:00,Wholesale Inventories,LOW,USD
 425d30d6-5fd7-4f03-b51c-c35f18f8dbf0,01/08/2027 15:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
 744ee24d-ad3c-4701-86ec-4965b324a3f2,01/08/2027 15:00:00,Michigan Consumer Sentiment Index,HIGH,USD
 bb085c3f-e76c-468c-8e88-1e4512eca9e1,01/08/2027 15:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
 0f94da05-4206-45a8-8ecf-18c168a5c79e,01/08/2027 15:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD
+536986db-be7d-4d8f-a07d-77b7db434df3,01/08/2027 15:00:00,Wholesale Inventories,LOW,USD
 f30afd9c-03a7-49c4-b42b-5503d1c8c646,01/08/2027 18:00:00,Baker Hughes US Oil Rig Count,LOW,USD
 22b88b9a-7ef7-4e81-ad56-b6dfb62309c6,01/08/2027 20:30:00,CFTC Gold NC Net Positions,LOW,USD
 72019245-f962-4e85-ae05-cacc0b2d8021,01/08/2027 20:30:00,CFTC Oil NC Net Positions,LOW,USD
 260ce50c-7bf1-4bf6-86a9-903afc5c6db1,01/08/2027 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 808198ca-b751-4f71-a9f2-5e87169d1525,01/12/2027 11:00:00,NFIB Business Optimism Index,LOW,USD
 ac5333e8-da45-4233-acbd-55374ed50450,01/12/2027 13:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+1442a687-00b5-49de-b46f-4c9abe6d7cf7,01/12/2027 13:55:00,Redbook Index (YoY),LOW,USD
 08041b3d-d564-4b20-917c-03c83db4361d,01/12/2027 15:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
 6c56ddc7-1167-429d-890b-93f6082dd75a,01/12/2027 19:00:00,Monthly Budget Statement,MEDIUM,USD
+d714d231-a054-47bc-ab3b-7e0d5423f182,01/13/2027 12:00:00,MBA Mortgage Applications,LOW,USD
 135822a9-bd43-403d-ac36-649bcb51e21b,01/13/2027 13:30:00,Producer Price Index (MoM),MEDIUM,USD
 fd6f7695-63a9-4d3b-96e3-86386cdc70ce,01/13/2027 13:30:00,Producer Price Index (YoY),MEDIUM,USD
 e6799b19-9dc8-4760-b966-683d1b5c5b8d,01/13/2027 13:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
 72d17361-91b6-424a-ac84-b02edfa0eaa5,01/13/2027 13:30:00,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+a04de9ad-22da-4a98-8446-c9b350ce3097,01/13/2027 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
+c0c2234c-22e9-476f-81da-03e51ff44353,01/13/2027 15:30:00,EIA Distillate Stocks Change,LOW,USD
+e5b92c80-9eb6-402d-9450-32f9bfc371e5,01/13/2027 15:30:00,EIA Gasoline Stocks Change,LOW,USD
+5589d1cc-d681-4237-958c-3f227af7cbf3,01/13/2027 15:30:00,EIA Heating Oil Stocks Change,LOW,USD
 8b587f98-a24c-4fb3-9a02-2eac50afc7e2,01/14/2027 13:30:00,Consumer Price Index (MoM),HIGH,USD
 f997a3c2-69c3-4785-b3cf-0fd2365f6cbf,01/14/2027 13:30:00,Consumer Price Index (YoY),HIGH,USD
 f98f0317-666c-4e30-87e4-808460864f99,01/14/2027 13:30:00,Consumer Price Index Core s.a,LOW,USD
@@ -871,7 +877,13 @@ ebc22175-d069-4d30-bb14-35588caf2409,01/19/2027 13:30:00,Building Permits (MoM),
 944608d9-7d82-4a7d-a27d-c0ce32a2e158,01/19/2027 13:30:00,Building Permits Change,LOW,USD
 e1145c6c-f6e9-447e-83d9-19f0f48773aa,01/19/2027 13:30:00,Housing Starts (MoM),MEDIUM,USD
 9e87b1e8-b1de-437c-8ef7-4d5bb29d9185,01/19/2027 13:30:00,Housing Starts Change,LOW,USD
+45c45675-0f7c-449e-8162-ec6a113f5c0e,01/19/2027 13:55:00,Redbook Index (YoY),LOW,USD
 53b0d906-4a10-4a07-9f8e-88f35cfe31f2,01/19/2027 15:30:00,52-Week Bill Auction,LOW,USD
+ed8ed30d-c9cb-4e83-a2d2-c891fd8e4460,01/20/2027 12:00:00,MBA Mortgage Applications,LOW,USD
+817bc8a7-5fd6-4cb0-9dc3-d5a86e011a04,01/20/2027 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
+b5fad78c-2518-4b84-b112-97068baf16bd,01/20/2027 15:30:00,EIA Distillate Stocks Change,LOW,USD
+52b0c9f3-abf0-4bdc-8b78-2681f6af3561,01/20/2027 15:30:00,EIA Gasoline Stocks Change,LOW,USD
+10c88436-131c-47fd-85f6-5118155aae1d,01/20/2027 15:30:00,EIA Heating Oil Stocks Change,LOW,USD
 6d50e025-46be-4153-b04a-fcf5024c6cd9,01/20/2027 18:00:00,20-Year Bond Auction,LOW,USD
 15ad13ea-5c2d-44df-b710-3c27a36ec8c9,01/21/2027 13:30:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD
 a2337d07-47b2-42f1-9b02-c6188c88107f,01/21/2027 15:00:00,Existing Home Sales (MoM),LOW,USD
@@ -892,6 +904,7 @@ a7803e92-c878-493d-b056-143b0e53fb10,01/22/2027 20:30:00,CFTC Oil NC Net Positio
 90ca71fd-b30b-4bef-b469-6bc239db08d2,01/25/2027 15:00:00,New Home Sales (MoM),LOW,USD
 6d2c0b25-9464-415b-92e8-0af92495dd66,01/25/2027 15:00:00,New Home Sales Change (MoM),MEDIUM,USD
 a0c4dbeb-d628-4c55-91df-344098c11ef0,01/26/2027 13:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+1024ec3c-b638-46eb-abe8-1d412754a94f,01/26/2027 13:55:00,Redbook Index (YoY),LOW,USD
 771a3317-dce5-40ca-b335-a3ce06ddb90d,01/26/2027 14:00:00,Housing Price Index (MoM),MEDIUM,USD
 128d0061-99f5-4782-927a-e013f8aa63d7,01/26/2027 14:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD
 136a40fa-ca98-4d10-8bca-826edfc36221,01/26/2027 15:00:00,Consumer Confidence,MEDIUM,USD
@@ -899,10 +912,15 @@ a0c4dbeb-d628-4c55-91df-344098c11ef0,01/26/2027 13:15:00,ADP Employment Change 4
 6e10396e-485e-42b6-ae4c-3c4263e48087,01/26/2027 15:30:00,Dallas Fed Manufacturing Business Index,LOW,USD
 683c8914-f091-4dbb-9336-4f2e66c4635e,01/26/2027 18:00:00,2-Year Note Auction,LOW,USD
 2d35b0ca-2066-473f-973d-9fc11ddbd7f7,01/26/2027 18:00:00,5-Year Note Auction,LOW,USD
+555a055f-c589-4394-9ad8-fd33b0127148,01/27/2027 12:00:00,MBA Mortgage Applications,LOW,USD
 96520e4b-4b96-4603-87e5-d216ecd4b6af,01/27/2027 13:30:00,Durable Goods Orders,MEDIUM,USD
 639a7f76-eb08-4d6f-b129-c5fb681eaf7d,01/27/2027 13:30:00,Durable Goods Orders ex Defense,MEDIUM,USD
 3c0bc89d-e887-47bd-9ce7-a163eff48673,01/27/2027 13:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
 906f12fc-06b2-4f93-8348-de9e1a702d58,01/27/2027 13:30:00,Nondefense Capital Goods Orders ex Aircraft,MEDIUM,USD
+fe59b6e3-1682-497e-b6d5-dc5df75de4b4,01/27/2027 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
+6e677d95-0785-4480-918f-3f31ff23da8e,01/27/2027 15:30:00,EIA Distillate Stocks Change,LOW,USD
+1665bf60-65c6-4f30-aec3-b914201d73d6,01/27/2027 15:30:00,EIA Gasoline Stocks Change,LOW,USD
+bb6aeea8-1b0e-4e0b-8ebc-04df13be9211,01/27/2027 15:30:00,EIA Heating Oil Stocks Change,LOW,USD
 9f28fc24-a9af-411c-b751-3569ff16ba74,01/27/2027 18:00:00,7-Year Note Auction,LOW,USD
 57ee874c-f3c1-488e-9b0c-55a1d43d7de7,01/27/2027 19:00:00,Fed Interest Rate Decision,HIGH,USD
 b60dfe46-3e2f-4257-a6d6-e275b061713d,01/27/2027 19:00:00,Fed Monetary Policy Statement,HIGH,USD
@@ -911,6 +929,7 @@ b60dfe46-3e2f-4257-a6d6-e275b061713d,01/27/2027 19:00:00,Fed Monetary Policy Sta
 c4528d7a-d67b-498b-bfce-64ae1a54c4e1,01/28/2027 13:30:00,Gross Domestic Product Annualized,HIGH,USD
 f533417f-1fdf-4cc6-b9b3-d741ae04d349,01/28/2027 13:30:00,Gross Domestic Product Price Index,HIGH,USD
 4a37df80-7f25-43ab-9ca5-61e2d1e2b5ba,01/28/2027 13:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
+a0eead0f-6672-4d8c-9989-75052e750ffb,01/28/2027 13:30:00,Wholesale Inventories,LOW,USD
 0a720d86-4156-46e0-953a-2ff598157a75,01/28/2027 15:00:00,Pending Home Sales (MoM),MEDIUM,USD
 2e3b3f20-a5c0-4680-a948-df4f6976f147,01/28/2027 15:00:00,Pending Home Sales (YoY),LOW,USD
 19522570-11f3-46b1-b198-d3fd9fc4ab4b,01/29/2027 13:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
@@ -930,7 +949,9 @@ ecabc8f1-6d75-4adc-84fe-e14ebcfe7823,02/01/2027 14:45:00,S&P Global Manufacturin
 fd1d7305-43da-470c-b1ca-4685e54d4822,02/01/2027 15:00:00,ISM Manufacturing PMI,HIGH,USD
 da24e5c4-b22a-41e4-8b58-ba5b55f806a9,02/01/2027 15:00:00,ISM Manufacturing Prices Paid,MEDIUM,USD
 a03e3c0c-5fac-4890-8b71-017e9ac06932,02/01/2027 19:00:00,Loan Officer Survey,MEDIUM,USD
+aea0f3ac-60e5-4b11-aed5-8f56c833c45c,02/02/2027 13:55:00,Redbook Index (YoY),LOW,USD
 457d7161-561a-4134-8801-1980087a9ffd,02/02/2027 15:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
+3a227394-3f42-4570-a6e4-6b485c0586ba,02/03/2027 12:00:00,MBA Mortgage Applications,LOW,USD
 9156fc30-bbb8-4ed4-94b9-938e02d94af0,02/03/2027 13:15:00,ADP Employment Change,HIGH,USD
 8b38fb8a-46f7-4195-a5f9-e1c7f14a539d,02/03/2027 14:45:00,S&P Global Composite PMI,MEDIUM,USD
 aa79292a-a689-4c73-8113-41ed392a657a,02/03/2027 14:45:00,S&P Global Services PMI,LOW,USD
@@ -938,6 +959,10 @@ aa79292a-a689-4c73-8113-41ed392a657a,02/03/2027 14:45:00,S&P Global Services PMI
 3fe6bf70-c1e3-4f14-b1c2-f3810fff9006,02/03/2027 15:00:00,ISM Services New Orders Index,MEDIUM,USD
 fea55812-d24b-459b-81be-57b6668d0801,02/03/2027 15:00:00,ISM Services PMI,HIGH,USD
 848d7dc3-7d95-4023-b55e-bd39e7ccd235,02/03/2027 15:00:00,ISM Services Prices Paid,MEDIUM,USD
+7c98407c-ee03-46a3-8f54-082e4cdca49d,02/03/2027 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
+67d8dde5-a89c-4feb-b4af-9b201171dd61,02/03/2027 15:30:00,EIA Distillate Stocks Change,LOW,USD
+4e7de999-3065-42c4-82da-7a0d33a66942,02/03/2027 15:30:00,EIA Gasoline Stocks Change,LOW,USD
+5c42d917-a7bb-43dc-8549-de714b3b0a2f,02/03/2027 15:30:00,EIA Heating Oil Stocks Change,LOW,USD
 bbb1724c-b9d6-4f7d-aa8d-67aceae51b94,02/04/2027 13:30:00,Nonfarm Productivity,MEDIUM,USD
 653e32f7-3dc0-4979-9499-cf3f7c8e1eca,02/04/2027 13:30:00,Unit Labor Costs,MEDIUM,USD
 2220cceb-ea93-4426-9855-6e88a75e9c38,02/05/2027 13:30:00,Average Hourly Earnings (MoM),HIGH,USD
@@ -951,13 +976,21 @@ cf6cc1c9-b129-448d-92c0-49b347a222c8,02/05/2027 13:30:00,U6 Underemployment Rate
 1521822b-2dce-4f0c-b640-419746c2671d,02/05/2027 20:30:00,CFTC Oil NC Net Positions,LOW,USD
 55a6edf6-1eef-462f-9026-4ea731f455d6,02/05/2027 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 8cb153b9-cb58-4b13-98ee-1a28963006cf,02/09/2027 13:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+accaadc1-a988-4a15-9e3f-6ad3c64b9861,02/09/2027 13:55:00,Redbook Index (YoY),LOW,USD
 325c2819-938c-4576-9f07-b048ee727c03,02/09/2027 18:00:00,3-Year Note Auction,LOW,USD
+65810e6d-bf5d-4135-86ab-31f223b05441,02/10/2027 12:00:00,MBA Mortgage Applications,LOW,USD
+3f4c7ac3-79f1-47f8-8225-667635c7498b,02/10/2027 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
+49aa4d72-3e6c-48b1-be05-fd2a1fe70b8b,02/10/2027 15:30:00,EIA Distillate Stocks Change,LOW,USD
+c930dffa-2a47-4fda-9981-fe01e4d1beb8,02/10/2027 15:30:00,EIA Gasoline Stocks Change,LOW,USD
+b9763f11-8df0-44cc-afd6-ef93dae5f77d,02/10/2027 15:30:00,EIA Heating Oil Stocks Change,LOW,USD
+a3f05b05-dbd2-4956-b12f-08c0e929c6d0,02/10/2027 18:00:00,10-Year Note Auction,LOW,USD
 51d66c91-5359-4583-82a4-6400f9463f30,02/11/2027 13:30:00,Consumer Price Index (MoM),HIGH,USD
 3a3d2bb2-1ffa-41f2-9689-21a7a871b85d,02/11/2027 13:30:00,Consumer Price Index (YoY),HIGH,USD
 81bb5ef2-7507-4f5d-9379-56c91e3ab7e8,02/11/2027 13:30:00,Consumer Price Index Core s.a,LOW,USD
 c244c128-615f-4838-b409-2bc9985af794,02/11/2027 13:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
 83022d4a-d90a-4fcd-ab52-adaac854f669,02/11/2027 13:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
 66c26d50-d0c0-4bed-bcd5-830b996ce3de,02/11/2027 13:30:00,Consumer Price Index n.s.a (MoM),LOW,USD
+ebb70058-aacf-4fa4-90f8-4a96136c8aec,02/11/2027 15:00:00,Wholesale Inventories,LOW,USD
 37fa2c8d-ce7f-4544-8afd-59c161353740,02/11/2027 19:00:00,Monthly Budget Statement,MEDIUM,USD
 a524d18b-803f-4de2-be84-9af6a64cfe3e,02/12/2027 13:30:00,Export Price Index (MoM),LOW,USD
 3cf3eeb7-750a-47b9-914f-20f9c5c4ba0b,02/12/2027 13:30:00,Export Price Index (YoY),LOW,USD
@@ -976,31 +1009,47 @@ df1f95ba-1196-44b3-be5a-8953047fbae2,02/12/2027 20:30:00,CFTC Oil NC Net Positio
 8a1fd077-ebf1-4405-ba86-330bcf03912c,02/12/2027 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 ae936c45-e234-4638-aa49-3e4758f32a4d,02/15/2027 13:30:00,NY Empire State Manufacturing Index,MEDIUM,USD
 7f20ba8b-2121-4a20-961f-01cc5f1f5330,02/16/2027 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+227456de-4b35-4091-b2a1-7404a79e6b07,02/16/2027 13:55:00,Redbook Index (YoY),LOW,USD
 d7f96e2e-c79f-4fab-b332-bf54e1ef21f6,02/16/2027 16:30:00,52-Week Bill Auction,LOW,USD
+3f050dc3-c51a-42d6-adb9-c9a484a69490,02/17/2027 12:00:00,MBA Mortgage Applications,LOW,USD
 87a76e69-18b5-4a9c-afa5-6314b63bc9aa,02/17/2027 13:30:00,Retail Sales (MoM),HIGH,USD
 9b9f7973-bf92-4c75-861a-9fe3430e4f53,02/17/2027 13:30:00,Retail Sales (YoY),LOW,USD
 bc4d7b8c-ab6d-4bf0-9ae6-12e252b2ba86,02/17/2027 13:30:00,Retail Sales Control Group,HIGH,USD
 814697b8-8177-4095-9538-6605982d3833,02/17/2027 13:30:00,Retail Sales ex Autos (MoM),MEDIUM,USD
 7fb51a94-782b-4115-8cf2-96ba14afa62b,02/17/2027 14:15:00,Capacity Utilization,LOW,USD
 33db8f02-4cd0-4d4c-933f-d9d1584b69b2,02/17/2027 14:15:00,Industrial Production (MoM),MEDIUM,USD
+3a9ddecd-c4fc-43ba-b2f7-a27468614503,02/17/2027 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
+d90d1381-30bc-4b35-a7d0-1c795af9f54c,02/17/2027 15:30:00,EIA Distillate Stocks Change,LOW,USD
+814cee37-bee1-404b-b50f-57932c261252,02/17/2027 15:30:00,EIA Gasoline Stocks Change,LOW,USD
+dedc7b1e-09f5-4376-b267-1d86023c22b1,02/17/2027 15:30:00,EIA Heating Oil Stocks Change,LOW,USD
 59f1a17e-06ef-4435-b1de-03c408af8780,02/17/2027 19:00:00,FOMC Minutes,HIGH,USD
 f89117fa-c1e0-405a-855a-9a71f69601c1,02/18/2027 13:30:00,Building Permits (MoM),MEDIUM,USD
 14e93bfe-49df-45bc-b259-8b1bcacebde7,02/18/2027 13:30:00,Building Permits Change,LOW,USD
 ceacd7aa-50b1-4b31-8fd6-5562a9500ab9,02/18/2027 13:30:00,Housing Starts (MoM),MEDIUM,USD
 bc6448b6-ebdc-4d27-8ba9-11dff403a76f,02/18/2027 13:30:00,Housing Starts Change,LOW,USD
+6a0af5ae-7403-418e-8008-76ed7448e43b,02/18/2027 15:00:00,Existing Home Sales (MoM),LOW,USD
+8ceb1eb3-447e-4a09-9bd3-8557ece29c41,02/18/2027 15:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
 92b476de-61a5-4533-9135-7958d58d481d,02/18/2027 18:00:00,30-year TIPS Auction,LOW,USD
 cabe250f-cb79-4650-9392-ff2b5d6b6da7,02/19/2027 20:30:00,CFTC Gold NC Net Positions,LOW,USD
 417b1706-c227-4f1e-ad29-03b6d6abd6ee,02/19/2027 20:30:00,CFTC Oil NC Net Positions,LOW,USD
 f08f44ce-b2cd-4f1a-b3b6-33397dbc9d01,02/19/2027 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 14fbdfcb-ac1a-4089-918d-82a30ebb6d55,02/23/2027 13:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+5bbc5df8-2329-4180-8ded-cd19360218fc,02/23/2027 13:55:00,Redbook Index (YoY),LOW,USD
+93a46c40-ab3e-47de-af3e-00b3c8fb551c,02/23/2027 14:00:00,Housing Price Index (MoM),MEDIUM,USD
 d25a8ad7-3c54-42fa-9d75-3e65f6c26dd3,02/23/2027 18:00:00,2-Year Note Auction,LOW,USD
+b3831181-0e79-407f-ae3c-30d5af01f5bf,02/24/2027 12:00:00,MBA Mortgage Applications,LOW,USD
 01514793-5074-4c36-81fc-699074168b97,02/24/2027 14:45:00,S&P Global Composite PMI,MEDIUM,USD
 d6e2a4f0-0334-4011-996c-4f998b748160,02/24/2027 14:45:00,S&P Global Manufacturing PMI,HIGH,USD
 f3af6ad3-9b5a-4da3-807e-a5a41b4b0494,02/24/2027 14:45:00,S&P Global Services PMI,HIGH,USD
+458a9a2b-c54e-400a-8b0a-e06158b9576d,02/24/2027 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
+80287a98-5662-4c63-9a6e-a8b0f8668afc,02/24/2027 15:30:00,EIA Distillate Stocks Change,LOW,USD
+5ae58a0a-b35f-4153-b809-6a62ea1ed37c,02/24/2027 15:30:00,EIA Gasoline Stocks Change,LOW,USD
+c66e7b84-7e4d-4738-b5cf-a337ca3d03e5,02/24/2027 15:30:00,EIA Heating Oil Stocks Change,LOW,USD
 b5df2f0f-fba6-4fb4-b308-3a24e540915f,02/25/2027 13:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
 5f29cc0b-0937-4430-bc43-98fbb7ae8f7a,02/25/2027 13:30:00,Gross Domestic Product Annualized,MEDIUM,USD
 d0ff2b0f-39d5-4ac5-813b-c814727094bd,02/25/2027 13:30:00,Gross Domestic Product Price Index,MEDIUM,USD
 637d5506-a6fe-4a33-98cb-859c0cfc818d,02/25/2027 13:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
+52966a59-db0c-404a-a93f-2f4512013f8f,02/25/2027 13:30:00,Wholesale Inventories,LOW,USD
 6a6b0b24-f21e-49fa-a17b-8640a365b2e0,02/25/2027 15:30:00,Dallas Fed Manufacturing Business Index,LOW,USD
 69c93bb0-927c-435b-8995-57f43d21cfd2,02/25/2027 16:00:00,Kansas Fed Manufacturing Activity,LOW,USD
 bed19152-ca59-4a09-8097-21fa90e582c7,02/26/2027 13:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
@@ -1013,6 +1062,7 @@ f0e64a31-e161-4763-b787-0a800d21b89b,02/26/2027 13:30:00,Durable Goods Orders ex
 9a4b7780-6cab-4681-b556-749930d207c9,02/26/2027 13:30:00,Personal Consumption Expenditures - Price Index (YoY),MEDIUM,USD
 51e36c89-d23e-424d-b062-719eddb202e6,02/26/2027 13:30:00,Personal Income (MoM),MEDIUM,USD
 103c3077-e14f-41fc-bb4b-642ca2253a76,02/26/2027 13:30:00,Personal Spending,MEDIUM,USD
+a51da214-58de-47f4-9e61-1e0131c786f3,02/26/2027 14:45:00,Chicago PMI,MEDIUM,USD
 0ea9a8ff-5463-4428-9700-8c5c90bb9909,02/26/2027 15:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
 f1d69c3a-0444-41b4-8fc4-30580971d821,02/26/2027 15:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD
 c2ea4435-934d-4d2a-bedf-7ab818b802ae,02/26/2027 15:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
@@ -1025,7 +1075,9 @@ fab195c6-ace3-4e2e-8ede-1ce52190e20e,02/26/2027 20:30:00,CFTC Oil NC Net Positio
 c5ef889c-5a64-4d8f-944c-590f9005cb57,03/01/2027 15:00:00,ISM Manufacturing New Orders Index,MEDIUM,USD
 50fe780a-ac25-4436-a45c-c0665ed89cae,03/01/2027 15:00:00,ISM Manufacturing PMI,HIGH,USD
 acde4ce2-96f9-4340-956d-d975dfba64da,03/01/2027 15:00:00,ISM Manufacturing Prices Paid,MEDIUM,USD
+45387411-7f87-4857-ade7-c489b159385a,03/02/2027 13:55:00,Redbook Index (YoY),LOW,USD
 55adf836-58ad-44fb-8daf-c5a9fa6f1dfa,03/02/2027 15:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
+aea8200f-73bf-4e5d-b8c3-2fb41eeaf419,03/03/2027 12:00:00,MBA Mortgage Applications,LOW,USD
 7accb7be-dd87-4113-8ee4-260dfa5a9e46,03/03/2027 13:15:00,ADP Employment Change,HIGH,USD
 dd249242-0b5f-4eb1-84b7-115585feac5e,03/03/2027 14:45:00,S&P Global Composite PMI,MEDIUM,USD
 06ab9787-861d-47ba-96a2-9833e8fb5772,03/03/2027 14:45:00,S&P Global Services PMI,LOW,USD
@@ -1033,6 +1085,10 @@ fa327655-08e3-4c20-8725-4f1ba39c55e5,03/03/2027 15:00:00,ISM Services Employment
 57d4efd0-2065-4d39-883f-25250bdfbeb7,03/03/2027 15:00:00,ISM Services New Orders Index,MEDIUM,USD
 9592068d-cdec-4a4b-aac7-5cd619fe3263,03/03/2027 15:00:00,ISM Services PMI,HIGH,USD
 7d2490d4-57c9-4710-b035-deb8078431df,03/03/2027 15:00:00,ISM Services Prices Paid,MEDIUM,USD
+a22457e6-12f6-4491-95ef-649024c3d064,03/03/2027 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
+c2345b2a-cac5-43dc-98f4-862c353f0952,03/03/2027 15:30:00,EIA Distillate Stocks Change,LOW,USD
+de1888dc-b91c-4e51-acb5-c49fee047db7,03/03/2027 15:30:00,EIA Gasoline Stocks Change,LOW,USD
+ec2ceae5-81ee-48f8-b5d0-e4ef0e352529,03/03/2027 15:30:00,EIA Heating Oil Stocks Change,LOW,USD
 2ec26754-49a9-41ea-898c-b8f97f42ca7b,03/05/2027 13:30:00,Average Hourly Earnings (MoM),HIGH,USD
 fd61e0fb-6f48-44ea-b8a5-a23043e8fed4,03/05/2027 13:30:00,Average Hourly Earnings (YoY),HIGH,USD
 71d5453f-3f89-404f-8316-f1755ee1be64,03/05/2027 13:30:00,Average Weekly Hours,LOW,USD
@@ -1044,7 +1100,15 @@ aa805854-9595-4712-81b1-e82eba10d7f0,03/05/2027 13:30:00,Unemployment Rate,MEDIU
 468c233e-3650-4cba-83af-b1f281f8dab0,03/05/2027 20:30:00,CFTC Oil NC Net Positions,LOW,USD
 b610b1d2-b1ad-469b-a883-869cec3c9fa5,03/05/2027 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 b2dbf85e-5592-4e7f-b30a-880be99a89b6,03/09/2027 13:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+69a4d7fa-39ea-4f4d-8de9-453c915e9287,03/09/2027 13:55:00,Redbook Index (YoY),LOW,USD
 a0980ab0-c67f-4050-a732-5980fa54c8a4,03/09/2027 18:00:00,3-Year Note Auction,LOW,USD
+55cc0412-7dc1-4a69-a761-e1ce173f684a,03/10/2027 12:00:00,MBA Mortgage Applications,LOW,USD
+17846e24-26e8-4b89-abf7-d505a38eaaae,03/10/2027 15:00:00,Wholesale Inventories,LOW,USD
+dd9e132f-eefc-4538-b684-7d182b9bedc5,03/10/2027 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
+40ddf090-fd9c-4003-bd62-4239d445cf66,03/10/2027 15:30:00,EIA Distillate Stocks Change,LOW,USD
+b43e1fa8-e1f7-405c-a99b-16ce9a9b5806,03/10/2027 15:30:00,EIA Gasoline Stocks Change,LOW,USD
+7a0d1c71-05cd-4cc0-a3b4-6acc18beaa3c,03/10/2027 15:30:00,EIA Heating Oil Stocks Change,LOW,USD
+16144ca7-079c-4116-a3da-9312a114812b,03/10/2027 18:00:00,10-Year Note Auction,LOW,USD
 6208c036-3009-4686-bf83-9d9bd765c343,03/11/2027 13:30:00,Consumer Price Index (MoM),HIGH,USD
 2f332c01-d972-4c54-aeb1-e6eef67e5d9d,03/11/2027 13:30:00,Consumer Price Index (YoY),HIGH,USD
 34743e51-38a7-44f8-a786-8f0ade065015,03/11/2027 13:30:00,Consumer Price Index Core s.a,LOW,USD
@@ -1072,11 +1136,17 @@ e51a4296-a193-4f39-9833-83e32e077c24,03/15/2027 12:30:00,NY Empire State Manufac
 bfdee5ad-ec7b-47e4-9272-4216b9da436e,03/15/2027 13:15:00,Capacity Utilization,LOW,USD
 c478eb43-4f48-450d-98cd-c044c2e6944c,03/15/2027 13:15:00,Industrial Production (MoM),MEDIUM,USD
 92223fe7-cca5-4b27-bb2d-554629382f24,03/16/2027 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+19d58467-8b6c-4fea-a4f1-57f364e4be75,03/16/2027 12:55:00,Redbook Index (YoY),LOW,USD
 b8d05e54-8c43-417a-a5c4-48b94664582c,03/16/2027 15:30:00,52-Week Bill Auction,LOW,USD
+5c6aeecb-4b54-4b61-8265-3f58572df3b4,03/17/2027 11:00:00,MBA Mortgage Applications,LOW,USD
 81e78d16-ff7b-4eff-8439-bf63629e5e65,03/17/2027 12:30:00,Retail Sales (MoM),HIGH,USD
 b02b05f3-2520-4d3c-8355-5dfd68e4a159,03/17/2027 12:30:00,Retail Sales (YoY),LOW,USD
 fadb1514-f836-4276-b774-4a1838c9e32f,03/17/2027 12:30:00,Retail Sales Control Group,HIGH,USD
 b259c3f2-388e-4da9-a590-955de9d1e29e,03/17/2027 12:30:00,Retail Sales ex Autos (MoM),MEDIUM,USD
+1424838b-6484-41b8-bf08-88517ced9bd0,03/17/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+9001248c-1699-46f7-bfcd-07785776a486,03/17/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+a95bd6a8-6558-4f83-8488-56a118cd7d0f,03/17/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+d193b75c-36ea-4c22-bfcd-f1bbf41e799e,03/17/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 1f0d4172-b895-4548-a4d9-df431c711edd,03/17/2027 18:00:00,Fed Interest Rate Decision,HIGH,USD
 9ddff595-f289-4df6-ae6c-0eaa63eb2edd,03/17/2027 18:00:00,Fed Monetary Policy Statement,HIGH,USD
 0262d0b1-1f30-49c6-8a39-a96479252663,03/17/2027 18:00:00,FOMC Economic Projections,HIGH,USD
@@ -1089,6 +1159,8 @@ e1626f80-5c0b-40b2-bed2-131f7c7290ad,03/17/2027 18:00:00,Interest Rate Projectio
 26401f4d-8e91-4f04-a34b-cc8a47af2b4a,03/18/2027 12:30:00,Building Permits Change,LOW,USD
 3be91da5-41d1-4159-ad06-e6de4e542c39,03/18/2027 12:30:00,Housing Starts (MoM),MEDIUM,USD
 bb134c63-a3f1-4b1c-8379-4142dd618381,03/18/2027 12:30:00,Housing Starts Change,LOW,USD
+042cb7ca-47e2-4219-be03-9938b6b69fad,03/18/2027 14:00:00,Existing Home Sales (MoM),LOW,USD
+2c3e0362-9508-4996-bcb0-41047ce8e5f7,03/18/2027 14:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
 62ac4e33-aa21-4f6f-8f80-4e297f73e85c,03/19/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD
 7548e379-df7b-45a3-af63-41bdf9191dfa,03/19/2027 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 eb592cbb-4f47-4c06-b9b6-4146ac1071c8,03/19/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
@@ -1096,7 +1168,14 @@ f1c41f87-5208-410a-a3ca-37d7ac58341c,03/22/2027 13:45:00,S&P Global Composite PM
 0303d761-1c57-47d2-9e22-b96bd9af7aeb,03/22/2027 13:45:00,S&P Global Manufacturing PMI,HIGH,USD
 9e224cc3-7029-4bc1-8564-b736ba412197,03/22/2027 13:45:00,S&P Global Services PMI,HIGH,USD
 c0d532d7-d46a-4486-a1ad-e0d2c3391539,03/23/2027 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+05761f88-9084-4875-acb6-d3522940057d,03/23/2027 12:55:00,Redbook Index (YoY),LOW,USD
 80c9970d-28a8-44fd-9395-bc2887b2f14c,03/23/2027 17:00:00,2-Year Note Auction,LOW,USD
+d92a109a-df7c-43b5-bec7-1740f5a050f0,03/24/2027 11:00:00,MBA Mortgage Applications,LOW,USD
+12ce286e-51b5-4d2c-a87f-018c34c1c879,03/24/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+fc19b943-a4f7-4f12-979d-1751afd18b57,03/24/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+e8e84d23-84ab-4c20-9b88-7172105592fa,03/24/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+dc3d4a13-7dd0-402e-a312-241a469966cb,03/24/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
+4ad06f66-4d65-4744-94d6-3c46cbbf6705,03/25/2027 12:30:00,Wholesale Inventories,LOW,USD
 a0401205-7e42-46be-a46a-0a0e3dcb8961,03/25/2027 15:00:00,Kansas Fed Manufacturing Activity,LOW,USD
 b2f2a222-a211-4236-a64b-9a5c1da63326,03/26/2027 12:30:00,Durable Goods Orders,MEDIUM,USD
 d3eeb98b-cf6a-44ec-a579-08d5cc7dc043,03/26/2027 12:30:00,Durable Goods Orders ex Defense,MEDIUM,USD
@@ -1109,7 +1188,10 @@ ec15c2db-04f6-42b9-9763-8b8615217cc1,03/26/2027 12:30:00,Nondefense Capital Good
 5aa5a8a4-c886-4de0-ba66-67bf2d686110,03/26/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD
 e912bc34-3677-4ffe-826f-8ac4c3e8ff9d,03/26/2027 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 981cdb86-fd7a-42d7-8c8b-9961d7aa5513,03/26/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
+1debb761-6b49-4bee-9b49-383117058937,03/30/2027 12:55:00,Redbook Index (YoY),LOW,USD
+d2bf4088-d141-472e-aed7-ad9169982aef,03/30/2027 13:00:00,Housing Price Index (MoM),MEDIUM,USD
 ac2fac3b-74e5-4413-b78c-3f2729b500af,03/30/2027 14:30:00,Dallas Fed Manufacturing Business Index,LOW,USD
+f3d67244-d635-4794-8e81-0958a481b130,03/31/2027 11:00:00,MBA Mortgage Applications,LOW,USD
 f044b281-297a-4e04-b5ef-dac2bf1f2fba,03/31/2027 12:15:00,ADP Employment Change,HIGH,USD
 207f0839-af17-479e-a226-f681b847cba5,03/31/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
 61a46175-dce3-4f09-bf73-d16cb54a60ba,03/31/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
@@ -1121,6 +1203,11 @@ efc4b126-64cd-43d2-b0a4-7d8a6369213e,03/31/2027 12:30:00,Gross Domestic Product 
 f10d22ad-c8d2-4d94-826f-1f88e2f4a83f,03/31/2027 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
 ca810598-e949-4441-b717-6907e2418384,03/31/2027 12:30:00,Personal Income (MoM),MEDIUM,USD
 9be85099-c310-4bf4-b367-cf82d190eb0e,03/31/2027 12:30:00,Personal Spending,MEDIUM,USD
+43f335c0-a53d-462c-9ce5-59cdb9a4c1c1,03/31/2027 13:45:00,Chicago PMI,MEDIUM,USD
+42de0c8b-f24b-4a0b-9d3f-c0262ee2d6b2,03/31/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+670e8353-2390-4536-85a0-f743bd379674,03/31/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+0b078a10-d063-41e4-90a7-1c245afdb58d,03/31/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+1c994f88-c98e-4db5-8853-eb1d5225d1e2,03/31/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 32d6f605-91ba-434c-8855-ff187fa5649b,04/01/2027 13:45:00,S&P Global Manufacturing PMI,LOW,USD
 b7aff3b3-cac4-4c5a-935f-3bfc0f9202fc,04/01/2027 14:00:00,ISM Manufacturing Employment Index,MEDIUM,USD
 8bd418c5-79f7-4da9-a5e1-ca9362f9e26e,04/01/2027 14:00:00,ISM Manufacturing New Orders Index,MEDIUM,USD
@@ -1142,13 +1229,21 @@ f78bbf4f-e74c-4d3e-b564-3d9cbfd9c2a8,04/05/2027 14:00:00,ISM Services Employment
 7e1a8959-166d-4199-b35c-d0af4e41e2b2,04/05/2027 14:00:00,ISM Services New Orders Index,MEDIUM,USD
 acab3eb6-00a2-4a16-99c1-7937b7e54953,04/05/2027 14:00:00,ISM Services PMI,HIGH,USD
 da8b63c4-e09f-4d09-8fb4-9b566f420ca0,04/05/2027 14:00:00,ISM Services Prices Paid,MEDIUM,USD
+fbd83197-2aa4-41ee-b00a-d539a8a21dd0,04/06/2027 12:55:00,Redbook Index (YoY),LOW,USD
 b9e44adf-712f-4db2-8e45-c46c1a8b79d7,04/06/2027 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
 e590217b-aec3-40b3-a05f-d745a5657d5f,04/06/2027 17:00:00,3-Year Note Auction,LOW,USD
+6fa8ea30-3fa0-4054-bfe5-9250088429a2,04/07/2027 11:00:00,MBA Mortgage Applications,LOW,USD
+db346a08-3158-4e12-9ca3-96bd4861e221,04/07/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+b13374b3-644f-480e-9009-cac09a0f0333,04/07/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+38cb9079-e021-4eb7-91c4-832b5bc8d83b,04/07/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+a7b5c6de-d1a3-4472-8cb6-7a8f190a2da2,04/07/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
+4ba04643-587c-4fce-890c-1817d4bea14c,04/07/2027 17:00:00,10-Year Note Auction,LOW,USD
 5ea7ebfd-1815-4c39-954b-5bb8586bf00c,04/07/2027 18:00:00,FOMC Minutes,HIGH,USD
 433fec71-33c4-4218-baf5-01f672c7ca87,04/09/2027 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
 6b31b4ef-e370-44c8-9b13-1ac003965289,04/09/2027 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
 063ac140-749b-4774-b1db-82c207098a3c,04/09/2027 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
 5b0578ce-b7e4-47c5-9b1e-107040a73286,04/09/2027 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD
+28c715de-4c84-4c71-b390-491addd0b0ef,04/09/2027 14:00:00,Wholesale Inventories,LOW,USD
 0b552089-d283-4faf-a509-17efaead523c,04/09/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD
 493296a0-9e7e-4c8d-bda9-551140d276ae,04/09/2027 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 253a0fd5-99f7-4959-81e4-6e36a5811599,04/09/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
@@ -1164,7 +1259,15 @@ d93b2f80-e951-4fc4-8a80-9e83c89bcfd9,04/13/2027 12:30:00,Producer Price Index (M
 038bb86b-b524-4091-b336-13c8f2576d63,04/13/2027 12:30:00,Producer Price Index (YoY),MEDIUM,USD
 2792f882-a7d1-4a14-9504-8750149fb322,04/13/2027 12:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
 3d221a7c-a46b-4854-8ca0-0bc0cabf2980,04/13/2027 12:30:00,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+7e2df4a4-f7af-4baf-becd-aa1fd1f82643,04/13/2027 12:55:00,Redbook Index (YoY),LOW,USD
+f877c0ce-e672-489e-8e6d-057718e5be52,04/13/2027 14:00:00,Existing Home Sales (MoM),LOW,USD
+3eb4dab2-65ec-47dd-931a-d979a927068c,04/13/2027 14:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
 948f2d41-7c49-49c0-aaf3-c8637ca0a593,04/13/2027 15:30:00,52-Week Bill Auction,LOW,USD
+bc3a453c-da2a-4a50-9af3-7eedfd01d665,04/14/2027 11:00:00,MBA Mortgage Applications,LOW,USD
+8d83910f-a30d-41b2-9275-c0e6388295cf,04/14/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+c522bedd-b879-4a0d-8c1a-328f5aefcaae,04/14/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+474f9769-55b7-4fae-8f39-67cc13e4d80b,04/14/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+ea18428a-5ac1-4cfe-bd71-3ec7649d3900,04/14/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 ae606730-267e-4c92-ba96-7fd291ab2dbc,04/15/2027 12:30:00,Export Price Index (MoM),LOW,USD
 0da1bcef-a8e7-49f0-8aea-c91a2b83199f,04/15/2027 12:30:00,Export Price Index (YoY),LOW,USD
 66a33210-56d7-4e69-b9f4-2ef29adb69ce,04/15/2027 12:30:00,Import Price Index (MoM),LOW,USD
@@ -1184,6 +1287,12 @@ bb761dc9-2e14-48d9-af83-bfd29119e859,04/16/2027 12:30:00,Retail Sales (MoM),HIGH
 60a05fa7-a108-470c-971c-40a4259dc399,04/16/2027 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 f15bd3ac-45b0-4539-99f2-c724685da9e1,04/16/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 b6648cff-6345-4be0-b755-42f2a948f905,04/20/2027 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+d94af5d2-ee98-43e9-b219-4521409f972a,04/20/2027 12:55:00,Redbook Index (YoY),LOW,USD
+e4d86bf8-edad-49d1-968e-0f003911dc13,04/21/2027 11:00:00,MBA Mortgage Applications,LOW,USD
+28215f32-9aa8-4c3e-a989-41074357ea9c,04/21/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+3200b819-b344-40c5-a821-771c82fdec09,04/21/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+4f1b253a-b94a-4f90-a04d-f9bd4fe850ce,04/21/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+8748dd2e-f1b0-4fae-b4f0-4f1779799033,04/21/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 37e8ff63-a567-41ef-95c3-e86f62a0c488,04/22/2027 15:00:00,Kansas Fed Manufacturing Activity,LOW,USD
 b8a1ccad-55c5-4148-a825-a891c132622f,04/23/2027 13:45:00,S&P Global Composite PMI,MEDIUM,USD
 5113123c-9807-4c0e-8fb9-f0011b77fedb,04/23/2027 13:45:00,S&P Global Manufacturing PMI,HIGH,USD
@@ -1201,7 +1310,14 @@ b29bf64d-8848-4996-9e70-a98ccace25c1,04/27/2027 12:30:00,Durable Goods Orders,ME
 53a86b6f-56be-40ab-a229-7625b0fd932d,04/27/2027 12:30:00,Durable Goods Orders ex Defense,MEDIUM,USD
 fbf32bc4-770a-4a9f-ad72-e271fd4dbccc,04/27/2027 12:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
 40857941-b227-4c27-b14a-331b23ef11ac,04/27/2027 12:30:00,Nondefense Capital Goods Orders ex Aircraft,MEDIUM,USD
+f4566b1d-1e55-4752-8881-4cb3642e89a8,04/27/2027 12:55:00,Redbook Index (YoY),LOW,USD
+d8aa6a83-3207-4c36-9ff9-1bbb89dd412b,04/27/2027 13:00:00,Housing Price Index (MoM),MEDIUM,USD
 d6acdeed-81ff-403a-961c-e944103907ec,04/27/2027 14:30:00,Dallas Fed Manufacturing Business Index,LOW,USD
+55dc9375-102c-46c6-b2c5-a4109078d2e8,04/28/2027 11:00:00,MBA Mortgage Applications,LOW,USD
+ebff971c-3cbf-4d4a-a4b5-c95ed55c4885,04/28/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+aeddb1a6-1ac6-47fd-b71b-7c4c83ec0bce,04/28/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+321296b4-ef14-41a8-ad3a-b309a8f6a760,04/28/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+ed28f0b1-7610-4c53-8cbc-38cef0dfba07,04/28/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 3e4b29b8-8594-4861-a788-0d1b20f1575d,04/28/2027 18:00:00,Fed Interest Rate Decision,HIGH,USD
 780b3dd5-ceab-41b5-9442-03ff494f887a,04/28/2027 18:00:00,Fed Monetary Policy Statement,HIGH,USD
 8795602f-8e03-44b5-9013-7725da977c37,04/28/2027 18:30:00,FOMC Press Conference,HIGH,USD
@@ -1215,6 +1331,8 @@ ae25b6f2-ffd5-4512-8a87-d534c1e44e30,04/29/2027 12:30:00,Personal Consumption Ex
 5111b832-a647-4b11-9289-c832acdfc64c,04/29/2027 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
 433ef9a8-6948-4139-9619-e8f968cb712f,04/29/2027 12:30:00,Personal Income (MoM),MEDIUM,USD
 2dca04d6-1ebe-4b96-8a65-b7337ed9b5f4,04/29/2027 12:30:00,Personal Spending,MEDIUM,USD
+a341c604-7590-4649-b015-7f6c963abf0e,04/29/2027 12:30:00,Wholesale Inventories,LOW,USD
+7786d9fe-074b-4898-a6e8-686dca22131b,04/30/2027 13:45:00,Chicago PMI,MEDIUM,USD
 9a411711-9907-48e1-af31-d53f9690db48,04/30/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD
 62a7b9c4-7536-4548-a04f-41fdf6d9c9e1,04/30/2027 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 da56ed9d-6912-422d-8d98-af9f3beda3d2,04/30/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
@@ -1223,13 +1341,19 @@ da56ed9d-6912-422d-8d98-af9f3beda3d2,04/30/2027 19:30:00,CFTC S&P 500 NC Net Pos
 c67807f2-f392-45b4-90e4-ee7d535b7079,05/03/2027 14:00:00,ISM Manufacturing New Orders Index,MEDIUM,USD
 d6f1595e-bb69-47ba-aeb7-11207fae1cb4,05/03/2027 14:00:00,ISM Manufacturing PMI,HIGH,USD
 d3d20d50-03a9-4544-bbf0-e5083d9390df,05/03/2027 14:00:00,ISM Manufacturing Prices Paid,MEDIUM,USD
+0d49d38b-8df8-4936-8ada-1820487b3eb6,05/04/2027 12:55:00,Redbook Index (YoY),LOW,USD
 2435c56b-47aa-41b3-b98c-50e56dec7a1c,05/04/2027 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
+dee3e7a6-fc08-42cd-a893-a5a15f2f6c79,05/05/2027 11:00:00,MBA Mortgage Applications,LOW,USD
 3a84f9ac-40ae-471a-8dba-89234a360389,05/05/2027 13:45:00,S&P Global Composite PMI,MEDIUM,USD
 fa41c884-f534-4269-9ec7-1be81507ae21,05/05/2027 13:45:00,S&P Global Services PMI,LOW,USD
 b3a7c9fd-a26f-4386-9073-d74f2f12b2f4,05/05/2027 14:00:00,ISM Services Employment Index,MEDIUM,USD
 37f0d3bc-e4c0-42a1-8288-5af4521b1c71,05/05/2027 14:00:00,ISM Services New Orders Index,MEDIUM,USD
 083c8c2f-54d8-4bcd-b72f-47045b2fa327,05/05/2027 14:00:00,ISM Services PMI,HIGH,USD
 f3de3735-039f-4d0f-8988-48ff9f86585e,05/05/2027 14:00:00,ISM Services Prices Paid,MEDIUM,USD
+c747b2a2-4470-4341-a0c8-6f0839df76b3,05/05/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+9dbe529d-936f-4514-b04d-7f509682e0c0,05/05/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+67605495-0f35-4e94-b95a-0d8d7817dfb7,05/05/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+1e803ec2-a67e-4f03-b1e2-82ceb7d48562,05/05/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 193a6d1f-31f8-48f6-b1e4-61ebe17ad178,05/07/2027 12:30:00,Average Hourly Earnings (MoM),HIGH,USD
 5e89bbb7-1341-4fb0-b84d-bbb050c695c8,05/07/2027 12:30:00,Average Hourly Earnings (YoY),HIGH,USD
 a86beea1-b24e-4872-a78b-78b7c43c5b3e,05/07/2027 12:30:00,Average Weekly Hours,LOW,USD
@@ -1241,15 +1365,23 @@ eebaffcc-f3b3-48c0-8cfc-edd13cc2fe37,05/07/2027 19:30:00,CFTC Gold NC Net Positi
 7fdff78c-0f6e-42c3-82bd-808e1d841a43,05/07/2027 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 0a7cff75-9191-4f71-9c85-f0bbf5828b21,05/07/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 9820377d-bb73-49a6-a4c9-f67a711300b8,05/11/2027 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+af0b4bea-34ed-499f-8113-8eee3c35ad7c,05/11/2027 12:55:00,Redbook Index (YoY),LOW,USD
 155633ab-cd01-49c9-9fdb-3dee93f6e936,05/11/2027 15:30:00,52-Week Bill Auction,LOW,USD
 4f8834fb-5cf4-415a-b0f2-febdc0032bb0,05/11/2027 17:00:00,3-Year Note Auction,LOW,USD
 8f632517-ac37-4a50-989b-d2b957c3e956,05/11/2027 18:00:00,Monthly Budget Statement,MEDIUM,USD
+c51bb9de-9f74-4f05-9558-890b800f651c,05/12/2027 11:00:00,MBA Mortgage Applications,LOW,USD
 77b3a67d-ff31-4971-9053-a98477aca20b,05/12/2027 12:30:00,Consumer Price Index (MoM),HIGH,USD
 06886cfa-15d9-412c-bc70-d897c6bf7f72,05/12/2027 12:30:00,Consumer Price Index (YoY),HIGH,USD
 7fcc9dfe-7228-437b-bd63-b2ac2e6ea7f1,05/12/2027 12:30:00,Consumer Price Index Core s.a,LOW,USD
 ea72cdc1-94b3-4e8a-a101-dbdeab817d42,05/12/2027 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
 19dd00b9-89a4-497d-8c74-30c75301c12c,05/12/2027 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
 0ffb518c-fc80-4c9f-88c0-2b8191500a47,05/12/2027 12:30:00,Consumer Price Index n.s.a (MoM),LOW,USD
+7e4896ed-e582-44ca-b372-32afd91b5a66,05/12/2027 14:00:00,Wholesale Inventories,LOW,USD
+7ef60e86-cbb1-49b4-89c6-4415890c0bde,05/12/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+7b1ed986-2876-4dce-87e7-60528770057c,05/12/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+deff8f17-aac0-4492-acc4-ece11720082e,05/12/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+7b33f864-bf48-4c6f-bb89-806b8635ee8e,05/12/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
+6a217521-ef5a-4e28-996b-ad432ebc750e,05/12/2027 17:00:00,10-Year Note Auction,LOW,USD
 7bb627fa-f2ca-46b5-bf09-9a09f62dcfa1,05/13/2027 12:30:00,Export Price Index (MoM),LOW,USD
 f660065b-e995-4930-9bee-ff48a8be3e05,05/13/2027 12:30:00,Export Price Index (YoY),LOW,USD
 73645cd7-4b2f-43c6-bc52-cb0cb32b95a2,05/13/2027 12:30:00,Import Price Index (MoM),LOW,USD
@@ -1258,6 +1390,8 @@ afdfb8ca-bb5b-4101-a8d9-aa351414a94b,05/13/2027 12:30:00,Producer Price Index (M
 657efb84-a864-4f7f-9f9c-61ccb1f60696,05/13/2027 12:30:00,Producer Price Index (YoY),MEDIUM,USD
 da57638e-a7c9-4c88-bbab-b2003055498b,05/13/2027 12:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
 eef637b9-b302-445a-9758-d9dcd8d5d64b,05/13/2027 12:30:00,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+50b287f9-f856-481e-9618-eefdee51a69a,05/13/2027 14:00:00,Existing Home Sales (MoM),LOW,USD
+5fa1452f-ecf8-47da-9e2d-0441712efd7f,05/13/2027 14:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
 8ae62326-1353-4dda-86d4-cce35908a2d9,05/14/2027 12:30:00,NY Empire State Manufacturing Index,MEDIUM,USD
 ecd37a24-8365-40c4-a25a-e8aded07e3cf,05/14/2027 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
 3a72b762-4061-4cd8-a574-edca207fc8a2,05/14/2027 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
@@ -1277,6 +1411,12 @@ ed47ad2d-c45e-41d1-b886-706b0ff088a4,05/17/2027 12:30:00,Retail Sales ex Autos (
 70b525fb-b88e-438b-9677-d143507e10ee,05/18/2027 12:30:00,Building Permits Change,LOW,USD
 1c9a569d-3fa1-4a06-a414-44e5f4fb0195,05/18/2027 12:30:00,Housing Starts (MoM),MEDIUM,USD
 7cc15d7e-f2c9-40fd-933c-84b9fc524293,05/18/2027 12:30:00,Housing Starts Change,LOW,USD
+acd3e6eb-34c1-44ad-9584-fc10a9285351,05/18/2027 12:55:00,Redbook Index (YoY),LOW,USD
+0ed7b54e-f6f5-425d-a331-1c1d2bbb8bda,05/19/2027 11:00:00,MBA Mortgage Applications,LOW,USD
+3634b6c5-5ca9-449f-8c73-11e895768010,05/19/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+10e18675-796a-4f78-896b-cb63ff226380,05/19/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+1778924d-4cdc-49a5-a333-2d0badd8d91e,05/19/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+eaed7dc6-cf70-4c58-80d5-307998ae5abb,05/19/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 abfc9bcd-5f81-48ea-bd73-05c91a51c7ea,05/19/2027 18:00:00,FOMC Minutes,HIGH,USD
 e64e1635-8a83-4230-8665-2f51e2c9278e,05/20/2027 15:00:00,Kansas Fed Manufacturing Activity,LOW,USD
 519c10c9-dc2e-46c9-9f4f-92b472fc9c48,05/21/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD
@@ -1287,10 +1427,17 @@ bfe635eb-fb01-4a29-ba56-b75656905ac4,05/21/2027 19:30:00,CFTC S&P 500 NC Net Pos
 b15f1016-5529-4fc7-af35-9e5615925085,05/24/2027 13:45:00,S&P Global Services PMI,HIGH,USD
 9ab59d35-bfda-4e7d-8725-c87ca09b1d2e,05/24/2027 17:00:00,2-Year Note Auction,LOW,USD
 94f8ef67-48ff-4e7f-8609-6ef75e4b3654,05/25/2027 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+0e080bb7-d496-4d01-bf97-585ef46b9066,05/25/2027 12:55:00,Redbook Index (YoY),LOW,USD
+1682ee94-6f92-44db-80e1-223218073b28,05/25/2027 13:00:00,Housing Price Index (MoM),MEDIUM,USD
+8dc6b56d-d48f-4f9f-afa2-44aff000f276,05/26/2027 11:00:00,MBA Mortgage Applications,LOW,USD
 acd3174b-cde1-45e4-8a55-85e369d53480,05/26/2027 12:30:00,Durable Goods Orders,MEDIUM,USD
 f1b23400-1d4e-4056-bc6d-c1b39c858c5b,05/26/2027 12:30:00,Durable Goods Orders ex Defense,MEDIUM,USD
 e12c7fb5-009f-4406-8113-fa674a9be7b9,05/26/2027 12:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
 5336a45f-b40f-4de7-a33d-b59f275b23c7,05/26/2027 12:30:00,Nondefense Capital Goods Orders ex Aircraft,MEDIUM,USD
+13e94d73-c2b3-4898-a803-a6099db7b3a3,05/26/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+d74a3845-9db2-49f1-8490-674bacd87d71,05/26/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+f408ad38-7112-4993-a497-1b9d2ab8fd0b,05/26/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+d8f878cc-fd72-40fa-944a-ef0f0c2dda2b,05/26/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 c8f7c677-b706-49c7-b647-07f11320c50d,05/27/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
 e46cb96b-c343-4dc0-a398-b60381dda74d,05/27/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
 a1bfc750-728b-4976-a700-fd5a86a4df98,05/27/2027 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
@@ -1301,6 +1448,7 @@ dbf9b049-dac2-4586-a68f-e43db9e3f645,05/27/2027 12:30:00,Personal Consumption Ex
 81388b39-4393-4ee8-bd14-2e73709f972c,05/27/2027 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
 78b724e8-6e58-44df-8401-89dd8bab2c80,05/27/2027 12:30:00,Personal Income (MoM),MEDIUM,USD
 b3641a90-dbb6-4374-99ec-f802ac25cac4,05/27/2027 12:30:00,Personal Spending,MEDIUM,USD
+6bbc4105-783f-40b8-af63-af81da0383f2,05/27/2027 12:30:00,Wholesale Inventories,LOW,USD
 0a4b9ef5-46f9-4020-9ebb-77cb6dacdb3e,05/28/2027 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
 c8bd4c80-4fb1-4393-8931-543eed70993f,05/28/2027 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD
 65eaa9ad-b636-43e8-84c3-a14c3430c1ec,05/28/2027 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
@@ -1308,13 +1456,20 @@ c8bd4c80-4fb1-4393-8931-543eed70993f,05/28/2027 14:00:00,Michigan Consumer Senti
 3572fa90-ae7c-4ea7-bfac-9e96373f6012,05/28/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD
 b6862334-1f38-4747-b03f-a6235162dcfa,05/28/2027 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 24ecc0e5-1a7f-4dcb-93ce-9a6b10c25b0e,05/28/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
+f8615131-77dc-4131-a43a-b8cac8bdf850,05/31/2027 13:45:00,Chicago PMI,MEDIUM,USD
 7221384c-af5c-4bbc-83df-45ae6a6c3528,05/31/2027 14:30:00,Dallas Fed Manufacturing Business Index,LOW,USD
+d0bb5847-9101-499e-8f27-4e96a545eb08,06/01/2027 12:55:00,Redbook Index (YoY),LOW,USD
 92294871-b9d2-464f-bf95-fb2107268d07,06/01/2027 13:45:00,S&P Global Manufacturing PMI,LOW,USD
 a1772b8c-dae8-4ce8-8c2a-65e8c6247294,06/01/2027 14:00:00,ISM Manufacturing Employment Index,MEDIUM,USD
 b413927f-1026-45b5-a225-f464b156b283,06/01/2027 14:00:00,ISM Manufacturing New Orders Index,MEDIUM,USD
 4461b3b5-8d2e-49a2-92ae-7820276d617e,06/01/2027 14:00:00,ISM Manufacturing PMI,HIGH,USD
 f5325a4f-dc21-4a20-9236-2864b260b351,06/01/2027 14:00:00,ISM Manufacturing Prices Paid,MEDIUM,USD
 b9c11535-f2d4-480d-a9bf-3b793ec891f2,06/01/2027 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
+959a74a6-513e-425c-9776-def343848d31,06/02/2027 11:00:00,MBA Mortgage Applications,LOW,USD
+2fc5f15a-8e15-4b5b-95c2-e94c964cdd63,06/02/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+6af148ca-6471-4a02-aeca-fc1504787228,06/02/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+72e4e230-dc7f-4528-a60f-17fce116a969,06/02/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+00936fe6-a730-4887-8376-15551809f7bb,06/02/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 a98b8496-3c20-4baf-a582-2c339702337b,06/03/2027 13:45:00,S&P Global Composite PMI,MEDIUM,USD
 6f215b7a-5de4-408c-b937-69717a04c8c9,06/03/2027 13:45:00,S&P Global Services PMI,LOW,USD
 96feb9c1-1c01-4337-9cab-bc259e583d63,06/03/2027 14:00:00,ISM Services Employment Index,MEDIUM,USD
@@ -1332,8 +1487,15 @@ fa41a75e-4182-4cd0-b306-fb47bb99841f,06/04/2027 19:30:00,CFTC Gold NC Net Positi
 f942f5bb-f154-4586-b689-644d8ce970df,06/04/2027 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 f953160b-14b4-4883-abdc-f679e56027d0,06/04/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 76d52f16-2435-4f62-a212-cabb766de5cc,06/08/2027 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+5207158f-7b00-42ab-9883-e6fedee134f3,06/08/2027 12:55:00,Redbook Index (YoY),LOW,USD
 56ca3fb5-5e94-4bc6-8b0f-ce0c242ac97c,06/08/2027 15:30:00,52-Week Bill Auction,LOW,USD
 1cc7ad25-b7e5-4d78-852d-c157b88b291a,06/08/2027 17:00:00,3-Year Note Auction,LOW,USD
+95460c28-7728-466c-b8fd-bf0b9b52d3e2,06/09/2027 11:00:00,MBA Mortgage Applications,LOW,USD
+1b7e8f09-f19b-4136-a06b-936e1a264f71,06/09/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+9ffa01a9-57d2-462b-a10b-cbe47e0c4949,06/09/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+936fbca6-60a2-487c-869d-af578f9a29e3,06/09/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+22e37979-f6dd-412b-90cf-76f2e1d45b74,06/09/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
+d3fa9d1f-f91d-4b3f-ac8b-45d5434a92e6,06/09/2027 17:00:00,10-Year Note Auction,LOW,USD
 65ce17da-e88f-4faa-8836-4f8491261b8c,06/09/2027 18:00:00,Fed Interest Rate Decision,HIGH,USD
 a3b29192-61c6-4c6b-b4f4-c7629010e3cf,06/09/2027 18:00:00,Fed Monetary Policy Statement,HIGH,USD
 48df31f8-5892-4c04-96a7-e506ed1c761b,06/09/2027 18:00:00,FOMC Economic Projections,HIGH,USD
@@ -1348,6 +1510,9 @@ b1cbbac1-b911-486b-a035-c92d365a90e5,06/10/2027 12:30:00,Consumer Price Index Co
 c5344bbe-5032-4aa8-85cd-75a09476bb22,06/10/2027 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
 818c00d5-f44b-4f57-8925-ad3ed6a315fe,06/10/2027 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
 c241de09-b40c-4385-bcd8-cd9a768f734c,06/10/2027 12:30:00,Consumer Price Index n.s.a (MoM),LOW,USD
+c668bb4f-d454-4838-94c3-f9f514b681cc,06/10/2027 14:00:00,Existing Home Sales (MoM),LOW,USD
+9082ded3-06d2-4ba4-8362-d21e1eaf16dc,06/10/2027 14:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
+a10058a6-8517-4529-9ef6-8cfd0f476a21,06/10/2027 14:00:00,Wholesale Inventories,LOW,USD
 aff136d4-e99a-477e-ac8d-c0321de14745,06/10/2027 18:00:00,Monthly Budget Statement,MEDIUM,USD
 2b651b31-d340-4d49-8819-de784690a81c,06/11/2027 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
 0505805d-bd9a-446e-b219-6ccbbab8a284,06/11/2027 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
@@ -1361,6 +1526,8 @@ c7368ec7-46fb-4b7a-a783-1f0fb3471a95,06/11/2027 19:30:00,CFTC Oil NC Net Positio
 750387d7-c8d3-4491-abb4-7004ae2d154a,06/15/2027 12:30:00,Producer Price Index (YoY),MEDIUM,USD
 3af1a0c0-6aa9-4271-a409-a47679ce4b18,06/15/2027 12:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
 414590b5-a9c2-4a5e-8c62-8782e13ef9fd,06/15/2027 12:30:00,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+6765ed69-a685-4ef2-b21c-62495ae3845a,06/15/2027 12:55:00,Redbook Index (YoY),LOW,USD
+edeb3d53-f5b8-4bb3-a0cd-896c0de992f4,06/16/2027 11:00:00,MBA Mortgage Applications,LOW,USD
 65ac98c0-fca0-4515-9474-3599901edd82,06/16/2027 12:30:00,Export Price Index (MoM),LOW,USD
 44f376c5-1054-4af2-a7d3-a02b2122f86e,06/16/2027 12:30:00,Export Price Index (YoY),LOW,USD
 c23d7b6f-9699-4e6d-9006-f81042bce2ce,06/16/2027 12:30:00,Import Price Index (MoM),LOW,USD
@@ -1372,6 +1539,10 @@ b3938431-9727-4c9b-a238-0c1238e09116,06/16/2027 12:30:00,Retail Sales Control Gr
 12de4eb0-7063-47eb-a64b-c673fe6219c4,06/16/2027 12:30:00,Retail Sales ex Autos (MoM),MEDIUM,USD
 b3177b9c-6429-4620-b2d6-7018a3326df8,06/16/2027 13:15:00,Capacity Utilization,LOW,USD
 99ea9c72-1894-4cd0-9086-5ff2acce0d69,06/16/2027 13:15:00,Industrial Production (MoM),MEDIUM,USD
+a946a862-e11e-4d9e-a8e9-dfd3d1ad11a2,06/16/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+bc27423f-cc57-4cd8-b68b-748bfb50804b,06/16/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+9f06cdc5-36e2-442a-9e1e-cf88320b6033,06/16/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+e54cd1eb-1111-4647-a61a-2bee4877c784,06/16/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 c4ba433d-d11c-44df-8ccb-9da3152038b6,06/17/2027 12:30:00,Building Permits (MoM),MEDIUM,USD
 4854f678-0a66-4e1c-b047-caa2680ca3af,06/17/2027 12:30:00,Building Permits Change,LOW,USD
 e050194a-b9fc-4c02-af98-65ef93f48790,06/17/2027 12:30:00,Housing Starts (MoM),MEDIUM,USD
@@ -1380,9 +1551,15 @@ e050194a-b9fc-4c02-af98-65ef93f48790,06/17/2027 12:30:00,Housing Starts (MoM),ME
 c10f2c77-73dd-45c7-95ef-2604efa2bc90,06/18/2027 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 8da0bb13-adee-416a-b0cb-ab751515eaf1,06/18/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 73754fb6-2c6e-4fe4-854c-7209eef8e9d5,06/22/2027 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+b6c6045f-a7c8-481d-8a0d-1504f918a546,06/22/2027 12:55:00,Redbook Index (YoY),LOW,USD
+1e7c882e-11ee-4e80-a469-e07a6e658be9,06/23/2027 11:00:00,MBA Mortgage Applications,LOW,USD
 999bf7ba-48c8-4eb9-b632-d08caf98a13f,06/23/2027 13:45:00,S&P Global Composite PMI,MEDIUM,USD
 7b197ef8-8bf7-4318-a519-94d09c5c84e7,06/23/2027 13:45:00,S&P Global Manufacturing PMI,HIGH,USD
 1a7fc462-a7db-4485-b826-f3bf82e0bd8d,06/23/2027 13:45:00,S&P Global Services PMI,HIGH,USD
+856d5c91-2445-4694-8e06-759169d4f568,06/23/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+f2207a11-23ad-44ac-b0d1-9cc64ec32c81,06/23/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+bc281b6f-d4ff-478f-a8a2-27312b8ba905,06/23/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+d1151a56-df65-419a-939f-c4e0af109413,06/23/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 12a575fd-f12f-40de-bd74-ae4d278be2b1,06/24/2027 15:00:00,Kansas Fed Manufacturing Activity,LOW,USD
 c086563e-a819-4cd0-9283-9573c64991b3,06/25/2027 12:30:00,Durable Goods Orders,MEDIUM,USD
 58ab9910-cd3d-43fa-9f32-9bba8d2864a6,06/25/2027 12:30:00,Durable Goods Orders ex Defense,MEDIUM,USD
@@ -1397,6 +1574,9 @@ be5003d7-c538-46d7-8a29-7a890cd63db4,06/25/2027 19:30:00,CFTC Gold NC Net Positi
 125b6cd4-3408-4e84-88d2-5307c9cb5349,06/25/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 2ba50f15-148a-46a1-bb00-c2142a905e1d,06/28/2027 17:00:00,2-Year Note Auction,LOW,USD
 df8c689e-0d56-4d95-8582-f6a77e741047,06/29/2027 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+ac663c0a-4c8c-4bb5-8645-2af49dfed6b2,06/29/2027 12:55:00,Redbook Index (YoY),LOW,USD
+64ac98ea-3bd6-46d0-b25e-70a2218f2020,06/29/2027 13:00:00,Housing Price Index (MoM),MEDIUM,USD
+2e8351c3-df09-4db9-af0d-77abd20ae6a7,06/30/2027 11:00:00,MBA Mortgage Applications,LOW,USD
 c7278a9b-197d-45e6-b347-1eb4ee45aa68,06/30/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
 fa73477a-da34-47cb-9054-6d270b674c80,06/30/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
 907a94ff-3fc8-4065-a189-899a11ba87ba,06/30/2027 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
@@ -1407,7 +1587,13 @@ d632493d-0343-4eec-a92b-2f61b50013cb,06/30/2027 12:30:00,Gross Domestic Product 
 98966f49-3e89-4978-834f-575b1991a021,06/30/2027 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
 c4278eaf-82d2-4256-b922-34bcfcbf0e36,06/30/2027 12:30:00,Personal Income (MoM),MEDIUM,USD
 55f58a37-1be0-4f4d-8c44-d4a5a85f8e74,06/30/2027 12:30:00,Personal Spending,MEDIUM,USD
+99983fd7-bb67-44b3-a278-bbaafcf3dc89,06/30/2027 12:30:00,Wholesale Inventories,LOW,USD
+918a5bfe-692b-4ffb-963d-df266d74a8c2,06/30/2027 13:45:00,Chicago PMI,MEDIUM,USD
 a7cbd078-27e7-491e-b9dd-56ff818e79e9,06/30/2027 14:30:00,Dallas Fed Manufacturing Business Index,LOW,USD
+6ead3100-25d5-45dd-81b1-4a7846f63633,06/30/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+1b445b99-9fdd-4a6d-8658-076cb58fb9ae,06/30/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+3dda8091-ab4a-4874-ac60-38bceb4aa960,06/30/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+f52e3228-de2f-4bc3-b048-5af04cb1a331,06/30/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 04e5a039-b8a7-4fdf-bca7-29148583cf22,07/01/2027 13:45:00,S&P Global Manufacturing PMI,LOW,USD
 708434fb-0ce7-4484-930e-0378090eac48,07/01/2027 14:00:00,ISM Manufacturing Employment Index,MEDIUM,USD
 208a7b62-64eb-46fa-8739-d5419b020a99,07/01/2027 14:00:00,ISM Manufacturing New Orders Index,MEDIUM,USD
@@ -1430,10 +1616,18 @@ bdaed9ba-bb4e-46da-ade4-7405d7ca0355,07/05/2027 14:00:00,ISM Services New Orders
 56b81ba8-1a81-4abe-bd1f-0329dca6531d,07/05/2027 14:00:00,ISM Services PMI,HIGH,USD
 cd182f72-03d9-4e99-8a96-86f8865e4127,07/05/2027 14:00:00,ISM Services Prices Paid,MEDIUM,USD
 ff14eac0-c053-4fd9-a5e1-9bd3b8a3d360,07/06/2027 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+28346fb4-48ce-4553-9db4-73936e7c6f87,07/06/2027 12:55:00,Redbook Index (YoY),LOW,USD
 c916aa07-b397-4d6a-8823-c786529d8188,07/06/2027 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
 5f328a2e-a00b-4352-aa44-c7508a89ceb6,07/06/2027 15:30:00,52-Week Bill Auction,LOW,USD
 9e814120-59fb-4061-b2c1-3289b8857a23,07/06/2027 17:00:00,3-Year Note Auction,LOW,USD
+c9117c74-892a-4d87-8054-509153f5dd19,07/07/2027 11:00:00,MBA Mortgage Applications,LOW,USD
+da7666ec-3d72-49ac-acf2-b309d0362325,07/07/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+46790615-5ced-4e58-abab-87286b936608,07/07/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+b1f8d560-5462-46e0-a9ed-94ef3b04acec,07/07/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+74ea746d-6955-44e8-a2b1-ef2826629ac7,07/07/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
+77dc41e5-78b1-42fd-9ef6-0f29e52f5e39,07/07/2027 17:00:00,10-Year Note Auction,LOW,USD
 83db9250-cba1-43b0-acd0-ada638cc55c0,07/07/2027 18:00:00,FOMC Minutes,HIGH,USD
+10f48bce-725f-4d2c-81e4-ef0730afbc37,07/08/2027 14:00:00,Wholesale Inventories,LOW,USD
 98e017f4-16d2-48f1-91ce-fc94994c0585,07/09/2027 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
 48147bdf-d397-441d-92aa-c15856c91419,07/09/2027 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
 186ee62e-c398-4e83-954d-f8bd3d08a0e7,07/09/2027 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
@@ -1449,10 +1643,18 @@ f60295ae-905c-4090-a718-ffd64aaff13f,07/13/2027 12:30:00,Consumer Price Index (Y
 74e07242-a78e-466d-8f31-70bc1cae9da8,07/13/2027 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
 095f13a9-5b27-408a-ad61-dd0d7375746c,07/13/2027 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
 b49a35a6-4b64-4d21-9849-d4eea8966f81,07/13/2027 12:30:00,Consumer Price Index n.s.a (MoM),LOW,USD
+d4740a5c-0f44-4fc6-a590-a090366a0e5c,07/13/2027 12:55:00,Redbook Index (YoY),LOW,USD
+2494618d-9646-41b7-a847-f6d545980660,07/13/2027 14:00:00,Existing Home Sales (MoM),LOW,USD
+9f8d9497-e9b3-4b05-9d8c-0b211ddcd487,07/13/2027 14:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
+2c556363-dbdd-4724-9d03-2971a8bc3fda,07/14/2027 11:00:00,MBA Mortgage Applications,LOW,USD
 3135c6fc-577f-44ce-bf10-e408fc2167f7,07/14/2027 12:30:00,Producer Price Index (MoM),MEDIUM,USD
 d45e9919-3d2b-4456-962a-923f6c6eecb4,07/14/2027 12:30:00,Producer Price Index (YoY),MEDIUM,USD
 e77ebe29-e439-41af-b3eb-e12be774b920,07/14/2027 12:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
 eef1c859-d484-484c-8f0f-0bcf322aa780,07/14/2027 12:30:00,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+fad16650-7663-4c41-a5f8-50f83732f523,07/14/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+8b25feb2-2b1a-43cf-b66e-48a948b6ee8d,07/14/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+402347b6-559f-4f5b-bd9e-84ad1d97da76,07/14/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+2d19ddbd-13b4-4c3a-8d85-5115f8aaa79b,07/14/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 f5898b89-691a-4aa2-ac21-2ac6acf81066,07/15/2027 12:30:00,Export Price Index (MoM),LOW,USD
 6b020969-0a3a-488b-b019-bd89efe43931,07/15/2027 12:30:00,Export Price Index (YoY),LOW,USD
 2134cfa4-bf92-4146-8500-c59d433becea,07/15/2027 12:30:00,Import Price Index (MoM),LOW,USD
@@ -1472,6 +1674,12 @@ b053579a-d98e-46c7-89b9-2b22bbf29f22,07/16/2027 13:15:00,Industrial Production (
 fa5a4f80-430d-4b1b-b8d1-8247d10433c5,07/16/2027 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 d18ca2d8-4890-4ea5-a309-cff15ee7954f,07/16/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 97761235-1a7b-419b-b051-b968527d0722,07/20/2027 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+c961c8fb-f992-4a8d-a456-20bb3de3ddb1,07/20/2027 12:55:00,Redbook Index (YoY),LOW,USD
+34552553-13df-44f9-aea3-45b54ca6db86,07/21/2027 11:00:00,MBA Mortgage Applications,LOW,USD
+c84a0ec8-154e-4cd5-b043-025ac773f789,07/21/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+e9e3459d-b81f-486a-a7e9-3c00b0221b85,07/21/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+588f27dc-8dd9-4fda-96e7-e922209e8dee,07/21/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+cfca5270-1c13-42d9-9609-dbe684c753b9,07/21/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 811eef4e-4c24-4948-a054-4d3df339c74c,07/22/2027 15:00:00,Kansas Fed Manufacturing Activity,LOW,USD
 13f270ca-1ddb-4fa3-8ca4-530df0a21ebf,07/23/2027 13:45:00,S&P Global Composite PMI,MEDIUM,USD
 8e71cf8a-fa25-47ee-9f24-2b8562d10c9c,07/23/2027 13:45:00,S&P Global Manufacturing PMI,HIGH,USD
@@ -1489,7 +1697,15 @@ d2b40f75-c71e-4760-96e2-506f0f15c96c,07/27/2027 12:30:00,Durable Goods Orders,ME
 a9c321d4-d1c4-47f4-9e7f-564c39eac1ca,07/27/2027 12:30:00,Durable Goods Orders ex Defense,MEDIUM,USD
 d599edb4-ae6a-47a1-a4af-e31ef39a5119,07/27/2027 12:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
 ee0eec33-5233-443d-bae8-692073121a75,07/27/2027 12:30:00,Nondefense Capital Goods Orders ex Aircraft,MEDIUM,USD
+6970708e-b392-4fa5-b591-8a0d513385fc,07/27/2027 12:55:00,Redbook Index (YoY),LOW,USD
+7c55e1a2-8772-4278-a099-6b0bb6e3ef4e,07/27/2027 13:00:00,Housing Price Index (MoM),MEDIUM,USD
 842af927-337a-482b-841c-35534581e252,07/27/2027 14:30:00,Dallas Fed Manufacturing Business Index,LOW,USD
+ce37141f-6c49-4070-b3bd-e489a5b5386f,07/28/2027 11:00:00,MBA Mortgage Applications,LOW,USD
+7acfe277-d304-474f-b5fd-bbcaf9365c97,07/28/2027 12:30:00,Wholesale Inventories,LOW,USD
+0888351c-b123-4591-9eac-fbf979a46f28,07/28/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+6f4b185f-3fc5-4c3b-b812-388d1911470d,07/28/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+267f4371-bea4-46aa-add7-fb21a7e55257,07/28/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+bc740b86-f5c9-4091-8a08-cc5aa101232f,07/28/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 8edd094f-2224-4d5e-801e-58ac69134937,07/28/2027 18:00:00,Fed Interest Rate Decision,HIGH,USD
 7da668eb-d707-4c18-b3dd-a65b93f97ac5,07/28/2027 18:00:00,Fed Monetary Policy Statement,HIGH,USD
 5d5b6bee-152a-438c-b1a1-bfe9e8ed7df6,07/28/2027 18:30:00,FOMC Press Conference,HIGH,USD
@@ -1503,6 +1719,7 @@ b5221d81-4f7b-475c-8277-d78a45d03fa1,07/29/2027 12:30:00,Personal Consumption Ex
 bb556d09-a045-469c-8f9f-1a0fe730be6a,07/29/2027 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
 2ac9487f-e5eb-459e-9b68-82c6b2d8a8c0,07/29/2027 12:30:00,Personal Income (MoM),MEDIUM,USD
 b20a8afb-b084-412c-bf49-a340261a4004,07/29/2027 12:30:00,Personal Spending,MEDIUM,USD
+0cc085b0-cba4-4383-906d-40f4d2842e03,07/30/2027 13:45:00,Chicago PMI,MEDIUM,USD
 4a88d28b-8d24-4cb6-859b-6f8691991819,07/30/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD
 c7d52f72-647f-4c12-a8a4-9165b310a575,07/30/2027 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 5553d68b-146b-4069-be18-8c7f00ac2095,07/30/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
@@ -1510,12 +1727,18 @@ c7d52f72-647f-4c12-a8a4-9165b310a575,07/30/2027 19:30:00,CFTC Oil NC Net Positio
 7e8fbbe4-e4ce-464c-8773-5f5890eea301,08/02/2027 14:00:00,ISM Manufacturing New Orders Index,MEDIUM,USD
 a895605b-b467-46bd-89d2-34953249b7bd,08/02/2027 14:00:00,ISM Manufacturing PMI,HIGH,USD
 cacfbbfd-20a1-49af-b63d-91a6514cd72d,08/02/2027 14:00:00,ISM Manufacturing Prices Paid,MEDIUM,USD
+af2399a1-1dd5-49a5-b886-894537675607,08/03/2027 12:55:00,Redbook Index (YoY),LOW,USD
 a0a7c8a6-320c-4b53-859b-e8cdab2c90ba,08/03/2027 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
 461bbdef-982f-480e-8419-88d84a3659b7,08/03/2027 15:30:00,52-Week Bill Auction,LOW,USD
+739853f2-1fb6-4610-bffe-3dd7c5ba0790,08/04/2027 11:00:00,MBA Mortgage Applications,LOW,USD
 c4650c1b-bdc5-4cb6-86fe-a3a6a6a7ffb4,08/04/2027 14:00:00,ISM Services Employment Index,MEDIUM,USD
 a6faea73-9288-4739-b424-b9bfb854f3da,08/04/2027 14:00:00,ISM Services New Orders Index,MEDIUM,USD
 743a621b-963a-4378-98c4-75d3f2af6e28,08/04/2027 14:00:00,ISM Services PMI,HIGH,USD
 b549061b-5fb1-4add-8a85-c97da0120ad5,08/04/2027 14:00:00,ISM Services Prices Paid,MEDIUM,USD
+1e0a21b7-809e-4ca7-9d32-652e899a3978,08/04/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+2e921a14-6c16-4161-a655-4af4944b7f66,08/04/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+e1724989-cc5c-4348-9fa5-f9f676709aab,08/04/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+a5e6e300-5547-4d66-82a4-1b580f59399e,08/04/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 662312c4-8d50-4ae7-80eb-c4bbfb3a80d2,08/06/2027 12:30:00,Average Hourly Earnings (MoM),HIGH,USD
 7cde8994-922a-49f4-bfc2-74fca6200060,08/06/2027 12:30:00,Average Hourly Earnings (YoY),HIGH,USD
 10ce829c-3bfa-44d3-b565-bc5b8a978620,08/06/2027 12:30:00,Average Weekly Hours,LOW,USD
@@ -1527,7 +1750,14 @@ dfce3581-e3e6-4157-a78e-c1bd82712300,08/06/2027 19:30:00,CFTC Gold NC Net Positi
 f31f5c5d-ac08-42d2-80ec-574b03280d2e,08/06/2027 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 9018fecd-de79-4b55-9bce-9760eefefab0,08/06/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 d7e2ccd2-39e7-46bd-a547-29eefab62d3c,08/10/2027 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+558f5cd2-c960-4b3a-ba71-abd176fcefd2,08/10/2027 12:55:00,Redbook Index (YoY),LOW,USD
 654e57b9-11ab-4555-89f2-341eae484237,08/10/2027 17:00:00,3-Year Note Auction,LOW,USD
+b4f6a4ac-1aae-44e4-acb7-f3c9aa96e85f,08/11/2027 11:00:00,MBA Mortgage Applications,LOW,USD
+2f4d1191-86ce-433e-b4ff-7f7d1037a8fd,08/11/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+c8b3adb9-4adf-4634-a530-96ea9b3b6429,08/11/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+a31077bf-2b84-437c-9c8a-8c4e12000e30,08/11/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+42b7dbc1-b213-413a-ad5d-4cb3e19c3df2,08/11/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
+89312809-27b0-425e-a197-c28f7be215a5,08/11/2027 17:00:00,10-Year Note Auction,LOW,USD
 8a7741ef-8d6c-407d-b2a3-f0c601db9ff9,08/11/2027 18:00:00,Monthly Budget Statement,MEDIUM,USD
 e122798a-665b-4ce0-99fd-fad19d3d335f,08/12/2027 12:30:00,Consumer Price Index (MoM),HIGH,USD
 3af642c1-5743-4989-9118-b48730459eff,08/12/2027 12:30:00,Consumer Price Index (YoY),HIGH,USD
@@ -1535,6 +1765,9 @@ e122798a-665b-4ce0-99fd-fad19d3d335f,08/12/2027 12:30:00,Consumer Price Index (M
 933069e4-e41e-4f35-930e-fd146e639276,08/12/2027 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
 7f6fba65-e796-47c3-9c33-2eade3d8069a,08/12/2027 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
 b8dc0bdd-129f-4de4-9f9b-34e5068ab43f,08/12/2027 12:30:00,Consumer Price Index n.s.a (MoM),LOW,USD
+a3d193a9-0792-417f-8716-66fc836b16fa,08/12/2027 14:00:00,Existing Home Sales (MoM),LOW,USD
+c452af6f-2501-40e9-a0fb-baa9a7334358,08/12/2027 14:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
+a1d254e2-f1c2-4561-b322-55090ab023d3,08/12/2027 14:00:00,Wholesale Inventories,LOW,USD
 24eb4c65-9325-4e41-98e1-7d0d86ecfac3,08/13/2027 12:30:00,Export Price Index (MoM),LOW,USD
 9094af66-aee1-4fa1-b1b0-d4370aa7c9be,08/13/2027 12:30:00,Export Price Index (YoY),LOW,USD
 393b784c-f6ff-407c-a1fb-0df14ae29942,08/13/2027 12:30:00,Import Price Index (MoM),LOW,USD
@@ -1560,18 +1793,35 @@ f5000fdd-e2e4-41da-8bcb-97eef9b3cf31,08/16/2027 12:30:00,NY Empire State Manufac
 4f5fdd8d-d94a-467a-986f-599b615e519d,08/17/2027 12:30:00,Retail Sales (YoY),LOW,USD
 ee583ee9-0580-4389-87bd-aa182005720c,08/17/2027 12:30:00,Retail Sales Control Group,HIGH,USD
 47292989-68e3-49d4-94b2-c08bafcab1db,08/17/2027 12:30:00,Retail Sales ex Autos (MoM),MEDIUM,USD
+6481a5d3-8efd-4b5c-b533-6c7af1d35ad8,08/17/2027 12:55:00,Redbook Index (YoY),LOW,USD
 fb55da12-9cf7-447e-8267-64babff4dd06,08/17/2027 13:15:00,Capacity Utilization,LOW,USD
 01887d8c-9454-40ef-9cc6-281e2c31cf59,08/17/2027 13:15:00,Industrial Production (MoM),MEDIUM,USD
+9fd65d45-a048-4b41-bae4-7bd58f4efbc6,08/18/2027 11:00:00,MBA Mortgage Applications,LOW,USD
+62bd8541-c8ab-4ef4-862a-06b300568fd3,08/18/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+043dd174-9283-49db-b51e-068b442eee68,08/18/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+8465a15f-9b65-4add-92d0-a6b840351d74,08/18/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+e9c5abc0-fbaa-4a94-bc9b-17ac9c252952,08/18/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 3af6b358-e8f9-487b-8202-efe97656941a,08/18/2027 18:00:00,FOMC Minutes,HIGH,USD
 69320536-eb84-4099-b760-1caaa52201f5,08/20/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD
 640ae833-ffe8-4abd-89ac-9b17410df380,08/20/2027 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 eda98a4e-aff3-47b2-b92a-9526f7f8b45f,08/20/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 fb6c4767-3244-455f-a65f-f4364b308242,08/24/2027 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+1445fd63-6b4c-4e8c-ad6a-43de27ec9834,08/24/2027 12:55:00,Redbook Index (YoY),LOW,USD
 02d2a2e2-4ba5-433e-9961-f7b91f100fe0,08/24/2027 17:00:00,2-Year Note Auction,LOW,USD
+0e74c43d-e4fb-4f05-8c2b-cf947f25141e,08/25/2027 11:00:00,MBA Mortgage Applications,LOW,USD
+21b04676-96ed-4e96-a0d2-6be2e9d173ad,08/25/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+1967e016-e324-4541-9e83-2e9dfc9b1fe2,08/25/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+b8a9c32f-077e-4cc5-ba96-49a87ee4b632,08/25/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+8fc25256-a10b-4fde-8378-9fcaabd662b8,08/25/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
+4abee83e-833b-4d47-86e9-feb9863a3e75,08/26/2027 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
 5cea87c4-e10f-4534-9bbf-ae3352e88e6a,08/26/2027 12:30:00,Durable Goods Orders,MEDIUM,USD
 7ec93f9c-1ca7-490b-81b8-9c65854d7ddd,08/26/2027 12:30:00,Durable Goods Orders ex Defense,MEDIUM,USD
 6647a706-a2e9-4610-825d-7be3eac51b9e,08/26/2027 12:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
+010831cf-b166-40fb-903e-a5887ccac062,08/26/2027 12:30:00,Gross Domestic Product Annualized,MEDIUM,USD
+965fd58a-820c-477f-97c1-57cb730e4e92,08/26/2027 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD
 e7482af4-1b06-4543-aa6d-62080bf96664,08/26/2027 12:30:00,Nondefense Capital Goods Orders ex Aircraft,MEDIUM,USD
+6f34d7de-78e2-4cef-9e41-1e563b3282a8,08/26/2027 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
+dc0fb6cc-abbb-43ec-98ed-587abe8c88f3,08/26/2027 12:30:00,Wholesale Inventories,LOW,USD
 d205d594-5121-47fc-93f6-6467dbfdf96e,08/26/2027 15:00:00,Kansas Fed Manufacturing Activity,LOW,USD
 d2b3795d-013e-47e4-bccc-b287af500d3a,08/27/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
 ad3fc5d4-95e3-4603-a0ad-4f5e4b7b9b67,08/27/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
@@ -1587,11 +1837,19 @@ c2e2e46e-8e2e-4df9-a78e-95d5cc27c368,08/27/2027 14:00:00,UoM 5-year Consumer Inf
 ca21dad8-4262-43fd-93c6-03c0556ec9a0,08/27/2027 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 06dc5599-1cc8-47e2-abec-3645b5cccef4,08/27/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 70c198f4-8356-432b-bd6c-20872e362edf,08/30/2027 14:30:00,Dallas Fed Manufacturing Business Index,LOW,USD
+adf17ff8-5b5f-4dd4-95e2-993135e41ecd,08/31/2027 12:55:00,Redbook Index (YoY),LOW,USD
+0f15ebbd-2c7c-4123-adc1-fd544bf14b02,08/31/2027 13:00:00,Housing Price Index (MoM),MEDIUM,USD
+94e3b909-0f7a-496f-9a0b-b68926d3c8ac,08/31/2027 13:45:00,Chicago PMI,MEDIUM,USD
 fb4edced-ef2d-4116-abef-b45bc1cfbcbd,08/31/2027 15:30:00,52-Week Bill Auction,LOW,USD
+ae28ccbc-c279-4344-9cd8-85ce8e7c2d50,09/01/2027 11:00:00,MBA Mortgage Applications,LOW,USD
 86423e1d-39f7-46d6-bb40-283d2be476e4,09/01/2027 14:00:00,ISM Manufacturing Employment Index,MEDIUM,USD
 f55072ad-3625-4ff9-9936-e52e85bb6e9e,09/01/2027 14:00:00,ISM Manufacturing New Orders Index,MEDIUM,USD
 51ef6204-5328-4422-977a-59cb782bed5a,09/01/2027 14:00:00,ISM Manufacturing PMI,HIGH,USD
 be33e7dc-d4af-491b-9c7a-1c3c0d94a951,09/01/2027 14:00:00,ISM Manufacturing Prices Paid,MEDIUM,USD
+7ba0c243-818a-479e-b2a5-e186f8a90697,09/01/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+846712e8-3112-4abd-88c2-175f2c6853cb,09/01/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+2febf9ed-cfab-4b4d-9afc-1a56bc8d2bf3,09/01/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+1e73b5cb-932d-4ef9-a0cc-e3587362b402,09/01/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 a657c919-d95f-4418-a6df-f4383ff7436f,09/03/2027 12:30:00,Average Hourly Earnings (MoM),HIGH,USD
 d06ed24f-1836-48d8-a14e-1a4805479a5e,09/03/2027 12:30:00,Average Hourly Earnings (YoY),HIGH,USD
 ecc89b6b-e2fb-4160-9002-f403721729ca,09/03/2027 12:30:00,Average Weekly Hours,LOW,USD
@@ -1607,8 +1865,16 @@ bdd967d6-1629-4807-a75a-7784aa38a819,09/03/2027 14:00:00,ISM Services PMI,HIGH,U
 a7daadb6-729b-437c-85c5-880ed81cf2e7,09/03/2027 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 f89f8498-9bb4-4429-90c1-58263c2cfcb9,09/03/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 3721f034-84e4-4fbe-8e62-d74a7b4ca99e,09/07/2027 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+a5c5db12-72f8-423b-8f4b-0e61006eaee5,09/07/2027 12:55:00,Redbook Index (YoY),LOW,USD
 1cee4a7e-8649-4458-b11b-5c18b944601a,09/07/2027 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
 946b5b5a-febd-4bbe-8ede-b4d8ff2601bf,09/07/2027 17:00:00,3-Year Note Auction,LOW,USD
+711df2b5-08cd-4d65-be73-ce22325e769a,09/08/2027 11:00:00,MBA Mortgage Applications,LOW,USD
+c1813d05-020d-40db-a7ca-7f1d182488f0,09/08/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+56acb734-e9ee-49e1-9f31-a6cb9fa2b7e9,09/08/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+48529b54-5780-4519-8baf-e784d2fe3a1e,09/08/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+763b3e9a-0a76-4a27-8510-e6610de2ffa7,09/08/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
+c2955356-f82c-481c-b2ba-707ef18dc1ae,09/08/2027 17:00:00,10-Year Note Auction,LOW,USD
+12b2d978-6398-45e5-905f-c0b18243bd14,09/09/2027 14:00:00,Wholesale Inventories,LOW,USD
 5fb5a1a8-ebb9-4646-a87e-4cd7240798ec,09/10/2027 12:30:00,Consumer Price Index (MoM),HIGH,USD
 aca909db-0828-4e43-8a00-34ac73499041,09/10/2027 12:30:00,Consumer Price Index (YoY),HIGH,USD
 1acbf507-608a-4b3f-ab0e-9aeece4cb4a9,09/10/2027 12:30:00,Consumer Price Index Core s.a,LOW,USD
@@ -1623,7 +1889,11 @@ bdb07bee-d9cc-4a6b-ba02-c6401371ef15,09/10/2027 18:00:00,Monthly Budget Statemen
 a1b1f723-9e5a-4284-b03c-491dc7a31996,09/10/2027 19:30:00,CFTC Gold NC Net Positions,LOW,USD
 27ef34c3-dfec-498d-b806-56ff7c05ac62,09/10/2027 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 c4c8cdb3-b5e0-4c12-8ce3-a99499a28095,09/10/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
+83e21690-bc00-408b-a912-6884f6a71ab1,09/13/2027 14:00:00,Existing Home Sales (MoM),LOW,USD
+dea2a0b6-4e00-46b3-b2f5-ce4c0e75d7aa,09/13/2027 14:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
 e68b1d24-a412-41e5-aa61-00e0d2fe5b06,09/14/2027 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+5cafe6de-6454-4c48-9e3e-9bcd16da904a,09/14/2027 12:55:00,Redbook Index (YoY),LOW,USD
+84cb2272-e155-45ce-8a6a-6353edf06f20,09/15/2027 11:00:00,MBA Mortgage Applications,LOW,USD
 b7511b87-e89a-4b09-8670-7a01ef34e23e,09/15/2027 12:30:00,NY Empire State Manufacturing Index,MEDIUM,USD
 fea27428-5a1e-401d-88aa-85c7651bfaf7,09/15/2027 12:30:00,Producer Price Index (MoM),MEDIUM,USD
 ff7341d6-96ad-4cac-aac1-7ff82d61cc3d,09/15/2027 12:30:00,Producer Price Index (YoY),MEDIUM,USD
@@ -1633,6 +1903,10 @@ ee098ecf-3ae2-4142-b857-af3313415fd6,09/15/2027 12:30:00,Retail Sales (MoM),HIGH
 f08a14ea-c834-4d50-8442-518bea6c2f70,09/15/2027 12:30:00,Retail Sales (YoY),LOW,USD
 d4a5b8de-2fe7-4c6c-b834-a3777c424019,09/15/2027 12:30:00,Retail Sales Control Group,HIGH,USD
 a7ddc9fb-debb-4fd2-ad9f-d1d0b461b4ca,09/15/2027 12:30:00,Retail Sales ex Autos (MoM),MEDIUM,USD
+fb9f5e19-2fe3-4955-9a1a-2078f7f55671,09/15/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+04f2570a-26cd-4307-968d-8c8924ec5c69,09/15/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+d6d3ffc6-a73a-4778-afca-6b41929cab10,09/15/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+b607e686-d737-41b5-9705-7082c475d780,09/15/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 49f9af44-2b18-464c-8d1b-33daf78059de,09/15/2027 18:00:00,Fed Interest Rate Decision,HIGH,USD
 d48b04d7-c546-468d-9d1b-3f7a824306a0,09/15/2027 18:00:00,Fed Monetary Policy Statement,HIGH,USD
 333c947a-3fce-4d51-adec-869ace2feb33,09/15/2027 18:00:00,FOMC Economic Projections,HIGH,USD
@@ -1656,6 +1930,12 @@ e4dd4d40-2b41-40e6-bb79-d051a4740861,09/16/2027 13:15:00,Capacity Utilization,LO
 3f45ac34-ed30-4a0e-aee3-2409a0e23681,09/17/2027 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 6a6b21b4-7ec6-4629-94b0-face44b58d39,09/17/2027 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 d77ba5db-59fd-49b8-88d2-a390391fc9d8,09/21/2027 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
+2f19ee62-7269-43d9-843b-777bb932f209,09/21/2027 12:55:00,Redbook Index (YoY),LOW,USD
+6793b06c-014e-4e89-a032-5f034981ddff,09/22/2027 11:00:00,MBA Mortgage Applications,LOW,USD
+afd9f15a-0037-4494-a425-de8554793e0a,09/22/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+dccb2ae1-bcb3-416a-a1a4-6f100650e4ed,09/22/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+de5354c0-b744-49db-b134-d48539b7bdf4,09/22/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+e1b5ee03-355e-4d0b-a95a-aba848906ae9,09/22/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 404c1abc-abec-45e4-8e63-08c102620b82,09/23/2027 15:00:00,Kansas Fed Manufacturing Activity,LOW,USD
 e0a74ae8-3bd2-4737-bae7-174f35a28b69,09/24/2027 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
 e896c03d-356a-404a-be40-dc33a0bf78a7,09/24/2027 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD
@@ -1668,12 +1948,25 @@ f1441de9-8dc5-4ca7-ab07-9621267bc41c,09/28/2027 12:30:00,Durable Goods Orders,ME
 613edf85-372e-4422-af6a-de6ee51938f3,09/28/2027 12:30:00,Durable Goods Orders ex Defense,MEDIUM,USD
 330f7624-b883-4690-a46f-7a0acc63abd6,09/28/2027 12:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
 f16b9419-c8a4-45d6-a088-f410edd5fb78,09/28/2027 12:30:00,Nondefense Capital Goods Orders ex Aircraft,MEDIUM,USD
+87920e76-0dae-4963-ad3d-9a4c1c35c3e9,09/28/2027 12:55:00,Redbook Index (YoY),LOW,USD
+f2411c35-94c5-4709-a6dc-1f8fa762600f,09/28/2027 13:00:00,Housing Price Index (MoM),MEDIUM,USD
 4225086a-e369-495c-81bf-821dc1026615,09/28/2027 15:30:00,52-Week Bill Auction,LOW,USD
 bd662f17-c647-4b81-b2d5-94042d26a7bf,09/28/2027 17:00:00,2-Year Note Auction,LOW,USD
+b8ce1d56-914e-4dd8-ae1b-eb7de9b08d93,09/29/2027 11:00:00,MBA Mortgage Applications,LOW,USD
+942c4e1b-e562-45fd-92e8-273fdef0e5ba,09/29/2027 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
+894fcecd-2efb-485c-a2b7-b53bce48e509,09/29/2027 12:30:00,Gross Domestic Product Annualized,MEDIUM,USD
+da467e21-0a8b-41f8-9a15-cc9ab5f48903,09/29/2027 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD
+aa904548-83a0-4733-b9b1-79a241eec9dd,09/29/2027 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
+843128fa-9460-4adf-8cf8-a669b118c9e5,09/29/2027 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+837970ed-f0f4-4f5d-a6e2-8d9761aa94e2,09/29/2027 14:30:00,EIA Distillate Stocks Change,LOW,USD
+a3a48076-b448-46b4-abf8-3636c6792b14,09/29/2027 14:30:00,EIA Gasoline Stocks Change,LOW,USD
+c8747693-4451-46ef-8c0b-aa6717dd71ca,09/29/2027 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 d101a142-1ca2-458c-bda3-5934a35c5aa2,09/30/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
 a5eb331c-d4de-45ef-b246-a3d3f7bf38eb,09/30/2027 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
 2424ab40-7dad-47e6-a903-6e510489dedd,09/30/2027 12:30:00,Personal Consumption Expenditures - Price Index (MoM),MEDIUM,USD
 6bd0cb41-1421-4abf-89b1-0f2a976e542d,09/30/2027 12:30:00,Personal Consumption Expenditures - Price Index (YoY),MEDIUM,USD
 b3cb4342-128b-4935-bbe6-40ed531af63c,09/30/2027 12:30:00,Personal Income (MoM),MEDIUM,USD
 955eb803-c490-41e7-a8d6-776133298c95,09/30/2027 12:30:00,Personal Spending,MEDIUM,USD
+83eeaa31-dd5e-4935-8cd1-b736a91d0575,09/30/2027 12:30:00,Wholesale Inventories,LOW,USD
+10dd3a18-e0c8-4e44-af70-71b635cfacd7,09/30/2027 13:45:00,Chicago PMI,MEDIUM,USD
 00c0f9d6-210d-4e33-9a82-e4d06776861c,09/30/2027 14:30:00,Dallas Fed Manufacturing Business Index,LOW,USD

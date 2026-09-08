@@ -1,8 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-340a86b2-fda1-44b2-ab50-20b8c1e3d954,09/07/2026 06:00:00,Lloyds House Price Index (MoM),LOW,GBP,Release,0.07,Housing
-5ec87422-a379-47ed-97ba-d07fa2fd5f3c,09/07/2026 06:00:00,Lloyds House Price Index (YoY),LOW,GBP,Release,0.07,Housing
-1ed09b70-877b-468b-bdff-1350a7e1792a,09/07/2026 23:01:00,BRC Like-For-Like Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
 453c95de-4677-423e-ba46-46bd35e25185,09/08/2026 13:15:00,BoE Monetary Policy Report Hearings,MEDIUM,GBP,Speech,0.13,Monetary Policy
+cd5b63a4-8c95-4e90-996a-8204c6600a85,09/08/2026 13:15:00,BoE's Governor Bailey speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 44435e1b-dd93-4487-85ba-2764748817c0,09/09/2026 23:01:00,RICS Housing Price Balance,LOW,GBP,Release,0.07,Housing
 3ac2df5a-4a0e-4cd8-932e-2dba67125fa0,09/11/2026 06:00:00,Goods Trade Balance,MEDIUM,GBP,Release,0.11,Trade and External
 4f369a44-4c2b-4c7f-b28a-5936c689971e,09/11/2026 06:00:00,Gross Domestic Product (MoM),LOW,GBP,Release,0.07,Housing
