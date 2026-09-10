@@ -1,11 +1,11 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-2841c70b-05ed-4c5d-a679-b8d6af84302c,09/09/2026 11:00:00,Consumer Price Index (MoM),HIGH,QAR,Release,0.19,Inflation
-bdbcba32-3c4c-42ea-9b4b-f14103811465,09/09/2026 11:00:00,Consumer Price Index (YoY),HIGH,QAR,Release,0.19,Inflation
-2e303d8d-b9a9-4b09-8614-0452ee162115,09/10/2026 11:00:00,Consumer Price Index (MoM),HIGH,QAR,Release,0.19,Inflation
-faf35986-766a-47b8-a9ba-4e3b28d320ed,09/10/2026 11:00:00,Consumer Price Index (YoY),HIGH,QAR,Release,0.19,Inflation
+2841c70b-05ed-4c5d-a679-b8d6af84302c,09/10/2026 11:00:00,Consumer Price Index (MoM),HIGH,QAR,Release,0.19,Inflation
+bdbcba32-3c4c-42ea-9b4b-f14103811465,09/10/2026 11:00:00,Consumer Price Index (YoY),HIGH,QAR,Release,0.19,Inflation
 cfcc186c-ac94-4865-b475-1fa0f480f63d,09/22/2026 14:00:00,M2 Money Supply,HIGH,QAR,Release,0.2,Monetary Policy
 a32da49e-3bca-44cb-9559-fec47b981456,09/25/2026 15:00:00,Gross Domestic Product (QoQ),HIGH,QAR,Release,0.17,Growth
 80aa1ab7-edaf-4a29-81c3-e4fe1abae5bd,09/25/2026 15:00:00,Gross Domestic Product (YoY),HIGH,QAR,Release,0.17,Growth
+2e303d8d-b9a9-4b09-8614-0452ee162115,10/01/2026 11:00:00,Consumer Price Index (MoM),HIGH,QAR,Release,0.19,Inflation
+faf35986-766a-47b8-a9ba-4e3b28d320ed,10/01/2026 11:00:00,Consumer Price Index (YoY),HIGH,QAR,Release,0.19,Inflation
 0b024227-4497-4723-ac6b-e7a5b748c56c,10/13/2026 11:00:00,Consumer Price Index (MoM),HIGH,QAR,Release,0.19,Inflation
 8e738ed4-3cbf-4871-9103-78c7a84f080f,10/13/2026 11:00:00,Consumer Price Index (YoY),HIGH,QAR,Release,0.19,Inflation
 65f40a51-5b81-42ca-af92-b5b2b2e772e3,10/20/2026 14:00:00,M2 Money Supply,HIGH,QAR,Release,0.2,Monetary Policy
