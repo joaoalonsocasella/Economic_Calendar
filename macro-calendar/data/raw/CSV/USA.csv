@@ -1,21 +1,4 @@
 Id,Start,Name,Impact,Currency
-37c9d128-725c-4a8d-b9d5-f7c566894f8b,09/10/2026 12:30:00,Continuing Jobless Claims,LOW,USD
-e3f79fa1-75f2-40f2-bd84-d3fa5a6791e0,09/10/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
-95ce6eff-fa6b-490e-92a8-9f34510adf2d,09/10/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
-15d18066-9e3e-4b42-98b4-c530e4339c11,09/10/2026 12:30:00,Producer Price Index (MoM),MEDIUM,USD
-5555d001-a015-482c-9471-becf2919fd6d,09/10/2026 12:30:00,Producer Price Index (YoY),MEDIUM,USD
-84eb660e-a6b2-4757-9c4a-35377bf17278,09/10/2026 12:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
-d4e45fb8-e4c7-45c0-95df-28353011a014,09/10/2026 12:30:00,Producer Price Index ex Food & Energy (YoY),HIGH,USD
-dd32a87a-489f-4899-8fde-5d393d1724e1,09/10/2026 14:00:00,Existing Home Sales (MoM),LOW,USD
-f4d95ede-afbc-4ccc-ab1c-f3d56e359e46,09/10/2026 14:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
-feec74d7-74ee-4532-893f-ad2689f3771a,09/10/2026 14:00:00,Wholesale Inventories,LOW,USD
-769d7f99-cc39-4873-9ab1-6ea7be0d0950,09/10/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
-2e2868fc-caa0-4218-9c52-d45d1a0c4e1e,09/10/2026 15:30:00,4-Week Bill Auction,LOW,USD
-f498e541-d6ec-444b-a236-8ddc0a79ecbe,09/10/2026 16:00:00,EIA Crude Oil Stocks Change,LOW,USD
-50c0b74b-8ac6-4b90-aa44-f9b9a1a0c3df,09/10/2026 16:00:00,EIA Distillate Stocks Change,LOW,USD
-5b89923e-1b34-40f4-9650-5476c2379138,09/10/2026 16:00:00,EIA Gasoline Stocks Change,LOW,USD
-618ae2eb-75da-4430-a896-c5e85373005f,09/10/2026 16:00:00,EIA Heating Oil Stocks Change,LOW,USD
-9175f41c-e90e-4368-b9ee-d7880bb9cee6,09/10/2026 17:00:00,30-Year Bond Auction,LOW,USD
 3e882694-dd74-4fae-a29a-d20098a1c906,09/11/2026 12:30:00,Consumer Price Index (MoM),HIGH,USD
 e39adcbf-65f3-4fd0-92e9-a02b3685d81f,09/11/2026 12:30:00,Consumer Price Index (YoY),HIGH,USD
 2f14ee84-67b4-4e53-bfbe-cc6eb0846ff0,09/11/2026 12:30:00,Consumer Price Index Core s.a,LOW,USD
@@ -77,12 +60,14 @@ b63eab1c-6055-48b1-9821-503445a2f067,09/17/2026 12:30:00,Initial Jobless Claims,
 8c74d829-3147-4931-a611-d1ce63f7c234,09/17/2026 14:00:00,Pending Home Sales (YoY),LOW,USD
 aa17f77d-e650-4a24-8f2c-2654507241a5,09/17/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
 c0ae1b39-bcd4-4626-8764-e73338ee6d33,09/17/2026 15:30:00,4-Week Bill Auction,LOW,USD
+92303282-0386-444f-96f1-40ec58745518,09/18/2026 07:30:00,Fed's Bowman speech,MEDIUM,USD
 ce46c056-6394-48f0-af71-f8b0ebf1ec8c,09/18/2026 13:15:00,Capacity Utilization,LOW,USD
 ac680010-fa1a-4be3-a175-d7cf0806f2b3,09/18/2026 13:15:00,Industrial Production (MoM),MEDIUM,USD
 933416a1-fae4-4098-846f-3cd205af6a9e,09/18/2026 17:00:00,Baker Hughes US Oil Rig Count,LOW,USD
 87f6f8b8-c4b0-483b-a188-d42854a89f1d,09/18/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD
 aa787c55-99f6-4ac1-bee5-81b6681e343a,09/18/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 96896fbd-dd48-4d8f-b713-e02f100af9b2,09/18/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
+a79bde83-445d-4ddd-8345-60674bcd0104,09/21/2026 10:30:00,Fed's Goolsbee speech,MEDIUM,USD
 ce4cdf07-909f-4cf3-ac91-371a0a18e650,09/21/2026 15:30:00,3-Month Bill Auction,LOW,USD
 1edbaa4e-e9ca-46bc-a617-edd0a043cec1,09/21/2026 15:30:00,6-Month Bill Auction,LOW,USD
 d004d32b-17f6-42eb-8639-93b4a1a7ada2,09/22/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
@@ -101,6 +86,8 @@ a5bfd9b4-b523-48fa-b164-a2146ed4951c,09/22/2026 14:00:00,Richmond Fed Manufactur
 990add36-d75c-49d5-a2a5-52ef7365ec0d,09/24/2026 12:30:00,Current Account,LOW,USD
 11e2ad64-148f-4472-81dc-86bea3e398fe,09/24/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
 ebf2cd9c-c0d3-4f54-81f5-2dfa63740f52,09/24/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
+0a4c651a-147a-415b-a96c-2d139c31ddae,09/24/2026 12:50:00,Fed's Hammack speech,MEDIUM,USD
+89e168f3-dbc4-4aa8-9ba2-fd8c9a86c8e0,09/24/2026 13:00:00,Fed's Paulson speech,MEDIUM,USD
 537ee8fb-f85f-4986-a094-445205ed7f6b,09/24/2026 14:00:00,New Home Sales (MoM),LOW,USD
 086e59fb-0a4b-4f19-8af1-393bb8ee5128,09/24/2026 14:00:00,New Home Sales Change (MoM),MEDIUM,USD
 4f04c6f5-f2a6-462c-bfc8-174e59365681,09/24/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
@@ -116,6 +103,7 @@ abd8b6c5-0d6c-48b8-8176-bb3b5d3a37e4,09/24/2026 17:00:00,10-year TIPS Auction,LO
 da22d175-e2bf-476c-ae0b-ed8f85a5e1d4,09/25/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
 48662de3-0229-4960-ab86-d8d2b70d8b25,09/25/2026 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD
 bdf6db7a-67d9-4d19-a400-244c5b168a93,09/25/2026 17:00:00,Baker Hughes US Oil Rig Count,LOW,USD
+7cc6c6d2-0eab-4450-b1e2-7b6ef4411747,09/25/2026 18:00:00,Fed's Hammack speech,MEDIUM,USD
 1da28b60-236a-4c8c-81e1-dc91edec4a8f,09/25/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD
 5791049c-822a-4c51-92da-09de96fab0d4,09/25/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 dd1f9588-b20f-4114-acd8-85090291f0d6,09/25/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
