@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-df7ac22d-5946-42e0-ac87-684bce117ee2,09/11/2026 06:30:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-38d5bf6f-3397-44cc-ae91-f14a8c23bf28,09/11/2026 14:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
-0474f7cb-f0a2-4236-b8e8-0612e885c13d,09/11/2026 17:00:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
-db236690-1078-40ce-9776-b8e03acbfd9e,09/11/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 7da5b8ae-5f93-4a0a-8afa-1363b4241e95,09/12/2026 08:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
 5509ae0b-f0fb-4429-b7e4-a0023a5d0aff,09/14/2026 09:15:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 5b0d76bc-4217-420f-be86-e54ad54e545e,09/14/2026 13:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
@@ -18,10 +14,13 @@ d38229ce-47a0-4f5f-bdf5-c9b66dbebb7c,09/16/2026 09:00:00,Labor Cost Index,HIGH,E
 7b8a8f82-10d8-43ea-94be-5179553887eb,09/16/2026 12:15:00,ECB's Vujčić speech,HIGH,EUR,Speech,0.552,Monetary Policy
 cb9f24dc-a4e5-4632-8192-c87e6ecf6599,09/16/2026 13:00:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy
 5ac24d29-4f1a-4bb0-80c0-cf382069cc42,09/16/2026 17:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
+b153b2ab-bcd7-4079-bd2c-2ff4ac87b490,09/17/2026 07:00:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
 43f70cb1-9cfa-43be-84c8-80457e6d9345,09/17/2026 09:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 cc7de10b-681a-49be-82b8-15d0d248ffaf,09/17/2026 09:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.807,Inflation
 5b4728fe-e8a6-4903-be9f-790d853db82b,09/17/2026 09:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 9c5608a7-5764-4262-9a06-2e321497749b,09/17/2026 09:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+c519aac3-ce8b-4ee3-99c1-d75bde95973e,09/18/2026 06:00:00,EcoFin Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
+7b87a0a2-3c1c-42aa-8de5-484aabc82930,09/18/2026 06:00:00,Eurogroup Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
 5775bddc-7917-4ba9-8233-887972c3a0f4,09/18/2026 08:00:00,Current Account n.s.a,HIGH,EUR,Release,0.468,Trade and External
 88da1360-4b18-42a9-839d-e03ccbf4fdfa,09/18/2026 08:00:00,Current Account s.a,HIGH,EUR,Release,0.468,Trade and External
 5118bcfa-c729-447a-8786-68fe47e40446,09/18/2026 09:00:00,Construction Output  s.a (MoM),HIGH,EUR,Release,0.297,Housing

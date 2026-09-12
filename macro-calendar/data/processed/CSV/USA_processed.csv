@@ -1,20 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-3e882694-dd74-4fae-a29a-d20098a1c906,09/11/2026 12:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-e39adcbf-65f3-4fd0-92e9-a02b3685d81f,09/11/2026 12:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-2f14ee84-67b4-4e53-bfbe-cc6eb0846ff0,09/11/2026 12:30:00,Consumer Price Index Core s.a,HIGH,USD,Release,0.19,Inflation
-b1abcb9e-c0fe-4e44-a669-9ef42706b92d,09/11/2026 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
-5ed3ff6f-37ab-47b3-9a06-73d714b36083,09/11/2026 12:30:00,Consumer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
-dae51d7f-c53a-4478-956b-5d306a53cf3d,09/11/2026 12:30:00,Consumer Price Index n.s.a (MoM),HIGH,USD,Release,0.19,Inflation
-2b5996ff-b9c0-4fb1-8a71-ed78df79b72d,09/11/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
-c7d46fc3-7c5d-46d9-95fb-8f707bbc70ea,09/11/2026 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
-cf53987b-ec2b-45cd-8fb5-2f6fbe1656cf,09/11/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
-d3ea8612-487c-4aad-9e8f-e270cf19b06f,09/11/2026 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
-d6be50cf-1985-4147-abab-85681de8dc3a,09/11/2026 16:00:00,USDA WASDE Report,HIGH,USD,Release,0.2,Monetary Policy
-13ca0751-5e77-4c66-8cf1-76bd2c1b146e,09/11/2026 17:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
-142fa0fb-b263-4c5b-be46-4446354bf750,09/11/2026 18:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
-70729f4f-6ed7-4f8e-bbf3-8f1a3edea3be,09/11/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-cf75be79-91fb-46a9-9eaf-6253b8788590,09/11/2026 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-9f03780f-775b-4059-9e4c-090af1bf3bcc,09/11/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 64d2a02d-7f82-4ac3-b6eb-5dcfb45556b4,09/14/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 15abb376-dde1-49ca-a957-23bedfb09335,09/14/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 06563774-e301-4425-a352-6b8897a3a95d,09/15/2026 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market

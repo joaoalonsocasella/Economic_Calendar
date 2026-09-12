@@ -1,16 +1,4 @@
 Id,Start,Name,Impact,Currency
-3ac2df5a-4a0e-4cd8-932e-2dba67125fa0,09/11/2026 06:00:00,Goods Trade Balance,LOW,GBP
-4f369a44-4c2b-4c7f-b28a-5936c689971e,09/11/2026 06:00:00,Gross Domestic Product (MoM),MEDIUM,GBP
-02ad4b74-a4df-43dc-8635-3e437684c766,09/11/2026 06:00:00,Index of Services (3M/3M),LOW,GBP
-ebcd4e70-2ec5-44fa-885b-77adc36127c2,09/11/2026 06:00:00,Industrial Production (MoM),MEDIUM,GBP
-38532cb8-c822-4c05-92c2-18f6a130c6f9,09/11/2026 06:00:00,Industrial Production (YoY),LOW,GBP
-1c4c5262-7d35-4eda-b887-5c5764714bb1,09/11/2026 06:00:00,Manufacturing Production (MoM),MEDIUM,GBP
-c3abce82-e12c-465c-b28c-f596c1e44614,09/11/2026 06:00:00,Manufacturing Production (YoY),LOW,GBP
-f643622a-3248-46b6-8bc5-ce6558004517,09/11/2026 06:00:00,Total Trade Balance,LOW,GBP
-4ad67ae0-883f-486e-9734-59679fe66f11,09/11/2026 06:00:00,Trade Balance; non-EU,LOW,GBP
-df5b6899-53c8-47aa-ab9d-e427e8d19907,09/11/2026 08:30:00,Consumer Inflation Expectations,MEDIUM,GBP
-b985232f-90a4-4f1f-8e06-67aa81ac5ca5,09/11/2026 11:00:00,NIESR GDP Estimate (3M),LOW,GBP
-56c6eb8b-2dc0-45b2-8b2b-6365c702390f,09/11/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP
 5b154396-8236-4145-b47e-fb04fedbfa19,09/15/2026 06:00:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
 a17953a0-3f19-4d04-86f6-de9cff58f5c8,09/15/2026 06:00:00,Average Earnings Including Bonus (3Mo/Yr),MEDIUM,GBP
 778a30c8-6ffe-449d-932d-b02d820807a3,09/15/2026 06:00:00,Claimant Count Change,HIGH,GBP
