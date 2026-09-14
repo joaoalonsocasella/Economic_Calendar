@@ -15,11 +15,11 @@ d6813c9a-abcb-4448-9e10-5ee0c34c1d74,09/17/2026 12:30:00,Canadian Portfolio Inve
 235f10f3-aec9-4f64-9dc0-42e272ebe467,09/17/2026 12:30:00,Industrial Product Price (MoM),HIGH,CAD,Release,0.19,Inflation
 baadd3e0-4efc-455b-a7ca-f74203e548bb,09/17/2026 12:30:00,Raw Material Price Index,MEDIUM,CAD,Release,0.11,Trade and External
 d029e903-01b4-4d1a-8c18-fe246d4252b4,09/21/2026 15:00:00,BoC's Governor Macklem speech,MEDIUM,CAD,Speech,0.13,Monetary Policy
-f2967b5c-f12c-4898-b4a1-ca1739d80700,09/22/2026 12:30:00,New Housing Price Index (MoM),LOW,CAD,Release,0.07,Housing
-176957ad-21a5-4c37-a6bd-f25d66fcc8ed,09/22/2026 12:30:00,New Housing Price Index (YoY),LOW,CAD,Release,0.07,Housing
+f2967b5c-f12c-4898-b4a1-ca1739d80700,09/23/2026 12:30:00,New Housing Price Index (MoM),LOW,CAD,Release,0.07,Housing
+176957ad-21a5-4c37-a6bd-f25d66fcc8ed,09/23/2026 12:30:00,New Housing Price Index (YoY),LOW,CAD,Release,0.07,Housing
 3914bbbd-1653-4ea6-8b39-14b346122d69,09/24/2026 12:30:00,Retail Sales (MoM),HIGH,CAD,Release,0.17,Growth
 d2e1f54c-4afb-4d64-8680-b4061766779a,09/24/2026 12:30:00,Retail Sales ex Autos (MoM),HIGH,CAD,Release,0.17,Growth
-27638ce6-a014-4843-8322-0dfe9547fb8c,09/30/2026 12:30:00,Gross Domestic Product (MoM),LOW,CAD,Release,0.07,Housing
+27638ce6-a014-4843-8322-0dfe9547fb8c,09/29/2026 12:30:00,Gross Domestic Product (MoM),LOW,CAD,Release,0.07,Housing
 c585b3d7-fc2e-49bc-a1a7-a7b003e3c9df,10/01/2026 13:30:00,S&P Global Manufacturing PMI,HIGH,CAD,Release,0.17,Growth
 28d0ed94-330b-4a72-9d02-309a472abeae,10/06/2026 12:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
 83254e97-25df-4c77-8886-e65c264fc164,10/06/2026 12:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
@@ -150,19 +150,32 @@ af82096e-8f12-4224-9cf3-a48680840803,01/22/2027 13:30:00,New Housing Price Index
 3f902261-02a0-433b-97ee-c37e9aba9064,01/22/2027 13:30:00,New Housing Price Index (YoY),LOW,CAD,Release,0.07,Housing
 6ca26835-989c-4417-9a84-e7cf463c5d79,01/22/2027 13:30:00,Retail Sales (MoM),HIGH,CAD,Release,0.17,Growth
 85476818-5c45-4912-88f4-700fa26b33b0,01/22/2027 13:30:00,Retail Sales ex Autos (MoM),HIGH,CAD,Release,0.17,Growth
+655ebcdb-e972-4018-8373-0ff9b332bdc9,01/27/2027 14:45:00,BoC Interest Rate Decision,MEDIUM,CAD,Speech,0.13,Monetary Policy
+dc71dcf6-2fa7-46e1-8ef7-fa624c1aa378,01/27/2027 14:45:00,BoC Monetary Policy Report,HIGH,CAD,Release,0.2,Monetary Policy
+18b4f8a1-722c-41dc-b7fe-101260d1dc7e,01/27/2027 14:45:00,BoC Monetary Policy Statement,MEDIUM,CAD,Speech,0.13,Monetary Policy
+c1a0a495-9109-4507-833b-9c443aa0bc31,01/27/2027 15:30:00,BoC Press Conference,MEDIUM,CAD,Speech,0.13,Monetary Policy
 2b6c2e03-56a3-4c4d-bc8e-60c35358b811,01/29/2027 13:30:00,Gross Domestic Product (MoM),LOW,CAD,Release,0.07,Housing
 74bef2bf-4a75-4895-a6b9-a05c290496e1,02/05/2027 13:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
 a78e0d78-67d7-44b7-88a1-bd39d6653876,02/05/2027 13:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
 e43baa11-9658-49a8-a240-8469b7490fbb,02/05/2027 13:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
 b17f1725-8044-4df9-80d8-a2505f2c710d,02/05/2027 13:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
+d513112f-641f-47a5-9f18-6c9f0d786f1d,02/09/2027 13:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
+44da6d73-3920-49c3-a3c1-ac129924e6b6,02/09/2027 13:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
+af731e0d-e732-4e81-8320-f69af9069d7d,02/09/2027 13:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
+cc2c0796-895a-4fab-aeec-7aada8224325,02/10/2027 18:30:00,BoC Summary of Deliberations,HIGH,CAD,Release,0.2,Monetary Policy
 41326a9d-65b0-4d06-b626-d488b7103e2c,02/16/2027 13:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
 7f8167fd-1382-4fbd-b062-e5191316d66f,02/16/2027 13:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
 44b3f215-4c38-442f-986c-636c1fb232e0,02/16/2027 13:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
 ea12d622-adbc-4e16-83e2-e5ac054716ef,02/16/2027 13:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
 49f6c682-842f-4809-b812-aaed5fd94460,02/16/2027 13:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
+4977f06a-0c1e-45ca-88e1-bf7e2387ab9d,02/17/2027 13:30:00,Canadian Portfolio Investment in Foreign Securities,MEDIUM,CAD,Release,0.11,Trade and External
+34198c0e-e3a9-45b2-aa00-13d6e85c3dd1,02/17/2027 13:30:00,Foreign Portfolio Investment in Canadian Securities,MEDIUM,CAD,Release,0.11,Trade and External
 58b2070f-4643-4d9e-b574-54f0e17b4ab0,02/26/2027 13:30:00,Gross Domestic Product (QoQ),HIGH,CAD,Release,0.17,Growth
 1bd7b227-e0d1-4c00-92d7-ac1cbc823ae4,02/26/2027 13:30:00,Gross Domestic Product Annualized,HIGH,CAD,Release,0.17,Growth
 377b97b0-4870-4b5e-8e43-8e5ee28746f6,03/01/2027 13:30:00,Current Account,MEDIUM,CAD,Release,0.11,Trade and External
+cacb5735-799e-4c44-8e27-fe3923a0f0e0,03/09/2027 13:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
+0dfc2be7-ccc9-43e9-9d00-50085bd1bc65,03/09/2027 13:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
+81cfd49d-83ab-4eec-bac6-a928af81f62c,03/09/2027 13:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
 0b0ff7cd-4c4a-4777-a16a-224a1141471c,03/12/2027 13:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
 810eb8e1-fab0-4327-9a9e-78a6611c3262,03/12/2027 13:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
 6c4196cb-dc18-4220-ae34-0d4dc1230772,03/12/2027 13:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
@@ -173,48 +186,93 @@ c2dc63f1-edf5-42ac-b1ed-ee18a05b221d,03/15/2027 12:30:00,BoC Consumer Price Inde
 02fc7549-3d5a-4b30-ac17-2417f42c5fef,03/15/2027 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
 4ac168e3-c256-43cb-a187-c27cb1022067,03/15/2027 12:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
 152ce02b-15ee-4219-86ca-5537ab50b56d,03/15/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
+a19f503b-5c8b-46ae-a61c-8bb753cc6a74,03/17/2027 12:30:00,Canadian Portfolio Investment in Foreign Securities,MEDIUM,CAD,Release,0.11,Trade and External
+684c2817-79a7-4e0f-8f4b-9fff621a5fe0,03/17/2027 12:30:00,Foreign Portfolio Investment in Canadian Securities,MEDIUM,CAD,Release,0.11,Trade and External
+7be01db8-7443-4b8e-8591-7f74803f022a,03/17/2027 13:45:00,BoC Interest Rate Decision,MEDIUM,CAD,Speech,0.13,Monetary Policy
+d211fd04-b444-4524-aed0-3be92ee804e8,03/17/2027 13:45:00,BoC Monetary Policy Statement,MEDIUM,CAD,Speech,0.13,Monetary Policy
+2e38d46d-81d7-4d31-9ac6-84133dd739ca,03/17/2027 14:30:00,BoC Press Conference,MEDIUM,CAD,Speech,0.13,Monetary Policy
+b332688f-c302-4cee-b726-a3ae039814d0,03/31/2027 17:30:00,BoC Summary of Deliberations,HIGH,CAD,Release,0.2,Monetary Policy
+cd057c4e-d7d1-43aa-a105-a0d90b532a2b,04/06/2027 12:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
+5e9b04a7-ce14-46a6-981a-07661def66c1,04/06/2027 12:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
+8bd18608-a75f-4b6e-a4e8-8c2e87714795,04/06/2027 12:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
 ef181955-dba4-4141-a35d-aa64cd896d68,04/09/2027 12:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
 139db3b4-78ce-4ccd-80a7-569fef238e08,04/09/2027 12:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
 82cca308-5cda-461c-b5bb-1c5a19e41a7c,04/09/2027 12:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
 bf5ebf7c-bb63-4a81-9ea5-ac468366d8fe,04/09/2027 12:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
+a0e2d9dc-cb5d-48a2-ac92-90a04246d9c7,04/16/2027 12:30:00,Canadian Portfolio Investment in Foreign Securities,MEDIUM,CAD,Release,0.11,Trade and External
+951c9898-c94e-4fd8-aa28-3a1e6341dad1,04/16/2027 12:30:00,Foreign Portfolio Investment in Canadian Securities,MEDIUM,CAD,Release,0.11,Trade and External
 4400e337-fb53-4900-9ee5-bd3febf14093,04/19/2027 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
 a899c6fd-14f9-4ee1-a1b6-921c4099d99b,04/19/2027 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
 c2f4f454-7816-41d2-8017-b5118eb5adba,04/19/2027 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
 dea2a8ff-116b-4952-b4c0-1eb1c10d56b4,04/19/2027 12:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
 e0ac34e1-5aaa-4119-9528-55402b210c04,04/19/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
+16f47b6e-17c3-434b-a4f1-ee6f0be87ad3,04/28/2027 13:45:00,BoC Interest Rate Decision,MEDIUM,CAD,Speech,0.13,Monetary Policy
+7183b252-4c73-4f60-9bd4-7cb385ead378,04/28/2027 13:45:00,BoC Monetary Policy Report,HIGH,CAD,Release,0.2,Monetary Policy
+0961397d-da29-4e15-8bac-fa72b5b6fc98,04/28/2027 13:45:00,BoC Monetary Policy Statement,MEDIUM,CAD,Speech,0.13,Monetary Policy
+13392cf8-2e54-405d-a96c-e012fe16b1ab,04/28/2027 14:30:00,BoC Press Conference,MEDIUM,CAD,Speech,0.13,Monetary Policy
+ca28f89d-ff0c-4d92-9e51-42548a49040b,05/06/2027 12:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
+3f497ea8-240e-4161-b274-8cfb996ebfd8,05/06/2027 12:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
+8bae9812-9bc1-4180-bd61-fa367000f2b6,05/06/2027 12:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
 37f81ec1-0740-4513-a2ff-40d644fe8c2a,05/07/2027 12:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
 1eb81eb7-c8b2-4b68-8ccb-a6d578f59fbe,05/07/2027 12:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
 0d820db0-4e53-4430-b335-b4e6144aeacd,05/07/2027 12:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
 aa3daf51-0446-42f5-bf69-055a71e26f5b,05/07/2027 12:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
+2e6fc216-9655-4fa6-9ca4-3d32ffadac50,05/12/2027 17:30:00,BoC Summary of Deliberations,HIGH,CAD,Release,0.2,Monetary Policy
 60683f6a-5857-4fda-a121-59496a83a175,05/17/2027 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
 812f59fa-7ea0-4aae-a0aa-ed10cd5bd61f,05/17/2027 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
+b1422426-6417-4eb5-bfc9-fc24ebe03d2a,05/17/2027 12:30:00,Canadian Portfolio Investment in Foreign Securities,MEDIUM,CAD,Release,0.11,Trade and External
 639a6ac2-d16a-42eb-92d4-94dda1c77199,05/17/2027 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
 0c89338c-94b8-4436-a0fb-bc858d9632a1,05/17/2027 12:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
 7466c6a3-378f-481c-ae5d-2092662dfa64,05/17/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
+c5dcf910-f76a-4fc8-8766-791f594144b8,05/17/2027 12:30:00,Foreign Portfolio Investment in Canadian Securities,MEDIUM,CAD,Release,0.11,Trade and External
 81939227-6aa8-42b3-bdd6-89499abe8794,05/28/2027 12:30:00,Gross Domestic Product (QoQ),HIGH,CAD,Release,0.17,Growth
 b488a224-48b4-498c-94e9-e17aacd9b8ac,05/28/2027 12:30:00,Gross Domestic Product Annualized,HIGH,CAD,Release,0.17,Growth
+f1c4cdd9-1a8b-4a22-88f9-b43202024f33,06/03/2027 12:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
+9ff08c59-770f-4d45-b671-f4a5d79fad9e,06/03/2027 12:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
+157762ba-3a3a-4c91-be0f-f73459bf3b42,06/03/2027 12:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
+d4f31726-0307-47e5-b9bd-27f8468abe39,06/09/2027 13:45:00,BoC Interest Rate Decision,MEDIUM,CAD,Speech,0.13,Monetary Policy
+79669400-6550-4a2e-a56e-4669cdc51a22,06/09/2027 13:45:00,BoC Monetary Policy Statement,MEDIUM,CAD,Speech,0.13,Monetary Policy
+5b1f11a1-8549-4419-91fe-a94b2e113b15,06/09/2027 14:30:00,BoC Press Conference,MEDIUM,CAD,Speech,0.13,Monetary Policy
 b4a79a94-c87a-40b7-8054-ba313738af97,06/11/2027 12:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
 55f1ac4c-9230-4c1b-bb73-6762762391dc,06/11/2027 12:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
 c96c4452-00fc-413e-9533-e5c290dd1d4a,06/11/2027 12:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
 a50c6330-bd4c-4c79-afa5-0f91bcb71192,06/11/2027 12:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
+cbaa57eb-f4a6-43c9-8568-9c05f63b6f90,06/16/2027 12:30:00,Canadian Portfolio Investment in Foreign Securities,MEDIUM,CAD,Release,0.11,Trade and External
+5e64d481-0462-4f24-b166-a636bf314eb2,06/16/2027 12:30:00,Foreign Portfolio Investment in Canadian Securities,MEDIUM,CAD,Release,0.11,Trade and External
 edc40384-c5dc-49b8-8dda-f3300d78add9,06/17/2027 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
 d48e9af9-18f3-40a8-93d4-799ad028ec1a,06/17/2027 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
 b143f026-7a39-43f5-9475-f4818f87137b,06/17/2027 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
 08198c5c-b0c3-46eb-825e-8d17af60ce7a,06/17/2027 12:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
 fb2ee0ce-f862-4962-a6fe-06baa163770c,06/17/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
+3b5a98ce-a727-4bd7-9862-741a6276b86a,06/23/2027 17:30:00,BoC Summary of Deliberations,HIGH,CAD,Release,0.2,Monetary Policy
+607d0b6c-5688-4d24-b609-a648c361cc84,07/06/2027 12:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
+b92ea159-9b4b-4cfb-b4f6-f47f2dad29a5,07/06/2027 12:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
+7b0d3814-712c-4571-b1f7-b0cd90dd8eac,07/06/2027 12:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
 0c598c2f-0b06-4a05-b5f9-df0d371ab387,07/09/2027 12:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
 9eb8f8b4-a6cf-4427-80ec-9a20c8a426b4,07/09/2027 12:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
 efe81e52-ab87-4c9e-89bb-a44d82ce827d,07/09/2027 12:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
 e08c42b6-633c-48f9-94bb-493a6861f45c,07/09/2027 12:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
+c5e32958-24cf-4ddc-a052-61f6b41dc95f,07/14/2027 13:45:00,BoC Interest Rate Decision,MEDIUM,CAD,Speech,0.13,Monetary Policy
+bf83d232-3e90-48d4-83e3-46a20849751f,07/14/2027 13:45:00,BoC Monetary Policy Report,HIGH,CAD,Release,0.2,Monetary Policy
+27d09487-556b-4a4a-a369-dbd17162167c,07/14/2027 13:45:00,BoC Monetary Policy Statement,MEDIUM,CAD,Speech,0.13,Monetary Policy
+6413611c-78d6-4fd7-b25b-3c63cf7d6edf,07/14/2027 14:30:00,BoC Press Conference,MEDIUM,CAD,Speech,0.13,Monetary Policy
+7d74eb2a-0621-435d-b498-6aeba9c99036,07/16/2027 12:30:00,Canadian Portfolio Investment in Foreign Securities,MEDIUM,CAD,Release,0.11,Trade and External
+f89ace96-2740-4ad6-bdf4-a258527731dd,07/16/2027 12:30:00,Foreign Portfolio Investment in Canadian Securities,MEDIUM,CAD,Release,0.11,Trade and External
 9f411322-edf1-49d5-b097-eecba7e21ebc,07/20/2027 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
 b19fd9f1-581c-4f03-a6e2-59b7f501ce0e,07/20/2027 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
 e42b7731-211d-4001-9580-373f42bbd8af,07/20/2027 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
 02fc2214-9249-4363-a23e-022873407049,07/20/2027 12:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
 50cac9c2-cdea-4b48-8fa2-ff778262b1b2,07/20/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
+1ebced90-e78d-44f4-b500-555123e93ba9,07/28/2027 17:30:00,BoC Summary of Deliberations,HIGH,CAD,Release,0.2,Monetary Policy
+c669b3cb-3ef6-407a-a556-ae4edd8bb11d,08/05/2027 12:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
+9f4655b2-46cc-4ad2-85e3-25f4a64b5c6b,08/05/2027 12:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
+df2c2ec7-4f22-4bdb-9231-b700a597f121,08/05/2027 12:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
 4b0eb706-2e65-471e-bf6d-259f163af476,08/13/2027 12:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
 53c7704c-55e7-4b4a-a366-7acad3da8169,08/13/2027 12:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
 0984e361-10ea-4af1-b6ec-910a383d4b5f,08/13/2027 12:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
 9d2249bb-e649-4407-84b7-a7370b9c1a63,08/13/2027 12:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
+a7cbd942-081d-473c-936e-18b31c136d5c,08/17/2027 12:30:00,Canadian Portfolio Investment in Foreign Securities,MEDIUM,CAD,Release,0.11,Trade and External
+71d1b1fd-beb3-46a9-8959-b9369ac5156f,08/17/2027 12:30:00,Foreign Portfolio Investment in Canadian Securities,MEDIUM,CAD,Release,0.11,Trade and External
 6418e869-0d68-4bc6-9ebd-85b63ff2fc76,08/19/2027 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
 fceafa84-c64e-41dc-9051-a4d17819e194,08/19/2027 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
 0b4c995a-ce61-4257-8192-65ce48b14d35,08/19/2027 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
@@ -222,3 +280,12 @@ fceafa84-c64e-41dc-9051-a4d17819e194,08/19/2027 12:30:00,BoC Consumer Price Inde
 97c48c60-956f-4e16-bfd1-1cfdac91fed0,08/19/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
 af5b61d8-5b01-4f80-acd7-01d5b44fedc9,08/31/2027 12:30:00,Gross Domestic Product (QoQ),HIGH,CAD,Release,0.17,Growth
 b08abb47-af9b-4d66-b868-277f6dba50bb,08/31/2027 12:30:00,Gross Domestic Product Annualized,HIGH,CAD,Release,0.17,Growth
+63d49081-947f-45fe-aa41-e49d90ef0941,09/01/2027 13:45:00,BoC Interest Rate Decision,MEDIUM,CAD,Speech,0.13,Monetary Policy
+afc977ad-2177-458e-bf63-229f1b0953e2,09/01/2027 13:45:00,BoC Monetary Policy Statement,MEDIUM,CAD,Speech,0.13,Monetary Policy
+e2674901-6f15-404a-b5a9-194ff1795e5f,09/01/2027 14:30:00,BoC Press Conference,MEDIUM,CAD,Speech,0.13,Monetary Policy
+901e3067-1bac-4225-b201-471a42741de0,09/07/2027 12:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
+84c53761-35c4-42de-93fb-69b445b40136,09/07/2027 12:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
+c143dbc6-d048-4c2c-bf43-24060724cda8,09/07/2027 12:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
+565a8da3-0d2f-46b0-9064-c1bdcf3197d9,09/15/2027 17:30:00,BoC Summary of Deliberations,HIGH,CAD,Release,0.2,Monetary Policy
+2b347248-d13e-4ae6-96db-ba21eaf5cfae,09/16/2027 12:30:00,Canadian Portfolio Investment in Foreign Securities,MEDIUM,CAD,Release,0.11,Trade and External
+72d61927-d1df-488f-8a3f-c4ef79182d0a,09/16/2027 12:30:00,Foreign Portfolio Investment in Canadian Securities,MEDIUM,CAD,Release,0.11,Trade and External

@@ -4,11 +4,11 @@ fbb7ac35-aad9-44fd-aeef-02a9fc7074aa,09/15/2026 08:00:00,Consumer Price Index (M
 e14c9047-dfc7-41f8-abfb-600b3d903191,09/15/2026 08:00:00,Consumer Price Index (YoY),LOW,PLN
 f28e119e-000e-4b84-b2e7-15b519a991db,09/16/2026 12:00:00,Net Inflation,LOW,PLN
 f26158bc-ecb1-4e55-b1d0-dd7fd9303a03,09/18/2026 08:00:00,Industrial Output (YoY),LOW,PLN
-a49479e0-7943-4a85-acd5-d50d40f7ab03,09/21/2026 08:00:00,Corporate Sector Wages,LOW,PLN
-c05547bd-5f9a-4fac-84cf-9aca5d355c41,09/21/2026 08:00:00,Producer Price Index (YoY),LOW,PLN
-03ba4ae5-7a28-46ab-98ac-9631568cd921,09/22/2026 08:00:00,Retail Sales (YoY),LOW,PLN
+a49479e0-7943-4a85-acd5-d50d40f7ab03,09/21/2026 07:30:00,Corporate Sector Wages,LOW,PLN
+c05547bd-5f9a-4fac-84cf-9aca5d355c41,09/21/2026 07:30:00,Producer Price Index (YoY),LOW,PLN
+03ba4ae5-7a28-46ab-98ac-9631568cd921,09/22/2026 07:30:00,Retail Sales (YoY),LOW,PLN
 ab200b5d-07c7-4022-b25a-bf3f6257fccd,09/22/2026 12:00:00,M3 Money Supply (YoY),LOW,PLN
-36058d76-0007-4797-9d45-3ead263bb58b,09/24/2026 08:00:00,Unemployment (MoM),LOW,PLN
+36058d76-0007-4797-9d45-3ead263bb58b,09/23/2026 07:30:00,Unemployment (MoM),LOW,PLN
 8f6bbfb2-d95b-4839-9868-5167738ea22e,10/01/2026 07:00:00,S&P Global Manufacturing PMI,LOW,PLN
 64ffc645-c0c6-48ca-be82-bef0b53b2876,10/07/2026 12:00:00,Central Bank FX Reserves,LOW,PLN
 6d3956b5-417a-4c41-b73f-51e49ce4a70e,10/07/2026 13:00:00,NBP Base rate,LOW,PLN
@@ -16,11 +16,11 @@ ab200b5d-07c7-4022-b25a-bf3f6257fccd,09/22/2026 12:00:00,M3 Money Supply (YoY),L
 bafe961b-e511-41cf-a994-c00982f3640c,10/14/2026 08:00:00,Consumer Price Index (YoY),LOW,PLN
 231a782a-44d8-44b6-9d15-187daa5fcbbb,10/14/2026 12:00:00,Current Account,LOW,PLN
 c73700df-4906-48fd-a533-15206d8ff940,10/16/2026 12:00:00,Net Inflation,LOW,PLN
-637cb2c1-a2cb-4439-ac52-17325ced9633,10/22/2026 08:00:00,Corporate Sector Wages,LOW,PLN
+637cb2c1-a2cb-4439-ac52-17325ced9633,10/22/2026 07:30:00,Corporate Sector Wages,LOW,PLN
+73455b2e-d51d-4f73-80e5-1fab31c9668c,10/22/2026 07:30:00,Producer Price Index (YoY),LOW,PLN
 88af973e-2a87-4957-b9f8-9a01435c4be4,10/22/2026 08:00:00,Industrial Output (YoY),LOW,PLN
-73455b2e-d51d-4f73-80e5-1fab31c9668c,10/22/2026 08:00:00,Producer Price Index (YoY),LOW,PLN
+e3506fa3-0c31-4d76-bee4-2e5efff0b0da,10/23/2026 07:30:00,Unemployment (MoM),LOW,PLN
 4e2cb74a-e365-40b0-880c-7d9c0d6f8db7,10/23/2026 08:00:00,Retail Sales (YoY),LOW,PLN
-e3506fa3-0c31-4d76-bee4-2e5efff0b0da,10/23/2026 08:00:00,Unemployment (MoM),LOW,PLN
 a5186c14-71b5-4ce8-ab2e-e1afc0f7d620,10/23/2026 12:00:00,M3 Money Supply (YoY),LOW,PLN
 3d130c5f-28f7-4300-904d-a21ed255c9f4,11/02/2026 08:00:00,S&P Global Manufacturing PMI,LOW,PLN
 b20b2f35-eb76-406e-bf93-956fe45516fc,11/04/2026 14:00:00,NBP Base rate,LOW,PLN
@@ -30,12 +30,12 @@ b20b2f35-eb76-406e-bf93-956fe45516fc,11/04/2026 14:00:00,NBP Base rate,LOW,PLN
 273fcfe0-0d19-4f4a-8787-f0c211b2dda6,11/13/2026 09:00:00,Consumer Price Index (YoY),LOW,PLN
 93ac94a3-555d-4567-b972-4f823c73e427,11/13/2026 13:00:00,Current Account,LOW,PLN
 5c72e0b5-6f10-45c0-b290-972019c0ebb8,11/16/2026 13:00:00,Net Inflation,LOW,PLN
-91d0e142-bdd8-4001-89fb-52e22545a870,11/19/2026 09:00:00,Corporate Sector Wages,LOW,PLN
+91d0e142-bdd8-4001-89fb-52e22545a870,11/19/2026 08:30:00,Corporate Sector Wages,LOW,PLN
+51d5fe3c-1576-47de-a7dd-b9030cc068f7,11/19/2026 08:30:00,Producer Price Index (YoY),LOW,PLN
 d50b994b-b318-4383-93bb-bdcb097252ee,11/19/2026 09:00:00,Industrial Output (YoY),LOW,PLN
-51d5fe3c-1576-47de-a7dd-b9030cc068f7,11/19/2026 09:00:00,Producer Price Index (YoY),LOW,PLN
 1a1a5e11-1b7a-4c50-a739-9d7f66ceb638,11/23/2026 13:00:00,M3 Money Supply (YoY),LOW,PLN
 0b4a80ca-7903-4899-b040-9bb0935a2e95,11/24/2026 09:00:00,Retail Sales (YoY),LOW,PLN
-06915eda-97cf-4e15-908e-ff5dc213ca08,11/26/2026 09:00:00,Unemployment (MoM),LOW,PLN
+06915eda-97cf-4e15-908e-ff5dc213ca08,11/26/2026 08:30:00,Unemployment (MoM),LOW,PLN
 342977fd-7cd8-43f6-b3ce-ec8da314ba94,12/01/2026 08:00:00,S&P Global Manufacturing PMI,LOW,PLN
 3a46ad6b-0f7d-401b-be35-7cbf530f28ab,12/02/2026 14:00:00,NBP Base rate,LOW,PLN
 14259f7b-8ba2-4a95-afcd-26c184485197,12/03/2026 09:00:00,Gross Domestic Product Qtr (YoY),LOW,PLN
@@ -44,23 +44,23 @@ dd8f958d-0de5-43f0-abe2-f3c9a5510c9a,12/07/2026 13:00:00,Central Bank FX Reserve
 2594e333-6c89-4ab2-82dd-9421233c752e,12/14/2026 09:00:00,Consumer Price Index (YoY),LOW,PLN
 db7bd2f0-03b1-4fb4-bef0-4a5242dfbf5d,12/14/2026 13:00:00,Current Account,LOW,PLN
 60392a91-3adb-45f7-9b0c-ee8e2770ac62,12/16/2026 13:00:00,Net Inflation,LOW,PLN
-f6ef57b4-07d4-45c6-aeff-5df0b8b4fe0f,12/21/2026 09:00:00,Corporate Sector Wages,LOW,PLN
+f6ef57b4-07d4-45c6-aeff-5df0b8b4fe0f,12/21/2026 08:30:00,Corporate Sector Wages,LOW,PLN
+03d540a6-954a-4b42-96a6-749b02bb7f7c,12/21/2026 08:30:00,Producer Price Index (YoY),LOW,PLN
 efdbc8be-0761-4ae7-ae78-aaddd020200a,12/21/2026 09:00:00,Industrial Output (YoY),LOW,PLN
-03d540a6-954a-4b42-96a6-749b02bb7f7c,12/21/2026 09:00:00,Producer Price Index (YoY),LOW,PLN
 817dbf04-8f6a-427c-906c-eea3e9abf9a8,12/22/2026 09:00:00,Retail Sales (YoY),LOW,PLN
 f4742a00-6b26-4037-9726-52adb381fc6c,12/22/2026 13:00:00,M3 Money Supply (YoY),LOW,PLN
-48e155a0-0316-4a00-a9e1-c9f816c96933,12/23/2026 09:00:00,Unemployment (MoM),LOW,PLN
+48e155a0-0316-4a00-a9e1-c9f816c96933,12/23/2026 08:30:00,Unemployment (MoM),LOW,PLN
 9dc22476-9e1a-4e07-8e6e-04da0fd05a86,01/04/2027 08:00:00,S&P Global Manufacturing PMI,LOW,PLN
 8a2fbcb6-2f0f-433a-8cac-0c7e5f47dabe,01/07/2027 13:00:00,Central Bank FX Reserves,LOW,PLN
 f7b4990a-e9b9-4602-b7bb-69d9cee7bc84,01/14/2027 09:00:00,Consumer Price Index (MoM),LOW,PLN
 396968ec-a207-4e48-8eb0-1bead7cf64fb,01/14/2027 09:00:00,Consumer Price Index (YoY),LOW,PLN
 858acd51-7e7c-4cf9-a4b9-f154bc92432a,01/14/2027 13:00:00,Current Account,LOW,PLN
 1d2833ca-40d8-41fe-9be2-b71a245ba65c,01/18/2027 13:00:00,Net Inflation,LOW,PLN
-38591832-1e41-4f3c-8249-cd610cd019d4,01/21/2027 09:00:00,Corporate Sector Wages,LOW,PLN
+38591832-1e41-4f3c-8249-cd610cd019d4,01/21/2027 08:30:00,Corporate Sector Wages,LOW,PLN
+78221168-1bd7-4b89-85a1-3fa59d46fe61,01/21/2027 08:30:00,Producer Price Index (YoY),LOW,PLN
 e935938a-e741-443f-aa7d-d6bb1114d2da,01/21/2027 09:00:00,Industrial Output (YoY),LOW,PLN
-78221168-1bd7-4b89-85a1-3fa59d46fe61,01/21/2027 09:00:00,Producer Price Index (YoY),LOW,PLN
 950967eb-43e4-4d22-bc73-c8e7ae257414,01/22/2027 13:00:00,M3 Money Supply (YoY),LOW,PLN
+f3b167bb-3ffb-4a25-a599-25f93693fdd9,01/26/2027 08:30:00,Unemployment (MoM),LOW,PLN
 85d09c16-39f9-4309-b0bf-1d31fd5f7dda,01/26/2027 09:00:00,Retail Sales (YoY),LOW,PLN
-f3b167bb-3ffb-4a25-a599-25f93693fdd9,01/26/2027 09:00:00,Unemployment (MoM),LOW,PLN
 8d31876f-1510-4ba9-a0e3-0ead99c554ea,02/01/2027 08:00:00,S&P Global Manufacturing PMI,LOW,PLN
 37030c54-1777-48b6-97e3-842f1349ce8e,02/16/2027 09:00:00,Gross Domestic Product Qtr (YoY),LOW,PLN

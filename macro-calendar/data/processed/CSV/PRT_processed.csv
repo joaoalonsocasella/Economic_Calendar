@@ -1,7 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 673a9352-ae39-46f0-99d7-6fdec69a7107,09/18/2026 10:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
-7f8d2901-8126-4d1c-945a-913cf055ed45,09/30/2026 08:30:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
-5f14ba25-8788-4f16-917b-38f23b40f7b4,09/30/2026 08:30:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+7f8d2901-8126-4d1c-945a-913cf055ed45,09/29/2026 08:30:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+5f14ba25-8788-4f16-917b-38f23b40f7b4,09/29/2026 08:30:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 fc34c2b4-1eec-4a94-8b89-a1b36d278b44,09/30/2026 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 360236ad-f076-49aa-97e5-e1ad02ee4bd8,09/30/2026 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 2f002da6-e293-42c2-b1bd-fe915e087cc2,10/09/2026 10:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External

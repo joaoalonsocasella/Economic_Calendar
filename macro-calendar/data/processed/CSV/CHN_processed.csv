@@ -1,6 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e536e321-9dd7-46d3-9a62-6d1eb1b37cb8,09/14/2026 10:00:00,M2 Money Supply (YoY),HIGH,CNY,Release,0.19,Inflation
-dce38b16-fd8e-4b1b-b18c-32206ab7baf1,09/14/2026 10:00:00,New Loans,LOW,CNY,Release,0.09,Money and Credit
+e536e321-9dd7-46d3-9a62-6d1eb1b37cb8,09/14/2026 09:00:00,M2 Money Supply (YoY),HIGH,CNY,Release,0.19,Inflation
+dce38b16-fd8e-4b1b-b18c-32206ab7baf1,09/14/2026 09:00:00,New Loans,LOW,CNY,Release,0.09,Money and Credit
 838b85b0-fb47-4e8e-8650-babac4c93794,09/15/2026 01:30:00,House Price Index ,LOW,CNY,Release,0.07,Housing
 c1bbb2dd-226c-49d1-a096-951084260b49,09/15/2026 02:00:00,Fixed Asset Investment (YTD) (YoY),HIGH,CNY,Release,0.17,Growth
 5d0d3b35-6df9-4d0a-854e-38bc2361ea78,09/15/2026 02:00:00,Industrial Production (YoY),HIGH,CNY,Release,0.17,Growth
@@ -9,8 +9,8 @@ cea6e311-ddb3-4152-a90f-8ea31993afa5,09/15/2026 02:00:00,Retail Sales (YoY),HIGH
 12ff1069-ccb5-4d3f-bea3-925f87949383,09/21/2026 01:15:00,PBoC Interest Rate Decision,HIGH,CNY,Release,0.2,Monetary Policy
 9cafad1b-045b-42b3-b4d3-c622e0c62911,09/30/2026 01:30:00,NBS Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
 03f6913f-b9e1-4290-957b-5769dd7164b4,09/30/2026 01:30:00,NBS Non-Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
-40883265-88e6-4b1a-9696-bf39cca62db5,10/01/2026 01:45:00,RatingDog Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
-a8ec93f9-6ad8-4989-951e-323318481e5b,10/05/2026 01:45:00,RatingDog Services PMI,HIGH,CNY,Release,0.17,Growth
+40883265-88e6-4b1a-9696-bf39cca62db5,09/30/2026 01:45:00,RatingDog Manufacturing PMI,HIGH,CNY,Release,0.17,Growth
+a8ec93f9-6ad8-4989-951e-323318481e5b,09/30/2026 01:45:00,RatingDog Services PMI,HIGH,CNY,Release,0.17,Growth
 4317e367-b4a8-48f2-be30-bc868d7cf93c,10/07/2026 08:00:00,Foreign Exchange Reserves (MoM),LOW,CNY,Release,0.09,Money and Credit
 aa331164-992d-4e99-8c1a-63dd522bc5f1,10/09/2026 01:30:00,Consumer Price Index (MoM),HIGH,CNY,Release,0.19,Inflation
 9c9530d4-77e3-4bc0-abe0-e5aae4b8767a,10/09/2026 01:30:00,Consumer Price Index (YoY),HIGH,CNY,Release,0.19,Inflation
