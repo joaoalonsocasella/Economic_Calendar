@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-3c0e9d2d-78c4-4e34-8c8b-d0ef869620f3,09/14/2026 06:30:00,Producer and Import Prices (MoM),HIGH,CHF,Release,0.19,Inflation
-0fd7167e-683c-4452-813a-f2c9931eb080,09/14/2026 06:30:00,Producer and Import Prices (YoY),HIGH,CHF,Release,0.19,Inflation
 d5d81078-91be-4421-aa35-8dded1527486,09/17/2026 06:00:00,Exports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
 90deed7b-f318-46fe-b761-d50ae7a1e5ce,09/17/2026 06:00:00,Imports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
 b424b0f6-9cdd-4e81-a9b5-2174d7c1e307,09/17/2026 06:00:00,Trade Balance,MEDIUM,CHF,Release,0.11,Trade and External

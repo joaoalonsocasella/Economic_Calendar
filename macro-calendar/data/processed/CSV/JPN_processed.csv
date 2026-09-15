@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-315e96c8-eb9f-456a-b10e-92d4079e2eed,09/14/2026 04:30:00,Capacity Utilization,HIGH,JPY,Release,0.2,Monetary Policy
-029bc37f-a6a5-40a0-b329-d9d1f9a0dd87,09/14/2026 04:30:00,Industrial Production (MoM),HIGH,JPY,Release,0.17,Growth
-9d100f47-d43a-4a2d-b785-82c6ea87daac,09/14/2026 04:30:00,Industrial Production (YoY),HIGH,JPY,Release,0.17,Growth
 eacf0cbd-ebcf-4e73-82d4-b15313e5b78d,09/15/2026 04:30:00,Tertiary Industry Index (MoM),HIGH,JPY,Release,0.17,Growth
 a130c745-7a2c-4602-92a9-c67c5f4a24b2,09/15/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY,Release,0.11,Trade and External
 c18dd204-e1a4-466a-9990-95314526db66,09/15/2026 23:50:00,Exports (YoY),MEDIUM,JPY,Release,0.11,Trade and External

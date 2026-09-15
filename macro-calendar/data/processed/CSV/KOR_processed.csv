@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d0bdea7f-2807-4743-885b-40d78a586b50,09/14/2026 21:00:00,Export Price Growth (YoY),MEDIUM,KRW,Release,0.11,Trade and External
-5aae209f-fcf6-4dcd-b187-6d08bbcacf65,09/14/2026 21:00:00,Import Price Growth (YoY),MEDIUM,KRW,Release,0.11,Trade and External
-9a7d67fa-9ec1-4aee-acbd-ff910a9fbe00,09/14/2026 23:55:00,Trade Balance,MEDIUM,KRW,Release,0.11,Trade and External
 0663fe1e-b14c-4fb0-80fe-e2b01100ed63,09/15/2026 03:00:00,Money Supply Growth,HIGH,KRW,Release,0.2,Monetary Policy
 33aad36b-09d2-4466-92c0-04b9b7be4b0c,09/17/2026 21:00:00,Producer Price Index Growth (MoM),HIGH,KRW,Release,0.19,Inflation
 70c20426-ffc0-42db-9992-c9aa69230493,09/17/2026 21:00:00,Producer Price Index Growth (YoY),HIGH,KRW,Release,0.19,Inflation
