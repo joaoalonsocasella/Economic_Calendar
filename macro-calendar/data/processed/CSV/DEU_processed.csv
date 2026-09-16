@@ -1,9 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e07d9688-46b5-4959-8f93-800fa00ead90,09/15/2026 06:00:00,Wholesale Price Index (MoM),HIGH,EUR,Release,0.468,Trade and External
-060d1319-083b-4c25-ac3c-a79b875e1ee4,09/15/2026 06:00:00,Wholesale Price Index (YoY),HIGH,EUR,Release,0.468,Trade and External
-7e47cc88-045a-4e93-8f09-44ba9b8171b7,09/15/2026 09:00:00,ZEW Survey – Current Situation,HIGH,EUR,Release,0.595,Confidence
-ca2d5d7f-6875-4d26-bdc8-05bed1e54d9d,09/15/2026 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
-5d795863-f6d3-44cf-9a18-b1dd1d11c41c,09/16/2026 09:30:00,30-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
+5d795863-f6d3-44cf-9a18-b1dd1d11c41c,09/16/2026 09:40:00,30-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 d6c19367-de54-4e58-bc76-fedcc6608866,09/18/2026 06:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 ceeebd2c-b543-4307-9b94-fe08f403c12f,09/18/2026 06:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 1fc18db5-168f-45b2-9eff-009cb27559ed,09/21/2026 10:00:00,German Buba Monthly Report,HIGH,EUR,Release,0.85,Monetary Policy

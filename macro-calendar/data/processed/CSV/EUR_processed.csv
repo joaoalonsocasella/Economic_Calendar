@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e4533e22-c08d-48a6-a7c1-8db003984772,09/15/2026 09:00:00,Trade Balance n.s.a.,HIGH,EUR,Release,0.468,Trade and External
-d836aa3c-2945-461d-80c5-7c697186fb30,09/15/2026 09:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External
-595a2c75-3a04-4762-a77a-e19f16d2f7de,09/15/2026 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
-17d0cbe5-d93d-49e5-ac41-3f8456aed991,09/15/2026 14:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
 0160cfe1-9b2b-4a5e-8aae-e7813b52949d,09/16/2026 09:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 e181a83e-3abc-4ffe-8e12-524e4aa69c95,09/16/2026 09:00:00,Industrial Production w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth
 d38229ce-47a0-4f5f-bdf5-c9b66dbebb7c,09/16/2026 09:00:00,Labor Cost Index,HIGH,EUR,Release,0.765,Labor Market

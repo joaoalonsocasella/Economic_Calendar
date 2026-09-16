@@ -1,9 +1,4 @@
 Id,Start,Name,Impact,Currency
-06563774-e301-4425-a352-6b8897a3a95d,09/15/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
-39da28c4-1e12-48d7-9fe1-ec7c0080c68c,09/15/2026 12:30:00,NY Empire State Manufacturing Index,MEDIUM,USD
-10462a6d-253e-4d97-9cdb-095ab555f86b,09/15/2026 13:15:00,Redbook Index (YoY),LOW,USD
-154f0b9f-c476-4a18-8bff-e2d534bd43ac,09/15/2026 17:00:00,20-Year Bond Auction,LOW,USD
-a3d70c3f-49eb-4cbc-b8cb-8aeda18a3836,09/15/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
 5a9b0268-211d-4fcf-b4ff-d642444163bb,09/16/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 6da38d6b-1c3c-4c1b-9dc7-7e944e820d78,09/16/2026 12:30:00,Export Price Index (MoM),LOW,USD
 23861fee-523c-49e3-b576-0b8d11b22ba6,09/16/2026 12:30:00,Export Price Index (YoY),LOW,USD
@@ -30,6 +25,7 @@ a0e42f03-df7d-478a-a5c4-fc2a27de7320,09/16/2026 18:00:00,Interest Rate Projectio
 f560c035-6567-4131-bd62-1e686a974676,09/16/2026 18:30:00,FOMC Press Conference,HIGH,USD
 39fa570b-920a-4be7-b0d5-dfc203ee690c,09/16/2026 20:00:00,Net Long-Term TIC Flows,LOW,USD
 39601421-1cf8-4b9c-a0b8-2c72c4c1de59,09/16/2026 20:00:00,Total Net TIC Flows,LOW,USD
+a3d70c3f-49eb-4cbc-b8cb-8aeda18a3836,09/16/2026 21:00:00,API Weekly Crude Oil Stock,LOW,USD
 fa078b59-b515-402a-a979-8fa4df1109bc,09/17/2026 12:30:00,Building Permits (MoM),MEDIUM,USD
 85d08158-1eea-4d0a-a82c-88e094f986da,09/17/2026 12:30:00,Building Permits Change,LOW,USD
 1d5912e7-e3de-4f06-8906-81f251604ab5,09/17/2026 12:30:00,Continuing Jobless Claims,LOW,USD
