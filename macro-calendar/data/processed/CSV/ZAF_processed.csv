@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a13554e3-2807-446c-b7c8-98c4049b8088,09/16/2026 11:00:00,Retail Sales (YoY),HIGH,ZAR,Release,0.17,Growth
 4154f57f-0256-4547-baad-fa4036a3f848,09/23/2026 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
 bc4820e4-8f56-4366-8dca-ad4bfc24b710,09/23/2026 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
 fa013c75-a4eb-4091-b701-1aa2280cd1d5,09/23/2026 13:00:00,SARB Interest Rate Decision,HIGH,ZAR,Release,0.2,Monetary Policy
@@ -66,8 +65,8 @@ a194ec65-a6f1-4bc2-849b-a4168c998a1e,01/20/2027 08:00:00,Consumer Price Index (Y
 e39599f0-eebc-48e5-a8f8-2e03dd4c972c,01/29/2027 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation
 8e3099d1-afea-4f04-b74b-8fc0cba5941a,01/29/2027 06:00:00,Private Sector Credit,LOW,ZAR,Release,0.09,Money and Credit
 43e7980b-e029-4c3a-ad1b-995404103044,01/29/2027 12:00:00,Trade Balance (in Rands),MEDIUM,ZAR,Release,0.11,Trade and External
-2c277521-a8dc-48e6-b503-29d63d754497,02/10/2027 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
 ae33955e-41e8-4ee4-bc5b-67e5bab3c6ef,02/10/2027 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
+2c277521-a8dc-48e6-b503-29d63d754497,02/10/2027 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
 696a87c3-c5d5-4d1c-b763-9c0bbc59af5d,02/11/2027 11:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth
 c3deb12f-0e42-4f10-ba37-212a3190538f,02/16/2027 09:30:00,Unemployment Rate (%),HIGH,ZAR,Release,0.18,Labor Market
 ecd65ba2-6efd-4e96-8ae6-453d0931303a,02/16/2027 09:30:00,Unemployment Total ,HIGH,ZAR,Release,0.18,Labor Market

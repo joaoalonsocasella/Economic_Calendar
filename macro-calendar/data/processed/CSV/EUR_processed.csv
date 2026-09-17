@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0160cfe1-9b2b-4a5e-8aae-e7813b52949d,09/16/2026 09:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
-e181a83e-3abc-4ffe-8e12-524e4aa69c95,09/16/2026 09:00:00,Industrial Production w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth
-d38229ce-47a0-4f5f-bdf5-c9b66dbebb7c,09/16/2026 09:00:00,Labor Cost Index,HIGH,EUR,Release,0.765,Labor Market
-7b8a8f82-10d8-43ea-94be-5179553887eb,09/16/2026 12:15:00,ECB's Vujčić speech,HIGH,EUR,Speech,0.552,Monetary Policy
-cb9f24dc-a4e5-4632-8192-c87e6ecf6599,09/16/2026 13:00:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy
-5ac24d29-4f1a-4bb0-80c0-cf382069cc42,09/16/2026 17:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
 b153b2ab-bcd7-4079-bd2c-2ff4ac87b490,09/17/2026 07:00:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
 43f70cb1-9cfa-43be-84c8-80457e6d9345,09/17/2026 09:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 cc7de10b-681a-49be-82b8-15d0d248ffaf,09/17/2026 09:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.807,Inflation
