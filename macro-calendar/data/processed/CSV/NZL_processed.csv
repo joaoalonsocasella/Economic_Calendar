@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-385badcd-743c-429b-88f4-c59a77e47b55,09/17/2026 22:45:00,Exports,MEDIUM,NZD,Release,0.11,Trade and External
-c603beb6-4d82-461f-a1b2-0bae55fe255c,09/17/2026 22:45:00,Food Price Index (MoM),HIGH,NZD,Release,0.19,Inflation
-14ff2a41-1b38-42fd-a0a0-d1d800fee3b5,09/17/2026 22:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External
-81a30bd4-268d-465a-bbeb-fe17f998a462,09/17/2026 22:45:00,Trade Balance NZD (MoM),MEDIUM,NZD,Release,0.11,Trade and External
-1f4c6897-5318-4cbc-ad12-1ab11734a83a,09/17/2026 22:45:00,Trade Balance NZD (YoY),MEDIUM,NZD,Release,0.11,Trade and External
 e5bd2003-607e-4f62-86ef-eb0125f25a4b,09/21/2026 03:00:00,Credit Card Spending (YoY),HIGH,NZD,Release,0.17,Growth
 a3c65917-99dd-4954-b4f1-076e7124842a,09/21/2026 21:00:00,Westpac Consumer Survey,MEDIUM,NZD,Release,0.14,Confidence
 0d5617b8-d6a7-4c1e-9101-2d5165b41a00,09/26/2026 16:00:00,Daylight Saving Time,HIGH,NZD,Release,0.2,Monetary Policy
@@ -76,8 +71,8 @@ e87b660c-b34e-43c2-b3c2-903a9a75151c,12/10/2026 21:45:00,Electronic Card Retail 
 998984e3-5a27-4408-992c-d9cf0947f14c,12/10/2026 21:45:00,Electronic Card Retail Sales (YoY),HIGH,NZD,Release,0.17,Growth
 d94e9750-d132-413e-95e6-7c752524f981,12/10/2026 21:45:00,Food Price Index (MoM),HIGH,NZD,Release,0.19,Inflation
 003eda31-80c9-4999-b0ee-a2e0a28f3d8c,12/13/2026 21:30:00,Business NZ PSI,MEDIUM,NZD,Release,0.14,Confidence
-f5e2e978-f08f-40a6-8a8b-5c5f49a4d7c1,12/13/2026 21:45:00,Visitor Arrivals (YoY),HIGH,NZD,Release,0.19,Inflation
 59c54249-7dad-4c53-ba67-31e635a57b02,12/13/2026 21:45:00,Visitor Arrivals (YoY),HIGH,NZD,Release,0.19,Inflation
+f5e2e978-f08f-40a6-8a8b-5c5f49a4d7c1,12/13/2026 21:45:00,Visitor Arrivals (YoY),HIGH,NZD,Release,0.19,Inflation
 cbe28735-15f2-458a-8a86-b8db0560a859,12/15/2026 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 c9833742-a399-4ac7-a014-994329a08b3a,12/15/2026 21:45:00,Current Account - GDP Ratio,MEDIUM,NZD,Release,0.11,Trade and External
 687a8a96-46f7-41f5-9b29-68ffc6f93732,12/15/2026 21:45:00,Current Account (QoQ),MEDIUM,NZD,Release,0.11,Trade and External

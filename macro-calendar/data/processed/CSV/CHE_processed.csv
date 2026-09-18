@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d5d81078-91be-4421-aa35-8dded1527486,09/17/2026 06:00:00,Exports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
-90deed7b-f318-46fe-b761-d50ae7a1e5ce,09/17/2026 06:00:00,Imports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
-b424b0f6-9cdd-4e81-a9b5-2174d7c1e307,09/17/2026 06:00:00,Trade Balance,MEDIUM,CHF,Release,0.11,Trade and External
-54807382-9405-455b-a3ab-f9f04462db6f,09/17/2026 07:00:00,SECO Economic Forecasts,MEDIUM,CHF,Release,0.14,Confidence
 e722a23d-b084-4877-89bc-b325f0f82aa2,09/24/2026 07:30:00,SNB Interest Rate Decision,HIGH,CHF,Release,0.2,Monetary Policy
 a1df7c23-d368-41da-bb46-d55491653d8e,09/24/2026 07:30:00,SNB Monetary Policy Assessment,MEDIUM,CHF,Speech,0.13,Monetary Policy
 ec575c99-e4f4-4900-90b2-db626bf83150,09/24/2026 08:00:00,SNB Press Conference,MEDIUM,CHF,Speech,0.13,Monetary Policy

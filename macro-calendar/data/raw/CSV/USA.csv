@@ -1,17 +1,4 @@
 Id,Start,Name,Impact,Currency
-fa078b59-b515-402a-a979-8fa4df1109bc,09/17/2026 12:30:00,Building Permits (MoM),MEDIUM,USD
-85d08158-1eea-4d0a-a82c-88e094f986da,09/17/2026 12:30:00,Building Permits Change,LOW,USD
-1d5912e7-e3de-4f06-8906-81f251604ab5,09/17/2026 12:30:00,Continuing Jobless Claims,LOW,USD
-910c3e52-b16c-45b2-a633-7312fac06374,09/17/2026 12:30:00,Housing Starts (MoM),MEDIUM,USD
-f103afea-7c50-4403-9545-f014850492d5,09/17/2026 12:30:00,Housing Starts Change,LOW,USD
-b63eab1c-6055-48b1-9821-503445a2f067,09/17/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
-325e7533-b2ff-427b-96a7-0cf022aa7664,09/17/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
-9909c0ea-a176-41b4-afc6-85a3d0bef52e,09/17/2026 12:30:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD
-356de820-a4af-4f42-b44d-b8d0b4574439,09/17/2026 14:00:00,Pending Home Sales (MoM),MEDIUM,USD
-8c74d829-3147-4931-a611-d1ce63f7c234,09/17/2026 14:00:00,Pending Home Sales (YoY),LOW,USD
-aa17f77d-e650-4a24-8f2c-2654507241a5,09/17/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
-c0ae1b39-bcd4-4626-8764-e73338ee6d33,09/17/2026 15:30:00,4-Week Bill Auction,LOW,USD
-abd8b6c5-0d6c-48b8-8176-bb3b5d3a37e4,09/17/2026 17:00:00,10-year TIPS Auction,LOW,USD
 92303282-0386-444f-96f1-40ec58745518,09/18/2026 07:30:00,Fed's Bowman speech,MEDIUM,USD
 ce46c056-6394-48f0-af71-f8b0ebf1ec8c,09/18/2026 13:15:00,Capacity Utilization,LOW,USD
 ac680010-fa1a-4be3-a175-d7cf0806f2b3,09/18/2026 13:15:00,Industrial Production (MoM),MEDIUM,USD
@@ -26,17 +13,22 @@ ce4cdf07-909f-4cf3-ac91-371a0a18e650,09/21/2026 15:30:00,3-Month Bill Auction,LO
 d004d32b-17f6-42eb-8639-93b4a1a7ada2,09/22/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 33a1bad9-c30e-42b7-a78d-fb6dac1949e1,09/22/2026 12:55:00,Redbook Index (YoY),LOW,USD
 a5bfd9b4-b523-48fa-b164-a2146ed4951c,09/22/2026 14:00:00,Richmond Fed Manufacturing Index,LOW,USD
+50317758-bbaf-42ae-950b-c8f54cfba5b9,09/22/2026 14:05:00,Fed's Williams speech,MEDIUM,USD
+5a11fd8d-ef29-4225-889b-59b0f872a22a,09/22/2026 14:20:00,Fed's Jefferson speech,MEDIUM,USD
 a856092a-aa93-4829-9fb1-2b8d693240c0,09/22/2026 17:00:00,2-Year Note Auction,LOW,USD
+d74b4c1c-02a5-4a4d-92a5-fbe45f2cf2a1,09/22/2026 17:00:00,Fed's Barkin speech,MEDIUM,USD
 2bd7185a-4771-40fc-b862-fdd2a4a9e80d,09/22/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
 8d41219e-4ab0-494e-b878-212a1540538e,09/23/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 4bcb1e02-72f0-42d1-867b-85958e546228,09/23/2026 13:45:00,S&P Global Composite PMI,MEDIUM,USD
 6dd30953-081a-47f8-bd4c-1d8c81ccc7bb,09/23/2026 13:45:00,S&P Global Manufacturing PMI,HIGH,USD
 11406332-cc3c-4add-a860-087f85dfddc6,09/23/2026 13:45:00,S&P Global Services PMI,HIGH,USD
+ca345836-6b8f-419b-897a-441443586a5b,09/23/2026 14:05:00,Fed's Barr speech,MEDIUM,USD
 6a0491a7-f992-4f28-9efd-a4b7b18b2ba3,09/23/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
 955e00e7-6f97-4a47-b47c-6a07c63a5fe9,09/23/2026 14:30:00,EIA Distillate Stocks Change,LOW,USD
 95313159-e653-4791-a99c-9218a7bd2f68,09/23/2026 14:30:00,EIA Gasoline Stocks Change,LOW,USD
 03897ae5-2948-4c4c-9769-8581e3186c87,09/23/2026 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
 13e3ccf4-4d14-4240-a909-cf851b86c196,09/23/2026 17:00:00,5-Year Note Auction,LOW,USD
+6ca42093-399d-4c0a-814b-07af4236fcee,09/24/2026 08:10:00,Fed's Williams speech,MEDIUM,USD
 8e4cd720-4ef3-4dca-a8fb-e53ab69c452b,09/24/2026 12:30:00,Continuing Jobless Claims,LOW,USD
 990add36-d75c-49d5-a2a5-52ef7365ec0d,09/24/2026 12:30:00,Current Account,LOW,USD
 11e2ad64-148f-4472-81dc-86bea3e398fe,09/24/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
@@ -49,6 +41,7 @@ ebf2cd9c-c0d3-4f54-81f5-2dfa63740f52,09/24/2026 12:30:00,Initial Jobless Claims 
 4be9614e-0519-4e3b-a1d0-4d5c30cca79d,09/24/2026 15:00:00,Kansas Fed Manufacturing Activity,LOW,USD
 f7d9645c-9046-4540-acd6-2f77cc1070fa,09/24/2026 15:30:00,4-Week Bill Auction,LOW,USD
 94cdf03b-71fb-46b1-bebe-72ca2b6f5a78,09/24/2026 17:00:00,7-Year Note Auction,LOW,USD
+ac28536c-4a22-4e6b-9928-d9be5cbda9b9,09/25/2026 09:15:00,Fed's Williams speech,MEDIUM,USD
 1de061bb-753c-4ed4-aa16-cd3c49da1b20,09/25/2026 12:30:00,Durable Goods Orders,MEDIUM,USD
 8ddb685d-6cab-42bd-8f4a-b3f6f395faf3,09/25/2026 12:30:00,Durable Goods Orders ex Defense,MEDIUM,USD
 2a4ed7f5-0178-47a5-9834-56e47ce8cd41,09/25/2026 12:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
@@ -71,6 +64,7 @@ c2f89aa7-1675-47f1-aad7-ee7e234d98ee,09/29/2026 13:00:00,Housing Price Index (Mo
 97718244-bfcd-4fe7-9b4b-d7121364d5a5,09/29/2026 14:00:00,Consumer Confidence,MEDIUM,USD
 4d46122c-46c3-44ad-99d3-87f89310848c,09/29/2026 14:00:00,JOLTS Job Openings,MEDIUM,USD
 aeaf4be2-f41d-4678-a560-ca08ad3df849,09/29/2026 15:30:00,52-Week Bill Auction,LOW,USD
+75293df7-a91e-4340-adba-3ec701405118,09/29/2026 17:00:00,Fed's Goolsbee speech,MEDIUM,USD
 37cccbbe-f1d4-48d4-ad09-54c10c5a12b3,09/29/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
 0bc8c50a-9466-46b7-8c1b-a4f2ca56af77,09/30/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 c64df516-64bb-4737-9430-1ff3df1bab9a,09/30/2026 12:15:00,ADP Employment Change,HIGH,USD

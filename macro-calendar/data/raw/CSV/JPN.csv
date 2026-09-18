@@ -1,8 +1,5 @@
 Id,Start,Name,Impact,Currency
-f4255e7f-bf92-4be4-8e47-6f6143676466,09/17/2026 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
-cf065e22-9fa7-4765-9ecd-3b776d6b33da,09/17/2026 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
-8605a4e9-72ad-42f3-9ccd-a9bd58a33bc3,09/17/2026 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
-8e17cf2f-7fa7-4ceb-b303-33a6098af56a,09/18/2026 03:00:00,BoJ Interest Rate Decision,HIGH,JPY
+8e17cf2f-7fa7-4ceb-b303-33a6098af56a,09/18/2026 02:54:26,BoJ Interest Rate Decision,HIGH,JPY
 34d7a1f7-2cd9-48bb-9212-1f6350d3d005,09/18/2026 03:00:00,BoJ Monetary Policy Statement,HIGH,JPY
 b4633dd0-7b80-449e-a272-5746f0e40581,09/18/2026 06:30:00,BoJ Press Conference,HIGH,JPY
 023b5cd2-2e4b-4a03-a402-2f18f4a61a39,09/18/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
