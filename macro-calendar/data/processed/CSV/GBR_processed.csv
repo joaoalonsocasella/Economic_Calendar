@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d4e4be86-e5e2-4c8b-8814-5963c2dc1467,09/18/2026 06:00:00,Retail Sales (MoM),HIGH,GBP,Release,0.17,Growth
-8f506f96-62f8-4c2c-98d9-d468b2beb98a,09/18/2026 06:00:00,Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
-d0cca143-b4b8-4ba7-9b9b-ef34e6e4aabd,09/18/2026 06:00:00,Retail Sales ex-Fuel (MoM),HIGH,GBP,Release,0.17,Growth
-b9127cda-466f-4607-8b92-ef4ed9a08938,09/18/2026 06:00:00,Retail Sales ex-Fuel (YoY),HIGH,GBP,Release,0.17,Growth
-9ea0ade7-668d-40de-8425-47e5e3824e34,09/18/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 fd082c2d-6626-4ebe-8238-796f5e96a06f,09/20/2026 23:01:00,Rightmove House Price Index (MoM),LOW,GBP,Release,0.07,Housing
 98fddf5a-3f79-45d5-b61d-550531afd8f5,09/20/2026 23:01:00,Rightmove House Price Index (YoY),LOW,GBP,Release,0.07,Housing
 715be5a1-d504-49b8-a80f-3ea4c35464b8,09/22/2026 06:00:00,Public Sector Net Borrowing,LOW,GBP,Release,0.09,Money and Credit
