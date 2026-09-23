@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-ee65feca-efd2-4276-9b63-ef5fb4555fcf,09/22/2026 03:10:00,RBA Governor Bullock speech,MEDIUM,AUD,Speech,0.13,Monetary Policy
-b97aa58f-9f9c-45bb-8187-3981b17a65cd,09/22/2026 23:00:00,S&P Global Composite PMI,HIGH,AUD,Release,0.17,Growth
-b01f741e-49a3-4691-99a6-8a91eb6d319a,09/22/2026 23:00:00,S&P Global Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
-e9255e8a-9147-4b47-bb83-a98865cc373f,09/22/2026 23:00:00,S&P Global Services PMI,HIGH,AUD,Release,0.17,Growth
 1ef2ffdb-857d-4861-be3b-68ff15452f39,09/24/2026 01:30:00,Employment Change s.a.,HIGH,AUD,Release,0.18,Labor Market
 1a887a16-c08b-4e60-87aa-c463054aa6e8,09/24/2026 01:30:00,Full-Time Employment,HIGH,AUD,Release,0.18,Labor Market
 c839ee7f-20f4-4028-b90f-3a8b6d7f37b8,09/24/2026 01:30:00,Part-Time Employment,HIGH,AUD,Release,0.18,Labor Market

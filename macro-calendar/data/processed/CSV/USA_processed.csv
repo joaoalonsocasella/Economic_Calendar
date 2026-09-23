@@ -1,12 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d004d32b-17f6-42eb-8639-93b4a1a7ada2,09/22/2026 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
-33a1bad9-c30e-42b7-a78d-fb6dac1949e1,09/22/2026 13:00:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
-a5bfd9b4-b523-48fa-b164-a2146ed4951c,09/22/2026 14:00:00,Richmond Fed Manufacturing Index,HIGH,USD,Release,0.17,Growth
-50317758-bbaf-42ae-950b-c8f54cfba5b9,09/22/2026 14:05:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
-5a11fd8d-ef29-4225-889b-59b0f872a22a,09/22/2026 14:20:00,Fed's Jefferson speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-a856092a-aa93-4829-9fb1-2b8d693240c0,09/22/2026 17:00:00,2-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-d74b4c1c-02a5-4a4d-92a5-fbe45f2cf2a1,09/22/2026 17:00:00,Fed's Barkin speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-2bd7185a-4771-40fc-b862-fdd2a4a9e80d,09/22/2026 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 8d41219e-4ab0-494e-b878-212a1540538e,09/23/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 4bcb1e02-72f0-42d1-867b-85958e546228,09/23/2026 13:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
 6dd30953-081a-47f8-bd4c-1d8c81ccc7bb,09/23/2026 13:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
