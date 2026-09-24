@@ -1,14 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-8d41219e-4ab0-494e-b878-212a1540538e,09/23/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-4bcb1e02-72f0-42d1-867b-85958e546228,09/23/2026 13:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
-6dd30953-081a-47f8-bd4c-1d8c81ccc7bb,09/23/2026 13:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
-11406332-cc3c-4add-a860-087f85dfddc6,09/23/2026 13:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
-ca345836-6b8f-419b-897a-441443586a5b,09/23/2026 14:05:00,Fed's Barr speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-6a0491a7-f992-4f28-9efd-a4b7b18b2ba3,09/23/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
-955e00e7-6f97-4a47-b47c-6a07c63a5fe9,09/23/2026 14:30:00,EIA Distillate Stocks Change,HIGH,USD,Release,0.18,Labor Market
-95313159-e653-4791-a99c-9218a7bd2f68,09/23/2026 14:30:00,EIA Gasoline Stocks Change,HIGH,USD,Release,0.18,Labor Market
-03897ae5-2948-4c4c-9769-8581e3186c87,09/23/2026 14:30:00,EIA Heating Oil Stocks Change,HIGH,USD,Release,0.18,Labor Market
-13e3ccf4-4d14-4240-a909-cf851b86c196,09/23/2026 17:00:00,5-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 6ca42093-399d-4c0a-814b-07af4236fcee,09/24/2026 08:10:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
 8e4cd720-4ef3-4dca-a8fb-e53ab69c452b,09/24/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 990add36-d75c-49d5-a2a5-52ef7365ec0d,09/24/2026 12:30:00,Current Account,MEDIUM,USD,Release,0.11,Trade and External
@@ -70,6 +60,7 @@ d6171eb5-173b-4388-a3f1-9d7b71163735,09/30/2026 14:30:00,EIA Gasoline Stocks Cha
 2776d894-0549-4a02-b16e-8356d692ed2e,09/30/2026 14:30:00,EIA Heating Oil Stocks Change,HIGH,USD,Release,0.18,Labor Market
 5925ec70-a1eb-47ee-8055-16a96a609a2b,09/30/2026 16:00:00,Grain Stock Report,MEDIUM,USD,Release,0.11,Trade and External
 2a76b27e-43cc-41d2-a3de-c78d4fd7c311,09/30/2026 20:05:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+6a66face-7b76-49f7-b8ae-3c1b910ce0e6,09/30/2026 22:00:00,Fed's Kashkari speech,HIGH,USD,Release,0.2,Monetary Policy
 2f05ab14-ddbf-4071-9999-d3ae2816c0f6,10/01/2026 09:30:00,Challenger Job Cuts,HIGH,USD,Release,0.18,Labor Market
 c740d09d-cea7-4ac9-b091-8370309512e0,10/01/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 16b79aed-b72f-4980-a235-5168cdf0b431,10/01/2026 12:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market

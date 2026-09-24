@@ -1,9 +1,9 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-8c7d0b11-ef4e-41e6-8715-9e307c03f3d7,09/23/2026 08:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
-5b5bd3f6-cfe3-4f4f-a9e3-33fd581fb366,09/23/2026 08:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
-08180bcc-44cf-406a-973e-66758e05c0e4,09/23/2026 08:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
+5875c88c-0efb-4546-bcf2-7db4d61d57c5,09/24/2026 08:00:00,BoE's Lombardelli speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 184d9521-9570-4062-9c18-e3fa25fb5ed9,09/24/2026 09:30:00,BoE's Breeden speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 725510ea-3243-4a96-8038-dd5b718c718f,09/24/2026 09:30:00,BoE's Dhingra speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
+61f4cee5-755f-48c7-be1a-2dc7e19ccfe4,09/24/2026 09:45:00,BoE's Dhingra speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
+cc7fd6d7-aab6-4145-9abf-957b1a21bb5f,09/24/2026 13:30:00,BoE's Breeden speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 607d3998-9a61-4004-bba3-e7bb5762ff39,09/24/2026 14:00:00,BoE's Lombardelli speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 a3b54d8a-fcfc-4253-873b-ae0f35d076f2,09/24/2026 23:01:00,GfK Consumer Confidence,MEDIUM,GBP,Release,0.14,Confidence
 13a04d65-130f-43bb-b325-c9053d2e1a80,09/25/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
