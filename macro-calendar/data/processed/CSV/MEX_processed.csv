@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-00b64221-b14f-46c4-afeb-df7ac658e410,09/24/2026 12:00:00,1st half-month Core Inflation,HIGH,MXN,Release,0.19,Inflation
-3e69eb63-6049-4542-bc64-7cd7786de801,09/24/2026 12:00:00,1st half-month Inflation,HIGH,MXN,Release,0.19,Inflation
-2895e9be-7ab4-4520-8a78-ebe0652771a5,09/24/2026 19:00:00,Banxico Interest Rate Decision,HIGH,MXN,Release,0.2,Monetary Policy
 e4d6557c-def7-4deb-9762-c2586ddf83a0,09/25/2026 12:00:00,Jobless Rate,HIGH,MXN,Release,0.18,Labor Market
 10bd74f3-b7c3-4ebf-a1fc-d3bd8dfa502a,09/25/2026 12:00:00,Jobless Rate s.a,HIGH,MXN,Release,0.18,Labor Market
 29b94e37-c11f-46fd-a295-c93af57e516b,09/28/2026 12:00:00,"Trade Balance s/a, $",MEDIUM,MXN,Release,0.11,Trade and External

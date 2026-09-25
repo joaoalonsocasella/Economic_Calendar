@@ -1,8 +1,8 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a32da49e-3bca-44cb-9559-fec47b981456,09/25/2026 15:00:00,Gross Domestic Product (QoQ),HIGH,QAR,Release,0.17,Growth
 80aa1ab7-edaf-4a29-81c3-e4fe1abae5bd,09/25/2026 15:00:00,Gross Domestic Product (YoY),HIGH,QAR,Release,0.17,Growth
 2841c70b-05ed-4c5d-a679-b8d6af84302c,10/09/2026 11:00:00,Consumer Price Index (MoM),HIGH,QAR,Release,0.19,Inflation
 bdbcba32-3c4c-42ea-9b4b-f14103811465,10/09/2026 11:00:00,Consumer Price Index (YoY),HIGH,QAR,Release,0.19,Inflation
+a32da49e-3bca-44cb-9559-fec47b981456,10/09/2026 15:00:00,Gross Domestic Product (QoQ),HIGH,QAR,Release,0.17,Growth
 65f40a51-5b81-42ca-af92-b5b2b2e772e3,10/20/2026 14:00:00,M2 Money Supply,HIGH,QAR,Release,0.2,Monetary Policy
 2e303d8d-b9a9-4b09-8614-0452ee162115,11/02/2026 11:00:00,Consumer Price Index (MoM),HIGH,QAR,Release,0.19,Inflation
 faf35986-766a-47b8-a9ba-4e3b28d320ed,11/02/2026 11:00:00,Consumer Price Index (YoY),HIGH,QAR,Release,0.19,Inflation
