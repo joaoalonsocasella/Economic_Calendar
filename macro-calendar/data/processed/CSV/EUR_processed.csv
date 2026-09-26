@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-02cb20e6-4284-4bdb-bb9c-13e149f9785b,09/25/2026 08:00:00,M3 Money Supply (3m),HIGH,EUR,Release,0.85,Monetary Policy
-f31facce-93e0-49bb-9e60-ca2e9635f9fb,09/25/2026 08:00:00,M3 Money Supply (YoY),HIGH,EUR,Release,0.807,Inflation
-fedf7deb-fde8-4e28-84d9-3518eadf0219,09/25/2026 08:00:00,Private Loans (YoY),HIGH,EUR,Release,0.383,Money and Credit
-e54cae5a-9581-499f-80ff-375fd8a6c25f,09/25/2026 18:00:00,ECB's Vujčić speech,HIGH,EUR,Speech,0.552,Monetary Policy
-6d204695-7b2d-4742-823a-2558cf7f96e9,09/25/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 45e821f6-dd4a-4fa6-a531-9ae221531469,09/29/2026 09:00:00,Business Climate,HIGH,EUR,Release,0.595,Confidence
 c85e770c-eb99-4fe4-b7d4-30ad74459b9e,09/29/2026 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 6b7d60a4-65a7-482e-9f26-f320cb89c72c,09/29/2026 09:00:00,Economic Sentiment Indicator,HIGH,EUR,Release,0.595,Confidence
@@ -397,6 +392,7 @@ e01c7a68-e078-42ef-b0c1-ace1f8b18d14,05/21/2027 08:00:00,HCOB Composite PMI,HIGH
 a5d27c1d-8ad1-48be-8f24-cdb8fc4b0134,05/21/2027 08:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 d2062eb9-b828-4879-b4de-24f62a32d0e4,05/21/2027 14:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 8d32a84a-c2b0-4cc8-b065-9984f30907a8,05/21/2027 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
+c8231473-8602-40b5-a0b8-733b1f4f3b21,05/25/2027 09:00:00,Negotiated Wage Rates (QoQ),HIGH,EUR,Release,0.765,Labor Market
 2cdb59a9-31b5-4ed2-9956-6a801ca4b43d,05/28/2027 08:00:00,M3 Money Supply (3m),HIGH,EUR,Release,0.85,Monetary Policy
 88480e69-d66f-42b2-80ee-bb407929d96c,05/28/2027 08:00:00,M3 Money Supply (YoY),HIGH,EUR,Release,0.807,Inflation
 324e4124-d4d8-4feb-aab9-46ab432eb90e,05/28/2027 08:00:00,Private Loans (YoY),HIGH,EUR,Release,0.383,Money and Credit
@@ -536,6 +532,7 @@ abad364b-b24c-470c-82b4-17bc410084de,08/19/2027 08:00:00,Current Account n.s.a,H
 4fe0416f-c9eb-49ec-b4ee-0a435a7cc474,08/19/2027 08:00:00,Current Account s.a,HIGH,EUR,Release,0.468,Trade and External
 56262017-30f8-4c17-8a83-0fda5b8a0e07,08/20/2027 09:00:00,Construction Output  s.a (MoM),HIGH,EUR,Release,0.297,Housing
 cb0f3668-515b-4f5f-be95-039ac69c88c2,08/20/2027 09:00:00,Construction Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
+62a0a88a-2986-4b90-9ef7-a08cecd3eb79,08/20/2027 09:00:00,Negotiated Wage Rates (QoQ),HIGH,EUR,Release,0.765,Labor Market
 33af48af-e443-47a9-883c-cc7a3a29bf7b,08/20/2027 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 7f1281f0-4e25-4500-b66b-6110aa4134f9,08/23/2027 08:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 28cc935e-edac-4cd2-bd8e-7fd9685c58bd,08/23/2027 08:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth

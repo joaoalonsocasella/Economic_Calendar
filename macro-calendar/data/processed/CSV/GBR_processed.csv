@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-97ec3a2b-6ec3-4777-afba-48a68cf1cbe1,09/25/2026 09:45:00,BoE's Governor Bailey speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
-13a04d65-130f-43bb-b325-c9053d2e1a80,09/25/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 dbd417cf-3bcb-4d5a-81af-ffbfe782c722,09/28/2026 10:00:00,BoE's Ramsden speech,HIGH,GBP,Release,0.2,Monetary Policy
 bd820afe-aa05-49e0-8220-6393c73fab3e,09/29/2026 08:30:00,Consumer Credit,MEDIUM,GBP,Release,0.14,Confidence
 1e0ca61f-47a9-45d0-9629-4d292809621c,09/29/2026 08:30:00,M4 Money Supply (MoM),HIGH,GBP,Release,0.19,Inflation

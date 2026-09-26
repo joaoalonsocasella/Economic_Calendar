@@ -1,18 +1,4 @@
 Id,Start,Name,Impact,Currency
-ac28536c-4a22-4e6b-9928-d9be5cbda9b9,09/25/2026 09:15:00,Fed's Williams speech,MEDIUM,USD
-1de061bb-753c-4ed4-aa16-cd3c49da1b20,09/25/2026 12:30:00,Durable Goods Orders,MEDIUM,USD
-8ddb685d-6cab-42bd-8f4a-b3f6f395faf3,09/25/2026 12:30:00,Durable Goods Orders ex Defense,MEDIUM,USD
-2a4ed7f5-0178-47a5-9834-56e47ce8cd41,09/25/2026 12:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
-77021448-6463-4a22-98cb-6c78bbad2d81,09/25/2026 12:30:00,Nondefense Capital Goods Orders ex Aircraft,MEDIUM,USD
-876161cc-824b-464a-9272-2d4b501faae6,09/25/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
-899471ee-94d3-4f29-913b-8a5c513e79cd,09/25/2026 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD
-da22d175-e2bf-476c-ae0b-ed8f85a5e1d4,09/25/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
-48662de3-0229-4960-ab86-d8d2b70d8b25,09/25/2026 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD
-bdf6db7a-67d9-4d19-a400-244c5b168a93,09/25/2026 17:00:00,Baker Hughes US Oil Rig Count,LOW,USD
-7cc6c6d2-0eab-4450-b1e2-7b6ef4411747,09/25/2026 18:00:00,Fed's Hammack speech,MEDIUM,USD
-1da28b60-236a-4c8c-81e1-dc91edec4a8f,09/25/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD
-5791049c-822a-4c51-92da-09de96fab0d4,09/25/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD
-dd1f9588-b20f-4114-acd8-85090291f0d6,09/25/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 256643ec-4ae2-44c6-abbc-9fc408e0b7c4,09/28/2026 14:30:00,Dallas Fed Manufacturing Business Index,LOW,USD
 8981c8c8-06d8-4ade-9679-d528865cf1dd,09/28/2026 15:30:00,3-Month Bill Auction,LOW,USD
 df204c14-e3f9-458b-8d49-f197aed0958a,09/28/2026 15:30:00,6-Month Bill Auction,LOW,USD
