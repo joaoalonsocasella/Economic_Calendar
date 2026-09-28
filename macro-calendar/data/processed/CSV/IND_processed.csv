@@ -1,7 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-1a5e31b0-1336-4371-a5ed-3f17534b9a8e,09/28/2026 11:30:00,Cumulative Industrial Output,HIGH,INR,Release,0.17,Growth
-9b6fcd01-2f27-494a-9e82-bb353f69fcff,09/28/2026 11:30:00,Industrial Output,HIGH,INR,Release,0.17,Growth
-d6ee613e-0ac9-418b-9231-2f27a9275dcb,09/28/2026 11:30:00,Manufacturing Output,HIGH,INR,Release,0.17,Growth
+1a5e31b0-1336-4371-a5ed-3f17534b9a8e,09/28/2026 10:30:00,Cumulative Industrial Output,HIGH,INR,Release,0.17,Growth
+9b6fcd01-2f27-494a-9e82-bb353f69fcff,09/28/2026 10:30:00,Industrial Output,HIGH,INR,Release,0.17,Growth
+d6ee613e-0ac9-418b-9231-2f27a9275dcb,09/28/2026 10:30:00,Manufacturing Output,HIGH,INR,Release,0.17,Growth
 bfdfe471-c5b3-45ac-bcd1-ff471e08cfaf,09/30/2026 11:30:00,Current Account Balance $,MEDIUM,INR,Release,0.11,Trade and External
 747f9092-e4aa-4a6c-8d22-317ea819a9a9,09/30/2026 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy
 75c840b4-b0ac-4d2d-b459-9242de9d4595,09/30/2026 11:30:00,Trade Deficit – RBI,MEDIUM,INR,Release,0.11,Trade and External

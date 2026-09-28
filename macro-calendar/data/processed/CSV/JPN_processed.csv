@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-5d1ff527-f958-4435-b95e-4b9f2cc4a220,09/27/2026 23:50:00,BoJ Monetary Policy Meeting Minutes,MEDIUM,JPY,Speech,0.13,Monetary Policy
-85accadd-0a41-4775-bc90-77341dd97ad1,09/27/2026 23:50:00,Corporate Service Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
 7923d9c4-d3dd-4293-bb4c-60ce4c52336b,09/29/2026 05:00:00,Coincident Index,MEDIUM,JPY,Release,0.11,Trade and External
 66290acc-f312-4fcb-be28-a91442c782d6,09/29/2026 05:00:00,Leading Economic Index,MEDIUM,JPY,Release,0.14,Confidence
 86c96a5c-0fe9-4e1a-b4eb-56c04eb7c470,09/29/2026 23:50:00,Industrial Production (MoM),HIGH,JPY,Release,0.17,Growth
@@ -44,19 +42,19 @@ ecdf515b-ba4f-4bab-bc45-08c28d3f2aba,10/07/2026 23:50:00,Trade Balance - BOP Bas
 5822c98c-d50e-4bd3-8c6d-66409d7eddf9,10/08/2026 05:00:00,Eco Watchers Survey: Outlook,MEDIUM,JPY,Release,0.14,Confidence
 6c40c52d-bd98-4b06-84cf-9ba0000675e5,10/08/2026 23:30:00,Overall Household Spending (YoY),HIGH,JPY,Release,0.17,Growth
 af409a84-54eb-425d-9787-dc70cd0e942b,10/09/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
-9281da62-064a-48df-9a32-918c47d15843,10/11/2026 23:50:00,Money Supply M2+CD (YoY),HIGH,JPY,Release,0.19,Inflation
-ab465417-cb3e-4f68-b107-644a4b8a922a,10/11/2026 23:50:00,Producer Price Index (MoM),HIGH,JPY,Release,0.19,Inflation
-cc0aa5f9-ab54-4401-92fd-441f0700806e,10/11/2026 23:50:00,Producer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
 9dd7f94a-3a5c-4439-b4b8-0f0623f7b251,10/12/2026 23:50:00,Bank Lending (YoY),HIGH,JPY,Release,0.19,Inflation
+ab465417-cb3e-4f68-b107-644a4b8a922a,10/12/2026 23:50:00,Producer Price Index (MoM),HIGH,JPY,Release,0.19,Inflation
+cc0aa5f9-ab54-4401-92fd-441f0700806e,10/12/2026 23:50:00,Producer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
 aa1a8640-0557-4aa5-be75-3f6c68b0e4af,10/13/2026 06:00:00,Machine Tool Orders (YoY),HIGH,JPY,Release,0.17,Growth
-23e6dc08-e7e1-4b32-9216-7f2231f1ded0,10/14/2026 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth
-0bc635ae-ac3d-46fe-80d2-e6ddbeaee073,10/14/2026 23:50:00,Foreign Investment in Japan Stocks,HIGH,JPY,Release,0.17,Growth
+9281da62-064a-48df-9a32-918c47d15843,10/13/2026 23:50:00,Money Supply M2+CD (YoY),HIGH,JPY,Release,0.19,Inflation
+b84c4ae3-02c2-4b1a-8a4c-057641f8131a,10/14/2026 23:50:00,Machinery Orders (MoM),HIGH,JPY,Release,0.17,Growth
+f59df0e3-13f9-4ccb-b556-448dd60162b0,10/14/2026 23:50:00,Machinery Orders (YoY),HIGH,JPY,Release,0.17,Growth
+23e6dc08-e7e1-4b32-9216-7f2231f1ded0,10/15/2026 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth
+0bc635ae-ac3d-46fe-80d2-e6ddbeaee073,10/15/2026 23:50:00,Foreign Investment in Japan Stocks,HIGH,JPY,Release,0.17,Growth
 e6acf525-451b-4855-b680-fe9012e21848,10/16/2026 04:30:00,Capacity Utilization,HIGH,JPY,Release,0.2,Monetary Policy
 6b3070af-f638-4aa4-87f4-72455f547823,10/16/2026 04:30:00,Industrial Production (MoM),HIGH,JPY,Release,0.17,Growth
 c067962f-6f71-448f-9188-f61f006c0c37,10/16/2026 04:30:00,Industrial Production (YoY),HIGH,JPY,Release,0.17,Growth
 a57876e7-2c83-494c-8ab0-e5df910fcb00,10/16/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
-b84c4ae3-02c2-4b1a-8a4c-057641f8131a,10/18/2026 23:50:00,Machinery Orders (MoM),HIGH,JPY,Release,0.17,Growth
-f59df0e3-13f9-4ccb-b556-448dd60162b0,10/18/2026 23:50:00,Machinery Orders (YoY),HIGH,JPY,Release,0.17,Growth
 2a55ba86-1e73-4912-9537-980f3209c4e9,10/19/2026 04:30:00,Tertiary Industry Index (MoM),HIGH,JPY,Release,0.17,Growth
 78c2fde4-2215-44b8-ada3-36b90485881c,10/20/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY,Release,0.11,Trade and External
 e5fa4dda-456b-4d35-8051-b9d960bc118c,10/20/2026 23:50:00,Exports (YoY),MEDIUM,JPY,Release,0.11,Trade and External

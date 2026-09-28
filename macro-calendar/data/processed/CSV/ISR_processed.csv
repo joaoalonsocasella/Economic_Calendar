@@ -1,12 +1,11 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-95977d57-97cd-4220-af29-53ff86bddad5,09/27/2026 10:00:00,Industrial Production (MoM),HIGH,ILS,Release,0.17,Growth
 2619efbb-1cc5-4267-9749-748be6d6ace4,10/07/2026 11:00:00,FX Reserves,LOW,ILS,Release,0.09,Money and Credit
 b47a9a9a-c4fa-40d7-98ce-c5d36768ea9e,10/12/2026 11:00:00,Budget Balance - ILS,MEDIUM,ILS,Release,0.11,Trade and External
-5a9cf3c8-c26e-4a3d-98a5-6f8da32d3370,10/14/2026 11:00:00,Exports,MEDIUM,ILS,Release,0.11,Trade and External
-9d4a5da7-c472-4fa2-981a-473cceb30613,10/14/2026 11:00:00,Imports,MEDIUM,ILS,Release,0.11,Trade and External
-cf871f9c-1025-48b8-a65e-e220a989e13c,10/14/2026 11:00:00,Trade Balance,MEDIUM,ILS,Release,0.11,Trade and External
-5664c14b-edce-4b4b-badf-1c2ee3fae472,10/14/2026 16:30:00,Consumer Price Index (MoM),HIGH,ILS,Release,0.19,Inflation
-6760f105-b79e-4911-82dc-773ab977f53a,10/14/2026 16:30:00,Consumer Price Index (YoY),HIGH,ILS,Release,0.19,Inflation
+5a9cf3c8-c26e-4a3d-98a5-6f8da32d3370,10/15/2026 11:00:00,Exports,MEDIUM,ILS,Release,0.11,Trade and External
+9d4a5da7-c472-4fa2-981a-473cceb30613,10/15/2026 11:00:00,Imports,MEDIUM,ILS,Release,0.11,Trade and External
+cf871f9c-1025-48b8-a65e-e220a989e13c,10/15/2026 11:00:00,Trade Balance,MEDIUM,ILS,Release,0.11,Trade and External
+5664c14b-edce-4b4b-badf-1c2ee3fae472,10/15/2026 16:30:00,Consumer Price Index (MoM),HIGH,ILS,Release,0.19,Inflation
+6760f105-b79e-4911-82dc-773ab977f53a,10/15/2026 16:30:00,Consumer Price Index (YoY),HIGH,ILS,Release,0.19,Inflation
 7b422d4a-178e-4abb-bffe-884a16dc06a3,10/17/2026 11:00:00,Gross Domestic Product (QoQ),HIGH,ILS,Release,0.17,Growth
 f5c9fc35-d72a-490c-ae24-97a54cd3b819,10/21/2026 11:00:00,Industrial Production (MoM),HIGH,ILS,Release,0.17,Growth
 abeb2369-469d-4585-8b97-b77e4a8c9d48,10/21/2026 14:00:00,BoI Interest Rate Decision,HIGH,ILS,Release,0.2,Monetary Policy

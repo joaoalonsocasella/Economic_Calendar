@@ -1,10 +1,10 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 60256272-596e-495e-9d49-e9f7f293da25,10/09/2026 07:00:00,Foreign Trade Balance,HIGH,EUR,Release,0.468,Trade and External
 3f6902f0-936b-4575-824c-e705fb84c269,10/09/2026 07:00:00,Industrial Output (YoY),HIGH,EUR,Release,0.722,Growth
-6d2613e4-b49e-40a0-a0b3-10f26467aca5,10/13/2026 07:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
-b25bf496-8ea8-4e69-8963-44bcc28258f2,10/13/2026 07:00:00,Core Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
-1b00e5e5-f24a-4091-96cc-6289540774f4,10/13/2026 07:00:00,Headline Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
-803e1734-5416-4c6e-81f6-c5ff6676b2ac,10/13/2026 07:00:00,Headline Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+6d2613e4-b49e-40a0-a0b3-10f26467aca5,10/15/2026 07:00:00,Core Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+b25bf496-8ea8-4e69-8963-44bcc28258f2,10/15/2026 07:00:00,Core Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
+1b00e5e5-f24a-4091-96cc-6289540774f4,10/15/2026 07:00:00,Headline Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
+803e1734-5416-4c6e-81f6-c5ff6676b2ac,10/15/2026 07:00:00,Headline Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
 4764ba85-aee0-4a35-8315-9b5fa9573cc6,10/19/2026 07:00:00,EU Norm Inflation (MoM),HIGH,EUR,Release,0.807,Inflation
 74fc8f53-2a5b-48f2-ad6d-09c19faaad8c,10/19/2026 07:00:00,EU Norm Inflation (YoY),HIGH,EUR,Release,0.807,Inflation
 7262636c-e65e-4248-8173-779c23283c5e,10/20/2026 08:00:00,Current Account Balance EUR,HIGH,EUR,Release,0.468,Trade and External
