@@ -1,7 +1,6 @@
 Id,Start,Name,Impact,Currency
-7910f899-dca8-45ec-856f-3241886221c8,09/28/2026 23:01:00,Consumer Confidence,LOW,EUR
-d3e2bfe8-f0ed-40b2-a6ec-d6fbf0876ed0,09/29/2026 10:00:00,Retail Sales (MoM),LOW,EUR
-bd0e017f-c974-4b6a-b22d-0fdd12bd39c9,09/29/2026 10:00:00,Retail Sales (YoY),LOW,EUR
+d3e2bfe8-f0ed-40b2-a6ec-d6fbf0876ed0,09/30/2026 10:00:00,Retail Sales (MoM),LOW,EUR
+bd0e017f-c974-4b6a-b22d-0fdd12bd39c9,09/30/2026 10:00:00,Retail Sales (YoY),LOW,EUR
 2bec8496-e22a-4619-bd37-2f45273df574,10/01/2026 00:01:00,AIB Manufacturing PMI,LOW,EUR
 310522a0-0e37-49b9-95ef-d8f03cf0eb94,10/05/2026 00:01:00,AIB Services PMI,LOW,EUR
 553041b9-0085-4cba-a84f-d4070d82ee11,10/08/2026 10:00:00,Consumer Price Index (MoM),LOW,EUR
