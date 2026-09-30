@@ -1,15 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-edf62a9c-d02b-41d7-a519-6a129edab90e,09/29/2026 07:45:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
-45e821f6-dd4a-4fa6-a531-9ae221531469,09/29/2026 09:00:00,Business Climate,HIGH,EUR,Release,0.595,Confidence
-c85e770c-eb99-4fe4-b7d4-30ad74459b9e,09/29/2026 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
-6b7d60a4-65a7-482e-9f26-f320cb89c72c,09/29/2026 09:00:00,Economic Sentiment Indicator,HIGH,EUR,Release,0.595,Confidence
-c7298ec3-9046-4873-b5b6-81227c2feafa,09/29/2026 09:00:00,Industrial Confidence,HIGH,EUR,Release,0.595,Confidence
-b8320516-7d2f-482a-a6f2-7a10b79d4a4b,09/29/2026 09:00:00,Services Sentiment,HIGH,EUR,Release,0.595,Confidence
-e4a1fde5-8ecb-4637-83e7-d54acd3e5287,09/29/2026 11:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
-03bbfed6-3c59-4806-a146-7b3d02987fbd,09/29/2026 11:30:00,ECB's Vujčić speech,HIGH,EUR,Speech,0.552,Monetary Policy
-098e1798-6f02-4aa8-a0f3-17c9b3f25b8b,09/29/2026 11:40:00,ECB's Escrivá speech,HIGH,EUR,Speech,0.552,Monetary Policy
-3a9bb4b4-c3ff-4665-b414-33ad59d0887a,09/29/2026 13:15:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
-6ee788bd-5336-4a79-b832-200dd0c725ff,09/29/2026 18:00:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
 efe55669-fa23-4c34-a8cd-084c09f88290,09/30/2026 02:20:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy
 ac1afb61-78ca-446d-8bb4-805334687598,09/30/2026 07:00:00,Non-Monetary Policy ECB Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
 539fa603-d6a9-4b90-aee8-cb19f3fcb8ee,09/30/2026 15:45:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy

@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-f300d3ca-85e6-4ab6-b723-b41ddd0c33fc,09/29/2026 23:00:00,Industrial Output (YoY),HIGH,KRW,Release,0.17,Growth
-a2b0444a-0c47-4272-b4f8-5907413803c8,09/29/2026 23:00:00,Industrial Output Growth,HIGH,KRW,Release,0.17,Growth
-1ab74f08-009e-40cf-9c9f-d98f125d8595,09/29/2026 23:00:00,Service Sector Output,LOW,KRW,Release,0.09,Money and Credit
 67c9d0c7-b5c6-4986-b0b2-eec73fffd735,10/01/2026 00:00:00,Trade Balance,MEDIUM,KRW,Release,0.11,Trade and External
 c4281935-652f-489a-bdd9-486a65865016,10/01/2026 00:30:00,S&P Global Manufacturing PMI,HIGH,KRW,Release,0.17,Growth
 36e43854-4c23-470a-b8df-3f8ce2330d28,10/01/2026 23:00:00,Consumer Price Index Growth (MoM),HIGH,KRW,Release,0.19,Inflation

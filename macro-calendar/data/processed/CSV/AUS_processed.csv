@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-793985cf-d82e-49fa-891b-e62ecc2fdc03,09/29/2026 04:30:00,RBA Interest Rate Decision,MEDIUM,AUD,Speech,0.13,Monetary Policy
-06b52878-be31-4f94-9b3a-a29178bd37d4,09/29/2026 04:30:00,RBA Monetary Policy Statement,MEDIUM,AUD,Speech,0.13,Monetary Policy
-fb8137c8-2375-4897-9936-aa9e9b0febe1,09/29/2026 04:30:00,RBA Rate Statement,MEDIUM,AUD,Speech,0.13,Monetary Policy
-59916ebd-122a-4344-8ce1-0b2546c53168,09/29/2026 05:30:00,RBA Press Conference,MEDIUM,AUD,Speech,0.13,Monetary Policy
 113ad9d1-a70d-478a-a373-c9673c6e3b69,09/30/2026 01:30:00,Building Permits (MoM),LOW,AUD,Release,0.07,Housing
 d942e244-0177-4749-b2f8-dc7e7e44c138,09/30/2026 01:30:00,Building Permits (YoY),LOW,AUD,Release,0.07,Housing
 49ae99d9-9973-4da4-a74f-4ac195d66d38,09/30/2026 01:30:00,Consumer Price Index (MoM),HIGH,AUD,Release,0.19,Inflation

@@ -1,17 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-77eb57f9-37a8-4da7-9c7a-f7f0dd929d11,09/29/2026 11:30:00,Fed's Musalem speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-7ff77ad2-af9d-402f-a7e2-38aa8c0675d8,09/29/2026 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
-c2f89aa7-1675-47f1-aad7-ee7e234d98ee,09/29/2026 13:00:00,Housing Price Index (MoM),LOW,USD,Release,0.07,Housing
-021b24ab-0f7d-45a2-9724-22f226a07807,09/29/2026 13:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD,Release,0.07,Housing
-97718244-bfcd-4fe7-9b4b-d7121364d5a5,09/29/2026 14:00:00,Consumer Confidence,MEDIUM,USD,Release,0.14,Confidence
-4d46122c-46c3-44ad-99d3-87f89310848c,09/29/2026 14:00:00,JOLTS Job Openings,HIGH,USD,Release,0.18,Labor Market
-63199742-9ccb-4116-b814-ea4f39841b2b,09/29/2026 15:00:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-aeaf4be2-f41d-4678-a560-ca08ad3df849,09/29/2026 15:30:00,52-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
-962aa4a1-1d11-4e74-9ca4-e88ed3d69083,09/29/2026 16:40:00,Fed's Barr speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-75293df7-a91e-4340-adba-3ec701405118,09/29/2026 17:00:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-ac75b73b-1848-48e6-95c9-40b630785a2d,09/29/2026 18:00:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
-02455984-7ce5-441d-8f76-437dbd538c66,09/29/2026 19:00:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-37cccbbe-f1d4-48d4-ad09-54c10c5a12b3,09/29/2026 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 0bc8c50a-9466-46b7-8c1b-a4f2ca56af77,09/30/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 c64df516-64bb-4737-9430-1ff3df1bab9a,09/30/2026 12:15:00,ADP Employment Change,HIGH,USD,Release,0.18,Labor Market
 ef95f488-2906-40b6-93ea-2a2ca30e6d07,09/30/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
@@ -96,6 +83,7 @@ ca5d9523-c7af-4346-b865-5f1464c7c4b3,10/08/2026 12:30:00,Continuing Jobless Clai
 0b480de8-55e4-428e-a596-d64567bef557,10/08/2026 14:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 1294be93-8582-43af-8556-bff30b4d7f4f,10/08/2026 15:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 ea8dd0f6-6efc-4a7b-ac69-a84310157370,10/08/2026 17:00:00,30-Year Bond Auction,LOW,USD,Release,0.09,Money and Credit
+73398fea-be48-4b81-92b0-b65d4f0ab4db,10/08/2026 17:40:00,Fed's Musalem speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 25bed085-7106-40a7-af6e-ffe204040362,10/09/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
 43c05090-4826-452f-bcb9-232a1c32cf38,10/09/2026 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
 9e6fdf07-7ef9-4265-9fb6-c369830059c8,10/09/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence

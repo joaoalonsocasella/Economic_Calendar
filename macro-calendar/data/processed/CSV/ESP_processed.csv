@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-f6df4016-e3d6-4401-88a8-39ce7b2adc2c,09/29/2026 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-420b8309-9201-4a82-a12d-cd5da3e80655,09/29/2026 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-ac1d325c-996d-4c58-848d-1b25dd6e1167,09/29/2026 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
-c29a5383-2471-488d-81a5-bf61d2202179,09/29/2026 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
-9d445b27-3824-4f15-a200-069f97ff8ce2,09/29/2026 07:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 555ddc41-13ea-42de-a9dc-0ed0886a12de,09/30/2026 08:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
 73c84834-e50d-4b30-85b3-016ea7fe4114,10/01/2026 07:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 c964188a-cf7a-49b2-83ad-23cda40c8e57,10/01/2026 08:40:00,10-y Obligaciones Auction,HIGH,EUR,Release,0.383,Money and Credit
