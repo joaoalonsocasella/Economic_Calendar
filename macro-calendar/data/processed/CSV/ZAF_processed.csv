@@ -1,10 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-1ee3a794-4290-4b27-a4b1-988ef7fa5f2f,09/30/2026 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation
-7e6e01ea-0a38-43cd-8752-06452c0921ef,09/30/2026 06:00:00,Private Sector Credit,LOW,ZAR,Release,0.09,Money and Credit
-c20a5224-506f-455e-9bb5-f328eaa1055c,09/30/2026 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
-6672c706-b5be-4d66-9d84-eeedea84533c,09/30/2026 09:30:00,Producer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
-37db28e0-e2da-41af-8d51-37281cf1c930,09/30/2026 12:00:00,Trade Balance (in Rands),MEDIUM,ZAR,Release,0.11,Trade and External
-379cb0ed-ac10-4913-a65d-159604dba16a,10/01/2026 12:30:00,Total New Vehicle Sales,LOW,ZAR,Release,0.07,Housing
+379cb0ed-ac10-4913-a65d-159604dba16a,10/01/2026 13:40:00,Total New Vehicle Sales,LOW,ZAR,Release,0.07,Housing
 15c0b418-49ad-4e46-9818-464df9d34619,10/07/2026 06:00:00,Gross $Gold & Forex Reserve ,HIGH,ZAR,Release,0.2,Monetary Policy
 fc8a5212-b85b-4773-8eca-3863158b05e8,10/07/2026 06:00:00,Net $Gold & Forex Reserve,LOW,ZAR,Release,0.09,Money and Credit
 20101367-ae62-428a-b0a6-27781070a601,10/08/2026 11:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth

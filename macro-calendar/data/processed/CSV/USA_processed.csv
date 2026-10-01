@@ -1,28 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0bc8c50a-9466-46b7-8c1b-a4f2ca56af77,09/30/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-c64df516-64bb-4737-9430-1ff3df1bab9a,09/30/2026 12:15:00,ADP Employment Change,HIGH,USD,Release,0.18,Labor Market
-ef95f488-2906-40b6-93ea-2a2ca30e6d07,09/30/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-afc8067a-4f0d-4f1b-b39d-355dbc61dd7c,09/30/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-e92da515-938a-44bf-823b-c1ec773dad58,09/30/2026 12:30:00,Core Personal Consumption Expenditures (QoQ),HIGH,USD,Release,0.17,Growth
-295dd7d9-02ec-4c32-9782-2d28b573a3ba,09/30/2026 12:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
-0e1b502b-79ab-4a29-b005-4c98e7cf9bba,09/30/2026 12:30:00,Gross Domestic Product Annualized,HIGH,USD,Release,0.17,Growth
-66d6fa54-3126-43ce-8375-f7eb1f8a9c22,09/30/2026 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD,Release,0.11,Trade and External
-556cca80-bade-44b2-8321-d6a5b13750cb,09/30/2026 12:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-bb4ae68a-f549-4f63-8667-64c215110236,09/30/2026 12:30:00,Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-cd62e4a7-3843-42dd-8e2d-bd3eac49c042,09/30/2026 12:30:00,Personal Consumption Expenditures Prices (QoQ),HIGH,USD,Release,0.17,Growth
-5931f4b0-33b8-4225-8e35-0d15ab0d48fa,09/30/2026 12:30:00,Personal Income (MoM),HIGH,USD,Release,0.17,Growth
-46cf5aa0-d73f-4cbb-9c27-32a7492f22af,09/30/2026 12:30:00,Personal Spending,HIGH,USD,Release,0.17,Growth
-5e05969c-c7c2-4060-860b-46c17ba2fad7,09/30/2026 12:30:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
-f74c263d-3c85-43ce-a508-fc790e47289b,09/30/2026 13:45:00,Chicago PMI,MEDIUM,USD,Release,0.14,Confidence
-4c352cf7-1bd5-477e-9a94-08eb9aed211c,09/30/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
-d61299c7-0f8a-42a9-ad0b-b5a6d53abf5a,09/30/2026 14:30:00,EIA Distillate Stocks Change,HIGH,USD,Release,0.18,Labor Market
-d6171eb5-173b-4388-a3f1-9d7b71163735,09/30/2026 14:30:00,EIA Gasoline Stocks Change,HIGH,USD,Release,0.18,Labor Market
-2776d894-0549-4a02-b16e-8356d692ed2e,09/30/2026 14:30:00,EIA Heating Oil Stocks Change,HIGH,USD,Release,0.18,Labor Market
-5925ec70-a1eb-47ee-8055-16a96a609a2b,09/30/2026 16:00:00,Grain Stock Report,MEDIUM,USD,Release,0.11,Trade and External
-4a17a6ed-8030-4a30-91dc-91198b86e3dc,09/30/2026 19:25:00,Fed's Cook speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-2a76b27e-43cc-41d2-a3de-c78d4fd7c311,09/30/2026 20:05:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-6a66face-7b76-49f7-b8ae-3c1b910ce0e6,09/30/2026 22:00:00,Fed's Kashkari speech,HIGH,USD,Release,0.2,Monetary Policy
 2f05ab14-ddbf-4071-9999-d3ae2816c0f6,10/01/2026 09:30:00,Challenger Job Cuts,HIGH,USD,Release,0.18,Labor Market
+f645b5e9-73d6-47f8-9222-0ca3b6001994,10/01/2026 11:45:00,Fed's Kashkari speech,HIGH,USD,Release,0.2,Monetary Policy
 c740d09d-cea7-4ac9-b091-8370309512e0,10/01/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 16b79aed-b72f-4980-a235-5168cdf0b431,10/01/2026 12:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 4fabb68f-d9dc-4d1b-b5b8-fa5db8a67e30,10/01/2026 12:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market

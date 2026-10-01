@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d5aa3a46-17ec-47e3-95ec-69f23e4bfaf3,09/30/2026 08:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
-fba7fb14-5217-4568-9c26-0ad3224d7d49,09/30/2026 08:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
-7e9d087c-d39a-4201-864a-067d9d8face6,09/30/2026 09:00:00,Consumer Price Index (EU Norm) (MoM),HIGH,EUR,Release,0.807,Inflation
-7c086475-3eca-4b15-b157-7ac63712db69,09/30/2026 09:00:00,Consumer Price Index (EU Norm) (YoY),HIGH,EUR,Release,0.807,Inflation
-c1a2fbee-0908-40db-bcd2-4abb87f34cef,09/30/2026 09:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-8ebe2840-837f-4a2c-81a3-76bfe7915a9e,09/30/2026 09:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 a5649899-5179-4b3c-81a7-b258f699a9ad,10/01/2026 07:45:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 9ad3171e-7e71-4490-bb7d-61c5f5ec5a0a,10/01/2026 08:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
 f31412bb-b7bb-4bb0-930f-ece5be42d9e2,10/02/2026 08:00:00,Retail Sales n.s.a (YoY),HIGH,EUR,Release,0.722,Growth

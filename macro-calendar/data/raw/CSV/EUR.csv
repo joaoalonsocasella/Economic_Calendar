@@ -1,9 +1,7 @@
 Id,Start,Name,Impact,Currency
-efe55669-fa23-4c34-a8cd-084c09f88290,09/30/2026 02:20:00,ECB's Elderson speech,MEDIUM,EUR
-ac1afb61-78ca-446d-8bb4-805334687598,09/30/2026 07:00:00,Non-Monetary Policy ECB Meeting,MEDIUM,EUR
-539fa603-d6a9-4b90-aee8-cb19f3fcb8ee,09/30/2026 15:45:00,ECB's Schnabel speech,MEDIUM,EUR
 41eb8f05-330e-4710-b308-69526c28e415,10/01/2026 08:00:00,HCOB Manufacturing PMI,LOW,EUR
 26df03d4-55fc-4a5f-9cfe-8265a79456d1,10/01/2026 08:20:00,ECB's Cipollone speech,MEDIUM,EUR
+9c4d9d32-f238-4658-85d9-a6d2d22431b8,10/01/2026 09:00:00,Unemployment Rate,MEDIUM,EUR
 1220b55e-62b5-4c5e-84c8-7d920f6f6754,10/01/2026 10:35:00,ECB's Nagel speech,MEDIUM,EUR
 8dbb5f8b-4634-41eb-b490-32a31a5539bd,10/01/2026 10:35:00,ECB's Villeroy speech,MEDIUM,EUR
 3de5b2ce-62c6-4eea-85b6-253d8bce7f8b,10/01/2026 13:30:00,ECB's President Lagarde speech,HIGH,EUR
@@ -14,7 +12,6 @@ b58e416a-1cc5-4874-863c-c5b5f0e950e5,10/02/2026 09:00:00,Core Harmonized Index o
 54403b8f-670b-4441-a1d3-adce37867784,10/02/2026 09:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR
 6efc3a5a-6110-4d54-a103-cbeebe525579,10/02/2026 09:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR
 6d6851ac-8adc-4d1a-8a4d-e505f1725bf8,10/02/2026 09:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
-9c4d9d32-f238-4658-85d9-a6d2d22431b8,10/02/2026 09:00:00,Unemployment Rate,MEDIUM,EUR
 f9a93fb4-1452-4ab0-91af-27c250a64a53,10/02/2026 11:30:00,ECB's Vujčić speech,MEDIUM,EUR
 675b606a-eaec-459b-b28f-58e09abe530c,10/02/2026 19:30:00,CFTC EUR NC Net Positions,LOW,EUR
 2f843693-b4fe-4966-a985-6c04a180ca23,10/02/2026 19:35:00,ECB's Nagel speech,MEDIUM,EUR

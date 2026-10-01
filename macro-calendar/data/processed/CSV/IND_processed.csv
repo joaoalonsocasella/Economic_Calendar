@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-cda5ce56-8c43-4088-9202-8aac2048130b,09/30/2026 10:00:00,"Federal Fiscal Deficit, INR",HIGH,INR,Release,0.2,Monetary Policy
-747f9092-e4aa-4a6c-8d22-317ea819a9a9,09/30/2026 11:30:00,M3 Money Supply,HIGH,INR,Release,0.2,Monetary Policy
 f6dfcd5b-b0d8-4c6a-b34a-126e70aec8c4,10/01/2026 05:00:00,HSBC Manufacturing PMI,HIGH,INR,Release,0.17,Growth
 dcac1d0d-7d02-4d51-a740-c1605ac002fc,10/02/2026 11:30:00,Bank Loan Growth,LOW,INR,Release,0.09,Money and Credit
 9b4b6331-9820-43a1-be48-fc7aaabcb011,10/02/2026 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
