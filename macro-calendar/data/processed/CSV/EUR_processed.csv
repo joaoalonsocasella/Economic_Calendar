@@ -1,12 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-41eb8f05-330e-4710-b308-69526c28e415,10/01/2026 08:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
-26df03d4-55fc-4a5f-9cfe-8265a79456d1,10/01/2026 08:20:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
-9c4d9d32-f238-4658-85d9-a6d2d22431b8,10/01/2026 09:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
-1220b55e-62b5-4c5e-84c8-7d920f6f6754,10/01/2026 10:35:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-8dbb5f8b-4634-41eb-b490-32a31a5539bd,10/01/2026 10:35:00,ECB's Villeroy speech,HIGH,EUR,Speech,0.552,Monetary Policy
-3de5b2ce-62c6-4eea-85b6-253d8bce7f8b,10/01/2026 13:30:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
-52d98c9e-697c-48a2-806e-188f04550c0b,10/01/2026 14:00:00,ECB's Sleijpen speech,HIGH,EUR,Speech,0.552,Monetary Policy
-a874068e-c7f8-4e34-9739-f932713268de,10/01/2026 15:30:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 d3c655ff-8f7e-4859-8374-13c4d1b79353,10/02/2026 07:30:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
 b58e416a-1cc5-4874-863c-c5b5f0e950e5,10/02/2026 09:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
 54403b8f-670b-4441-a1d3-adce37867784,10/02/2026 09:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.807,Inflation
@@ -15,14 +7,23 @@ b58e416a-1cc5-4874-863c-c5b5f0e950e5,10/02/2026 09:00:00,Core Harmonized Index o
 f9a93fb4-1452-4ab0-91af-27c250a64a53,10/02/2026 11:30:00,ECB's Vujčić speech,HIGH,EUR,Speech,0.552,Monetary Policy
 675b606a-eaec-459b-b28f-58e09abe530c,10/02/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 2f843693-b4fe-4966-a985-6c04a180ca23,10/02/2026 19:35:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
+f665e713-f69c-4bdb-8573-88bc87c275e1,10/05/2026 07:45:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
+32907180-59e3-4e80-9c52-c330cdd04522,10/05/2026 08:00:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
 dee1f692-0e26-4d34-b947-5a179d393367,10/05/2026 08:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 e9086c45-894e-4841-9dd0-5d7e7484590d,10/05/2026 08:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 3491b4b1-07fe-4240-90d6-fb6381341f64,10/05/2026 08:30:00,Sentix Investor Confidence,HIGH,EUR,Release,0.595,Confidence
+dbe133ab-7adc-4742-997e-e6103e557751,10/05/2026 09:00:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 c3c416bc-2de0-43f0-bf18-70686abea7d3,10/05/2026 09:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 93ee0549-cffe-49b7-a567-81520b25d56b,10/05/2026 09:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 2cfbef2a-5123-4517-8e60-0f638c1c4cbd,10/06/2026 09:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
 11a428a1-d3b5-41e5-a37c-f6da12204950,10/06/2026 09:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+5ba3d0cc-1559-4cd6-9647-31f5021346bf,10/06/2026 13:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
+b83d6347-bac4-43c4-905e-79bd3f8c13df,10/06/2026 13:00:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy
+ccc70f45-dbeb-4acd-9106-77024af5bc38,10/07/2026 05:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
+9800e2a3-03da-46d8-97ae-291ecf32dfee,10/07/2026 07:20:00,ECB's Vujčić speech,HIGH,EUR,Speech,0.552,Monetary Policy
+5660f332-f569-4ed9-805a-9a0b0eed9b63,10/07/2026 17:30:00,ECB's Vujčić speech,HIGH,EUR,Speech,0.552,Monetary Policy
 76b44761-ac80-47ca-b28c-9b10d8605d9e,10/08/2026 08:00:00,Eurogroup Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
+06b28a61-5faa-4dd6-911e-283ed3a1ef49,10/08/2026 10:00:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
 6c63df0d-dc73-4fc9-b38c-cb1261a234ff,10/08/2026 11:30:00,ECB Monetary Policy Meeting Accounts,HIGH,EUR,Speech,0.552,Monetary Policy
 c1a6fdf1-45e3-472a-bd2c-c936b50286a1,10/09/2026 08:00:00,EcoFin Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
 8a3278af-8b07-4ba0-801a-4ab821f2e2b4,10/09/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
