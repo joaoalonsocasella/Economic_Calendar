@@ -1,17 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a8be8ae1-e0eb-43b4-8b98-4c2333560680,10/02/2026 12:30:00,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market
-a0485df5-8fd5-477b-9a61-0daad1abde41,10/02/2026 12:30:00,Average Hourly Earnings (YoY),HIGH,USD,Release,0.18,Labor Market
-9a892cf5-ba37-43a2-911a-f37bc452dccb,10/02/2026 12:30:00,Average Weekly Hours,HIGH,USD,Release,0.18,Labor Market
-c2a38b74-d4dc-4be3-b717-855c3c52c320,10/02/2026 12:30:00,Labor Force Participation Rate,HIGH,USD,Release,0.18,Labor Market
-42eb369a-fa30-4a2e-b508-ba4dc3fd8073,10/02/2026 12:30:00,Nonfarm Payrolls,HIGH,USD,Release,0.18,Labor Market
-298bcab1-6a7b-41d8-bc17-2f4ebe0b18f9,10/02/2026 12:30:00,U6 Underemployment Rate,HIGH,USD,Release,0.2,Monetary Policy
-a2fbeb2f-013c-49cb-a03c-dc2c592cd48c,10/02/2026 12:30:00,Unemployment Rate,HIGH,USD,Release,0.18,Labor Market
-d7d0f835-1b62-4ac2-bc83-f899f7faad67,10/02/2026 14:00:00,Factory Orders (MoM),HIGH,USD,Release,0.17,Growth
-8d10731e-bffe-48f8-a18f-d1a27472b1e8,10/02/2026 14:20:44,Fed's Logan speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-f296dbca-209a-4627-b53e-72fe8bf07e8b,10/02/2026 17:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
-631221c6-e9c9-420a-a931-e8764c3c50e1,10/02/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-9fcb7700-69a3-4ede-bf34-ec1d56df3838,10/02/2026 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-fb067288-309c-4190-b752-c8647b8a616d,10/02/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 f1d2d784-e5fb-416c-b388-54feae2ce150,10/05/2026 13:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
 7256a289-5529-4ad9-a998-7abe47a05bbe,10/05/2026 13:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
 c8608ec5-696d-426d-a2df-6c2fa03fccfb,10/05/2026 14:00:00,ISM Services Employment Index,HIGH,USD,Release,0.18,Labor Market

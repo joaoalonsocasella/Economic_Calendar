@@ -1,17 +1,4 @@
 Id,Start,Name,Impact,Currency
-a8be8ae1-e0eb-43b4-8b98-4c2333560680,10/02/2026 12:30:00,Average Hourly Earnings (MoM),HIGH,USD
-a0485df5-8fd5-477b-9a61-0daad1abde41,10/02/2026 12:30:00,Average Hourly Earnings (YoY),HIGH,USD
-9a892cf5-ba37-43a2-911a-f37bc452dccb,10/02/2026 12:30:00,Average Weekly Hours,LOW,USD
-c2a38b74-d4dc-4be3-b717-855c3c52c320,10/02/2026 12:30:00,Labor Force Participation Rate,MEDIUM,USD
-42eb369a-fa30-4a2e-b508-ba4dc3fd8073,10/02/2026 12:30:00,Nonfarm Payrolls,HIGH,USD
-298bcab1-6a7b-41d8-bc17-2f4ebe0b18f9,10/02/2026 12:30:00,U6 Underemployment Rate,MEDIUM,USD
-a2fbeb2f-013c-49cb-a03c-dc2c592cd48c,10/02/2026 12:30:00,Unemployment Rate,MEDIUM,USD
-d7d0f835-1b62-4ac2-bc83-f899f7faad67,10/02/2026 14:00:00,Factory Orders (MoM),MEDIUM,USD
-8d10731e-bffe-48f8-a18f-d1a27472b1e8,10/02/2026 14:20:44,Fed's Logan speech,MEDIUM,USD
-f296dbca-209a-4627-b53e-72fe8bf07e8b,10/02/2026 17:00:00,Baker Hughes US Oil Rig Count,LOW,USD
-631221c6-e9c9-420a-a931-e8764c3c50e1,10/02/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD
-9fcb7700-69a3-4ede-bf34-ec1d56df3838,10/02/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD
-fb067288-309c-4190-b752-c8647b8a616d,10/02/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 f1d2d784-e5fb-416c-b388-54feae2ce150,10/05/2026 13:45:00,S&P Global Composite PMI,MEDIUM,USD
 7256a289-5529-4ad9-a998-7abe47a05bbe,10/05/2026 13:45:00,S&P Global Services PMI,LOW,USD
 c8608ec5-696d-426d-a2df-6c2fa03fccfb,10/05/2026 14:00:00,ISM Services Employment Index,MEDIUM,USD
