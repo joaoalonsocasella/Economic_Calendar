@@ -24,6 +24,7 @@ ec2a1495-6a2a-4459-ad57-f561bc0c91bc,10/07/2026 14:30:00,EIA Gasoline Stocks Cha
 87e53130-4beb-489a-96d1-3b482f574310,10/07/2026 17:00:00,10-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 02a53a33-4794-47f5-9def-bc39d26272b3,10/07/2026 18:00:00,FOMC Minutes,MEDIUM,USD,Speech,0.13,Monetary Policy
 729d32d5-c19b-4601-a071-8e149563d435,10/07/2026 19:00:00,Consumer Credit Change,MEDIUM,USD,Release,0.14,Confidence
+89359544-76ed-4f52-ab5b-4ff5226a670b,10/08/2026 08:30:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 ca5d9523-c7af-4346-b865-5f1464c7c4b3,10/08/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 9b347ce9-d89e-44e3-92c1-a530ea21db90,10/08/2026 12:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 234f33ed-4ee3-490f-be7b-0c6f7209edc1,10/08/2026 12:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
@@ -108,6 +109,8 @@ c2b53cd8-632c-406f-be98-b9a8c1259436,10/18/2026 00:00:00,IMF Meeting,MEDIUM,USD,
 f9a0c5b3-62e6-48c3-a788-c1a579aa6c62,10/20/2026 12:30:00,Housing Starts (MoM),LOW,USD,Release,0.07,Housing
 e0d72288-19aa-42cc-9d8a-4bfaa051745b,10/20/2026 12:30:00,Housing Starts Change,LOW,USD,Release,0.07,Housing
 e6aec4f5-d117-40e6-80cd-52fb069b34c9,10/20/2026 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
+429976d3-2a02-4580-b407-2c669cc85153,10/20/2026 14:00:00,Pending Home Sales (MoM),LOW,USD,Release,0.07,Housing
+c2667ece-277e-4f43-bc5a-b6291297e6aa,10/20/2026 14:00:00,Pending Home Sales (YoY),LOW,USD,Release,0.07,Housing
 f271341c-9693-428a-81cd-cb8e1bf3c373,10/20/2026 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 782485cf-22b8-466a-9eda-868d52a6fee5,10/21/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 4fed02f5-bac3-4552-9a1e-40438e609d02,10/21/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
@@ -118,8 +121,6 @@ f2146d01-1a52-4e0e-afea-9bd453d8981a,10/21/2026 14:30:00,EIA Heating Oil Stocks 
 17d99074-3c9e-45ef-aafd-a5deabb8e7ec,10/22/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 12fc3d95-f321-4007-84d2-68a90b452a37,10/22/2026 12:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 f729e02c-567d-4318-b227-9b9a8c9cf8a8,10/22/2026 12:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
-429976d3-2a02-4580-b407-2c669cc85153,10/22/2026 14:00:00,Pending Home Sales (MoM),LOW,USD,Release,0.07,Housing
-c2667ece-277e-4f43-bc5a-b6291297e6aa,10/22/2026 14:00:00,Pending Home Sales (YoY),LOW,USD,Release,0.07,Housing
 a3725413-bdad-4cac-9f25-2714032f2fd8,10/22/2026 14:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 ebf9d19e-6522-4aaf-81ec-f394f9f0f77e,10/22/2026 15:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 9a9f6ef8-98aa-40e5-9531-34be56818826,10/22/2026 17:00:00,5-year TIPS Auction,LOW,USD,Release,0.09,Money and Credit

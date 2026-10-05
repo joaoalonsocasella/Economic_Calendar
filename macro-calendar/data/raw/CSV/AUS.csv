@@ -1,18 +1,16 @@
 Id,Start,Name,Impact,Currency
-563cd6f4-2063-40fa-8403-ebaa3f325c33,10/04/2026 23:00:00,S&P Global Composite PMI,MEDIUM,AUD
-567fb19c-53be-49ec-ae2e-0f01ac38ef4e,10/04/2026 23:00:00,S&P Global Services PMI,MEDIUM,AUD
 5064de46-dfec-4fb9-95c3-24569518e20f,10/05/2026 00:00:00,TD-MI Inflation Gauge (MoM),LOW,AUD
 0597b00a-9389-4cdc-8072-0d3cc6316a76,10/05/2026 00:00:00,TD-MI Inflation Gauge (YoY),MEDIUM,AUD
-9b6d343b-37ae-4586-9396-37e52714956a,10/05/2026 00:30:00,ANZ Job Advertisements,LOW,AUD
+9b6d343b-37ae-4586-9396-37e52714956a,10/06/2026 00:30:00,ANZ Job Advertisements,LOW,AUD
 e0bc3041-cf42-4f21-8ea7-b7e9180872ba,10/06/2026 22:00:00,Ai Group Construction PMI,LOW,AUD
 0e63bd92-b1eb-4ab0-996a-8b9200762332,10/06/2026 22:00:00,Ai Group Manufacturing PMI,LOW,AUD
 6646591f-f289-492a-9dd6-4da49945fc01,10/06/2026 22:00:00,AiG Industry Index,MEDIUM,AUD
+27e551fd-01ed-489d-ab21-99862042ecc6,10/08/2026 00:00:00,Consumer Inflation Expectations,MEDIUM,AUD
 f73cb51a-c722-4ece-a1df-02136dee1528,10/09/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
 8b196348-700c-432c-93d0-35a0aa15b48a,10/12/2026 23:30:00,Westpac Consumer Confidence,MEDIUM,AUD
 d37d1358-f4cd-4c19-a24f-7b916e63eaff,10/13/2026 00:30:00,National Australia Bank's Business Conditions,LOW,AUD
 a3b4cf64-4187-4cf4-9d61-6c57bacd9cfa,10/13/2026 00:30:00,National Australia Bank's Business Confidence,LOW,AUD
 518da2d5-3093-4cb0-84e6-1979d2285d27,10/13/2026 00:30:00,RBA Meeting Minutes,HIGH,AUD
-27e551fd-01ed-489d-ab21-99862042ecc6,10/15/2026 00:00:00,Consumer Inflation Expectations,MEDIUM,AUD
 24deb0b5-7859-487b-a8bf-c9ba578c5d4a,10/15/2026 00:30:00,Employment Change s.a.,HIGH,AUD
 237b17a4-c342-4d88-8023-5171f2f2d884,10/15/2026 00:30:00,Full-Time Employment,MEDIUM,AUD
 bf8c59f6-937e-49fc-9e61-4216a13e335d,10/15/2026 00:30:00,National Australia Bank's Business Confidence (QoQ),MEDIUM,AUD
@@ -21,9 +19,9 @@ bf8c59f6-937e-49fc-9e61-4216a13e335d,10/15/2026 00:30:00,National Australia Bank
 53c49d70-06aa-48b2-9023-4299940afe21,10/15/2026 00:30:00,Unemployment Rate s.a.,HIGH,AUD
 13647b30-5de1-4af7-823a-77ce77d2419c,10/16/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
 93cd533c-0291-4d19-be9f-337cd9425c84,10/21/2026 00:00:00,Westpac Leading Index (MoM),LOW,AUD
-e17fbb9d-1e1a-469c-874e-0acc910587a8,10/21/2026 22:00:00,S&P Global Composite PMI,MEDIUM,AUD
-e8be5812-a8bc-4f9e-9649-b82daff077c8,10/21/2026 22:00:00,S&P Global Manufacturing PMI,MEDIUM,AUD
-2696dcc9-ec0c-4800-baf9-7aed05a3e1dc,10/21/2026 22:00:00,S&P Global Services PMI,MEDIUM,AUD
+e17fbb9d-1e1a-469c-874e-0acc910587a8,10/22/2026 22:00:00,S&P Global Composite PMI,MEDIUM,AUD
+e8be5812-a8bc-4f9e-9649-b82daff077c8,10/22/2026 22:00:00,S&P Global Manufacturing PMI,MEDIUM,AUD
+2696dcc9-ec0c-4800-baf9-7aed05a3e1dc,10/22/2026 22:00:00,S&P Global Services PMI,MEDIUM,AUD
 27004ad2-e1b6-47e1-bb08-954f5208c191,10/23/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
 69a53443-283e-45e5-9ba1-5c127a75815e,10/28/2026 00:30:00,Consumer Price Index (MoM),MEDIUM,AUD
 f53f6a44-c97b-4303-a2d3-b6aaddd2b4a7,10/28/2026 00:30:00,Consumer Price Index (YoY),HIGH,AUD
