@@ -1,17 +1,9 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-f1d2d784-e5fb-416c-b388-54feae2ce150,10/05/2026 13:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
-7256a289-5529-4ad9-a998-7abe47a05bbe,10/05/2026 13:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
-c8608ec5-696d-426d-a2df-6c2fa03fccfb,10/05/2026 14:00:00,ISM Services Employment Index,HIGH,USD,Release,0.18,Labor Market
-b87c6f73-f35c-42b1-a4c1-0b6585af8b18,10/05/2026 14:00:00,ISM Services New Orders Index,HIGH,USD,Release,0.17,Growth
-01cb6076-cca0-46ff-b8a7-98f6bd803237,10/05/2026 14:00:00,ISM Services PMI,HIGH,USD,Release,0.17,Growth
-34f9de14-a9da-4cd7-a945-f2836056421c,10/05/2026 14:00:00,ISM Services Prices Paid,MEDIUM,USD,Release,0.14,Confidence
-53e2320b-2dff-4c53-b5f9-261943877f24,10/05/2026 15:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
-9df4e31f-66c2-4e6c-9104-679b28a0a278,10/05/2026 15:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 e4b88b30-59ab-4cb5-a794-94a2ffada5b0,10/06/2026 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 043eedaf-7651-4d10-b6f6-5f4ab4e3ee86,10/06/2026 12:30:00,Goods and Services Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 720e24e2-ec25-4fe2-b547-d60cc88991b0,10/06/2026 12:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
-c9fca93e-b534-41bc-bf13-9c13452686b8,10/06/2026 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 bbbf280a-03cf-4abb-afd6-02f2c7332d6e,10/06/2026 13:05:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
+c9fca93e-b534-41bc-bf13-9c13452686b8,10/06/2026 13:14:20,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 8cc392b4-519e-4db5-b578-461453747c11,10/06/2026 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),HIGH,USD,Release,0.19,Inflation
 10955351-2dc7-4bc8-bba3-b9739e76dc69,10/06/2026 14:45:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 fdc2a609-1fb4-4ff7-90f4-60a97d83d00d,10/06/2026 17:00:00,3-Year Note Auction,LOW,USD,Release,0.09,Money and Credit

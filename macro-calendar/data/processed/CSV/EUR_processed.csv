@@ -1,13 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-f665e713-f69c-4bdb-8573-88bc87c275e1,10/05/2026 07:45:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-32907180-59e3-4e80-9c52-c330cdd04522,10/05/2026 08:00:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
-dee1f692-0e26-4d34-b947-5a179d393367,10/05/2026 08:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
-e9086c45-894e-4841-9dd0-5d7e7484590d,10/05/2026 08:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
-3491b4b1-07fe-4240-90d6-fb6381341f64,10/05/2026 08:30:00,Sentix Investor Confidence,HIGH,EUR,Release,0.595,Confidence
-dbe133ab-7adc-4742-997e-e6103e557751,10/05/2026 09:00:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-c3c416bc-2de0-43f0-bf18-70686abea7d3,10/05/2026 09:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-93ee0549-cffe-49b7-a567-81520b25d56b,10/05/2026 09:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-27c44dab-8cd9-452f-9a5a-8728da81673b,10/05/2026 10:40:00,ECB's Escrivá speech,HIGH,EUR,Speech,0.552,Monetary Policy
+67e327a1-67d3-4f01-b9c5-674d0d2b6b18,10/06/2026 07:00:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
 2cfbef2a-5123-4517-8e60-0f638c1c4cbd,10/06/2026 09:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
 11a428a1-d3b5-41e5-a37c-f6da12204950,10/06/2026 09:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 5ba3d0cc-1559-4cd6-9647-31f5021346bf,10/06/2026 13:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy

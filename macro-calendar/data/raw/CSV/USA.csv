@@ -1,17 +1,9 @@
 Id,Start,Name,Impact,Currency
-f1d2d784-e5fb-416c-b388-54feae2ce150,10/05/2026 13:45:00,S&P Global Composite PMI,MEDIUM,USD
-7256a289-5529-4ad9-a998-7abe47a05bbe,10/05/2026 13:45:00,S&P Global Services PMI,LOW,USD
-c8608ec5-696d-426d-a2df-6c2fa03fccfb,10/05/2026 14:00:00,ISM Services Employment Index,MEDIUM,USD
-b87c6f73-f35c-42b1-a4c1-0b6585af8b18,10/05/2026 14:00:00,ISM Services New Orders Index,MEDIUM,USD
-01cb6076-cca0-46ff-b8a7-98f6bd803237,10/05/2026 14:00:00,ISM Services PMI,HIGH,USD
-34f9de14-a9da-4cd7-a945-f2836056421c,10/05/2026 14:00:00,ISM Services Prices Paid,MEDIUM,USD
-53e2320b-2dff-4c53-b5f9-261943877f24,10/05/2026 15:30:00,3-Month Bill Auction,LOW,USD
-9df4e31f-66c2-4e6c-9104-679b28a0a278,10/05/2026 15:30:00,6-Month Bill Auction,LOW,USD
 e4b88b30-59ab-4cb5-a794-94a2ffada5b0,10/06/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 043eedaf-7651-4d10-b6f6-5f4ab4e3ee86,10/06/2026 12:30:00,Goods and Services Trade Balance,LOW,USD
 720e24e2-ec25-4fe2-b547-d60cc88991b0,10/06/2026 12:30:00,Goods Trade Balance,LOW,USD
-c9fca93e-b534-41bc-bf13-9c13452686b8,10/06/2026 12:55:00,Redbook Index (YoY),LOW,USD
 bbbf280a-03cf-4abb-afd6-02f2c7332d6e,10/06/2026 13:05:00,Fed's Williams speech,MEDIUM,USD
+c9fca93e-b534-41bc-bf13-9c13452686b8,10/06/2026 13:14:20,Redbook Index (YoY),LOW,USD
 8cc392b4-519e-4db5-b578-461453747c11,10/06/2026 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
 10955351-2dc7-4bc8-bba3-b9739e76dc69,10/06/2026 14:45:00,Fed's Bowman speech,MEDIUM,USD
 fdc2a609-1fb4-4ff7-90f4-60a97d83d00d,10/06/2026 17:00:00,3-Year Note Auction,LOW,USD
