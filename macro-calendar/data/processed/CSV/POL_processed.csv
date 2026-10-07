@@ -1,6 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 64ffc645-c0c6-48ca-be82-bef0b53b2876,10/07/2026 12:00:00,Central Bank FX Reserves,LOW,PLN,Release,0.09,Money and Credit
-6d3956b5-417a-4c41-b73f-51e49ce4a70e,10/07/2026 13:00:00,NBP Base rate,HIGH,PLN,Release,0.2,Monetary Policy
+6d3956b5-417a-4c41-b73f-51e49ce4a70e,10/07/2026 14:04:30,NBP Base rate,HIGH,PLN,Release,0.2,Monetary Policy
 231a782a-44d8-44b6-9d15-187daa5fcbbb,10/13/2026 12:00:00,Current Account,MEDIUM,PLN,Release,0.11,Trade and External
 2ae3ddac-af43-4428-9986-966c7cf6682d,10/14/2026 08:00:00,Consumer Price Index (MoM),HIGH,PLN,Release,0.19,Inflation
 bafe961b-e511-41cf-a994-c00982f3640c,10/14/2026 08:00:00,Consumer Price Index (YoY),HIGH,PLN,Release,0.19,Inflation

@@ -1,13 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e4b88b30-59ab-4cb5-a794-94a2ffada5b0,10/06/2026 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
-043eedaf-7651-4d10-b6f6-5f4ab4e3ee86,10/06/2026 12:30:00,Goods and Services Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
-720e24e2-ec25-4fe2-b547-d60cc88991b0,10/06/2026 12:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
-bbbf280a-03cf-4abb-afd6-02f2c7332d6e,10/06/2026 13:05:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
-c9fca93e-b534-41bc-bf13-9c13452686b8,10/06/2026 13:14:20,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
-8cc392b4-519e-4db5-b578-461453747c11,10/06/2026 14:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),HIGH,USD,Release,0.19,Inflation
-10955351-2dc7-4bc8-bba3-b9739e76dc69,10/06/2026 14:45:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-fdc2a609-1fb4-4ff7-90f4-60a97d83d00d,10/06/2026 17:00:00,3-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-bdc7801d-8510-4744-a489-fb70eac99dad,10/06/2026 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 2d100fe1-5948-4741-ad42-44e4a50226ff,10/07/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 23d4f861-ceb4-415f-a8fc-202439295086,10/07/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
 a5a4945a-eca7-4fbf-ad9d-ba81cb5d2d92,10/07/2026 14:30:00,EIA Distillate Stocks Change,HIGH,USD,Release,0.18,Labor Market

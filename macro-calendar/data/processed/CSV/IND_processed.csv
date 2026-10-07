@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-105132db-0975-418d-8d75-0bca464765b6,10/06/2026 05:00:00,HSBC Composite PMI,HIGH,INR,Release,0.17,Growth
-a3304214-5913-4bd6-8f48-82d3410409a2,10/06/2026 05:00:00,HSBC Services PMI,HIGH,INR,Release,0.17,Growth
 01b45f40-8022-470e-b94b-812fb713908d,10/07/2026 04:30:00,RBI Interest Rate Decision (Repo Rate),HIGH,INR,Release,0.2,Monetary Policy
 4dc385a8-c03a-4c82-8da1-4fe9c2548375,10/07/2026 04:30:00,Reverse Repo Rate,HIGH,INR,Release,0.2,Monetary Policy
 dcac1d0d-7d02-4d51-a740-c1605ac002fc,10/09/2026 11:30:00,Bank Loan Growth,LOW,INR,Release,0.09,Money and Credit
