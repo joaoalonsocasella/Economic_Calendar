@@ -1,10 +1,4 @@
 Id,Start,Name,Impact,Currency
-22fce68b-a300-44cb-ac58-a20b347aac66,10/07/2026 05:00:00,Coincident Index,LOW,JPY
-0cc3fef9-6249-40cf-9087-90cd70113fdf,10/07/2026 05:00:00,Leading Economic Index,LOW,JPY
-53d9e979-30b7-46ed-956d-bd379c8732ed,10/07/2026 23:50:00,Current Account n.s.a.,MEDIUM,JPY
-7a3a3e00-ea67-49f1-9dd8-090f58251c17,10/07/2026 23:50:00,Foreign Bond Investment,LOW,JPY
-f45e07c3-da50-4959-9e24-86d0b43db468,10/07/2026 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
-ecdf515b-ba4f-4bab-bc45-08c28d3f2aba,10/07/2026 23:50:00,Trade Balance - BOP Basis,LOW,JPY
 8d565384-6230-443e-8299-614fd64f39c3,10/08/2026 05:00:00,Eco Watchers Survey: Current,LOW,JPY
 5822c98c-d50e-4bd3-8c6d-66409d7eddf9,10/08/2026 05:00:00,Eco Watchers Survey: Outlook,LOW,JPY
 6c40c52d-bd98-4b06-84cf-9ba0000675e5,10/08/2026 23:30:00,Overall Household Spending (YoY),LOW,JPY
@@ -274,15 +268,21 @@ ce03aab3-3308-40d4-9c56-0e1c0e02afe7,01/31/2027 23:50:00,BoJ Summary of Opinions
 10ea9cd5-3d40-48f6-8c1a-339b2dc23bfa,01/31/2027 23:50:00,Large Retailer Sales,MEDIUM,JPY
 cbdbe3e0-d55b-44d2-8c10-ceb06276beba,01/31/2027 23:50:00,Retail Trade (YoY),MEDIUM,JPY
 1a750efa-d116-4f2d-9e9b-f9c4ab47dbba,01/31/2027 23:50:00,Retail Trade s.a (MoM),MEDIUM,JPY
+1424fcbf-38ee-4dce-8e39-a0349b7329b3,02/01/2027 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
 e9e9f700-f239-4d8f-ac96-78ef95a857b3,02/02/2027 03:35:00,10-y Bond Auction,LOW,JPY
+7069ed78-b7ef-488e-9bf9-7fa4dd63793e,02/03/2027 00:30:00,Jibun Bank Services PMI,LOW,JPY
 61a096d3-e622-4a40-9054-5b7a4c84efe6,02/03/2027 23:50:00,Foreign Bond Investment,LOW,JPY
 ca854d38-4bd4-4242-939f-7e57a608c6a1,02/03/2027 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
 c4b6f69b-d323-4cd6-8def-c945f1d23c89,02/04/2027 23:50:00,JP Foreign Reserves,LOW,JPY
+b1c5058b-ee96-4346-97c4-437e82cc2dc7,02/05/2027 05:00:00,Coincident Index,LOW,JPY
+8c5cd029-1318-4014-9c42-23a70d081634,02/05/2027 05:00:00,Leading Economic Index,LOW,JPY
 4449dd7f-6e1e-498b-ad6d-90672c46cb45,02/05/2027 20:30:00,CFTC JPY NC Net Positions,LOW,JPY
 8fbbafdf-91b2-453e-beba-09b136c0a9a7,02/07/2027 23:30:00,Labor Cash Earnings (YoY),MEDIUM,JPY
 21a7fb54-f07f-4531-acf4-f675d6bb71e3,02/07/2027 23:50:00,Bank Lending (YoY),LOW,JPY
 410399e8-a706-481c-ae84-3cc92b3099fb,02/07/2027 23:50:00,Current Account n.s.a.,MEDIUM,JPY
 2c4e6272-30c1-4a8c-bdc0-5f09a1abb11e,02/07/2027 23:50:00,Trade Balance - BOP Basis,LOW,JPY
+08aeed46-883e-4eb4-bb55-5ace4a9e01c6,02/08/2027 05:00:00,Eco Watchers Survey: Current,LOW,JPY
+7abdfdb0-8127-4d12-b673-8463dc58e5ca,02/08/2027 05:00:00,Eco Watchers Survey: Outlook,LOW,JPY
 d41943ae-148a-4784-9c17-fffa672c0c84,02/08/2027 23:50:00,Money Supply M2+CD (YoY),LOW,JPY
 8557bd90-8eaf-418d-8130-b8105cab3738,02/09/2027 06:00:00,Machine Tool Orders (YoY),LOW,JPY
 f2fd4772-4ff0-4347-aeac-153d37b22131,02/09/2027 23:50:00,Producer Price Index (MoM),LOW,JPY
@@ -308,14 +308,18 @@ e4054381-9c0d-4591-bb42-df89cd40f28a,02/17/2027 23:50:00,Machinery Orders (MoM),
 64091944-743f-49e6-928d-b523fb89b9c3,02/18/2027 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
 702f3db8-6866-43dc-ba8d-f6c3b3fe562e,02/18/2027 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
 609ad3e5-b7c0-4ba8-bbb7-a4789261fd99,02/19/2027 20:30:00,CFTC JPY NC Net Positions,LOW,JPY
+16d7bb16-591b-4be9-aaa5-45a2b5d430a0,02/23/2027 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
+40679fc3-cd25-4b63-a6a2-99e9d528f1eb,02/23/2027 00:30:00,Jibun Bank Services PMI,LOW,JPY
 ca71351d-80a6-47a0-8cee-7cf5b3cecff1,02/24/2027 23:50:00,Foreign Bond Investment,LOW,JPY
 910667a8-0b02-4d14-a741-c354e9476b0b,02/24/2027 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
 fa526b47-3a65-4fba-9b96-dbaa61cc292d,02/25/2027 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 23b2809b-d302-4083-80ae-f19adc634a0a,02/25/2027 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
 9794c275-43f3-4b1d-9300-245cdccd35a1,02/25/2027 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
 8e5f6600-345c-4859-880b-9ccc7add766a,02/26/2027 05:00:00,Annualized Housing Starts,LOW,JPY
+5099a350-3e65-4ba4-8f7a-94d146b426a4,02/26/2027 05:00:00,Coincident Index,LOW,JPY
 a4a2e2bd-d1f3-4b5f-bd12-1356afa381f8,02/26/2027 05:00:00,Construction Orders (YoY),LOW,JPY
 141aa474-b9b9-4b0f-b3d9-a92c351a8f38,02/26/2027 05:00:00,Housing Starts (YoY),LOW,JPY
+4aada208-32fc-4f63-8128-c0724b1833e9,02/26/2027 05:00:00,Leading Economic Index,LOW,JPY
 155d2144-6eb1-4368-8337-b955a7adc58c,02/26/2027 20:30:00,CFTC JPY NC Net Positions,LOW,JPY
 f5ebb47f-2418-4588-8844-f158a1e6b04e,02/28/2027 23:50:00,Capital Spending,LOW,JPY
 6a626c7b-33ce-4e7d-8153-f20e4c077047,02/28/2027 23:50:00,Industrial Production (MoM),LOW,JPY
@@ -323,7 +327,11 @@ f5ebb47f-2418-4588-8844-f158a1e6b04e,02/28/2027 23:50:00,Capital Spending,LOW,JP
 484e878c-5682-4572-8cc4-61ae5cd2cbd1,02/28/2027 23:50:00,Large Retailer Sales,MEDIUM,JPY
 3621808d-2a80-4834-8b0d-09d25a691963,02/28/2027 23:50:00,Retail Trade (YoY),MEDIUM,JPY
 0bd388be-f28e-414d-a227-b914f771cf9a,02/28/2027 23:50:00,Retail Trade s.a (MoM),MEDIUM,JPY
+7f9b6b28-ce5b-4116-b0b9-e52a9f4280bf,03/01/2027 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
+9ac07770-1dd4-4c0b-9447-dad3686ea0f7,03/01/2027 23:30:00,Jobs / Applicants Ratio,LOW,JPY
+23da1de4-fcc8-4c1f-b675-d10c2245746e,03/01/2027 23:30:00,Unemployment Rate,MEDIUM,JPY
 8bddc502-3a29-4388-8657-d966628748d7,03/02/2027 03:35:00,10-y Bond Auction,LOW,JPY
+dbe6fdc0-4930-4aac-b5ab-78246910ba50,03/03/2027 00:30:00,Jibun Bank Services PMI,LOW,JPY
 4499d688-7836-428e-a925-42c9ca092c6c,03/03/2027 23:50:00,Foreign Bond Investment,LOW,JPY
 8539aaab-b7c9-4c23-b307-c2ae54c05394,03/03/2027 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
 05dbf4d1-cca2-4b1b-8913-522d7039a805,03/04/2027 23:50:00,JP Foreign Reserves,LOW,JPY
@@ -331,7 +339,11 @@ f5ebb47f-2418-4588-8844-f158a1e6b04e,02/28/2027 23:50:00,Capital Spending,LOW,JP
 8dd4d6a9-59bf-491a-8759-783953530b0e,03/07/2027 23:30:00,Labor Cash Earnings (YoY),MEDIUM,JPY
 8949b83c-a05e-4c49-b403-19e4b9cea374,03/07/2027 23:50:00,Current Account n.s.a.,MEDIUM,JPY
 2b3868d7-47b9-43c2-9276-657470147ac6,03/07/2027 23:50:00,Trade Balance - BOP Basis,LOW,JPY
+75ac6c07-2846-429c-b067-e26d51a8926c,03/08/2027 05:00:00,Eco Watchers Survey: Current,LOW,JPY
+096b64a9-1d27-44a0-a910-4b9fdea5206b,03/08/2027 05:00:00,Eco Watchers Survey: Outlook,LOW,JPY
 511192f8-3ddb-4619-b978-4f8e16114cdb,03/08/2027 23:50:00,Money Supply M2+CD (YoY),LOW,JPY
+10975025-6b3f-43ea-b7c3-1aea5b72b654,03/09/2027 05:00:00,Coincident Index,LOW,JPY
+a544b34f-9acf-480b-89d5-a7f7d9e2d77e,03/09/2027 05:00:00,Leading Economic Index,LOW,JPY
 90bda012-b025-4ca4-aa5a-a510895e32a0,03/09/2027 23:50:00,Bank Lending (YoY),LOW,JPY
 3857c87b-b4bd-492d-9ac0-c0d622a63273,03/09/2027 23:50:00,Producer Price Index (MoM),LOW,JPY
 fdd418d0-ffad-4387-80cb-433c054b7137,03/09/2027 23:50:00,Producer Price Index (YoY),LOW,JPY
@@ -361,6 +373,8 @@ f785d0e6-f728-4f4d-9290-571bf0bdef50,03/18/2027 03:00:00,BoJ Interest Rate Decis
 bbe596d5-5c4d-4008-91ff-7b11dc81b3c5,03/18/2027 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
 5e3caa14-a634-4370-8f5c-0c19dcb4d387,03/18/2027 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
 079e7dd0-72ff-4742-9a92-1c7f526b36a0,03/19/2027 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
+2c38583f-ce30-4e44-888b-bfe52ca61e4a,03/23/2027 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
+8c9c58e9-6bd6-4b4f-8979-283471c06db5,03/23/2027 00:30:00,Jibun Bank Services PMI,LOW,JPY
 69757ead-5310-4da8-88d5-e3970ec35835,03/23/2027 23:50:00,BoJ Monetary Policy Meeting Minutes,MEDIUM,JPY
 f711cf6e-08fe-4c34-bc89-a467166543c0,03/24/2027 23:50:00,Foreign Bond Investment,LOW,JPY
 80721105-5b19-421f-b165-44873facdf1b,03/24/2027 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
@@ -369,6 +383,10 @@ e9d70db7-7e8f-4639-bbfd-609fdc39ba40,03/25/2027 23:30:00,"Tokyo CPI ex Food, Ene
 507bbc00-d0fc-431d-aea1-f994d4f12c58,03/25/2027 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
 a49410d5-efa4-4b06-8713-7f9fab0413f4,03/26/2027 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 59f97b05-b8eb-4311-b3d6-280a1bcd0143,03/28/2027 23:50:00,BoJ Summary of Opinions,LOW,JPY
+41560d0f-abfc-4af5-ad11-26d5a55988ce,03/29/2027 05:00:00,Coincident Index,LOW,JPY
+a7e646a5-f8e1-4b9b-8e98-9861795fde90,03/29/2027 05:00:00,Leading Economic Index,LOW,JPY
+ec8e63d8-7db6-4ae4-bc04-b401698870d7,03/29/2027 23:30:00,Jobs / Applicants Ratio,LOW,JPY
+0f26afdb-65c5-4019-8b77-814445659d35,03/29/2027 23:30:00,Unemployment Rate,MEDIUM,JPY
 e27e38bf-30dc-40ba-98c6-28b788afd1a8,03/29/2027 23:50:00,Industrial Production (MoM),LOW,JPY
 21984a28-c72c-4e33-818f-b3723f0623f8,03/29/2027 23:50:00,Industrial Production (YoY),LOW,JPY
 000616dc-ea4a-46f5-b064-6d6b468adb7f,03/30/2027 23:50:00,Large Retailer Sales,MEDIUM,JPY
@@ -384,13 +402,19 @@ c3cd24c5-5ceb-4959-9e12-a781c4e531a8,03/31/2027 23:50:00,Foreign Bond Investment
 86a26e43-cadc-4ab8-ac10-a6e316cf5832,03/31/2027 23:50:00,Tankan Large Manufacturing Outlook,MEDIUM,JPY
 6387d4ae-3f94-4c47-b6ba-06b0f0959a3b,03/31/2027 23:50:00,Tankan Non - Manufacturing Index,LOW,JPY
 2e07ecba-428e-4c4e-93c5-ed44885c075c,03/31/2027 23:50:00,Tankan Non - Manufacturing Outlook,LOW,JPY
+9bc21e38-ba61-472b-8d65-e3ade12af562,04/01/2027 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
 84e7ad02-4448-46a6-95c3-4dcb9add35e1,04/01/2027 03:35:00,10-y Bond Auction,LOW,JPY
 96d7d31b-354a-4750-802b-2e8b964b1b57,04/02/2027 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
+fe2499d5-995b-4506-b0af-f90d140df11a,04/05/2027 00:30:00,Jibun Bank Services PMI,LOW,JPY
+c046c3f2-bb6d-46d0-9a53-7be3463d7fd9,04/06/2027 05:00:00,Coincident Index,LOW,JPY
+08947079-faaf-4adb-a5c8-d752be931459,04/06/2027 05:00:00,Leading Economic Index,LOW,JPY
 746c454a-ba7d-432d-9208-fabaa7855924,04/07/2027 23:30:00,Labor Cash Earnings (YoY),MEDIUM,JPY
 7e4233d1-dfa6-4a22-a8f0-8d52b3ab3026,04/07/2027 23:50:00,Current Account n.s.a.,MEDIUM,JPY
 d1381455-a387-433a-bfba-fc85ba43483c,04/07/2027 23:50:00,Foreign Bond Investment,LOW,JPY
 1e89b572-7bc7-44bc-abdc-0751a7c1f881,04/07/2027 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
 3be271df-c203-4da4-a74a-34641f6c2a70,04/07/2027 23:50:00,Trade Balance - BOP Basis,LOW,JPY
+12883dce-0043-40ac-b2fc-718806cbc745,04/08/2027 05:00:00,Eco Watchers Survey: Current,LOW,JPY
+083ed7de-0af8-4958-8135-7eeffe47f21b,04/08/2027 05:00:00,Eco Watchers Survey: Outlook,LOW,JPY
 f06c1dba-1851-4c11-91cc-a9fa02c1110d,04/08/2027 23:50:00,JP Foreign Reserves,LOW,JPY
 ced1f6fa-a733-496b-8521-22f11036715e,04/08/2027 23:50:00,Money Supply M2+CD (YoY),LOW,JPY
 ecf9aa90-8941-463b-8b33-88d942a4c7d0,04/09/2027 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
@@ -412,6 +436,8 @@ d62d5eb4-dc4d-49fa-bf8f-339587848736,04/20/2027 23:50:00,Exports (YoY),MEDIUM,JP
 c6a52676-c882-4ff8-b7a5-d6d1a9be84ca,04/20/2027 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY
 de3ece05-8484-4346-a969-0334d0c4fb00,04/21/2027 23:50:00,Foreign Bond Investment,LOW,JPY
 1f25d809-11d6-46da-90bd-5df435445aea,04/21/2027 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
+747b26f4-eaff-4be5-b284-49228e5a4f01,04/22/2027 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
+4c8afede-c8d3-442b-a3e2-32e6bcca2f84,04/22/2027 00:30:00,Jibun Bank Services PMI,LOW,JPY
 54436837-a8df-42fb-bfba-74c51a24f61d,04/22/2027 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
 4e697e30-80bd-4f35-8d3e-499eceff9507,04/22/2027 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
 447bb962-40d0-4d95-bdf8-90d2b3cb0c86,04/22/2027 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
@@ -422,9 +448,13 @@ de3ece05-8484-4346-a969-0334d0c4fb00,04/21/2027 23:50:00,Foreign Bond Investment
 7d5fb669-7e56-4edb-ad24-b93ead0eb78f,04/28/2027 06:30:00,BoJ Press Conference,HIGH,JPY
 a0eb28a5-abb2-4467-8ddb-e6610f5b07c8,04/28/2027 23:50:00,Foreign Bond Investment,LOW,JPY
 91a7565a-e612-4fcf-98f5-7cf901317039,04/28/2027 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
+43eb289a-f80a-4d34-9efa-62aa593fd4ae,04/29/2027 05:00:00,Coincident Index,LOW,JPY
+39dc7caf-d9d2-405b-aa85-9ae82e5b7593,04/29/2027 05:00:00,Leading Economic Index,LOW,JPY
+dcab49c3-723d-4ffc-a433-b9445b6ef1b8,04/29/2027 23:30:00,Jobs / Applicants Ratio,LOW,JPY
 a8fe194b-913e-4f09-9bc8-9e93a86bf2b9,04/29/2027 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 28ba5a69-5179-4edd-b8e6-1288c1a62df5,04/29/2027 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
 8c3d4fbc-b249-43b5-8ba1-2b56c83e88f4,04/29/2027 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
+fb3d4ea9-ed7c-4225-a1ba-807b4178e1be,04/29/2027 23:30:00,Unemployment Rate,MEDIUM,JPY
 ac31ac6a-96da-4ed4-a65a-edff66db05f5,04/29/2027 23:50:00,Industrial Production (MoM),LOW,JPY
 1f7d772c-3136-4db2-8023-e9f4053cb74b,04/29/2027 23:50:00,Industrial Production (YoY),LOW,JPY
 b1f70453-db57-4417-8677-7aef333b9580,04/29/2027 23:50:00,Large Retailer Sales,MEDIUM,JPY
@@ -434,15 +464,21 @@ d1a1bb13-ebb3-42e1-b63a-2b6fe6f4b4d2,04/30/2027 05:00:00,Annualized Housing Star
 89480c76-2f5f-4041-8c8d-7dde9cae4e11,04/30/2027 05:00:00,Construction Orders (YoY),LOW,JPY
 0087636e-f5fc-457b-b7de-c10d949b49c8,04/30/2027 05:00:00,Housing Starts (YoY),LOW,JPY
 67394fcd-cd43-4eb1-af5d-cb6521e39a53,04/30/2027 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
+e3ed5622-9a8a-4fa5-bd5d-49d7f919b569,05/03/2027 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
 0b523869-bf0f-40ba-98f3-38df22da656d,05/04/2027 03:35:00,10-y Bond Auction,LOW,JPY
 6b5645f1-173a-4e17-a0f7-3f2d645f6a42,05/04/2027 23:30:00,Labor Cash Earnings (YoY),MEDIUM,JPY
+feca06dc-d32c-4dc1-a777-af76aa5a9c4a,05/05/2027 00:30:00,Jibun Bank Services PMI,LOW,JPY
 ba5b4278-77e8-4861-8bc6-9c872c1e60f6,05/05/2027 23:50:00,Foreign Bond Investment,LOW,JPY
 41dd21b1-02b9-47b3-9973-ca996279bf05,05/05/2027 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
+7399ef2d-3d5b-43dc-a83d-dec41b6ff407,05/06/2027 05:00:00,Coincident Index,LOW,JPY
+8b516d9e-e02c-4384-949b-f52c8f44a848,05/06/2027 05:00:00,Leading Economic Index,LOW,JPY
 705cc5b3-8c0f-43c5-865b-8aafab94b792,05/06/2027 23:50:00,BoJ Monetary Policy Meeting Minutes,MEDIUM,JPY
 e68be0c2-139f-431d-a71c-e20e1404314a,05/06/2027 23:50:00,JP Foreign Reserves,LOW,JPY
 5a8a106d-0778-4f37-87e7-725b703368c4,05/07/2027 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 30f56516-ad81-4d4a-954a-b8db0fc2ddaa,05/09/2027 23:50:00,Current Account n.s.a.,MEDIUM,JPY
 f2b4dc38-283c-432e-9d67-9c909587ef85,05/09/2027 23:50:00,Trade Balance - BOP Basis,LOW,JPY
+4ff4a867-41ce-4403-a3a9-51cf7053d270,05/10/2027 05:00:00,Eco Watchers Survey: Current,LOW,JPY
+590ad999-7082-4250-bb35-9f3cac6a8ec4,05/10/2027 05:00:00,Eco Watchers Survey: Outlook,LOW,JPY
 96aed65e-3805-4ab8-ad84-842c9fb874e3,05/10/2027 23:50:00,Bank Lending (YoY),LOW,JPY
 7413ea08-b0c6-435c-ad9c-7ee2c3449910,05/11/2027 06:00:00,Machine Tool Orders (YoY),LOW,JPY
 7cfbdbd9-d4cc-40a0-a2f8-49e7a35929d3,05/11/2027 23:50:00,BoJ Summary of Opinions,LOW,JPY
@@ -469,6 +505,8 @@ caa46eb8-7d46-48e8-beba-f542589f7907,05/19/2027 23:50:00,Merchandise Trade Balan
 78dc46ad-260c-4a64-96c0-963bb88d0f41,05/20/2027 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
 3effe192-0d79-48da-a215-5339d1d0e235,05/20/2027 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
 9e952509-9b02-43fc-a041-b11e8c55280f,05/20/2027 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
+dc68ed28-fa6a-49ff-ba6c-c6f47ef14444,05/21/2027 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
+1095982b-ab24-4013-b2a0-6be71ab6251d,05/21/2027 00:30:00,Jibun Bank Services PMI,LOW,JPY
 5d51b49f-728b-45f4-aba5-bf43e8627777,05/21/2027 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 2cfe0b8d-54db-44bd-9b2c-622cffc953c8,05/26/2027 23:50:00,Foreign Bond Investment,LOW,JPY
 ecefece2-7d0a-436b-a24d-0195d348a89b,05/26/2027 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
@@ -482,16 +520,27 @@ e999ccd5-bcdd-4dd9-aad8-913ca8913c8a,05/30/2027 23:50:00,Industrial Production (
 b808acde-a69a-4fbf-8434-a9038283284a,05/30/2027 23:50:00,Retail Trade (YoY),MEDIUM,JPY
 090485df-944b-4a9b-832a-374390b843e2,05/30/2027 23:50:00,Retail Trade s.a (MoM),MEDIUM,JPY
 61c2b7f7-0bea-43a5-9548-fb02264959b7,05/31/2027 05:00:00,Annualized Housing Starts,LOW,JPY
+941dac3f-277d-459d-b8ab-927c53b49c43,05/31/2027 05:00:00,Coincident Index,LOW,JPY
 bf5a3ecc-d0fb-4595-8b5d-fe43e0ce8a90,05/31/2027 05:00:00,Construction Orders (YoY),LOW,JPY
 848c4fb1-a472-4e93-822b-02d913c7581b,05/31/2027 05:00:00,Housing Starts (YoY),LOW,JPY
+325493c6-2e79-4e3f-b21b-e15da4c17c8b,05/31/2027 05:00:00,Leading Economic Index,LOW,JPY
+2711762b-3dcb-4149-a3b1-e39d3c9a5bea,05/31/2027 23:30:00,Jobs / Applicants Ratio,LOW,JPY
+ef90d6fc-6b86-46d8-8cce-33cd9ce7b183,05/31/2027 23:30:00,Unemployment Rate,MEDIUM,JPY
+3ee5aeff-9630-4e7c-8a20-3f0148813710,05/31/2027 23:50:00,Capital Spending,LOW,JPY
+d56daa24-d48f-45ec-b24e-df5247f252c8,06/01/2027 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
 33765db0-54ff-4f3a-9a74-decd6de32f4f,06/02/2027 23:50:00,Foreign Bond Investment,LOW,JPY
 8106791b-3c94-4c84-8a5b-a9316bf5fb3d,06/02/2027 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
+bc704feb-fab5-4163-aa8b-698ed1a5a6c4,06/03/2027 00:30:00,Jibun Bank Services PMI,LOW,JPY
 0a97a5e3-86d8-4dba-b799-0a76d66045ed,06/03/2027 03:35:00,10-y Bond Auction,LOW,JPY
 2f96fcbc-ef0a-4949-9cab-81e032e71f97,06/04/2027 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 6073598e-16ca-4e0d-a205-ae937cedb0b2,06/06/2027 23:30:00,Labor Cash Earnings (YoY),MEDIUM,JPY
 dc549871-ceba-4904-8b6e-ee1185146fe3,06/06/2027 23:50:00,Gross Domestic Product (QoQ),HIGH,JPY
 ae35c5c0-e8ba-48fe-b31f-a8cdb92d6e7c,06/06/2027 23:50:00,Gross Domestic Product Annualized,MEDIUM,JPY
 43df71c7-90f3-4f22-ad07-898c7d54eb3c,06/06/2027 23:50:00,Gross Domestic Product Deflator (YoY),MEDIUM,JPY
+9a724e13-b89c-4281-9a47-989d72eeffef,06/07/2027 05:00:00,Coincident Index,LOW,JPY
+35126ed2-0ca6-476b-af24-1e654d0eea51,06/07/2027 05:00:00,Leading Economic Index,LOW,JPY
+15e29456-7f5a-42ef-a650-e64fc5b9fd24,06/08/2027 05:00:00,Eco Watchers Survey: Current,LOW,JPY
+62b34484-29b8-44e6-a164-f07a29dae6a1,06/08/2027 05:00:00,Eco Watchers Survey: Outlook,LOW,JPY
 68afd4ab-53b6-4932-b11d-521e7c147fde,06/08/2027 23:50:00,Current Account n.s.a.,MEDIUM,JPY
 ad6990dc-4595-4174-ad16-014095af8854,06/08/2027 23:50:00,JP Foreign Reserves,LOW,JPY
 f67f3e64-e067-4376-9308-02dce28a8d12,06/08/2027 23:50:00,Money Supply M2+CD (YoY),LOW,JPY
@@ -524,12 +573,18 @@ c6779539-a4e6-4b20-9dad-aa1b2e1b2143,06/17/2027 23:30:00,"National CPI ex Food, 
 6dab12be-2e60-48c7-a770-aa69ca8b46db,06/17/2027 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
 6f8d8e19-cad4-43ac-9c76-277355eb064a,06/18/2027 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 f6af3c46-58ea-4d1d-8f3b-333f86719901,06/20/2027 23:50:00,BoJ Summary of Opinions,LOW,JPY
+d4ddac81-4016-4e48-98f4-a8aab4e75d3c,06/23/2027 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
+224e7e98-6c29-4ff2-8017-e48eb215bdbe,06/23/2027 00:30:00,Jibun Bank Services PMI,LOW,JPY
 9948133b-f003-4c0e-9d89-3a9af173c382,06/23/2027 23:50:00,Foreign Bond Investment,LOW,JPY
 d937b3ac-1a42-46bc-917f-1ad01ed8883c,06/23/2027 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
+a6c8e70d-0483-4b96-81c0-7387be930799,06/25/2027 05:00:00,Coincident Index,LOW,JPY
+e2a4f2c4-2481-482e-9702-4aff5273d570,06/25/2027 05:00:00,Leading Economic Index,LOW,JPY
 8d05fb01-3198-4b13-b9ce-b169ba2aa0a3,06/25/2027 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
+0767a0d5-3460-4810-b5d9-60caecabdeaf,06/28/2027 23:30:00,Jobs / Applicants Ratio,LOW,JPY
 0db85094-97ca-4ef5-8a32-eb32fa70e349,06/28/2027 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 b0d90538-2aae-4b9a-9e8d-dd7a69609947,06/28/2027 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
 a8f4da08-c872-4470-999c-92cbe498af36,06/28/2027 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
+e6edebfc-156b-4167-aa74-67dfbadf61d4,06/28/2027 23:30:00,Unemployment Rate,MEDIUM,JPY
 04086f5e-1d38-4b98-b0d8-d593fbf9a367,06/29/2027 23:50:00,Industrial Production (MoM),LOW,JPY
 8d058b8c-a117-4a7c-8520-557762d2877a,06/29/2027 23:50:00,Industrial Production (YoY),LOW,JPY
 cbc6ef60-1545-4108-b192-809f2f024860,06/30/2027 05:00:00,Annualized Housing Starts,LOW,JPY
@@ -545,14 +600,20 @@ dec58f5e-a455-4391-a8d5-dc6d610ffee5,06/30/2027 23:50:00,Tankan Large All Indust
 f29f1014-4d1c-4519-b749-32be7f67812e,06/30/2027 23:50:00,Tankan Large Manufacturing Outlook,MEDIUM,JPY
 170b3d8d-4c7a-47c3-a6e0-410bc5487b50,06/30/2027 23:50:00,Tankan Non - Manufacturing Index,LOW,JPY
 d7bf33e4-7f6a-4903-892d-8b3db3912d6d,06/30/2027 23:50:00,Tankan Non - Manufacturing Outlook,LOW,JPY
+7d8e9439-ef9a-4307-a8d2-c0037e65ec9d,07/01/2027 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
 41378a40-ac24-47fb-98fc-416a9865f048,07/01/2027 03:35:00,10-y Bond Auction,LOW,JPY
 bedcaea9-50d8-48e7-b5cc-86dffd759271,07/02/2027 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
+041e5476-9d67-4637-88fd-fccc9a5cc776,07/05/2027 00:30:00,Jibun Bank Services PMI,LOW,JPY
+8cb836e1-416f-456d-83a8-1ec8507237ff,07/07/2027 05:00:00,Coincident Index,LOW,JPY
+5ba63179-25ef-4959-9a94-cc553d3d472f,07/07/2027 05:00:00,Leading Economic Index,LOW,JPY
 6a590b8d-5c3e-4655-a7a5-2a6a2bc03714,07/07/2027 23:30:00,Labor Cash Earnings (YoY),MEDIUM,JPY
 3c14f1b0-969d-429f-8475-22fe9487726e,07/07/2027 23:50:00,Bank Lending (YoY),LOW,JPY
 7871609a-150a-4794-b03c-897fa3f93e2f,07/07/2027 23:50:00,Current Account n.s.a.,MEDIUM,JPY
 c0c80b52-910d-4a7d-96f2-f0ba8e7d67f8,07/07/2027 23:50:00,Foreign Bond Investment,LOW,JPY
 3a1f3cb1-3648-42f6-8f29-fe2152dbe06f,07/07/2027 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
 d2618d64-452b-4734-b6ab-ed3c4b0284ba,07/07/2027 23:50:00,Trade Balance - BOP Basis,LOW,JPY
+5eba72cc-d0dc-4dc7-b503-6d02b39226f1,07/08/2027 05:00:00,Eco Watchers Survey: Current,LOW,JPY
+110c2810-6c6e-4d45-865b-7a2844508f26,07/08/2027 05:00:00,Eco Watchers Survey: Outlook,LOW,JPY
 9222802b-fcf0-40c1-80c6-035351b02692,07/08/2027 23:50:00,JP Foreign Reserves,LOW,JPY
 1e9357d3-c5c8-4492-806c-e4e6797283b1,07/08/2027 23:50:00,Money Supply M2+CD (YoY),LOW,JPY
 a194460a-a495-48fb-ae31-3bcad1718cf4,07/09/2027 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
@@ -573,6 +634,8 @@ f3c6a9d2-4728-40cb-a11c-753d6b6bd443,07/20/2027 23:50:00,Imports (YoY),MEDIUM,JP
 2418667f-b7d2-4000-b2b6-802f30f4c9dc,07/20/2027 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY
 184d590a-a1b8-422b-a7cd-5ec9ed4a7b29,07/21/2027 23:50:00,Foreign Bond Investment,LOW,JPY
 d11a232a-6ae3-474c-a5ae-bc37c900451d,07/21/2027 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
+8bc931e4-dfdd-4c8d-a05c-b87d6e2281a2,07/22/2027 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
+36ba69c5-82ba-4d5b-a56b-9bd4ed591a51,07/22/2027 00:30:00,Jibun Bank Services PMI,LOW,JPY
 21644ef7-1dbe-4178-8018-79b4554446ec,07/22/2027 03:00:00,BoJ Interest Rate Decision,HIGH,JPY
 a80fa620-7ea3-4d2d-8c03-cd33d8679342,07/22/2027 03:00:00,BoJ Monetary Policy Statement,HIGH,JPY
 e2f33ee0-5a61-4755-9d82-265fed344fd1,07/22/2027 03:00:00,BoJ Outlook Report,MEDIUM,JPY
@@ -584,9 +647,13 @@ f03502e3-320c-4100-86e3-83884cd79b4d,07/23/2027 19:30:00,CFTC JPY NC Net Positio
 52ba0050-f114-4a4e-8c8e-a36efe14919f,07/26/2027 23:50:00,BoJ Monetary Policy Meeting Minutes,MEDIUM,JPY
 ef76dfbc-5ab9-4440-a391-5de6ac57dc60,07/28/2027 23:50:00,Foreign Bond Investment,LOW,JPY
 c7b7a63b-f4a5-47a3-a7bf-827ecb1ccbfb,07/28/2027 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
+b694c242-03ea-499a-a517-426d0dbcc78c,07/29/2027 05:00:00,Coincident Index,LOW,JPY
+f7f7141f-d905-4b69-aaf8-32cf79458edf,07/29/2027 05:00:00,Leading Economic Index,LOW,JPY
+ae94eb48-e7f6-41eb-bfc5-0ffd96b3fe09,07/29/2027 23:30:00,Jobs / Applicants Ratio,LOW,JPY
 a41732ab-7645-414a-bd2a-38cbce51ccb8,07/29/2027 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 a39eba07-6836-4d57-b54b-b2d6c000c8a6,07/29/2027 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
 42afd2d9-d0ca-4565-ad99-7e0c0b327cfe,07/29/2027 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
+4c17628f-3eeb-494f-a4b6-c45e75099d8e,07/29/2027 23:30:00,Unemployment Rate,MEDIUM,JPY
 fe483207-5a48-4e89-af6a-5472fbd35e3a,07/29/2027 23:50:00,BoJ Summary of Opinions,LOW,JPY
 08141a80-c168-40b6-8fc9-7a3edc21ffe4,07/29/2027 23:50:00,Industrial Production (MoM),LOW,JPY
 47c5c674-3a7d-4118-a0a6-dbc14f6f23fd,07/29/2027 23:50:00,Industrial Production (YoY),LOW,JPY
@@ -597,15 +664,21 @@ e0aaf9d3-ca71-4588-b664-c257a799229d,07/29/2027 23:50:00,Retail Trade s.a (MoM),
 770d8986-abfd-4ea6-9428-58ba5d5212fa,07/30/2027 05:00:00,Construction Orders (YoY),LOW,JPY
 82802f7b-0540-4240-a62a-897da325d265,07/30/2027 05:00:00,Housing Starts (YoY),LOW,JPY
 9dbc2b3e-95ea-414f-ab4d-dd00afb7950b,07/30/2027 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
+0f2e03bf-4760-4ac0-81f8-58f4246a1fc7,08/02/2027 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
 2cc46077-46bc-4693-a9ec-138783514eab,08/03/2027 03:35:00,10-y Bond Auction,LOW,JPY
+73612d5d-c330-46ef-a7ff-dfb338cd5cc8,08/04/2027 00:30:00,Jibun Bank Services PMI,LOW,JPY
 1f437db9-e45f-4249-a04e-eaa894585dde,08/04/2027 23:50:00,Foreign Bond Investment,LOW,JPY
 1a151952-b0e4-4b2c-b818-b261f89eeec3,08/04/2027 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
+5bd63651-5019-4d6a-81fc-72e9547d442d,08/05/2027 05:00:00,Coincident Index,LOW,JPY
+d183bdc3-fba0-4413-bbb6-7c57f659b402,08/05/2027 05:00:00,Leading Economic Index,LOW,JPY
 3e9694c2-cbbd-48a2-be14-3b9098c9396c,08/05/2027 23:50:00,JP Foreign Reserves,LOW,JPY
 1fe6d06f-15b9-4002-a2f8-de7a8ffc97ea,08/06/2027 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 952df9cf-617e-4188-94f4-ace1f587d1ec,08/08/2027 23:30:00,Labor Cash Earnings (YoY),MEDIUM,JPY
 c074f90a-f3c2-4737-b55e-9aa072244759,08/08/2027 23:50:00,Bank Lending (YoY),LOW,JPY
 773c0739-7d3f-49ea-a8ad-721485172d61,08/08/2027 23:50:00,Current Account n.s.a.,MEDIUM,JPY
 4da48703-69d9-4e38-8b21-51d8d4a2223c,08/08/2027 23:50:00,Trade Balance - BOP Basis,LOW,JPY
+1ddf45ad-efab-4d32-b6e0-46ee6df1dce0,08/09/2027 05:00:00,Eco Watchers Survey: Current,LOW,JPY
+0732ce42-2f15-4a46-8c02-5c637f966bf2,08/09/2027 05:00:00,Eco Watchers Survey: Outlook,LOW,JPY
 638fc085-eab5-497f-b740-c0a1442c349b,08/10/2027 23:50:00,Money Supply M2+CD (YoY),LOW,JPY
 cc7a6efa-fd61-453a-ac8b-62412e8894a8,08/11/2027 06:00:00,Machine Tool Orders (YoY),LOW,JPY
 4a24799f-278b-4c85-bbb7-cce6c05ab5fb,08/11/2027 23:50:00,Foreign Bond Investment,LOW,JPY
@@ -631,12 +704,19 @@ a3673a2f-704a-478f-bac9-08073dc557c4,08/18/2027 23:50:00,Imports (YoY),MEDIUM,JP
 71aca1df-f395-46da-be51-03467ff96106,08/19/2027 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
 b0d911c7-99a5-4289-9ac2-a1ef575bfb7e,08/19/2027 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
 58aea30d-5ce1-460e-a99f-0d532e97081b,08/20/2027 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
+7e5b0d69-8c9d-4451-a4fe-cbc65dc35d6e,08/23/2027 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
+f014e569-b651-42b0-a399-ff8d78db14ec,08/23/2027 00:30:00,Jibun Bank Services PMI,LOW,JPY
 bb938fc0-89e0-48e5-8136-ad650597cc5f,08/25/2027 23:50:00,Foreign Bond Investment,LOW,JPY
 62176778-153c-4637-8bcf-a2169a91020f,08/25/2027 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
 6bdb94b1-1f43-4c85-958f-24aeca0a7e94,08/27/2027 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
+7e44bf4a-aeae-483e-8407-c29cbde1ed97,08/30/2027 05:00:00,Coincident Index,LOW,JPY
+4f6b7c53-362c-41b4-9b60-1c88645267b2,08/30/2027 05:00:00,Leading Economic Index,LOW,JPY
+acfaeac3-af87-432e-a66e-c8ae05429cac,08/30/2027 23:30:00,Jobs / Applicants Ratio,LOW,JPY
 6955ed39-e826-4e02-9de4-6399ac3d5336,08/30/2027 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 64da15f4-d542-4051-9272-7f122180f73b,08/30/2027 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
 380e305d-6078-4b94-9b0d-77ce4d53ecf9,08/30/2027 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
+c87455be-92a3-4c63-b8ce-b210dba0f5f4,08/30/2027 23:30:00,Unemployment Rate,MEDIUM,JPY
+739d6ecb-c9be-4e06-8954-2c1647b52ad5,08/30/2027 23:50:00,Capital Spending,LOW,JPY
 a6875ded-c86e-4707-830c-fb6c2820fa30,08/30/2027 23:50:00,Industrial Production (MoM),LOW,JPY
 955a75ed-f357-4240-b8dd-4378432769e8,08/30/2027 23:50:00,Industrial Production (YoY),LOW,JPY
 ea4abfed-7d86-4937-8e95-4501c433c0e3,08/31/2027 05:00:00,Annualized Housing Starts,LOW,JPY
@@ -645,16 +725,22 @@ ea04a6bb-9102-4a47-955c-4175059a7dd9,08/31/2027 05:00:00,Construction Orders (Yo
 c97f3fd6-3142-4e06-abdf-c0601e0ff507,08/31/2027 23:50:00,Large Retailer Sales,MEDIUM,JPY
 95d279e7-7b58-4aed-8f48-dfe977208195,08/31/2027 23:50:00,Retail Trade (YoY),MEDIUM,JPY
 79200555-b9d1-4d12-88f0-9baf9bee47a7,08/31/2027 23:50:00,Retail Trade s.a (MoM),MEDIUM,JPY
+42c15dfe-ff8c-4647-8806-3e86bd5653e1,09/01/2027 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
 7e1290ec-969d-487a-ae6b-a7edbe1a4b77,09/01/2027 23:50:00,Foreign Bond Investment,LOW,JPY
 6cb5fd0b-686c-476a-8734-a2c14b032e31,09/01/2027 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
 7c894c74-5489-494d-b8a1-6c4136a1974f,09/02/2027 03:35:00,10-y Bond Auction,LOW,JPY
+c294e3b8-55c4-4dc2-95a2-98626568c533,09/03/2027 00:30:00,Jibun Bank Services PMI,LOW,JPY
 6671b1f4-31ce-4ed2-91d3-27425f08b83f,09/03/2027 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 869bd570-ec27-4358-8b4b-f50ebef2f3b8,09/06/2027 23:50:00,Gross Domestic Product (QoQ),HIGH,JPY
 21816cdc-f585-4b86-9414-2d21ce7534b1,09/06/2027 23:50:00,Gross Domestic Product Annualized,MEDIUM,JPY
 d3f6dcbb-9aef-4e0b-a3b6-82b9eb8665b9,09/06/2027 23:50:00,Gross Domestic Product Deflator (YoY),MEDIUM,JPY
+993243d9-f89f-4e44-abf3-f6b14549b65e,09/07/2027 05:00:00,Coincident Index,LOW,JPY
+2c7ef56e-3a49-4fdb-992a-a062532d9b9e,09/07/2027 05:00:00,Leading Economic Index,LOW,JPY
 f7b072b5-85e7-47d9-8df8-021c80d3ebf2,09/07/2027 23:30:00,Labor Cash Earnings (YoY),MEDIUM,JPY
 e25c6259-681f-4034-b62e-a89527f47d30,09/07/2027 23:50:00,Current Account n.s.a.,MEDIUM,JPY
 d3e2a01e-6a0d-42fb-a02f-c23604b812f1,09/07/2027 23:50:00,Trade Balance - BOP Basis,LOW,JPY
+6fa225e0-4817-4a8e-87f2-d25e51ce2ef2,09/08/2027 05:00:00,Eco Watchers Survey: Current,LOW,JPY
+1c18ce80-9b1a-40a6-92c5-a34a96e5a5e3,09/08/2027 05:00:00,Eco Watchers Survey: Outlook,LOW,JPY
 e66c4783-9fd4-42f8-8c67-d4726840223d,09/08/2027 23:50:00,Foreign Bond Investment,LOW,JPY
 58d3181f-338d-4e0c-87b4-48a26ec52946,09/08/2027 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
 b3acdf9e-45ea-41eb-981f-be32b77e106c,09/08/2027 23:50:00,Money Supply M2+CD (YoY),LOW,JPY
@@ -682,11 +768,15 @@ aece2cc9-9619-4263-bb43-42d938f7c496,09/22/2027 03:00:00,BoJ Monetary Policy Sta
 102ed75c-a32f-40b0-b9fc-305165ad9c9f,09/22/2027 06:30:00,BoJ Press Conference,HIGH,JPY
 cdd08aad-8b99-4547-847d-bce104c34d10,09/22/2027 23:50:00,Foreign Bond Investment,LOW,JPY
 7843926f-56b3-43c8-88b3-a542471ba50b,09/22/2027 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
+7df0a6fd-0738-4f5a-ba58-02333f7e03e9,09/23/2027 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
+034a08e8-da16-4f48-82ba-21367c052804,09/23/2027 00:30:00,Jibun Bank Services PMI,LOW,JPY
 606dbfe0-4b70-4f2b-a247-23c01f75f019,09/23/2027 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
 a50affde-93ff-4c42-aa72-d29810b9c1f6,09/23/2027 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
 43ce9bba-af86-4447-82d2-621917b9e6c4,09/23/2027 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
 7337553d-17f8-4cf4-a06e-f29f610a2a96,09/24/2027 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 6bb396ec-9553-4eb7-acd3-53534ac378dd,09/27/2027 23:50:00,BoJ Monetary Policy Meeting Minutes,MEDIUM,JPY
+b80a56c9-6d79-4e23-9940-6faca2d96494,09/28/2027 05:00:00,Coincident Index,LOW,JPY
+0c017aa8-7dd0-4144-ae05-19684e03d2aa,09/28/2027 05:00:00,Leading Economic Index,LOW,JPY
 bd95359e-55b9-4a70-8571-ed40839ab0b9,09/29/2027 23:50:00,Foreign Bond Investment,LOW,JPY
 00b29fc4-c3b2-45bc-bb55-e1b768e9a1d2,09/29/2027 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
 1f1e10d8-fad8-487f-adfe-3b29977cdbea,09/29/2027 23:50:00,Industrial Production (MoM),LOW,JPY
@@ -694,9 +784,11 @@ bd95359e-55b9-4a70-8571-ed40839ab0b9,09/29/2027 23:50:00,Foreign Bond Investment
 0b11ebff-eaa4-4e38-ba79-416e4d0dea0a,09/30/2027 05:00:00,Annualized Housing Starts,LOW,JPY
 0d95e0bb-7e48-4d5d-b24b-c08ae1be089e,09/30/2027 05:00:00,Construction Orders (YoY),LOW,JPY
 1732e637-5389-42e6-88cf-4f1ff020a445,09/30/2027 05:00:00,Housing Starts (YoY),LOW,JPY
+bfbd101e-f1b4-47d6-80d6-05c34c6ad57b,09/30/2027 23:30:00,Jobs / Applicants Ratio,LOW,JPY
 7524af4a-0c12-491d-b4c2-e4f96036a599,09/30/2027 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 46fa77ad-794e-40c5-9186-4dc4336c69fa,09/30/2027 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
 4e6c5b07-9e68-4190-a3af-c9b9418c424e,09/30/2027 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
+51819c1b-5fc4-4d91-9da3-808298eee02e,09/30/2027 23:30:00,Unemployment Rate,MEDIUM,JPY
 3a99df86-d8a2-4903-9aaf-0432f04c6105,09/30/2027 23:50:00,BoJ Summary of Opinions,LOW,JPY
 8be46deb-0914-4747-a069-23d849a7df71,09/30/2027 23:50:00,Large Retailer Sales,MEDIUM,JPY
 7300f2cb-2e52-4655-99d5-45d92122792c,09/30/2027 23:50:00,Retail Trade (YoY),MEDIUM,JPY
@@ -706,16 +798,22 @@ fed89a11-11a9-47d3-9617-fff5989e38e7,09/30/2027 23:50:00,Retail Trade s.a (MoM),
 fabf9206-0894-448c-824d-deab706223f4,09/30/2027 23:50:00,Tankan Large Manufacturing Outlook,MEDIUM,JPY
 4bf54699-415b-4539-a7e4-c4d3bb4671ae,09/30/2027 23:50:00,Tankan Non - Manufacturing Index,LOW,JPY
 865bf33c-838f-4fc6-8227-42fc91673457,09/30/2027 23:50:00,Tankan Non - Manufacturing Outlook,LOW,JPY
+95b0fefc-1d5d-409e-bbd2-68383b9edc1b,10/01/2027 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
 a26cc802-d129-407f-bd3b-b3e1512adf9d,10/01/2027 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
+e692bdce-b970-4d33-9686-19a6cd1358c3,10/05/2027 00:30:00,Jibun Bank Services PMI,LOW,JPY
 88482e1f-d4f8-4167-891d-1adeb0ddcd19,10/05/2027 03:35:00,10-y Bond Auction,LOW,JPY
 1d7bd090-d778-47bc-9d7d-af13878f95ef,10/06/2027 23:30:00,Labor Cash Earnings (YoY),MEDIUM,JPY
 792f478e-6f78-45bc-82f1-26927091b30a,10/06/2027 23:50:00,Foreign Bond Investment,LOW,JPY
 23cee08a-8371-4cc0-8576-2e9e70a0fc0c,10/06/2027 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
+c3f2013f-6d64-4f8c-a89f-4b0424dabbc1,10/07/2027 05:00:00,Coincident Index,LOW,JPY
+aadcd426-47ab-4ca2-a283-aa6b7c6e103a,10/07/2027 05:00:00,Leading Economic Index,LOW,JPY
 57a88007-ba6e-42f7-8fb2-02fd46834fec,10/07/2027 23:50:00,Bank Lending (YoY),LOW,JPY
 7504821b-a319-4192-98b4-07a0a15ef1e0,10/07/2027 23:50:00,JP Foreign Reserves,LOW,JPY
 d9e52e36-b3cb-4348-a861-cefee22b1683,10/08/2027 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 f8dc1bc1-2816-4397-8e88-551d248904f2,10/10/2027 23:50:00,Current Account n.s.a.,MEDIUM,JPY
 264400f6-9084-4f14-9e4c-5e105f602e51,10/10/2027 23:50:00,Trade Balance - BOP Basis,LOW,JPY
+5de6cc03-bf02-4a56-a2ab-356dab06d6a0,10/11/2027 05:00:00,Eco Watchers Survey: Current,LOW,JPY
+cc401c23-9421-4204-aa52-a493fcde6707,10/11/2027 05:00:00,Eco Watchers Survey: Outlook,LOW,JPY
 f12187f6-972f-4591-a825-b63a6a6a0481,10/12/2027 23:50:00,Money Supply M2+CD (YoY),LOW,JPY
 46fc98de-e5d0-4d38-9cba-ed23e42074d3,10/13/2027 06:00:00,Machine Tool Orders (YoY),LOW,JPY
 fe6ef31a-e00a-4f28-8a91-29c166ccf8e0,10/13/2027 23:50:00,Foreign Bond Investment,LOW,JPY
@@ -737,12 +835,18 @@ fb32ed9a-a157-4956-9486-88367a7d1ab8,10/20/2027 23:50:00,Foreign Bond Investment
 e78f762a-b8f2-453b-87c1-30b8adf6598d,10/21/2027 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
 dc26d128-665f-4ea2-9e75-3460b3cd67e8,10/21/2027 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
 8a00ec25-d95e-490f-b08b-3f52a9623f82,10/21/2027 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
+34ed8913-a3cb-48a8-9844-dd5f40db9912,10/22/2027 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
+a4a5f8dd-5893-4373-8ee0-ef64ab22e45d,10/22/2027 00:30:00,Jibun Bank Services PMI,LOW,JPY
 109848e5-4382-4373-8090-c37536b2fb58,10/22/2027 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 e9373b81-eb3a-4786-b8c8-8afedd697cf6,10/27/2027 23:50:00,Foreign Bond Investment,LOW,JPY
 541e08e1-c0f0-44e7-82ee-64ef8a0e3ba3,10/27/2027 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
+66606593-c46e-473f-9001-1ffa7f8af796,10/28/2027 05:00:00,Coincident Index,LOW,JPY
+b532979c-17ff-444d-abdc-b2afb7e7dfa5,10/28/2027 05:00:00,Leading Economic Index,LOW,JPY
+2449d0d2-f646-49f8-b5fd-7c7a898a7e35,10/28/2027 23:30:00,Jobs / Applicants Ratio,LOW,JPY
 b14df697-baf6-41a4-81f5-e57dd08801a2,10/28/2027 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 8f8cec44-5192-4148-89a2-0fff0e19d82d,10/28/2027 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
 b4e682d0-0fb8-468a-89be-238746f715ed,10/28/2027 23:30:00,Tokyo CPI ex Fresh Food (YoY),MEDIUM,JPY
+63fc026a-e9bb-4687-93c6-ee37daba7fd4,10/28/2027 23:30:00,Unemployment Rate,MEDIUM,JPY
 7444a0ba-e69a-4968-93e0-32536710109b,10/28/2027 23:50:00,Industrial Production (MoM),LOW,JPY
 69df897a-f1d8-4a40-9e90-5223f4c70c59,10/28/2027 23:50:00,Industrial Production (YoY),LOW,JPY
 7488f1e0-378d-4d0d-b097-ea9f3f43afde,10/28/2027 23:50:00,Large Retailer Sales,MEDIUM,JPY

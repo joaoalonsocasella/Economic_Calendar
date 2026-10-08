@@ -1,18 +1,11 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-2d100fe1-5948-4741-ad42-44e4a50226ff,10/07/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-23d4f861-ceb4-415f-a8fc-202439295086,10/07/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
-a5a4945a-eca7-4fbf-ad9d-ba81cb5d2d92,10/07/2026 14:30:00,EIA Distillate Stocks Change,HIGH,USD,Release,0.18,Labor Market
-ec2a1495-6a2a-4459-ad57-f561bc0c91bc,10/07/2026 14:30:00,EIA Gasoline Stocks Change,HIGH,USD,Release,0.18,Labor Market
-4994df27-6854-45a7-89c2-4bd4957dee31,10/07/2026 14:30:00,EIA Heating Oil Stocks Change,HIGH,USD,Release,0.18,Labor Market
-87e53130-4beb-489a-96d1-3b482f574310,10/07/2026 17:00:00,10-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-02a53a33-4794-47f5-9def-bc39d26272b3,10/07/2026 18:00:00,FOMC Minutes,MEDIUM,USD,Speech,0.13,Monetary Policy
-729d32d5-c19b-4601-a071-8e149563d435,10/07/2026 19:00:00,Consumer Credit Change,MEDIUM,USD,Release,0.14,Confidence
 89359544-76ed-4f52-ab5b-4ff5226a670b,10/08/2026 08:30:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 ca5d9523-c7af-4346-b865-5f1464c7c4b3,10/08/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 9b347ce9-d89e-44e3-92c1-a530ea21db90,10/08/2026 12:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 234f33ed-4ee3-490f-be7b-0c6f7209edc1,10/08/2026 12:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
 44ec4b6c-5af1-4ea3-a27c-679ca06bc44b,10/08/2026 14:00:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
 0b480de8-55e4-428e-a596-d64567bef557,10/08/2026 14:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
+d051451b-5511-4e20-85e0-47c5fb82069b,10/08/2026 14:40:00,Fed's Kashkari speech,HIGH,USD,Release,0.2,Monetary Policy
 1294be93-8582-43af-8556-bff30b4d7f4f,10/08/2026 15:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 ea8dd0f6-6efc-4a7b-ac69-a84310157370,10/08/2026 17:00:00,30-Year Bond Auction,LOW,USD,Release,0.09,Money and Credit
 73398fea-be48-4b81-92b0-b65d4f0ab4db,10/08/2026 17:40:00,Fed's Musalem speech,MEDIUM,USD,Speech,0.13,Monetary Policy

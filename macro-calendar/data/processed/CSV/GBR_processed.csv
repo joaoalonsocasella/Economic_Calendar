@@ -1,9 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-afabfe00-ec93-4e56-bc54-79a8cb9105d4,10/07/2026 06:00:00,Lloyds House Price Index (MoM),LOW,GBP,Release,0.07,Housing
-899f110c-d6e1-4cbc-b630-c76d3040f3ac,10/07/2026 06:00:00,Lloyds House Price Index (YoY),LOW,GBP,Release,0.07,Housing
-f60d239e-a2b6-45df-a8bc-f423c81f68c7,10/07/2026 23:01:00,RICS Housing Price Balance,LOW,GBP,Release,0.07,Housing
 84a59dbf-c873-44fb-ad49-6fce68b08661,10/08/2026 08:30:00,BoE Credit Conditions Survey,HIGH,GBP,Release,0.2,Monetary Policy
 1e7d22e7-b640-4e04-a62c-05718d27199c,10/08/2026 09:15:00,BoE's Greene speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
+0e87b1c6-df19-4014-ba27-f505bff48e84,10/08/2026 12:15:00,BoE's Governor Bailey speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 c462d5a0-294f-4213-a33e-9d1a5775dd57,10/08/2026 13:00:00,BoE's Lombardelli speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 c5ec23ed-d05e-4979-8965-e78ac5a79b36,10/09/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 18380376-0d56-4071-930e-624ee8556f26,10/12/2026 09:30:00,BoE's Breeden speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
