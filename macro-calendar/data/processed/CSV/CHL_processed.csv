@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-fd5502a8-b66a-42db-9bf1-151e5e01ff0e,10/08/2026 11:00:00,Consumer Price Index (Inflation) (MoM),HIGH,CLP,Release,0.19,Inflation
-92484c99-499d-4a92-b823-2b32885fae67,10/08/2026 11:00:00,Core Consumer Price Index (Inflation) (MoM),HIGH,CLP,Release,0.19,Inflation
 3f9f3386-3078-41d3-8274-408e2a7ff7de,10/27/2026 22:00:00,BCCH Interest Rate,HIGH,CLP,Release,0.2,Monetary Policy
 9f9db8f9-e943-4503-9744-8961a02d2fd1,10/29/2026 12:00:00,Unemployment rate,HIGH,CLP,Release,0.18,Labor Market
 308ddf7b-2860-4a7c-8a19-ee6e3f28a783,10/30/2026 12:00:00,Industrial Production (YoY),HIGH,CLP,Release,0.17,Growth

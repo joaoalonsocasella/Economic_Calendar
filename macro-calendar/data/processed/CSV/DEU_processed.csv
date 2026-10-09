@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e72e6290-c24c-437a-97a8-7723d787d310,10/08/2026 06:00:00,Exports (MoM),HIGH,EUR,Release,0.468,Trade and External
-4d32725c-6fcd-4082-8518-2b83b8f4b9e9,10/08/2026 06:00:00,Imports (MoM),HIGH,EUR,Release,0.468,Trade and External
-47b61a07-2bd6-48d2-9e1a-59823a516083,10/08/2026 06:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External
 7b3cc937-e765-4547-af96-bf73b281d738,10/13/2026 06:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 72649091-3592-4be6-a316-753972fe535b,10/13/2026 06:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 7aee7eb6-0a06-4d22-9a94-0e4024053eed,10/13/2026 06:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
@@ -11,7 +8,7 @@ ece274e7-a30d-4e4c-96d9-ed0842dfb1bf,10/13/2026 12:30:00,Current Account n.s.a.,
 7bd74517-4e98-460b-a381-233e01a5e198,10/14/2026 06:00:00,Wholesale Price Index (MoM),HIGH,EUR,Release,0.468,Trade and External
 65157e98-c046-4309-9850-ff102745d881,10/14/2026 06:00:00,Wholesale Price Index (YoY),HIGH,EUR,Release,0.468,Trade and External
 815fa896-7774-486e-8275-b104dde63711,10/14/2026 09:30:00,30-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
-88a888bb-6440-42ad-ac6f-72aeb6b8500e,10/19/2026 10:00:00,German Buba Monthly Report,HIGH,EUR,Release,0.85,Monetary Policy
+88a888bb-6440-42ad-ac6f-72aeb6b8500e,10/15/2026 10:00:00,German Buba Monthly Report,HIGH,EUR,Release,0.85,Monetary Policy
 060f43de-ad06-4210-9c63-dd80744de87a,10/20/2026 06:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 51111593-79ef-4962-872b-bf308ff59d2b,10/20/2026 06:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 eace7dfe-5c70-44ef-8e0b-85cf7a516185,10/20/2026 09:00:00,ZEW Survey – Current Situation,HIGH,EUR,Release,0.595,Confidence

@@ -1,14 +1,19 @@
 Id,Start,Name,Impact,Currency
-926acce5-7e8c-4f4e-8694-d607b0d9c151,10/08/2026 07:25:00,ECB's Moulin speech,MEDIUM,EUR
-76b44761-ac80-47ca-b28c-9b10d8605d9e,10/08/2026 08:00:00,Eurogroup Meeting,MEDIUM,EUR
-06b28a61-5faa-4dd6-911e-283ed3a1ef49,10/08/2026 10:00:00,ECB's Lane speech,MEDIUM,EUR
-6c63df0d-dc73-4fc9-b38c-cb1261a234ff,10/08/2026 11:30:00,ECB Monetary Policy Meeting Accounts,HIGH,EUR
 c1a6fdf1-45e3-472a-bd2c-c936b50286a1,10/09/2026 08:00:00,EcoFin Meeting,MEDIUM,EUR
 efde8ed8-d7d2-45fc-849a-af40ba946417,10/09/2026 10:15:00,ECB's Cipollone speech,MEDIUM,EUR
 4a6ee586-c10a-4371-b8c4-191f562dc7fe,10/09/2026 13:30:00,ECB's Schnabel speech,MEDIUM,EUR
 8a3278af-8b07-4ba0-801a-4ab821f2e2b4,10/09/2026 19:30:00,CFTC EUR NC Net Positions,LOW,EUR
+40cecb0b-2514-4be5-bd40-9f16aa262734,10/12/2026 10:00:00,ECB's Vujčić speech,MEDIUM,EUR
+220d53cd-8f54-4583-a8d1-2c3b828f9434,10/13/2026 07:15:00,ECB's Elderson speech,MEDIUM,EUR
+c5f61c18-fee8-41af-b046-d50bac8e3134,10/13/2026 08:05:00,ECB's Escrivá speech,MEDIUM,EUR
+45c943b6-cfb9-48f1-b256-1e7093d56b9a,10/13/2026 18:30:00,ECB's Lane speech,MEDIUM,EUR
+8a07fb09-d897-4153-920d-f90a19f35861,10/14/2026 02:10:00,ECB's President Lagarde speech,HIGH,EUR
+537d2cc3-95b4-45cc-88a5-63b8dfe31f48,10/14/2026 08:00:00,ECB's Elderson speech,MEDIUM,EUR
+d90a4f36-71b4-46b1-86e6-96326780b381,10/14/2026 08:30:00,ECB's President Lagarde speech,HIGH,EUR
+21ec1c60-4fc3-416e-8a2a-2ecd12a2d255,10/14/2026 16:15:00,ECB's Schnabel speech,MEDIUM,EUR
 8d8e18b4-30a0-4dad-985e-b2275332ecbc,10/15/2026 09:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
 4e43faef-6c26-4997-971b-7f930f905bcf,10/15/2026 09:00:00,Industrial Production w.d.a. (YoY),LOW,EUR
+a8a9e1c6-8750-4244-8b15-bc31e0602049,10/16/2026 02:30:00,ECB's Nagel speech,MEDIUM,EUR
 f1f9a2de-bc5a-44d5-b34c-3ecbf391b11d,10/16/2026 09:00:00,Core Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 81d87d8d-dcd1-4dc9-84fe-943829c6c25e,10/16/2026 09:00:00,Core Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
 aa1463fc-c6ea-45cb-98dd-b052bb5d274a,10/16/2026 09:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
@@ -21,6 +26,7 @@ a916fb73-87d2-4e75-a816-607a90a4ed33,10/20/2026 08:00:00,Current Account s.a,LOW
 35dad185-c71a-4a6f-b004-850587ed2a06,10/20/2026 09:00:00,Construction Output  s.a (MoM),LOW,EUR
 1e2b014b-92bb-4887-8759-139107782d07,10/20/2026 09:00:00,Construction Output w.d.a (YoY),LOW,EUR
 59c1ccd7-753a-452e-8002-3312e429e693,10/20/2026 09:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
+26532fff-c182-45b3-8ded-ec47855ac6b6,10/22/2026 12:15:00,ECB's Panetta speech,MEDIUM,EUR
 db573556-8101-432b-a766-42703be2b254,10/22/2026 14:00:00,Consumer Confidence,MEDIUM,EUR
 41a25dcf-6ce6-4b67-96a8-fcf18603bb5d,10/23/2026 08:00:00,HCOB Composite PMI,HIGH,EUR
 c2cf0469-81ba-4d11-a560-fe4362a38927,10/23/2026 08:00:00,HCOB Manufacturing PMI,HIGH,EUR

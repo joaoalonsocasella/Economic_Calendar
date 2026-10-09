@@ -1,14 +1,4 @@
 Id,Start,Name,Impact,Currency
-89359544-76ed-4f52-ab5b-4ff5226a670b,10/08/2026 08:30:00,Fed's Waller speech,MEDIUM,USD
-ca5d9523-c7af-4346-b865-5f1464c7c4b3,10/08/2026 12:30:00,Continuing Jobless Claims,LOW,USD
-9b347ce9-d89e-44e3-92c1-a530ea21db90,10/08/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
-234f33ed-4ee3-490f-be7b-0c6f7209edc1,10/08/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
-44ec4b6c-5af1-4ea3-a27c-679ca06bc44b,10/08/2026 14:00:00,Wholesale Inventories,LOW,USD
-0b480de8-55e4-428e-a596-d64567bef557,10/08/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
-d051451b-5511-4e20-85e0-47c5fb82069b,10/08/2026 14:40:00,Fed's Kashkari speech,MEDIUM,USD
-1294be93-8582-43af-8556-bff30b4d7f4f,10/08/2026 15:30:00,4-Week Bill Auction,LOW,USD
-ea8dd0f6-6efc-4a7b-ac69-a84310157370,10/08/2026 17:00:00,30-Year Bond Auction,LOW,USD
-73398fea-be48-4b81-92b0-b65d4f0ab4db,10/08/2026 17:40:00,Fed's Musalem speech,MEDIUM,USD
 25bed085-7106-40a7-af6e-ffe204040362,10/09/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
 43c05090-4826-452f-bcb9-232a1c32cf38,10/09/2026 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
 9e6fdf07-7ef9-4265-9fb6-c369830059c8,10/09/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
@@ -21,6 +11,7 @@ b7f5af83-7cad-4bb9-b850-52fa3e78b305,10/09/2026 19:30:00,CFTC Gold NC Net Positi
 a07e6ac5-50fb-4ed1-8f83-ae563f7a278f,10/12/2026 00:00:00,IMF Meeting,MEDIUM,USD
 1ceae08c-e53f-423a-bc24-555371b9c869,10/12/2026 16:50:00,Fed's Hammack speech,MEDIUM,USD
 02ab7e59-f4b0-4d18-b43d-22f2fbe9d2f7,10/13/2026 00:00:00,IMF Meeting,MEDIUM,USD
+385f661e-b1a9-4a6a-8e18-402652533314,10/13/2026 07:45:00,Fed's Waller speech,MEDIUM,USD
 2511ac33-c08a-471e-aa3b-8c04796164df,10/13/2026 10:00:00,NFIB Business Optimism Index,LOW,USD
 296f4279-48db-4941-9b30-8505a637ed61,10/13/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 f2a530b3-a35b-4fea-a9f1-dcf224a4a7d9,10/13/2026 12:55:00,Redbook Index (YoY),LOW,USD
@@ -30,6 +21,7 @@ d26dcd6d-e4cf-4e86-b6ba-354dd99c8b26,10/13/2026 14:00:00,Existing Home Sales Cha
 15864a26-d75b-40d4-8751-b448012f6db8,10/13/2026 15:30:00,6-Month Bill Auction,LOW,USD
 8292c36b-4806-4a20-9e73-0dc891fa5e5e,10/13/2026 18:00:00,Monthly Budget Statement,MEDIUM,USD
 74e44f7f-7c8f-4073-8bc6-edcfcfeb22c2,10/14/2026 00:00:00,IMF Meeting,MEDIUM,USD
+379299fb-8d97-4f84-ae27-5fd7c46f871d,10/14/2026 09:40:00,Fed's Bowman speech,MEDIUM,USD
 73a47a59-1614-4614-92b2-2b3e0ad94e42,10/14/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 cbe30686-e724-42b1-b883-36bd8925fe5a,10/14/2026 12:30:00,Consumer Price Index (MoM),HIGH,USD
 1e25f809-a3a8-4256-a9f1-de86b4f61f4a,10/14/2026 12:30:00,Consumer Price Index (YoY),HIGH,USD
@@ -37,12 +29,14 @@ cbe30686-e724-42b1-b883-36bd8925fe5a,10/14/2026 12:30:00,Consumer Price Index (M
 cfaffea7-7471-4647-926d-581b3eecb400,10/14/2026 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
 e3111bf6-764b-4b93-9319-9fe860d7bf34,10/14/2026 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
 34b98fc0-3d41-4392-a238-1cf098d02347,10/14/2026 12:30:00,Consumer Price Index n.s.a (MoM),LOW,USD
+ae4d7d69-45c0-4ce3-b5eb-e7ecdb7fdaaf,10/14/2026 14:55:00,Fed's Bowman speech,MEDIUM,USD
 81fd484e-0151-4d62-a4fd-7e234d8f330a,10/14/2026 18:00:00,Fed's Beige Book,MEDIUM,USD
 2d915a99-15fa-4291-a644-16797294a77d,10/14/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
 b724b18d-2303-49f0-9c5b-314211a7cb9c,10/15/2026 00:00:00,IMF Meeting,MEDIUM,USD
 5ad23a01-47f5-4f05-be2d-db6209a5f31c,10/15/2026 12:30:00,Continuing Jobless Claims,LOW,USD
 435eda76-2a80-4b67-b056-c2bbac99285d,10/15/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
 2ddaa993-714c-401d-b8ea-e091911470f8,10/15/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
+8a2e7507-3680-40f6-a50e-5958b94ee8ff,10/15/2026 12:30:00,NY Empire State Manufacturing Index,MEDIUM,USD
 98e45dbd-d01c-4808-8474-3207e659a5db,10/15/2026 12:30:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD
 2d0bbcd3-6092-48de-86d7-023f244e4ca0,10/15/2026 12:30:00,Producer Price Index (MoM),MEDIUM,USD
 7498f22c-411d-41af-97d7-87a8382bbf09,10/15/2026 12:30:00,Producer Price Index (YoY),MEDIUM,USD
@@ -55,6 +49,7 @@ bddcb0ff-7ede-4f39-b61b-5ccbb8ac4fa9,10/15/2026 12:30:00,Producer Price Index ex
 1698428e-8f29-41e4-ac5a-d78cf5602211,10/15/2026 14:00:00,Business Inventories,LOW,USD
 39e21979-d006-4f79-b687-8e47211d5857,10/15/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
 19b97168-a079-4a4c-b8d7-32b741e2b1a3,10/15/2026 15:30:00,4-Week Bill Auction,LOW,USD
+9b95ac95-5f53-4e75-a166-92c31e08beb0,10/15/2026 15:30:00,Fed's Chair Warsh speech,MEDIUM,USD
 e5e2c65e-a4cb-4b9b-8b85-127ba986f584,10/15/2026 16:00:00,EIA Crude Oil Stocks Change,LOW,USD
 b05fbba4-4537-4cca-9b3b-1efdc576e06a,10/15/2026 16:00:00,EIA Distillate Stocks Change,LOW,USD
 e844eb06-2739-4ae4-a1cc-04b19bbff976,10/15/2026 16:00:00,EIA Gasoline Stocks Change,LOW,USD
@@ -65,7 +60,6 @@ e66bf6f6-db63-4051-91fc-9eebc0f2972e,10/16/2026 00:00:00,IMF Meeting,MEDIUM,USD
 1f2ffb7f-7d87-4f71-be90-73e3d4490c7b,10/16/2026 12:30:00,Export Price Index (YoY),LOW,USD
 89e82b74-ea53-4c35-8604-aa30a4acf3d6,10/16/2026 12:30:00,Import Price Index (MoM),LOW,USD
 3f166b9b-caba-46f9-98bf-9d0053086b88,10/16/2026 12:30:00,Import Price Index (YoY),LOW,USD
-8a2e7507-3680-40f6-a50e-5958b94ee8ff,10/16/2026 12:30:00,NY Empire State Manufacturing Index,MEDIUM,USD
 c91ceeeb-682a-46ff-959d-9a69e0850068,10/16/2026 13:15:00,Capacity Utilization,LOW,USD
 9f26e494-782b-4668-b0c6-b278b3d0a020,10/16/2026 13:15:00,Industrial Production (MoM),MEDIUM,USD
 0456252c-6b68-4ca0-a14e-a0b916ee0645,10/16/2026 17:00:00,Baker Hughes US Oil Rig Count,LOW,USD
