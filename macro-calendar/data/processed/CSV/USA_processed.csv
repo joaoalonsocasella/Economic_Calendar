@@ -1,13 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-25bed085-7106-40a7-af6e-ffe204040362,10/09/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
-43c05090-4826-452f-bcb9-232a1c32cf38,10/09/2026 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
-9e6fdf07-7ef9-4265-9fb6-c369830059c8,10/09/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
-3aba6f1e-e841-4b9e-a867-73a42cc6fc96,10/09/2026 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
-4e82f33b-f4c5-4da3-9d0e-d68e8086dc15,10/09/2026 16:00:00,USDA WASDE Report,HIGH,USD,Release,0.2,Monetary Policy
-f20de3dd-9f91-4d7f-9be9-ef1682a200b0,10/09/2026 17:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
-b7f5af83-7cad-4bb9-b850-52fa3e78b305,10/09/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-6be6fde5-a346-43f2-bd51-ca0f7534298e,10/09/2026 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-9914478c-8c91-48eb-8eea-c43b15c85815,10/09/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 a07e6ac5-50fb-4ed1-8f83-ae563f7a278f,10/12/2026 00:00:00,IMF Meeting,MEDIUM,USD,Speech,0.13,Monetary Policy
 1ceae08c-e53f-423a-bc24-555371b9c869,10/12/2026 16:50:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 02ab7e59-f4b0-4d18-b43d-22f2fbe9d2f7,10/13/2026 00:00:00,IMF Meeting,MEDIUM,USD,Speech,0.13,Monetary Policy

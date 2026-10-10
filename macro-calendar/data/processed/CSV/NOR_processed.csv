@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-93627df5-5939-4447-a81d-695616ad8bf1,10/09/2026 06:00:00,Consumer Price Index (MoM),HIGH,NOK,Release,0.19,Inflation
-c2a0cdd6-3266-4395-b610-b39e59a4d63e,10/09/2026 06:00:00,Consumer Price Index (YoY),HIGH,NOK,Release,0.19,Inflation
-eeeff5fe-9c37-41b2-92e4-2ccd3d40efa1,10/09/2026 06:00:00,Core Inflation (MoM),HIGH,NOK,Release,0.19,Inflation
-55f83875-6b28-4ad0-ae10-df64a62a2828,10/09/2026 06:00:00,Core Inflation (YoY),HIGH,NOK,Release,0.19,Inflation
-1c13a6de-91d8-44ac-8f80-c9d6d435677b,10/09/2026 06:00:00,Producer Price Index (YoY),HIGH,NOK,Release,0.19,Inflation
 4f6447d4-1463-4943-8f8c-943fd6013369,10/15/2026 06:00:00,Trade Balance,MEDIUM,NOK,Release,0.11,Trade and External
 9e5030a0-2c31-431f-8eea-14cd81144bf8,10/23/2026 06:00:00,Credit Indicator,LOW,NOK,Release,0.09,Money and Credit
 db9aa883-01ca-48c4-8933-25c731d8b43f,10/28/2026 07:00:00,Retail Sales ,HIGH,NOK,Release,0.17,Growth
