@@ -40,13 +40,13 @@ bddcb0ff-7ede-4f39-b61b-5ccbb8ac4fa9,10/15/2026 12:30:00,Producer Price Index ex
 1698428e-8f29-41e4-ac5a-d78cf5602211,10/15/2026 14:00:00,Business Inventories,LOW,USD
 39e21979-d006-4f79-b687-8e47211d5857,10/15/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
 19b97168-a079-4a4c-b8d7-32b741e2b1a3,10/15/2026 15:30:00,4-Week Bill Auction,LOW,USD
-9b95ac95-5f53-4e75-a166-92c31e08beb0,10/15/2026 15:30:00,Fed's Chair Warsh speech,MEDIUM,USD
 e5e2c65e-a4cb-4b9b-8b85-127ba986f584,10/15/2026 16:00:00,EIA Crude Oil Stocks Change,LOW,USD
 b05fbba4-4537-4cca-9b3b-1efdc576e06a,10/15/2026 16:00:00,EIA Distillate Stocks Change,LOW,USD
 e844eb06-2739-4ae4-a1cc-04b19bbff976,10/15/2026 16:00:00,EIA Gasoline Stocks Change,LOW,USD
 6eaf5af8-3a8b-43ef-824d-be76819d9b8f,10/15/2026 16:00:00,EIA Heating Oil Stocks Change,LOW,USD
 8ea6dd49-b95d-4d68-ad06-db62abea6c3a,10/15/2026 20:30:00,Fed's Hammack speech,MEDIUM,USD
 e66bf6f6-db63-4051-91fc-9eebc0f2972e,10/16/2026 00:00:00,IMF Meeting,MEDIUM,USD
+9b95ac95-5f53-4e75-a166-92c31e08beb0,10/16/2026 03:30:00,Fed's Chair Warsh speech,HIGH,USD
 949ef7ae-e98a-42ff-9876-fc25dfa435f0,10/16/2026 12:30:00,Export Price Index (MoM),LOW,USD
 1f2ffb7f-7d87-4f71-be90-73e3d4490c7b,10/16/2026 12:30:00,Export Price Index (YoY),LOW,USD
 89e82b74-ea53-4c35-8604-aa30a4acf3d6,10/16/2026 12:30:00,Import Price Index (MoM),LOW,USD
@@ -96,15 +96,14 @@ d19b4895-70e0-4059-ab27-3aec49f25c15,10/23/2026 17:00:00,Baker Hughes US Oil Rig
 38a50172-90a3-4ced-8da4-d526bed7ead3,10/23/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD
 9c14077b-ca41-4561-ade0-fc8708336875,10/23/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD
 7ac13f7a-822f-4933-94f5-14efa569e5ed,10/23/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
+472d7832-b080-4f8d-912b-b3597e61987a,10/26/2026 12:30:00,"Chicago Fed National Activity Index ",LOW,USD
 f590786b-58de-446e-85c8-09181c5ac119,10/26/2026 15:30:00,3-Month Bill Auction,LOW,USD
 3c85921f-b25c-474d-9f18-022df9d623b8,10/26/2026 15:30:00,6-Month Bill Auction,LOW,USD
 5f2ec4de-b8f4-4f28-bacc-650bcc37afe7,10/26/2026 17:00:00,2-Year Note Auction,LOW,USD
 de4c41db-e564-4d31-9495-626a9d7927b1,10/27/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
-472d7832-b080-4f8d-912b-b3597e61987a,10/27/2026 12:30:00,"Chicago Fed National Activity Index ",LOW,USD
 4c96bce1-23bf-46c7-bb25-213d3f58f913,10/27/2026 12:30:00,Durable Goods Orders,MEDIUM,USD
 caf9872b-51c0-49f1-ac77-81d84447bd12,10/27/2026 12:30:00,Durable Goods Orders ex Defense,MEDIUM,USD
 ce0766ef-6fe9-486c-9cfc-3cc88e8e77b9,10/27/2026 12:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
-e2b01df2-4fbb-47fe-a2f7-047d2252fa5d,10/27/2026 12:30:00,Goods Trade Balance,LOW,USD
 c9e7bdd4-318f-499d-a2e4-08e26c9fb075,10/27/2026 12:30:00,Nondefense Capital Goods Orders ex Aircraft,MEDIUM,USD
 407dac7e-2e11-4ce7-9415-c54ec1bdd3f2,10/27/2026 12:55:00,Redbook Index (YoY),LOW,USD
 0a46270c-bb17-48d2-b040-e665fb098048,10/27/2026 13:00:00,Housing Price Index (MoM),MEDIUM,USD
@@ -118,32 +117,33 @@ c7bb7c3b-eb47-4850-a769-f1eda13978e3,10/27/2026 15:30:00,52-Week Bill Auction,LO
 b8f467d2-4d0d-4a02-942f-11552703e48d,10/27/2026 17:00:00,5-Year Note Auction,LOW,USD
 4c501855-9c02-4359-b9b3-6d9619bbc879,10/27/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
 ad267756-9070-49d1-8f28-d119a3e28de4,10/28/2026 11:00:00,MBA Mortgage Applications,LOW,USD
+e2b01df2-4fbb-47fe-a2f7-047d2252fa5d,10/28/2026 12:30:00,Goods Trade Balance,LOW,USD
 d4f9a6a5-29cc-4bd4-a1c4-f089c45dff71,10/28/2026 12:30:00,Wholesale Inventories,LOW,USD
 3a732b6a-a297-4629-9285-80c7be034b5f,10/28/2026 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
 2ab8378f-8f31-4768-a6aa-c2492db71877,10/28/2026 14:30:00,EIA Distillate Stocks Change,LOW,USD
 1bd7d609-5ce7-4ec1-b495-06de9f246616,10/28/2026 14:30:00,EIA Gasoline Stocks Change,LOW,USD
 5b00ec5c-5e91-49f3-9944-d2dee9c1db08,10/28/2026 14:30:00,EIA Heating Oil Stocks Change,LOW,USD
-d0d870ee-01f1-40f8-b9c4-530e60645368,10/28/2026 17:00:00,7-Year Note Auction,LOW,USD
 0fa5c63c-f61c-4436-8763-66222addfe7a,10/28/2026 18:00:00,Fed Interest Rate Decision,HIGH,USD
 3c0c7b61-7aaa-4ca6-bff2-15593a479a36,10/28/2026 18:00:00,Fed Monetary Policy Statement,HIGH,USD
 2b6b68dc-4cea-41c4-ba47-4766f56bf18d,10/28/2026 18:30:00,FOMC Press Conference,HIGH,USD
 bd288305-962a-49c4-ae74-dcecaa22b6b7,10/29/2026 12:30:00,Continuing Jobless Claims,LOW,USD
+2241a1cd-eb29-4740-a28d-fc2b8cc813ef,10/29/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+401e58cb-1252-4e02-9c2a-144d3ea169e1,10/29/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
 ae9d410c-360e-4fed-8fc8-d9569f4558b8,10/29/2026 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
 eee5daa2-7168-46ec-bf09-83c8fbe8ce20,10/29/2026 12:30:00,Gross Domestic Product Annualized,HIGH,USD
 f1a492c1-7a0d-446b-a2ae-a0afee0703f1,10/29/2026 12:30:00,Gross Domestic Product Price Index,HIGH,USD
 8f998cac-4b65-4c95-a0fa-73723b4526c5,10/29/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
 99818fd2-4fa7-49a7-beab-a7014f3550d9,10/29/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
+e8b79a49-8f95-4e08-b60f-c5367e1138b9,10/29/2026 12:30:00,Personal Consumption Expenditures - Price Index (MoM),MEDIUM,USD
+1c247eab-2e2a-4393-ae9a-508ebd4d9b71,10/29/2026 12:30:00,Personal Consumption Expenditures - Price Index (YoY),MEDIUM,USD
 2e90a491-2097-47bd-92fe-5d4fde8c5c2c,10/29/2026 12:30:00,Personal Consumption Expenditures Prices (QoQ),MEDIUM,USD
+413c2200-8525-4383-82bf-4ef5dd268f1f,10/29/2026 12:30:00,Personal Income (MoM),MEDIUM,USD
+07858c98-100e-4b62-9aa5-0336b40cd1a7,10/29/2026 12:30:00,Personal Spending,MEDIUM,USD
 e5492ec4-5913-4b63-8a60-662053753be9,10/29/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
 4f928730-9d65-4a9f-8a72-ee7dae1af88b,10/29/2026 15:00:00,Kansas Fed Manufacturing Activity,LOW,USD
 b17ba9df-2eae-47eb-bb6a-bd0b8a89461c,10/29/2026 15:30:00,4-Week Bill Auction,LOW,USD
-2241a1cd-eb29-4740-a28d-fc2b8cc813ef,10/30/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
-401e58cb-1252-4e02-9c2a-144d3ea169e1,10/30/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+d0d870ee-01f1-40f8-b9c4-530e60645368,10/29/2026 17:00:00,7-Year Note Auction,LOW,USD
 43f7500e-0290-42c0-b26a-4cb0c3a417cf,10/30/2026 12:30:00,Employment Cost Index,MEDIUM,USD
-e8b79a49-8f95-4e08-b60f-c5367e1138b9,10/30/2026 12:30:00,Personal Consumption Expenditures - Price Index (MoM),MEDIUM,USD
-1c247eab-2e2a-4393-ae9a-508ebd4d9b71,10/30/2026 12:30:00,Personal Consumption Expenditures - Price Index (YoY),MEDIUM,USD
-413c2200-8525-4383-82bf-4ef5dd268f1f,10/30/2026 12:30:00,Personal Income (MoM),MEDIUM,USD
-07858c98-100e-4b62-9aa5-0336b40cd1a7,10/30/2026 12:30:00,Personal Spending,MEDIUM,USD
 bf21966a-d0a3-4fb8-99f5-17d9782bc949,10/30/2026 13:45:00,Chicago PMI,MEDIUM,USD
 a39f4b13-c8d4-449d-b27c-8f09d541f0a2,10/30/2026 17:00:00,Baker Hughes US Oil Rig Count,LOW,USD
 ebaafba8-5714-4869-992e-a71eea6ae64e,10/30/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD

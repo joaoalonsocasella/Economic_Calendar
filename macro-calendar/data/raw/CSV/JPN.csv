@@ -7,11 +7,11 @@ aa1a8640-0557-4aa5-be75-3f6c68b0e4af,10/13/2026 06:00:00,Machine Tool Orders (Yo
 b84c4ae3-02c2-4b1a-8a4c-057641f8131a,10/14/2026 23:50:00,Machinery Orders (MoM),LOW,JPY
 f59df0e3-13f9-4ccb-b556-448dd60162b0,10/14/2026 23:50:00,Machinery Orders (YoY),LOW,JPY
 6da72dfc-68fe-45ee-9af1-26dd27791c9c,10/15/2026 01:30:00,BoJ's Koeda speech,MEDIUM,JPY
+e6acf525-451b-4855-b680-fe9012e21848,10/15/2026 04:30:00,Capacity Utilization,LOW,JPY
+6b3070af-f638-4aa4-87f4-72455f547823,10/15/2026 04:30:00,Industrial Production (MoM),LOW,JPY
+c067962f-6f71-448f-9188-f61f006c0c37,10/15/2026 04:30:00,Industrial Production (YoY),LOW,JPY
 23e6dc08-e7e1-4b32-9216-7f2231f1ded0,10/15/2026 23:50:00,Foreign Bond Investment,LOW,JPY
 0bc635ae-ac3d-46fe-80d2-e6ddbeaee073,10/15/2026 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
-e6acf525-451b-4855-b680-fe9012e21848,10/16/2026 04:30:00,Capacity Utilization,LOW,JPY
-6b3070af-f638-4aa4-87f4-72455f547823,10/16/2026 04:30:00,Industrial Production (MoM),LOW,JPY
-c067962f-6f71-448f-9188-f61f006c0c37,10/16/2026 04:30:00,Industrial Production (YoY),LOW,JPY
 a57876e7-2c83-494c-8ab0-e5df910fcb00,10/16/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 2a55ba86-1e73-4912-9537-980f3209c4e9,10/19/2026 04:30:00,Tertiary Industry Index (MoM),LOW,JPY
 78c2fde4-2215-44b8-ada3-36b90485881c,10/20/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY
@@ -26,11 +26,12 @@ e28e825d-8db8-4729-a523-e7d1531ec3c0,10/22/2026 23:30:00,National Consumer Price
 0024a2a1-2949-4288-85f3-6e6fb79bb153,10/23/2026 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
 fd44d635-b4fe-46a7-a476-7cea816a9986,10/23/2026 00:30:00,Jibun Bank Services PMI,LOW,JPY
 25da294f-0f90-432f-9e2d-23836f7376e7,10/23/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
-e31a1f0f-b1c0-45cc-a1d9-dc32c0bc1d4f,10/25/2026 23:50:00,Corporate Service Price Index (YoY),LOW,JPY
 1a23fd4b-58fc-4169-a00c-3ebcf7289671,10/26/2026 05:00:00,Coincident Index,LOW,JPY
 e0cd8ec0-96e3-4dee-9752-3f9b75bec854,10/26/2026 05:00:00,Leading Economic Index,LOW,JPY
+e31a1f0f-b1c0-45cc-a1d9-dc32c0bc1d4f,10/26/2026 23:50:00,Corporate Service Price Index (YoY),LOW,JPY
 1fcee38e-74fb-4afa-808d-6628aa1a6672,10/28/2026 23:50:00,Foreign Bond Investment,LOW,JPY
 51505262-2b42-4b3e-8628-20433273d31b,10/28/2026 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
+7baef766-de60-44aa-8242-24c7b05bd630,10/29/2026 05:00:00,Consumer Confidence Index,LOW,JPY
 179f4334-2c29-49a6-93e0-563473c822c8,10/29/2026 23:30:00,Jobs / Applicants Ratio,LOW,JPY
 056a440f-010d-4dce-a2e1-5c229b56f350,10/29/2026 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY
 fdf64815-c973-4e1d-bf62-35dc8f7deca6,10/29/2026 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY
@@ -50,7 +51,6 @@ ffec7824-59ac-4f8b-8eae-b85282945b7c,10/30/2026 05:00:00,Housing Starts (YoY),LO
 1f6e45de-03bd-457d-89d8-72142aa32639,10/30/2026 06:30:00,BoJ Press Conference,HIGH,JPY
 2afd1e5d-43dc-4424-b73f-e3f04e134350,10/30/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
 5f1219ef-a80f-477a-91e3-041ea78a88dd,11/02/2026 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
-7baef766-de60-44aa-8242-24c7b05bd630,11/02/2026 05:00:00,Consumer Confidence Index,LOW,JPY
 e3e40438-28fc-4030-a46b-f045ff79cc77,11/02/2026 23:50:00,Monetary Base (YoY),LOW,JPY
 ca7f2d3a-bb9c-469e-906c-a3a62889692a,11/03/2026 03:35:00,10-y Bond Auction,LOW,JPY
 1c93887d-23d0-4c99-a3c0-3214cc8319b1,11/04/2026 00:30:00,Jibun Bank Services PMI,LOW,JPY

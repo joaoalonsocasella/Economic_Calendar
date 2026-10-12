@@ -5,20 +5,22 @@ cc3b951b-7798-4c26-af22-13e81dfd230a,10/16/2026 08:00:00,Trade Balance EU,LOW,EU
 e214f95c-4253-44ca-9b7e-eb61582caeb7,10/16/2026 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
 1f6c2480-eff3-44a2-a75d-6319351693b8,10/16/2026 09:00:00,Consumer Price Index (MoM),LOW,EUR
 534e3a65-df13-4e7c-a4af-8e71b1d62ddd,10/16/2026 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR
-923fb5c9-b7e4-4bd3-9b7e-aa30151919e1,10/28/2026 09:00:00,Business Confidence,LOW,EUR
-7f5a6990-ef5b-4ab3-9f01-ebcdb68465ed,10/28/2026 09:00:00,Consumer Confidence,LOW,EUR
+e5425a10-beb6-43da-8c5a-2ed0feb847ac,10/28/2026 09:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR
+100fdc3c-37f7-43f2-8cbf-6217dece8191,10/28/2026 09:00:00,Industrial Sales s.a. (MoM),LOW,EUR
+e072b798-13f0-474a-9e88-888e79bf7e70,10/28/2026 10:00:00,Producer Price Index (MoM),LOW,EUR
+2f28cf27-362b-4690-bdb3-08e076771da0,10/28/2026 10:00:00,Producer Price Index (YoY),LOW,EUR
+0fd2316b-8be7-4696-8221-672cc4982530,10/29/2026 09:00:00,Unemployment,LOW,EUR
+923fb5c9-b7e4-4bd3-9b7e-aa30151919e1,10/29/2026 10:00:00,Business Confidence,LOW,EUR
+7f5a6990-ef5b-4ab3-9f01-ebcdb68465ed,10/29/2026 10:00:00,Consumer Confidence,LOW,EUR
+28f70978-c691-4e18-9b44-b330ba91a2b8,10/29/2026 10:00:00,Trade Balance non-EU,LOW,EUR
+5624e202-a55b-45e5-a4d6-0a10807cce12,10/29/2026 10:30:00,10-y Bond Auction,LOW,EUR
+8022276d-4fc3-4f2a-ac6f-aeec63eded87,10/29/2026 10:30:00,5-y Bond Auction,LOW,EUR
 b6f49397-d8f5-4326-a82a-dd6d4da5a49b,10/30/2026 09:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR
 d92bb6a4-80b6-4b4f-b646-3abe66405008,10/30/2026 09:00:00,Gross Domestic Product (YoY),MEDIUM,EUR
-e5425a10-beb6-43da-8c5a-2ed0feb847ac,10/30/2026 09:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR
-100fdc3c-37f7-43f2-8cbf-6217dece8191,10/30/2026 09:00:00,Industrial Sales s.a. (MoM),LOW,EUR
-28f70978-c691-4e18-9b44-b330ba91a2b8,10/30/2026 09:00:00,Trade Balance non-EU,LOW,EUR
-0fd2316b-8be7-4696-8221-672cc4982530,10/30/2026 09:00:00,Unemployment,LOW,EUR
 a6f925a0-2f2a-42cb-8e15-aded1a22d170,10/30/2026 10:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
 146ac6a1-c954-499a-920f-7a9e4a07d7b0,10/30/2026 10:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
 6beb66fc-b5fc-4430-b668-52ce596c8b48,10/30/2026 10:00:00,Consumer Price Index (MoM),LOW,EUR
 2b404295-bd8a-49d9-8238-4f2335d31c45,10/30/2026 10:00:00,Consumer Price Index (YoY),MEDIUM,EUR
-e072b798-13f0-474a-9e88-888e79bf7e70,10/30/2026 10:00:00,Producer Price Index (MoM),LOW,EUR
-2f28cf27-362b-4690-bdb3-08e076771da0,10/30/2026 10:00:00,Producer Price Index (YoY),LOW,EUR
 71b2862b-ed2f-4f14-85bf-c50ba10c1e4a,11/02/2026 08:45:00,HCOB Manufacturing PMI,MEDIUM,EUR
 8426a3a9-6527-4924-aea5-cfa5ce36fcff,11/04/2026 08:45:00,HCOB Services PMI,LOW,EUR
 05ca8d29-8cf1-4cb3-bdfa-93526572e171,11/05/2026 09:00:00,Retail Sales n.s.a (YoY),LOW,EUR
