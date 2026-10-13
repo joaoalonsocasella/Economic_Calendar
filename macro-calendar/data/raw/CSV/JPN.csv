@@ -1,9 +1,7 @@
 Id,Start,Name,Impact,Currency
-9dd7f94a-3a5c-4439-b4b8-0f0623f7b251,10/12/2026 23:50:00,Bank Lending (YoY),LOW,JPY
-ab465417-cb3e-4f68-b107-644a4b8a922a,10/12/2026 23:50:00,Producer Price Index (MoM),LOW,JPY
-cc0aa5f9-ab54-4401-92fd-441f0700806e,10/12/2026 23:50:00,Producer Price Index (YoY),LOW,JPY
-aa1a8640-0557-4aa5-be75-3f6c68b0e4af,10/13/2026 06:00:00,Machine Tool Orders (YoY),LOW,JPY
+fa6e4dc3-e06d-442c-855e-ba8715e16976,10/13/2026 04:30:00,BoJ Governor Ueda speech,HIGH,JPY
 9281da62-064a-48df-9a32-918c47d15843,10/13/2026 23:50:00,Money Supply M2+CD (YoY),LOW,JPY
+aa1a8640-0557-4aa5-be75-3f6c68b0e4af,10/14/2026 23:50:00,Machine Tool Orders (YoY),LOW,JPY
 b84c4ae3-02c2-4b1a-8a4c-057641f8131a,10/14/2026 23:50:00,Machinery Orders (MoM),LOW,JPY
 f59df0e3-13f9-4ccb-b556-448dd60162b0,10/14/2026 23:50:00,Machinery Orders (YoY),LOW,JPY
 6da72dfc-68fe-45ee-9af1-26dd27791c9c,10/15/2026 01:30:00,BoJ's Koeda speech,MEDIUM,JPY
