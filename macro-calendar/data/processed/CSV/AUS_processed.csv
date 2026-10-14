@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d37d1358-f4cd-4c19-a24f-7b916e63eaff,10/13/2026 00:30:00,National Australia Bank's Business Conditions,MEDIUM,AUD,Release,0.14,Confidence
-a3b4cf64-4187-4cf4-9d61-6c57bacd9cfa,10/13/2026 00:30:00,National Australia Bank's Business Confidence,MEDIUM,AUD,Release,0.14,Confidence
-518da2d5-3093-4cb0-84e6-1979d2285d27,10/13/2026 00:30:00,RBA Meeting Minutes,MEDIUM,AUD,Speech,0.13,Monetary Policy
 93cd533c-0291-4d19-be9f-337cd9425c84,10/14/2026 00:00:00,Westpac Leading Index (MoM),MEDIUM,AUD,Release,0.14,Confidence
 24deb0b5-7859-487b-a8bf-c9ba578c5d4a,10/15/2026 00:30:00,Employment Change s.a.,HIGH,AUD,Release,0.18,Labor Market
 237b17a4-c342-4d88-8023-5171f2f2d884,10/15/2026 00:30:00,Full-Time Employment,HIGH,AUD,Release,0.18,Labor Market
