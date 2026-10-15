@@ -1,7 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-5a9cf3c8-c26e-4a3d-98a5-6f8da32d3370,10/15/2026 11:00:00,Exports,MEDIUM,ILS,Release,0.11,Trade and External
-9d4a5da7-c472-4fa2-981a-473cceb30613,10/15/2026 11:00:00,Imports,MEDIUM,ILS,Release,0.11,Trade and External
-cf871f9c-1025-48b8-a65e-e220a989e13c,10/15/2026 11:00:00,Trade Balance,MEDIUM,ILS,Release,0.11,Trade and External
+5a9cf3c8-c26e-4a3d-98a5-6f8da32d3370,10/15/2026 10:27:33,Exports,MEDIUM,ILS,Release,0.11,Trade and External
+9d4a5da7-c472-4fa2-981a-473cceb30613,10/15/2026 10:28:06,Imports,MEDIUM,ILS,Release,0.11,Trade and External
+cf871f9c-1025-48b8-a65e-e220a989e13c,10/15/2026 10:29:04,Trade Balance,MEDIUM,ILS,Release,0.11,Trade and External
 5664c14b-edce-4b4b-badf-1c2ee3fae472,10/15/2026 16:30:00,Consumer Price Index (MoM),HIGH,ILS,Release,0.19,Inflation
 6760f105-b79e-4911-82dc-773ab977f53a,10/15/2026 16:30:00,Consumer Price Index (YoY),HIGH,ILS,Release,0.19,Inflation
 7b422d4a-178e-4abb-bffe-884a16dc06a3,10/18/2026 11:00:00,Gross Domestic Product (QoQ),HIGH,ILS,Release,0.17,Growth

@@ -1,6 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e653c3ec-40e5-4b2a-b767-b1e4c0aa5513,10/15/2026 06:00:00,Consumer Price Index (MoM),HIGH,SAR,Release,0.19,Inflation
-e0eb5466-4937-4b29-b677-256ed1ae3035,10/15/2026 06:00:00,Consumer Price Index (YoY),HIGH,SAR,Release,0.19,Inflation
+e0eb5466-4937-4b29-b677-256ed1ae3035,10/15/2026 06:00:05,Consumer Price Index (YoY),HIGH,SAR,Release,0.19,Inflation
+e653c3ec-40e5-4b2a-b767-b1e4c0aa5513,10/15/2026 06:00:05,Consumer Price Index (MoM),HIGH,SAR,Release,0.19,Inflation
 5a6caeaf-7362-4a0e-a54d-e6a684c84a51,10/30/2026 06:00:00,Gross Domestic Product (YoY),HIGH,SAR,Release,0.17,Growth
 96a2127d-5b52-4616-bdda-638be47970fd,10/30/2026 16:00:00,M3 Money Supply (YoY),HIGH,SAR,Release,0.19,Inflation
 214642fe-755a-48b2-8fb5-1d89a4ed55ad,10/30/2026 16:00:00,Private Sector Loans (YoY),LOW,SAR,Release,0.09,Money and Credit

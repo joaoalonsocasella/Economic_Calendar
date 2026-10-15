@@ -1,17 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-74e44f7f-7c8f-4073-8bc6-edcfcfeb22c2,10/14/2026 00:00:00,IMF Meeting,MEDIUM,USD,Speech,0.13,Monetary Policy
-379299fb-8d97-4f84-ae27-5fd7c46f871d,10/14/2026 09:40:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-73a47a59-1614-4614-92b2-2b3e0ad94e42,10/14/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-cbe30686-e724-42b1-b883-36bd8925fe5a,10/14/2026 12:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-1e25f809-a3a8-4256-a9f1-de86b4f61f4a,10/14/2026 12:30:00,Consumer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-304b4d0b-73ba-49d5-b2be-76d7c75f7bd4,10/14/2026 12:30:00,Consumer Price Index Core s.a,HIGH,USD,Release,0.19,Inflation
-cfaffea7-7471-4647-926d-581b3eecb400,10/14/2026 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
-e3111bf6-764b-4b93-9319-9fe860d7bf34,10/14/2026 12:30:00,Consumer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
-34b98fc0-3d41-4392-a238-1cf098d02347,10/14/2026 12:30:00,Consumer Price Index n.s.a (MoM),HIGH,USD,Release,0.19,Inflation
-ae4d7d69-45c0-4ce3-b5eb-e7ecdb7fdaaf,10/14/2026 14:55:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-81fd484e-0151-4d62-a4fd-7e234d8f330a,10/14/2026 18:00:00,Fed's Beige Book,MEDIUM,USD,Release,0.14,Confidence
-8292c36b-4806-4a20-9e73-0dc891fa5e5e,10/14/2026 18:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
-2d915a99-15fa-4291-a644-16797294a77d,10/14/2026 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 b724b18d-2303-49f0-9c5b-314211a7cb9c,10/15/2026 00:00:00,IMF Meeting,MEDIUM,USD,Speech,0.13,Monetary Policy
 5ad23a01-47f5-4f05-be2d-db6209a5f31c,10/15/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 435eda76-2a80-4b67-b056-c2bbac99285d,10/15/2026 12:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
@@ -33,6 +20,7 @@ e5e2c65e-a4cb-4b9b-8b85-127ba986f584,10/15/2026 16:00:00,EIA Crude Oil Stocks Ch
 b05fbba4-4537-4cca-9b3b-1efdc576e06a,10/15/2026 16:00:00,EIA Distillate Stocks Change,HIGH,USD,Release,0.18,Labor Market
 e844eb06-2739-4ae4-a1cc-04b19bbff976,10/15/2026 16:00:00,EIA Gasoline Stocks Change,HIGH,USD,Release,0.18,Labor Market
 6eaf5af8-3a8b-43ef-824d-be76819d9b8f,10/15/2026 16:00:00,EIA Heating Oil Stocks Change,HIGH,USD,Release,0.18,Labor Market
+8292c36b-4806-4a20-9e73-0dc891fa5e5e,10/15/2026 18:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
 8ea6dd49-b95d-4d68-ad06-db62abea6c3a,10/15/2026 20:30:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 e66bf6f6-db63-4051-91fc-9eebc0f2972e,10/16/2026 00:00:00,IMF Meeting,MEDIUM,USD,Speech,0.13,Monetary Policy
 9b95ac95-5f53-4e75-a166-92c31e08beb0,10/16/2026 03:30:00,Fed's Chair Warsh speech,MEDIUM,USD,Speech,0.13,Monetary Policy
