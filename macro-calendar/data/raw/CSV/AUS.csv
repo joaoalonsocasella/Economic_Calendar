@@ -1,9 +1,4 @@
 Id,Start,Name,Impact,Currency
-24deb0b5-7859-487b-a8bf-c9ba578c5d4a,10/15/2026 00:30:00,Employment Change s.a.,HIGH,AUD
-237b17a4-c342-4d88-8023-5171f2f2d884,10/15/2026 00:30:00,Full-Time Employment,MEDIUM,AUD
-317c2298-8304-4757-a64b-8943bac1b672,10/15/2026 00:30:00,Part-Time Employment,MEDIUM,AUD
-9ab7df07-5e54-49f3-8cbc-e0a4cde6ec15,10/15/2026 00:30:00,Participation Rate,MEDIUM,AUD
-53c49d70-06aa-48b2-9023-4299940afe21,10/15/2026 00:30:00,Unemployment Rate s.a.,HIGH,AUD
 13647b30-5de1-4af7-823a-77ce77d2419c,10/16/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
 e17fbb9d-1e1a-469c-874e-0acc910587a8,10/22/2026 22:00:00,S&P Global Composite PMI,MEDIUM,AUD
 e8be5812-a8bc-4f9e-9649-b82daff077c8,10/22/2026 22:00:00,S&P Global Manufacturing PMI,MEDIUM,AUD
@@ -182,6 +177,7 @@ a8aae123-277e-4724-8948-614bca766014,02/04/2027 00:30:00,Imports (MoM),MEDIUM,AU
 56d1be73-2a69-40df-8e6a-b58a0a4f90a4,02/04/2027 00:30:00,National Australia Bank's Business Confidence (QoQ),MEDIUM,AUD
 6540bd87-555b-430b-b6a9-d1f7ed26faec,02/04/2027 00:30:00,Trade Balance (MoM),HIGH,AUD
 3d90076d-f403-4e99-baa0-a26c15ea4bd5,02/05/2027 20:30:00,CFTC AUD NC Net Positions,LOW,AUD
+288d6479-6c71-46e2-b8ae-3679bf4ef424,02/08/2027 23:30:00,Westpac Consumer Confidence,MEDIUM,AUD
 84a4eb99-a703-47a6-bdcb-8111039bd486,02/09/2027 00:30:00,National Australia Bank's Business Conditions,LOW,AUD
 95688099-7256-402f-9477-39ae6ccbf115,02/09/2027 00:30:00,National Australia Bank's Business Confidence,LOW,AUD
 b41fdbb6-cbd4-4b0f-b59d-7a09abf677f0,02/09/2027 03:30:00,RBA Interest Rate Decision,HIGH,AUD
@@ -233,6 +229,7 @@ f5b3dffb-99a4-4e6e-96bf-b9a8e52760bb,03/02/2027 22:00:00,S&P Global Services PMI
 0666d89b-bf04-41e9-b6a5-0f733ffa0334,03/04/2027 00:30:00,Imports (MoM),MEDIUM,AUD
 7b43c4d0-0f6f-42b7-b186-e6da0817c478,03/04/2027 00:30:00,Trade Balance (MoM),HIGH,AUD
 64def987-84dd-4ae3-82e5-638b201a014c,03/05/2027 20:30:00,CFTC AUD NC Net Positions,LOW,AUD
+0e5b37fb-5c08-4e6f-a5a0-13937987e1cd,03/08/2027 23:30:00,Westpac Consumer Confidence,MEDIUM,AUD
 dded07f6-6461-4bf4-a3a8-bac9500a0766,03/09/2027 00:30:00,National Australia Bank's Business Conditions,LOW,AUD
 6431e5d0-54ef-4213-bc5e-b40f0bbfa1c1,03/09/2027 00:30:00,National Australia Bank's Business Confidence,LOW,AUD
 577612db-246a-4a26-9591-b6ba4649443f,03/11/2027 00:00:00,Consumer Inflation Expectations,MEDIUM,AUD
@@ -278,6 +275,7 @@ de04f2f5-7d28-42cf-bb16-be49f2a341e8,04/05/2027 01:00:00,TD-MI Inflation Gauge (
 19254a0a-63d2-4d27-933c-c907ccc10f85,04/06/2027 23:00:00,AiG Industry Index,MEDIUM,AUD
 88a25790-4fe1-419c-b233-1867d0cb151f,04/08/2027 01:00:00,Consumer Inflation Expectations,MEDIUM,AUD
 815b35f5-a662-466a-a38c-82511ca587fa,04/09/2027 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
+6e80bdde-4bd9-4ffc-b5bb-6ffeb758cc6c,04/13/2027 00:30:00,Westpac Consumer Confidence,MEDIUM,AUD
 8136b4b4-05fb-443c-9e0d-0ae7ae27dc0b,04/13/2027 01:30:00,National Australia Bank's Business Conditions,LOW,AUD
 e7a0d744-3544-4e1b-b8c0-7479943c7aa0,04/13/2027 01:30:00,National Australia Bank's Business Confidence,LOW,AUD
 40100226-ee04-476a-8575-3a76408477e4,04/16/2027 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
@@ -325,6 +323,7 @@ b1d20e7a-d25d-457d-b9e6-9c2bc026d982,05/04/2027 23:00:00,Ai Group Manufacturing 
 9c53e784-f619-4e61-b9d0-7cde94582f6a,05/06/2027 00:30:00,Trade Balance (MoM),HIGH,AUD
 d40226fd-cce6-44df-9d14-fb24b7c8a4c8,05/06/2027 01:30:00,Exports (MoM),MEDIUM,AUD
 694e3872-6693-4b2a-8e89-d52352b30154,05/07/2027 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
+2b07e6f8-3f3b-4488-aede-3d210c063072,05/11/2027 00:30:00,Westpac Consumer Confidence,MEDIUM,AUD
 14ed4872-236d-4f94-a333-e056dc5bbfda,05/11/2027 01:30:00,National Australia Bank's Business Conditions,LOW,AUD
 ca2b35be-1046-47ff-a936-dbfa279f1415,05/11/2027 01:30:00,National Australia Bank's Business Confidence,LOW,AUD
 701c76ab-0898-48f0-ba13-e6cd21cd5297,05/12/2027 01:30:00,Home Loans,LOW,AUD
@@ -372,6 +371,7 @@ e3c7ecf2-fc25-4ca0-b95d-d0483d55d57d,06/03/2027 01:30:00,Imports (MoM),MEDIUM,AU
 d8a2f596-2fb2-448b-b36c-200fcb4ffeb6,06/04/2027 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
 5ac61722-8d3c-429a-a47e-10afff1432df,06/07/2027 01:00:00,TD-MI Inflation Gauge (MoM),LOW,AUD
 bc35a1f9-2d76-4011-888c-6681173fc21f,06/07/2027 01:00:00,TD-MI Inflation Gauge (YoY),MEDIUM,AUD
+4f19e12b-70ed-4f4a-8075-0e58ba3457d5,06/08/2027 00:30:00,Westpac Consumer Confidence,MEDIUM,AUD
 19d4cb15-05f0-4823-88a9-1ca5a0f87c42,06/08/2027 01:30:00,National Australia Bank's Business Conditions,LOW,AUD
 702a3cb7-c339-4e8a-b51e-10d8e40ce929,06/08/2027 01:30:00,National Australia Bank's Business Confidence,LOW,AUD
 3ff04119-f648-41d1-9167-fd740d9c00fc,06/11/2027 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
@@ -416,6 +416,7 @@ d079b739-344f-4d49-a015-62645ac3d29a,07/06/2027 01:30:00,RBA Meeting Minutes,HIG
 d26577cc-4169-4908-a6aa-4ba5cb3907e2,07/06/2027 23:00:00,AiG Industry Index,MEDIUM,AUD
 b71a2101-e649-4f4c-98ba-6fad870e8f03,07/08/2027 01:00:00,Consumer Inflation Expectations,MEDIUM,AUD
 070152df-f657-4458-ae06-9e186cd4c641,07/09/2027 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
+f990be98-c9b2-422c-b504-04d0745c9201,07/13/2027 00:30:00,Westpac Consumer Confidence,MEDIUM,AUD
 8587be41-b7d6-447b-b27d-b5f4fdbe3416,07/13/2027 01:30:00,National Australia Bank's Business Conditions,LOW,AUD
 ac42e654-aa3f-45a0-b3e9-522bee2e1350,07/13/2027 01:30:00,National Australia Bank's Business Confidence,LOW,AUD
 1b1709b8-fa4f-4e85-af8a-a4d717112c1a,07/16/2027 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
@@ -459,6 +460,7 @@ a502cbba-4b68-4af1-aa48-749e223a0412,08/05/2027 01:30:00,Exports (MoM),MEDIUM,AU
 7acc6bd5-295d-4fce-9599-0c547840c40d,08/05/2027 01:30:00,Imports (MoM),MEDIUM,AUD
 f17fc89b-cfb5-4b1d-bfff-5186357997f0,08/05/2027 01:30:00,Trade Balance (MoM),HIGH,AUD
 3d3f2ed5-3c59-4b38-8fd5-806596a8caf7,08/06/2027 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
+dd0984c5-d314-4b53-8659-40e96c30e58b,08/10/2027 00:30:00,Westpac Consumer Confidence,MEDIUM,AUD
 1c5b8400-7b64-4caf-94bc-932fa8eaba05,08/10/2027 01:30:00,National Australia Bank's Business Conditions,LOW,AUD
 1f81ca39-522a-4c69-8d89-e7ef3404d4e3,08/10/2027 01:30:00,National Australia Bank's Business Confidence,LOW,AUD
 af8c5855-b8f7-4bf2-b148-4971ff75c21d,08/10/2027 04:30:00,RBA Interest Rate Decision,HIGH,AUD
@@ -512,6 +514,7 @@ d9336461-5841-4ae1-ba20-c1415158baa2,09/03/2027 19:30:00,CFTC AUD NC Net Positio
 b6af5e82-2c3f-496c-903a-55615e622d5b,09/06/2027 01:00:00,TD-MI Inflation Gauge (YoY),MEDIUM,AUD
 1c8bb749-5525-40ec-ac75-c901b0c3e9e5,09/09/2027 01:00:00,Consumer Inflation Expectations,MEDIUM,AUD
 7670854b-5764-4141-b360-ad9e8b99ee6d,09/10/2027 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
+886dbf38-d8b4-4d7f-9ace-7fe57df5082f,09/14/2027 00:30:00,Westpac Consumer Confidence,MEDIUM,AUD
 c6fc22be-b761-4e0a-9797-2d13380fffbb,09/14/2027 01:30:00,National Australia Bank's Business Conditions,LOW,AUD
 efd2a201-7620-43cd-9deb-ba3434a7094f,09/14/2027 01:30:00,National Australia Bank's Business Confidence,LOW,AUD
 dd645c96-b98d-45a8-aa3c-e146cd60e57d,09/16/2027 01:30:00,Employment Change s.a.,HIGH,AUD
@@ -553,6 +556,7 @@ df05490b-8490-4e85-8b6a-0a7d161bc967,10/07/2027 00:30:00,Exports (MoM),MEDIUM,AU
 c08e2b39-ad46-415c-a2d9-9f0f1c66f0a5,10/07/2027 00:30:00,Imports (MoM),MEDIUM,AUD
 956de8da-4105-48cb-9d8c-a6a6045cdf3d,10/07/2027 00:30:00,Trade Balance (MoM),HIGH,AUD
 c1105c0d-c7f5-4089-ad73-6003e5475400,10/08/2027 19:30:00,CFTC AUD NC Net Positions,LOW,AUD
+71f3e55d-61a4-45e9-bfbe-0006aba2dbfc,10/11/2027 23:30:00,Westpac Consumer Confidence,MEDIUM,AUD
 343a341d-f333-4479-baa2-2cacdb529f25,10/12/2027 00:30:00,National Australia Bank's Business Conditions,LOW,AUD
 88a5a0ff-3220-40be-b073-bed25300cd6b,10/12/2027 00:30:00,National Australia Bank's Business Confidence,LOW,AUD
 6f58b587-3a4e-4de0-a720-8625de5a792d,10/12/2027 00:30:00,RBA Meeting Minutes,HIGH,AUD
