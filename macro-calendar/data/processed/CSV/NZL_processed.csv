@@ -56,8 +56,8 @@ e87b660c-b34e-43c2-b3c2-903a9a75151c,12/10/2026 21:45:00,Electronic Card Retail 
 998984e3-5a27-4408-992c-d9cf0947f14c,12/10/2026 21:45:00,Electronic Card Retail Sales (YoY),HIGH,NZD,Release,0.17,Growth
 d94e9750-d132-413e-95e6-7c752524f981,12/10/2026 21:45:00,Food Price Index (MoM),HIGH,NZD,Release,0.19,Inflation
 003eda31-80c9-4999-b0ee-a2e0a28f3d8c,12/13/2026 21:30:00,Business NZ PSI,MEDIUM,NZD,Release,0.14,Confidence
-59c54249-7dad-4c53-ba67-31e635a57b02,12/13/2026 21:45:00,Visitor Arrivals (YoY),HIGH,NZD,Release,0.19,Inflation
 f5e2e978-f08f-40a6-8a8b-5c5f49a4d7c1,12/13/2026 21:45:00,Visitor Arrivals (YoY),HIGH,NZD,Release,0.19,Inflation
+59c54249-7dad-4c53-ba67-31e635a57b02,12/13/2026 21:45:00,Visitor Arrivals (YoY),HIGH,NZD,Release,0.19,Inflation
 cbe28735-15f2-458a-8a86-b8db0560a859,12/15/2026 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 c9833742-a399-4ac7-a014-994329a08b3a,12/15/2026 21:45:00,Current Account - GDP Ratio,MEDIUM,NZD,Release,0.11,Trade and External
 687a8a96-46f7-41f5-9b29-68ffc6f93732,12/15/2026 21:45:00,Current Account (QoQ),MEDIUM,NZD,Release,0.11,Trade and External
@@ -93,6 +93,7 @@ e65e2c39-8c48-4e38-a72f-c9ef81c2ad56,01/28/2027 21:45:00,Trade Balance NZD (MoM)
 58ede63b-920c-4a97-b8df-65bd2d57deb6,01/28/2027 21:45:00,Trade Balance NZD (YoY),MEDIUM,NZD,Release,0.11,Trade and External
 3571115b-d104-4df6-9a39-3dde3cdbc126,01/29/2027 00:00:00,ANZ Activity Outlook,MEDIUM,NZD,Release,0.14,Confidence
 d1a7cf57-d87e-4d32-90db-2ad4ab6972e9,01/29/2027 00:00:00,ANZ Business Confidence,MEDIUM,NZD,Release,0.14,Confidence
+31964f85-00fb-4e04-b800-bf92f8296159,02/02/2027 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 c87c396b-9aa3-403f-87d0-41cd84a61b43,02/02/2027 21:45:00,Employment Change,HIGH,NZD,Release,0.18,Labor Market
 f41687fe-6a1a-4ffd-b7d5-e38bbeca3bbc,02/02/2027 21:45:00,Labour Cost Index (QoQ),HIGH,NZD,Release,0.18,Labor Market
 cac59f3c-f945-4682-8d5f-3c0fd86ae0fb,02/02/2027 21:45:00,Labour Cost Index (YoY),HIGH,NZD,Release,0.19,Inflation
@@ -102,6 +103,8 @@ cac59f3c-f945-4682-8d5f-3c0fd86ae0fb,02/02/2027 21:45:00,Labour Cost Index (YoY)
 e49c5b36-f84d-444b-8ff5-fd64bb497218,02/11/2027 02:00:00,RBNZ Inflation Expectations (QoQ),HIGH,NZD,Release,0.19,Inflation
 a3a2730d-0d54-45a0-bbca-2ed59c72fd7a,02/11/2027 21:30:00,Business NZ PMI,HIGH,NZD,Release,0.17,Growth
 b5d2d5a0-60a1-4e50-9eaf-3cc7c1aedce0,02/14/2027 21:30:00,Business NZ PSI,MEDIUM,NZD,Release,0.14,Confidence
+3a1077d3-e64e-4d16-9353-f6abefd15759,02/15/2027 21:45:00,Food Price Index (MoM),HIGH,NZD,Release,0.19,Inflation
+af56de13-7e35-44f2-aa31-23553b6ae962,02/16/2027 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 4a2571c8-0311-42ef-8f9c-b531ac091247,02/17/2027 01:00:00,RBNZ Interest Rate Decision,MEDIUM,NZD,Speech,0.13,Monetary Policy
 b40d9b0b-9be1-471e-95c0-aed717b764f0,02/17/2027 01:00:00,RBNZ Monetary Policy Review,HIGH,NZD,Release,0.2,Monetary Policy
 c9e36d3f-8172-4e8e-83f3-5229e27e13d6,02/17/2027 01:00:00,RBNZ Monetary Policy Statement,MEDIUM,NZD,Speech,0.13,Monetary Policy
@@ -111,14 +114,18 @@ f21cb5bf-edc9-4471-9078-fc7d875e8020,02/17/2027 21:45:00,Producer Price Index - 
 676e8e7f-489f-43d4-9ad4-072d6971f098,02/18/2027 21:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External
 ba5ff8bd-0e34-4aef-9848-681016fbe91b,02/18/2027 21:45:00,Trade Balance NZD (MoM),MEDIUM,NZD,Release,0.11,Trade and External
 f10cffa6-5c3b-4e02-b8bf-a90639163699,02/18/2027 21:45:00,Trade Balance NZD (YoY),MEDIUM,NZD,Release,0.11,Trade and External
+abb6d5f9-b2eb-4fc6-8531-7f393251fd9c,02/22/2027 02:00:00,Credit Card Spending (YoY),HIGH,NZD,Release,0.17,Growth
 0599a757-0d3f-4439-93fa-2024f5708df5,02/23/2027 21:45:00,Retail Sales (QoQ),HIGH,NZD,Release,0.17,Growth
 aabcf065-c417-4b39-b186-82380fb1a57e,02/23/2027 21:45:00,Retail Sales ex Autos (QoQ),HIGH,NZD,Release,0.17,Growth
 35950d8a-9788-41b2-a7a5-2fc6ccbba845,02/25/2027 21:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Release,0.14,Confidence
+46a9df9f-e3f9-41a1-a354-5a5617cedec0,03/02/2027 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 c4630f1c-241d-496e-9902-ecdf4b4a2016,03/03/2027 21:45:00,Terms of Trade Index,MEDIUM,NZD,Release,0.11,Trade and External
 69bff3b9-04d6-4257-8767-8bc1521b3d2e,03/04/2027 00:00:00,ANZ Commodity Price,MEDIUM,NZD,Release,0.14,Confidence
 940bdf55-a2a5-4260-9dc7-50b44a51dea1,03/07/2027 21:45:00,Manufacturing Sales,HIGH,NZD,Release,0.17,Growth
 16d6f4da-519e-448c-9437-8286b76c0958,03/11/2027 21:30:00,Business NZ PMI,HIGH,NZD,Release,0.17,Growth
 5fa36010-84e4-4244-8a1f-50f68ab18112,03/14/2027 21:30:00,Business NZ PSI,MEDIUM,NZD,Release,0.14,Confidence
+77bb963a-25a8-4bc5-bb14-91249587e38a,03/15/2027 21:45:00,Food Price Index (MoM),HIGH,NZD,Release,0.19,Inflation
+e148ec61-2762-4d41-b676-278d355dbadb,03/16/2027 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 f0d651c9-f6e9-4321-b49a-f35f34abc268,03/16/2027 21:45:00,Current Account - GDP Ratio,MEDIUM,NZD,Release,0.11,Trade and External
 77a52779-a44f-48bd-8459-8d0c9d41c3d0,03/16/2027 21:45:00,Current Account (QoQ),MEDIUM,NZD,Release,0.11,Trade and External
 f0522f46-51fd-4a9d-b892-74c610959777,03/17/2027 21:45:00,Gross Domestic Product (QoQ),HIGH,NZD,Release,0.17,Growth
@@ -128,19 +135,25 @@ fed6c4d0-ba97-40ef-bfa0-3b57120e6799,03/18/2027 21:45:00,Exports,MEDIUM,NZD,Rele
 ee57a2a4-8964-4c13-918a-1c0c13ad6010,03/18/2027 21:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External
 356f6210-48c1-428b-be7c-b7f68e57d851,03/18/2027 21:45:00,Trade Balance NZD (MoM),MEDIUM,NZD,Release,0.11,Trade and External
 ab132a44-43ba-4607-9817-63f90f5717a9,03/18/2027 21:45:00,Trade Balance NZD (YoY),MEDIUM,NZD,Release,0.11,Trade and External
+28d544ae-7ec4-4c88-90b5-5c91fbd83163,03/22/2027 02:00:00,Credit Card Spending (YoY),HIGH,NZD,Release,0.17,Growth
 2b786c9b-87eb-43a1-97c3-d0c6447674fd,04/01/2027 21:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Release,0.14,Confidence
 184b7bb0-905f-48ab-bd65-22e27f442f97,04/03/2027 16:00:00,Daylight Saving Time Ends,HIGH,NZD,Release,0.2,Monetary Policy
 762268d8-04ee-4392-92af-1b093e473981,04/05/2027 01:00:00,ANZ Commodity Price,MEDIUM,NZD,Release,0.14,Confidence
+3c36a2c2-f2aa-41f9-a95e-2eea261e179e,04/06/2027 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 c0fb2b9a-9371-4901-bbd0-1444899d43dc,04/08/2027 22:30:00,Business NZ PMI,HIGH,NZD,Release,0.17,Growth
 b631ba0b-b1ac-4e20-9f52-47a9b6871608,04/11/2027 22:30:00,Business NZ PSI,MEDIUM,NZD,Release,0.14,Confidence
+c372310c-1ec0-4eae-aa73-ac629f64fe87,04/15/2027 22:45:00,Food Price Index (MoM),HIGH,NZD,Release,0.19,Inflation
+05e00ad9-b4f2-4806-8079-c58dc5f25348,04/20/2027 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 ec8c520b-09d4-4941-8a6b-0639cd5f12ff,04/20/2027 22:45:00,Consumer Price Index (QoQ),HIGH,NZD,Release,0.19,Inflation
 5083a563-6766-4a9a-8da2-8c61d58f5cc8,04/20/2027 22:45:00,Consumer Price Index (YoY),HIGH,NZD,Release,0.19,Inflation
 f53c634f-b578-49dd-8f93-c1ee5a2bce90,04/20/2027 22:45:00,Exports,MEDIUM,NZD,Release,0.11,Trade and External
 04687705-e540-4e0b-94a4-629897f73148,04/20/2027 22:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External
 6561e594-5cfd-404d-9bfd-d5b9ef36210e,04/20/2027 22:45:00,Trade Balance NZD (MoM),MEDIUM,NZD,Release,0.11,Trade and External
 f79a0f64-90a1-45ca-b728-bad40c5dd565,04/20/2027 22:45:00,Trade Balance NZD (YoY),MEDIUM,NZD,Release,0.11,Trade and External
+4777d5e7-8f36-460b-bc2f-13fa968fe231,04/21/2027 03:00:00,Credit Card Spending (YoY),HIGH,NZD,Release,0.17,Growth
 a0308e2b-751f-4208-8697-055bcc902be4,04/29/2027 22:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Release,0.14,Confidence
 78bdab15-d6eb-490d-9b76-4d1eb3dba4ba,05/04/2027 01:00:00,ANZ Commodity Price,MEDIUM,NZD,Release,0.14,Confidence
+1579d218-faed-4a93-ac6f-297bb60a1852,05/04/2027 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 7774b560-7b49-467b-a053-5336aef23612,05/04/2027 22:45:00,Employment Change,HIGH,NZD,Release,0.18,Labor Market
 3bc3b652-71ad-47fc-bfb1-ecbb64486833,05/04/2027 22:45:00,Labour Cost Index (QoQ),HIGH,NZD,Release,0.18,Labor Market
 c12efff0-8aac-429a-b52f-2318b6028b9a,05/04/2027 22:45:00,Labour Cost Index (YoY),HIGH,NZD,Release,0.19,Inflation
@@ -149,34 +162,48 @@ a95eefcf-99f5-47ab-a616-1cb31597a608,05/04/2027 22:45:00,Unemployment Rate,HIGH,
 9e57d203-abbf-4d5d-9cb9-ee8b1435d16d,05/13/2027 02:00:00,RBNZ Inflation Expectations (QoQ),HIGH,NZD,Release,0.19,Inflation
 80f4c547-7467-4dee-b612-cc989e82deb9,05/13/2027 22:30:00,Business NZ PMI,HIGH,NZD,Release,0.17,Growth
 078902cf-4bea-46fa-8147-de392425c99d,05/16/2027 22:30:00,Business NZ PSI,MEDIUM,NZD,Release,0.14,Confidence
+5ee68aac-691d-420c-bf5e-fcc10ef9d4b5,05/16/2027 22:45:00,Food Price Index (MoM),HIGH,NZD,Release,0.19,Inflation
+a94cfc3d-6193-416b-9240-1885c5d19306,05/18/2027 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 2a75eb9c-fdd4-4e6c-a4f2-ba789c328990,05/18/2027 22:45:00,Exports,MEDIUM,NZD,Release,0.11,Trade and External
 cf8fb787-6bef-4f6b-88e1-512e9934dd31,05/18/2027 22:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External
 118380f9-09a2-4d4a-85b3-e339ca720483,05/18/2027 22:45:00,Trade Balance NZD (MoM),MEDIUM,NZD,Release,0.11,Trade and External
 cd46e43d-0ce2-4a8e-b8d3-c04a8d193464,05/18/2027 22:45:00,Trade Balance NZD (YoY),MEDIUM,NZD,Release,0.11,Trade and External
+3413f8c5-c91e-40f3-a0a0-cfb2d4a249d5,05/20/2027 03:00:00,Credit Card Spending (YoY),HIGH,NZD,Release,0.17,Growth
 52976e64-9bae-4fdf-87f1-1b0090396c17,05/23/2027 22:45:00,Retail Sales (QoQ),HIGH,NZD,Release,0.17,Growth
 fd0c4a1e-6270-47a2-8967-822505c4d9d8,05/23/2027 22:45:00,Retail Sales ex Autos (QoQ),HIGH,NZD,Release,0.17,Growth
 bbd0ad57-ff90-43d5-a4ba-bee884f8e14e,05/27/2027 22:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Release,0.14,Confidence
 bdfec94c-5768-4451-a8b6-5cd1428bb3a6,06/03/2027 01:00:00,ANZ Commodity Price,MEDIUM,NZD,Release,0.14,Confidence
+e23b023d-24d8-439c-84b9-3a085247c112,06/08/2027 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 f2ba7b94-0841-4c1c-8fab-a5ac73dd5252,06/10/2027 22:30:00,Business NZ PMI,HIGH,NZD,Release,0.17,Growth
 d4653def-6c02-4302-8fb7-54ae026425d2,06/13/2027 22:30:00,Business NZ PSI,MEDIUM,NZD,Release,0.14,Confidence
+f2af07bf-fe1a-4ea3-9057-ef2fd410cb68,06/15/2027 22:45:00,Current Account - GDP Ratio,MEDIUM,NZD,Release,0.11,Trade and External
+36d447a5-7e25-444d-8eb3-9c2943d93439,06/15/2027 22:45:00,Current Account (QoQ),MEDIUM,NZD,Release,0.11,Trade and External
 60b6cb38-3fad-41cb-b5dc-ccdf5c308a4b,06/16/2027 21:00:00,Westpac Consumer Survey,MEDIUM,NZD,Release,0.14,Confidence
 e8496869-7eb4-416b-b987-8d85df06e2eb,06/16/2027 22:45:00,Gross Domestic Product (QoQ),HIGH,NZD,Release,0.17,Growth
 f7d19f80-06cb-44a1-8b4f-80d59524403a,06/16/2027 22:45:00,Gross Domestic Product (YoY),HIGH,NZD,Release,0.17,Growth
+8da4b65d-59a7-414a-8418-b7adccf445f2,06/17/2027 22:45:00,Food Price Index (MoM),HIGH,NZD,Release,0.19,Inflation
 8f8e9778-3173-4b2f-9f5a-409273ff9e16,06/20/2027 22:45:00,Exports,MEDIUM,NZD,Release,0.11,Trade and External
 7a5c10ad-85e4-4c24-88b3-5473e8942812,06/20/2027 22:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External
 e553cd8c-4267-40cc-a7e8-058257267b15,06/20/2027 22:45:00,Trade Balance NZD (MoM),MEDIUM,NZD,Release,0.11,Trade and External
 210cd8f1-aeec-4c02-9c2d-39f7587d1785,06/20/2027 22:45:00,Trade Balance NZD (YoY),MEDIUM,NZD,Release,0.11,Trade and External
+f2811699-39a8-4d5f-af4d-e03f1b476cc5,06/21/2027 03:00:00,Credit Card Spending (YoY),HIGH,NZD,Release,0.17,Growth
+583ab8f2-2c67-45de-bf0c-c17cee6442aa,06/22/2027 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 4d23c166-a5ac-4fa7-98bb-60c21f53081b,07/01/2027 22:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Release,0.14,Confidence
 3b87515c-f055-41b6-b0b8-c6ac9087eb9c,07/05/2027 01:00:00,ANZ Commodity Price,MEDIUM,NZD,Release,0.14,Confidence
+a701ff15-a8de-4fc4-a993-c42b3b5634f7,07/06/2027 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 64c60751-dfb6-41d7-a074-b67c36fdd07a,07/08/2027 22:30:00,Business NZ PMI,HIGH,NZD,Release,0.17,Growth
 832236ba-5316-492f-9c03-ff255d855af8,07/11/2027 22:30:00,Business NZ PSI,MEDIUM,NZD,Release,0.14,Confidence
+1b4e26b7-0db6-4dd5-a72d-a585ec9a4aea,07/15/2027 22:45:00,Food Price Index (MoM),HIGH,NZD,Release,0.19,Inflation
 02ed53ad-8e30-4544-b43d-0f75af56f380,07/19/2027 22:45:00,Consumer Price Index (QoQ),HIGH,NZD,Release,0.19,Inflation
 3afc794a-806a-49e9-bce2-ff281dfded61,07/19/2027 22:45:00,Consumer Price Index (YoY),HIGH,NZD,Release,0.19,Inflation
+c48c34ab-f387-45d6-ab39-c80569a413ce,07/20/2027 03:00:00,Credit Card Spending (YoY),HIGH,NZD,Release,0.17,Growth
+5c07185e-89d2-4741-abcd-e5459cf57b06,07/20/2027 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 38aab7d1-e4e0-4931-9dd3-19e4e3e927e1,07/20/2027 22:45:00,Exports,MEDIUM,NZD,Release,0.11,Trade and External
 a0230c49-0c30-4de9-b0c1-bca5ac2837ba,07/20/2027 22:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External
 f056fb28-9c86-42ee-b8fc-f6b7eed7291f,07/20/2027 22:45:00,Trade Balance NZD (MoM),MEDIUM,NZD,Release,0.11,Trade and External
 36dd8931-1b24-41dc-afa3-250a0ffbe2cc,07/20/2027 22:45:00,Trade Balance NZD (YoY),MEDIUM,NZD,Release,0.11,Trade and External
 a84aba6e-c16c-4764-bdd4-f3902d877688,07/29/2027 22:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Release,0.14,Confidence
+3ac965a5-6ac6-46da-979e-721b3b9d107c,08/03/2027 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 310d2379-d549-4807-9280-1648b288c557,08/03/2027 22:45:00,Employment Change,HIGH,NZD,Release,0.18,Labor Market
 907d7d63-0e64-4fca-8fb4-dd0a31aeef11,08/03/2027 22:45:00,Labour Cost Index (QoQ),HIGH,NZD,Release,0.18,Labor Market
 025f7c01-f5eb-46bd-bf09-07fa66adf0e4,08/03/2027 22:45:00,Labour Cost Index (YoY),HIGH,NZD,Release,0.19,Inflation
@@ -185,32 +212,45 @@ cbd5ef3b-fe83-4019-a2a2-219abb9c0733,08/03/2027 22:45:00,Participation Rate,HIGH
 45090cd1-7596-4042-a6f3-05d703562f64,08/05/2027 01:00:00,ANZ Commodity Price,MEDIUM,NZD,Release,0.14,Confidence
 18b4fa69-0c7f-4575-9350-24eefcb3e9b1,08/12/2027 22:30:00,Business NZ PMI,HIGH,NZD,Release,0.17,Growth
 e822f14e-48b5-42b8-a236-e20f081d9c3e,08/15/2027 22:30:00,Business NZ PSI,MEDIUM,NZD,Release,0.14,Confidence
+3fefdc6a-caf6-4bb1-b048-11e16a2becf3,08/16/2027 22:45:00,Food Price Index (MoM),HIGH,NZD,Release,0.19,Inflation
+39ac82ab-0222-428e-9a64-12ffd504c656,08/17/2027 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 a5e2c4e2-8ef6-49cc-a96a-410b832d9451,08/19/2027 22:45:00,Exports,MEDIUM,NZD,Release,0.11,Trade and External
 84a0b69e-ab89-4b26-ae48-8e3399c68a8a,08/19/2027 22:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External
 fc0c3f09-1005-492a-9d65-ce92e8acf8cc,08/19/2027 22:45:00,Trade Balance NZD (MoM),MEDIUM,NZD,Release,0.11,Trade and External
 4cc21abe-ec29-4676-b498-c6030147b29d,08/19/2027 22:45:00,Trade Balance NZD (YoY),MEDIUM,NZD,Release,0.11,Trade and External
+ed4a9c4e-ce12-4a39-92ca-7208b63462e0,08/20/2027 03:00:00,Credit Card Spending (YoY),HIGH,NZD,Release,0.17,Growth
 43a84864-b68b-4ded-b33e-765939458f96,08/22/2027 22:45:00,Retail Sales (QoQ),HIGH,NZD,Release,0.17,Growth
 c4e045c0-ef3a-4cee-af92-227b1c812134,08/22/2027 22:45:00,Retail Sales ex Autos (QoQ),HIGH,NZD,Release,0.17,Growth
 1d9d20be-ae5b-4e29-abb3-d006d603475a,08/26/2027 22:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Release,0.14,Confidence
 6cebcd78-a7c7-4e7c-8c6f-01c8e4f77681,09/06/2027 01:00:00,ANZ Commodity Price,MEDIUM,NZD,Release,0.14,Confidence
+480047b7-d57d-4bbf-939f-25e7393fe98e,09/07/2027 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 10f4b3d2-fdff-4498-8cda-2d66000a9880,09/09/2027 22:30:00,Business NZ PMI,HIGH,NZD,Release,0.17,Growth
 fa76d2ec-280e-4738-b8dc-980394730d10,09/12/2027 22:30:00,Business NZ PSI,MEDIUM,NZD,Release,0.14,Confidence
+22275de0-f360-4713-81f5-cb59b3246fa7,09/14/2027 22:45:00,Current Account - GDP Ratio,MEDIUM,NZD,Release,0.11,Trade and External
+8d883c8d-403f-4928-bac3-7a0c745b9cbd,09/14/2027 22:45:00,Current Account (QoQ),MEDIUM,NZD,Release,0.11,Trade and External
 48f1fa57-8464-4c2e-ad0e-373230cdc378,09/15/2027 21:00:00,Westpac Consumer Survey,MEDIUM,NZD,Release,0.14,Confidence
 512ced72-02e3-47bc-8288-d99a2427b57e,09/15/2027 22:45:00,Gross Domestic Product (QoQ),HIGH,NZD,Release,0.17,Growth
 1c370589-006b-4a18-9702-d1365533aac5,09/15/2027 22:45:00,Gross Domestic Product (YoY),HIGH,NZD,Release,0.17,Growth
+56641159-07a3-4a95-b5fb-a62edb67d097,09/16/2027 22:45:00,Food Price Index (MoM),HIGH,NZD,Release,0.19,Inflation
 d09520f7-05a7-41be-b8d5-3024e19c0f14,09/19/2027 22:45:00,Exports,MEDIUM,NZD,Release,0.11,Trade and External
 4672b0a7-9c65-4848-b1b4-4056e5611d8c,09/19/2027 22:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External
 bc3eca4c-9050-4959-95e2-ed52b74faa86,09/19/2027 22:45:00,Trade Balance NZD (MoM),MEDIUM,NZD,Release,0.11,Trade and External
 55d0b091-4a7a-4e67-8f62-fbcab652c596,09/19/2027 22:45:00,Trade Balance NZD (YoY),MEDIUM,NZD,Release,0.11,Trade and External
+37e10522-05fe-4923-bc37-e1a709a46205,09/21/2027 03:00:00,Credit Card Spending (YoY),HIGH,NZD,Release,0.17,Growth
+7f2691e7-7bd5-4c60-91b8-0ebf67ff5bc5,09/21/2027 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 14300a88-08bd-4991-b67a-c9d688584ec7,09/25/2027 16:00:00,Daylight Saving Time,HIGH,NZD,Release,0.2,Monetary Policy
 d394458f-7fd8-4746-90c1-4a9442ec9dec,09/30/2027 21:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Release,0.14,Confidence
 3cef0d79-169f-463d-9b71-21ff963189d9,10/05/2027 00:00:00,ANZ Commodity Price,MEDIUM,NZD,Release,0.14,Confidence
+8f27572c-0334-43a8-a1fa-259b78836dfb,10/05/2027 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 ba8d4572-c8d7-44be-8bf2-1b945d92549e,10/14/2027 21:30:00,Business NZ PMI,HIGH,NZD,Release,0.17,Growth
 63c491ee-a176-4b47-b792-e5f3b0c17d02,10/17/2027 21:30:00,Business NZ PSI,MEDIUM,NZD,Release,0.14,Confidence
+d298f674-a724-46ab-bc12-6bd8a3103beb,10/17/2027 21:45:00,Food Price Index (MoM),HIGH,NZD,Release,0.19,Inflation
+8909a928-a553-402d-802e-b80a8c2e2d11,10/19/2027 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 2bc90d6f-d4a3-4673-a06a-ebf08487c877,10/19/2027 21:45:00,Exports,MEDIUM,NZD,Release,0.11,Trade and External
 ed4035c3-d64e-4781-9167-b35906f64064,10/19/2027 21:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External
 53da1634-e19d-44b9-8d11-c210e172130f,10/19/2027 21:45:00,Trade Balance NZD (MoM),MEDIUM,NZD,Release,0.11,Trade and External
 48fb781a-dd06-4600-be4c-7b190714fc56,10/19/2027 21:45:00,Trade Balance NZD (YoY),MEDIUM,NZD,Release,0.11,Trade and External
 117be523-7168-43dc-bba3-f59092d4decd,10/20/2027 21:45:00,Consumer Price Index (QoQ),HIGH,NZD,Release,0.19,Inflation
 09cf7ad0-631a-4e94-bded-e9200e94624c,10/20/2027 21:45:00,Consumer Price Index (YoY),HIGH,NZD,Release,0.19,Inflation
+d8d5bea4-1e45-4788-bae3-f6a7712d050d,10/21/2027 02:00:00,Credit Card Spending (YoY),HIGH,NZD,Release,0.17,Growth
 4edaf0a1-ebaf-47ae-9435-fbc7ea96c6ed,10/28/2027 21:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD,Release,0.14,Confidence

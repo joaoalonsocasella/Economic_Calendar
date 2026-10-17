@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-06fd2749-3087-492e-bb4c-09c94b329315,10/16/2026 09:00:00,Consumer Price Index (EU Norm) (MoM),HIGH,EUR,Release,0.807,Inflation
-e214f95c-4253-44ca-9b7e-eb61582caeb7,10/16/2026 09:00:00,Consumer Price Index (EU Norm) (YoY),HIGH,EUR,Release,0.807,Inflation
-1f6c2480-eff3-44a2-a75d-6319351693b8,10/16/2026 09:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-534e3a65-df13-4e7c-a4af-8e71b1d62ddd,10/16/2026 09:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-22dfa5da-5ebe-4d3d-8b52-c46eabdbaf89,10/16/2026 10:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
-cc3b951b-7798-4c26-af22-13e81dfd230a,10/16/2026 10:00:00,Trade Balance EU,HIGH,EUR,Release,0.468,Trade and External
 e5425a10-beb6-43da-8c5a-2ed0feb847ac,10/28/2026 09:00:00,Industrial Sales n.s.a. (YoY),HIGH,EUR,Release,0.722,Growth
 100fdc3c-37f7-43f2-8cbf-6217dece8191,10/28/2026 09:00:00,Industrial Sales s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 e072b798-13f0-474a-9e88-888e79bf7e70,10/28/2026 10:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation

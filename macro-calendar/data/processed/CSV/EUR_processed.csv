@@ -1,12 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a8a9e1c6-8750-4244-8b15-bc31e0602049,10/16/2026 02:30:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-f1f9a2de-bc5a-44d5-b34c-3ecbf391b11d,10/16/2026 09:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
-81d87d8d-dcd1-4dc9-84fe-943829c6c25e,10/16/2026 09:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.807,Inflation
-aa1463fc-c6ea-45cb-98dd-b052bb5d274a,10/16/2026 09:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
-d5891534-4292-4cda-a4e5-3dfed8b4ef35,10/16/2026 09:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
-72a466e3-feea-45a0-9bf6-9be86d4305e2,10/16/2026 09:00:00,Trade Balance n.s.a.,HIGH,EUR,Release,0.468,Trade and External
-00e21f83-7cff-444c-aa57-c68d3592c09d,10/16/2026 09:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External
-3a2bfd97-f6c2-4f85-8a87-eb4f31738131,10/16/2026 19:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 02b7a8ae-e552-47b6-b109-5ccdd6e0c69c,10/19/2026 01:20:00,ECB's Sleijpen speech,HIGH,EUR,Speech,0.552,Monetary Policy
 13738bdc-c51c-4738-ba2a-a8427cfc3f5c,10/19/2026 01:30:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
 6a8a4696-e61e-48c0-911c-72993e69ec88,10/19/2026 06:00:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy

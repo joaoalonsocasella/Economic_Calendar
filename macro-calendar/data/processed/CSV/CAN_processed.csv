@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-1c994647-f12e-46e5-96a5-46256c25d120,10/16/2026 04:15:00,BoC's Governor Macklem speech,MEDIUM,CAD,Speech,0.13,Monetary Policy
-6b8b796d-75e9-4f1b-a9fa-033ffa44aefb,10/16/2026 12:15:00,Housing Starts s.a (YoY),LOW,CAD,Release,0.07,Housing
-f6f8cf22-fd8f-4675-a8f4-e54f77ce387a,10/16/2026 12:30:00,Canadian Portfolio Investment in Foreign Securities,MEDIUM,CAD,Release,0.11,Trade and External
-4af05aeb-bd90-46da-a6e8-94b957cc3663,10/16/2026 12:30:00,Foreign Portfolio Investment in Canadian Securities,MEDIUM,CAD,Release,0.11,Trade and External
 0bcef3c0-08bc-45fd-9e3b-dea851b2593f,10/19/2026 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
 5c23a309-494b-46fe-bdd8-ddbde0e05ca3,10/19/2026 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
 d33e41dd-91cb-4555-9934-6446bea25438,10/19/2026 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
