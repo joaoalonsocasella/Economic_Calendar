@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0bcef3c0-08bc-45fd-9e3b-dea851b2593f,10/19/2026 12:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
-5c23a309-494b-46fe-bdd8-ddbde0e05ca3,10/19/2026 12:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
-d33e41dd-91cb-4555-9934-6446bea25438,10/19/2026 12:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
-1c13d46d-f8ef-4c5e-9c39-ab6bf9a15c73,10/19/2026 12:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
-47a521e9-988a-4932-9cf4-0658ef86a122,10/19/2026 12:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
-4a9d7ee1-6761-485a-8372-d20a7d73cace,10/19/2026 14:30:00,Bank of Canada Business Outlook Survey,MEDIUM,CAD,Release,0.14,Confidence
 02f8a701-2f65-4850-8657-4f2314556d3a,10/22/2026 12:30:00,Employment Insurance Beneficiaries Change (MoM),HIGH,CAD,Release,0.18,Labor Market
 69f0509c-039f-4652-928c-288698aaba17,10/22/2026 12:30:00,Industrial Product Price (MoM),HIGH,CAD,Release,0.19,Inflation
 16a180e8-945e-4dca-a414-c288af4a10d4,10/22/2026 12:30:00,New Housing Price Index (MoM),LOW,CAD,Release,0.07,Housing

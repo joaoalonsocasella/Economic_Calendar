@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-02b7a8ae-e552-47b6-b109-5ccdd6e0c69c,10/19/2026 01:20:00,ECB's Sleijpen speech,HIGH,EUR,Speech,0.552,Monetary Policy
-13738bdc-c51c-4738-ba2a-a8427cfc3f5c,10/19/2026 01:30:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
-6a8a4696-e61e-48c0-911c-72993e69ec88,10/19/2026 06:00:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy
 4476865d-a0af-4578-a103-b1d5be6cd949,10/20/2026 08:00:00,Current Account n.s.a,HIGH,EUR,Release,0.468,Trade and External
 a916fb73-87d2-4e75-a816-607a90a4ed33,10/20/2026 08:00:00,Current Account s.a,HIGH,EUR,Release,0.468,Trade and External
 35dad185-c71a-4a6f-b004-850587ed2a06,10/20/2026 09:00:00,Construction Output  s.a (MoM),HIGH,EUR,Release,0.297,Housing
