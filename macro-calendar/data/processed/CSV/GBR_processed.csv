@@ -1,11 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-cbf57517-1655-4bda-b85f-db6b0833e2cb,10/20/2026 06:00:00,Average Earnings Excluding Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
-983217b1-2999-4794-8460-993f5903d30c,10/20/2026 06:00:00,Average Earnings Including Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
-5ccf44c5-efff-4308-afcb-a4c5fabc10a2,10/20/2026 06:00:00,Claimant Count Change,HIGH,GBP,Release,0.18,Labor Market
-1eeb3b04-6a3f-40be-9102-7b70cccd390c,10/20/2026 06:00:00,Claimant Count Rate,HIGH,GBP,Release,0.18,Labor Market
-5eec6003-85fa-431f-91e9-e5aca96fa611,10/20/2026 06:00:00,Employment Change (3M),HIGH,GBP,Release,0.18,Labor Market
-054d9476-966a-4cd1-8578-0871cd59baec,10/20/2026 06:00:00,ILO Unemployment Rate (3M),HIGH,GBP,Release,0.18,Labor Market
-8d9dea19-8e65-4b2e-be4a-a2e8aa4c6999,10/20/2026 09:30:00,10-y Bond Auction,LOW,GBP,Release,0.09,Money and Credit
 548d098a-b5a5-42dd-b916-446e1f636e92,10/21/2026 06:00:00,Consumer Price Index (MoM),HIGH,GBP,Release,0.19,Inflation
 1d330f51-3349-4feb-8dd9-0567b74c7e46,10/21/2026 06:00:00,Consumer Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
 e4fb558f-0675-4631-adc4-066bf13fba21,10/21/2026 06:00:00,Core Consumer Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
@@ -19,6 +12,7 @@ fd67442c-cf5b-4fd5-a990-a731732b2e18,10/21/2026 06:00:00,Public Sector Net Borro
 29a18024-8473-4ff8-a3e4-59c51a67224d,10/21/2026 06:00:00,Retail Price Index (MoM),HIGH,GBP,Release,0.19,Inflation
 bf0d51a4-4c0b-4a24-af74-d55d44b20ced,10/21/2026 06:00:00,Retail Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
 db041505-fc75-45e5-a6a4-ef5a8be25c02,10/21/2026 08:30:00,DCLG House Price Index (YoY),LOW,GBP,Release,0.07,Housing
+cd263449-2982-40f2-8030-1737f8553cfc,10/21/2026 13:00:00,BoE's Governor Bailey speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 f185ceb4-2a30-4237-b4cd-9fcf20c8bcac,10/22/2026 10:50:00,BoE's Governor Bailey speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 b8907aa7-59b3-4e76-8072-c7a1efc9121b,10/22/2026 23:01:00,GfK Consumer Confidence,MEDIUM,GBP,Release,0.14,Confidence
 20649167-422a-4f73-be26-e8fa16e19360,10/23/2026 06:00:00,Retail Sales (MoM),HIGH,GBP,Release,0.17,Growth

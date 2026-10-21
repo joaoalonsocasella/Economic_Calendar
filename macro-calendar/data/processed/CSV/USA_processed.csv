@@ -1,13 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-770e9c28-0a7f-485e-b31b-ddacbe262639,10/20/2026 12:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
-4a1649f8-52cb-4136-9d62-fe6dd7d2b539,10/20/2026 12:30:00,Building Permits (MoM),LOW,USD,Release,0.07,Housing
-75fe45d3-0c1d-4e6d-b284-ac2506246f5b,10/20/2026 12:30:00,Building Permits Change,LOW,USD,Release,0.07,Housing
-f9a0c5b3-62e6-48c3-a788-c1a579aa6c62,10/20/2026 12:30:00,Housing Starts (MoM),LOW,USD,Release,0.07,Housing
-e0d72288-19aa-42cc-9d8a-4bfaa051745b,10/20/2026 12:30:00,Housing Starts Change,LOW,USD,Release,0.07,Housing
-e6aec4f5-d117-40e6-80cd-52fb069b34c9,10/20/2026 12:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
-429976d3-2a02-4580-b407-2c669cc85153,10/20/2026 14:00:00,Pending Home Sales (MoM),LOW,USD,Release,0.07,Housing
-c2667ece-277e-4f43-bc5a-b6291297e6aa,10/20/2026 14:00:00,Pending Home Sales (YoY),LOW,USD,Release,0.07,Housing
-f271341c-9693-428a-81cd-cb8e1bf3c373,10/20/2026 20:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 782485cf-22b8-466a-9eda-868d52a6fee5,10/21/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 4fed02f5-bac3-4552-9a1e-40438e609d02,10/21/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
 f48c3675-4daa-4107-bc7e-9ef5c29f6131,10/21/2026 14:30:00,EIA Distillate Stocks Change,HIGH,USD,Release,0.18,Labor Market
