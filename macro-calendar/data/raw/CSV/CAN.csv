@@ -1,9 +1,9 @@
 Id,Start,Name,Impact,Currency
 02f8a701-2f65-4850-8657-4f2314556d3a,10/22/2026 12:30:00,Employment Insurance Beneficiaries Change (MoM),LOW,CAD
 69f0509c-039f-4652-928c-288698aaba17,10/22/2026 12:30:00,Industrial Product Price (MoM),LOW,CAD
-16a180e8-945e-4dca-a414-c288af4a10d4,10/22/2026 12:30:00,New Housing Price Index (MoM),LOW,CAD
 e5549957-0b1c-4971-ab78-a18be321b2f7,10/22/2026 12:30:00,New Housing Price Index (YoY),LOW,CAD
 f8112d61-f21a-4fe2-b090-f45fd5eef52b,10/22/2026 12:30:00,Raw Material Price Index,LOW,CAD
+16a180e8-945e-4dca-a414-c288af4a10d4,10/22/2026 13:00:00,New Housing Price Index (MoM),LOW,CAD
 f9a81603-976b-45f5-af2f-770872d5888f,10/23/2026 12:30:00,Retail Sales (MoM),MEDIUM,CAD
 1705a4f3-a14b-4c72-ab11-e69900af4e7b,10/23/2026 12:30:00,Retail Sales ex Autos (MoM),MEDIUM,CAD
 bfcdec51-c026-48af-9b69-f5b5ba482bab,10/28/2026 13:45:00,BoC Interest Rate Decision,HIGH,CAD
@@ -31,6 +31,9 @@ ce7f0564-b42e-4323-bc4a-a8711ae8ff67,11/13/2026 13:30:00,Wholesale Sales (MoM),L
 47f86027-6f95-4df4-a37b-e0021a0e0bc0,11/16/2026 13:30:00,Consumer Price Index - Core (MoM),LOW,CAD
 c09515ce-0696-438b-af8f-268403527d8e,11/16/2026 13:30:00,Consumer Price Index (MoM),MEDIUM,CAD
 c85052b0-d875-47c5-8612-1a1689342c55,11/16/2026 13:30:00,Consumer Price Index (YoY),HIGH,CAD
+6feab3fd-1b05-444a-bf1a-5224a3564031,11/16/2026 13:30:00,CPI Common (YoY),MEDIUM,CAD
+98e0219d-65af-4f10-ba97-e6113e92d44d,11/16/2026 13:30:00,CPI Median (YoY),MEDIUM,CAD
+f1b49e2d-13a8-4fff-b1fe-0a782c4c8a82,11/16/2026 13:30:00,CPI Trimmed Mean (YoY),MEDIUM,CAD
 a8215254-5e1b-45fe-9bb0-c1a04693f6a5,11/17/2026 13:30:00,Canadian Portfolio Investment in Foreign Securities,LOW,CAD
 0b97f565-329f-435e-9b02-0a62ab5eec0f,11/17/2026 13:30:00,Foreign Portfolio Investment in Canadian Securities,LOW,CAD
 d488ab50-a011-48e9-9512-6a1cc44d9a45,11/18/2026 13:15:00,Housing Starts s.a (YoY),LOW,CAD
@@ -65,6 +68,9 @@ c235a384-f213-45bc-9587-cb96083c6ac6,12/14/2026 13:30:00,BoC Consumer Price Inde
 12df34a2-2415-4bee-bc6d-6447be108b99,12/14/2026 13:30:00,Consumer Price Index - Core (MoM),LOW,CAD
 d2e287ff-3a79-4cd8-bffb-7de933225962,12/14/2026 13:30:00,Consumer Price Index (MoM),MEDIUM,CAD
 06af4619-cac9-43e0-91ca-1c489c9c1313,12/14/2026 13:30:00,Consumer Price Index (YoY),HIGH,CAD
+20000845-4f8a-48e2-979a-d3257064ae5d,12/14/2026 13:30:00,CPI Common (YoY),MEDIUM,CAD
+77e5ee31-286f-4003-8720-78cc68de5a5d,12/14/2026 13:30:00,CPI Median (YoY),MEDIUM,CAD
+39f74e98-d021-4f3b-8ea9-51a6b51737fe,12/14/2026 13:30:00,CPI Trimmed Mean (YoY),MEDIUM,CAD
 35fa7d50-ddc0-4ad4-a3ed-ee6de98aebef,12/14/2026 13:30:00,Manufacturing Sales (MoM),LOW,CAD
 0634cac9-cd6c-43ac-8fce-23d61152fb62,12/16/2026 13:15:00,Housing Starts s.a (YoY),LOW,CAD
 c5dedb33-8eaf-4808-a1e2-65bd41a7948a,12/16/2026 13:30:00,Wholesale Sales (MoM),LOW,CAD
@@ -99,6 +105,9 @@ b877741b-832f-4a66-aff4-de31eaee65d7,01/18/2027 13:30:00,Canadian Portfolio Inve
 f04756ee-75e5-46f2-ab35-99c262103765,01/18/2027 13:30:00,Consumer Price Index - Core (MoM),LOW,CAD
 5ddd17c5-a1bd-4dbe-a9bf-4bb348a5975e,01/18/2027 13:30:00,Consumer Price Index (MoM),MEDIUM,CAD
 01af2b58-d689-4d7a-98d0-775202fb6b34,01/18/2027 13:30:00,Consumer Price Index (YoY),HIGH,CAD
+cdbd7171-f37e-43dc-8b28-324fd93f0124,01/18/2027 13:30:00,CPI Common (YoY),MEDIUM,CAD
+8d52f7cd-3c44-4264-9f03-6ee8c36d309e,01/18/2027 13:30:00,CPI Median (YoY),MEDIUM,CAD
+38c081ee-b040-4683-a919-8f1f2dabc935,01/18/2027 13:30:00,CPI Trimmed Mean (YoY),MEDIUM,CAD
 65c65c05-3089-4114-aee3-3ff928bb9ee2,01/18/2027 13:30:00,Foreign Portfolio Investment in Canadian Securities,LOW,CAD
 231674a4-2abe-4974-a54a-59e6223841c6,01/18/2027 15:30:00,Bank of Canada Business Outlook Survey,MEDIUM,CAD
 4990959f-b09a-40e2-b342-0ec18563258a,01/21/2027 13:30:00,Employment Insurance Beneficiaries Change (MoM),LOW,CAD
@@ -132,6 +141,9 @@ da5d3c3d-632f-4177-af06-d13dd7fa4255,02/12/2027 13:30:00,Building Permits (MoM),
 44b3f215-4c38-442f-986c-636c1fb232e0,02/16/2027 13:30:00,Consumer Price Index - Core (MoM),LOW,CAD
 ea12d622-adbc-4e16-83e2-e5ac054716ef,02/16/2027 13:30:00,Consumer Price Index (MoM),MEDIUM,CAD
 49f6c682-842f-4809-b812-aaed5fd94460,02/16/2027 13:30:00,Consumer Price Index (YoY),HIGH,CAD
+c6a5423e-7def-420c-8bd0-a3764a56a05f,02/16/2027 13:30:00,CPI Common (YoY),MEDIUM,CAD
+056ca522-2ec1-4da4-afa1-e8f24060c1e4,02/16/2027 13:30:00,CPI Median (YoY),MEDIUM,CAD
+2161c172-bcf5-4ccf-ae79-f53268d75e9f,02/16/2027 13:30:00,CPI Trimmed Mean (YoY),MEDIUM,CAD
 f2592a32-9ed5-4ccc-9136-49b0e8184782,02/16/2027 13:30:00,Wholesale Sales (MoM),LOW,CAD
 4977f06a-0c1e-45ca-88e1-bf7e2387ab9d,02/17/2027 13:30:00,Canadian Portfolio Investment in Foreign Securities,LOW,CAD
 34198c0e-e3a9-45b2-aa00-13d6e85c3dd1,02/17/2027 13:30:00,Foreign Portfolio Investment in Canadian Securities,LOW,CAD
@@ -164,6 +176,9 @@ c2dc63f1-edf5-42ac-b1ed-ee18a05b221d,03/15/2027 12:30:00,BoC Consumer Price Inde
 02fc7549-3d5a-4b30-ac17-2417f42c5fef,03/15/2027 12:30:00,Consumer Price Index - Core (MoM),LOW,CAD
 4ac168e3-c256-43cb-a187-c27cb1022067,03/15/2027 12:30:00,Consumer Price Index (MoM),MEDIUM,CAD
 152ce02b-15ee-4219-86ca-5537ab50b56d,03/15/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD
+14c52533-a7c4-4525-9f74-2a9fb4cfa6ce,03/15/2027 12:30:00,CPI Common (YoY),MEDIUM,CAD
+cf049051-53a6-4b7c-8e90-7c224786a752,03/15/2027 12:30:00,CPI Median (YoY),MEDIUM,CAD
+8c2fe1ce-8548-49a4-8fdd-21c741d15623,03/15/2027 12:30:00,CPI Trimmed Mean (YoY),MEDIUM,CAD
 87610ecd-2282-4bd1-a4d4-e782cd3dd0c8,03/15/2027 12:30:00,Manufacturing Sales (MoM),LOW,CAD
 e972c7d8-ea33-43c6-b020-3577854cce3b,03/16/2027 12:15:00,Housing Starts s.a (YoY),LOW,CAD
 490f08a5-97bb-4dc0-ad44-9b80bbbe01d8,03/16/2027 12:30:00,Wholesale Sales (MoM),LOW,CAD
@@ -202,6 +217,9 @@ a899c6fd-14f9-4ee1-a1b6-921c4099d99b,04/19/2027 12:30:00,BoC Consumer Price Inde
 c2f4f454-7816-41d2-8017-b5118eb5adba,04/19/2027 12:30:00,Consumer Price Index - Core (MoM),LOW,CAD
 dea2a8ff-116b-4952-b4c0-1eb1c10d56b4,04/19/2027 12:30:00,Consumer Price Index (MoM),MEDIUM,CAD
 e0ac34e1-5aaa-4119-9528-55402b210c04,04/19/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD
+ce2cd43c-6351-45f4-b4d8-fe078b129d08,04/19/2027 12:30:00,CPI Common (YoY),MEDIUM,CAD
+589e3de0-3c36-422d-8ac5-ef3f79d932e0,04/19/2027 12:30:00,CPI Median (YoY),MEDIUM,CAD
+6be34968-3c64-4396-9239-b86a7633c503,04/19/2027 12:30:00,CPI Trimmed Mean (YoY),MEDIUM,CAD
 47fe639b-7171-4fb5-a339-f0342411798b,04/19/2027 14:30:00,Bank of Canada Business Outlook Survey,MEDIUM,CAD
 efd0dc38-7991-40ed-b9e4-870cfaa1bba4,04/20/2027 12:30:00,New Housing Price Index (MoM),LOW,CAD
 e102a3c8-9277-4950-ab68-954c21f10d0e,04/20/2027 12:30:00,New Housing Price Index (YoY),LOW,CAD
@@ -235,6 +253,9 @@ b1422426-6417-4eb5-bfc9-fc24ebe03d2a,05/17/2027 12:30:00,Canadian Portfolio Inve
 639a6ac2-d16a-42eb-92d4-94dda1c77199,05/17/2027 12:30:00,Consumer Price Index - Core (MoM),LOW,CAD
 0c89338c-94b8-4436-a0fb-bc858d9632a1,05/17/2027 12:30:00,Consumer Price Index (MoM),MEDIUM,CAD
 7466c6a3-378f-481c-ae5d-2092662dfa64,05/17/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD
+3ca49072-cfd3-431a-a361-a683f65f158e,05/17/2027 12:30:00,CPI Common (YoY),MEDIUM,CAD
+c84be16a-e350-4d50-987d-18da802780b9,05/17/2027 12:30:00,CPI Median (YoY),MEDIUM,CAD
+fde62718-f951-4e9a-a6e2-3d76ae4c42d1,05/17/2027 12:30:00,CPI Trimmed Mean (YoY),MEDIUM,CAD
 c5dcf910-f76a-4fc8-8766-791f594144b8,05/17/2027 12:30:00,Foreign Portfolio Investment in Canadian Securities,LOW,CAD
 bd7328d7-a878-466f-b087-ec4262a7afd6,05/18/2027 12:15:00,Housing Starts s.a (YoY),LOW,CAD
 15db5467-651e-4d8a-804d-f3db8fcb81f2,05/19/2027 12:30:00,New Housing Price Index (MoM),LOW,CAD
@@ -273,6 +294,9 @@ d48e9af9-18f3-40a8-93d4-799ad028ec1a,06/17/2027 12:30:00,BoC Consumer Price Inde
 b143f026-7a39-43f5-9475-f4818f87137b,06/17/2027 12:30:00,Consumer Price Index - Core (MoM),LOW,CAD
 08198c5c-b0c3-46eb-825e-8d17af60ce7a,06/17/2027 12:30:00,Consumer Price Index (MoM),MEDIUM,CAD
 fb2ee0ce-f862-4962-a6fe-06baa163770c,06/17/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD
+f58823fe-b67c-4368-b660-3b0e562bc271,06/17/2027 12:30:00,CPI Common (YoY),MEDIUM,CAD
+fbeea308-d0ee-4ead-8fe2-797630cf3444,06/17/2027 12:30:00,CPI Median (YoY),MEDIUM,CAD
+74d1e991-f577-4968-ab6f-8315317c2d83,06/17/2027 12:30:00,CPI Trimmed Mean (YoY),MEDIUM,CAD
 ae4e39a4-5622-4ab0-a4a0-9992607ce450,06/17/2027 12:30:00,Employment Insurance Beneficiaries Change (MoM),LOW,CAD
 467ce61f-6da9-45b1-8a11-f4c2fe5231ce,06/17/2027 12:30:00,New Housing Price Index (MoM),LOW,CAD
 4dd09f03-e4de-4281-a8da-2168f1a8ff7a,06/17/2027 12:30:00,New Housing Price Index (YoY),LOW,CAD
@@ -308,6 +332,9 @@ b19fd9f1-581c-4f03-a6e2-59b7f501ce0e,07/20/2027 12:30:00,BoC Consumer Price Inde
 e42b7731-211d-4001-9580-373f42bbd8af,07/20/2027 12:30:00,Consumer Price Index - Core (MoM),LOW,CAD
 02fc2214-9249-4363-a23e-022873407049,07/20/2027 12:30:00,Consumer Price Index (MoM),MEDIUM,CAD
 50cac9c2-cdea-4b48-8fa2-ff778262b1b2,07/20/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD
+fd63970c-1ebc-4acd-90dc-fd442e5e4147,07/20/2027 12:30:00,CPI Common (YoY),MEDIUM,CAD
+7f20c6b6-f2fa-415e-8d9c-dfe373d97d20,07/20/2027 12:30:00,CPI Median (YoY),MEDIUM,CAD
+08221852-ad4b-425d-824f-0fe9717fab46,07/20/2027 12:30:00,CPI Trimmed Mean (YoY),MEDIUM,CAD
 e5a10db4-31b7-4f27-b181-e3001c2ca177,07/20/2027 12:30:00,Industrial Product Price (MoM),LOW,CAD
 ca27b5bf-77ee-4d62-88fc-31b7dc48b512,07/20/2027 12:30:00,New Housing Price Index (MoM),LOW,CAD
 93f149e8-e496-46a1-a70c-8ec64cc8396c,07/20/2027 12:30:00,New Housing Price Index (YoY),LOW,CAD
@@ -338,6 +365,9 @@ fceafa84-c64e-41dc-9051-a4d17819e194,08/19/2027 12:30:00,BoC Consumer Price Inde
 0b4c995a-ce61-4257-8192-65ce48b14d35,08/19/2027 12:30:00,Consumer Price Index - Core (MoM),LOW,CAD
 771671d2-2aa3-4eb7-b0ff-6b1a60b788f5,08/19/2027 12:30:00,Consumer Price Index (MoM),MEDIUM,CAD
 97c48c60-956f-4e16-bfd1-1cfdac91fed0,08/19/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD
+8474d554-b7f8-4e42-9ae0-fcf67858d5eb,08/19/2027 12:30:00,CPI Common (YoY),MEDIUM,CAD
+7438fe60-6a3b-41c9-9fb8-d031c3b1e7a0,08/19/2027 12:30:00,CPI Median (YoY),MEDIUM,CAD
+239ab1d1-0c01-4452-b910-5c977a291c0e,08/19/2027 12:30:00,CPI Trimmed Mean (YoY),MEDIUM,CAD
 fec738a2-df3b-4830-b5f6-8f41fb2e1a3d,08/19/2027 12:30:00,Employment Insurance Beneficiaries Change (MoM),LOW,CAD
 b6cc8c55-7f5e-45f7-8f01-203bd7deb45f,08/19/2027 12:30:00,Industrial Product Price (MoM),LOW,CAD
 6a8f5490-49a6-48e3-93b5-c24170ddfd2e,08/19/2027 12:30:00,New Housing Price Index (MoM),LOW,CAD
@@ -377,6 +407,9 @@ ca415093-d5f4-463e-b883-e99aba964756,09/20/2027 12:30:00,BoC Consumer Price Inde
 e315b9cd-4fcd-4efd-aab9-ce8f2439394c,09/20/2027 12:30:00,Consumer Price Index - Core (MoM),LOW,CAD
 ff9b2eac-649b-4cee-b923-8c2836bcba43,09/20/2027 12:30:00,Consumer Price Index (MoM),MEDIUM,CAD
 a59f9361-c2c4-4dc7-8715-d1e5e010bd5e,09/20/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD
+5a4592d7-340a-4d9d-8afe-b8f6b3612100,09/20/2027 12:30:00,CPI Common (YoY),MEDIUM,CAD
+ccfe77e9-0041-4869-922c-ef28179137c0,09/20/2027 12:30:00,CPI Median (YoY),MEDIUM,CAD
+9d05a109-2de5-47ae-95bb-692c35eeefc1,09/20/2027 12:30:00,CPI Trimmed Mean (YoY),MEDIUM,CAD
 3bf2b0ce-5cb0-42f2-ba2e-272be92f239d,09/21/2027 12:30:00,Industrial Product Price (MoM),LOW,CAD
 3d2c97fe-024f-42d3-9cb0-8edd75b9761c,09/21/2027 12:30:00,Raw Material Price Index,LOW,CAD
 11dd4678-8b18-45b0-b352-2ae18db05e26,09/23/2027 12:30:00,Employment Insurance Beneficiaries Change (MoM),LOW,CAD
@@ -403,6 +436,9 @@ eee35edf-06d6-4d4f-9ed4-5d36d910bf81,10/18/2027 12:30:00,Canadian Portfolio Inve
 52b5db6b-8f21-4101-af27-34d9d06c7541,10/18/2027 12:30:00,Consumer Price Index - Core (MoM),LOW,CAD
 1dd78329-52d4-425e-8218-6c1f366d1d65,10/18/2027 12:30:00,Consumer Price Index (MoM),MEDIUM,CAD
 9c5fff08-92b7-4394-a9b3-11ea6e402183,10/18/2027 12:30:00,Consumer Price Index (YoY),HIGH,CAD
+bf083587-84db-4ae8-b59a-b198951b9685,10/18/2027 12:30:00,CPI Common (YoY),MEDIUM,CAD
+6849370d-a40d-4f65-aecd-c57c0b65dacd,10/18/2027 12:30:00,CPI Median (YoY),MEDIUM,CAD
+85d0f151-dc16-41d4-a3ea-b05150a6cd60,10/18/2027 12:30:00,CPI Trimmed Mean (YoY),MEDIUM,CAD
 64cb3a75-e495-4d54-98ac-d28fb29503ef,10/18/2027 12:30:00,Foreign Portfolio Investment in Canadian Securities,LOW,CAD
 182f6811-540c-464f-9c6b-f9a0b3bd4287,10/18/2027 14:30:00,Bank of Canada Business Outlook Survey,MEDIUM,CAD
 9d9e5964-0d13-4659-b263-578683f688b3,10/19/2027 12:30:00,New Housing Price Index (MoM),LOW,CAD

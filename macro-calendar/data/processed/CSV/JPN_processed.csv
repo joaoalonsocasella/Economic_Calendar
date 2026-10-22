@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-ba6ea33d-c1da-4e61-a162-0b5d16f7d979,10/21/2026 04:35:00,BoJ's Himino speech,MEDIUM,JPY,Speech,0.13,Monetary Policy
-71e3c71c-cb52-456f-a31a-04a556d3ba5a,10/21/2026 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth
-41fb1b06-0840-4c34-95d4-5b2732576652,10/21/2026 23:50:00,Foreign Investment in Japan Stocks,HIGH,JPY,Release,0.17,Growth
 e28e825d-8db8-4729-a523-e7d1531ec3c0,10/22/2026 23:30:00,National Consumer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
 26292b13-51ab-49ed-9458-e515157f59ef,10/22/2026 23:30:00,"National CPI ex Food, Energy (YoY)",HIGH,JPY,Release,0.19,Inflation
 996ef37f-769f-4c58-b6f9-5bc356267d2a,10/22/2026 23:30:00,National CPI ex Fresh Food (YoY),HIGH,JPY,Release,0.19,Inflation
