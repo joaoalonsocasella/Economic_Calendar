@@ -1,10 +1,4 @@
 Id,Start,Name,Impact,Currency
-17d99074-3c9e-45ef-aafd-a5deabb8e7ec,10/22/2026 12:30:00,Continuing Jobless Claims,LOW,USD
-12fc3d95-f321-4007-84d2-68a90b452a37,10/22/2026 12:30:00,Initial Jobless Claims,MEDIUM,USD
-f729e02c-567d-4318-b227-9b9a8c9cf8a8,10/22/2026 12:30:00,Initial Jobless Claims 4-week average,LOW,USD
-a3725413-bdad-4cac-9f25-2714032f2fd8,10/22/2026 14:30:00,EIA Natural Gas Storage Change,LOW,USD
-ebf9d19e-6522-4aaf-81ec-f394f9f0f77e,10/22/2026 15:30:00,4-Week Bill Auction,LOW,USD
-9a9f6ef8-98aa-40e5-9531-34be56818826,10/22/2026 17:00:00,5-year TIPS Auction,LOW,USD
 bb34d577-be8c-47e4-8dd1-1e562c7f8c91,10/23/2026 13:45:00,S&P Global Composite PMI,MEDIUM,USD
 7ac62fc5-13ab-4771-ace3-3d50ed33effe,10/23/2026 13:45:00,S&P Global Manufacturing PMI,HIGH,USD
 54e677df-4e09-443c-84c6-6aaee1aff3bb,10/23/2026 13:45:00,S&P Global Services PMI,HIGH,USD
@@ -65,6 +59,7 @@ b17ba9df-2eae-47eb-bb6a-bd0b8a89461c,10/29/2026 15:30:00,4-Week Bill Auction,LOW
 d0d870ee-01f1-40f8-b9c4-530e60645368,10/29/2026 17:00:00,7-Year Note Auction,LOW,USD
 43f7500e-0290-42c0-b26a-4cb0c3a417cf,10/30/2026 12:30:00,Employment Cost Index,MEDIUM,USD
 bf21966a-d0a3-4fb8-99f5-17d9782bc949,10/30/2026 13:45:00,Chicago PMI,MEDIUM,USD
+6addb140-c8b2-426d-acba-f34fb1d9df10,10/30/2026 16:30:00,Fed's Musalem speech,MEDIUM,USD
 a39f4b13-c8d4-449d-b27c-8f09d541f0a2,10/30/2026 17:00:00,Baker Hughes US Oil Rig Count,LOW,USD
 ebaafba8-5714-4869-992e-a71eea6ae64e,10/30/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD
 08b0c315-b67b-4a6a-b195-cdb80e74e79f,10/30/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD

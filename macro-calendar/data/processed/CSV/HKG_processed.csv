@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-fa8e50d0-b90c-4e9a-bd66-15057f5193cc,10/22/2026 08:30:00,Consumer Price Index,MEDIUM,HKD,Release,0.14,Confidence
-ddf26885-a3dd-42b6-991f-ca6463e70469,10/22/2026 08:30:00,Unemployment rate,HIGH,HKD,Release,0.18,Labor Market
 fdca2d04-79ce-46f6-928d-40f86f461653,11/03/2026 08:30:00,Retail Sales,HIGH,HKD,Release,0.17,Growth
 2f2f57db-9846-4290-842d-ab6d5e35fd53,11/04/2026 00:30:00,S&P Global PMI,HIGH,HKD,Release,0.17,Growth
 d534893f-3b02-4034-8644-799b1f6c3209,11/13/2026 08:30:00,Gross Domestic Product (QoQ),HIGH,HKD,Release,0.17,Growth

@@ -1,7 +1,4 @@
 Id,Start,Name,Impact,Currency
-e28e825d-8db8-4729-a523-e7d1531ec3c0,10/22/2026 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
-26292b13-51ab-49ed-9458-e515157f59ef,10/22/2026 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
-996ef37f-769f-4c58-b6f9-5bc356267d2a,10/22/2026 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
 0024a2a1-2949-4288-85f3-6e6fb79bb153,10/23/2026 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
 fd44d635-b4fe-46a7-a476-7cea816a9986,10/23/2026 00:30:00,Jibun Bank Services PMI,LOW,JPY
 25da294f-0f90-432f-9e2d-23836f7376e7,10/23/2026 19:30:00,CFTC JPY NC Net Positions,LOW,JPY
@@ -39,6 +36,7 @@ e3e40438-28fc-4030-a46b-f045ff79cc77,11/03/2026 23:50:00,Monetary Base (YoY),LOW
 efb61daf-cee6-494e-9a7b-0f3d84a2b933,11/05/2026 23:50:00,Foreign Bond Investment,LOW,JPY
 9426ba03-6bb7-4a21-af39-2a3bca6de00f,11/05/2026 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
 8028d76b-8798-416d-9f90-4cb96b924d5d,11/05/2026 23:50:00,JP Foreign Reserves,LOW,JPY
+4086b1ac-46a9-4115-8e77-e3e8310f65b4,11/06/2026 16:00:00,BoJ Governor Ueda speech,HIGH,JPY
 fb72f9a8-10aa-4d76-abd3-dc55b9a09c23,11/06/2026 20:30:00,CFTC JPY NC Net Positions,LOW,JPY
 c239c8ca-42a8-45b8-81cb-f1db281685c1,11/09/2026 05:00:00,Coincident Index,LOW,JPY
 47eb085a-8529-414c-a4b9-aa7de91b72ea,11/09/2026 05:00:00,Eco Watchers Survey: Current,LOW,JPY

@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-f185ceb4-2a30-4237-b4cd-9fcf20c8bcac,10/22/2026 13:00:00,BoE's Governor Bailey speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
-b8907aa7-59b3-4e76-8072-c7a1efc9121b,10/22/2026 23:01:00,GfK Consumer Confidence,MEDIUM,GBP,Release,0.14,Confidence
 20649167-422a-4f73-be26-e8fa16e19360,10/23/2026 06:00:00,Retail Sales (MoM),HIGH,GBP,Release,0.17,Growth
 c628aac7-fd61-45a8-b6fa-979075b65bae,10/23/2026 06:00:00,Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
 7b27b5fd-8981-45c5-bfe7-6ae2543fea70,10/23/2026 06:00:00,Retail Sales ex-Fuel (MoM),HIGH,GBP,Release,0.17,Growth

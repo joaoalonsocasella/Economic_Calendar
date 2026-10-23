@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e17fbb9d-1e1a-469c-874e-0acc910587a8,10/22/2026 22:00:00,S&P Global Composite PMI,HIGH,AUD,Release,0.17,Growth
-e8be5812-a8bc-4f9e-9649-b82daff077c8,10/22/2026 22:00:00,S&P Global Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
-2696dcc9-ec0c-4800-baf9-7aed05a3e1dc,10/22/2026 22:00:00,S&P Global Services PMI,HIGH,AUD,Release,0.17,Growth
 27004ad2-e1b6-47e1-bb08-954f5208c191,10/23/2026 19:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 fca07460-8317-4faa-b804-2405df8ce4cb,10/28/2026 00:15:00,RBA Governor Bullock speech,MEDIUM,AUD,Speech,0.13,Monetary Policy
 69a53443-283e-45e5-9ba1-5c127a75815e,10/28/2026 00:30:00,Consumer Price Index (MoM),HIGH,AUD,Release,0.19,Inflation
