@@ -1,15 +1,4 @@
 Id,Start,Name,Impact,Currency
-bb34d577-be8c-47e4-8dd1-1e562c7f8c91,10/23/2026 13:45:00,S&P Global Composite PMI,MEDIUM,USD
-7ac62fc5-13ab-4771-ace3-3d50ed33effe,10/23/2026 13:45:00,S&P Global Manufacturing PMI,HIGH,USD
-54e677df-4e09-443c-84c6-6aaee1aff3bb,10/23/2026 13:45:00,S&P Global Services PMI,HIGH,USD
-c167d35a-0828-485a-8d31-baa5654bfdc7,10/23/2026 14:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
-a959ed2f-3292-4a16-8dfb-d1f0ca612065,10/23/2026 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD
-9fdf7484-15da-43d0-805c-284afdece3c3,10/23/2026 14:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
-959acf8d-e6c5-438a-b0ef-f1c2fc8b97ae,10/23/2026 14:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD
-d19b4895-70e0-4059-ab27-3aec49f25c15,10/23/2026 17:00:00,Baker Hughes US Oil Rig Count,LOW,USD
-38a50172-90a3-4ced-8da4-d526bed7ead3,10/23/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD
-9c14077b-ca41-4561-ade0-fc8708336875,10/23/2026 19:30:00,CFTC Oil NC Net Positions,LOW,USD
-7ac13f7a-822f-4933-94f5-14efa569e5ed,10/23/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
 472d7832-b080-4f8d-912b-b3597e61987a,10/26/2026 12:30:00,"Chicago Fed National Activity Index ",LOW,USD
 f590786b-58de-446e-85c8-09181c5ac119,10/26/2026 15:30:00,3-Month Bill Auction,LOW,USD
 3c85921f-b25c-474d-9f18-022df9d623b8,10/26/2026 15:30:00,6-Month Bill Auction,LOW,USD

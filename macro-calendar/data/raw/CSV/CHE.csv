@@ -42,8 +42,8 @@ d928b940-d86b-44bc-bca9-34e20a892496,12/16/2026 08:00:00,SECO Economic Forecasts
 b154d722-4400-4d07-8483-fba613a810d6,01/04/2027 08:30:00,SVME - Purchasing Managers' Index,LOW,CHF
 f3a678fd-7fa9-4899-ab81-91809375ff65,01/05/2027 07:30:00,Consumer Price Index (MoM),MEDIUM,CHF
 1940e064-8bfc-4210-92ae-d0c9ecd81b1b,01/05/2027 07:30:00,Consumer Price Index (YoY),HIGH,CHF
-3e27f616-06d1-48c7-b07e-a448f95b33fc,01/07/2027 06:45:00,Unemployment Rate s.a (MoM),LOW,CHF
 2306aa6a-2e47-4bf3-86d0-8a5dbefa4d99,01/07/2027 08:00:00,Foreign Currency Reserves,LOW,CHF
+3e27f616-06d1-48c7-b07e-a448f95b33fc,01/07/2027 08:00:00,Unemployment Rate s.a (MoM),LOW,CHF
 1ce5d3a8-831f-423d-b794-0514ffbf6590,01/19/2027 07:30:00,Producer and Import Prices (MoM),LOW,CHF
 3e4d9ae8-6281-46b7-aa5f-d4df2cc1aeba,01/19/2027 07:30:00,Producer and Import Prices (YoY),LOW,CHF
 9d2ad0ad-8dba-4fcd-91ea-203bba9c2e2a,01/27/2027 09:00:00,ZEW Survey – Expectations,MEDIUM,CHF
@@ -52,8 +52,10 @@ f3a678fd-7fa9-4899-ab81-91809375ff65,01/05/2027 07:30:00,Consumer Price Index (M
 e5e76c55-6883-4f54-8329-e538211933cf,01/28/2027 07:00:00,Trade Balance,LOW,CHF
 ba925e7b-3a09-493c-bda4-6200bd3adeee,01/29/2027 08:00:00,KOF Leading Indicator,LOW,CHF
 2625fb03-d25b-45f5-8d5e-ba57b61b1856,02/01/2027 07:30:00,Real Retail Sales (YoY),MEDIUM,CHF
+1bdc3f3d-056b-48ab-b44f-b28e46f476fd,02/01/2027 08:30:00,SVME - Purchasing Managers' Index,LOW,CHF
 7fd39bd3-965f-4aaf-9fae-b9a53df17d55,02/03/2027 07:30:00,Consumer Price Index (MoM),MEDIUM,CHF
 00d7f648-41ca-4d53-b91a-c8333b48f73a,02/03/2027 07:30:00,Consumer Price Index (YoY),HIGH,CHF
+e354d56e-c63f-4b56-9151-78f836cbeee1,02/04/2027 08:00:00,Unemployment Rate s.a (MoM),LOW,CHF
 8c16468d-c8d3-4d74-a492-52858f1dc461,02/08/2027 08:00:00,Foreign Currency Reserves,LOW,CHF
 06c1a437-f509-41ab-87be-2d0cc85fd594,02/08/2027 08:00:00,SECO Consumer Climate (3m),LOW,CHF
 31883aed-6fb1-4eb8-b8ff-370712fe1275,02/15/2027 07:00:00,Producer and Import Prices (MoM),LOW,CHF
@@ -62,13 +64,16 @@ ba925e7b-3a09-493c-bda4-6200bd3adeee,01/29/2027 08:00:00,KOF Leading Indicator,L
 13f90498-f6a0-4f51-9c95-818770693f4a,02/18/2027 07:00:00,Imports (MoM),LOW,CHF
 37b0ced2-5b31-4622-b4bd-03c6ec6f8f02,02/18/2027 07:00:00,Trade Balance,LOW,CHF
 e05c04d8-549c-41f8-9952-a7d9d10275a3,02/18/2027 07:30:00,Industrial Production (YoY),MEDIUM,CHF
+02649cae-6220-486e-a607-088f752a7f31,02/24/2027 09:00:00,ZEW Survey – Expectations,MEDIUM,CHF
 f55d95f3-55ee-47cc-957f-8a9024461f38,02/26/2027 07:00:00,Gross Domestic Product (QoQ),HIGH,CHF
 b925de73-c504-4b22-8750-a59595c9e921,02/26/2027 07:00:00,Gross Domestic Product (YoY),MEDIUM,CHF
 59e1a450-e9c3-4005-b844-33c11f42efbb,02/26/2027 07:30:00,Employment Level (QoQ),LOW,CHF
 a689ad0c-7145-4713-ad9a-3131ae526c8a,02/26/2027 08:00:00,KOF Leading Indicator,LOW,CHF
 85b9ff31-c9fd-4321-b4a1-769a6b851c0a,03/01/2027 07:30:00,Real Retail Sales (YoY),MEDIUM,CHF
+99a7d8bf-3798-4d73-b931-1a8146c75c97,03/01/2027 08:30:00,SVME - Purchasing Managers' Index,LOW,CHF
 d28c375b-c280-43d4-b873-3059d0d1f963,03/04/2027 07:30:00,Consumer Price Index (MoM),MEDIUM,CHF
 fb6887c3-e30f-4637-8b02-db1adfdcb2a9,03/04/2027 07:30:00,Consumer Price Index (YoY),HIGH,CHF
+663d5836-35b9-451e-9c78-aadf866465bc,03/04/2027 08:00:00,Unemployment Rate s.a (MoM),LOW,CHF
 9a0b7e6f-e961-4ca2-ab0c-afb7bea010e2,03/09/2027 08:00:00,Foreign Currency Reserves,LOW,CHF
 530688de-067a-4297-b962-1a6a894ea71e,03/15/2027 07:00:00,Producer and Import Prices (MoM),LOW,CHF
 d4175516-7de9-4f60-98ab-b3930d3cc870,03/15/2027 07:00:00,Producer and Import Prices (YoY),LOW,CHF
@@ -79,36 +84,46 @@ fdbff17a-568c-4d9a-b241-067273a47114,03/18/2027 08:00:00,SECO Economic Forecasts
 1e4af94a-4894-4c04-b5e9-6eb7bac962b0,03/18/2027 08:30:00,SNB Interest Rate Decision,HIGH,CHF
 5abadd25-09aa-48f8-96ae-b358a7f559b9,03/18/2027 08:30:00,SNB Monetary Policy Assessment,HIGH,CHF
 602ec755-ac51-4469-9224-a2b02ece8eee,03/18/2027 09:00:00,SNB Press Conference,HIGH,CHF
+33323538-f298-4d73-ab63-9e47fbb15565,03/24/2027 09:00:00,ZEW Survey – Expectations,MEDIUM,CHF
 1de9a986-62ec-4635-bfca-6f038cb8b2fe,03/24/2027 14:00:00,SNB Quarterly Bulletin,MEDIUM,CHF
 2e57b96a-5d14-4cd3-8171-14b0ec38b893,03/28/2027 01:00:00,"Daylight Saving Time ",NONE,CHF
 106ba16f-8b76-4081-9d58-be4a8f0a37bc,03/30/2027 07:00:00,KOF Leading Indicator,LOW,CHF
 83fbb20a-c752-4b6f-8659-39f9ccbcaa55,03/31/2027 06:30:00,Real Retail Sales (YoY),MEDIUM,CHF
+3a1db040-44f7-4038-b209-6e678fc6b618,04/01/2027 07:30:00,SVME - Purchasing Managers' Index,LOW,CHF
 752ff2a4-d181-43be-855d-55b331b2b7ee,04/02/2027 06:30:00,Consumer Price Index (MoM),MEDIUM,CHF
 e468271d-d079-438f-8f3f-1c588d94e10f,04/02/2027 06:30:00,Consumer Price Index (YoY),HIGH,CHF
+6b85a615-79ed-47da-a9b4-110f2d5a388f,04/06/2027 07:00:00,Unemployment Rate s.a (MoM),LOW,CHF
 04cd2279-955d-4811-90c3-15a5981ce8df,04/08/2027 07:00:00,Foreign Currency Reserves,LOW,CHF
 0d5d98d1-617b-431c-9c5e-706514195f04,04/15/2027 06:00:00,Producer and Import Prices (MoM),LOW,CHF
 bcad9dfa-74e9-441f-ae94-ff9e7960e394,04/15/2027 06:00:00,Producer and Import Prices (YoY),LOW,CHF
 801934eb-5311-4032-a3d1-aa3666d7d00b,04/20/2027 06:00:00,Exports (MoM),LOW,CHF
 988c6b63-45f7-4254-967a-8d28f47f2688,04/20/2027 06:00:00,Imports (MoM),LOW,CHF
 5d6f7e24-81f2-4a88-bf46-b9afb090a8db,04/20/2027 06:00:00,Trade Balance,LOW,CHF
+16d865ed-6247-48b4-8ab8-b9b36f59cdf0,04/28/2027 08:00:00,ZEW Survey – Expectations,MEDIUM,CHF
 b9cac38b-9063-44b6-845b-343ccb02c7a8,04/30/2027 06:30:00,Real Retail Sales (YoY),MEDIUM,CHF
 5472b7a6-3b9a-4881-ba8b-f594b452aa42,04/30/2027 07:00:00,KOF Leading Indicator,LOW,CHF
+58a25e99-88fb-44f6-b6c1-fafb3e64d5b8,05/03/2027 07:30:00,SVME - Purchasing Managers' Index,LOW,CHF
 7163107e-db08-439b-9c61-78b14ef866d9,05/04/2027 06:30:00,Consumer Price Index (MoM),MEDIUM,CHF
 071a4dc5-40c4-41d1-80d9-f3e0439c0e6d,05/04/2027 06:30:00,Consumer Price Index (YoY),HIGH,CHF
 ce60d81b-4deb-4cb4-9852-1aa0a96ccb6c,05/07/2027 07:00:00,Foreign Currency Reserves,LOW,CHF
+a1212a71-8d8d-4144-9e54-533a8a595293,05/07/2027 07:00:00,SECO Consumer Climate (3m),LOW,CHF
+f41748bc-4c40-4799-8079-ca0483d602bb,05/07/2027 07:00:00,Unemployment Rate s.a (MoM),LOW,CHF
 5117e2bc-2e82-45a2-9eeb-bf1c2b8c056a,05/14/2027 06:00:00,Producer and Import Prices (MoM),LOW,CHF
 464cbf78-28d7-4b4a-b02d-ae456da26e7a,05/14/2027 06:00:00,Producer and Import Prices (YoY),LOW,CHF
 73c23b12-f859-42ce-bab0-f7251f0c1589,05/18/2027 06:30:00,Industrial Production (YoY),MEDIUM,CHF
 29331551-783e-4fda-b8d6-55b2795b2ab9,05/20/2027 06:00:00,Exports (MoM),LOW,CHF
 cca999c2-016b-4995-8a78-b303ae137f26,05/20/2027 06:00:00,Imports (MoM),LOW,CHF
 aa73b28d-2500-4086-a7ca-cff50e3a60f1,05/20/2027 06:00:00,Trade Balance,LOW,CHF
+10665eae-603c-4d30-bd82-11a5380c3be3,05/26/2027 08:00:00,ZEW Survey – Expectations,MEDIUM,CHF
 3f75eb9e-8667-4a40-bcd7-78f45185deba,05/27/2027 06:30:00,Employment Level (QoQ),LOW,CHF
 68510880-dbb3-4dec-8d75-ffc635c500c7,05/28/2027 06:00:00,Gross Domestic Product (QoQ),HIGH,CHF
 4f764d04-1dda-4f11-8acc-9a9733c647a3,05/28/2027 06:00:00,Gross Domestic Product (YoY),MEDIUM,CHF
 4f60bbe0-4278-4cb1-b458-da2cdd6419b6,05/28/2027 07:00:00,KOF Leading Indicator,LOW,CHF
 e64d4cdd-fd4b-4ef0-98f2-3b8bc72ef93d,06/01/2027 06:30:00,Real Retail Sales (YoY),MEDIUM,CHF
+ee1c8a5f-d1bb-403a-a7d4-424e5bdb6fc6,06/01/2027 07:30:00,SVME - Purchasing Managers' Index,LOW,CHF
 544a00fd-c59f-4b87-9ae2-4922999919bc,06/03/2027 06:30:00,Consumer Price Index (MoM),MEDIUM,CHF
 f63a8743-d2ad-492b-8e77-489836cbcc27,06/03/2027 06:30:00,Consumer Price Index (YoY),HIGH,CHF
+f9f8af8e-c025-498d-9c77-b166d51221f2,06/04/2027 07:00:00,Unemployment Rate s.a (MoM),LOW,CHF
 61feb0ad-ce0a-444d-89de-02f162076ca5,06/07/2027 07:00:00,Foreign Currency Reserves,LOW,CHF
 fa70c720-c44e-45c9-bf39-d8692fdf6dad,06/14/2027 06:00:00,Producer and Import Prices (MoM),LOW,CHF
 ee086262-55a6-4cdf-8be6-1d1e823732b8,06/14/2027 06:00:00,Producer and Import Prices (YoY),LOW,CHF
@@ -116,39 +131,49 @@ c7570b02-8382-47ef-9fbf-b5ee3ca9c842,06/17/2027 06:00:00,Exports (MoM),LOW,CHF
 0538ccbe-e704-476e-ae36-6fdaad7dabc4,06/17/2027 06:00:00,Imports (MoM),LOW,CHF
 8f1d5920-5ee9-485d-9f14-bcceda2c6158,06/17/2027 06:00:00,Trade Balance,LOW,CHF
 0efc26ae-bfed-4f70-ad5c-86c27389dfdd,06/17/2027 07:00:00,SECO Economic Forecasts,LOW,CHF
+7127b4cb-795d-4ba4-9942-c60edfb96c54,06/23/2027 08:00:00,ZEW Survey – Expectations,MEDIUM,CHF
 09706b5c-4698-4370-8b7c-2c35044b0c28,06/24/2027 07:30:00,SNB Interest Rate Decision,HIGH,CHF
 b80f660e-2894-4719-afb8-997e264f5112,06/24/2027 07:30:00,SNB Monetary Policy Assessment,HIGH,CHF
 079a90fd-b4ac-4309-ae10-7e46f2fd1cdd,06/24/2027 08:00:00,SNB Press Conference,HIGH,CHF
 145e9aad-185c-471f-903a-a00ee6378f10,06/30/2027 07:00:00,KOF Leading Indicator,LOW,CHF
 15e30975-d2f9-49f2-963a-a0eef50adcac,06/30/2027 13:00:00,SNB Quarterly Bulletin,MEDIUM,CHF
 79899dda-4981-44f9-b4d3-f35e06d6f4fb,07/01/2027 06:30:00,Real Retail Sales (YoY),MEDIUM,CHF
+71f049db-dda0-45c3-a284-24f945cfb386,07/01/2027 07:30:00,SVME - Purchasing Managers' Index,LOW,CHF
 b35cac7a-b317-4c08-aad2-fc05b9b7f6fe,07/02/2027 04:30:00,SNB Financial Stability Report,MEDIUM,CHF
 f65aa67c-66e1-4f1c-a27c-92ca7e8d744f,07/02/2027 06:30:00,Consumer Price Index (MoM),MEDIUM,CHF
 1ac445a8-c9ae-4e52-a01c-f1767e4baee2,07/02/2027 06:30:00,Consumer Price Index (YoY),HIGH,CHF
+f93309eb-86f9-4e22-aee8-f5c3afa12734,07/06/2027 07:00:00,Unemployment Rate s.a (MoM),LOW,CHF
 8969055f-fcb1-485b-bd69-32fff015e119,07/08/2027 07:00:00,Foreign Currency Reserves,LOW,CHF
 3fd10ef8-5b96-4d53-9cae-fc19bedd5635,07/13/2027 06:00:00,Producer and Import Prices (MoM),LOW,CHF
 8e87d0d2-131e-4ff5-9d11-3444bf765bd2,07/13/2027 06:00:00,Producer and Import Prices (YoY),LOW,CHF
 c75aa104-9aa9-42f5-9ca2-f426018b0de7,07/20/2027 06:00:00,Exports (MoM),LOW,CHF
 63683043-6da3-4f9b-8bf2-db0407ee6600,07/20/2027 06:00:00,Imports (MoM),LOW,CHF
 9d64675a-7375-4899-98df-3429852cc9a0,07/20/2027 06:00:00,Trade Balance,LOW,CHF
+721236c5-c6b5-4a7d-81e5-955d42bcfc80,07/28/2027 08:00:00,ZEW Survey – Expectations,MEDIUM,CHF
 10051717-031b-4c59-9862-343665444373,07/30/2027 06:30:00,Real Retail Sales (YoY),MEDIUM,CHF
 87519e95-4bb7-4900-a85d-21ed3f08647c,07/30/2027 07:00:00,KOF Leading Indicator,LOW,CHF
+e1415ee0-ccaf-45a9-bbf1-99a9e545c9a9,08/02/2027 07:30:00,SVME - Purchasing Managers' Index,LOW,CHF
 b869bb50-b6aa-4104-ac63-72fab8932a3e,08/03/2027 06:30:00,Consumer Price Index (MoM),MEDIUM,CHF
 0bf429cd-d10b-43b6-a82a-2d978ab8e68c,08/03/2027 06:30:00,Consumer Price Index (YoY),HIGH,CHF
 0c591928-67d1-40c5-97b7-223b8431113b,08/06/2027 07:00:00,Foreign Currency Reserves,LOW,CHF
+0c122bee-878c-4455-a0b4-3e11ea162bda,08/06/2027 07:00:00,SECO Consumer Climate (3m),LOW,CHF
+aa9688b6-b3ca-40b5-b291-88342b952693,08/06/2027 07:00:00,Unemployment Rate s.a (MoM),LOW,CHF
 fe143423-9e8b-4747-b14a-76791c4afc8c,08/13/2027 06:00:00,Producer and Import Prices (MoM),LOW,CHF
 05158676-9248-4c1a-98ba-4c56e49b980f,08/13/2027 06:00:00,Producer and Import Prices (YoY),LOW,CHF
 0178c582-c087-4405-835f-2790ffb794ef,08/17/2027 06:30:00,Industrial Production (YoY),MEDIUM,CHF
 eb02a7ea-e0f6-467f-9205-e17bf48e2612,08/19/2027 06:00:00,Exports (MoM),LOW,CHF
 d5060dca-da11-494d-9748-61feedaedcec,08/19/2027 06:00:00,Imports (MoM),LOW,CHF
 0f06d532-48cc-40b4-9e0f-fdb384dc1d1a,08/19/2027 06:00:00,Trade Balance,LOW,CHF
+da858fa5-f5e8-4d57-9dac-f8e425f63a57,08/25/2027 08:00:00,ZEW Survey – Expectations,MEDIUM,CHF
 a11b9c95-f276-4992-becf-128aa055a133,08/26/2027 06:30:00,Employment Level (QoQ),LOW,CHF
 3e88620a-a345-4375-893b-0f48f6e32ba3,08/30/2027 06:00:00,Gross Domestic Product (QoQ),HIGH,CHF
 34823408-e45e-475e-9726-4578851ef90d,08/30/2027 06:00:00,Gross Domestic Product (YoY),MEDIUM,CHF
 d8c6177e-3dfd-4f20-8adb-2e7a043b8ba3,08/30/2027 07:00:00,KOF Leading Indicator,LOW,CHF
 455f8c9f-fb13-4ee0-a34c-0c0f93bcba93,09/01/2027 06:30:00,Real Retail Sales (YoY),MEDIUM,CHF
+2b237171-d124-414a-b469-052bfbb153f7,09/01/2027 07:30:00,SVME - Purchasing Managers' Index,LOW,CHF
 a26bb979-9fe4-481e-81a0-9a4bd587104d,09/02/2027 06:30:00,Consumer Price Index (MoM),MEDIUM,CHF
 b2983321-d9f4-4b18-85d6-0023428e6afe,09/02/2027 06:30:00,Consumer Price Index (YoY),HIGH,CHF
+92d502e3-01de-483c-8112-660014c2c1c2,09/07/2027 07:00:00,Unemployment Rate s.a (MoM),LOW,CHF
 bf402493-747d-4cba-942a-b81b393fb13b,09/09/2027 07:00:00,Foreign Currency Reserves,LOW,CHF
 bc7ba141-936c-499d-a1ac-f66484a9b59e,09/14/2027 06:00:00,Producer and Import Prices (MoM),LOW,CHF
 698b3da7-a0b5-41bc-a977-c3487cb3fcc1,09/14/2027 06:00:00,Producer and Import Prices (YoY),LOW,CHF
@@ -159,16 +184,20 @@ ecd1faed-8448-4791-b5e0-281d8385010a,09/16/2027 07:00:00,SECO Economic Forecasts
 d06e49f5-9403-4ce2-870e-51125c542ea4,09/23/2027 07:30:00,SNB Interest Rate Decision,HIGH,CHF
 3dc8bc25-4880-41b8-8506-d00372e9863d,09/23/2027 07:30:00,SNB Monetary Policy Assessment,HIGH,CHF
 929601dc-d113-4fc5-92ae-da3163e711cc,09/23/2027 08:00:00,SNB Press Conference,HIGH,CHF
+84438dd8-a618-4fab-8274-5e9bd60e8bfc,09/29/2027 08:00:00,ZEW Survey – Expectations,MEDIUM,CHF
 7436c3f9-ee43-4757-8488-38fdbf75622d,09/29/2027 13:00:00,SNB Quarterly Bulletin,MEDIUM,CHF
 7d37ed56-2f0d-4485-8fdd-3c1ed069ce58,09/30/2027 07:00:00,KOF Leading Indicator,LOW,CHF
 6712ebc5-e3d4-4858-9670-823020a4054f,10/01/2027 06:30:00,Consumer Price Index (MoM),MEDIUM,CHF
 b705798e-9859-4de8-87d5-fcd00115704d,10/01/2027 06:30:00,Consumer Price Index (YoY),HIGH,CHF
 edeb6208-44fd-430d-a4d1-20fd6650355f,10/01/2027 06:30:00,Real Retail Sales (YoY),MEDIUM,CHF
+7329e009-2fba-4cd1-a068-6dd3fa43c23b,10/01/2027 07:30:00,SVME - Purchasing Managers' Index,LOW,CHF
+d1c4087c-5d11-45a8-85c2-44b650a93e78,10/07/2027 07:00:00,Unemployment Rate s.a (MoM),LOW,CHF
 175e89cb-16f8-4268-af49-08feb34d3436,10/08/2027 07:00:00,Foreign Currency Reserves,LOW,CHF
 b0b80abe-a328-4320-8da1-f0ac4eab5313,10/14/2027 06:00:00,Producer and Import Prices (MoM),LOW,CHF
 8d4119b3-30a2-4118-a002-cd36b29b3e93,10/14/2027 06:00:00,Producer and Import Prices (YoY),LOW,CHF
 072328c2-92a5-4b11-bd13-c4f7026e0431,10/21/2027 06:00:00,Exports (MoM),LOW,CHF
 0309b850-3020-464c-a83e-71237025f592,10/21/2027 06:00:00,Imports (MoM),LOW,CHF
 77782b80-7722-4e6a-806f-4144188c557d,10/21/2027 06:00:00,Trade Balance,LOW,CHF
+f4b9619d-917d-462f-8c78-a59ffb21cb38,10/27/2027 09:00:00,ZEW Survey – Expectations,MEDIUM,CHF
 4a10207f-997f-47a9-8820-bf8e60864eef,10/29/2027 08:00:00,KOF Leading Indicator,LOW,CHF
 00f84014-0b51-4f9a-8787-c875a393a368,10/31/2027 03:00:00,Daylight Saving Time ends,NONE,CHF
