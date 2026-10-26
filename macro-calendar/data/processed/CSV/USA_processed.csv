@@ -48,6 +48,7 @@ b17ba9df-2eae-47eb-bb6a-bd0b8a89461c,10/29/2026 15:30:00,4-Week Bill Auction,LOW
 d0d870ee-01f1-40f8-b9c4-530e60645368,10/29/2026 17:00:00,7-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 43f7500e-0290-42c0-b26a-4cb0c3a417cf,10/30/2026 12:30:00,Employment Cost Index,HIGH,USD,Release,0.18,Labor Market
 bf21966a-d0a3-4fb8-99f5-17d9782bc949,10/30/2026 13:45:00,Chicago PMI,MEDIUM,USD,Release,0.14,Confidence
+1a25e7ea-f4bf-4980-a4b5-ff20d6efa5e0,10/30/2026 16:00:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 6addb140-c8b2-426d-acba-f34fb1d9df10,10/30/2026 16:30:00,Fed's Musalem speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 a39f4b13-c8d4-449d-b27c-8f09d541f0a2,10/30/2026 17:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
 ebaafba8-5714-4869-992e-a71eea6ae64e,10/30/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
@@ -91,8 +92,10 @@ deafa8d4-f1fb-46d1-af7a-61186993120d,11/05/2026 13:30:00,Initial Jobless Claims,
 9a05bd4d-1933-492d-936e-b7beddecb4fa,11/05/2026 13:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
 fb980afa-7081-4f97-9487-2288156c19bd,11/05/2026 13:30:00,Nonfarm Productivity,HIGH,USD,Release,0.18,Labor Market
 53955edd-b397-4fed-894b-6f335d21a57b,11/05/2026 13:30:00,Unit Labor Costs,HIGH,USD,Release,0.18,Labor Market
+fa8667ec-dcbd-4984-8017-ea6588328d56,11/05/2026 13:50:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 10fd4311-ba61-4094-888c-6e9ba2ad59d3,11/05/2026 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 52975b53-112b-439f-98b3-9c7b714e9211,11/05/2026 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
+1a431136-2b83-4f9a-9e90-c4ac4c415184,11/06/2026 09:30:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
 7300f597-d4d2-4360-832a-33657038e139,11/06/2026 13:30:00,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market
 85a16cc6-8da3-4cf5-87d4-3e18b491a0ef,11/06/2026 13:30:00,Average Hourly Earnings (YoY),HIGH,USD,Release,0.18,Labor Market
 027ccf43-1710-46fc-8789-9ae28b548e10,11/06/2026 13:30:00,Average Weekly Hours,HIGH,USD,Release,0.18,Labor Market
@@ -113,6 +116,7 @@ cff804f2-a232-4faa-b71a-b6d5a125f1f9,11/06/2026 20:30:00,CFTC Oil NC Net Positio
 7220f518-6a40-4e29-8133-cdfdef018f67,11/09/2026 15:00:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
 c8d3d517-bbf3-4675-95a8-589802d69e1b,11/09/2026 16:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 ff72f8aa-2f4f-4ed0-947d-39e73448dffc,11/09/2026 16:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
+5414077c-8751-4995-9ec9-d70d7bd4b188,11/09/2026 18:00:00,3-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 e60e44d0-2ca0-4fba-9d88-f610085b2bf3,11/10/2026 11:00:00,NFIB Business Optimism Index,MEDIUM,USD,Release,0.14,Confidence
 a265b395-a329-4eb0-834a-cd35a1e11415,11/10/2026 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 75a2fedb-a0e4-446b-94fb-726f952c0f8e,11/10/2026 13:30:00,Consumer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
@@ -123,11 +127,9 @@ c116284f-54cf-4db0-a413-9f9a6be6908d,11/10/2026 13:30:00,Consumer Price Index ex
 d8aa6891-638c-4fa1-baf1-c8a23125d049,11/10/2026 13:30:00,Consumer Price Index n.s.a (MoM),HIGH,USD,Release,0.19,Inflation
 f7713f2e-57c4-4d1f-8e60-1bb232d939e5,11/10/2026 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 f336b3ca-fa8a-4c10-8cef-422dbe62a92b,11/10/2026 17:00:00,USDA WASDE Report,HIGH,USD,Release,0.2,Monetary Policy
-5414077c-8751-4995-9ec9-d70d7bd4b188,11/10/2026 18:00:00,3-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 9ac33757-176f-4a21-a74e-a08fee08bb9e,11/10/2026 21:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 104adfae-fcf3-4cdd-9cca-40296706a254,11/11/2026 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 a8ef97b5-96b3-4849-bd57-08605c1cab7b,11/11/2026 18:00:00,10-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-849a9a10-92f4-46e8-820d-65af826f7b10,11/11/2026 19:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
 1e7adfad-5c5d-4a80-9590-78f4421bae72,11/12/2026 13:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 ede3cb20-255d-46a8-ab72-b4551790d64d,11/12/2026 13:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 9107e1a9-135c-43f3-9913-2b58f0a2049b,11/12/2026 13:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
@@ -140,10 +142,13 @@ ede3cb20-255d-46a8-ab72-b4551790d64d,11/12/2026 13:30:00,Initial Jobless Claims,
 66bf2a98-a745-4857-a0ef-b71bea9a23c6,11/12/2026 17:00:00,EIA Gasoline Stocks Change,HIGH,USD,Release,0.18,Labor Market
 e64c26db-341e-4cb6-a671-152d438e4452,11/12/2026 17:00:00,EIA Heating Oil Stocks Change,HIGH,USD,Release,0.18,Labor Market
 d5421a5e-4da4-4d0c-a616-7e287bc3db79,11/12/2026 18:00:00,30-Year Bond Auction,LOW,USD,Release,0.09,Money and Credit
+fe364bdb-fc6b-4573-8e90-0a13292d56da,11/12/2026 18:10:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+849a9a10-92f4-46e8-820d-65af826f7b10,11/12/2026 19:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
 6f17fd45-9b35-417e-a00d-4a386d9d9689,11/13/2026 13:30:00,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 d1406aec-376e-4fe4-b6bd-dc009573b31e,11/13/2026 13:30:00,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 b09590d2-def1-4e53-a19f-a8cfd91acccf,11/13/2026 13:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
 4b4a258c-07b2-4107-b8e4-335180759526,11/13/2026 13:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
+03c2e6a2-5ce4-4e7c-9609-f34d62682565,11/13/2026 17:00:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 2f12a50d-4063-4525-bc0e-999ff134f446,11/13/2026 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
 ce1fce68-abbd-4c55-a0f4-71996e1f16b2,11/13/2026 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 0c505796-7303-4439-9d25-659784fed0da,11/13/2026 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
@@ -187,6 +192,7 @@ afd78c23-8b8d-4565-96be-6a602aa6856f,11/19/2026 15:00:00,Pending Home Sales (MoM
 85ed3fb2-8647-4b2e-949a-97cc284cf176,11/19/2026 15:00:00,Pending Home Sales (YoY),LOW,USD,Release,0.07,Housing
 f7035b6c-5297-4d62-8189-aea3c49b112a,11/19/2026 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 e0606729-853d-41d8-84e5-30af4b281e45,11/19/2026 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
+ac8c385e-7a49-407e-98ee-467d9ad2b959,11/19/2026 17:30:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 a3ba1622-0568-4da2-8dd3-ed64e899bd2a,11/19/2026 18:00:00,10-year TIPS Auction,LOW,USD,Release,0.09,Money and Credit
 327a2365-a1ac-4567-b2ba-2dad26b47ef1,11/20/2026 15:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
 00ca8cbc-5856-4362-96a4-5afeb41711b6,11/20/2026 15:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence

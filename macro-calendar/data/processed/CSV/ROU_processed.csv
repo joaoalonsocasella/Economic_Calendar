@@ -1,7 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 05802f62-9c6a-40c0-8087-03348050d550,11/10/2026 07:00:00,Trade Balance,MEDIUM,RON,Release,0.11,Trade and External
-76b8738c-9f9c-4b94-8914-7300b3a3c5d8,11/10/2026 13:00:00,Interest rate decision,HIGH,RON,Release,0.2,Monetary Policy
 b124a830-140f-4d18-ba08-303dfda4c092,11/11/2026 07:00:00,Consumer Price Index,MEDIUM,RON,Release,0.14,Confidence
+76b8738c-9f9c-4b94-8914-7300b3a3c5d8,11/12/2026 13:00:00,Interest rate decision,HIGH,RON,Release,0.2,Monetary Policy
 bfa31f28-c7fc-4f02-ac45-e6e4dbf9b870,11/13/2026 07:00:00,Gross Domestic Product,LOW,RON,Release,0.09,Money and Credit
 e97c52fc-df7e-4f39-a334-c75dba1ae3f4,11/13/2026 07:00:00,Industrial Production (MoM),HIGH,RON,Release,0.17,Growth
 45f38c66-7547-4f42-b0bb-421c07cf18a7,12/04/2026 07:00:00,Gross Domestic Product,LOW,RON,Release,0.09,Money and Credit

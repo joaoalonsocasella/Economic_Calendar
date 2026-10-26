@@ -1,14 +1,13 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-14a7f43a-0fc0-4e03-932b-1454c0e33761,10/25/2026 03:00:00,Daylight Saving Time ends,HIGH,CHF,Release,0.2,Monetary Policy
 f9f3ef59-42e5-41e2-b947-aa040fd80cd8,10/28/2026 09:00:00,ZEW Survey – Expectations,MEDIUM,CHF,Release,0.14,Confidence
 30e9b2c8-437a-4cab-ab2a-455211898fcf,10/30/2026 08:00:00,KOF Leading Indicator,MEDIUM,CHF,Release,0.14,Confidence
 40abc36c-44ff-415a-9b7a-29f67ede3d66,11/02/2026 07:30:00,Real Retail Sales (YoY),HIGH,CHF,Release,0.17,Growth
 be7fab6e-9690-415e-b89a-e6c176cc91e8,11/02/2026 08:30:00,SVME - Purchasing Managers' Index,MEDIUM,CHF,Release,0.14,Confidence
 489f8556-4df5-4a0b-93a2-f49728b6da63,11/03/2026 07:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
 a7c0b391-df40-438b-a8fe-6a96285a2331,11/03/2026 07:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation
+0e12ad27-6339-4835-92e2-7d060774c5dd,11/05/2026 08:00:00,Unemployment Rate s.a (MoM),HIGH,CHF,Release,0.18,Labor Market
 43cb211d-fa82-4899-9a78-5b3b3e5a70cd,11/06/2026 08:00:00,Foreign Currency Reserves,LOW,CHF,Release,0.09,Money and Credit
 0ef99853-7b1c-4599-98c4-af634f2e099c,11/06/2026 08:00:00,SECO Consumer Climate (3m),MEDIUM,CHF,Release,0.14,Confidence
-0e12ad27-6339-4835-92e2-7d060774c5dd,11/06/2026 08:00:00,Unemployment Rate s.a (MoM),HIGH,CHF,Release,0.18,Labor Market
 2cdf11a9-84c8-4eb7-a9a2-e5662bf8078a,11/13/2026 07:30:00,Producer and Import Prices (MoM),HIGH,CHF,Release,0.19,Inflation
 3fc2f2fa-3756-4416-8c59-1276455310d3,11/13/2026 07:30:00,Producer and Import Prices (YoY),HIGH,CHF,Release,0.19,Inflation
 ad1edb81-9a91-4ec1-99a5-4956162bb400,11/19/2026 07:00:00,Exports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
