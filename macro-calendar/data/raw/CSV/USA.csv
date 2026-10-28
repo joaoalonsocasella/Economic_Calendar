@@ -1,19 +1,4 @@
 Id,Start,Name,Impact,Currency
-de4c41db-e564-4d31-9495-626a9d7927b1,10/27/2026 12:15:00,ADP Employment Change 4-week average,MEDIUM,USD
-4c96bce1-23bf-46c7-bb25-213d3f58f913,10/27/2026 12:30:00,Durable Goods Orders,MEDIUM,USD
-caf9872b-51c0-49f1-ac77-81d84447bd12,10/27/2026 12:30:00,Durable Goods Orders ex Defense,MEDIUM,USD
-ce0766ef-6fe9-486c-9cfc-3cc88e8e77b9,10/27/2026 12:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
-c9e7bdd4-318f-499d-a2e4-08e26c9fb075,10/27/2026 12:30:00,Nondefense Capital Goods Orders ex Aircraft,MEDIUM,USD
-407dac7e-2e11-4ce7-9415-c54ec1bdd3f2,10/27/2026 12:55:00,Redbook Index (YoY),LOW,USD
-0a46270c-bb17-48d2-b040-e665fb098048,10/27/2026 13:00:00,Housing Price Index (MoM),MEDIUM,USD
-81a8dd9a-9122-4e29-9082-aade97efe042,10/27/2026 13:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD
-e6bba8e5-8ddf-40ac-8f3b-7cbaef1f8073,10/27/2026 14:00:00,Consumer Confidence,MEDIUM,USD
-75f8867f-b40a-49b6-9d0a-800ca12aa63e,10/27/2026 14:00:00,New Home Sales (MoM),LOW,USD
-624fe625-be6d-4dc3-97b6-0e9cfad94699,10/27/2026 14:00:00,New Home Sales Change (MoM),MEDIUM,USD
-d51c534a-6c97-4ff9-b580-066e2c9d825a,10/27/2026 14:00:00,Richmond Fed Manufacturing Index,LOW,USD
-c7bb7c3b-eb47-4850-a769-f1eda13978e3,10/27/2026 15:30:00,52-Week Bill Auction,LOW,USD
-b8f467d2-4d0d-4a02-942f-11552703e48d,10/27/2026 17:00:00,5-Year Note Auction,LOW,USD
-4c501855-9c02-4359-b9b3-6d9619bbc879,10/27/2026 20:30:00,API Weekly Crude Oil Stock,LOW,USD
 ad267756-9070-49d1-8f28-d119a3e28de4,10/28/2026 11:00:00,MBA Mortgage Applications,LOW,USD
 e2b01df2-4fbb-47fe-a2f7-047d2252fa5d,10/28/2026 12:30:00,Goods Trade Balance,LOW,USD
 d4f9a6a5-29cc-4bd4-a1c4-f089c45dff71,10/28/2026 12:30:00,Wholesale Inventories,LOW,USD

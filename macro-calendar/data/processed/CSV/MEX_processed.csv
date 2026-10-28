@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-bf232096-b859-406d-9c97-d7fca0013276,10/27/2026 12:00:00,"Trade Balance s/a, $",MEDIUM,MXN,Release,0.11,Trade and External
-f19e0843-e3c1-4594-945f-28bbd85822f7,10/27/2026 12:00:00,"Trade Balance, $",MEDIUM,MXN,Release,0.11,Trade and External
 f25522b2-3c4e-4fca-a7fd-d666699d1939,10/30/2026 12:00:00,Gross Domestic Product (QoQ),HIGH,MXN,Release,0.17,Growth
 6cc1ca1c-2f0e-4b48-af4e-5a7e11e92c9b,10/30/2026 12:00:00,Gross Domestic Product (YoY),HIGH,MXN,Release,0.17,Growth
 a4ceaa8e-2b61-437b-8681-7dd5ba91e332,10/30/2026 21:00:00,"Fiscal Balance, pesos",MEDIUM,MXN,Release,0.11,Trade and External

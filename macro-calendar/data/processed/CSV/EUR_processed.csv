@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-1e7a00e6-7194-46ad-9c39-f67e1a034bcc,10/27/2026 09:00:00,ECB Bank Lending Survey,HIGH,EUR,Release,0.85,Monetary Policy
-e62179d9-4182-4bea-b996-bc8da25b5a1e,10/27/2026 09:00:00,M3 Money Supply (3m),HIGH,EUR,Release,0.85,Monetary Policy
-9770bce3-9591-45d6-ada5-b6b19a127b85,10/27/2026 09:00:00,M3 Money Supply (YoY),HIGH,EUR,Release,0.807,Inflation
-321d558d-e122-4135-9fcf-14f4a0f03147,10/27/2026 09:00:00,Private Loans (YoY),HIGH,EUR,Release,0.383,Money and Credit
-5d5475f6-a47f-49dc-8771-0c63894b8850,10/27/2026 17:00:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
 9c44ff72-d8a3-4d66-82f1-6bda732853be,10/29/2026 10:00:00,Business Climate,HIGH,EUR,Release,0.595,Confidence
 6fdd82f5-1dfb-477a-9fad-63e974b41a3f,10/29/2026 10:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 f6a8e576-d25a-44ca-829c-a9b855cbe04d,10/29/2026 10:00:00,Economic Sentiment Indicator,HIGH,EUR,Release,0.595,Confidence
