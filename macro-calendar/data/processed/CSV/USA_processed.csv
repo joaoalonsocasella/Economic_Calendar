@@ -1,14 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-ad267756-9070-49d1-8f28-d119a3e28de4,10/28/2026 11:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-e2b01df2-4fbb-47fe-a2f7-047d2252fa5d,10/28/2026 12:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
-d4f9a6a5-29cc-4bd4-a1c4-f089c45dff71,10/28/2026 12:30:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
-3a732b6a-a297-4629-9285-80c7be034b5f,10/28/2026 14:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
-2ab8378f-8f31-4768-a6aa-c2492db71877,10/28/2026 14:30:00,EIA Distillate Stocks Change,HIGH,USD,Release,0.18,Labor Market
-1bd7d609-5ce7-4ec1-b495-06de9f246616,10/28/2026 14:30:00,EIA Gasoline Stocks Change,HIGH,USD,Release,0.18,Labor Market
-5b00ec5c-5e91-49f3-9944-d2dee9c1db08,10/28/2026 14:30:00,EIA Heating Oil Stocks Change,HIGH,USD,Release,0.18,Labor Market
-0fa5c63c-f61c-4436-8763-66222addfe7a,10/28/2026 18:00:00,Fed Interest Rate Decision,MEDIUM,USD,Speech,0.13,Monetary Policy
-3c0c7b61-7aaa-4ca6-bff2-15593a479a36,10/28/2026 18:00:00,Fed Monetary Policy Statement,MEDIUM,USD,Speech,0.13,Monetary Policy
-2b6b68dc-4cea-41c4-ba47-4766f56bf18d,10/28/2026 18:30:00,FOMC Press Conference,MEDIUM,USD,Speech,0.13,Monetary Policy
 bd288305-962a-49c4-ae74-dcecaa22b6b7,10/29/2026 12:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 2241a1cd-eb29-4740-a28d-fc2b8cc813ef,10/29/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 401e58cb-1252-4e02-9c2a-144d3ea169e1,10/29/2026 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD,Release,0.19,Inflation

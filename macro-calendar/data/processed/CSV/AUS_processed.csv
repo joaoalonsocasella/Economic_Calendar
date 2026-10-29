@@ -1,13 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-fca07460-8317-4faa-b804-2405df8ce4cb,10/28/2026 00:15:00,RBA Governor Bullock speech,MEDIUM,AUD,Speech,0.13,Monetary Policy
-69a53443-283e-45e5-9ba1-5c127a75815e,10/28/2026 00:30:00,Consumer Price Index (MoM),HIGH,AUD,Release,0.19,Inflation
-f53f6a44-c97b-4303-a2d3-b6aaddd2b4a7,10/28/2026 00:30:00,Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
-995c64be-fbba-4fc2-8dfd-23ce6a885d60,10/28/2026 00:30:00,Quarterly Consumer Price Index (QoQ),HIGH,AUD,Release,0.19,Inflation
-c71d1c15-db4b-4be9-8f4f-4d6a6a927448,10/28/2026 00:30:00,Quarterly Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
-3e17061b-7f0c-4a1e-94c0-11fe04b05a90,10/28/2026 00:30:00,Quarterly RBA Trimmed Mean CPI (QoQ),HIGH,AUD,Release,0.19,Inflation
-f11f67b6-e763-4c33-b10d-a037d369e21b,10/28/2026 00:30:00,Quarterly RBA Trimmed Mean CPI (YoY),HIGH,AUD,Release,0.19,Inflation
-c1370dd7-7b78-41b3-8eba-bb60de30f38f,10/28/2026 00:30:00,Trimmed Mean CPI (MoM),HIGH,AUD,Release,0.19,Inflation
-62b1e867-716b-4818-bde6-3d2299c52812,10/28/2026 00:30:00,Trimmed Mean CPI (YoY),HIGH,AUD,Release,0.19,Inflation
 8ebd2d23-8adc-4619-93d7-05ccae2ae4d1,10/29/2026 00:30:00,Export Price Index (QoQ),MEDIUM,AUD,Release,0.11,Trade and External
 0529baf1-c13e-421b-95e8-de1b22183200,10/29/2026 00:30:00,Import Price Index (QoQ),HIGH,AUD,Release,0.19,Inflation
 42f3b716-de2d-412c-b532-515b9309fe48,10/30/2026 00:30:00,Private Sector Credit (MoM),LOW,AUD,Release,0.09,Money and Credit

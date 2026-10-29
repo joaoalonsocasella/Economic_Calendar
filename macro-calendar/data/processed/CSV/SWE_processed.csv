@@ -1,7 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a2d43602-97f7-4f28-a90d-ba6b4f90207a,10/29/2026 08:00:00,Consumer Confidence (MoM),MEDIUM,SEK,Release,0.14,Confidence
-56bce99c-15a0-4b79-9aca-ced5578d553e,10/29/2026 08:00:00,Retail Sales (MoM),HIGH,SEK,Release,0.17,Growth
-a27918d6-8f50-479b-aa27-8ebe2238ac09,10/29/2026 08:00:00,Retail Sales (YoY),HIGH,SEK,Release,0.17,Growth
+a2d43602-97f7-4f28-a90d-ba6b4f90207a,10/29/2026 07:00:00,Consumer Confidence (MoM),MEDIUM,SEK,Release,0.14,Confidence
+56bce99c-15a0-4b79-9aca-ced5578d553e,10/29/2026 07:00:00,Retail Sales (MoM),HIGH,SEK,Release,0.17,Growth
+a27918d6-8f50-479b-aa27-8ebe2238ac09,10/29/2026 07:00:00,Retail Sales (YoY),HIGH,SEK,Release,0.17,Growth
 30471ad3-a20b-4f07-b60c-b87a1b6c2a19,11/02/2026 07:30:00,Manufacturing PMI,HIGH,SEK,Release,0.17,Growth
 e279f1bb-6d5a-4fc7-a229-b9e83d689f55,11/04/2026 08:30:00,Riksbank Interest Rate Decision,HIGH,SEK,Release,0.2,Monetary Policy
 6c38c28c-e526-40b3-9ff3-7e2dafcaf51c,11/05/2026 07:00:00,Consumer Price Index (MoM),HIGH,SEK,Release,0.19,Inflation
