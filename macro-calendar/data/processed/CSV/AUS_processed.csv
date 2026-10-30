@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-8ebd2d23-8adc-4619-93d7-05ccae2ae4d1,10/29/2026 00:30:00,Export Price Index (QoQ),MEDIUM,AUD,Release,0.11,Trade and External
-0529baf1-c13e-421b-95e8-de1b22183200,10/29/2026 00:30:00,Import Price Index (QoQ),HIGH,AUD,Release,0.19,Inflation
 42f3b716-de2d-412c-b532-515b9309fe48,10/30/2026 00:30:00,Private Sector Credit (MoM),LOW,AUD,Release,0.09,Money and Credit
 40df3157-25ed-4e0c-bb5f-d6f64abe9bd7,10/30/2026 00:30:00,Private Sector Credit (YoY),LOW,AUD,Release,0.09,Money and Credit
 8d1a3c3b-5973-4b2f-b545-6e5380c4bdcc,10/30/2026 00:30:00,Producer Price Index (QoQ),HIGH,AUD,Release,0.19,Inflation
@@ -576,3 +574,58 @@ cf1ff27c-b026-4882-8127-89ddad3397fe,10/29/2027 00:30:00,Import Price Index (QoQ
 a2cae75e-53ba-4a71-ad3e-1cb6d6d11314,10/29/2027 00:30:00,Producer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
 acf6eb9c-c0a1-4a35-9d2f-905dbdbaa836,10/29/2027 19:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 413a6c48-5c47-410d-b9c7-ce319400e2f1,10/31/2027 22:00:00,S&P Global Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
+69610bd2-c466-4ab6-b1ce-f7bdb029212e,11/01/2027 00:00:00,TD-MI Inflation Gauge (MoM),HIGH,AUD,Release,0.19,Inflation
+8157b693-3930-43d0-8ede-a7b0962a128f,11/01/2027 00:00:00,TD-MI Inflation Gauge (YoY),HIGH,AUD,Release,0.19,Inflation
+3f45878a-b6d9-4ba1-ae18-22cd751f8aeb,11/01/2027 05:30:00,RBA Commodity Index SDR (YoY),HIGH,AUD,Release,0.19,Inflation
+13efd895-06c6-4db0-8e6f-ba1cd14f8b69,11/02/2027 00:30:00,Building Permits (MoM),LOW,AUD,Release,0.07,Housing
+052b4067-d7a0-44c4-9c3b-90d8daf653fd,11/02/2027 00:30:00,Building Permits (YoY),LOW,AUD,Release,0.07,Housing
+891a922d-6124-447d-9ccd-7b4f2e05664b,11/02/2027 03:30:00,RBA Interest Rate Decision,MEDIUM,AUD,Speech,0.13,Monetary Policy
+7a074e53-9785-4d77-91fa-49f7aec3b181,11/02/2027 03:30:00,RBA Monetary Policy Statement,MEDIUM,AUD,Speech,0.13,Monetary Policy
+5256d65d-34cc-4df8-96ef-2e02f03bdf5f,11/02/2027 03:30:00,RBA Rate Statement,MEDIUM,AUD,Speech,0.13,Monetary Policy
+222362fa-e55e-4dbc-90e0-0f6474b55805,11/02/2027 04:30:00,RBA Press Conference,MEDIUM,AUD,Speech,0.13,Monetary Policy
+40a32a84-5ff8-431d-9193-6fca713d3069,11/02/2027 22:00:00,Ai Group Construction PMI,HIGH,AUD,Release,0.17,Growth
+b4abd819-5491-4c9c-aab5-638b6234b916,11/02/2027 22:00:00,Ai Group Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
+c77587f0-944c-49aa-b9fd-7c3f52cf14fc,11/02/2027 22:00:00,AiG Industry Index,HIGH,AUD,Release,0.17,Growth
+3e8d97e5-2557-4fe1-939d-14d3116bf00b,11/02/2027 22:00:00,S&P Global Composite PMI,HIGH,AUD,Release,0.17,Growth
+a3ebd65e-0fce-4634-8e59-18e34c8f7898,11/02/2027 22:00:00,S&P Global Services PMI,HIGH,AUD,Release,0.17,Growth
+b78e4ea7-84ad-4dfa-ba7f-aa1748b4a06b,11/04/2027 00:30:00,Exports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
+df5f1a77-aa60-4e17-a7a8-1a3b592af31c,11/04/2027 00:30:00,Imports (MoM),MEDIUM,AUD,Release,0.11,Trade and External
+ca887484-6902-4da1-bca3-4d93ca6e5550,11/04/2027 00:30:00,Trade Balance (MoM),MEDIUM,AUD,Release,0.11,Trade and External
+be32d615-d97c-4967-9758-9622952fe2d6,11/05/2027 19:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
+48f4d735-94f1-449e-829f-16d63d8b5c51,11/08/2027 23:30:00,Westpac Consumer Confidence,MEDIUM,AUD,Release,0.14,Confidence
+ff2ebe33-13f9-40cf-911c-dd6f6e8c1cc3,11/09/2027 00:30:00,National Australia Bank's Business Conditions,MEDIUM,AUD,Release,0.14,Confidence
+c0877917-558a-4054-98f9-2430022a1bd0,11/09/2027 00:30:00,National Australia Bank's Business Confidence,MEDIUM,AUD,Release,0.14,Confidence
+fff2ff4f-966f-4d12-81da-2d06870a3cb3,11/10/2027 00:30:00,Home Loans,LOW,AUD,Release,0.09,Money and Credit
+b713ac9a-2b5d-44ff-bfb1-e94f7c9df8b3,11/10/2027 00:30:00,Investment Lending for Homes,HIGH,AUD,Release,0.17,Growth
+776a876b-0d2a-457d-83b9-8fa4b2209d49,11/11/2027 00:00:00,Consumer Inflation Expectations,MEDIUM,AUD,Release,0.14,Confidence
+575f6ceb-a483-4798-b281-6519c2f31bca,11/12/2027 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
+d367ea15-6a67-4194-acce-2f665d8d9a38,11/16/2027 00:30:00,RBA Meeting Minutes,MEDIUM,AUD,Speech,0.13,Monetary Policy
+a039bef4-ed78-4781-9db0-168ab6c38267,11/17/2027 00:00:00,Westpac Leading Index (MoM),MEDIUM,AUD,Release,0.14,Confidence
+ea1e0e74-723a-4b4d-a0fb-cdfbf6843867,11/17/2027 00:30:00,Wage Price Index (QoQ),HIGH,AUD,Release,0.18,Labor Market
+e7d7900e-95aa-4f54-88eb-0b3f136e81f8,11/17/2027 00:30:00,Wage Price Index (YoY),HIGH,AUD,Release,0.18,Labor Market
+beb3ee89-b273-4e22-b344-85264da5e9ee,11/18/2027 00:30:00,Employment Change s.a.,HIGH,AUD,Release,0.18,Labor Market
+7dd8d5df-752c-447b-9e4e-f25206e6bd9f,11/18/2027 00:30:00,Full-Time Employment,HIGH,AUD,Release,0.18,Labor Market
+d4e95338-ba31-4a27-a0f7-79049d1ed6ad,11/18/2027 00:30:00,Part-Time Employment,HIGH,AUD,Release,0.18,Labor Market
+4ca374b7-e70a-4724-a569-5fe287b97b7c,11/18/2027 00:30:00,Participation Rate,HIGH,AUD,Release,0.18,Labor Market
+fc07d5b6-446a-474f-9638-065dd0bcc9c3,11/18/2027 00:30:00,Unemployment Rate s.a.,HIGH,AUD,Release,0.18,Labor Market
+c6cf30e9-c021-4214-92f4-06e265699790,11/19/2027 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
+3c97fb32-4ef6-42f5-a5ff-b5eacac23f91,11/21/2027 22:00:00,S&P Global Composite PMI,HIGH,AUD,Release,0.17,Growth
+c0f4c513-39fd-432f-b17b-7d7e1e20ebe7,11/21/2027 22:00:00,S&P Global Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
+af0196ab-5af8-437a-98b2-f7c21c04118e,11/21/2027 22:00:00,S&P Global Services PMI,HIGH,AUD,Release,0.17,Growth
+65508049-0742-43e4-862e-09809735a55b,11/24/2027 00:30:00,Construction Work Done,HIGH,AUD,Release,0.17,Growth
+aa09bb61-44a5-4d59-86be-29efad833cb9,11/24/2027 00:30:00,Consumer Price Index (MoM),HIGH,AUD,Release,0.19,Inflation
+8b9a0d97-6e3f-462c-8493-dacaba966053,11/24/2027 00:30:00,Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation
+cd7282f4-fef6-403d-bf45-d7c19c297fe7,11/24/2027 00:30:00,Trimmed Mean CPI (MoM),HIGH,AUD,Release,0.19,Inflation
+3ffc4a87-7078-4c63-a751-a84f5e6792f6,11/24/2027 00:30:00,Trimmed Mean CPI (YoY),HIGH,AUD,Release,0.19,Inflation
+9e4d0623-3b45-464c-a176-5aacdb099a34,11/25/2027 00:30:00,Private Capital Expenditure,HIGH,AUD,Release,0.17,Growth
+d7a15af0-519c-4239-bdab-a5d16024cbdf,11/26/2027 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
+92b2fab5-e6ab-45e9-a315-e2bac21da143,11/30/2027 00:30:00,Building Permits (MoM),LOW,AUD,Release,0.07,Housing
+d135eddc-54fc-4dfd-afe6-57038128d71a,11/30/2027 00:30:00,Building Permits (YoY),LOW,AUD,Release,0.07,Housing
+9694519e-a5a7-4d8d-ab59-3c0ea63d680a,11/30/2027 00:30:00,Company Gross Operating Profits (QoQ),HIGH,AUD,Release,0.17,Growth
+c8df351d-b66a-4492-8574-da98bad1cd52,11/30/2027 00:30:00,Current Account Balance,MEDIUM,AUD,Release,0.11,Trade and External
+249bc9ab-2cdc-4c5c-89ec-21e66751656a,11/30/2027 00:30:00,Private Sector Credit (MoM),LOW,AUD,Release,0.09,Money and Credit
+2b0f2060-7717-45e9-b451-2459f30f3373,11/30/2027 00:30:00,Private Sector Credit (YoY),LOW,AUD,Release,0.09,Money and Credit
+23877ade-baad-46d8-a6a3-55d46c2890f1,11/30/2027 22:00:00,Ai Group Construction PMI,HIGH,AUD,Release,0.17,Growth
+4a45a376-3423-4a6e-9617-032e6c10c655,11/30/2027 22:00:00,Ai Group Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
+796f9a99-46cb-401c-ac33-e89cbb635de6,11/30/2027 22:00:00,AiG Industry Index,HIGH,AUD,Release,0.17,Growth
+8dce8606-b928-4772-a742-6cb6c2587bad,11/30/2027 22:00:00,S&P Global Manufacturing PMI,HIGH,AUD,Release,0.17,Growth

@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0fd2316b-8be7-4696-8221-672cc4982530,10/29/2026 09:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
-28f70978-c691-4e18-9b44-b330ba91a2b8,10/29/2026 10:15:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
-5624e202-a55b-45e5-a4d6-0a10807cce12,10/29/2026 10:30:00,10-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
-8022276d-4fc3-4f2a-ac6f-aeec63eded87,10/29/2026 10:30:00,5-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
-923fb5c9-b7e4-4bd3-9b7e-aa30151919e1,10/29/2026 11:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
-7f5a6990-ef5b-4ab3-9f01-ebcdb68465ed,10/29/2026 11:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 b6f49397-d8f5-4326-a82a-dd6d4da5a49b,10/30/2026 09:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 d92bb6a4-80b6-4b4f-b646-3abe66405008,10/30/2026 09:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
 a6f925a0-2f2a-42cb-8e15-aded1a22d170,10/30/2026 10:00:00,Consumer Price Index (EU Norm) (MoM),HIGH,EUR,Release,0.807,Inflation
@@ -88,6 +82,8 @@ ce98d3b3-6966-459a-b1a6-078b6ea5c2df,01/29/2027 10:00:00,Consumer Price Index (M
 521aa2cc-6771-41e6-b009-f0bc6bbddc28,01/29/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 41fe6af8-ee29-4231-be58-fa399208e57b,01/29/2027 10:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 3ab657f5-316f-4061-a56b-37cf9c79d8ae,01/29/2027 10:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+232b738a-7d2f-4ffa-9e7d-8475e2a23ce4,02/01/2027 08:45:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+365bec68-f38b-4b24-a2f1-446df29ddcca,02/03/2027 08:45:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 293838de-17b3-446b-b0b1-495c84912933,02/10/2027 09:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 343978e1-94aa-4729-b294-76f465e25a04,02/10/2027 09:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
 838a1e8b-f9c8-4437-a0cc-31301591e323,02/16/2027 09:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
@@ -95,6 +91,8 @@ ce98d3b3-6966-459a-b1a6-078b6ea5c2df,01/29/2027 10:00:00,Consumer Price Index (M
 d5a192ff-d8a7-4453-84d3-877fdf7eb97f,02/26/2027 09:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
 1f575088-1be1-43a8-be78-ec520e7fcf81,02/26/2027 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 e7b3efaa-b594-4e00-9980-101d5911ed58,02/26/2027 09:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
+eea9ac03-d23c-4020-82b1-bd5bd6b889e3,03/01/2027 08:45:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+6d5e4fdf-6e3a-4db0-b064-1bef7db0ee82,03/03/2027 08:45:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 e9ef74b1-8845-4803-9654-8aa808c088a1,03/10/2027 09:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 0d8b57af-7152-48d1-b95e-d93ea3acab1a,03/10/2027 09:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
 81a9aba4-e355-4f3a-9093-68b7d54bee6c,03/16/2027 09:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
@@ -102,6 +100,8 @@ ddcc5b55-a2f0-40b8-ac61-b8a555838a0d,03/16/2027 09:00:00,Trade Balance EU,HIGH,E
 02200c26-4354-4ab9-8415-71e23baabc4d,03/30/2027 08:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
 c19d500d-6dc1-4d83-8e10-bbcd801bea49,03/31/2027 08:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
 1f3cb435-f721-420b-823b-d9bb4d83f6b2,03/31/2027 08:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+c91cc5bf-469a-42cd-a5d8-b18bb0ce7137,04/01/2027 07:45:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+2fb1ddd6-6dae-4b17-8c51-e222292d4fdd,04/05/2027 07:45:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 8adb14e0-4019-4ca3-b2c3-b8174e9d5189,04/09/2027 08:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 4b516f58-e660-40f0-b88e-f930a8697da5,04/09/2027 08:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
 71e1fcc8-0566-480b-a163-7ed163b86b47,04/15/2027 08:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
@@ -109,6 +109,8 @@ c19d500d-6dc1-4d83-8e10-bbcd801bea49,03/31/2027 08:00:00,Business Confidence,HIG
 7678ffda-1730-4781-8de9-88e58ec755fd,04/29/2027 08:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
 6e23e222-b617-4d23-9fea-5492e976b544,04/29/2027 08:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 70a162a5-bc7b-4e96-a516-cd4154253ab3,04/29/2027 08:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
+cea622ff-e2d9-4903-8150-5b9027f65c46,05/03/2027 07:45:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+ede4b5f7-2491-427a-bd64-4b5a0ab7514e,05/05/2027 07:45:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 32a384fd-459c-4495-8279-55fb3fcc4599,05/11/2027 08:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 74fb717e-0bdb-43dc-90a2-0ec74fad041a,05/11/2027 08:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
 be1a021d-a4f7-439f-8594-1a913a915dbe,05/17/2027 08:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
@@ -116,6 +118,8 @@ c70ce7e8-4b97-45d2-a2ad-caed01af2223,05/17/2027 08:00:00,Trade Balance EU,HIGH,E
 274bc545-9478-42b2-8ad3-b09ccdbdaea0,05/28/2027 08:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
 207d07d1-6158-45f6-98f0-3ba11b9e870b,05/28/2027 08:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 2fc126ec-b5ea-40d5-8a4a-e5f51f928d54,05/28/2027 08:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
+a9fced4d-b63b-4510-9d7a-35419ffd548b,06/01/2027 07:45:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+fc1e3406-046c-4893-a1b7-19dfdec7a4da,06/03/2027 07:45:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 0d5f87e1-0ca9-420e-bc39-4b7a3fc6c328,06/10/2027 08:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 d7cb762e-f1cf-4b60-8ea6-b2de034a544b,06/10/2027 08:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
 c31fb231-3847-4aff-adf2-15c9b8a155d2,06/17/2027 08:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
@@ -123,6 +127,8 @@ c31fb231-3847-4aff-adf2-15c9b8a155d2,06/17/2027 08:00:00,Global Trade Balance,HI
 548d26a8-f616-418d-b969-8e433548417d,06/29/2027 08:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
 59c7794e-e64c-4a48-919f-ffb4617c35f5,06/30/2027 08:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
 0215d6fa-3c5e-4373-addc-280401e78df5,06/30/2027 08:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+aaca7ccc-b08a-4bed-8090-494634b2e136,07/01/2027 07:45:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+dd108d1d-e0d3-4b77-ae19-1c2069334811,07/05/2027 07:45:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 8132b3f8-a31d-47b8-b66b-42583a7412c6,07/09/2027 08:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 67cf8667-d8e4-46a3-a3d6-758dc2c2d973,07/09/2027 08:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
 f2d0eb82-9dba-4bf7-83dc-2700e77122c5,07/15/2027 08:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
@@ -130,6 +136,8 @@ f8008724-e945-4263-b6b5-307d2eee6ac2,07/15/2027 08:00:00,Trade Balance EU,HIGH,E
 d48c457e-bfca-49d4-9407-f58e6d8f3595,07/29/2027 08:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
 5b58c316-7946-4697-8f30-5577eea9253e,07/30/2027 08:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
 00080f9e-dbb6-4769-bf26-c6c1bd956a88,07/30/2027 08:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+c006a82a-2068-4269-9a73-3081dae6b874,08/02/2027 07:45:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+de5a0ec3-7ce0-4dbf-ab6b-79de0e469673,08/04/2027 07:45:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 196e3159-aa56-48ab-bb48-5eed2a0a85c6,08/11/2027 08:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 695692a6-57e6-45ed-bd52-5c647e7764a1,08/11/2027 08:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
 e9f8f881-6a8c-404e-ae47-b35c010effa9,08/17/2027 08:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
@@ -137,6 +145,8 @@ fe26c57a-c9d4-4bf4-a22d-8e985fa5aff8,08/17/2027 08:00:00,Trade Balance EU,HIGH,E
 7bb296f4-97df-43f0-b3ef-e637cefb611c,08/30/2027 08:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
 5460c616-250b-4a2a-80a3-a056a6ef6531,08/31/2027 08:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
 ffd7f4c8-3ca0-4acc-9f6a-039d105707c2,08/31/2027 08:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+a2cfa0aa-1b99-4622-b3a7-940fbdcacb83,09/01/2027 07:45:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+bef22355-9fa8-417e-bec9-2cd7c7f939e0,09/03/2027 07:45:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 b01c9c70-53f3-447b-86c8-31fa4fab743e,09/10/2027 08:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 337fd3cb-452d-41f8-a3de-ae307787dad2,09/10/2027 08:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
 d1671ada-98a8-401b-afaa-9514807e29d4,09/16/2027 08:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
@@ -144,6 +154,8 @@ ae576861-cc3b-4645-b918-f2891d049456,09/16/2027 08:00:00,Trade Balance EU,HIGH,E
 8795b7fd-dec5-4abf-8a4f-a792d46a8eb1,09/28/2027 08:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
 e17b1508-f2e5-4090-a594-72072f77b423,09/28/2027 08:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 851c1e59-7c7d-4709-bb76-677b66d053f8,09/28/2027 08:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
+3611181e-2942-4928-9ccb-2adc96860cf1,10/01/2027 07:45:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+e6446094-8ddb-4da1-b5b2-cca39f1edf95,10/05/2027 07:45:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 b26d7cf8-9ba2-4fb5-b6ad-5f089af0952a,10/12/2027 08:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 2b52a7c6-38e1-4406-b7b3-338e10111058,10/12/2027 08:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
 9a3a79a2-b3e8-4ff9-b202-8b7d3a011117,10/14/2027 08:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
@@ -151,3 +163,12 @@ b26d7cf8-9ba2-4fb5-b6ad-5f089af0952a,10/12/2027 08:00:00,Industrial Output s.a. 
 25b7b2e8-7561-455a-a55d-0f61af7e0ed5,10/28/2027 09:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
 747800bb-2d54-4e6d-b165-93bb394f0aa3,10/28/2027 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 a4a6aaae-3aa0-4887-9531-fbc9f5888958,10/28/2027 09:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
+45fb0d81-70d2-4092-a918-e93692a2094a,11/01/2027 06:45:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+c8eb563e-0cd2-4c5a-8b90-3e415cf4d1c9,11/03/2027 06:45:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+9a50453a-f662-469c-b136-115863e49498,11/11/2027 09:00:00,Industrial Output s.a. (MoM),HIGH,EUR,Release,0.722,Growth
+ed68e6c6-93d7-4302-a712-8b605663fb05,11/11/2027 09:00:00,Industrial Output w.d.a (YoY),HIGH,EUR,Release,0.722,Growth
+c3f62030-5d25-4899-993f-0886cd57b77d,11/16/2027 09:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+8169a764-1154-4fbd-a55f-0ad4f1bce2e0,11/16/2027 09:00:00,Trade Balance EU,HIGH,EUR,Release,0.468,Trade and External
+b02738dc-b674-438e-a487-8ed7b04967eb,11/30/2027 09:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+21ccbcbc-6442-4b62-ac73-6f2c6227f66f,11/30/2027 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+d20cb3f1-1246-4261-823f-1112666e4fa9,11/30/2027 09:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External

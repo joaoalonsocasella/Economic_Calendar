@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-497810b9-c908-4a6d-934f-66e5ba37a93b,10/29/2026 09:30:00,Consumer Credit,MEDIUM,GBP,Release,0.14,Confidence
-09f036c0-c9fb-4e4f-84d0-62fcfe4146e1,10/29/2026 09:30:00,M4 Money Supply (MoM),HIGH,GBP,Release,0.19,Inflation
-25b43bff-9c50-4c50-bff9-ff43399babf1,10/29/2026 09:30:00,M4 Money Supply (YoY),HIGH,GBP,Release,0.19,Inflation
-d6221c82-77e5-4954-b0d0-c6132183f62f,10/29/2026 09:30:00,Mortgage Approvals,LOW,GBP,Release,0.07,Housing
-cd6b228d-3d21-4bb5-9b40-c551146c4fb7,10/29/2026 09:30:00,Net Lending to Individuals (MoM),MEDIUM,GBP,Release,0.11,Trade and External
 8f9153ca-434a-48f4-bec5-0b784c169fc3,10/30/2026 07:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP,Release,0.07,Housing
 ecdffecc-e012-410d-8f0b-bc82666db6a8,10/30/2026 07:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP,Release,0.07,Housing
 c55dcc2d-1149-4128-bb62-fa515d9e1b20,10/30/2026 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
@@ -818,3 +813,82 @@ ad556e95-99ae-4086-804f-40a631d48cad,10/22/2027 08:30:00,S&P Global Manufacturin
 a148b5cc-5ab5-4595-9339-1a10147ffbbf,10/22/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 68f2c388-d925-4ac6-a23c-353b0780fa95,10/29/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
 142575ab-76ad-437c-a7ee-ffdf61942c21,10/31/2027 02:00:00,Daylight Saving Time ends,HIGH,GBP,Release,0.2,Monetary Policy
+8c63da4e-1db9-4bfe-b200-0b092551a146,11/01/2027 00:01:00,BRC Shop Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
+813f97fa-1033-41ed-a198-60eab25faa8f,11/01/2027 09:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
+a1cc6552-04aa-4b2a-9eff-2f67c694930f,11/02/2027 07:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP,Release,0.07,Housing
+5e67b780-4da5-4af3-80c4-feba8d7d3b36,11/02/2027 07:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP,Release,0.07,Housing
+ed3b8f5b-2484-46e7-ba91-8ce04128898c,11/02/2027 09:30:00,Consumer Credit,MEDIUM,GBP,Release,0.14,Confidence
+703e1a64-7b32-40e4-9a90-7b4a6f8efae6,11/02/2027 09:30:00,M4 Money Supply (MoM),HIGH,GBP,Release,0.19,Inflation
+d2e3e0e1-a608-4eac-9d3e-af71f683cca3,11/02/2027 09:30:00,M4 Money Supply (YoY),HIGH,GBP,Release,0.19,Inflation
+1a5500f9-7adc-4889-be71-3dfec1589f6c,11/02/2027 09:30:00,Mortgage Approvals,LOW,GBP,Release,0.07,Housing
+05950d39-f6a4-4da8-a403-4f5ac1d75956,11/02/2027 09:30:00,Net Lending to Individuals (MoM),MEDIUM,GBP,Release,0.11,Trade and External
+06552890-62d2-4316-847d-9cc327a61947,11/03/2027 09:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
+d4ad9b7d-9a7c-46d7-bed2-f87c37e02e97,11/03/2027 09:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
+630c67f5-23c8-4caf-8b47-4978f1b11398,11/04/2027 09:30:00,S&P Global Construction PMI,HIGH,GBP,Release,0.17,Growth
+6ea7b7d5-27ac-46f2-8c26-4f91347b7cc9,11/04/2027 11:00:00,BoE Monetary Policy Summary,MEDIUM,GBP,Speech,0.13,Monetary Policy
+299612d3-000f-42f2-b2bc-b3cafbc8030f,11/04/2027 12:00:00,BoE Interest Rate Decision,MEDIUM,GBP,Speech,0.13,Monetary Policy
+4a155c81-e52a-4810-8405-685ff48ed72c,11/04/2027 12:00:00,BoE Minutes,HIGH,GBP,Release,0.2,Monetary Policy
+fb607163-38c8-4805-ab96-8a762504607f,11/04/2027 12:00:00,BoE Monetary Policy Report,MEDIUM,GBP,Speech,0.13,Monetary Policy
+27303efc-aed0-4e52-a8bb-338a18e3f8e6,11/04/2027 12:00:00,BoE MPC Vote Rate Cut,MEDIUM,GBP,Speech,0.13,Monetary Policy
+9a968a36-d067-4680-a571-df3b01b62e3e,11/04/2027 12:00:00,BoE MPC Vote Rate Hike,MEDIUM,GBP,Speech,0.13,Monetary Policy
+2b06f4e8-e62f-4515-8639-8b73a0fdeb9a,11/04/2027 12:00:00,BoE MPC Vote Rate Unchanged,MEDIUM,GBP,Speech,0.13,Monetary Policy
+32cbc09c-8d75-4a8e-bb89-5a89ecd10fb8,11/04/2027 12:30:00,BoE's Governor Bailey speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
+00e91c92-6d7e-444e-88c7-45926800352c,11/05/2027 19:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+9990c6a2-5357-43c3-9aeb-308675d21528,11/08/2027 07:00:00,Lloyds House Price Index (MoM),LOW,GBP,Release,0.07,Housing
+817d7daa-bcf3-4c60-b55e-1cd6f79dbf51,11/08/2027 07:00:00,Lloyds House Price Index (YoY),LOW,GBP,Release,0.07,Housing
+6a842220-3d9b-4075-8f25-7ed9a2039541,11/09/2027 00:01:00,BRC Like-For-Like Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
+47c31796-9450-407a-a4c2-79d79ab92f9a,11/11/2027 00:01:00,RICS Housing Price Balance,LOW,GBP,Release,0.07,Housing
+c3e4377a-3a35-4549-9062-b0eee298462c,11/12/2027 07:00:00,Goods Trade Balance,MEDIUM,GBP,Release,0.11,Trade and External
+17a3d640-3e69-4088-a299-08fceec37d0a,11/12/2027 07:00:00,Gross Domestic Product (MoM),LOW,GBP,Release,0.07,Housing
+38616cb1-7359-49a1-a829-c434244607cd,11/12/2027 07:00:00,Gross Domestic Product (QoQ),HIGH,GBP,Release,0.17,Growth
+1eb9d0f8-d106-46ff-aee5-a568eb092e31,11/12/2027 07:00:00,Gross Domestic Product (YoY),HIGH,GBP,Release,0.17,Growth
+d3b69827-b59c-409a-9a70-e052f4e54ff5,11/12/2027 07:00:00,Index of Services (3M/3M),MEDIUM,GBP,Release,0.14,Confidence
+645c332d-b902-4ea5-b8ad-4a2eb6db4957,11/12/2027 07:00:00,Industrial Production (MoM),HIGH,GBP,Release,0.17,Growth
+a99fc48a-b3ca-4c60-a8fb-14a83e3bc7aa,11/12/2027 07:00:00,Industrial Production (YoY),HIGH,GBP,Release,0.17,Growth
+2842dc23-cfd9-4014-b88d-c6040927ffb8,11/12/2027 07:00:00,Manufacturing Production (MoM),HIGH,GBP,Release,0.17,Growth
+ea09b3e0-1e75-4c58-8766-c87acdf33c19,11/12/2027 07:00:00,Manufacturing Production (YoY),HIGH,GBP,Release,0.17,Growth
+f1e8a57e-8c4a-46ea-99f6-af64039c3989,11/12/2027 07:00:00,Total Business Investment (QoQ),HIGH,GBP,Release,0.17,Growth
+4fda8931-f4f6-469d-afd0-f040d8b430ec,11/12/2027 07:00:00,Total Business Investment (YoY),HIGH,GBP,Release,0.17,Growth
+1ceec195-4ff1-485c-a512-244ca6fe5855,11/12/2027 07:00:00,Total Trade Balance,MEDIUM,GBP,Release,0.11,Trade and External
+83596fec-97a1-411d-b479-0e477cae8ef2,11/12/2027 07:00:00,Trade Balance; non-EU,MEDIUM,GBP,Release,0.11,Trade and External
+498925d6-0a96-4019-870f-de4330af2d7c,11/12/2027 13:00:00,NIESR GDP Estimate (3M),HIGH,GBP,Release,0.17,Growth
+568c3ded-b33c-4341-999d-cded178b2015,11/12/2027 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+3d835ad1-9a53-4b07-a15d-0860a59dd30a,11/15/2027 00:01:00,Rightmove House Price Index (MoM),LOW,GBP,Release,0.07,Housing
+91ffd2b5-c607-4d10-ad18-eb8d9e42a499,11/15/2027 00:01:00,Rightmove House Price Index (YoY),LOW,GBP,Release,0.07,Housing
+b06107fb-c134-4f85-9886-d76738d389f5,11/16/2027 06:00:00,Average Earnings Including Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
+2bc63811-9995-4247-8878-efb138c57089,11/16/2027 07:00:00,Average Earnings Excluding Bonus (3Mo/Yr),HIGH,GBP,Release,0.18,Labor Market
+ccc5b104-fa3a-462b-9c87-83cd7d9ca526,11/16/2027 07:00:00,Claimant Count Change,HIGH,GBP,Release,0.18,Labor Market
+b327518d-41ac-4034-82b6-2d19e5e41433,11/16/2027 07:00:00,Claimant Count Rate,HIGH,GBP,Release,0.18,Labor Market
+c1a9605d-edcd-4aea-81a9-0b0ff00f0632,11/16/2027 07:00:00,Employment Change (3M),HIGH,GBP,Release,0.18,Labor Market
+d6b4c409-7c6b-4991-9fd9-f5fa94e8bfbc,11/16/2027 07:00:00,ILO Unemployment Rate (3M),HIGH,GBP,Release,0.18,Labor Market
+9054cf76-b758-4b6f-836c-4c9964b8206b,11/17/2027 07:00:00,Consumer Price Index (MoM),HIGH,GBP,Release,0.19,Inflation
+92fe51c2-e9fc-4762-9c94-473906f41e3d,11/17/2027 07:00:00,Consumer Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
+0fd7f387-ad50-40cf-97b7-b79cccae2ff7,11/17/2027 07:00:00,Core Consumer Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
+3ba7e974-7446-4dd9-9f2e-4bac30173774,11/17/2027 07:00:00,PPI Core Output (MoM) n.s.a,HIGH,GBP,Release,0.19,Inflation
+7f88d909-38b2-4779-8279-d6e3f88943eb,11/17/2027 07:00:00,PPI Core Output (YoY) n.s.a ,HIGH,GBP,Release,0.19,Inflation
+795879c5-19d6-49c6-bfe0-c946dade3909,11/17/2027 07:00:00,Producer Price Index - Input (MoM) n.s.a,HIGH,GBP,Release,0.19,Inflation
+0468a804-f74c-4bbc-b4dc-4e9433629202,11/17/2027 07:00:00,Producer Price Index - Input (YoY) n.s.a,HIGH,GBP,Release,0.19,Inflation
+bd389e4c-60c4-4f51-b5a6-44315de495bf,11/17/2027 07:00:00,Producer Price Index - Output (MoM) n.s.a,HIGH,GBP,Release,0.19,Inflation
+56c5cb2c-d495-4286-aafa-ed8d48e99237,11/17/2027 07:00:00,Producer Price Index - Output (YoY) n.s.a,HIGH,GBP,Release,0.19,Inflation
+dac7b51a-c016-4ef7-9818-6fa8c4685c5e,11/17/2027 07:00:00,Retail Price Index (MoM),HIGH,GBP,Release,0.19,Inflation
+b500710f-75e2-45c2-9341-2b4f726bbd75,11/17/2027 07:00:00,Retail Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
+4180010e-2ac9-4e8c-bb2b-4c68344ac84c,11/17/2027 09:30:00,DCLG House Price Index (YoY),LOW,GBP,Release,0.07,Housing
+4b14ee74-8b91-4237-8d62-9afc971a2991,11/19/2027 00:01:00,GfK Consumer Confidence,MEDIUM,GBP,Release,0.14,Confidence
+3095cfac-c89d-42cb-9d55-8cfa33d4edf4,11/19/2027 07:00:00,Public Sector Net Borrowing,LOW,GBP,Release,0.09,Money and Credit
+32906635-328b-4164-b1ee-b65cd0ec4345,11/19/2027 07:00:00,Retail Sales (MoM),HIGH,GBP,Release,0.17,Growth
+beee1977-d89c-48dc-81c9-3fb41257e4fc,11/19/2027 07:00:00,Retail Sales (YoY),HIGH,GBP,Release,0.17,Growth
+26c118d2-59e3-4eec-b936-26536cd9e245,11/19/2027 07:00:00,Retail Sales ex-Fuel (MoM),HIGH,GBP,Release,0.17,Growth
+747a1476-79b3-4d29-ae16-687fd5eb42ed,11/19/2027 07:00:00,Retail Sales ex-Fuel (YoY),HIGH,GBP,Release,0.17,Growth
+3e2fa5e8-89bb-4e6a-8c0b-3412d514cd58,11/19/2027 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+cacb7dfc-660c-4599-980f-9a24734c7597,11/22/2027 09:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
+0429a25b-fe46-47e7-979d-05fa06d7318c,11/22/2027 09:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
+f232c675-fe1f-4b3f-b0ba-2c2110f8ddf3,11/22/2027 09:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
+3520f9bd-eb20-44ab-a395-848f4667c29a,11/26/2027 20:30:00,CFTC GBP NC Net Positions,LOW,GBP,Release,0.09,Money and Credit
+07e4343b-da7e-49a5-a558-8bdca8415911,11/30/2027 00:01:00,BRC Shop Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
+7414dabb-324e-4f62-b7dc-e5f4aa542ffc,11/30/2027 07:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP,Release,0.07,Housing
+0d11ff5e-4467-4e31-a56e-e6ce5d2fc7d7,11/30/2027 07:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP,Release,0.07,Housing
+80da1719-09dd-4fe2-8178-e110e46ca1df,11/30/2027 09:30:00,Consumer Credit,MEDIUM,GBP,Release,0.14,Confidence
+bee7afdf-5214-43f6-82a6-56df470085ec,11/30/2027 09:30:00,M4 Money Supply (MoM),HIGH,GBP,Release,0.19,Inflation
+db21ae11-1e0b-432e-a678-eeb94e872c8a,11/30/2027 09:30:00,M4 Money Supply (YoY),HIGH,GBP,Release,0.19,Inflation
+cd1341a1-b49c-43d8-9a8a-ce83d931c444,11/30/2027 09:30:00,Mortgage Approvals,LOW,GBP,Release,0.07,Housing
+850eccb7-80e0-4b95-970b-97e87e3edc02,11/30/2027 09:30:00,Net Lending to Individuals (MoM),MEDIUM,GBP,Release,0.11,Trade and External

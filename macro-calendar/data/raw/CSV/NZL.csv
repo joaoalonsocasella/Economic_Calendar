@@ -1,7 +1,4 @@
 Id,Start,Name,Impact,Currency
-80d48403-d0f3-4c1a-8fb7-601d3b818e62,10/29/2026 00:00:00,ANZ Activity Outlook,LOW,NZD
-2bc7dbee-a300-4d93-a12e-32ad7b95fea5,10/29/2026 00:00:00,ANZ Business Confidence,LOW,NZD
-3c1d4c1b-8033-4037-b8af-a5dfe6b42bc5,10/29/2026 21:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD
 c3029ba8-be78-48e6-8537-f60b99e98cfa,11/02/2026 21:45:00,Building Permits s.a. (MoM),MEDIUM,NZD
 85ef398c-50eb-4b61-ab4e-84af60844025,11/03/2026 15:00:00,GDT Price Index,LOW,NZD
 476f8494-00cd-428d-80e3-6059f5d48c78,11/03/2026 21:45:00,Employment Change,HIGH,NZD
@@ -325,3 +322,31 @@ e74bded7-d1f3-42d1-9a8b-385d139593bf,10/27/2027 01:00:00,RBNZ Interest Rate Deci
 35db0b3b-b2be-4b90-962a-e3dee88de3e1,10/28/2027 00:00:00,ANZ Activity Outlook,LOW,NZD
 006ea966-374b-4280-a607-dce122058d60,10/28/2027 00:00:00,ANZ Business Confidence,LOW,NZD
 4edaf0a1-ebaf-47ae-9435-fbc7ea96c6ed,10/28/2027 21:00:00,ANZ – Roy Morgan Consumer Confidence,MEDIUM,NZD
+ca131973-7849-49fe-8c6f-6d7e4d314c17,11/02/2027 15:00:00,GDT Price Index,LOW,NZD
+a134c263-b873-4821-9bf6-0148b84776e4,11/02/2027 21:45:00,Building Permits s.a. (MoM),MEDIUM,NZD
+f1150eb0-e7ac-4dab-be13-3c6fa8fabb2e,11/02/2027 21:45:00,Employment Change,HIGH,NZD
+4ab6bde1-d0b5-4728-a874-ce9854b60d23,11/02/2027 21:45:00,Labour Cost Index (QoQ),MEDIUM,NZD
+ab91193d-8a32-4cc0-ad6a-e575dbcced7b,11/02/2027 21:45:00,Labour Cost Index (YoY),LOW,NZD
+13e38058-b05b-4420-93c9-d9b34d7d7483,11/02/2027 21:45:00,Participation Rate,MEDIUM,NZD
+e7a4a274-ff2b-4c4f-a1dc-590087f2a75c,11/02/2027 21:45:00,Unemployment Rate,HIGH,NZD
+f34058f5-e87a-4931-a3dd-3d0f4fba2a87,11/04/2027 00:00:00,ANZ Commodity Price,LOW,NZD
+00cdd3e4-94c0-443c-806a-080f773996aa,11/11/2027 01:00:00,RBNZ Inflation Expectations (QoQ),HIGH,NZD
+77e8837d-84cf-4b89-aaee-3a05c105f48b,11/11/2027 21:30:00,Business NZ PMI,MEDIUM,NZD
+74b0ff7b-5cea-4df0-aacb-d0fdd3228f58,11/11/2027 21:45:00,Visitor Arrivals (YoY),LOW,NZD
+ea8c056b-edad-40d7-bd41-ea7377993da6,11/14/2027 21:30:00,Business NZ PSI,MEDIUM,NZD
+f6ff1602-235d-46d4-b668-410dd59dab50,11/14/2027 21:45:00,Electronic Card Retail Sales  (MoM),LOW,NZD
+4297a75c-d2ab-44b3-953d-cdb987d4bee2,11/14/2027 21:45:00,Electronic Card Retail Sales (YoY),LOW,NZD
+e0fee945-e47f-4d9b-a4cb-086c2fd3fc3d,11/15/2027 21:45:00,Food Price Index (MoM),LOW,NZD
+fb146a2b-6fdd-44a6-8d76-799dca7d9376,11/16/2027 15:00:00,GDT Price Index,LOW,NZD
+d0f7d5c7-1424-49fd-8015-9e224d8c9860,11/17/2027 21:45:00,Producer Price Index - Input (QoQ),LOW,NZD
+91261bf5-4a89-4126-a2c5-79e743c0fbaa,11/17/2027 21:45:00,Producer Price Index - Output (QoQ),MEDIUM,NZD
+29b21336-ddc0-4135-81db-efd0db390282,11/18/2027 21:45:00,Exports,MEDIUM,NZD
+06c5d9ca-7f11-4470-ba8f-a513a4b026a6,11/18/2027 21:45:00,Imports,MEDIUM,NZD
+017c91d0-fe25-46eb-8ec0-0dad8d293309,11/18/2027 21:45:00,Trade Balance NZD (MoM),LOW,NZD
+aa7a601c-61ac-40cf-ad23-c4590f00d05d,11/18/2027 21:45:00,Trade Balance NZD (YoY),MEDIUM,NZD
+0d1c7ee3-a2b7-4e7e-bc78-9c3f47cac939,11/22/2027 02:00:00,Credit Card Spending (YoY),LOW,NZD
+fa7a9d41-f6a8-4575-b957-848a4860aa1d,11/24/2027 21:45:00,Retail Sales (QoQ),HIGH,NZD
+84d5822f-46ab-4799-865e-9da25b47149b,11/24/2027 21:45:00,Retail Sales ex Autos (QoQ),MEDIUM,NZD
+2208c8bb-1920-4f59-b0dc-edd16bb1c1cf,11/30/2027 00:00:00,ANZ Activity Outlook,LOW,NZD
+f32bc97a-0a9c-4a41-8f98-8998f20df1d0,11/30/2027 00:00:00,ANZ Business Confidence,LOW,NZD
+9e03ad4b-502a-4ecb-9505-1de8bedd9fa3,11/30/2027 21:45:00,Building Permits s.a. (MoM),MEDIUM,NZD

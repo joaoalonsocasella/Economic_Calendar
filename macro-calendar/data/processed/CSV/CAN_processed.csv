@@ -2,6 +2,7 @@
 1b5432e7-7e89-496e-a359-c94e72e5bdba,10/30/2026 12:30:00,Gross Domestic Product (MoM),LOW,CAD,Release,0.07,Housing
 4252c666-55b8-4d2d-bf5d-0760a91a1812,11/01/2026 07:00:00,Daylight Saving Time ends,HIGH,CAD,Release,0.2,Monetary Policy
 f1f907e1-0253-4525-b536-e577d3aee3df,11/02/2026 14:30:00,S&P Global Manufacturing PMI,HIGH,CAD,Release,0.17,Growth
+8cd99d1d-035c-4b53-bb29-72c813a68d36,11/03/2026 16:00:00,BoC's Governor Macklem speech,MEDIUM,CAD,Speech,0.13,Monetary Policy
 ef8bd21d-788c-4ffa-92d3-23033cb1af0c,11/04/2026 13:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
 990358e7-a27a-4f45-8106-06c3bf165173,11/04/2026 13:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
 36acbaa9-6f06-497f-ad50-1853e6e2fdd7,11/04/2026 13:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
@@ -442,3 +443,40 @@ fff5c705-d36b-4304-ba73-f4de28db32b7,10/27/2027 13:45:00,BoC Interest Rate Decis
 3bb56f27-4476-481d-8e6e-c1bce3fa8454,10/27/2027 13:45:00,BoC Monetary Policy Statement,MEDIUM,CAD,Speech,0.13,Monetary Policy
 eda7407b-08d8-47ec-8c8f-1e9ee57c7a67,10/27/2027 14:30:00,BoC Press Conference,MEDIUM,CAD,Speech,0.13,Monetary Policy
 37067f00-6115-4373-b684-5f328474410b,10/29/2027 12:30:00,Gross Domestic Product (MoM),LOW,CAD,Release,0.07,Housing
+46eba2f1-3009-4e70-bb8d-8fb6f35268ac,11/01/2027 13:30:00,S&P Global Manufacturing PMI,HIGH,CAD,Release,0.17,Growth
+8d69f530-3db2-4d2d-bb14-f930ba6e76ff,11/04/2027 12:30:00,Exports,MEDIUM,CAD,Release,0.11,Trade and External
+968abbf3-432c-4168-ae70-c954acb72ac6,11/04/2027 12:30:00,Imports,MEDIUM,CAD,Release,0.11,Trade and External
+b3a85fa8-df66-4f7e-9ada-4e97e7a4788a,11/04/2027 12:30:00,International Merchandise Trade,MEDIUM,CAD,Release,0.11,Trade and External
+559c5269-3d56-4991-b506-162fac4ee4d3,11/04/2027 14:00:00,Ivey Purchasing Managers Index,MEDIUM,CAD,Release,0.14,Confidence
+85e83687-a80c-47de-a587-7d43985e5d0e,11/04/2027 14:00:00,Ivey Purchasing Managers Index s.a,MEDIUM,CAD,Release,0.14,Confidence
+f1c11baf-0d8d-4aa3-a107-ee82c8541dd9,11/05/2027 12:30:00,Average Hourly Wages (YoY),HIGH,CAD,Release,0.18,Labor Market
+44b76d9f-0f5c-4353-933c-25af29d4d200,11/05/2027 12:30:00,Net Change in Employment,HIGH,CAD,Release,0.18,Labor Market
+3869482a-6e77-44ad-a4be-80d4a336ef91,11/05/2027 12:30:00,Participation Rate,HIGH,CAD,Release,0.18,Labor Market
+9b77c5bb-181c-4250-a556-60d49838188c,11/05/2027 12:30:00,Unemployment Rate,HIGH,CAD,Release,0.18,Labor Market
+6ed4f058-4d77-46cc-bd17-cbbb14bf9762,11/07/2027 07:00:00,Daylight Saving Time ends,HIGH,CAD,Release,0.2,Monetary Policy
+7313b3fc-76e6-4215-af30-92a69949147a,11/10/2027 18:30:00,BoC Summary of Deliberations,HIGH,CAD,Release,0.2,Monetary Policy
+29cad4a0-4962-4f64-853c-021a3f7ee896,11/12/2027 13:30:00,Building Permits (MoM),LOW,CAD,Release,0.07,Housing
+2c7d13f2-dc8b-4de2-b7f2-4772fe01010c,11/15/2027 13:30:00,BoC Consumer Price Index Core (MoM),HIGH,CAD,Release,0.19,Inflation
+b7cdce5b-cb11-4d97-bd9b-4f4fd5f6af5d,11/15/2027 13:30:00,BoC Consumer Price Index Core (YoY),HIGH,CAD,Release,0.19,Inflation
+7b0cccff-4a28-4e20-bb61-b508ac170cb4,11/15/2027 13:30:00,Consumer Price Index - Core (MoM),HIGH,CAD,Release,0.19,Inflation
+e89f7d08-230a-4230-b70b-24a1fd2750b8,11/15/2027 13:30:00,Consumer Price Index (MoM),HIGH,CAD,Release,0.19,Inflation
+bbc0d42a-9496-4cc2-b93e-f6d3c2c5a2e9,11/15/2027 13:30:00,Consumer Price Index (YoY),HIGH,CAD,Release,0.19,Inflation
+471373db-b180-4b1d-a7f4-b58a3694b81a,11/15/2027 13:30:00,CPI Common (YoY),HIGH,CAD,Release,0.19,Inflation
+93f367d6-2e28-48e2-b667-0771536dc89b,11/15/2027 13:30:00,CPI Median (YoY),HIGH,CAD,Release,0.19,Inflation
+5cb155e7-0e91-42d7-b5b0-4676acc9e1fd,11/15/2027 13:30:00,CPI Trimmed Mean (YoY),HIGH,CAD,Release,0.19,Inflation
+28308304-b91a-4321-8faa-c7ee0a2fb9d0,11/15/2027 13:30:00,Manufacturing Sales (MoM),HIGH,CAD,Release,0.17,Growth
+60e7a5f9-1252-40ca-95a6-eb007ad1859a,11/16/2027 13:30:00,Wholesale Sales (MoM),HIGH,CAD,Release,0.17,Growth
+4d6c4a00-0f2d-4eee-8dc5-9d82fb790031,11/17/2027 13:15:00,Housing Starts s.a (YoY),LOW,CAD,Release,0.07,Housing
+11c23a4e-2a77-4b81-9100-05cb494c75dd,11/17/2027 13:30:00,Canadian Portfolio Investment in Foreign Securities,MEDIUM,CAD,Release,0.11,Trade and External
+885f9f85-3a61-463c-b5de-789e43fd10c1,11/17/2027 13:30:00,Foreign Portfolio Investment in Canadian Securities,MEDIUM,CAD,Release,0.11,Trade and External
+e44fceb1-265e-45fb-ac77-c394b3a3b8a3,11/18/2027 13:30:00,Employment Insurance Beneficiaries Change (MoM),HIGH,CAD,Release,0.18,Labor Market
+8116ef2c-e5e0-4ab8-a654-be286a45694f,11/18/2027 13:30:00,Industrial Product Price (MoM),HIGH,CAD,Release,0.19,Inflation
+872fd961-a360-4fcb-a70b-a2ce91d6001e,11/18/2027 13:30:00,Raw Material Price Index,MEDIUM,CAD,Release,0.11,Trade and External
+cf33accf-19e6-4f84-bd4b-e3554009617e,11/19/2027 13:30:00,New Housing Price Index (MoM),LOW,CAD,Release,0.07,Housing
+3d9a30a3-dcc6-4c69-813b-1dc8ae2dec36,11/19/2027 13:30:00,New Housing Price Index (YoY),LOW,CAD,Release,0.07,Housing
+e308bab3-5360-447a-a553-ea1aac5ef2af,11/19/2027 13:30:00,Retail Sales (MoM),HIGH,CAD,Release,0.17,Growth
+691148eb-ba20-449e-a4cb-04b092c17285,11/19/2027 13:30:00,Retail Sales ex Autos (MoM),HIGH,CAD,Release,0.17,Growth
+bae21a07-24be-4486-9732-bd2ca3bc3da2,11/30/2027 13:30:00,Current Account,MEDIUM,CAD,Release,0.11,Trade and External
+9beb2f64-5d50-4bdf-9ad2-242e685157a9,11/30/2027 13:30:00,Gross Domestic Product (MoM),LOW,CAD,Release,0.07,Housing
+5f489382-fa31-408d-9597-7c47619154d1,11/30/2027 13:30:00,Gross Domestic Product (QoQ),HIGH,CAD,Release,0.17,Growth
+ca6addf6-7108-445b-871e-993eba92cdeb,11/30/2027 13:30:00,Gross Domestic Product Annualized,HIGH,CAD,Release,0.17,Growth
