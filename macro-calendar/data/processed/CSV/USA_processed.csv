@@ -1,13 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-43f7500e-0290-42c0-b26a-4cb0c3a417cf,10/30/2026 12:30:00,Employment Cost Index,HIGH,USD,Release,0.18,Labor Market
-e4c6d87b-1050-4126-a653-ba9196c86482,10/30/2026 13:30:00,Fed's Barkin speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-bf21966a-d0a3-4fb8-99f5-17d9782bc949,10/30/2026 13:45:00,Chicago PMI,MEDIUM,USD,Release,0.14,Confidence
-1a25e7ea-f4bf-4980-a4b5-ff20d6efa5e0,10/30/2026 16:00:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-6addb140-c8b2-426d-acba-f34fb1d9df10,10/30/2026 16:30:00,Fed's Musalem speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-a39f4b13-c8d4-449d-b27c-8f09d541f0a2,10/30/2026 17:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
-ebaafba8-5714-4869-992e-a71eea6ae64e,10/30/2026 19:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-08b0c315-b67b-4a6a-b195-cdb80e74e79f,10/30/2026 19:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-69cbc8d3-d971-442b-a64e-d257a4fa5208,10/30/2026 19:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 6c69e419-d92d-4c60-9532-5f99af243b7b,11/01/2026 07:00:00,Daylight Saving Time ends,HIGH,USD,Release,0.2,Monetary Policy
 d42f8a0e-8570-488a-b923-44bc237dc067,11/02/2026 14:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
 fda7f5ff-53f7-4d9c-a97d-723a0f724b46,11/02/2026 15:00:00,Construction Spending (MoM),HIGH,USD,Release,0.17,Growth

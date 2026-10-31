@@ -1,27 +1,4 @@
 Id,Start,Name,Impact,Currency
-3235bf43-6c67-489c-b7d5-06eb151fa6f0,10/30/2026 07:00:00,Import Price Index (MoM),LOW,EUR
-73dc7501-aba4-4303-9f62-fe806b13577c,10/30/2026 07:00:00,Import Price Index (YoY),LOW,EUR
-cc83bcc1-07bf-4e6b-b1d3-49c7d31e8f77,10/30/2026 08:55:00,Unemployment Change,MEDIUM,EUR
-49a5166f-6eb1-4829-a6d8-862895e21361,10/30/2026 08:55:00,Unemployment Rate s.a.,MEDIUM,EUR
-4675e236-aa99-40a1-b176-a1e31cfbd231,10/30/2026 09:00:00,Baden-Wuerttemberg CPI (MoM),LOW,EUR
-66690624-8633-4e60-8592-14d553362419,10/30/2026 09:00:00,Baden-Wuerttemberg CPI (YoY),LOW,EUR
-23fef8e1-8bb7-4c64-ae3c-c4e0488d9cad,10/30/2026 09:00:00,Bavaria CPI (MoM),LOW,EUR
-ea81a3fa-c17a-45ed-adb8-f477fea5dcb6,10/30/2026 09:00:00,Bavaria CPI (YoY),LOW,EUR
-fc1dc21a-419e-48df-9b96-d3706b615451,10/30/2026 09:00:00,Brandenburg CPI (MoM),LOW,EUR
-756697a0-e66e-40ff-9dae-df65bf617a9d,10/30/2026 09:00:00,Brandenburg CPI (YoY),LOW,EUR
-84d0b0b0-1302-4a98-93c3-bd17895edfff,10/30/2026 09:00:00,Gross Domestic Product (QoQ),HIGH,EUR
-6211a08d-0a37-416e-a4b5-0a4bd9f49ebb,10/30/2026 09:00:00,Gross Domestic Product (YoY),HIGH,EUR
-b3a3d110-97fd-4e37-8cdd-c1c140f7962e,10/30/2026 09:00:00,Gross Domestic Product w.d.a (YoY),MEDIUM,EUR
-29161ace-dd8b-462e-b249-ee064f02f6db,10/30/2026 09:00:00,Hesse CPI (MoM),LOW,EUR
-b663355d-3790-4bd3-a6ce-7c5b32edb9e2,10/30/2026 09:00:00,Hesse CPI (YoY),LOW,EUR
-ab51cc57-90eb-416b-bc99-bee8f4b49abd,10/30/2026 09:00:00,North Rhine-Westphalia CPI (MoM),LOW,EUR
-b353b532-1cd5-49d2-869f-7f4140aa4f65,10/30/2026 09:00:00,North Rhine-Westphalia CPI (YoY),LOW,EUR
-549f8b74-83f4-4530-8d1c-eda7e2dda92a,10/30/2026 09:00:00,Saxony CPI (MoM),LOW,EUR
-182330f9-8ff2-4416-af08-d24dfd72510a,10/30/2026 09:00:00,Saxony CPI (YoY),LOW,EUR
-35532f93-5725-4b4f-acb6-1c532e95e05a,10/30/2026 13:00:00,Consumer Price Index (MoM),HIGH,EUR
-150cb4fa-65ec-4f45-8019-e9c21a4b71bb,10/30/2026 13:00:00,Consumer Price Index (YoY),HIGH,EUR
-13e6ba29-19a1-4077-abc0-1b19200dc7bd,10/30/2026 13:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
-ae8c625c-d971-4dda-a2c1-81c4a9c42c33,10/30/2026 13:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
 ef3c559c-01ea-4acb-8490-527eda2740d3,11/02/2026 07:00:00,Retail Sales (MoM),MEDIUM,EUR
 9178ea53-e8af-4ecc-b24c-56a76b9c1399,11/02/2026 07:00:00,Retail Sales (YoY),HIGH,EUR
 fd330297-0078-4bf5-bad3-5af68f680d60,11/02/2026 08:55:00,HCOB Manufacturing PMI,MEDIUM,EUR

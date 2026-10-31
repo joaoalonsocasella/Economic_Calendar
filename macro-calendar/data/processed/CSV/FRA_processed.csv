@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-3066d636-6420-4eae-9510-d6a8650602bb,10/30/2026 06:30:00,Consumer Spending (MoM),HIGH,EUR,Release,0.722,Growth
-7d36e389-5c11-4833-94b6-62f93911b368,10/30/2026 06:30:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
-b0657e14-b8dd-4ee3-bfd4-20c4c21047a1,10/30/2026 07:45:00,Consumer Price Index (EU norm) (MoM),HIGH,EUR,Release,0.807,Inflation
-eb742565-0494-4a44-afa0-7a5bcd6d4214,10/30/2026 07:45:00,Consumer Price Index (EU norm) (YoY),HIGH,EUR,Release,0.807,Inflation
-11da2312-0c4e-4f4c-aa71-9529bce79b11,10/30/2026 07:45:00,Producer Prices (MoM),HIGH,EUR,Release,0.807,Inflation
 9187a90a-8617-497c-b223-54ad76421307,11/02/2026 08:50:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 351cc976-bcba-42a2-955c-663c4f773f8a,11/03/2026 07:45:00,Budget Balance,HIGH,EUR,Release,0.468,Trade and External
 52b7ead0-3179-4070-931c-0d29f5fe4507,11/04/2026 08:50:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth

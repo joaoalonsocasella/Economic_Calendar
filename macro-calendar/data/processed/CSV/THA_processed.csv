@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-23e28b25-5a61-4a58-9583-c7a610b651de,10/30/2026 07:00:00,Current Account,MEDIUM,THB,Release,0.11,Trade and External
-21b9e10f-4094-4f1b-a781-63fb6c8ee5a0,10/30/2026 07:00:00,Private Consumption Index,LOW,THB,Release,0.09,Money and Credit
-b10575aa-5cd0-453b-9206-82f054a384f6,10/30/2026 07:00:00,Private Investment Index,HIGH,THB,Release,0.17,Growth
-83f105d1-51df-4430-96c9-eb1038f54819,10/30/2026 07:00:00,Trade Balance,MEDIUM,THB,Release,0.11,Trade and External
 f09676f7-3a26-4fab-b1db-e87ec19beba0,11/05/2026 03:30:00,Consumer Price Index (YoY),HIGH,THB,Release,0.19,Inflation
 7d9a5693-5442-4039-a7e8-7345acbcf282,11/05/2026 03:30:00,Core Consumer Price Index (YoY),HIGH,THB,Release,0.19,Inflation
 ce3b2fde-d9b2-4668-bdf6-9927bef0657e,11/16/2026 02:30:00,Gross Domestic Product (YoY),HIGH,THB,Release,0.17,Growth

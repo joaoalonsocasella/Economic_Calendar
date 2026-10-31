@@ -1,11 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-70299b8c-3aa7-449b-bc78-af3f04aa431e,10/30/2026 08:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-0396d964-1bc6-47e2-87e1-2c946a9abe5d,10/30/2026 08:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-69e106bc-5099-4bd4-ad24-ed5a64c1c3ce,10/30/2026 08:00:00,Gross Domestic Product - Estimated (QoQ),HIGH,EUR,Release,0.722,Growth
-5d2892ee-8947-4e6b-bb69-9548da7d603f,10/30/2026 08:00:00,Gross Domestic Product - Estimated (YoY),HIGH,EUR,Release,0.722,Growth
-3bef3a2a-27b0-4d45-add7-8209905b328c,10/30/2026 08:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
-3c3eb25a-8630-4d67-b1a7-55c3321f5e99,10/30/2026 08:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
-51e167ce-7c4c-44b2-a25a-797fa5e5bacd,10/30/2026 09:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
 08010fe7-dcd8-40d0-ab6a-1abff2e080d1,11/02/2026 08:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 162c1c25-ef9a-44da-8ff0-38e5e0fe8fde,11/03/2026 09:40:00,12-Month Letras Auction,HIGH,EUR,Release,0.383,Money and Credit
 e7676508-eae1-47cc-9bd3-0af24b07633a,11/03/2026 09:40:00,6-Month Letras Auction,HIGH,EUR,Release,0.383,Money and Credit
