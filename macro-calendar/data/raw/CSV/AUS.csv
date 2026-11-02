@@ -1,8 +1,6 @@
 Id,Start,Name,Impact,Currency
-324abe12-e42d-4681-9c7e-16bcf48e3fa2,11/01/2026 22:00:00,S&P Global Manufacturing PMI,LOW,AUD
 531d30c5-6be2-40ba-9260-a6f91ebb8a8c,11/02/2026 00:00:00,TD-MI Inflation Gauge (MoM),LOW,AUD
 c2ff4744-f41f-4830-a92e-204e341e36d1,11/02/2026 00:00:00,TD-MI Inflation Gauge (YoY),MEDIUM,AUD
-febdf7f9-daf6-4916-bef8-7b80efe4f419,11/02/2026 00:30:00,ANZ Job Advertisements,LOW,AUD
 c545706f-fb1b-4373-a487-069a4f257e25,11/02/2026 00:30:00,Building Permits (MoM),MEDIUM,AUD
 9125402a-5a19-45f5-80a3-47f6d46d493d,11/02/2026 00:30:00,Building Permits (YoY),LOW,AUD
 c471ff72-de3d-498a-a2c3-138a262f8223,11/02/2026 05:30:00,RBA Commodity Index SDR (YoY),LOW,AUD
@@ -68,7 +66,8 @@ e6807620-d23d-4391-ae7d-d11c6978d792,12/01/2026 22:00:00,AiG Industry Index,MEDI
 24ae4502-0ce4-420e-ac54-65663e817d4d,12/03/2026 00:30:00,Imports (MoM),MEDIUM,AUD
 16758672-76f4-4aae-bf89-05f0bee46937,12/03/2026 00:30:00,Trade Balance (MoM),HIGH,AUD
 da8667d9-d3b1-498c-9dff-8a9cdd13f383,12/04/2026 20:30:00,CFTC AUD NC Net Positions,LOW,AUD
-113667a2-f6b2-4ce8-af3b-e50ac47e7876,12/07/2026 00:30:00,ANZ Job Advertisements,LOW,AUD
+febdf7f9-daf6-4916-bef8-7b80efe4f419,12/07/2026 00:30:00,ANZ Job Advertisements,LOW,AUD
+113667a2-f6b2-4ce8-af3b-e50ac47e7876,12/07/2026 00:30:05,ANZ Job Advertisements,LOW,AUD
 44b029bf-ceac-4cd6-a557-158cc6237eb7,12/08/2026 00:30:00,National Australia Bank's Business Conditions,LOW,AUD
 1e400f7e-408d-4892-a36f-b23ce5feb684,12/08/2026 00:30:00,National Australia Bank's Business Confidence,LOW,AUD
 ea4d4c31-f535-4dce-983b-4f0362089c00,12/08/2026 03:30:00,RBA Interest Rate Decision,HIGH,AUD
