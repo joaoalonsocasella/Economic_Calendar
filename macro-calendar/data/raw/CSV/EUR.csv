@@ -1,9 +1,4 @@
 Id,Start,Name,Impact,Currency
-b7540246-6cbd-497f-9c19-3472d0da2209,11/02/2026 09:00:00,HCOB Manufacturing PMI,LOW,EUR
-c2e4f86b-1603-41f9-8c89-9301d5e74602,11/02/2026 09:45:00,ECB's Vujčić speech,MEDIUM,EUR
-311967a2-4dcd-4cc6-affb-2eb9e2bc73da,11/02/2026 10:00:00,ECB's Vujčić speech,MEDIUM,EUR
-15c69a2b-eeeb-414e-a726-24b8a53db9b0,11/02/2026 12:00:00,ECB's Nagel speech,MEDIUM,EUR
-64cf3de9-1a07-48be-9e11-c88e8f01af33,11/02/2026 15:00:00,ECB's Escrivá speech,MEDIUM,EUR
 a4fdfc66-f3f3-4445-8f00-22cef027997b,11/03/2026 18:00:00,ECB's Nagel speech,MEDIUM,EUR
 8ff25875-823e-406a-a93c-b1cdf452a64c,11/03/2026 18:15:00,ECB's Sleijpen speech,MEDIUM,EUR
 eb9e7ab7-e867-418d-b149-601143425d1d,11/04/2026 09:00:00,HCOB Composite PMI,MEDIUM,EUR
@@ -28,22 +23,25 @@ d8e72a00-04c0-418e-b707-04be47ec778b,11/05/2026 16:00:00,ECB's President Lagarde
 e96c5632-5ba0-4f17-81b1-fb06f8f7ff32,11/09/2026 07:00:00,Eurogroup Meeting,MEDIUM,EUR
 eb2d0c28-b742-41b1-bf57-10e9364fdb89,11/09/2026 09:30:00,Sentix Investor Confidence,MEDIUM,EUR
 bd3b47fb-2365-4241-92f2-c1b0fec53f97,11/10/2026 07:00:00,Eurogroup Meeting,MEDIUM,EUR
+7983d8ec-e298-483e-a5cf-c68fb930b853,11/12/2026 09:00:00,Economic Bulletin,MEDIUM,EUR
+7b78d08f-3b85-4645-9a4e-b103a7bdf817,11/13/2026 00:00:00,EU leaders summit,MEDIUM,EUR
 24e93735-2e92-4ede-917f-9844e2abec21,11/13/2026 10:00:00,Employment Change (QoQ),MEDIUM,EUR
 f12f314b-136d-4b0a-aedf-7c6c34cf66a8,11/13/2026 10:00:00,Employment Change (YoY),LOW,EUR
 42732327-a6be-4523-b5f2-daf10564e1dc,11/13/2026 10:00:00,Gross Domestic Product s.a. (QoQ),MEDIUM,EUR
 66647372-8e1f-4ef5-80c7-39dc2f5a15ab,11/13/2026 10:00:00,Gross Domestic Product s.a. (YoY),MEDIUM,EUR
-8f7c0048-deb3-41d0-85e3-ef3303e1df4a,11/13/2026 10:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
-927be783-8aae-4e60-bfc9-7366c3608c10,11/13/2026 10:00:00,Industrial Production w.d.a. (YoY),LOW,EUR
 fbecd244-828f-4426-a55f-743896ab0c7b,11/13/2026 10:00:00,Trade Balance n.s.a.,LOW,EUR
 2e4397e8-33be-4a2c-b1cd-f5de23322d4e,11/13/2026 10:00:00,Trade Balance s.a.,LOW,EUR
-73d74942-3c1c-443a-9bad-4f6ac79c9815,11/13/2026 20:30:00,CFTC EUR NC Net Positions,LOW,EUR
-8e05e89b-1e16-4a55-8132-e04c6695f90f,11/17/2026 10:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
+8f7c0048-deb3-41d0-85e3-ef3303e1df4a,11/16/2026 10:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
+927be783-8aae-4e60-bfc9-7366c3608c10,11/16/2026 10:00:00,Industrial Production w.d.a. (YoY),LOW,EUR
+73d74942-3c1c-443a-9bad-4f6ac79c9815,11/16/2026 20:30:00,CFTC EUR NC Net Positions,LOW,EUR
 1e92729f-6968-4b8f-bf07-797ff1718ace,11/17/2026 10:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
-306ee451-848a-44c6-b1e7-ef461c9706e9,11/18/2026 09:00:00,Current Account n.s.a,LOW,EUR
-6ef752db-d007-417d-b274-5ceca06e7773,11/18/2026 09:00:00,Current Account s.a,LOW,EUR
+ce771c04-08c6-4389-8658-e2401fd6a78a,11/18/2026 09:00:00,EU Financial Stability Review,LOW,EUR
 07e372a3-7dfc-420e-83ef-862b459c7a77,11/18/2026 10:00:00,Core Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 127fa8eb-8e4d-4de4-8575-b66c3042d130,11/18/2026 10:00:00,Core Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
+8e05e89b-1e16-4a55-8132-e04c6695f90f,11/18/2026 10:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 33455dad-32ab-483a-90b2-1467ab9752ac,11/18/2026 10:00:00,Harmonized Index of Consumer Prices (YoY),LOW,EUR
+306ee451-848a-44c6-b1e7-ef461c9706e9,11/19/2026 09:00:00,Current Account n.s.a,LOW,EUR
+6ef752db-d007-417d-b274-5ceca06e7773,11/19/2026 09:00:00,Current Account s.a,LOW,EUR
 6ecdc0e9-5399-4c5a-8706-04c1ed815f08,11/19/2026 10:00:00,Construction Output  s.a (MoM),LOW,EUR
 1fbcfce0-3d8d-4256-b853-fde427923fb2,11/19/2026 10:00:00,Construction Output w.d.a (YoY),LOW,EUR
 69b2fc75-c800-4f5b-8d40-be0da46eaeaa,11/20/2026 10:00:00,Negotiated Wage Rates (QoQ),LOW,EUR

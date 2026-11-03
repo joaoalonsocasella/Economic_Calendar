@@ -1,7 +1,4 @@
 Id,Start,Name,Impact,Currency
-ef3c559c-01ea-4acb-8490-527eda2740d3,11/02/2026 07:00:00,Retail Sales (MoM),MEDIUM,EUR
-9178ea53-e8af-4ecc-b24c-56a76b9c1399,11/02/2026 07:00:00,Retail Sales (YoY),HIGH,EUR
-fd330297-0078-4bf5-bad3-5af68f680d60,11/02/2026 08:55:00,HCOB Manufacturing PMI,MEDIUM,EUR
 1db109f0-7462-4bbd-a76a-fc65e5c975f7,11/04/2026 08:55:00,HCOB Composite PMI,MEDIUM,EUR
 2c89ea15-0a50-47de-9a92-3ad8f611a588,11/04/2026 08:55:00,HCOB Services PMI,MEDIUM,EUR
 d908e1f2-f331-4e7b-8bca-aec7b3cca1f8,11/05/2026 07:00:00,Factory Orders n.s.a. (YoY),MEDIUM,EUR
@@ -15,6 +12,7 @@ b58b2784-86fc-43d2-8f24-c7ee4b6b72ab,11/09/2026 07:00:00,Trade Balance s.a.,MEDI
 29a414de-2eec-4e0c-9d27-e982256a7287,11/11/2026 07:00:00,Consumer Price Index (YoY),LOW,EUR
 d158d01f-14bf-40b1-8e6e-b107d35a0930,11/11/2026 07:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 82f81c83-7d8e-4df8-a0e4-fa3c754ec326,11/11/2026 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+f96da4df-36b2-4367-8d27-99c5aee4fdc6,11/11/2026 10:30:00,30-y Bond Auction,LOW,EUR
 736ba35c-a7e1-4f3f-89fd-d5e6cdb6e32d,11/12/2026 13:30:00,Current Account n.s.a.,LOW,EUR
 9122f10f-2be6-46d4-b1cd-9d9257bf41dd,11/13/2026 07:00:00,Wholesale Price Index (MoM),LOW,EUR
 ddb842e7-a09a-49a7-8f6b-11087bfcd21f,11/13/2026 07:00:00,Wholesale Price Index (YoY),LOW,EUR

@@ -1,22 +1,19 @@
 Id,Start,Name,Impact,Currency
-71b2862b-ed2f-4f14-85bf-c50ba10c1e4a,11/02/2026 08:45:00,HCOB Manufacturing PMI,MEDIUM,EUR
 8426a3a9-6527-4924-aea5-cfa5ce36fcff,11/04/2026 08:45:00,HCOB Services PMI,LOW,EUR
 05ca8d29-8cf1-4cb3-bdfa-93526572e171,11/05/2026 09:00:00,Retail Sales n.s.a (YoY),LOW,EUR
 c0b23080-7131-4ec7-8eff-a46902b8aa94,11/05/2026 09:00:00,Retail Sales s.a. (MoM),LOW,EUR
-88ce89e4-8301-4db3-8ea2-6f3953871398,11/12/2026 09:00:00,Industrial Output s.a. (MoM),LOW,EUR
-b8854fd2-904f-438b-b95b-8c0222726925,11/12/2026 09:00:00,Industrial Output w.d.a (YoY),LOW,EUR
+88ce89e4-8301-4db3-8ea2-6f3953871398,11/11/2026 09:00:00,Industrial Output s.a. (MoM),LOW,EUR
+b8854fd2-904f-438b-b95b-8c0222726925,11/11/2026 09:00:00,Industrial Output w.d.a (YoY),LOW,EUR
 cd9421cf-ba95-4bee-8c41-207c0816fc56,11/13/2026 09:00:00,Global Trade Balance,LOW,EUR
 0e4d969a-3cad-44e1-8992-45918cc707c6,11/13/2026 09:00:00,Trade Balance EU,LOW,EUR
-c9940811-429b-48e0-9799-be27961305b1,11/18/2026 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
-5c9b41a3-da4c-44a5-9612-fd1309449ef6,11/18/2026 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
-f8180d55-e56c-498a-b24a-47a7043097cd,11/18/2026 09:00:00,Consumer Price Index (MoM),LOW,EUR
-e3b597f1-6870-4796-b9db-6d3a031cfbc2,11/18/2026 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR
+c9940811-429b-48e0-9799-be27961305b1,11/17/2026 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+5c9b41a3-da4c-44a5-9612-fd1309449ef6,11/17/2026 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+f8180d55-e56c-498a-b24a-47a7043097cd,11/17/2026 09:00:00,Consumer Price Index (MoM),LOW,EUR
+e3b597f1-6870-4796-b9db-6d3a031cfbc2,11/17/2026 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR
 b637e479-07f9-4baa-8c24-0da8992fdf20,11/26/2026 09:00:00,Business Confidence,LOW,EUR
 3df90316-b9fb-4cfd-8764-44f5e8c22987,11/26/2026 09:00:00,Consumer Confidence,LOW,EUR
 ebb83e1d-f64a-4d5a-a800-e117dfb2a87c,11/27/2026 09:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR
 49b7f55b-3825-435e-92e1-6efa68d0f0a3,11/27/2026 09:00:00,Industrial Sales s.a. (MoM),LOW,EUR
-76bf1933-ff14-47af-bed3-c59fcfae6eae,11/30/2026 09:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR
-f8dd066f-e845-4c21-981d-ff35810a82f6,11/30/2026 09:00:00,Gross Domestic Product (YoY),MEDIUM,EUR
 0aeb3470-2572-45ff-a556-2416838426ae,11/30/2026 09:00:00,Trade Balance non-EU,LOW,EUR
 2a7f9bb7-8152-4e86-bf89-fa2300b12bc1,11/30/2026 09:00:00,Unemployment,LOW,EUR
 64586637-e46e-4652-bcd4-c6bef6fc5bfc,11/30/2026 10:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
@@ -26,6 +23,8 @@ f2954435-9c84-4814-a710-8561be0c990b,11/30/2026 10:00:00,Consumer Price Index (M
 d0867e88-70c8-46fc-9259-5c410ffda31b,11/30/2026 10:00:00,Producer Price Index (MoM),LOW,EUR
 ca1b69d3-f387-43e4-bd8c-079844eba7b5,11/30/2026 10:00:00,Producer Price Index (YoY),LOW,EUR
 2e8c9a4a-c743-4e7f-aa13-3854c1b7bc57,12/01/2026 08:45:00,HCOB Manufacturing PMI,MEDIUM,EUR
+76bf1933-ff14-47af-bed3-c59fcfae6eae,12/01/2026 09:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR
+f8dd066f-e845-4c21-981d-ff35810a82f6,12/01/2026 09:00:00,Gross Domestic Product (YoY),MEDIUM,EUR
 4e140149-18a4-42dc-9b08-795c2ceeadae,12/03/2026 08:45:00,HCOB Services PMI,LOW,EUR
 4f77ad4b-94bc-4eb9-a922-6bf6bd74235a,12/04/2026 09:00:00,Retail Sales n.s.a (YoY),LOW,EUR
 0a36bf3b-1fad-47f6-a632-d2723f3d370e,12/04/2026 09:00:00,Retail Sales s.a. (MoM),LOW,EUR
@@ -78,91 +77,258 @@ ce98d3b3-6966-459a-b1a6-078b6ea5c2df,01/29/2027 10:00:00,Consumer Price Index (M
 3ab657f5-316f-4061-a56b-37cf9c79d8ae,01/29/2027 10:00:00,Producer Price Index (YoY),LOW,EUR
 232b738a-7d2f-4ffa-9e7d-8475e2a23ce4,02/01/2027 08:45:00,HCOB Manufacturing PMI,MEDIUM,EUR
 365bec68-f38b-4b24-a2f1-446df29ddcca,02/03/2027 08:45:00,HCOB Services PMI,LOW,EUR
+503bb95d-e4d9-4e05-b0cc-388ff483b8fa,02/05/2027 09:00:00,Retail Sales n.s.a (YoY),LOW,EUR
+a3e18990-42e8-4777-a31d-803007f78864,02/05/2027 09:00:00,Retail Sales s.a. (MoM),LOW,EUR
 293838de-17b3-446b-b0b1-495c84912933,02/10/2027 09:00:00,Industrial Output s.a. (MoM),LOW,EUR
 343978e1-94aa-4729-b294-76f465e25a04,02/10/2027 09:00:00,Industrial Output w.d.a (YoY),LOW,EUR
 838a1e8b-f9c8-4437-a0cc-31301591e323,02/16/2027 09:00:00,Global Trade Balance,LOW,EUR
 61c4152c-3cb7-478b-9f4f-8275b1473eff,02/16/2027 09:00:00,Trade Balance EU,LOW,EUR
+2b1031ac-121c-4d24-9649-c44c806f55d7,02/16/2027 10:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+d8b4da75-eb42-4109-ac7d-9bd3b2425d89,02/16/2027 10:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+14446645-9771-4d2e-9ba9-8d76fc5b3977,02/16/2027 10:00:00,Consumer Price Index (MoM),LOW,EUR
+e2a77d9f-2f1c-49f8-a593-9c2dfb8f3337,02/16/2027 10:00:00,Consumer Price Index (YoY),MEDIUM,EUR
 d5a192ff-d8a7-4453-84d3-877fdf7eb97f,02/26/2027 09:00:00,Business Confidence,LOW,EUR
 1f575088-1be1-43a8-be78-ec520e7fcf81,02/26/2027 09:00:00,Consumer Confidence,LOW,EUR
+c0cf4db6-54ed-4d23-8819-cef4b9708e07,02/26/2027 09:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR
+ad83619f-f4cd-40a9-a07b-1e88b40c95b4,02/26/2027 09:00:00,Industrial Sales s.a. (MoM),LOW,EUR
 e7b3efaa-b594-4e00-9980-101d5911ed58,02/26/2027 09:00:00,Trade Balance non-EU,LOW,EUR
+cec27dca-df08-496a-87d9-da6dd0e74fbc,02/26/2027 10:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+99774b47-90cb-47cc-af3b-f858e49cfe8e,02/26/2027 10:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+7b8b68b9-b7e7-4ced-9dc8-e272060f1d1c,02/26/2027 10:00:00,Consumer Price Index (MoM),LOW,EUR
+e0ab3103-dff0-4d0f-9683-2206780679b6,02/26/2027 10:00:00,Consumer Price Index (YoY),MEDIUM,EUR
 eea9ac03-d23c-4020-82b1-bd5bd6b889e3,03/01/2027 08:45:00,HCOB Manufacturing PMI,MEDIUM,EUR
+d8120fd5-9b5f-4ef7-87ec-e58e5f1ad67e,03/02/2027 10:00:00,Producer Price Index (MoM),LOW,EUR
+b5436661-a7c6-4f04-8ce0-f879d893fafd,03/02/2027 10:00:00,Producer Price Index (YoY),LOW,EUR
 6d5e4fdf-6e3a-4db0-b064-1bef7db0ee82,03/03/2027 08:45:00,HCOB Services PMI,LOW,EUR
+c7dd7f87-e52f-481e-8829-743284d48e18,03/03/2027 09:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR
+372193a7-df7e-4300-a4d0-17ba52dfc51f,03/03/2027 09:00:00,Gross Domestic Product (YoY),MEDIUM,EUR
+348f124b-2cd6-4b40-8eac-695dd99d862a,03/04/2027 09:00:00,Unemployment,LOW,EUR
+dafe8305-7196-42b3-8de0-f4a5498d4c1b,03/05/2027 09:00:00,Retail Sales n.s.a (YoY),LOW,EUR
+a6979855-a530-43b2-9f99-05f7523ec795,03/05/2027 09:00:00,Retail Sales s.a. (MoM),LOW,EUR
 e9ef74b1-8845-4803-9654-8aa808c088a1,03/10/2027 09:00:00,Industrial Output s.a. (MoM),LOW,EUR
 0d8b57af-7152-48d1-b95e-d93ea3acab1a,03/10/2027 09:00:00,Industrial Output w.d.a (YoY),LOW,EUR
 81a9aba4-e355-4f3a-9093-68b7d54bee6c,03/16/2027 09:00:00,Global Trade Balance,LOW,EUR
 ddcc5b55-a2f0-40b8-ac61-b8a555838a0d,03/16/2027 09:00:00,Trade Balance EU,LOW,EUR
+549cb49f-18c9-4fcf-a7b5-60ff8249392e,03/16/2027 10:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+dedd8415-31e4-4e54-bbd7-fc1b36f8932e,03/16/2027 10:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+bb05dd58-ef1a-4bbf-9137-0bc7fb1ff65b,03/16/2027 10:00:00,Consumer Price Index (MoM),LOW,EUR
+f79db818-0587-4ded-bd99-6f00b04a7e78,03/16/2027 10:00:00,Consumer Price Index (YoY),MEDIUM,EUR
 02200c26-4354-4ab9-8415-71e23baabc4d,03/30/2027 08:00:00,Trade Balance non-EU,LOW,EUR
+f74036a1-1355-45bf-bb20-269575316360,03/30/2027 08:00:00,Unemployment,LOW,EUR
 c19d500d-6dc1-4d83-8e10-bbcd801bea49,03/31/2027 08:00:00,Business Confidence,LOW,EUR
 1f3cb435-f721-420b-823b-d9bb4d83f6b2,03/31/2027 08:00:00,Consumer Confidence,LOW,EUR
+3603b530-fb88-48a1-9987-cc94085ce801,03/31/2027 08:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR
+b3a664a3-85f7-4633-9aee-99a8653e9a26,03/31/2027 08:00:00,Industrial Sales s.a. (MoM),LOW,EUR
+5fcb1d01-c0c5-485e-b32e-2b7c071ef807,03/31/2027 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+15a8ae7e-2bcd-487a-948f-16d877bfc839,03/31/2027 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+f34b5a4d-a9fb-4a07-bcb1-81670302dc54,03/31/2027 09:00:00,Consumer Price Index (MoM),LOW,EUR
+77915b4f-0cd4-4348-a1a4-08698519bd1d,03/31/2027 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR
+848ce53d-1b7b-40a9-ba13-9655ada0b67f,03/31/2027 09:00:00,Producer Price Index (MoM),LOW,EUR
+193377e9-9735-4476-b1e1-0262b83a9acc,03/31/2027 09:00:00,Producer Price Index (YoY),LOW,EUR
 c91cc5bf-469a-42cd-a5d8-b18bb0ce7137,04/01/2027 07:45:00,HCOB Manufacturing PMI,MEDIUM,EUR
 2fb1ddd6-6dae-4b17-8c51-e222292d4fdd,04/05/2027 07:45:00,HCOB Services PMI,LOW,EUR
+10105e19-431b-420e-9f9d-865dae9ad54e,04/06/2027 08:00:00,Retail Sales n.s.a (YoY),LOW,EUR
+455e2671-b654-42b9-bc1c-2779a300db35,04/06/2027 08:00:00,Retail Sales s.a. (MoM),LOW,EUR
+570bbb1f-277e-4f0d-a216-3c8f83e1486f,04/07/2027 09:00:00,Public Deficit/GDP,LOW,EUR
 8adb14e0-4019-4ca3-b2c3-b8174e9d5189,04/09/2027 08:00:00,Industrial Output s.a. (MoM),LOW,EUR
 4b516f58-e660-40f0-b88e-f930a8697da5,04/09/2027 08:00:00,Industrial Output w.d.a (YoY),LOW,EUR
 71e1fcc8-0566-480b-a163-7ed163b86b47,04/15/2027 08:00:00,Global Trade Balance,LOW,EUR
 57e0aaf0-fa11-4685-85f0-20d87f58b086,04/15/2027 08:00:00,Trade Balance EU,LOW,EUR
+2c5a59cb-c975-4851-b0ae-288d1eaffd2f,04/15/2027 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+55bc6ef7-eb8e-4655-9125-1c8c6d3f95a4,04/15/2027 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+f0162566-3b32-402a-8571-6e89f085ac96,04/15/2027 09:00:00,Consumer Price Index (MoM),LOW,EUR
+91803156-2fb2-4e5e-96f5-7b10929670cd,04/15/2027 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR
 7678ffda-1730-4781-8de9-88e58ec755fd,04/29/2027 08:00:00,Business Confidence,LOW,EUR
 6e23e222-b617-4d23-9fea-5492e976b544,04/29/2027 08:00:00,Consumer Confidence,LOW,EUR
 70a162a5-bc7b-4e96-a516-cd4154253ab3,04/29/2027 08:00:00,Trade Balance non-EU,LOW,EUR
+f697790f-d1b1-4f40-b033-180e39a6adcd,04/29/2027 09:00:00,Producer Price Index (MoM),LOW,EUR
+c73e5ed8-563e-4194-9bf8-65eeaa2a7d73,04/29/2027 09:00:00,Producer Price Index (YoY),LOW,EUR
+bfabf6d1-77a1-4725-8690-398f38c3ee1a,04/30/2027 08:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR
+aa06a13e-08ea-4e29-a52a-ab61a8271b65,04/30/2027 08:00:00,Gross Domestic Product (YoY),MEDIUM,EUR
+bc654fa8-1257-429e-b76e-b24f1c567133,04/30/2027 08:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR
+fc50429a-4928-4989-b913-bd9d44a6548e,04/30/2027 08:00:00,Industrial Sales s.a. (MoM),LOW,EUR
+2ec30caf-2f96-49a3-96c5-9d4403fe5580,04/30/2027 08:00:00,Unemployment,LOW,EUR
+46a9b3cb-e3a2-4f68-8fff-8926a87a891c,04/30/2027 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+d294280e-122b-4f11-93d0-f778a0372ea2,04/30/2027 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+6ec19cfa-28d1-4a97-b40d-e2d919715444,04/30/2027 09:00:00,Consumer Price Index (MoM),LOW,EUR
+4f2dacee-60da-442b-97d0-e9aa4378e331,04/30/2027 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR
 cea622ff-e2d9-4903-8150-5b9027f65c46,05/03/2027 07:45:00,HCOB Manufacturing PMI,MEDIUM,EUR
 ede4b5f7-2491-427a-bd64-4b5a0ab7514e,05/05/2027 07:45:00,HCOB Services PMI,LOW,EUR
+f96409cb-ff07-4732-9119-71191c65da4f,05/05/2027 08:00:00,Retail Sales n.s.a (YoY),LOW,EUR
+3509a2d0-e8cd-40c3-b44a-f17bef42553a,05/05/2027 08:00:00,Retail Sales s.a. (MoM),LOW,EUR
 32a384fd-459c-4495-8279-55fb3fcc4599,05/11/2027 08:00:00,Industrial Output s.a. (MoM),LOW,EUR
 74fb717e-0bdb-43dc-90a2-0ec74fad041a,05/11/2027 08:00:00,Industrial Output w.d.a (YoY),LOW,EUR
+a1da309a-bc51-4222-8d64-6bee71618e50,05/11/2027 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+ac8bb66e-bbf6-4ad1-9b58-5ccc20501852,05/11/2027 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+ca2e30dc-096a-4917-82c8-6de00b9a0b85,05/11/2027 09:00:00,Consumer Price Index (MoM),LOW,EUR
+12ce8d9b-423e-4010-8ccc-6a6869ab8303,05/11/2027 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR
 be1a021d-a4f7-439f-8594-1a913a915dbe,05/17/2027 08:00:00,Global Trade Balance,LOW,EUR
 c70ce7e8-4b97-45d2-a2ad-caed01af2223,05/17/2027 08:00:00,Trade Balance EU,LOW,EUR
+c4b830c3-9554-4be8-8e4a-a2ec45a71701,05/27/2027 08:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR
+40a63398-10ae-4706-a1c4-807bce4e1520,05/27/2027 08:00:00,Industrial Sales s.a. (MoM),LOW,EUR
 274bc545-9478-42b2-8ad3-b09ccdbdaea0,05/28/2027 08:00:00,Business Confidence,LOW,EUR
 207d07d1-6158-45f6-98f0-3ba11b9e870b,05/28/2027 08:00:00,Consumer Confidence,LOW,EUR
 2fc126ec-b5ea-40d5-8a4a-e5f51f928d54,05/28/2027 08:00:00,Trade Balance non-EU,LOW,EUR
+323f7804-f0c6-48ec-83da-b44d111353f4,05/28/2027 09:00:00,Producer Price Index (MoM),LOW,EUR
+18a29b00-4016-4a4b-8af3-49eb93affcf1,05/28/2027 09:00:00,Producer Price Index (YoY),LOW,EUR
+72e0680d-0213-4960-af4c-508fef37503d,05/31/2027 08:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR
+0b449850-150a-4906-99af-4d75a6bd86d6,05/31/2027 08:00:00,Gross Domestic Product (YoY),MEDIUM,EUR
+1fe54036-8dd1-475b-803f-7982ca41819f,05/31/2027 08:00:00,Unemployment,LOW,EUR
+4b1c2dc9-0584-4f15-97f4-49c88a858701,05/31/2027 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+20dcbd02-9cba-42d6-b0bb-13dd0fd94f1d,05/31/2027 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+8323fe72-0671-41d4-ae74-45935434a86d,05/31/2027 09:00:00,Consumer Price Index (MoM),LOW,EUR
+4d201f0e-8ca6-4047-9008-ed5312c894b9,05/31/2027 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR
 a9fced4d-b63b-4510-9d7a-35419ffd548b,06/01/2027 07:45:00,HCOB Manufacturing PMI,MEDIUM,EUR
 fc1e3406-046c-4893-a1b7-19dfdec7a4da,06/03/2027 07:45:00,HCOB Services PMI,LOW,EUR
+30ac7349-19a9-45e7-9efd-7a8e30fbbd3b,06/04/2027 08:00:00,Retail Sales n.s.a (YoY),LOW,EUR
+b83cb581-cf51-4d67-83f6-200d39c6f195,06/04/2027 08:00:00,Retail Sales s.a. (MoM),LOW,EUR
 0d5f87e1-0ca9-420e-bc39-4b7a3fc6c328,06/10/2027 08:00:00,Industrial Output s.a. (MoM),LOW,EUR
 d7cb762e-f1cf-4b60-8ea6-b2de034a544b,06/10/2027 08:00:00,Industrial Output w.d.a (YoY),LOW,EUR
+10a4d16b-1030-4b0c-8f6a-ccec8e3946cf,06/16/2027 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+f21cb543-8083-43a1-a9be-278b0238777d,06/16/2027 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+9e373876-2fcc-4ab3-bc69-30983e8da3c3,06/16/2027 09:00:00,Consumer Price Index (MoM),LOW,EUR
+d3d9412c-cdc8-4bd8-a1d3-0277e1dcc3e9,06/16/2027 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR
 c31fb231-3847-4aff-adf2-15c9b8a155d2,06/17/2027 08:00:00,Global Trade Balance,LOW,EUR
 31de3941-cc77-47a6-a075-d74330c2ee1d,06/17/2027 08:00:00,Trade Balance EU,LOW,EUR
+58aa570e-a704-4f31-848d-44b10abc6218,06/29/2027 08:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR
+af45c83d-64a2-40f2-96e9-f89b1935a586,06/29/2027 08:00:00,Industrial Sales s.a. (MoM),LOW,EUR
 548d26a8-f616-418d-b969-8e433548417d,06/29/2027 08:00:00,Trade Balance non-EU,LOW,EUR
+180b5720-e161-4c8e-9a48-5b8673ebc23e,06/29/2027 09:00:00,Producer Price Index (MoM),LOW,EUR
+27340253-6308-4632-af09-4901e78f163e,06/29/2027 09:00:00,Producer Price Index (YoY),LOW,EUR
 59c7794e-e64c-4a48-919f-ffb4617c35f5,06/30/2027 08:00:00,Business Confidence,LOW,EUR
 0215d6fa-3c5e-4373-addc-280401e78df5,06/30/2027 08:00:00,Consumer Confidence,LOW,EUR
+009cf4b3-610f-4890-b576-d7470145fddd,06/30/2027 08:00:00,Unemployment,LOW,EUR
+a41f685a-538d-436e-baec-c729395ea8e9,06/30/2027 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+88e35f18-e996-40f2-bfcc-116a142c6b1d,06/30/2027 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+37545ed5-f36b-4cef-9174-e4dbacdfd5b5,06/30/2027 09:00:00,Consumer Price Index (MoM),LOW,EUR
+53422584-e62f-4af5-a060-9f8c41eaf06f,06/30/2027 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR
 aaca7ccc-b08a-4bed-8090-494634b2e136,07/01/2027 07:45:00,HCOB Manufacturing PMI,MEDIUM,EUR
 dd108d1d-e0d3-4b77-ae19-1c2069334811,07/05/2027 07:45:00,HCOB Services PMI,LOW,EUR
+11ced114-4f38-4580-9cf6-9c9eb920612f,07/06/2027 08:00:00,Retail Sales n.s.a (YoY),LOW,EUR
+a5779d5a-0d8e-4084-936d-e5dc11a8a928,07/06/2027 08:00:00,Retail Sales s.a. (MoM),LOW,EUR
+3e28caac-b884-48f3-82dc-db16b0c1394d,07/07/2027 09:00:00,Public Deficit/GDP,LOW,EUR
 8132b3f8-a31d-47b8-b66b-42583a7412c6,07/09/2027 08:00:00,Industrial Output s.a. (MoM),LOW,EUR
 67cf8667-d8e4-46a3-a3d6-758dc2c2d973,07/09/2027 08:00:00,Industrial Output w.d.a (YoY),LOW,EUR
 f2d0eb82-9dba-4bf7-83dc-2700e77122c5,07/15/2027 08:00:00,Global Trade Balance,LOW,EUR
 f8008724-e945-4263-b6b5-307d2eee6ac2,07/15/2027 08:00:00,Trade Balance EU,LOW,EUR
+df0bc839-d13e-4d61-81d9-d36ffc77ea1c,07/16/2027 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+57fa3b09-fadf-4f5b-ac31-ffebc4197940,07/16/2027 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+8ea58ca5-bd28-4158-b8d4-e39295c4b7ae,07/16/2027 09:00:00,Consumer Price Index (MoM),LOW,EUR
+1ed23433-fb99-40e6-961b-c577f6ea3b46,07/16/2027 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR
+30d5d9d7-4e53-4569-b3b4-5fced298036b,07/28/2027 08:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR
+24443464-b2c9-4d3b-99de-c5628e40a534,07/28/2027 08:00:00,Industrial Sales s.a. (MoM),LOW,EUR
 d48c457e-bfca-49d4-9407-f58e6d8f3595,07/29/2027 08:00:00,Trade Balance non-EU,LOW,EUR
+1d312054-a1f2-4dc1-a839-fbaeb8448a63,07/29/2027 09:00:00,Producer Price Index (MoM),LOW,EUR
+a4575b98-6ba0-4530-aef7-cf1436fe94a1,07/29/2027 09:00:00,Producer Price Index (YoY),LOW,EUR
 5b58c316-7946-4697-8f30-5577eea9253e,07/30/2027 08:00:00,Business Confidence,LOW,EUR
 00080f9e-dbb6-4769-bf26-c6c1bd956a88,07/30/2027 08:00:00,Consumer Confidence,LOW,EUR
+da0d7f11-a73d-484c-9cd5-080cf1b014b8,07/30/2027 08:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR
+48b92aba-7a0b-4bb6-8854-50ca94753dcb,07/30/2027 08:00:00,Gross Domestic Product (YoY),MEDIUM,EUR
+739aa495-aee5-43fd-b30c-541797b43d02,07/30/2027 08:00:00,Unemployment,LOW,EUR
+381324d2-ba85-42e7-a9ec-5507abf1e2f5,07/30/2027 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+6a0da2c7-2f58-4955-8db4-fbb5a7c1985b,07/30/2027 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+f6f2e15a-ae0d-4849-a750-d15bdd4a1554,07/30/2027 09:00:00,Consumer Price Index (MoM),LOW,EUR
+b3296597-6b8e-49df-9736-c099c9bd2683,07/30/2027 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR
 c006a82a-2068-4269-9a73-3081dae6b874,08/02/2027 07:45:00,HCOB Manufacturing PMI,MEDIUM,EUR
 de5a0ec3-7ce0-4dbf-ab6b-79de0e469673,08/04/2027 07:45:00,HCOB Services PMI,LOW,EUR
+e04da067-7a11-48eb-b95f-2ca6ab382880,08/05/2027 08:00:00,Retail Sales n.s.a (YoY),LOW,EUR
+c94044bc-b4c5-495b-849c-789380ccaa80,08/05/2027 08:00:00,Retail Sales s.a. (MoM),LOW,EUR
 196e3159-aa56-48ab-bb48-5eed2a0a85c6,08/11/2027 08:00:00,Industrial Output s.a. (MoM),LOW,EUR
 695692a6-57e6-45ed-bd52-5c647e7764a1,08/11/2027 08:00:00,Industrial Output w.d.a (YoY),LOW,EUR
 e9f8f881-6a8c-404e-ae47-b35c010effa9,08/17/2027 08:00:00,Global Trade Balance,LOW,EUR
 fe26c57a-c9d4-4bf4-a22d-8e985fa5aff8,08/17/2027 08:00:00,Trade Balance EU,LOW,EUR
+8e9edd34-1e73-4057-a0d7-563a1d77940f,08/17/2027 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+f1b3c8f7-d0d4-428c-801a-510bd500d904,08/17/2027 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+c084ad99-6fca-423a-b0b1-7c5ae148ff56,08/17/2027 09:00:00,Consumer Price Index (MoM),LOW,EUR
+728f2197-7c00-4de6-b434-a92d6ce18190,08/17/2027 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR
+7f5a9b13-5969-4422-9012-593c25606ec4,08/27/2027 08:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR
+7eb5bf3d-e817-4878-9e92-3a98f1136e52,08/27/2027 08:00:00,Industrial Sales s.a. (MoM),LOW,EUR
+a6b3eb0d-0013-4ecc-9718-369d44a8d506,08/27/2027 09:00:00,Producer Price Index (MoM),LOW,EUR
+fdffaa27-f3df-4eb4-803f-e7cf1fab3f7b,08/27/2027 09:00:00,Producer Price Index (YoY),LOW,EUR
 7bb296f4-97df-43f0-b3ef-e637cefb611c,08/30/2027 08:00:00,Trade Balance non-EU,LOW,EUR
 5460c616-250b-4a2a-80a3-a056a6ef6531,08/31/2027 08:00:00,Business Confidence,LOW,EUR
 ffd7f4c8-3ca0-4acc-9f6a-039d105707c2,08/31/2027 08:00:00,Consumer Confidence,LOW,EUR
+98e8cd11-5a69-460a-b341-0e461b36f886,08/31/2027 08:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR
+f6200497-bcc7-4063-96c6-507ae7b68a93,08/31/2027 08:00:00,Gross Domestic Product (YoY),MEDIUM,EUR
+625e655f-af11-4f99-a2d5-4ee5ce3e503a,08/31/2027 08:00:00,Unemployment,LOW,EUR
+e75965fb-346d-4cf8-b814-3dd9a5312fc2,08/31/2027 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+25ffb7b5-31c6-45fe-9d7a-2d90f10489a9,08/31/2027 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+326248c1-5cf6-4a5b-ab74-1818ff5c5c2a,08/31/2027 09:00:00,Consumer Price Index (MoM),LOW,EUR
+f59a9027-d771-41f7-801b-558eeaa38eae,08/31/2027 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR
 a2cfa0aa-1b99-4622-b3a7-940fbdcacb83,09/01/2027 07:45:00,HCOB Manufacturing PMI,MEDIUM,EUR
 bef22355-9fa8-417e-bec9-2cd7c7f939e0,09/03/2027 07:45:00,HCOB Services PMI,LOW,EUR
+090b6174-f345-46ad-bdb1-2ef34016985a,09/07/2027 08:00:00,Retail Sales n.s.a (YoY),LOW,EUR
+77f5d878-4d3a-455c-840e-f26c0327000f,09/07/2027 08:00:00,Retail Sales s.a. (MoM),LOW,EUR
 b01c9c70-53f3-447b-86c8-31fa4fab743e,09/10/2027 08:00:00,Industrial Output s.a. (MoM),LOW,EUR
 337fd3cb-452d-41f8-a3de-ae307787dad2,09/10/2027 08:00:00,Industrial Output w.d.a (YoY),LOW,EUR
 d1671ada-98a8-401b-afaa-9514807e29d4,09/16/2027 08:00:00,Global Trade Balance,LOW,EUR
 ae576861-cc3b-4645-b918-f2891d049456,09/16/2027 08:00:00,Trade Balance EU,LOW,EUR
+828d1a13-253c-41f8-8f3b-bddbfea1e391,09/16/2027 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+329e3fb0-c6b5-4dd4-9e3c-dd73751c451f,09/16/2027 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+c4de64b3-151c-4cd6-84a1-07435e1ef3d9,09/16/2027 09:00:00,Consumer Price Index (MoM),LOW,EUR
+bdd75eb8-5224-47c0-a6d0-54971430ae86,09/16/2027 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR
 8795b7fd-dec5-4abf-8a4f-a792d46a8eb1,09/28/2027 08:00:00,Business Confidence,LOW,EUR
 e17b1508-f2e5-4090-a594-72072f77b423,09/28/2027 08:00:00,Consumer Confidence,LOW,EUR
 851c1e59-7c7d-4709-bb76-677b66d053f8,09/28/2027 08:00:00,Trade Balance non-EU,LOW,EUR
+dbffcc30-828d-4a6a-a5cc-4060b1d4b5fc,09/29/2027 08:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR
+c978a845-cbee-45a0-997c-74a7fefe2b7c,09/29/2027 08:00:00,Industrial Sales s.a. (MoM),LOW,EUR
+c1465f8b-2eb0-4098-93b5-c228f6b01404,09/29/2027 09:00:00,Producer Price Index (MoM),LOW,EUR
+02cda082-5354-4dd9-9295-e061c7e4e27c,09/29/2027 09:00:00,Producer Price Index (YoY),LOW,EUR
+3779d4c6-b04d-423d-a23c-4d353b1345b0,09/30/2027 08:00:00,Unemployment,LOW,EUR
+bc02c8cf-fdc8-42ba-8064-c957715b5171,09/30/2027 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+4895da8b-a1bd-4b90-856e-5638ca54896c,09/30/2027 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+2948be35-4fbc-4c16-94e0-d366c2c6ce90,09/30/2027 09:00:00,Consumer Price Index (MoM),LOW,EUR
+6124af4c-4f41-4602-9cf6-7883c0dff82b,09/30/2027 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR
 3611181e-2942-4928-9ccb-2adc96860cf1,10/01/2027 07:45:00,HCOB Manufacturing PMI,MEDIUM,EUR
 e6446094-8ddb-4da1-b5b2-cca39f1edf95,10/05/2027 07:45:00,HCOB Services PMI,LOW,EUR
+34e2b4be-4a26-4156-90cc-a8b000864667,10/05/2027 09:00:00,Public Deficit/GDP,LOW,EUR
+8c5f559d-bc58-407e-ad50-0adeb6c0a645,10/06/2027 08:00:00,Retail Sales n.s.a (YoY),LOW,EUR
+529a7320-8887-4047-8868-c7ee6c8385b0,10/06/2027 08:00:00,Retail Sales s.a. (MoM),LOW,EUR
 b26d7cf8-9ba2-4fb5-b6ad-5f089af0952a,10/12/2027 08:00:00,Industrial Output s.a. (MoM),LOW,EUR
 2b52a7c6-38e1-4406-b7b3-338e10111058,10/12/2027 08:00:00,Industrial Output w.d.a (YoY),LOW,EUR
 9a3a79a2-b3e8-4ff9-b202-8b7d3a011117,10/14/2027 08:00:00,Global Trade Balance,LOW,EUR
 39a54abe-5e13-4520-8631-d50064aba240,10/14/2027 08:00:00,Trade Balance EU,LOW,EUR
+bf4348e7-db0c-4212-96b8-360c3e966b29,10/15/2027 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+a9e39704-2517-4b28-bbd3-bf6ea01e7257,10/15/2027 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+33fcc6af-1bf2-4bce-b8b1-4524ac282bb9,10/15/2027 09:00:00,Consumer Price Index (MoM),LOW,EUR
+0a270e4b-adf8-45d7-b6f5-baad7d2ae1a0,10/15/2027 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR
+7dc21581-99c6-46e9-aaf5-08cc8f464ef4,10/28/2027 08:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR
+ff8bd11a-3d59-4a80-88aa-6505d65475a1,10/28/2027 08:00:00,Industrial Sales s.a. (MoM),LOW,EUR
 25b7b2e8-7561-455a-a55d-0f61af7e0ed5,10/28/2027 09:00:00,Business Confidence,LOW,EUR
 747800bb-2d54-4e6d-b165-93bb394f0aa3,10/28/2027 09:00:00,Consumer Confidence,LOW,EUR
+0fddf27b-e047-4f71-95b6-7fcb69940e1a,10/28/2027 09:00:00,Producer Price Index (MoM),LOW,EUR
+14127e46-0f5d-41a3-b23d-d15d07d0e0a9,10/28/2027 09:00:00,Producer Price Index (YoY),LOW,EUR
 a4a6aaae-3aa0-4887-9531-fbc9f5888958,10/28/2027 09:00:00,Trade Balance non-EU,LOW,EUR
+1bd5c296-d899-41c1-b5a2-5f1bf958c080,10/29/2027 08:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR
+a3003efc-7521-4ad1-adc3-ead4fcf0969c,10/29/2027 08:00:00,Gross Domestic Product (YoY),MEDIUM,EUR
+3dfb6b79-a43b-4df2-9be9-4bd212dda5ca,10/29/2027 08:00:00,Unemployment,LOW,EUR
+d6dcb12d-3572-4702-93f8-088fa5e7d450,10/29/2027 09:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+dafccb66-06c3-4640-9e67-087d736f73f6,10/29/2027 09:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+bd5057a9-128b-450f-9f96-ed714934de2b,10/29/2027 09:00:00,Consumer Price Index (MoM),LOW,EUR
+7423e1aa-0ba7-40c0-94bc-4b85af73afbb,10/29/2027 09:00:00,Consumer Price Index (YoY),MEDIUM,EUR
 45fb0d81-70d2-4092-a918-e93692a2094a,11/01/2027 06:45:00,HCOB Manufacturing PMI,MEDIUM,EUR
 c8eb563e-0cd2-4c5a-8b90-3e415cf4d1c9,11/03/2027 06:45:00,HCOB Services PMI,LOW,EUR
+610e8b92-69ce-4e83-8048-552d5b98877a,11/05/2027 09:00:00,Retail Sales n.s.a (YoY),LOW,EUR
+f98240af-4335-4b27-b4bc-dfba0b35b79c,11/05/2027 09:00:00,Retail Sales s.a. (MoM),LOW,EUR
 9a50453a-f662-469c-b136-115863e49498,11/11/2027 09:00:00,Industrial Output s.a. (MoM),LOW,EUR
 ed68e6c6-93d7-4302-a712-8b605663fb05,11/11/2027 09:00:00,Industrial Output w.d.a (YoY),LOW,EUR
 c3f62030-5d25-4899-993f-0886cd57b77d,11/16/2027 09:00:00,Global Trade Balance,LOW,EUR
 8169a764-1154-4fbd-a55f-0ad4f1bce2e0,11/16/2027 09:00:00,Trade Balance EU,LOW,EUR
+30913e04-5ccd-48d8-8b8c-f49328916463,11/16/2027 10:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+2336d98d-525c-4931-8b6b-07fcd8fd2f95,11/16/2027 10:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+bbf40121-6208-4397-bf09-5f47576fc23a,11/16/2027 10:00:00,Consumer Price Index (MoM),LOW,EUR
+23c9fe7a-0494-44cb-a929-56dd0807cfcc,11/16/2027 10:00:00,Consumer Price Index (YoY),MEDIUM,EUR
+c9c119a0-2120-47b3-8d78-6cd431a7f830,11/26/2027 09:00:00,Industrial Sales n.s.a. (YoY),LOW,EUR
+c0b0b326-5486-4ff0-a190-b18d404b2b62,11/26/2027 09:00:00,Industrial Sales s.a. (MoM),LOW,EUR
 b02738dc-b674-438e-a487-8ed7b04967eb,11/30/2027 09:00:00,Business Confidence,LOW,EUR
 21ccbcbc-6442-4b62-ac73-6f2c6227f66f,11/30/2027 09:00:00,Consumer Confidence,LOW,EUR
+9e499add-cb26-4b29-b0c4-cba9f96e97b0,11/30/2027 09:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR
+69884515-5079-4a51-bd45-8847545a0c53,11/30/2027 09:00:00,Gross Domestic Product (YoY),MEDIUM,EUR
 d20cb3f1-1246-4261-823f-1112666e4fa9,11/30/2027 09:00:00,Trade Balance non-EU,LOW,EUR
+e3daec19-65b4-4b82-b1d1-53d410a93754,11/30/2027 09:00:00,Unemployment,LOW,EUR
+0116097d-58bf-4f0f-b36c-edf209849f0a,11/30/2027 10:00:00,Consumer Price Index (EU Norm) (MoM),LOW,EUR
+cbba4ee1-78db-4140-9746-8c97b512782f,11/30/2027 10:00:00,Consumer Price Index (EU Norm) (YoY),MEDIUM,EUR
+55cce0fc-852d-49e8-a1f1-f55fa5c4dcd9,11/30/2027 10:00:00,Consumer Price Index (MoM),LOW,EUR
+4d53a730-81ab-4a48-ba60-0570f16a4c56,11/30/2027 10:00:00,Consumer Price Index (YoY),MEDIUM,EUR
+16f0db42-cb72-430a-b438-da0fbf5c3f2e,11/30/2027 10:00:00,Producer Price Index (MoM),LOW,EUR
+09442247-4f44-4e11-9b4c-60bb7afe5011,11/30/2027 10:00:00,Producer Price Index (YoY),LOW,EUR

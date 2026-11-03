@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-531d30c5-6be2-40ba-9260-a6f91ebb8a8c,11/02/2026 00:00:00,TD-MI Inflation Gauge (MoM),HIGH,AUD,Release,0.19,Inflation
-c2ff4744-f41f-4830-a92e-204e341e36d1,11/02/2026 00:00:00,TD-MI Inflation Gauge (YoY),HIGH,AUD,Release,0.19,Inflation
-c545706f-fb1b-4373-a487-069a4f257e25,11/02/2026 00:30:00,Building Permits (MoM),LOW,AUD,Release,0.07,Housing
-9125402a-5a19-45f5-80a3-47f6d46d493d,11/02/2026 00:30:00,Building Permits (YoY),LOW,AUD,Release,0.07,Housing
-c471ff72-de3d-498a-a2c3-138a262f8223,11/02/2026 05:30:00,RBA Commodity Index SDR (YoY),HIGH,AUD,Release,0.19,Inflation
 43d1d37d-afcd-4217-9b6c-95057f9c21c6,11/03/2026 03:30:00,RBA Interest Rate Decision,MEDIUM,AUD,Speech,0.13,Monetary Policy
 29638427-4a2d-4e98-a4dc-5fe0917e8aae,11/03/2026 03:30:00,RBA Monetary Policy Statement,MEDIUM,AUD,Speech,0.13,Monetary Policy
 3a621342-8b35-4558-91af-83f6a7f7c69c,11/03/2026 03:30:00,RBA Rate Statement,MEDIUM,AUD,Speech,0.13,Monetary Policy
@@ -23,7 +18,7 @@ df82902b-89fc-4fa2-af19-1b369f055fde,11/10/2026 00:30:00,National Australia Bank
 737028a3-fcf8-40ea-8922-3dc6d3b7c3b3,11/11/2026 00:30:00,Home Loans,LOW,AUD,Release,0.09,Money and Credit
 de8f484e-99fa-45ee-a040-e2057707a297,11/11/2026 00:30:00,Investment Lending for Homes,HIGH,AUD,Release,0.17,Growth
 7a7bbf93-7920-46bb-b787-0bb60a3bad8e,11/12/2026 00:00:00,Consumer Inflation Expectations,MEDIUM,AUD,Release,0.14,Confidence
-81a241b1-00e1-4dab-bd48-a566dcdc3ff6,11/13/2026 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
+81a241b1-00e1-4dab-bd48-a566dcdc3ff6,11/16/2026 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 995b3aa2-796e-4bc3-9da3-8936d9f1a079,11/17/2026 00:30:00,RBA Meeting Minutes,MEDIUM,AUD,Speech,0.13,Monetary Policy
 e04e187f-9be1-448e-b720-c625f8928fd6,11/18/2026 00:00:00,Westpac Leading Index (MoM),MEDIUM,AUD,Release,0.14,Confidence
 225be7ab-abc8-4a0c-aa96-7c6e259bd130,11/18/2026 00:30:00,Wage Price Index (QoQ),HIGH,AUD,Release,0.18,Labor Market

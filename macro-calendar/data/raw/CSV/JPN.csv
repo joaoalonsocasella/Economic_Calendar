@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-5f1219ef-a80f-477a-91e3-041ea78a88dd,11/02/2026 00:30:00,Jibun Bank Manufacturing PMI,LOW,JPY
 e3e40438-28fc-4030-a46b-f045ff79cc77,11/03/2026 23:50:00,Monetary Base (YoY),LOW,JPY
 1f434339-fb05-4101-aaf9-6571166b2458,11/04/2026 23:50:00,BoJ Monetary Policy Meeting Minutes,MEDIUM,JPY
 1c93887d-23d0-4c99-a3c0-3214cc8319b1,11/05/2026 00:30:00,Jibun Bank Services PMI,LOW,JPY
@@ -25,23 +24,23 @@ c82f5d88-71af-4b42-a312-8b8d61176c67,11/09/2026 23:50:00,Trade Balance - BOP Bas
 67b23d50-9e57-43e3-bfe6-5b4540b327b2,11/11/2026 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
 fdcf7d3f-9f0a-4fed-802d-c471029e607e,11/11/2026 23:50:00,Producer Price Index (MoM),LOW,JPY
 95ea66ff-1015-47ea-8665-e20afe40a2cd,11/11/2026 23:50:00,Producer Price Index (YoY),LOW,JPY
-3684c6b3-0b08-4bcf-aeb7-616c40049433,11/13/2026 04:30:00,Capacity Utilization,LOW,JPY
-c56d97ec-3983-49fc-9653-9addc9067c04,11/13/2026 04:30:00,Industrial Production (MoM),LOW,JPY
-014d1c99-75e3-4f99-8e12-c631eead9530,11/13/2026 04:30:00,Industrial Production (YoY),LOW,JPY
-191320d9-108e-4a3c-9ac9-c0fd2b1aac53,11/13/2026 20:30:00,CFTC JPY NC Net Positions,LOW,JPY
 14be18ad-4b90-4333-ab99-e5a653d86ef7,11/15/2026 23:50:00,Gross Domestic Product (QoQ),HIGH,JPY
 c3e9601f-befa-4e20-a252-c329d3b1e372,11/15/2026 23:50:00,Gross Domestic Product Annualized,MEDIUM,JPY
 7dca6a59-68c6-4e4e-b575-e91c9d464f6d,11/15/2026 23:50:00,Gross Domestic Product Deflator (YoY),MEDIUM,JPY
-ae555443-9a6b-4666-a4c7-7a30089a838f,11/15/2026 23:50:00,Machinery Orders (MoM),LOW,JPY
-867bef46-9ac5-436a-8f67-4d6cb38a0703,11/15/2026 23:50:00,Machinery Orders (YoY),LOW,JPY
 888a2f71-99ec-4a3d-b1dd-0f0cef90187f,11/16/2026 04:00:00,BoJ's Takata speech,MEDIUM,JPY
+3684c6b3-0b08-4bcf-aeb7-616c40049433,11/16/2026 04:30:00,Capacity Utilization,LOW,JPY
+c56d97ec-3983-49fc-9653-9addc9067c04,11/16/2026 04:30:00,Industrial Production (MoM),LOW,JPY
+014d1c99-75e3-4f99-8e12-c631eead9530,11/16/2026 04:30:00,Industrial Production (YoY),LOW,JPY
+191320d9-108e-4a3c-9ac9-c0fd2b1aac53,11/16/2026 20:30:00,CFTC JPY NC Net Positions,LOW,JPY
 0e95ba3b-1441-4e14-bede-1fd7ade10267,11/17/2026 04:30:00,Tertiary Industry Index (MoM),LOW,JPY
-37602ca6-9d42-4a43-b2e9-8412fcd8add6,11/18/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY
-e422a8fb-7cba-448d-8e9b-e6ef9d7ef6b1,11/18/2026 23:50:00,Exports (YoY),MEDIUM,JPY
+37602ca6-9d42-4a43-b2e9-8412fcd8add6,11/17/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY
+e422a8fb-7cba-448d-8e9b-e6ef9d7ef6b1,11/17/2026 23:50:00,Exports (YoY),MEDIUM,JPY
+924fd09c-5d2a-45dd-ab0a-ce76d22c8c5f,11/17/2026 23:50:00,Imports (YoY),MEDIUM,JPY
+75cf18c1-58c2-441d-97d5-597d2bb65d3b,11/17/2026 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY
 42a1ea17-f349-45a0-a6e0-87c47507cdec,11/18/2026 23:50:00,Foreign Bond Investment,LOW,JPY
 cc6cfdd5-7a86-47a4-97c6-29247b127f95,11/18/2026 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
-924fd09c-5d2a-45dd-ab0a-ce76d22c8c5f,11/18/2026 23:50:00,Imports (YoY),MEDIUM,JPY
-75cf18c1-58c2-441d-97d5-597d2bb65d3b,11/18/2026 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY
+ae555443-9a6b-4666-a4c7-7a30089a838f,11/18/2026 23:50:00,Machinery Orders (MoM),LOW,JPY
+867bef46-9ac5-436a-8f67-4d6cb38a0703,11/18/2026 23:50:00,Machinery Orders (YoY),LOW,JPY
 2c361dfb-838f-4797-bb41-fb7ff6d6922d,11/19/2026 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
 28a062e3-2a8c-4bb8-be4c-63f6c44732d9,11/19/2026 23:30:00,"National CPI ex Food, Energy (YoY)",MEDIUM,JPY
 9560be50-5920-4977-9e63-4e9f0683f3eb,11/19/2026 23:30:00,National CPI ex Fresh Food (YoY),MEDIUM,JPY
