@@ -1,11 +1,4 @@
 Id,Start,Name,Impact,Currency
-b3dc9f7b-c6f5-419d-aa17-f827b79f264c,11/03/2026 05:00:00,US Midterm Elections,HIGH,USD
-fdd53d89-52f2-414a-aac9-acf57dae7dd2,11/03/2026 13:55:00,Redbook Index (YoY),LOW,USD
-47195adf-128c-4273-adfa-cf58046a0337,11/03/2026 15:00:00,Factory Orders (MoM),MEDIUM,USD
-fe568be2-0b21-4bb8-ad63-8f09f72cfd7f,11/03/2026 15:00:00,JOLTS Job Openings,MEDIUM,USD
-9d5dbc5b-4191-4c8b-bbf0-d22c7971c008,11/03/2026 15:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),LOW,USD
-934a50f0-0624-46b5-8902-bc6d4befec7d,11/03/2026 20:30:00,Total Vehicle Sales,LOW,USD
-1a858411-8f18-401a-b38c-4799820f9cf4,11/03/2026 21:30:00,API Weekly Crude Oil Stock,LOW,USD
 4ff80ea2-bb39-4ac5-803c-ee6c1f08e709,11/04/2026 12:00:00,MBA Mortgage Applications,LOW,USD
 e2138b09-c406-415c-999d-36e58d770ae5,11/04/2026 13:15:00,ADP Employment Change,HIGH,USD
 837baaee-dd6c-4e13-b8b4-8bc3a4f99bc9,11/04/2026 13:30:00,Goods and Services Trade Balance,LOW,USD
@@ -20,6 +13,7 @@ ca05347e-9bf9-4b0f-a609-3e75d5585e37,11/04/2026 15:30:00,EIA Crude Oil Stocks Ch
 08ff417c-a5d1-44e3-b97a-48c7ad23bfe3,11/04/2026 15:30:00,EIA Distillate Stocks Change,LOW,USD
 3abdd8e2-e85a-460e-a7ab-c08a76e15a87,11/04/2026 15:30:00,EIA Gasoline Stocks Change,LOW,USD
 6cb4a779-334a-4f7c-82c4-8e78f2a1d31e,11/04/2026 15:30:00,EIA Heating Oil Stocks Change,LOW,USD
+934a50f0-0624-46b5-8902-bc6d4befec7d,11/04/2026 20:30:00,Total Vehicle Sales,LOW,USD
 19e683ff-acc3-4cc3-bd7f-66b296b2044b,11/05/2026 10:30:00,Challenger Job Cuts,MEDIUM,USD
 5b0bc9d4-792e-41d2-b062-d5b63c3c4b58,11/05/2026 13:30:00,Continuing Jobless Claims,LOW,USD
 deafa8d4-f1fb-46d1-af7a-61186993120d,11/05/2026 13:30:00,Initial Jobless Claims,MEDIUM,USD

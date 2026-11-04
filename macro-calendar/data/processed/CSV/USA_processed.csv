@@ -1,11 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-b3dc9f7b-c6f5-419d-aa17-f827b79f264c,11/03/2026 05:00:00,US Midterm Elections,MEDIUM,USD,Release,0.14,Confidence
-fdd53d89-52f2-414a-aac9-acf57dae7dd2,11/03/2026 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
-47195adf-128c-4273-adfa-cf58046a0337,11/03/2026 15:00:00,Factory Orders (MoM),HIGH,USD,Release,0.17,Growth
-fe568be2-0b21-4bb8-ad63-8f09f72cfd7f,11/03/2026 15:00:00,JOLTS Job Openings,HIGH,USD,Release,0.18,Labor Market
-9d5dbc5b-4191-4c8b-bbf0-d22c7971c008,11/03/2026 15:00:00,RealClearMarkets/TIPP Economic Optimism (MoM),HIGH,USD,Release,0.19,Inflation
-934a50f0-0624-46b5-8902-bc6d4befec7d,11/03/2026 20:30:00,Total Vehicle Sales,HIGH,USD,Release,0.17,Growth
-1a858411-8f18-401a-b38c-4799820f9cf4,11/03/2026 21:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 4ff80ea2-bb39-4ac5-803c-ee6c1f08e709,11/04/2026 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 e2138b09-c406-415c-999d-36e58d770ae5,11/04/2026 13:15:00,ADP Employment Change,HIGH,USD,Release,0.18,Labor Market
 837baaee-dd6c-4e13-b8b4-8bc3a4f99bc9,11/04/2026 13:30:00,Goods and Services Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
@@ -20,6 +13,7 @@ ca05347e-9bf9-4b0f-a609-3e75d5585e37,11/04/2026 15:30:00,EIA Crude Oil Stocks Ch
 08ff417c-a5d1-44e3-b97a-48c7ad23bfe3,11/04/2026 15:30:00,EIA Distillate Stocks Change,HIGH,USD,Release,0.18,Labor Market
 3abdd8e2-e85a-460e-a7ab-c08a76e15a87,11/04/2026 15:30:00,EIA Gasoline Stocks Change,HIGH,USD,Release,0.18,Labor Market
 6cb4a779-334a-4f7c-82c4-8e78f2a1d31e,11/04/2026 15:30:00,EIA Heating Oil Stocks Change,HIGH,USD,Release,0.18,Labor Market
+934a50f0-0624-46b5-8902-bc6d4befec7d,11/04/2026 20:30:00,Total Vehicle Sales,HIGH,USD,Release,0.17,Growth
 19e683ff-acc3-4cc3-bd7f-66b296b2044b,11/05/2026 10:30:00,Challenger Job Cuts,HIGH,USD,Release,0.18,Labor Market
 5b0bc9d4-792e-41d2-b062-d5b63c3c4b58,11/05/2026 13:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 deafa8d4-f1fb-46d1-af7a-61186993120d,11/05/2026 13:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market

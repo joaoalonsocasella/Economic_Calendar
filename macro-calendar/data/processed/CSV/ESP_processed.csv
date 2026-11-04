@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-162c1c25-ef9a-44da-8ff0-38e5e0fe8fde,11/03/2026 09:40:00,12-Month Letras Auction,HIGH,EUR,Release,0.383,Money and Credit
-e7676508-eae1-47cc-9bd3-0af24b07633a,11/03/2026 09:40:00,6-Month Letras Auction,HIGH,EUR,Release,0.383,Money and Credit
 4cdff699-851f-4388-8eb6-dac0555d5a7e,11/04/2026 08:00:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
 c01d152c-b9a0-47a1-9562-83aaa49b8d69,11/04/2026 08:15:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 5772f333-7143-4935-8b80-67bd34075f65,11/05/2026 09:40:00,10-y Obligaciones Auction,HIGH,EUR,Release,0.383,Money and Credit
@@ -51,5 +49,155 @@ fedfe7ec-8c59-49ca-a877-1b5c42398775,01/29/2027 08:00:00,Gross Domestic Product 
 bfccb89e-e7d8-4667-a79d-4482b6688d4f,01/29/2027 08:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
 5dba390a-4e88-4672-9b60-7c5c84c032f2,01/29/2027 08:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 35923e88-c1a5-4071-a36b-326cb8f229a1,01/29/2027 09:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+8fe3ca9b-81d7-4106-a110-244d30a4ee06,02/01/2027 08:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+d94867a5-ca62-43ed-8f8b-2e38ea1730ca,02/02/2027 08:00:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
+825003f3-2900-427d-8ea6-6e67441d7119,02/03/2027 08:15:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+5e6c55a9-939d-4e46-80de-d302533ea0db,02/04/2027 08:00:00,Industrial Output Cal Adjusted (YoY),HIGH,EUR,Release,0.722,Growth
+c04ed109-9b6a-4c28-b22b-5cdefea428c8,02/12/2027 08:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+992f3260-95b6-4d75-9f99-745c4213c12e,02/12/2027 08:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+32bff8f9-b7b3-4932-b0e9-e1a6bdc959a8,02/12/2027 08:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+0f4a924b-1038-4d2d-a044-ed78c61c3891,02/12/2027 08:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+0095d6dd-691c-4599-89b9-b3841c29c20a,02/26/2027 08:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+820f0f93-bbb0-4c7a-b41e-de062d35232c,02/26/2027 08:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+7924e59b-cb2c-4e3a-9718-21fcf43631c4,02/26/2027 08:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+28af1e3d-b8d7-4018-a37d-37a07b4cda3d,02/26/2027 08:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+5552dafc-7068-4431-b7a8-ae1209f1d478,02/26/2027 09:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+ad115c55-c171-494d-92b1-5e0a0c946023,03/01/2027 08:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+d7b3a8ae-d05e-4501-bc27-6750609d6aae,03/02/2027 08:00:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
+831749fa-3c7b-41d1-a198-ca2e686b85e6,03/03/2027 08:15:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+111adfcf-bad0-4f62-8fbc-0d0749a19b0b,03/04/2027 08:00:00,Industrial Output Cal Adjusted (YoY),HIGH,EUR,Release,0.722,Growth
+b17e90bb-cddf-4bb9-986e-00d419e8e94d,03/05/2027 08:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+51353edc-f5a9-4d78-9305-236cd490e200,03/12/2027 08:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+7438c5df-c2c9-479b-bd25-75f9817d6402,03/12/2027 08:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+129cb71e-968e-4746-b974-835940732058,03/12/2027 08:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+f6e8cfc1-0233-4490-8796-3243cc3d6558,03/12/2027 08:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
 9fbea740-af4b-4c39-b371-87e44eb94511,03/25/2027 08:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 68dd047a-c99f-4285-afc1-2cf57bfa424b,03/25/2027 08:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
+a39c0686-87a2-44f9-a440-d7717447471f,03/29/2027 07:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+4c357247-c92a-4aee-b9ed-4817236cfad5,03/31/2027 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+7b2af19d-7e0e-4309-9ed6-a38895dff681,03/31/2027 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+17c6f7a2-e726-4144-a392-915f4ce1f6df,03/31/2027 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+06e577aa-6de8-480f-9f93-770d31a9cc70,03/31/2027 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+f3a1a9bd-de7c-4f8e-90fe-0bf374c2ef29,03/31/2027 08:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+5afc7f15-34d4-47de-96a5-70457b8665c8,04/01/2027 07:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+634f99d9-f90f-4355-8e8b-8112299a7144,04/05/2027 07:00:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
+5c2a23d7-694d-4c75-811a-6daecc7e2429,04/05/2027 07:15:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+da5e78dc-8bd0-442b-a40d-4e4a1908e285,04/08/2027 07:00:00,Industrial Output Cal Adjusted (YoY),HIGH,EUR,Release,0.722,Growth
+0278a7df-327c-4a98-a90d-46a9d50af1c6,04/14/2027 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+cdd7a2d9-d081-4943-af05-d0dcb864d4f7,04/14/2027 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+cc4018e2-1042-42a0-947c-ab5599aef0c8,04/14/2027 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+47bf47fa-77c5-4e3c-a82f-1d9a8696f51c,04/14/2027 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+dcefc3f3-5edd-42e4-8748-dd5529874223,04/29/2027 07:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+0f7d1116-f373-442e-ac8b-5c08d259263d,04/30/2027 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+0f81cb6e-e5d6-4def-a8b8-7c91240cfb4d,04/30/2027 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+9696219c-f01a-4375-8843-1decf45a1082,04/30/2027 07:00:00,Gross Domestic Product - Estimated (QoQ),HIGH,EUR,Release,0.722,Growth
+6971c48c-e7af-4122-90b0-730548032b8d,04/30/2027 07:00:00,Gross Domestic Product - Estimated (YoY),HIGH,EUR,Release,0.722,Growth
+00211cc4-228d-4b3b-afb7-3a31d23744f0,04/30/2027 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+e5143b09-26ff-4dec-bd5b-197d1324b877,04/30/2027 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+61a65876-17e4-496a-9ff6-37b673aeecd6,04/30/2027 08:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+8be67125-03fb-4405-972a-b537f4e61508,05/03/2027 07:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+2ec71ce4-618e-4c22-a2b3-f69878b1979f,05/04/2027 07:00:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
+3dc80f2f-2498-488d-9940-0636cbe2b2af,05/05/2027 07:15:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+e2f8f5e8-17eb-4b6d-bfd6-b393bd7024cf,05/07/2027 07:00:00,Industrial Output Cal Adjusted (YoY),HIGH,EUR,Release,0.722,Growth
+d58b156d-bb38-45c2-9e7b-06757840c899,05/14/2027 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+e7f7cdb3-7d5f-4a3a-b918-eb3baac8bf8d,05/14/2027 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+5a5786d2-8e89-4f1e-b903-457eb904bd5f,05/14/2027 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+ccdcb5c5-fa61-46a8-816a-1bf0f88d8280,05/14/2027 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+d192a192-8666-4c7e-8994-e426c3d5c32d,05/28/2027 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+ff442309-6fbe-4136-89ed-5b285c8871da,05/28/2027 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+724cbf37-b6e1-4151-8bdf-1a9abc290e15,05/28/2027 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+31fdf745-a2f3-42cd-a947-18acb1c7db62,05/28/2027 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+d013d5c5-ce30-4b79-b19c-314ec8b738a8,05/28/2027 07:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+ebad98e0-5843-4478-8b1a-8c4c7d8cb81e,05/31/2027 08:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+c8579d68-fda9-468c-afd2-8583d0dca6fd,06/01/2027 07:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+b381fda3-4f40-4086-9bed-235900b88ff7,06/02/2027 07:00:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
+66f9e7e8-d59c-4c69-bf7d-40379e07dda1,06/03/2027 07:15:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+05b14b39-2dae-4809-a72d-34bb4d8f5f3c,06/04/2027 07:00:00,Industrial Output Cal Adjusted (YoY),HIGH,EUR,Release,0.722,Growth
+8663fdf0-dd1e-4929-9a81-769b22f14f24,06/15/2027 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+4384d6d4-e953-41d0-a84b-53c05c15723c,06/15/2027 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+ed718004-ee41-437a-88bb-03299eb9e13f,06/15/2027 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+42ff5751-fd8a-43b4-9564-c936df356740,06/15/2027 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+6245e008-91f8-4a09-965e-8ef641a75751,06/24/2027 07:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+ff461876-2572-48c8-b4a2-f3df95203417,06/24/2027 07:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
+16fefccb-c96b-4d20-a9a1-3e380fa72c91,06/28/2027 07:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+16ca46a4-d159-46ce-85c4-5bdaa343e214,06/30/2027 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+97f4e59a-dc88-4d0e-80a5-409eb88e74c7,06/30/2027 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+9e0c1894-81df-43a0-8515-49218300e607,06/30/2027 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+7ea51f7f-b787-440d-ad5e-dc24a2317215,06/30/2027 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+fe05596e-a551-4070-8c13-05cbde30711c,06/30/2027 08:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+4b13bc8d-ca0e-47a6-bd9a-037c8a62a23a,07/01/2027 07:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+d7cf4d15-38f3-41a5-8ad6-288602242ff1,07/02/2027 07:00:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
+dcf1f19a-d68d-484f-ab60-be39f65e6455,07/05/2027 07:15:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+e57d6516-715a-463b-b071-3b3bf8aff3ec,07/07/2027 07:00:00,Industrial Output Cal Adjusted (YoY),HIGH,EUR,Release,0.722,Growth
+882416f7-0bb8-4437-8c52-c8e91503d7e9,07/15/2027 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+aec3106e-3783-416f-a8df-aec6084b0ab3,07/15/2027 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+151e599d-7049-4e39-9ce3-42ebeb241587,07/15/2027 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+1f5518dd-3657-4c96-acd1-c54aa2021d98,07/15/2027 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+eaf2a011-d8cb-4e47-9780-94ee52369937,07/29/2027 07:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+1d7d063c-08b7-4243-ad10-9e87a04a774f,07/30/2027 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+dc938084-8538-42e8-8cfd-04fec6580e4f,07/30/2027 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+277bfd2e-4860-4218-bf6d-0bf6dee72498,07/30/2027 07:00:00,Gross Domestic Product - Estimated (QoQ),HIGH,EUR,Release,0.722,Growth
+750c6d0f-b2b4-40a3-8491-a659034cf6f4,07/30/2027 07:00:00,Gross Domestic Product - Estimated (YoY),HIGH,EUR,Release,0.722,Growth
+908e00c8-08c0-4340-ae0e-3ee5a84d373c,07/30/2027 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+0876f7c2-9d25-4f1f-adf1-8660a8a019b9,07/30/2027 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+c605287d-54e3-4158-9849-eed98c3d4b39,07/30/2027 08:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+7783fb95-14c0-44d5-a0bb-6354c364360b,08/02/2027 07:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+493fa968-9687-488c-b7c4-cdd4570d4c38,08/03/2027 07:00:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
+abc8c37b-fecf-4b0a-a043-f7527a6e74af,08/04/2027 07:15:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+57c95fa2-2d14-488e-9379-b9532bbc0fcf,08/05/2027 07:00:00,Industrial Output Cal Adjusted (YoY),HIGH,EUR,Release,0.722,Growth
+f4f8033e-bea1-4b8d-b00b-7ff10ad5f003,08/13/2027 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+d27b6786-df86-440b-88aa-d422519ad62f,08/13/2027 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+805514a4-843a-46ea-9aed-59dec3b936ec,08/13/2027 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+88a63dd9-bc52-48c2-8c98-0d562d1b0b53,08/13/2027 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+d6f7307d-73d7-4ef6-916b-1f0458fcbf89,08/30/2027 07:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+9789ecdf-1310-4fd3-a16f-d466e498ff71,08/31/2027 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+820d6c7c-a6e2-47ae-9746-9f3bfaf8ea41,08/31/2027 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+0a74a665-f74b-4dce-9459-928496495072,08/31/2027 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+8389866f-06f0-4f01-af6e-6d8c361e2cb3,08/31/2027 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+4d06159d-dd0b-4b18-af1b-4d6a0c7c4b05,08/31/2027 08:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+415c3433-5d5c-4c17-b6bb-c5f68123e1b7,09/01/2027 07:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+74a4c6a5-4185-4ce9-8c6f-dcf411055eff,09/03/2027 07:00:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
+2423d2df-2d0c-4c07-8bf3-17b0cac6145c,09/03/2027 07:15:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+b2a1f242-718d-4758-8399-6a9c03aa8b2a,09/08/2027 07:00:00,Industrial Output Cal Adjusted (YoY),HIGH,EUR,Release,0.722,Growth
+bf5c91f0-aa62-4abd-aba4-849f16869937,09/15/2027 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+579899c0-b524-40d6-9da9-9ce9b75a98f6,09/15/2027 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+f7a2395c-5d28-4d92-9e93-7625814d38ba,09/15/2027 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+0d64458b-c990-420f-87fd-93961cac4f95,09/15/2027 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+53f56c96-4f56-4139-952e-935d04826841,09/24/2027 07:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+ac843d53-3eb6-4fd7-80a8-dd13ce56900e,09/24/2027 07:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
+b768d67c-d741-494f-83d4-1a2670e3d8ec,09/29/2027 07:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+1e4df06b-0ad7-47c4-ba4f-4b4c317e7249,09/30/2027 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+271b3859-5d55-4729-ac0f-71eb734b98b8,09/30/2027 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+e18364e6-4064-40d8-8e52-8f16bdc23440,09/30/2027 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+bca3669d-7dcb-482f-991b-407496fb338e,09/30/2027 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+66109446-3887-4c76-8a63-2e3242ebb70f,09/30/2027 08:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+d864da86-a04b-4fe0-88f0-0077a9d04f37,10/01/2027 07:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+776095ae-9285-459b-855f-0f454f352685,10/05/2027 07:00:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
+63ad4fd9-c476-49c4-817d-991d27de9b0d,10/05/2027 07:15:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+1fece628-157d-48ad-8567-1d6b5c24fc0c,10/08/2027 07:00:00,Industrial Output Cal Adjusted (YoY),HIGH,EUR,Release,0.722,Growth
+6571dbcd-df4a-4566-8b2c-05d1a91d48ae,10/15/2027 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+7220f730-2854-494b-8dd7-857a4cbb367e,10/15/2027 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+253e020c-56c6-447a-8351-43a608298384,10/15/2027 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+0de3455f-e76c-4efb-9abe-d3161bffb958,10/15/2027 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+ee16a8db-fc0d-4c6a-806d-f96e03b360f7,10/28/2027 07:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+4f75bf2b-e5fb-4bc8-8eb1-244e7fbf582d,10/29/2027 07:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+2ffed158-32f6-4082-8251-2de2e21434b1,10/29/2027 07:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+0cb8b3f8-4071-4cf5-a083-bb3ed8d60750,10/29/2027 07:00:00,Gross Domestic Product - Estimated (QoQ),HIGH,EUR,Release,0.722,Growth
+c66aa17e-bcb4-4877-b369-4ea70034c336,10/29/2027 07:00:00,Gross Domestic Product - Estimated (YoY),HIGH,EUR,Release,0.722,Growth
+c65f9d4a-dd0d-4c8d-b2a0-b28cd5efbf8c,10/29/2027 07:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+503cb64e-fe5a-443b-8724-ba658ac575eb,10/29/2027 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+17685e71-546f-446b-a5f5-1c5533b33cdd,10/29/2027 08:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+bf33b244-95ba-4076-8784-5ca495ba1150,11/01/2027 08:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+fbeccffc-5c90-4993-be5c-4e27de633b4e,11/03/2027 08:15:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+f33b8abe-809a-4d89-a1a6-50064331ba5b,11/04/2027 08:00:00,Unemployment Change,HIGH,EUR,Release,0.765,Labor Market
+f0aa8866-32fc-4579-b5d4-49ba77e05143,11/05/2027 08:00:00,Industrial Output Cal Adjusted (YoY),HIGH,EUR,Release,0.722,Growth
+589d6b3a-dddd-4663-ba4a-0eede36ab549,11/12/2027 08:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+94d81ee8-a283-47c5-890b-f9be690124d4,11/12/2027 08:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+cb019de8-c6ec-4f2e-8acd-6d3191ad718c,11/12/2027 08:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+1278a0fd-8b33-460d-ad58-99a8cbf05c48,11/12/2027 08:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+775f402f-2d1d-43a7-873e-479e1195e381,11/29/2027 08:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+d8da3d33-3bff-466a-b548-c7cfb746b955,11/30/2027 08:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+f3cb0a14-2c57-40e5-83a8-71e053e22df9,11/30/2027 08:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+d285831b-4dfd-49d3-8e8e-cf2ba2ce3bf4,11/30/2027 08:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
+d3ac2655-8ea1-4b7b-89d4-0214845a5abc,11/30/2027 08:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
+1e029635-bd55-4244-984c-2a876912d5b9,11/30/2027 09:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
