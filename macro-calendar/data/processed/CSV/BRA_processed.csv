@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-80853171-8638-4235-95b2-5d16b52cf5dc,11/04/2026 08:00:00,Fipe's IPC Inflation,HIGH,BRL,Release,0.19,Inflation
-3c4771eb-06a2-4c0e-a452-05bfe1da8bc9,11/04/2026 21:00:00,Interest Rate Decision,HIGH,BRL,Release,0.2,Monetary Policy
 1d0b7e7e-00c5-48d7-a278-8b1641ce7946,11/05/2026 12:00:00,Industrial Output (MoM),HIGH,BRL,Release,0.17,Growth
 d3e8ef78-f6c0-4f64-8126-edd1923fbe3f,11/05/2026 12:00:00,Industrial Output (YoY),HIGH,BRL,Release,0.17,Growth
 070172ca-1273-43f1-8e07-1d54fc6c2066,11/05/2026 18:00:00,Trade Balance,MEDIUM,BRL,Release,0.11,Trade and External

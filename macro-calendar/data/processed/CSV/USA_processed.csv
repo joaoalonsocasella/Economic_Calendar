@@ -1,19 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-4ff80ea2-bb39-4ac5-803c-ee6c1f08e709,11/04/2026 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-e2138b09-c406-415c-999d-36e58d770ae5,11/04/2026 13:15:00,ADP Employment Change,HIGH,USD,Release,0.18,Labor Market
-837baaee-dd6c-4e13-b8b4-8bc3a4f99bc9,11/04/2026 13:30:00,Goods and Services Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
-5552fb1c-8bdd-4223-834f-cc632695fd5b,11/04/2026 13:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
-6edbae1d-5754-4ee3-85a8-a773904fa382,11/04/2026 14:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
-bc785f6e-2082-43df-9294-6d25b774128e,11/04/2026 14:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
-d1dd9b9a-56aa-4bb8-b95e-ad2d7e6185b0,11/04/2026 15:00:00,ISM Services Employment Index,HIGH,USD,Release,0.18,Labor Market
-9f87ff40-da89-4765-a1a3-861baa344b06,11/04/2026 15:00:00,ISM Services New Orders Index,HIGH,USD,Release,0.17,Growth
-3c1033c6-6706-445b-bcaf-55e38dfbbe6f,11/04/2026 15:00:00,ISM Services PMI,HIGH,USD,Release,0.17,Growth
-a4528029-f562-4924-95cc-78c68bbfb95d,11/04/2026 15:00:00,ISM Services Prices Paid,MEDIUM,USD,Release,0.14,Confidence
-ca05347e-9bf9-4b0f-a609-3e75d5585e37,11/04/2026 15:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
-08ff417c-a5d1-44e3-b97a-48c7ad23bfe3,11/04/2026 15:30:00,EIA Distillate Stocks Change,HIGH,USD,Release,0.18,Labor Market
-3abdd8e2-e85a-460e-a7ab-c08a76e15a87,11/04/2026 15:30:00,EIA Gasoline Stocks Change,HIGH,USD,Release,0.18,Labor Market
-6cb4a779-334a-4f7c-82c4-8e78f2a1d31e,11/04/2026 15:30:00,EIA Heating Oil Stocks Change,HIGH,USD,Release,0.18,Labor Market
-934a50f0-0624-46b5-8902-bc6d4befec7d,11/04/2026 20:30:00,Total Vehicle Sales,HIGH,USD,Release,0.17,Growth
 19e683ff-acc3-4cc3-bd7f-66b296b2044b,11/05/2026 10:30:00,Challenger Job Cuts,HIGH,USD,Release,0.18,Labor Market
 5b0bc9d4-792e-41d2-b062-d5b63c3c4b58,11/05/2026 13:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 deafa8d4-f1fb-46d1-af7a-61186993120d,11/05/2026 13:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
@@ -21,6 +6,7 @@ deafa8d4-f1fb-46d1-af7a-61186993120d,11/05/2026 13:30:00,Initial Jobless Claims,
 fb980afa-7081-4f97-9487-2288156c19bd,11/05/2026 13:30:00,Nonfarm Productivity,HIGH,USD,Release,0.18,Labor Market
 53955edd-b397-4fed-894b-6f335d21a57b,11/05/2026 13:30:00,Unit Labor Costs,HIGH,USD,Release,0.18,Labor Market
 fa8667ec-dcbd-4984-8017-ea6588328d56,11/05/2026 13:50:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+1f5042c1-a316-44e1-b231-6002cc1d0879,11/05/2026 15:00:00,Fed's Barkin speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 10fd4311-ba61-4094-888c-6e9ba2ad59d3,11/05/2026 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 52975b53-112b-439f-98b3-9c7b714e9211,11/05/2026 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 1a431136-2b83-4f9a-9e90-c4ac4c415184,11/06/2026 09:30:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy

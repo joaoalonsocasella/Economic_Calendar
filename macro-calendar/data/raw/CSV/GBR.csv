@@ -1,6 +1,4 @@
 Id,Start,Name,Impact,Currency
-0af44afa-1207-40aa-8a7f-2d0000fa62fe,11/04/2026 09:30:00,S&P Global Composite PMI,LOW,GBP
-c54273bf-4f0b-4419-8036-ed9b48ef4842,11/04/2026 09:30:00,S&P Global Services PMI,LOW,GBP
 9c14682f-bae8-413c-8714-8a4cbd8afc23,11/05/2026 09:30:00,S&P Global Construction PMI,LOW,GBP
 afdafa46-06e1-4c9e-a74d-d2635ca62555,11/05/2026 12:00:00,BoE Interest Rate Decision,HIGH,GBP
 395b75d2-b858-4d1b-b80e-c1008da2cb38,11/05/2026 12:00:00,BoE Minutes,HIGH,GBP
@@ -10,6 +8,7 @@ d877acfe-fc11-448a-a375-eb814853a930,11/05/2026 12:00:00,BoE Monetary Policy Rep
 38938af9-5052-40d9-b878-da46c82c4af0,11/05/2026 12:00:00,BoE MPC Vote Rate Hike,HIGH,GBP
 b6f8ab3e-5fe3-4088-9678-81822be75992,11/05/2026 12:00:00,BoE MPC Vote Rate Unchanged,HIGH,GBP
 b7686588-d8da-4567-a380-e9eff4b6d41c,11/05/2026 12:30:00,BoE's Governor Bailey speech,HIGH,GBP
+cea48d8c-03c4-4d90-b69f-63aef2c7c012,11/05/2026 16:00:00,BoE's Governor Bailey speech,HIGH,GBP
 6dd83d20-0c68-491e-bd98-d23bafe2921c,11/06/2026 07:00:00,Lloyds House Price Index (MoM),LOW,GBP
 22843f0b-d29f-4db0-a2db-ff7cfea5527a,11/06/2026 07:00:00,Lloyds House Price Index (YoY),LOW,GBP
 3e15ccf1-d78c-47e6-be2e-25358365bd77,11/06/2026 20:30:00,CFTC GBP NC Net Positions,LOW,GBP

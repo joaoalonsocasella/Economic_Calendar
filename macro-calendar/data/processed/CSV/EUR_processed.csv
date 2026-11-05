@@ -1,11 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-eb9e7ab7-e867-418d-b149-601143425d1d,11/04/2026 09:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
-c3337e3c-8e96-4d1d-ab3f-a41b9b0743cc,11/04/2026 09:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
-99da067e-f392-4557-a1b8-327afe8aea17,11/04/2026 10:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
-5d84c2d3-3cc0-4839-809d-9d1bd7a12c8b,11/04/2026 10:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.807,Inflation
-1b1f3c8c-d863-4134-884a-33519d5030da,11/04/2026 10:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
-4e24beb0-2465-4357-87c3-0896f6d9ddc4,11/04/2026 10:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR,Release,0.595,Confidence
-a34414f1-0d09-4259-9f97-b833371ba2bb,11/04/2026 13:20:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
 1e549d26-931f-42fb-8441-76eade4ed9f9,11/05/2026 07:30:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
 a3797feb-1bcf-4d5b-9378-935d3b384592,11/05/2026 08:05:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 9b5497a1-073d-4362-bfd0-a386a9c1e43d,11/05/2026 10:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
