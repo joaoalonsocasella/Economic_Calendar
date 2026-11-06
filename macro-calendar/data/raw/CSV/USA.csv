@@ -1,14 +1,4 @@
 Id,Start,Name,Impact,Currency
-19e683ff-acc3-4cc3-bd7f-66b296b2044b,11/05/2026 10:30:00,Challenger Job Cuts,MEDIUM,USD
-5b0bc9d4-792e-41d2-b062-d5b63c3c4b58,11/05/2026 13:30:00,Continuing Jobless Claims,LOW,USD
-deafa8d4-f1fb-46d1-af7a-61186993120d,11/05/2026 13:30:00,Initial Jobless Claims,MEDIUM,USD
-9a05bd4d-1933-492d-936e-b7beddecb4fa,11/05/2026 13:30:00,Initial Jobless Claims 4-week average,LOW,USD
-fb980afa-7081-4f97-9487-2288156c19bd,11/05/2026 13:30:00,Nonfarm Productivity,MEDIUM,USD
-53955edd-b397-4fed-894b-6f335d21a57b,11/05/2026 13:30:00,Unit Labor Costs,MEDIUM,USD
-fa8667ec-dcbd-4984-8017-ea6588328d56,11/05/2026 13:50:00,Fed's Hammack speech,MEDIUM,USD
-1f5042c1-a316-44e1-b231-6002cc1d0879,11/05/2026 15:00:00,Fed's Barkin speech,MEDIUM,USD
-10fd4311-ba61-4094-888c-6e9ba2ad59d3,11/05/2026 15:30:00,EIA Natural Gas Storage Change,LOW,USD
-52975b53-112b-439f-98b3-9c7b714e9211,11/05/2026 16:30:00,4-Week Bill Auction,LOW,USD
 1a431136-2b83-4f9a-9e90-c4ac4c415184,11/06/2026 09:30:00,Fed's Williams speech,MEDIUM,USD
 7300f597-d4d2-4360-832a-33657038e139,11/06/2026 13:30:00,Average Hourly Earnings (MoM),HIGH,USD
 85a16cc6-8da3-4cf5-87d4-3e18b491a0ef,11/06/2026 13:30:00,Average Hourly Earnings (YoY),HIGH,USD
@@ -17,21 +7,26 @@ fa8667ec-dcbd-4984-8017-ea6588328d56,11/05/2026 13:50:00,Fed's Hammack speech,ME
 63edec8e-cde5-4efa-8469-1a9c17ff2eee,11/06/2026 13:30:00,Nonfarm Payrolls,HIGH,USD
 ecac21bb-21ba-46a8-92d0-4ce6dc461adc,11/06/2026 13:30:00,U6 Underemployment Rate,MEDIUM,USD
 e0aac989-11e2-4d22-a1cb-c3c2edc3b408,11/06/2026 13:30:00,Unemployment Rate,MEDIUM,USD
+589a6824-7563-4d4c-a100-2410c96cafb1,11/06/2026 14:30:00,Fed's Musalem speech,MEDIUM,USD
 4a49e38d-3b55-44a6-bf3a-cc65d2076d6c,11/06/2026 15:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
 1357b476-3290-4e06-a80f-44d32779cd4d,11/06/2026 15:00:00,Michigan Consumer Sentiment Index,HIGH,USD
 ce1f5a7d-6ecb-40c9-b04d-fe6c722c9cc1,11/06/2026 15:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD
 eff25b30-1c65-4444-b134-a0f987f8ae2e,11/06/2026 15:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD
 3c65eaeb-5cb9-4f49-be99-9bc4a414f645,11/06/2026 17:15:00,Fed's Bowman speech,MEDIUM,USD
 b8f48aa0-3046-487f-a38e-684c754462af,11/06/2026 18:00:00,Baker Hughes US Oil Rig Count,LOW,USD
+c46d035d-68d8-450f-83e9-b1002c8a242d,11/06/2026 18:00:00,Fed's Daly speech,MEDIUM,USD
 68eee39c-2119-4dc4-8654-7073c22ce7de,11/06/2026 20:00:00,Consumer Credit Change,LOW,USD
 7c41c071-0553-470a-b1e1-7f8f457edbbf,11/06/2026 20:30:00,CFTC Gold NC Net Positions,LOW,USD
 cff804f2-a232-4faa-b71a-b6d5a125f1f9,11/06/2026 20:30:00,CFTC Oil NC Net Positions,LOW,USD
 34c5e5c6-de06-4b9a-8a14-97a803634b31,11/06/2026 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD
+38ac016b-a4a3-4826-8779-1138af7f2f21,11/09/2026 13:40:00,Fed's Bowman speech,MEDIUM,USD
 735cfdc5-7df9-4666-b1dd-0d2782ea22a5,11/09/2026 15:00:00,Fed's Goolsbee speech,MEDIUM,USD
 7220f518-6a40-4e29-8133-cdfdef018f67,11/09/2026 15:00:00,Wholesale Inventories,LOW,USD
 c8d3d517-bbf3-4675-95a8-589802d69e1b,11/09/2026 16:30:00,3-Month Bill Auction,LOW,USD
 ff72f8aa-2f4f-4ed0-947d-39e73448dffc,11/09/2026 16:30:00,6-Month Bill Auction,LOW,USD
+9fc53863-f3c6-40a9-84a4-17bacc1f5ff4,11/09/2026 17:15:00,Fed's Barkin speech,MEDIUM,USD
 5414077c-8751-4995-9ec9-d70d7bd4b188,11/09/2026 18:00:00,3-Year Note Auction,LOW,USD
+2da5c86e-9785-4219-a233-d8e8a47932fd,11/10/2026 09:00:00,Fed's Waller speech,MEDIUM,USD
 e60e44d0-2ca0-4fba-9d88-f610085b2bf3,11/10/2026 11:00:00,NFIB Business Optimism Index,LOW,USD
 a265b395-a329-4eb0-834a-cd35a1e11415,11/10/2026 13:15:00,ADP Employment Change 4-week average,MEDIUM,USD
 75a2fedb-a0e4-446b-94fb-726f952c0f8e,11/10/2026 13:30:00,Consumer Price Index (MoM),HIGH,USD
@@ -43,7 +38,10 @@ d8aa6891-638c-4fa1-baf1-c8a23125d049,11/10/2026 13:30:00,Consumer Price Index n.
 f7713f2e-57c4-4d1f-8e60-1bb232d939e5,11/10/2026 13:55:00,Redbook Index (YoY),LOW,USD
 f336b3ca-fa8a-4c10-8cef-422dbe62a92b,11/10/2026 17:00:00,USDA WASDE Report,LOW,USD
 a8ef97b5-96b3-4849-bd57-08605c1cab7b,11/10/2026 18:00:00,10-Year Note Auction,LOW,USD
+ee4e7c35-3c25-42e6-86f3-64b216282f92,11/10/2026 20:30:00,Fed's Bowman speech,MEDIUM,USD
 9ac33757-176f-4a21-a74e-a08fee08bb9e,11/10/2026 21:30:00,API Weekly Crude Oil Stock,LOW,USD
+9e374348-67d7-4cf1-903f-984405dd4148,11/10/2026 23:30:00,Fed's Bowman speech,MEDIUM,USD
+35affa99-d357-4b49-acc5-f1b4d86b95ad,11/10/2026 23:30:00,Fed's Paulson speech,MEDIUM,USD
 104adfae-fcf3-4cdd-9cca-40296706a254,11/11/2026 12:00:00,MBA Mortgage Applications,LOW,USD
 1e7adfad-5c5d-4a80-9590-78f4421bae72,11/12/2026 13:30:00,Continuing Jobless Claims,LOW,USD
 ede3cb20-255d-46a8-ab72-b4551790d64d,11/12/2026 13:30:00,Initial Jobless Claims,MEDIUM,USD
@@ -51,6 +49,7 @@ ede3cb20-255d-46a8-ab72-b4551790d64d,11/12/2026 13:30:00,Initial Jobless Claims,
 34652fb5-cf8a-47cc-b003-ad48165bf92a,11/12/2026 14:00:00,Fed's Hammack speech,MEDIUM,USD
 1f1b4ba6-5abc-4338-8f62-414d47de15d9,11/12/2026 15:00:00,Existing Home Sales (MoM),LOW,USD
 39a5cbcc-bc44-41c3-916d-58b3a7c51611,11/12/2026 15:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
+1b35ecaa-91ac-4ae7-b418-e399bdbb834f,11/12/2026 15:00:00,Fed's Barr speech,MEDIUM,USD
 944a7ecc-0ee6-4d45-8cc2-2c9edf300a88,11/12/2026 15:30:00,EIA Natural Gas Storage Change,LOW,USD
 36b8fb69-adf0-45bf-8993-c3c499f33337,11/12/2026 16:30:00,4-Week Bill Auction,LOW,USD
 aa6d33ea-53f2-4be9-84a7-83b22bbe33d1,11/12/2026 16:30:00,Fed's Goolsbee speech,MEDIUM,USD
@@ -66,8 +65,10 @@ fe364bdb-fc6b-4573-8e90-0a13292d56da,11/12/2026 18:10:00,Fed's Daly speech,MEDIU
 d1406aec-376e-4fe4-b6bd-dc009573b31e,11/13/2026 13:30:00,Producer Price Index (YoY),MEDIUM,USD
 b09590d2-def1-4e53-a19f-a8cfd91acccf,11/13/2026 13:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
 4b4a258c-07b2-4107-b8e4-335180759526,11/13/2026 13:30:00,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+84d4b4ff-3f55-4a31-83a3-e88926159ce1,11/13/2026 15:50:00,Fed's Bowman speech,MEDIUM,USD
 03c2e6a2-5ce4-4e7c-9609-f34d62682565,11/13/2026 17:00:00,Fed's Daly speech,MEDIUM,USD
 2f12a50d-4063-4525-bc0e-999ff134f446,11/13/2026 18:00:00,Baker Hughes US Oil Rig Count,LOW,USD
+87bdf970-6ce3-4de6-9c45-776b65438038,11/14/2026 00:00:00,Fed's Jefferson speech,MEDIUM,USD
 01643b1f-4e19-4d7c-a600-4abf43426409,11/16/2026 13:30:00,NY Empire State Manufacturing Index,MEDIUM,USD
 95f282e1-241d-40f4-bc8f-23eb079f7f1a,11/16/2026 16:30:00,3-Month Bill Auction,LOW,USD
 a65a4c99-405d-4179-b79b-35d48661aa70,11/16/2026 16:30:00,6-Month Bill Auction,LOW,USD
@@ -113,6 +114,7 @@ f7035b6c-5297-4d62-8189-aea3c49b112a,11/19/2026 15:30:00,EIA Natural Gas Storage
 e0606729-853d-41d8-84e5-30af4b281e45,11/19/2026 16:30:00,4-Week Bill Auction,LOW,USD
 ac8c385e-7a49-407e-98ee-467d9ad2b959,11/19/2026 17:30:00,Fed's Goolsbee speech,MEDIUM,USD
 a3ba1622-0568-4da2-8dd3-ed64e899bd2a,11/19/2026 18:00:00,10-year TIPS Auction,LOW,USD
+55a0d0ae-95a2-4f94-a5c1-abc01bce4e97,11/19/2026 23:30:00,Fed's Paulson speech,MEDIUM,USD
 327a2365-a1ac-4567-b2ba-2dad26b47ef1,11/20/2026 15:00:00,Michigan Consumer Expectations Index,MEDIUM,USD
 00ca8cbc-5856-4362-96a4-5afeb41711b6,11/20/2026 15:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD
 4a6697ae-befa-4bc0-802a-90772eadff1b,11/20/2026 15:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD

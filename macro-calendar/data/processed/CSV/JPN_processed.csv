@@ -1,15 +1,10 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-1c93887d-23d0-4c99-a3c0-3214cc8319b1,11/05/2026 00:30:00,Jibun Bank Services PMI,HIGH,JPY,Release,0.17,Growth
-ca7f2d3a-bb9c-469e-906c-a3a62889692a,11/05/2026 03:35:00,10-y Bond Auction,LOW,JPY,Release,0.09,Money and Credit
-9f09c05a-3575-40ca-bf45-de7bcb3bd5c4,11/05/2026 23:30:00,Labor Cash Earnings (YoY),HIGH,JPY,Release,0.18,Labor Market
-2f4bc050-6ece-4a56-90bc-d27ffe5c7d96,11/05/2026 23:30:00,Overall Household Spending (YoY),HIGH,JPY,Release,0.17,Growth
-efb61daf-cee6-494e-9a7b-0f3d84a2b933,11/05/2026 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth
-9426ba03-6bb7-4a21-af39-2a3bca6de00f,11/05/2026 23:50:00,Foreign Investment in Japan Stocks,HIGH,JPY,Release,0.17,Growth
-8028d76b-8798-416d-9f90-4cb96b924d5d,11/05/2026 23:50:00,JP Foreign Reserves,LOW,JPY,Release,0.09,Money and Credit
 4086b1ac-46a9-4115-8e77-e3e8310f65b4,11/06/2026 16:00:00,BoJ Governor Ueda speech,MEDIUM,JPY,Speech,0.13,Monetary Policy
 fb72f9a8-10aa-4d76-abd3-dc55b9a09c23,11/06/2026 20:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
+8028d76b-8798-416d-9f90-4cb96b924d5d,11/08/2026 23:50:00,JP Foreign Reserves,LOW,JPY,Release,0.09,Money and Credit
 c239c8ca-42a8-45b8-81cb-f1db281685c1,11/09/2026 05:00:00,Coincident Index,MEDIUM,JPY,Release,0.11,Trade and External
 aa3a5b43-efb0-4591-b0dd-b3e1f0738f0f,11/09/2026 05:00:00,Leading Economic Index,MEDIUM,JPY,Release,0.14,Confidence
+2f4bc050-6ece-4a56-90bc-d27ffe5c7d96,11/09/2026 23:30:00,Overall Household Spending (YoY),HIGH,JPY,Release,0.17,Growth
 1b91d645-611d-49fd-873f-8e580a1ec51e,11/09/2026 23:50:00,Bank Lending (YoY),HIGH,JPY,Release,0.19,Inflation
 fd885502-a1da-41ee-b834-8609ddb96b66,11/09/2026 23:50:00,BoJ Summary of Opinions,MEDIUM,JPY,Speech,0.13,Monetary Policy
 5c2c097c-2c46-421d-af11-f41d6b6091c2,11/09/2026 23:50:00,Current Account n.s.a.,MEDIUM,JPY,Release,0.11,Trade and External

@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-71a79811-7e6c-4b0e-b2bd-7059380d4545,11/05/2026 12:00:00,Consumer Confidence,MEDIUM,MXN,Release,0.14,Confidence
-38d04d83-e480-42ef-a172-5e0840beae56,11/05/2026 12:00:00,Consumer Confidence s.a,MEDIUM,MXN,Release,0.14,Confidence
-85985578-5f4e-4f71-ad2a-1313b5a896e4,11/05/2026 19:00:00,Banxico Interest Rate Decision,HIGH,MXN,Release,0.2,Monetary Policy
 6cbee530-14df-44a4-a221-87671ca2e62f,11/09/2026 12:00:00,12-Month Inflation,HIGH,MXN,Release,0.19,Inflation
 afc06fa6-afd7-42cc-a13e-9829797938c9,11/09/2026 12:00:00,Core Inflation,HIGH,MXN,Release,0.19,Inflation
 5081899e-42e2-4c94-83ad-500efaf090ff,11/09/2026 12:00:00,Headline Inflation,HIGH,MXN,Release,0.19,Inflation
