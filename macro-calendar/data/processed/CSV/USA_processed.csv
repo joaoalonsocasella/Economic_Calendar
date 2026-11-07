@@ -1,24 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-1a431136-2b83-4f9a-9e90-c4ac4c415184,11/06/2026 09:30:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
-7300f597-d4d2-4360-832a-33657038e139,11/06/2026 13:30:00,Average Hourly Earnings (MoM),HIGH,USD,Release,0.18,Labor Market
-85a16cc6-8da3-4cf5-87d4-3e18b491a0ef,11/06/2026 13:30:00,Average Hourly Earnings (YoY),HIGH,USD,Release,0.18,Labor Market
-027ccf43-1710-46fc-8789-9ae28b548e10,11/06/2026 13:30:00,Average Weekly Hours,HIGH,USD,Release,0.18,Labor Market
-346ba69d-a4c2-4561-96bb-09b785ec3d7d,11/06/2026 13:30:00,Labor Force Participation Rate,HIGH,USD,Release,0.18,Labor Market
-63edec8e-cde5-4efa-8469-1a9c17ff2eee,11/06/2026 13:30:00,Nonfarm Payrolls,HIGH,USD,Release,0.18,Labor Market
-ecac21bb-21ba-46a8-92d0-4ce6dc461adc,11/06/2026 13:30:00,U6 Underemployment Rate,HIGH,USD,Release,0.2,Monetary Policy
-e0aac989-11e2-4d22-a1cb-c3c2edc3b408,11/06/2026 13:30:00,Unemployment Rate,HIGH,USD,Release,0.18,Labor Market
-589a6824-7563-4d4c-a100-2410c96cafb1,11/06/2026 14:30:00,Fed's Musalem speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-4a49e38d-3b55-44a6-bf3a-cc65d2076d6c,11/06/2026 15:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
-1357b476-3290-4e06-a80f-44d32779cd4d,11/06/2026 15:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
-ce1f5a7d-6ecb-40c9-b04d-fe6c722c9cc1,11/06/2026 15:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
-eff25b30-1c65-4444-b134-a0f987f8ae2e,11/06/2026 15:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
-3c65eaeb-5cb9-4f49-be99-9bc4a414f645,11/06/2026 17:15:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-b8f48aa0-3046-487f-a38e-684c754462af,11/06/2026 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
-c46d035d-68d8-450f-83e9-b1002c8a242d,11/06/2026 18:00:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-68eee39c-2119-4dc4-8654-7073c22ce7de,11/06/2026 20:00:00,Consumer Credit Change,MEDIUM,USD,Release,0.14,Confidence
-7c41c071-0553-470a-b1e1-7f8f457edbbf,11/06/2026 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-cff804f2-a232-4faa-b71a-b6d5a125f1f9,11/06/2026 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-34c5e5c6-de06-4b9a-8a14-97a803634b31,11/06/2026 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 38ac016b-a4a3-4826-8779-1138af7f2f21,11/09/2026 13:40:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 735cfdc5-7df9-4666-b1dd-0d2782ea22a5,11/09/2026 15:00:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 7220f518-6a40-4e29-8133-cdfdef018f67,11/09/2026 15:00:00,Wholesale Inventories,MEDIUM,USD,Release,0.11,Trade and External
