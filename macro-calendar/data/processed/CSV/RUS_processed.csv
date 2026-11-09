@@ -5,7 +5,7 @@ cbea44fa-7474-4edd-8033-a3e472dcb4c5,11/12/2026 13:00:00,Central Bank Reserves $
 c2088338-53d7-4fef-ac13-0c2fff89bb5c,11/18/2026 16:00:00,Producer Price Index (MoM),HIGH,RUB,Release,0.19,Inflation
 1cffee5f-b7b9-42d6-9b76-b79078f6cc3e,11/18/2026 16:00:00,Producer Price Index (YoY),HIGH,RUB,Release,0.19,Inflation
 6520b8b7-065d-40b5-9ef0-db544400b81c,11/19/2026 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
-3b702c7d-59c0-4efd-a5fd-371e16835af8,11/23/2026 16:00:00,Industrial Output,HIGH,RUB,Release,0.17,Growth
+3b702c7d-59c0-4efd-a5fd-371e16835af8,11/25/2026 16:00:00,Industrial Output,HIGH,RUB,Release,0.17,Growth
 180978d1-1e2a-4fbe-8afe-c804ee3db38b,11/26/2026 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 e745e032-06b1-428c-96a0-eb52f175c8ee,12/01/2026 06:00:00,S&P Global Manufacturing PMI,HIGH,RUB,Release,0.17,Growth
 c61287c4-65e9-4de0-b45b-11ce0b57ce3c,12/02/2026 16:00:00,Unemployment Rate,HIGH,RUB,Release,0.18,Labor Market
@@ -25,56 +25,96 @@ cdba67be-a2d5-4a5d-b7f5-a227a57af8da,12/24/2026 13:00:00,Central Bank Reserves $
 95aaf577-ca2f-48f3-97f6-503d8d9e8f10,01/04/2027 06:00:00,S&P Global Manufacturing PMI,HIGH,RUB,Release,0.17,Growth
 ce9a6b58-c330-4d87-962e-f0074096b725,01/06/2027 06:00:00,S&P Global Services PMI,HIGH,RUB,Release,0.17,Growth
 8bf1c27f-2526-40f7-a9b0-b7c983e4f386,01/07/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
-e694a526-fcbe-48bf-ae71-f188b30475d6,01/12/2027 14:00:00,Foreign Trade,MEDIUM,RUB,Release,0.11,Trade and External
 5575c37f-0caa-461a-9855-2f3f5a05d9ce,01/13/2027 16:00:00,Consumer Price Index (MoM),HIGH,RUB,Release,0.19,Inflation
 6ae66104-1019-47a9-beec-03d5093be91b,01/14/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+e694a526-fcbe-48bf-ae71-f188b30475d6,01/15/2027 14:00:00,Foreign Trade,MEDIUM,RUB,Release,0.11,Trade and External
 a81fa112-cf32-4b0a-9f36-0461899a2a84,01/20/2027 16:00:00,Producer Price Index (MoM),HIGH,RUB,Release,0.19,Inflation
 fafa57d8-2070-4f8e-b41a-886334cd69ff,01/20/2027 16:00:00,Producer Price Index (YoY),HIGH,RUB,Release,0.19,Inflation
 3bbef17b-52c8-4174-8a0f-bc4fb1452134,01/21/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 e34e859c-2981-482a-8bee-bccff39068b4,01/25/2027 16:00:00,Industrial Output,HIGH,RUB,Release,0.17,Growth
 4611d6e7-6e40-4330-9981-c3deba4c8513,01/28/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+36163a6e-b68e-489f-9566-b134586ede7a,02/01/2027 06:00:00,S&P Global Manufacturing PMI,HIGH,RUB,Release,0.17,Growth
+66357eff-487e-448a-b53e-630eaf8bc5de,02/03/2027 06:00:00,S&P Global Services PMI,HIGH,RUB,Release,0.17,Growth
 3569247d-1407-41c1-b554-2a441ab8088b,02/04/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 be3408cf-3fa8-4c56-9c39-a887625c16ce,02/10/2027 16:00:00,Unemployment Rate,HIGH,RUB,Release,0.18,Labor Market
 1e87d47f-35d8-4ac1-a8f6-419ef297938c,02/11/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 3deba244-4cb2-40e2-ae5b-fcbfe1153414,02/12/2027 10:30:00,Interest Rate Decision,HIGH,RUB,Release,0.2,Monetary Policy
+f5b91179-232d-47b1-90f2-51c6410bb7bb,02/15/2027 14:00:00,Foreign Trade,MEDIUM,RUB,Release,0.11,Trade and External
 994ef4ff-1714-4d1e-a977-1c9cbc164173,02/18/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 6f9abe7c-29dd-459c-ae3b-74e9e6ef3d3c,02/25/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+26fb1044-c6ec-4c06-a18d-6d1e34e5b1ac,02/25/2027 16:00:00,Industrial Output,HIGH,RUB,Release,0.17,Growth
+d62697ff-bb50-4510-81ee-eae88ce28daa,03/01/2027 06:00:00,S&P Global Manufacturing PMI,HIGH,RUB,Release,0.17,Growth
+e89b3eea-b43c-4626-a4dd-1d488aa8bef2,03/03/2027 06:00:00,S&P Global Services PMI,HIGH,RUB,Release,0.17,Growth
 f29b198f-b204-44fd-917e-01c50c6ecc38,03/04/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 022b4598-366e-46f1-833c-26924277b1b9,03/11/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+62547009-056f-465d-a0f4-889e8de5c2ca,03/15/2027 14:00:00,Foreign Trade,MEDIUM,RUB,Release,0.11,Trade and External
 8e75c9a1-91e0-4e32-87fd-825d95aa1362,03/18/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 053b55bb-8dcc-4d7d-a515-5d64915e3dad,03/25/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+23d3e9da-b5a0-473d-8839-1a4f5fd4f981,03/25/2027 16:00:00,Industrial Output,HIGH,RUB,Release,0.17,Growth
+4575d9ae-9733-4b2f-9555-60c526ff9951,04/01/2027 06:00:00,S&P Global Manufacturing PMI,HIGH,RUB,Release,0.17,Growth
 5353cf28-5c0e-45f1-aeb6-60d9cccdc944,04/01/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+33d41e18-5969-40e3-8a32-d7badbfbb38b,04/05/2027 06:00:00,S&P Global Services PMI,HIGH,RUB,Release,0.17,Growth
 440cb0f6-048d-4680-af87-d50fb92be796,04/08/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 9c50b116-86ae-4398-82df-0cc39d06be7e,04/15/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+b0214dff-40ea-48e7-b8bd-3484697e2e5d,04/15/2027 14:00:00,Foreign Trade,MEDIUM,RUB,Release,0.11,Trade and External
 23e38eea-79c9-478a-9630-1a6c8442e072,04/22/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+509c2f37-a524-4f1c-866b-04d77770ff17,04/26/2027 16:00:00,Industrial Output,HIGH,RUB,Release,0.17,Growth
 29ad6af8-9d35-42aa-997f-f29ad1e0a046,04/29/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+65dbaec9-8a6f-4fa0-85fc-2b5f27557400,05/03/2027 06:00:00,S&P Global Manufacturing PMI,HIGH,RUB,Release,0.17,Growth
+486d59c4-0c2a-4d5a-a137-4ad8b60f7c31,05/05/2027 06:00:00,S&P Global Services PMI,HIGH,RUB,Release,0.17,Growth
 3bf9d09b-3ff6-4b08-a1c1-27be2f3b03b1,05/06/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 7c50889b-3b64-46f1-979f-937d54539a6f,05/13/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+3fc94df9-a7a4-49c4-8ec4-fead34f501bf,05/17/2027 14:00:00,Foreign Trade,MEDIUM,RUB,Release,0.11,Trade and External
 41ebf02c-273f-43d2-950f-3e98e1bc3fc7,05/20/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+e2bc3f6a-b2d2-4a12-ae5a-d12e173249b6,05/25/2027 16:00:00,Industrial Output,HIGH,RUB,Release,0.17,Growth
 aff1c2ee-50b2-4ff1-9ae1-894dbbc5ca16,05/27/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+d8af526c-d844-44e8-b8e8-b9dae11de0c4,06/01/2027 06:00:00,S&P Global Manufacturing PMI,HIGH,RUB,Release,0.17,Growth
+442c42d6-e1b2-482a-a6f3-75d8f03fe295,06/03/2027 06:00:00,S&P Global Services PMI,HIGH,RUB,Release,0.17,Growth
 17b1f1d1-67ca-4164-890f-fb634cec7c37,06/03/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 3a1e4d3c-a805-468b-a03b-0e6c3ecb0c74,06/10/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+4f493a0b-5fce-4bcf-867e-cef935a61681,06/15/2027 14:00:00,Foreign Trade,MEDIUM,RUB,Release,0.11,Trade and External
 e6885479-708b-4288-ae52-d30cde0642e1,06/17/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 5f5715c8-4360-4317-86ff-344d6ba8e039,06/24/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+5edd34c4-f32d-4f53-bc37-d4cf44480603,06/25/2027 16:00:00,Industrial Output,HIGH,RUB,Release,0.17,Growth
+07d173ea-83d2-4706-8b24-7ab5d2a2c88f,07/01/2027 06:00:00,S&P Global Manufacturing PMI,HIGH,RUB,Release,0.17,Growth
 549cf4a6-dff2-4b7c-a187-4251eaea274c,07/01/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+6cee0384-ee9d-4176-8e99-abc76b1d1827,07/05/2027 06:00:00,S&P Global Services PMI,HIGH,RUB,Release,0.17,Growth
 30017f49-1b95-4996-b83a-1703d23af933,07/08/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+c318d62f-6cbd-4a0d-ad92-6515a9a8a7ba,07/12/2027 14:00:00,Foreign Trade,MEDIUM,RUB,Release,0.11,Trade and External
 fccff45d-1960-45b9-90f6-beb74bac8e7f,07/15/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 de77b834-077c-46c9-9ad3-b5205fb5aa56,07/22/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+9a59841c-949e-4732-8099-c45c7bfc2865,07/26/2027 16:00:00,Industrial Output,HIGH,RUB,Release,0.17,Growth
 5993171d-40bb-41b2-b768-e2cf863ec24a,07/29/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+061f5358-87ec-44a5-bcb5-82996079d158,08/02/2027 06:00:00,S&P Global Manufacturing PMI,HIGH,RUB,Release,0.17,Growth
+80774d78-d643-49a2-9846-6f0263774058,08/04/2027 06:00:00,S&P Global Services PMI,HIGH,RUB,Release,0.17,Growth
 592edc35-a882-4d12-86c4-6f396578edf4,08/05/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+59841c60-2dea-4f0f-95f1-7be3dea73659,08/11/2027 14:00:00,Foreign Trade,MEDIUM,RUB,Release,0.11,Trade and External
 a983a251-6789-48d2-a7cf-ae43c2cd9f8c,08/12/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 a56ef5b6-3785-4247-b496-9abcf9746af7,08/19/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+e88bfa9e-47fc-4276-b834-f81c27d93872,08/25/2027 16:00:00,Industrial Output,HIGH,RUB,Release,0.17,Growth
 ceb23c2a-ed65-4f31-9aa0-2f05ef0ead94,08/26/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+3c5aa50d-8f22-40d7-9496-4405122c0723,09/01/2027 06:00:00,S&P Global Manufacturing PMI,HIGH,RUB,Release,0.17,Growth
 445b4245-3396-4f94-8092-0892cc97f32e,09/02/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+325cc4d8-b3a5-4681-af76-dc62ff2eee86,09/03/2027 06:00:00,S&P Global Services PMI,HIGH,RUB,Release,0.17,Growth
 72393764-5371-450b-ab5c-025ea3dab89e,09/09/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+0d63e5d8-95be-4c3e-9c53-04a85b01ee0b,09/15/2027 14:00:00,Foreign Trade,MEDIUM,RUB,Release,0.11,Trade and External
 402e5b5e-458a-4366-aa3a-501e8e63116a,09/16/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 08df0431-4b3d-4d63-a2d4-5c64d49eda22,09/23/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+dccf2587-b59b-4611-b3c6-52bbf1d0db3e,09/27/2027 16:00:00,Industrial Output,HIGH,RUB,Release,0.17,Growth
 c54cda67-6d81-4889-8ff1-aa8ec489d7a2,09/30/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+9d5b0edb-4908-4508-a9d5-17f51c5032ee,10/01/2027 06:00:00,S&P Global Manufacturing PMI,HIGH,RUB,Release,0.17,Growth
+66847e74-9f13-47ae-86c8-2febd51f362d,10/05/2027 06:00:00,S&P Global Services PMI,HIGH,RUB,Release,0.17,Growth
 e872916a-adfb-4630-bc97-2d3bc6bd690f,10/07/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+e4240ec6-95b4-4a1d-b885-790fee2c3023,10/11/2027 14:00:00,Foreign Trade,MEDIUM,RUB,Release,0.11,Trade and External
 e1f90a1f-d824-4b9c-91bc-b060b1af0bfb,10/14/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 5eb05247-0a69-4ad4-865f-024912765a21,10/21/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+0370844b-b385-4bab-8a3a-680a6727ff01,10/25/2027 16:00:00,Industrial Output,HIGH,RUB,Release,0.17,Growth
 e98b25ad-6e66-4a24-a839-290c1a44804d,10/28/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+49948717-4bae-47af-8e39-11c2ed9c29e0,11/01/2027 06:00:00,S&P Global Manufacturing PMI,HIGH,RUB,Release,0.17,Growth
+cc3c24a0-446a-4d9a-9a00-021255e9492e,11/03/2027 06:00:00,S&P Global Services PMI,HIGH,RUB,Release,0.17,Growth
 ec9aacd7-a6eb-48d2-9bb9-854799418e41,11/04/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 d5ee933f-8bee-40fb-82e7-07fdcb5e1550,11/11/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+80cb3631-f201-4eb0-848d-6840d6a28d22,11/15/2027 14:00:00,Foreign Trade,MEDIUM,RUB,Release,0.11,Trade and External
 cc09ef07-ad28-4a51-b063-60633339bd58,11/18/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+1f96292a-1ecc-4dea-ba25-15937da94594,11/24/2027 16:00:00,Industrial Output,HIGH,RUB,Release,0.17,Growth
 11d9bba1-144c-4ce5-a221-72deb5b915a2,11/25/2027 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit

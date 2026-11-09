@@ -1,6 +1,7 @@
 Id,Start,Name,Impact,Currency
 594358d1-a32b-4eae-9c53-3461bd015f09,11/09/2026 17:25:00,BoE's Governor Bailey speech,HIGH,GBP
 a33c59ef-35ac-433c-8a0f-6fb0371e8ed0,11/10/2026 00:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP
+1de32485-d485-4736-bd1a-ef88f2e57859,11/10/2026 08:30:00,BoE's Breeden speech,MEDIUM,GBP
 82cb0d5c-9947-4d14-b9b5-06352a19d273,11/10/2026 10:30:00,30-y Bond Auction,LOW,GBP
 7bb45444-392f-4139-8559-cd801ded9c98,11/10/2026 12:30:00,BoE's Lombardelli speech,MEDIUM,GBP
 82cf8edb-49c1-411f-8faf-e73751049932,11/10/2026 18:30:00,BoE's Pill speech,MEDIUM,GBP
@@ -19,6 +20,7 @@ a89bbfb3-30ad-4344-9d10-97b7bee12a26,11/12/2026 07:00:00,Total Business Investme
 741dd290-d98d-4bba-aa47-976e2e3a24eb,11/12/2026 07:00:00,Total Trade Balance,LOW,GBP
 a9da0cc1-f6e1-46ec-b232-dce9fc9dd985,11/12/2026 07:00:00,Trade Balance; non-EU,LOW,GBP
 a2c78849-5a73-4f19-bafb-fb8e9408732c,11/13/2026 12:00:00,NIESR GDP Estimate (3M),LOW,GBP
+30f864ea-d50a-4beb-a086-ca7a85d52351,11/14/2026 11:00:00,BoE's Greene speech,MEDIUM,GBP
 cb1bccaa-4d6f-4823-bb1c-cb785c49127d,11/16/2026 00:01:00,Rightmove House Price Index (MoM),LOW,GBP
 9f77843f-1632-4fe6-a2e5-689c7739598d,11/16/2026 00:01:00,Rightmove House Price Index (YoY),LOW,GBP
 22cc2967-7350-4c46-aa88-0aeb6b3da263,11/16/2026 20:30:00,CFTC GBP NC Net Positions,LOW,GBP
@@ -53,7 +55,6 @@ a9888f8e-95f9-4c9a-9b90-b97fb7297e50,11/23/2026 09:30:00,S&P Global Composite PM
 1dac1be3-d968-41ed-9aa4-602e31d8e6ea,11/26/2026 10:30:00,Financial Stability Report,MEDIUM,GBP
 c51d89ac-b0e3-429e-9e55-9b6a61e08ccf,11/26/2026 10:30:00,FPC Meeting Minutes,LOW,GBP
 296ccec6-4627-452d-b262-087b01d91970,11/26/2026 10:30:00,FPC Statement,LOW,GBP
-99163605-bd59-4ed1-bbea-4ccc43d2eb7e,11/27/2026 20:30:00,CFTC GBP NC Net Positions,LOW,GBP
 f89434b7-6baf-4c70-a635-2d7562f18144,11/30/2026 00:01:00,BRC Shop Price Index (YoY),LOW,GBP
 29c521a2-663b-4b8d-aeb7-366932331a8f,11/30/2026 07:00:00,Nationwide Housing Prices n.s.a (YoY),LOW,GBP
 67a34a47-30c3-46cf-9267-da0f32ef6b0e,11/30/2026 07:00:00,Nationwide Housing Prices s.a (MoM),LOW,GBP
@@ -62,6 +63,7 @@ e9e67865-9eba-4d1a-b48d-508f729a739b,11/30/2026 09:30:00,M4 Money Supply (MoM),L
 d48f776b-d47e-48fc-bd76-c7c028d750f4,11/30/2026 09:30:00,M4 Money Supply (YoY),LOW,GBP
 d352bcdc-7a78-42ca-9510-245dcaa055e5,11/30/2026 09:30:00,Mortgage Approvals,LOW,GBP
 f5a0807f-33d8-4153-bc85-8ba8db730411,11/30/2026 09:30:00,Net Lending to Individuals (MoM),LOW,GBP
+99163605-bd59-4ed1-bbea-4ccc43d2eb7e,11/30/2026 20:30:00,CFTC GBP NC Net Positions,LOW,GBP
 66375a51-5430-4a0f-8ccc-cf7be6d60833,12/01/2026 09:30:00,S&P Global Manufacturing PMI,LOW,GBP
 8ffc8e1b-1e35-4c34-bf38-bb1ac97e73d5,12/03/2026 09:15:00,BoE Monetary Policy Report Hearings,HIGH,GBP
 72a10f0d-1d40-4a72-800a-c22751c7c58e,12/03/2026 09:30:00,S&P Global Composite PMI,LOW,GBP

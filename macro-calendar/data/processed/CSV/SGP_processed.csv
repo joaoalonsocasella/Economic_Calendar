@@ -1,7 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 b308cb8d-7e5e-4d42-bfd5-491de0869cae,11/23/2026 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
-80d96dac-4e73-46b3-8cd7-7648d947b090,11/26/2026 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
-8de8f382-92c3-4d66-b36a-403450cc0004,11/26/2026 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth
+80d96dac-4e73-46b3-8cd7-7648d947b090,11/25/2026 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
+8de8f382-92c3-4d66-b36a-403450cc0004,11/25/2026 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth
 07729677-7b0a-4f7b-aaef-75740905b479,11/26/2026 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
 5a3d9a15-7655-4f14-8e80-5ad3f2aac18c,11/26/2026 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
 69489ca6-0aa5-406e-9391-cbc70891b9c3,12/02/2026 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth

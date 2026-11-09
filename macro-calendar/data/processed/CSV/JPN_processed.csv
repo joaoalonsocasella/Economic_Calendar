@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-8028d76b-8798-416d-9f90-4cb96b924d5d,11/08/2026 23:50:00,JP Foreign Reserves,LOW,JPY,Release,0.09,Money and Credit
 c239c8ca-42a8-45b8-81cb-f1db281685c1,11/09/2026 05:00:00,Coincident Index,MEDIUM,JPY,Release,0.11,Trade and External
 aa3a5b43-efb0-4591-b0dd-b3e1f0738f0f,11/09/2026 05:00:00,Leading Economic Index,MEDIUM,JPY,Release,0.14,Confidence
 2f4bc050-6ece-4a56-90bc-d27ffe5c7d96,11/09/2026 23:30:00,Overall Household Spending (YoY),HIGH,JPY,Release,0.17,Growth
@@ -36,22 +35,22 @@ ae555443-9a6b-4666-a4c7-7a30089a838f,11/18/2026 23:50:00,Machinery Orders (MoM),
 28a062e3-2a8c-4bb8-be4c-63f6c44732d9,11/19/2026 23:30:00,"National CPI ex Food, Energy (YoY)",HIGH,JPY,Release,0.19,Inflation
 9560be50-5920-4977-9e63-4e9f0683f3eb,11/19/2026 23:30:00,National CPI ex Fresh Food (YoY),HIGH,JPY,Release,0.19,Inflation
 6d2aca1a-3610-4268-8304-618f4e4a9e16,11/20/2026 20:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
-b131025e-acae-4464-bcaa-21039ae4387a,11/23/2026 00:30:00,Jibun Bank Manufacturing PMI,HIGH,JPY,Release,0.17,Growth
-051de4eb-18dc-4c48-93ef-373a2eca01f5,11/23/2026 00:30:00,Jibun Bank Services PMI,HIGH,JPY,Release,0.17,Growth
+b131025e-acae-4464-bcaa-21039ae4387a,11/24/2026 00:30:00,Jibun Bank Manufacturing PMI,HIGH,JPY,Release,0.17,Growth
+051de4eb-18dc-4c48-93ef-373a2eca01f5,11/24/2026 00:30:00,Jibun Bank Services PMI,HIGH,JPY,Release,0.17,Growth
 d8b3532a-7bf7-4a81-b1e4-0ab080bf74b3,11/24/2026 23:50:00,Corporate Service Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
-a255919c-70ac-409d-a6d8-1ce7733f4a6f,11/25/2026 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth
-7ead6b8b-b9d8-4868-8fc0-12b6198f7dde,11/25/2026 23:50:00,Foreign Investment in Japan Stocks,HIGH,JPY,Release,0.17,Growth
-216be42a-e689-4f27-8c25-0216d4da9c1f,11/27/2026 05:00:00,Coincident Index,MEDIUM,JPY,Release,0.11,Trade and External
-f9247b5f-e13a-4755-98b6-eebee022361a,11/27/2026 05:00:00,Leading Economic Index,MEDIUM,JPY,Release,0.14,Confidence
-e6850255-a1db-4348-b55b-c073b4a0d762,11/27/2026 20:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
+216be42a-e689-4f27-8c25-0216d4da9c1f,11/26/2026 05:00:00,Coincident Index,MEDIUM,JPY,Release,0.11,Trade and External
+f9247b5f-e13a-4755-98b6-eebee022361a,11/26/2026 05:00:00,Leading Economic Index,MEDIUM,JPY,Release,0.14,Confidence
+6e9307f7-a0a1-4975-84e9-137c9da08852,11/26/2026 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
+07b2112c-6c7b-4d3d-9969-621688dbd587,11/26/2026 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY,Release,0.19,Inflation
+d16db09d-8335-4950-941d-edc6d2cf9203,11/26/2026 23:30:00,Tokyo CPI ex Fresh Food (YoY),HIGH,JPY,Release,0.19,Inflation
+a255919c-70ac-409d-a6d8-1ce7733f4a6f,11/26/2026 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth
+7ead6b8b-b9d8-4868-8fc0-12b6198f7dde,11/26/2026 23:50:00,Foreign Investment in Japan Stocks,HIGH,JPY,Release,0.17,Growth
 8f895f9f-dd54-4b8b-a5ea-32f801c99ad5,11/30/2026 05:00:00,Annualized Housing Starts,LOW,JPY,Release,0.07,Housing
 aab2bb3f-7151-4bed-b851-14585e3bfd1f,11/30/2026 05:00:00,Construction Orders (YoY),HIGH,JPY,Release,0.17,Growth
 f74ee8d1-164c-4501-8f7c-2b92c8c7a884,11/30/2026 05:00:00,Consumer Confidence Index,MEDIUM,JPY,Release,0.14,Confidence
 bd1ee578-4406-4643-91e3-d63408d2d67a,11/30/2026 05:00:00,Housing Starts (YoY),LOW,JPY,Release,0.07,Housing
+e6850255-a1db-4348-b55b-c073b4a0d762,11/30/2026 20:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
 6dbb35b7-71bd-4bb6-9158-8dda124b01d5,11/30/2026 23:30:00,Jobs / Applicants Ratio,HIGH,JPY,Release,0.18,Labor Market
-6e9307f7-a0a1-4975-84e9-137c9da08852,11/30/2026 23:30:00,Tokyo Consumer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
-07b2112c-6c7b-4d3d-9969-621688dbd587,11/30/2026 23:30:00,"Tokyo CPI ex Food, Energy (YoY)",HIGH,JPY,Release,0.19,Inflation
-d16db09d-8335-4950-941d-edc6d2cf9203,11/30/2026 23:30:00,Tokyo CPI ex Fresh Food (YoY),HIGH,JPY,Release,0.19,Inflation
 30db7c3b-25bf-4c01-9ec8-bba458ee0f4d,11/30/2026 23:30:00,Unemployment Rate,HIGH,JPY,Release,0.18,Labor Market
 ba2de1ee-94bf-42fc-b87c-7ea50df20865,11/30/2026 23:50:00,Capital Spending,HIGH,JPY,Release,0.17,Growth
 0cd6f031-b059-4214-8727-4f68b2fe8834,11/30/2026 23:50:00,Industrial Production (MoM),HIGH,JPY,Release,0.17,Growth

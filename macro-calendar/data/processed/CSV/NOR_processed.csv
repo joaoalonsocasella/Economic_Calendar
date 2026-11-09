@@ -1,17 +1,17 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0dc7e31d-98ce-42a0-9d18-0c36a788e0fb,11/09/2026 07:00:00,Consumer Price Index (YoY),HIGH,NOK,Release,0.19,Inflation
 b5261a4b-0152-49ab-a77d-e95bcc32ed6f,11/09/2026 07:00:00,Producer Price Index (YoY),HIGH,NOK,Release,0.19,Inflation
 51e558af-bcef-4438-a0cb-a417fb4b349b,11/10/2026 07:00:00,Consumer Price Index (MoM),HIGH,NOK,Release,0.19,Inflation
+0dc7e31d-98ce-42a0-9d18-0c36a788e0fb,11/10/2026 07:00:00,Consumer Price Index (YoY),HIGH,NOK,Release,0.19,Inflation
 40ccc9bf-11af-4f24-88af-93c60f149a51,11/10/2026 07:00:00,Core Inflation (MoM),HIGH,NOK,Release,0.19,Inflation
 4fca59c8-8040-4789-9aba-7fa58a5f8635,11/10/2026 07:00:00,Core Inflation (YoY),HIGH,NOK,Release,0.19,Inflation
 924e61fe-7aba-490d-a863-b80838d18742,11/16/2026 07:00:00,Trade Balance,MEDIUM,NOK,Release,0.11,Trade and External
-7d4d602b-8798-4f79-a0a8-586b5f5204a5,11/25/2026 07:00:00,Credit Indicator,LOW,NOK,Release,0.09,Money and Credit
-da563423-10b6-4232-ac62-e39c90e8de99,11/25/2026 07:00:00,Gross Domestic Product Growth,LOW,NOK,Release,0.09,Money and Credit
-1fc7f231-61d2-43cd-9cfd-9e654acd952a,11/25/2026 07:00:00,Gross Domestic Product Growth Mainland,LOW,NOK,Release,0.09,Money and Credit
+7d4d602b-8798-4f79-a0a8-586b5f5204a5,11/24/2026 07:00:00,Credit Indicator,LOW,NOK,Release,0.09,Money and Credit
 783782c0-3815-4032-bf3e-cd51ba881952,11/27/2026 07:00:00,Retail Sales ,HIGH,NOK,Release,0.17,Growth
 7b659571-c28c-4a9f-89d0-5fa20cf67b8b,11/27/2026 09:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
 d4b74452-bc78-4dec-9c18-4038104769bb,11/27/2026 09:00:00,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
 0733ac92-b31f-497d-9113-2de9a5bc3259,12/03/2026 07:00:00,Current Account,MEDIUM,NOK,Release,0.11,Trade and External
+da563423-10b6-4232-ac62-e39c90e8de99,12/07/2026 07:00:00,Gross Domestic Product Growth,LOW,NOK,Release,0.09,Money and Credit
+1fc7f231-61d2-43cd-9cfd-9e654acd952a,12/07/2026 07:00:00,Gross Domestic Product Growth Mainland,LOW,NOK,Release,0.09,Money and Credit
 a38597d8-6f03-447c-b4f2-69fe36ce9962,12/07/2026 07:00:00,Manufacturing Output,HIGH,NOK,Release,0.17,Growth
 e5928246-0c68-4b52-8bba-92f6a98d999a,12/09/2026 07:00:00,Consumer Price Index (MoM),HIGH,NOK,Release,0.19,Inflation
 8a178353-4d5b-43c0-a1d9-7f16d34a1901,12/09/2026 07:00:00,Consumer Price Index (YoY),HIGH,NOK,Release,0.19,Inflation
