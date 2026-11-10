@@ -1,11 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-c239c8ca-42a8-45b8-81cb-f1db281685c1,11/09/2026 05:00:00,Coincident Index,MEDIUM,JPY,Release,0.11,Trade and External
-aa3a5b43-efb0-4591-b0dd-b3e1f0738f0f,11/09/2026 05:00:00,Leading Economic Index,MEDIUM,JPY,Release,0.14,Confidence
-2f4bc050-6ece-4a56-90bc-d27ffe5c7d96,11/09/2026 23:30:00,Overall Household Spending (YoY),HIGH,JPY,Release,0.17,Growth
-1b91d645-611d-49fd-873f-8e580a1ec51e,11/09/2026 23:50:00,Bank Lending (YoY),HIGH,JPY,Release,0.19,Inflation
-fd885502-a1da-41ee-b834-8609ddb96b66,11/09/2026 23:50:00,BoJ Summary of Opinions,MEDIUM,JPY,Speech,0.13,Monetary Policy
-5c2c097c-2c46-421d-af11-f41d6b6091c2,11/09/2026 23:50:00,Current Account n.s.a.,MEDIUM,JPY,Release,0.11,Trade and External
-c82f5d88-71af-4b42-a312-8b8d61176c67,11/09/2026 23:50:00,Trade Balance - BOP Basis,MEDIUM,JPY,Release,0.11,Trade and External
 47eb085a-8529-414c-a4b9-aa7de91b72ea,11/10/2026 05:00:00,Eco Watchers Survey: Current,MEDIUM,JPY,Release,0.14,Confidence
 6ed95229-4dc9-49b2-bb1b-0a78fc2858ed,11/10/2026 05:00:00,Eco Watchers Survey: Outlook,MEDIUM,JPY,Release,0.14,Confidence
 39439230-1b94-44da-859b-6abe19a68fdf,11/10/2026 23:50:00,Money Supply M2+CD (YoY),HIGH,JPY,Release,0.19,Inflation

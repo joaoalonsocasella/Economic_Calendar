@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d81a995e-0b2d-409e-a92b-6ac9236f4bce,11/09/2026 09:00:00,FX Reserves,LOW,CZK,Release,0.09,Money and Credit
-6262a186-9d05-4a87-8f06-090e4f852128,11/09/2026 09:00:00,Unemployment Rate,HIGH,CZK,Release,0.18,Labor Market
 d7817f73-745e-4bd2-bb7e-d261d30a8c05,11/10/2026 08:00:00,Consumer Price Index (MoM),HIGH,CZK,Release,0.19,Inflation
 8dd858f1-9d42-4042-b11f-82f31d62b557,11/10/2026 08:00:00,Consumer Price Index (YoY),HIGH,CZK,Release,0.19,Inflation
 8df193bc-4bc3-4199-8365-b748f04b1e57,11/13/2026 09:00:00,Current Account (MoM),MEDIUM,CZK,Release,0.11,Trade and External

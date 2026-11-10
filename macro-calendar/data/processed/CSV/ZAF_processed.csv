@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-3c73a023-cda1-4fbd-9fd9-e3479842f97b,11/09/2026 06:00:00,Gross $Gold & Forex Reserve ,HIGH,ZAR,Release,0.2,Monetary Policy
-548e8112-a2e7-4c3a-b690-46b6848b657c,11/09/2026 06:00:00,Net $Gold & Forex Reserve,LOW,ZAR,Release,0.09,Money and Credit
 67f3a4aa-f330-4514-9926-8ea5a5d33f7c,11/10/2026 09:30:00,Unemployment Rate (%),HIGH,ZAR,Release,0.18,Labor Market
 e3169938-fea0-4f26-a5a0-fa69c3c5a4a2,11/10/2026 09:30:00,Unemployment Total ,HIGH,ZAR,Release,0.18,Labor Market
 97ac0369-bd07-447b-8fdf-4266705dcd9f,11/10/2026 11:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth

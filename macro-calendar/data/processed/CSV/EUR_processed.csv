@@ -1,10 +1,10 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e96c5632-5ba0-4f17-81b1-fb06f8f7ff32,11/09/2026 07:00:00,Eurogroup Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
-eb2d0c28-b742-41b1-bf57-10e9364fdb89,11/09/2026 09:30:00,Sentix Investor Confidence,HIGH,EUR,Release,0.595,Confidence
 bd3b47fb-2365-4241-92f2-c1b0fec53f97,11/10/2026 07:00:00,Eurogroup Meeting,HIGH,EUR,Speech,0.552,Monetary Policy
 0bf74779-2a80-4bfc-a3db-65544bf7de23,11/10/2026 08:15:00,ECB's Sleijpen speech,HIGH,EUR,Speech,0.552,Monetary Policy
 6c57a762-154e-44a5-939c-2f6e5762c96f,11/10/2026 08:30:00,ECB's De Guindos speech,HIGH,EUR,Speech,0.552,Monetary Policy
+f9710e32-4e44-455a-b6de-db2010e3aba4,11/10/2026 08:45:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
 6192576c-f869-4208-bed3-5703d12fd375,11/10/2026 14:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
+1e0dbfe7-51c1-4674-8a18-85bdeb0996c7,11/10/2026 14:50:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 8f053ada-d3cd-4dbe-8ec0-781c038cea79,11/10/2026 16:45:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
 a394e14c-1263-463b-a0f7-26598334c5d0,11/10/2026 17:30:00,ECB's Escrivá speech,HIGH,EUR,Speech,0.552,Monetary Policy
 60a20225-bc16-4441-a3ad-28b19bfd10ce,11/11/2026 07:50:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
