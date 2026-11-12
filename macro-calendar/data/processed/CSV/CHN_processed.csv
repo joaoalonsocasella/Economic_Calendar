@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-f7a2214c-0bb4-42df-bec2-eb773d78424c,11/10/2026 02:30:00,Exports (YoY),MEDIUM,CNY,Release,0.11,Trade and External
-0744250b-9c3a-4400-b2df-09c8e7c68422,11/10/2026 02:30:00,Exports (YoY) CNY,MEDIUM,CNY,Release,0.11,Trade and External
-e1dc7338-3caf-4f1d-9bc7-d65c7e414964,11/10/2026 02:30:00,Imports (YoY),MEDIUM,CNY,Release,0.11,Trade and External
-4784ee6b-5dd9-441d-bcf6-292967e4ac12,11/10/2026 02:30:00,Imports (YoY) CNY,MEDIUM,CNY,Release,0.11,Trade and External
-9817bb8b-2206-468a-a1f9-447dc404df69,11/10/2026 02:30:00,Trade Balance CNY,MEDIUM,CNY,Release,0.11,Trade and External
-22d56170-ed3f-47e7-a67e-9129a61cd0b7,11/10/2026 02:30:00,Trade Balance USD,MEDIUM,CNY,Release,0.11,Trade and External
 97083f01-c2cc-4921-b926-0ffd24d2e042,11/13/2026 10:00:00,M2 Money Supply (YoY),HIGH,CNY,Release,0.19,Inflation
 07503a38-53e6-47f2-9a19-7eda86311781,11/13/2026 10:00:00,New Loans,LOW,CNY,Release,0.09,Money and Credit
 690875ae-9802-41f0-88c6-0875b61e7448,11/16/2026 01:30:00,House Price Index ,LOW,CNY,Release,0.07,Housing

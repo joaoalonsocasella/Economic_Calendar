@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a90828ed-6d7f-45a3-ada1-5e5ddb380f1b,11/10/2026 07:00:00,Industrial Production Value (MoM),HIGH,SEK,Release,0.17,Growth
-6f531cd2-837b-481c-a4d1-581302019326,11/10/2026 07:00:00,Industrial Production Value (YoY),HIGH,SEK,Release,0.17,Growth
-4458e768-1c7d-4420-999c-5c4f7b64b980,11/10/2026 07:00:00,New Orders Manufacturing (YoY),HIGH,SEK,Release,0.17,Growth
 1de4609a-18b4-4f78-962e-759d7e884401,11/12/2026 07:00:00,Consumer Price Index (MoM),HIGH,SEK,Release,0.19,Inflation
 0dd8e05b-7039-421e-9335-ad561cee966c,11/12/2026 07:00:00,Consumer Price Index (YoY),HIGH,SEK,Release,0.19,Inflation
 42388f0e-e1e5-4ad9-bc92-9fcfdc8a287f,11/20/2026 07:00:00,Unemployment Rate,HIGH,SEK,Release,0.18,Labor Market

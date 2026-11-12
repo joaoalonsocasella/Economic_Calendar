@@ -1,12 +1,6 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-47eb085a-8529-414c-a4b9-aa7de91b72ea,11/10/2026 05:00:00,Eco Watchers Survey: Current,MEDIUM,JPY,Release,0.14,Confidence
-6ed95229-4dc9-49b2-bb1b-0a78fc2858ed,11/10/2026 05:00:00,Eco Watchers Survey: Outlook,MEDIUM,JPY,Release,0.14,Confidence
-39439230-1b94-44da-859b-6abe19a68fdf,11/10/2026 23:50:00,Money Supply M2+CD (YoY),HIGH,JPY,Release,0.19,Inflation
-1e2b86c8-22b6-4088-b43d-1f9d170fb895,11/11/2026 06:00:00,Machine Tool Orders (YoY),HIGH,JPY,Release,0.17,Growth
-0eb005ba-3022-401c-a564-abfb4bba8db3,11/11/2026 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth
-67b23d50-9e57-43e3-bfe6-5b4540b327b2,11/11/2026 23:50:00,Foreign Investment in Japan Stocks,HIGH,JPY,Release,0.17,Growth
-fdcf7d3f-9f0a-4fed-802d-c471029e607e,11/11/2026 23:50:00,Producer Price Index (MoM),HIGH,JPY,Release,0.19,Inflation
-95ea66ff-1015-47ea-8665-e20afe40a2cd,11/11/2026 23:50:00,Producer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
+c3f978fa-abee-4101-926b-48530cc232e3,11/12/2026 01:50:00,BoJ's Asada speech,MEDIUM,JPY,Speech,0.13,Monetary Policy
+bc8b9c0b-0905-4b72-8275-2755835c7ec8,11/12/2026 05:45:00,BoJ's Asada speech,MEDIUM,JPY,Speech,0.13,Monetary Policy
 14be18ad-4b90-4333-ab99-e5a653d86ef7,11/15/2026 23:50:00,Gross Domestic Product (QoQ),HIGH,JPY,Release,0.17,Growth
 c3e9601f-befa-4e20-a252-c329d3b1e372,11/15/2026 23:50:00,Gross Domestic Product Annualized,HIGH,JPY,Release,0.17,Growth
 7dca6a59-68c6-4e4e-b575-e91c9d464f6d,11/15/2026 23:50:00,Gross Domestic Product Deflator (YoY),HIGH,JPY,Release,0.19,Inflation

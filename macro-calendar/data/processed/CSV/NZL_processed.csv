@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d9880ff3-a3f6-499a-9760-c641cca6679d,11/11/2026 21:45:00,Electronic Card Retail Sales  (MoM),HIGH,NZD,Release,0.17,Growth
-c38196d9-762c-4f7f-8163-293785787def,11/11/2026 21:45:00,Electronic Card Retail Sales (YoY),HIGH,NZD,Release,0.17,Growth
-48ba6101-4398-46c4-aba3-3b1883e88713,11/11/2026 21:45:00,Visitor Arrivals (YoY),HIGH,NZD,Release,0.19,Inflation
 045c0aff-58d9-4cef-b69b-e7388c1ad255,11/12/2026 21:30:00,Business NZ PMI,HIGH,NZD,Release,0.17,Growth
 245b9490-733f-4404-9db0-c28427eca659,11/15/2026 21:30:00,Business NZ PSI,MEDIUM,NZD,Release,0.14,Confidence
 0f81244c-9e73-4508-8e6c-0f747d683793,11/16/2026 20:00:00,RBNZ Financial Stability Report,HIGH,NZD,Release,0.2,Monetary Policy
@@ -33,8 +30,8 @@ d94e9750-d132-413e-95e6-7c752524f981,12/10/2026 21:45:00,Food Price Index (MoM),
 003eda31-80c9-4999-b0ee-a2e0a28f3d8c,12/13/2026 21:30:00,Business NZ PSI,MEDIUM,NZD,Release,0.14,Confidence
 e87b660c-b34e-43c2-b3c2-903a9a75151c,12/13/2026 21:45:00,Electronic Card Retail Sales  (MoM),HIGH,NZD,Release,0.17,Growth
 998984e3-5a27-4408-992c-d9cf0947f14c,12/13/2026 21:45:00,Electronic Card Retail Sales (YoY),HIGH,NZD,Release,0.17,Growth
-59c54249-7dad-4c53-ba67-31e635a57b02,12/13/2026 21:45:00,Visitor Arrivals (YoY),HIGH,NZD,Release,0.19,Inflation
 f5e2e978-f08f-40a6-8a8b-5c5f49a4d7c1,12/13/2026 21:45:00,Visitor Arrivals (YoY),HIGH,NZD,Release,0.19,Inflation
+59c54249-7dad-4c53-ba67-31e635a57b02,12/13/2026 21:45:00,Visitor Arrivals (YoY),HIGH,NZD,Release,0.19,Inflation
 cbe28735-15f2-458a-8a86-b8db0560a859,12/15/2026 15:00:00,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
 c9833742-a399-4ac7-a014-994329a08b3a,12/15/2026 21:45:00,Current Account - GDP Ratio,MEDIUM,NZD,Release,0.11,Trade and External
 687a8a96-46f7-41f5-9b29-68ffc6f93732,12/15/2026 21:45:00,Current Account (QoQ),MEDIUM,NZD,Release,0.11,Trade and External

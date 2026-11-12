@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-67f3a4aa-f330-4514-9926-8ea5a5d33f7c,11/10/2026 09:30:00,Unemployment Rate (%),HIGH,ZAR,Release,0.18,Labor Market
-e3169938-fea0-4f26-a5a0-fa69c3c5a4a2,11/10/2026 09:30:00,Unemployment Total ,HIGH,ZAR,Release,0.18,Labor Market
-97ac0369-bd07-447b-8fdf-4266705dcd9f,11/10/2026 11:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth
 d6a871c2-2cb0-4c54-9a69-a3736c06f348,11/18/2026 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
 e30000aa-bc40-4e84-a12d-18d7933958fc,11/18/2026 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
 7b348fbe-3c00-45e9-99d8-c6a5f5d172e9,11/18/2026 11:00:00,Retail Sales (YoY),HIGH,ZAR,Release,0.17,Growth
@@ -11,11 +8,11 @@ e08e2e36-e3b3-4a77-b060-5a36f1b50d3a,11/26/2026 09:30:00,Producer Price Index (Y
 196989ad-ce5a-48e2-8d35-88a07d05af47,11/30/2026 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation
 d63dc97a-2a46-45b5-b1e0-da8e260eacf1,11/30/2026 06:00:00,Private Sector Credit,LOW,ZAR,Release,0.09,Money and Credit
 26cdce01-907e-4825-8582-2197b68da3d8,11/30/2026 12:00:00,Trade Balance (in Rands),MEDIUM,ZAR,Release,0.11,Trade and External
+bf991e13-4cd3-456b-b99e-3c24563eb461,12/01/2026 09:30:00,Gross Domestic Product (QoQ),HIGH,ZAR,Release,0.17,Growth
+2af4a02f-80c5-464e-aec5-377ef8af56c2,12/01/2026 09:30:00,Gross Domestic Product (YoY),HIGH,ZAR,Release,0.17,Growth
 7be35f8e-35bd-4410-b49b-31447543abd1,12/01/2026 12:30:00,Total New Vehicle Sales,LOW,ZAR,Release,0.07,Housing
 396bdb6c-a900-4dca-ad70-f0434786e8ef,12/07/2026 06:00:00,Gross $Gold & Forex Reserve ,HIGH,ZAR,Release,0.2,Monetary Policy
 18c76850-e488-4838-80dd-633a43b9e59b,12/07/2026 06:00:00,Net $Gold & Forex Reserve,LOW,ZAR,Release,0.09,Money and Credit
-bf991e13-4cd3-456b-b99e-3c24563eb461,12/08/2026 09:30:00,Gross Domestic Product (QoQ),HIGH,ZAR,Release,0.17,Growth
-2af4a02f-80c5-464e-aec5-377ef8af56c2,12/08/2026 09:30:00,Gross Domestic Product (YoY),HIGH,ZAR,Release,0.17,Growth
 93796b50-c4a2-4783-8057-41bff4a1b5f7,12/09/2026 11:00:00,Retail Sales (YoY),HIGH,ZAR,Release,0.17,Growth
 fe2ffaee-03a2-4b3c-961b-e50a586f6fdf,12/10/2026 11:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth
 801cb341-dbf5-4ea0-bfa8-4ec244a972a6,12/11/2026 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
@@ -40,6 +37,9 @@ a194ec65-a6f1-4bc2-849b-a4168c998a1e,01/20/2027 08:00:00,Consumer Price Index (Y
 e39599f0-eebc-48e5-a8f8-2e03dd4c972c,01/29/2027 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation
 8e3099d1-afea-4f04-b74b-8fc0cba5941a,01/29/2027 06:00:00,Private Sector Credit,LOW,ZAR,Release,0.09,Money and Credit
 43e7980b-e029-4c3a-ad1b-995404103044,01/29/2027 12:00:00,Trade Balance (in Rands),MEDIUM,ZAR,Release,0.11,Trade and External
+806398c3-c08a-4e62-9d63-1dbf048915ed,02/01/2027 13:00:00,Total New Vehicle Sales,LOW,ZAR,Release,0.07,Housing
+6c0e328e-699c-4100-a8dd-34aa0cd081d8,02/10/2027 06:00:00,Gross $Gold & Forex Reserve ,HIGH,ZAR,Release,0.2,Monetary Policy
+aa6cf8ce-6920-475c-816c-0e42fc7c9a59,02/10/2027 06:00:00,Net $Gold & Forex Reserve,LOW,ZAR,Release,0.09,Money and Credit
 2c277521-a8dc-48e6-b503-29d63d754497,02/10/2027 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
 ae33955e-41e8-4ee4-bc5b-67e5bab3c6ef,02/10/2027 09:30:05,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
 696a87c3-c5d5-4d1c-b763-9c0bbc59af5d,02/11/2027 11:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth
@@ -48,13 +48,143 @@ ecd65ba2-6efd-4e96-8ae6-453d0931303a,02/16/2027 09:30:00,Unemployment Total ,HIG
 0fdf04d7-4f4c-450c-8218-a41b7b5ea8e7,02/17/2027 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
 1baefa90-9686-47f9-a817-3a64efea1d02,02/17/2027 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
 ad98c6d2-ffee-4663-b57f-2f61c5032916,02/17/2027 11:00:00,Retail Sales (YoY),HIGH,ZAR,Release,0.17,Growth
-f00be0da-d4c6-4ab2-a016-09384446e79c,02/25/2027 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
+4281e5a1-bc9d-432a-83d6-9db9b533a3e4,02/25/2027 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
+ed50d1aa-8d79-42ef-8234-6420c447799f,02/25/2027 09:30:00,Producer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
 480560a2-5fad-4fac-b5da-fb96ad3cb2e8,02/25/2027 09:30:00,Producer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
+8fe72754-71cb-4d18-9677-608baf7cd187,02/26/2027 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation
+656ec682-73f1-45a1-9339-74798c35fd77,02/26/2027 06:00:00,Private Sector Credit,LOW,ZAR,Release,0.09,Money and Credit
+1bb57421-4131-4ef7-86cf-611887cd51a0,02/26/2027 12:00:00,Trade Balance (in Rands),MEDIUM,ZAR,Release,0.11,Trade and External
+f125922b-58d0-4e42-b924-cd4248f07aa1,03/01/2027 12:30:00,Total New Vehicle Sales,LOW,ZAR,Release,0.07,Housing
 95be5d85-940e-4453-9a78-b5e5e590f509,03/09/2027 09:30:00,Gross Domestic Product (QoQ),HIGH,ZAR,Release,0.17,Growth
 fac2fff1-9ffb-4a3a-b3f2-6f66a0b756cd,03/09/2027 09:30:00,Gross Domestic Product (YoY),HIGH,ZAR,Release,0.17,Growth
+09a818f8-2706-4d6c-8d3a-ddd66c4efba9,03/10/2027 06:00:00,Gross $Gold & Forex Reserve ,HIGH,ZAR,Release,0.2,Monetary Policy
+39134368-fd4e-4fce-8d38-388f56b893d0,03/10/2027 06:00:00,Net $Gold & Forex Reserve,LOW,ZAR,Release,0.09,Money and Credit
 b5d83a15-68aa-4c6f-8357-2452dfae17f5,03/11/2027 11:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth
 e6c5424f-07be-46eb-939d-ae250b083ff2,03/17/2027 11:00:00,Retail Sales (YoY),HIGH,ZAR,Release,0.17,Growth
 54d29641-d15c-4c4e-97e4-62559246fcf7,03/24/2027 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
 f3e655bb-6f21-4403-9e6d-a232bbce24e2,03/24/2027 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
-a8873c06-f132-4915-a99b-2349e65229ef,03/25/2027 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
+9282986c-6299-440b-9909-5cc9b288025a,03/25/2027 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
+32afa388-2c33-4a9a-a3ae-3e6318a882bc,03/25/2027 09:30:00,Producer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
 7e4faa97-59d3-4c8d-97d9-fe4113cac123,03/25/2027 09:30:00,Producer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
+ecd223f7-9241-44e7-8f28-e0cb0b1f6293,03/25/2027 13:00:00,SARB Interest Rate Decision,HIGH,ZAR,Release,0.2,Monetary Policy
+c8a12c66-972a-43be-a62b-b47663f659b3,03/31/2027 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation
+a0a304b1-b619-4bb9-ae67-98dc51ed3d94,03/31/2027 06:00:00,Private Sector Credit,LOW,ZAR,Release,0.09,Money and Credit
+b0bc0a2e-90ee-4677-a335-3ebc3c43a0d9,03/31/2027 12:00:00,Trade Balance (in Rands),MEDIUM,ZAR,Release,0.11,Trade and External
+f760e7e7-243a-42a5-9ffc-bc22f614cd57,04/06/2027 12:30:00,Total New Vehicle Sales,LOW,ZAR,Release,0.07,Housing
+f7a27f7d-304d-4efb-acdd-5c05e0e48f95,04/07/2027 06:00:00,Gross $Gold & Forex Reserve ,HIGH,ZAR,Release,0.2,Monetary Policy
+8bad9d6d-296e-41b5-acd1-f58eceb89c62,04/07/2027 06:00:00,Net $Gold & Forex Reserve,LOW,ZAR,Release,0.09,Money and Credit
+5b651f8f-e628-4662-9ba0-8150feadc558,04/09/2027 06:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth
+0ff95e86-c292-472d-a29d-23ae3b159033,04/21/2027 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
+6fbe92e1-99ff-4144-8c12-99fba57ab5bf,04/21/2027 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
+f79cde52-a1e4-4199-8c30-faf7f4c7a2b2,04/21/2027 09:30:00,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
+8a4df5bd-96c4-499a-9e72-d64f1fd24d93,04/21/2027 09:30:00,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
+b39f5688-49c0-453d-9231-9696f863524c,04/21/2027 11:00:00,Retail Sales (YoY),HIGH,ZAR,Release,0.17,Growth
+1e4e9be1-0be6-46c0-bd5b-a3c8c5830d20,04/29/2027 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation
+51d69cbd-7a3d-43dd-b59e-3506dadece94,04/29/2027 06:00:00,Private Sector Credit,LOW,ZAR,Release,0.09,Money and Credit
+05fb498b-ae05-40a6-a26b-29205374c9de,04/29/2027 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
+94160776-0667-4041-b413-6c74dbecbd5a,04/29/2027 09:30:00,Producer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
+c9e81c00-a12b-4d16-af20-9072e27a8885,04/30/2027 12:00:00,Trade Balance (in Rands),MEDIUM,ZAR,Release,0.11,Trade and External
+7648c596-ad16-4133-b964-9bb0ca18e73a,05/04/2027 12:30:00,Total New Vehicle Sales,LOW,ZAR,Release,0.07,Housing
+853043ee-81ec-4f81-b7f0-d65603284abb,05/10/2027 06:00:00,Gross $Gold & Forex Reserve ,HIGH,ZAR,Release,0.2,Monetary Policy
+5e6435da-6515-46ec-a0d9-95d52367aab9,05/10/2027 06:00:00,Net $Gold & Forex Reserve,LOW,ZAR,Release,0.09,Money and Credit
+7acb9e75-08c2-401e-a5eb-83b58cad8463,05/11/2027 06:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth
+c6f8b305-08f8-4ee1-962d-416249fca46f,05/11/2027 09:30:00,Unemployment Rate (%),HIGH,ZAR,Release,0.18,Labor Market
+fd80eda5-dae9-4d41-8a1a-5b3e1e097f37,05/11/2027 09:30:00,Unemployment Total ,HIGH,ZAR,Release,0.18,Labor Market
+6bf9e154-fd39-4290-a39c-6be9fd2da756,05/19/2027 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
+92cf3c57-5a49-4546-8acd-de6a369e2878,05/19/2027 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
+8c7d3bf6-7ca2-477b-87f6-c2f27d0e8fc0,05/19/2027 11:00:00,Retail Sales (YoY),HIGH,ZAR,Release,0.17,Growth
+c9bba7ca-06f4-447e-b0d6-853fe575d036,05/27/2027 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
+51cfb5a5-632a-4225-940c-131420501fb1,05/27/2027 09:30:00,Producer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
+5a312cd8-5776-4a71-aa82-4136da77d058,05/27/2027 13:00:00,SARB Interest Rate Decision,HIGH,ZAR,Release,0.2,Monetary Policy
+52548829-161b-4a82-a2ad-a876bf828bde,05/31/2027 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation
+03861c79-5f90-4ccf-b646-930b8c2b2e16,05/31/2027 06:00:00,Private Sector Credit,LOW,ZAR,Release,0.09,Money and Credit
+c3d643d3-e36e-4dfd-81e3-1f95d23a4093,05/31/2027 12:00:00,Trade Balance (in Rands),MEDIUM,ZAR,Release,0.11,Trade and External
+ba7100d6-1b9b-4b62-ac43-8a229f70472d,06/01/2027 12:30:00,Total New Vehicle Sales,LOW,ZAR,Release,0.07,Housing
+922afd41-da33-431c-8d33-699306207bf5,06/08/2027 09:30:00,Gross Domestic Product (QoQ),HIGH,ZAR,Release,0.17,Growth
+ac629a93-ce04-4188-93de-82135303f1d0,06/08/2027 09:30:00,Gross Domestic Product (YoY),HIGH,ZAR,Release,0.17,Growth
+660b2c05-84f7-4810-87b6-21c31443a4dd,06/09/2027 06:00:00,Gross $Gold & Forex Reserve ,HIGH,ZAR,Release,0.2,Monetary Policy
+306c5289-59a0-4d73-920c-24582b239e33,06/09/2027 06:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth
+53113324-2e70-4115-929c-547b533e072b,06/09/2027 06:00:00,Net $Gold & Forex Reserve,LOW,ZAR,Release,0.09,Money and Credit
+ccf675b1-2671-4fe2-ae18-4c01ee489eff,06/16/2027 09:30:00,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
+08a1ccab-a5b8-4314-90ad-7041c27c8fd5,06/16/2027 09:30:00,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
+d2f81dab-a0be-4412-8918-e7b8f1b03921,06/16/2027 11:00:00,Retail Sales (YoY),HIGH,ZAR,Release,0.17,Growth
+2ec7a936-f31c-4d3a-b568-c47b75440d60,06/23/2027 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
+51af9b3c-dfa4-4329-a881-d90e65060ed2,06/23/2027 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
+b63cad4d-d002-46d5-9a8a-37280c5a8478,06/24/2027 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
+b4ece37a-f8bd-4862-83a2-83456f3b8b1a,06/24/2027 09:30:00,Producer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
+5a59f670-c15b-4e41-ab09-6f1c503790a7,06/30/2027 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation
+3a7f029a-9776-4579-b62d-5626d5c016f4,06/30/2027 06:00:00,Private Sector Credit,LOW,ZAR,Release,0.09,Money and Credit
+7d5aaee9-4761-4425-84c6-93be04f20e8f,06/30/2027 12:00:00,Trade Balance (in Rands),MEDIUM,ZAR,Release,0.11,Trade and External
+c9b6253d-a3da-461c-8e18-4dca842a67b1,07/05/2027 12:30:00,Total New Vehicle Sales,LOW,ZAR,Release,0.07,Housing
+fa295b95-e4bb-44cc-b9d4-b28398166a81,07/07/2027 06:00:00,Gross $Gold & Forex Reserve ,HIGH,ZAR,Release,0.2,Monetary Policy
+82f63d85-3160-49f3-a4cd-a204499347e2,07/07/2027 06:00:00,Net $Gold & Forex Reserve,LOW,ZAR,Release,0.09,Money and Credit
+c6f31d6e-d19a-428b-b842-45e792ac89db,07/09/2027 06:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth
+59fa8094-6b5c-4c44-891b-b9acdfa57541,07/21/2027 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
+0de67259-e83e-4303-8379-c525594f6827,07/21/2027 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
+4aa0efd9-b6c6-4180-ae68-ae36885d96ff,07/21/2027 11:00:00,Retail Sales (YoY),HIGH,ZAR,Release,0.17,Growth
+933bdf9f-c1c6-43c2-8bf5-2840a1c8365b,07/22/2027 13:00:00,SARB Interest Rate Decision,HIGH,ZAR,Release,0.2,Monetary Policy
+47d71511-aca3-44c1-8675-8b864fae996a,07/29/2027 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation
+06615818-df2f-4979-b097-0c497b9d798d,07/29/2027 06:00:00,Private Sector Credit,LOW,ZAR,Release,0.09,Money and Credit
+02db5183-60df-4ea5-ba52-c0588cffb5d6,07/29/2027 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
+641ff71f-7708-43d9-8827-7dd0995cf101,07/29/2027 09:30:00,Producer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
+9369695b-f37e-4960-9022-8574e9f24f18,07/30/2027 12:00:00,Trade Balance (in Rands),MEDIUM,ZAR,Release,0.11,Trade and External
+32ffa5a0-722c-4a30-a56c-1d8f2ca7bfea,08/03/2027 12:30:00,Total New Vehicle Sales,LOW,ZAR,Release,0.07,Housing
+4eb311b9-097f-4da5-9fd5-7ef30d6b3840,08/10/2027 06:00:00,Gross $Gold & Forex Reserve ,HIGH,ZAR,Release,0.2,Monetary Policy
+05b325cc-1e44-47db-8675-a022a6a061af,08/10/2027 06:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth
+ada29278-7359-4088-8713-ad26319d2d9a,08/10/2027 06:00:00,Net $Gold & Forex Reserve,LOW,ZAR,Release,0.09,Money and Credit
+cda89cd1-8fb6-43e4-b7ae-03a92cb52524,08/10/2027 09:30:00,Unemployment Rate (%),HIGH,ZAR,Release,0.18,Labor Market
+ba64381a-5bb4-48fd-afa3-8c0c62718041,08/10/2027 09:30:00,Unemployment Total ,HIGH,ZAR,Release,0.18,Labor Market
+07e038e5-9422-423f-9df0-039c8806c7b4,08/18/2027 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
+6f7db64f-17e3-45f7-ae57-3351177e10cf,08/18/2027 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
+7275caf1-da88-4076-aa28-2f538b0df954,08/18/2027 09:30:00,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
+bee050f9-9081-451d-a45b-e1eb485b9c4f,08/18/2027 09:30:00,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
+83a5eb95-ad1b-40c9-9d47-fcdb95d460c5,08/18/2027 11:00:00,Retail Sales (YoY),HIGH,ZAR,Release,0.17,Growth
+52f64ea1-9abf-4594-b04c-1ab305a9898f,08/26/2027 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
+a70ee314-abbe-44e5-a7b9-63f9b3d1f8c0,08/26/2027 09:30:00,Producer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
+35e5e911-5fac-4f88-9b86-9bea95960fd1,08/31/2027 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation
+4ed3d438-9433-4799-8d7e-1ad5103c9acd,08/31/2027 06:00:00,Private Sector Credit,LOW,ZAR,Release,0.09,Money and Credit
+19ba925c-2198-4309-9d0b-1526b115add2,08/31/2027 12:00:00,Trade Balance (in Rands),MEDIUM,ZAR,Release,0.11,Trade and External
+32ecf9a1-50d3-4990-835f-7a19367817d3,09/06/2027 12:30:00,Total New Vehicle Sales,LOW,ZAR,Release,0.07,Housing
+93ccdbf0-363c-427f-ab9a-118accc62bcb,09/07/2027 09:30:00,Gross Domestic Product (QoQ),HIGH,ZAR,Release,0.17,Growth
+03f7fd6d-f239-4961-abf3-4a9774678e60,09/07/2027 09:30:00,Gross Domestic Product (YoY),HIGH,ZAR,Release,0.17,Growth
+54a6f0f0-68c7-4b18-8260-6be068547bdb,09/08/2027 06:00:00,Gross $Gold & Forex Reserve ,HIGH,ZAR,Release,0.2,Monetary Policy
+19335df8-6fff-4a7d-a990-37c081895237,09/08/2027 06:00:00,Net $Gold & Forex Reserve,LOW,ZAR,Release,0.09,Money and Credit
+a78f43f6-4817-4834-9236-21c346a67838,09/09/2027 06:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth
+f8d90667-daad-49f4-9668-c80685f815fe,09/22/2027 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
+1a55d412-36b6-4b85-b6ba-43d39a235ba2,09/22/2027 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
+446c8854-35fa-4a3a-ad56-53d99171f3cf,09/22/2027 11:00:00,Retail Sales (YoY),HIGH,ZAR,Release,0.17,Growth
+d432dfb9-2511-4cb3-a83f-d7d113ddacf9,09/23/2027 13:00:00,SARB Interest Rate Decision,HIGH,ZAR,Release,0.2,Monetary Policy
+fdb47707-05a5-4302-8ce5-f10c473ffa85,09/30/2027 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation
+56b46f86-a210-431b-8a48-8758e34b766a,09/30/2027 06:00:00,Private Sector Credit,LOW,ZAR,Release,0.09,Money and Credit
+1a2c3418-e64b-4701-9e26-a9b84070a215,09/30/2027 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
+da3ad842-1910-4980-a084-40eedf838caa,09/30/2027 09:30:00,Producer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
+a5f097ae-4ad8-4022-b47a-1132262560d0,09/30/2027 12:00:00,Trade Balance (in Rands),MEDIUM,ZAR,Release,0.11,Trade and External
+2f4700a1-687c-4008-b30b-ad1dddc5bafe,10/05/2027 12:30:00,Total New Vehicle Sales,LOW,ZAR,Release,0.07,Housing
+d34777b2-6afb-4b94-852a-1079a20faf07,10/11/2027 06:00:00,Gross $Gold & Forex Reserve ,HIGH,ZAR,Release,0.2,Monetary Policy
+3087eade-4ff0-4cd8-bca0-8cc65c4faa29,10/11/2027 06:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth
+d3359e42-70b3-4fd2-87ed-42dfcdd0b50a,10/11/2027 06:00:00,Net $Gold & Forex Reserve,LOW,ZAR,Release,0.09,Money and Credit
+ddbd77d6-450f-4e54-a89c-edf8cebf6e42,10/13/2027 09:30:00,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
+41122323-6144-4e59-b60c-e8d75f9b83a7,10/13/2027 09:30:00,Business Confidence Index,MEDIUM,ZAR,Release,0.14,Confidence
+8386f9b6-353e-4430-8d23-9ce2e99c1c55,10/20/2027 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
+5c806907-5a3d-45c0-9e62-927623ac0316,10/20/2027 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
+251dbf7b-4af8-4fbd-a483-d06224adb6e3,10/20/2027 11:00:00,Retail Sales (YoY),HIGH,ZAR,Release,0.17,Growth
+ca1c0fc5-baaf-41fc-a3d7-2e38051066dd,10/28/2027 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
+d4afac8d-7f4c-435b-a26e-1f6e61bd213a,10/28/2027 09:30:00,Producer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
+098aa4dd-d359-411c-8e49-8c0b9ee70c75,10/29/2027 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation
+fc61d8a8-14e4-4d0d-b466-71c9b5ebbea7,10/29/2027 06:00:00,Private Sector Credit,LOW,ZAR,Release,0.09,Money and Credit
+5edaa7e2-56a5-455d-88f8-2ee0ebdd24d3,10/29/2027 12:00:00,Trade Balance (in Rands),MEDIUM,ZAR,Release,0.11,Trade and External
+b148e2e6-62d0-4d4e-bce5-ab153085cd8a,11/02/2027 12:30:00,Total New Vehicle Sales,LOW,ZAR,Release,0.07,Housing
+702766c8-a97a-419a-b700-e0392151b088,11/09/2027 09:30:00,Unemployment Rate (%),HIGH,ZAR,Release,0.18,Labor Market
+47ab20b4-b321-4477-99ec-6473345aa522,11/09/2027 09:30:00,Unemployment Total ,HIGH,ZAR,Release,0.18,Labor Market
+ceb1d0ee-e56a-4e5b-9cfb-5002a9cdb409,11/10/2027 06:00:00,Gross $Gold & Forex Reserve ,HIGH,ZAR,Release,0.2,Monetary Policy
+672b2a39-6c5b-439f-9bd9-d7ea0b5538ed,11/10/2027 06:00:00,Manufacturing Production Index (YoY),HIGH,ZAR,Release,0.17,Growth
+6f39e07f-bfb3-4f11-85e6-63c1cbbc1d89,11/10/2027 06:00:00,Net $Gold & Forex Reserve,LOW,ZAR,Release,0.09,Money and Credit
+ea1d50a6-8790-429f-82b3-b6f7d22c430e,11/17/2027 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
+3896419d-72c0-47f4-8bef-7f39806431e2,11/17/2027 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
+d2c28669-2389-4066-856b-0dce112114f3,11/17/2027 11:00:00,Retail Sales (YoY),HIGH,ZAR,Release,0.17,Growth
+40bc393a-0f24-4892-8547-a56e1966d882,11/18/2027 13:00:00,SARB Interest Rate Decision,HIGH,ZAR,Release,0.2,Monetary Policy
+17677ea0-392c-4814-8a97-4e356f4ea734,11/25/2027 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
+3c30f067-e21e-450d-8dd7-0a36b3095d4a,11/25/2027 09:30:00,Producer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
+16cf80f0-bd71-4943-8110-ac04a9b8f6b7,11/30/2027 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation
+ecc86cdf-3a23-4136-9552-eaf7803929c6,11/30/2027 06:00:00,Private Sector Credit,LOW,ZAR,Release,0.09,Money and Credit
+16cd9720-1627-4f05-b790-0968f4f45eaa,11/30/2027 12:00:00,Trade Balance (in Rands),MEDIUM,ZAR,Release,0.11,Trade and External

@@ -1,23 +1,23 @@
 Id,Start,Name,Impact,Currency
 11a0e51f-7818-458d-a016-4f62f8a724e0,11/12/2026 12:00:00,IPCA Inflation,LOW,BRL
 ac87f9e3-3e5e-4091-820f-678142e56c24,11/13/2026 12:00:00,Retail Sales (MoM),LOW,BRL
+52ef682d-397a-42df-a367-7f0ecf16faba,11/26/2026 11:30:00,Current Account,LOW,BRL
 258e8859-916c-4e75-b42a-047de6992331,11/26/2026 12:00:00,Mid-month Inflation,LOW,BRL
-52ef682d-397a-42df-a367-7f0ecf16faba,11/26/2026 12:30:00,Current Account,LOW,BRL
 b44fc910-4159-4b1c-878a-573a70322441,11/27/2026 11:00:00,Inflation Index/IGP-M,LOW,BRL
 e7736f8b-3e38-4d07-8075-8f843008ffac,11/27/2026 12:00:00,Unemployment Rate,LOW,BRL
 6eeee796-a98f-49ed-bee1-4706c3cb4b33,11/30/2026 11:30:00,Nominal Budget Balance,LOW,BRL
 b1d09276-ab9a-4cef-9ebb-36bb7e867279,11/30/2026 11:30:00,Primary Budget Surplus,LOW,BRL
-6dab22e8-e604-483e-b9a8-7488e3a69152,12/01/2026 12:00:00,Industrial Output (MoM),LOW,BRL
-7c535101-a3e2-408d-bd65-79bf67f49689,12/01/2026 12:00:00,Industrial Output (YoY),LOW,BRL
 e84f5f00-71d4-4460-958a-94b3415a4482,12/01/2026 13:00:00,S&P Global Manufacturing PMI,LOW,BRL
 122acc7b-fba3-4f1d-b7aa-24247ca38103,12/02/2026 08:00:00,Fipe's IPC Inflation,LOW,BRL
 3c67b832-4d53-441d-9814-fcca68c58a55,12/03/2026 12:00:00,Gross Domestic Product (QoQ),LOW,BRL
 b3d86b90-d37b-4df2-bf93-168f21de473c,12/03/2026 12:00:00,Gross Domestic Product (YoY),LOW,BRL
+6dab22e8-e604-483e-b9a8-7488e3a69152,12/03/2026 12:00:00,Industrial Output (MoM),LOW,BRL
+7c535101-a3e2-408d-bd65-79bf67f49689,12/03/2026 12:00:00,Industrial Output (YoY),LOW,BRL
 9d7d74cc-1e50-4684-b4d1-f8ccaa08db30,12/04/2026 18:00:00,Trade Balance,LOW,BRL
-85ad8c6a-e422-437e-afbc-c852b92abf7a,12/09/2026 12:00:00,IPCA Inflation,LOW,BRL
 1c69fe1f-3c96-4c4c-86cc-52055b644927,12/09/2026 21:00:00,Interest Rate Decision,LOW,BRL
 88a33a14-d0f3-4d73-95ff-f9abede2dcea,12/10/2026 12:00:00,Retail Sales (MoM),LOW,BRL
-398aaed8-73a2-4913-9038-fb43e2e0c06d,12/18/2026 12:30:00,Current Account,LOW,BRL
+85ad8c6a-e422-437e-afbc-c852b92abf7a,12/11/2026 12:00:00,IPCA Inflation,LOW,BRL
+398aaed8-73a2-4913-9038-fb43e2e0c06d,12/18/2026 11:30:00,Current Account,LOW,BRL
 8af59553-4572-42c4-931d-40804a99a346,12/23/2026 12:00:00,Mid-month Inflation,LOW,BRL
 aed1a709-296d-480f-8a83-bb80fb1dddd9,12/28/2026 11:00:00,Inflation Index/IGP-M,LOW,BRL
 1465bb77-2d35-4a37-9634-fa96ac34dcd6,12/29/2026 12:00:00,Unemployment Rate,LOW,BRL
@@ -28,13 +28,143 @@ e3cfd340-5acd-454d-9134-2b0ca797fc70,12/30/2026 11:30:00,Nominal Budget Balance,
 778f6a45-8081-4c53-9525-fd3e9abdaeaa,01/06/2027 12:00:00,Industrial Output (MoM),LOW,BRL
 64ca9c73-c33f-4f79-9e81-e64183b11d66,01/06/2027 12:00:00,Industrial Output (YoY),LOW,BRL
 04fc8ec2-c16c-41b4-8826-33cec0793fa8,01/06/2027 18:00:00,Trade Balance,LOW,BRL
-76297db6-e8d4-43d7-a7cc-c53db29698d6,01/08/2027 12:00:00,IPCA Inflation,LOW,BRL
+76297db6-e8d4-43d7-a7cc-c53db29698d6,01/12/2027 12:00:00,IPCA Inflation,LOW,BRL
 ba10c5ff-094b-4faf-be96-d70f597ac27c,01/12/2027 12:00:00,Retail Sales (MoM),LOW,BRL
-69ee7a37-d16d-44a5-b0c4-b37b75f55e27,01/26/2027 12:30:00,Current Account,LOW,BRL
+69ee7a37-d16d-44a5-b0c4-b37b75f55e27,01/25/2027 11:30:00,Current Account,LOW,BRL
+193cc21e-0717-4720-8f0c-832529f9a551,01/27/2027 21:00:00,Interest Rate Decision,LOW,BRL
 2bd7d328-946a-491f-962a-5a5ae561a1e6,01/28/2027 11:00:00,Inflation Index/IGP-M,LOW,BRL
 501ca649-0730-4013-92fd-cdf37ae726b1,01/28/2027 12:00:00,Mid-month Inflation,LOW,BRL
 9d7f6eca-5347-4a0e-aa7a-cc31a4ffcd8a,01/28/2027 12:00:00,Unemployment Rate,LOW,BRL
 71249d88-356d-46d4-9818-63edfaa6be97,01/29/2027 11:30:00,Nominal Budget Balance,LOW,BRL
 27e36ff9-5b6d-40ed-b7fe-24f6b8c530b0,01/29/2027 11:30:00,Primary Budget Surplus,LOW,BRL
-a98b9be0-cf56-4301-be24-78cb6201b0ea,03/03/2027 12:00:00,Gross Domestic Product (QoQ),LOW,BRL
-9e5fefb0-2e53-429a-9244-070ca39c1388,03/03/2027 12:00:00,Gross Domestic Product (YoY),LOW,BRL
+24ed2adc-b739-41e7-a274-8808b59f7287,02/02/2027 08:00:00,Fipe's IPC Inflation,LOW,BRL
+d483173c-21ef-4fe6-b99f-7865341a915e,02/03/2027 12:00:00,Industrial Output (MoM),LOW,BRL
+72c207a4-4e45-42b9-a207-b4bd7cab47ed,02/03/2027 12:00:00,Industrial Output (YoY),LOW,BRL
+5fbd5435-b58e-4469-8087-51543dd10641,02/10/2027 12:00:00,IPCA Inflation,LOW,BRL
+f08c10cb-f2ca-4947-a8a6-f40251e410ae,02/12/2027 12:00:00,Retail Sales (MoM),LOW,BRL
+c5569da3-1b4d-4efe-ab1c-a032b93b9a42,02/24/2027 11:30:00,Current Account,LOW,BRL
+7dc25d02-d340-4748-8cd5-cbb51906e2ff,02/26/2027 11:00:00,Inflation Index/IGP-M,LOW,BRL
+55a5b0db-884d-4ae8-9d23-e9f691b309d3,02/26/2027 11:30:00,Nominal Budget Balance,LOW,BRL
+c327b154-82d8-417c-8ea2-c311c0592c2a,02/26/2027 11:30:00,Primary Budget Surplus,LOW,BRL
+e7a1d48e-fb8f-4ce3-af2e-f628b60b577e,02/26/2027 12:00:00,Mid-month Inflation,LOW,BRL
+14b868a8-4ce3-45c8-bfcb-ca50b86decdb,02/26/2027 12:00:00,Unemployment Rate,LOW,BRL
+32ce408a-70aa-4acc-96e9-3ac4b0d6a9df,03/01/2027 13:00:00,S&P Global Manufacturing PMI,LOW,BRL
+c0e1cff4-91d7-43a6-b1a5-17ead0f72f0c,03/02/2027 08:00:00,Fipe's IPC Inflation,LOW,BRL
+a98b9be0-cf56-4301-be24-78cb6201b0ea,03/02/2027 12:00:00,Gross Domestic Product (QoQ),LOW,BRL
+9e5fefb0-2e53-429a-9244-070ca39c1388,03/02/2027 12:00:00,Gross Domestic Product (YoY),LOW,BRL
+e64672c4-b66f-4cf3-afa8-7e867775e1c8,03/03/2027 12:00:00,Industrial Output (MoM),LOW,BRL
+a7c50a37-4937-4278-9db1-f48063b0c8d6,03/03/2027 12:00:00,Industrial Output (YoY),LOW,BRL
+b35435b4-3aa0-494d-bae5-fd15a1dd5956,03/10/2027 12:00:00,IPCA Inflation,LOW,BRL
+eba92ea9-6de5-4832-ad88-eaa46b501371,03/12/2027 12:00:00,Retail Sales (MoM),LOW,BRL
+3adbf11e-76b5-4a92-af23-9c6d5f61b680,03/17/2027 21:00:00,Interest Rate Decision,LOW,BRL
+c9d82922-3b0f-4e51-8e42-ec399d387bf9,03/25/2027 12:00:00,Mid-month Inflation,LOW,BRL
+cd80610b-60bd-41a2-83ab-153fdc861f55,03/29/2027 11:00:00,Inflation Index/IGP-M,LOW,BRL
+de961fa9-fd40-4811-9fb6-b3373b9a3a42,03/29/2027 11:30:00,Current Account,LOW,BRL
+b7b0563b-b417-46c5-b2a9-e2dca6b12e0c,03/30/2027 12:00:00,Unemployment Rate,LOW,BRL
+d695dc31-19dd-4513-8090-6981e23c56d2,03/31/2027 11:30:00,Nominal Budget Balance,LOW,BRL
+cfbdb689-5aa0-43d4-9190-7a3ab8a2e51f,03/31/2027 11:30:00,Primary Budget Surplus,LOW,BRL
+4bff1984-6b6b-4062-abdb-126b1ce1c3e3,04/01/2027 13:00:00,S&P Global Manufacturing PMI,LOW,BRL
+5030b4bf-abb0-4c56-9e2f-6ffbebf08b64,04/02/2027 12:00:00,Industrial Output (MoM),LOW,BRL
+6f48cc5a-cd7f-40ab-8e62-f867248096e3,04/02/2027 12:00:00,Industrial Output (YoY),LOW,BRL
+f0f8e62b-13ba-4c2a-b87b-ce78a8a6ee48,04/05/2027 08:00:00,Fipe's IPC Inflation,LOW,BRL
+b6bdcdd3-e9f9-42ed-bbce-6f3effc83fbc,04/12/2027 12:00:00,IPCA Inflation,LOW,BRL
+b692155e-5b3a-4740-ae5f-4a4422ca0f10,04/13/2027 12:00:00,Retail Sales (MoM),LOW,BRL
+126a7681-20e6-402b-87ee-8296f7686f10,04/26/2027 11:30:00,Current Account,LOW,BRL
+8f8f5df3-ac8b-4a8f-8bcb-44fa7a1f0e73,04/27/2027 12:00:00,Mid-month Inflation,LOW,BRL
+f3ce58c2-f81d-411b-b60e-f8168a3aaddb,04/28/2027 21:00:00,Interest Rate Decision,LOW,BRL
+7ef48458-9493-40a4-a762-1eb5e5756f70,04/29/2027 11:00:00,Inflation Index/IGP-M,LOW,BRL
+728f9e4e-681f-485e-a71a-21ae8888d8d9,04/29/2027 12:00:00,Unemployment Rate,LOW,BRL
+e19f75ef-af29-4873-9d3a-f34b8e51d7f0,04/30/2027 11:30:00,Nominal Budget Balance,LOW,BRL
+5fe35895-f3bd-423b-af8d-d091b06f27f7,04/30/2027 11:30:00,Primary Budget Surplus,LOW,BRL
+37ed3eb7-3ff5-4a48-a4cb-84a841042b0c,05/03/2027 12:00:00,Industrial Output (MoM),LOW,BRL
+3982940b-559c-4183-8da3-f16cd5f3c852,05/03/2027 12:00:00,Industrial Output (YoY),LOW,BRL
+9991dd91-052b-454b-ba7c-d06151886ab3,05/03/2027 13:00:00,S&P Global Manufacturing PMI,LOW,BRL
+d71f3b95-dcec-448f-9c4f-afc02e9dd35b,05/04/2027 08:00:00,Fipe's IPC Inflation,LOW,BRL
+b4ad33d7-59d3-48d9-ab85-4f68c4968bff,05/11/2027 12:00:00,IPCA Inflation,LOW,BRL
+46db021b-0fcf-4f0b-ac28-92c435e30b6c,05/12/2027 12:00:00,Retail Sales (MoM),LOW,BRL
+484b9ff5-bc7c-4083-82c0-86d7525666ad,05/25/2027 11:30:00,Current Account,LOW,BRL
+02201124-8ec1-424b-a178-72eb3a63144e,05/27/2027 12:00:00,Mid-month Inflation,LOW,BRL
+bce672b3-0a38-43d0-b25d-87794c7df729,05/28/2027 11:00:00,Inflation Index/IGP-M,LOW,BRL
+63135aec-b22a-43ff-b60a-f6cb78772a6a,05/28/2027 11:30:00,Nominal Budget Balance,LOW,BRL
+6285f803-fe1e-4f78-a9f1-f2db47c7d95b,05/28/2027 11:30:00,Primary Budget Surplus,LOW,BRL
+73e882c0-f254-4370-a5c7-2004a6a0e5cd,05/28/2027 12:00:00,Unemployment Rate,LOW,BRL
+9d96dde3-b5fa-4cfe-b0f6-06d36b793d74,06/01/2027 13:00:00,S&P Global Manufacturing PMI,LOW,BRL
+9548ab86-f1c3-46df-8d40-6037c6e2ce8f,06/02/2027 08:00:00,Fipe's IPC Inflation,LOW,BRL
+996c97c9-aa68-419b-ad82-602aedf88a50,06/02/2027 12:00:00,Industrial Output (MoM),LOW,BRL
+d8177bc4-ecbd-48ba-b9be-08cefd931426,06/02/2027 12:00:00,Industrial Output (YoY),LOW,BRL
+9ce13cb8-26d4-4f9e-b9cf-c6d84b9fd808,06/10/2027 12:00:00,IPCA Inflation,LOW,BRL
+9c9bec7f-6399-46a8-be6e-2f4937f10ce4,06/15/2027 12:00:00,Retail Sales (MoM),LOW,BRL
+403a6f07-99b8-4fe2-9a7c-7e127fbe105f,06/16/2027 21:00:00,Interest Rate Decision,LOW,BRL
+cf97fbb3-b09a-48ca-b217-29455bd3c866,06/25/2027 12:00:00,Mid-month Inflation,LOW,BRL
+030e4931-8d8d-4973-aedd-668590d2fd73,06/28/2027 11:30:00,Current Account,LOW,BRL
+f6636dc2-87ae-41a7-b1b3-fa4afc372c12,06/29/2027 11:00:00,Inflation Index/IGP-M,LOW,BRL
+269b7a71-285d-42ea-9a32-b6f80faebfad,06/30/2027 11:30:00,Nominal Budget Balance,LOW,BRL
+cadbcffd-8286-4e97-a970-c9822824cb91,06/30/2027 11:30:00,Primary Budget Surplus,LOW,BRL
+178a8a6a-df9c-4290-b209-3c6055801dbe,06/30/2027 12:00:00,Unemployment Rate,LOW,BRL
+3633f676-dda1-4a74-9edb-78d8e8e601e7,07/01/2027 13:00:00,S&P Global Manufacturing PMI,LOW,BRL
+e6599243-7dce-4435-9a5f-bb40ff3480ca,07/02/2027 08:00:00,Fipe's IPC Inflation,LOW,BRL
+a5d678c3-8c32-4b69-86c5-09e46df95733,07/02/2027 12:00:00,Gross Domestic Product (QoQ),LOW,BRL
+065ea10c-d169-44b2-8e4d-151331c07266,07/02/2027 12:00:00,Gross Domestic Product (YoY),LOW,BRL
+799bc9c2-00e0-4a13-addf-6f254e8e16ec,07/02/2027 12:00:00,Industrial Output (MoM),LOW,BRL
+58effec5-5b3e-4a76-9bff-43fe6e545c12,07/02/2027 12:00:00,Industrial Output (YoY),LOW,BRL
+3ae4a8b7-0977-4cb0-aef4-ffc221bd0d3b,07/12/2027 12:00:00,IPCA Inflation,LOW,BRL
+4059a7c1-54a6-4588-aeef-731a89619aa6,07/13/2027 12:00:00,Retail Sales (MoM),LOW,BRL
+f53c31d3-f1a8-4975-8ec2-0fc01698ca78,07/27/2027 11:30:00,Current Account,LOW,BRL
+c881d6a0-3bd9-40b3-88fa-df1b80e0ae0f,07/27/2027 12:00:00,Mid-month Inflation,LOW,BRL
+8c38a63e-f543-4665-bd3b-6f84e6444642,07/29/2027 11:00:00,Inflation Index/IGP-M,LOW,BRL
+a4d80f63-440c-490a-9fff-76821b7adb15,07/29/2027 12:00:00,Unemployment Rate,LOW,BRL
+7f4abeb9-4c30-4bf7-8b54-add619db2c99,07/30/2027 11:30:00,Nominal Budget Balance,LOW,BRL
+20c4b585-af50-41e4-84c6-0b6b4d93fc72,07/30/2027 11:30:00,Primary Budget Surplus,LOW,BRL
+93ff1369-8eb0-4f28-9dad-253e6def6cdc,08/02/2027 13:00:00,S&P Global Manufacturing PMI,LOW,BRL
+f0399eee-636b-4f41-8742-c608ebf32bfb,08/03/2027 08:00:00,Fipe's IPC Inflation,LOW,BRL
+10e30b5d-b569-46c1-b1c3-5d7af0f0ed52,08/03/2027 12:00:00,Industrial Output (MoM),LOW,BRL
+fcc85253-e081-4cee-a25e-3928edd9360e,08/03/2027 12:00:00,Industrial Output (YoY),LOW,BRL
+bcad1888-88d6-475e-8dea-bf5a4cd9038d,08/04/2027 21:00:00,Interest Rate Decision,LOW,BRL
+18aa9ca5-3c4d-4ccd-83e4-00bfa2946e33,08/11/2027 12:00:00,IPCA Inflation,LOW,BRL
+6a159116-fa99-49f7-8f5d-ad32a9d1137e,08/13/2027 12:00:00,Retail Sales (MoM),LOW,BRL
+30570e6a-90aa-4625-b7d3-a9fa447f03dc,08/27/2027 11:00:00,Inflation Index/IGP-M,LOW,BRL
+f0012d4c-f98b-44e6-9ee3-04489dadcecd,08/27/2027 11:30:00,Current Account,LOW,BRL
+a5902bb1-4946-4728-9144-08fc03f397aa,08/27/2027 12:00:00,Mid-month Inflation,LOW,BRL
+f27df10b-a1fe-4c45-98f7-5b9288a6a896,08/30/2027 12:00:00,Unemployment Rate,LOW,BRL
+5203becd-6602-465a-a3ba-bb514b8d5895,08/31/2027 11:30:00,Nominal Budget Balance,LOW,BRL
+d3640111-68e3-4f76-80c1-2755494db739,08/31/2027 11:30:00,Primary Budget Surplus,LOW,BRL
+e4dfe778-e599-4a4a-a6e9-d97533dbbc4e,09/01/2027 13:00:00,S&P Global Manufacturing PMI,LOW,BRL
+8877a42a-ecee-46cb-a186-ee6f07eb14d5,09/02/2027 08:00:00,Fipe's IPC Inflation,LOW,BRL
+c50fa00d-de0a-42f1-b2cc-2f53e9f4c028,09/02/2027 12:00:00,Industrial Output (MoM),LOW,BRL
+eb383be4-f7d8-4606-ba79-6df6fcb3d3da,09/02/2027 12:00:00,Industrial Output (YoY),LOW,BRL
+a74fb33a-251e-40cd-bbe9-4fdfc210359f,09/03/2027 12:00:00,Gross Domestic Product (QoQ),LOW,BRL
+ace3cf27-f7cf-4e9c-8f96-f0721660d2cb,09/03/2027 12:00:00,Gross Domestic Product (YoY),LOW,BRL
+6528bbbb-7a91-44d0-9ad3-ccfe3e8528bb,09/10/2027 12:00:00,IPCA Inflation,LOW,BRL
+c0162bcc-23da-435d-9e95-5d4ac49f694a,09/15/2027 12:00:00,Retail Sales (MoM),LOW,BRL
+02042b05-0750-47cf-981e-760ad995b0a0,09/22/2027 21:00:00,Interest Rate Decision,LOW,BRL
+982ab40b-372e-4035-b5c8-ed62f515bc1c,09/24/2027 11:30:00,Current Account,LOW,BRL
+b5ebc79c-554c-4034-b0b4-39649c84bc3d,09/27/2027 12:00:00,Mid-month Inflation,LOW,BRL
+753adf6a-0326-4ec8-bc84-1521ab02edd5,09/29/2027 11:00:00,Inflation Index/IGP-M,LOW,BRL
+41aa4a60-8ff3-4211-942b-475d189b88b1,09/29/2027 12:00:00,Unemployment Rate,LOW,BRL
+5d61fdb4-c7f7-4031-b2bb-a9505bdda13c,09/30/2027 11:30:00,Nominal Budget Balance,LOW,BRL
+6f44de44-92b9-4b8a-b6ec-91ed2f1f77e3,09/30/2027 11:30:00,Primary Budget Surplus,LOW,BRL
+dcc60fb7-ba57-40de-a4cc-eee18a63035e,10/01/2027 13:00:00,S&P Global Manufacturing PMI,LOW,BRL
+ad13174e-f293-4ecb-9ff6-c6e87bb834bf,10/04/2027 12:00:00,Industrial Output (MoM),LOW,BRL
+6c619b19-1c20-4a47-ad64-8faef9763c24,10/04/2027 12:00:00,Industrial Output (YoY),LOW,BRL
+ea4b706d-11d8-40b4-964f-a688a7d6df77,10/05/2027 08:00:00,Fipe's IPC Inflation,LOW,BRL
+4071c014-6b04-4c22-801b-eb3b6ab8c368,10/11/2027 12:00:00,Retail Sales (MoM),LOW,BRL
+33bc0acc-c894-412c-ad29-6787e4a9f9ec,10/12/2027 12:00:00,IPCA Inflation,LOW,BRL
+a02c3fce-1332-445a-85d4-ac775a9ffb17,10/25/2027 11:30:00,Current Account,LOW,BRL
+b3b5e3fc-bc5e-4720-aa03-3b675ddbc884,10/27/2027 21:00:00,Interest Rate Decision,LOW,BRL
+5e16fc58-fc8c-41b2-81b3-2e56698f9ef7,10/28/2027 11:00:00,Inflation Index/IGP-M,LOW,BRL
+043f0e0e-69e2-4740-9e42-fd41332b48dd,10/28/2027 12:00:00,Mid-month Inflation,LOW,BRL
+fbf2e612-fed9-461e-9fe6-3912a460ffb3,10/29/2027 11:30:00,Nominal Budget Balance,LOW,BRL
+12e1ed30-3143-4a18-9fdc-25b85eaef777,10/29/2027 11:30:00,Primary Budget Surplus,LOW,BRL
+6fa5aa6c-aca0-402c-ba32-aae8403d9765,10/29/2027 12:00:00,Unemployment Rate,LOW,BRL
+82da8172-23d8-489c-9796-2d14225417ee,11/01/2027 13:00:00,S&P Global Manufacturing PMI,LOW,BRL
+cf8834dd-bf94-4fe9-86ca-25abd90ec2d3,11/04/2027 08:00:00,Fipe's IPC Inflation,LOW,BRL
+65e96880-e302-46d1-a8a5-d7b1b68bab0f,11/04/2027 12:00:00,Industrial Output (MoM),LOW,BRL
+66f700d8-baf2-4526-b64f-2b99f29fab97,11/04/2027 12:00:00,Industrial Output (YoY),LOW,BRL
+308c1915-871c-4daa-8922-47d51e4018f2,11/11/2027 12:00:00,IPCA Inflation,LOW,BRL
+d8f0f3c4-f573-4876-8f38-0c279040b140,11/11/2027 12:00:00,Retail Sales (MoM),LOW,BRL
+5818c3e5-add4-4d44-87ee-6faa07aea06c,11/26/2027 11:00:00,Inflation Index/IGP-M,LOW,BRL
+6568b0b4-dc8f-4847-89e2-15b87f827d48,11/26/2027 11:30:00,Current Account,LOW,BRL
+e1292c26-fd6f-48e0-9fbf-ebbc0bfec1a4,11/26/2027 12:00:00,Mid-month Inflation,LOW,BRL
+eb1cfee6-8a26-485c-933b-a6c2bbd1a983,11/30/2027 11:30:00,Nominal Budget Balance,LOW,BRL
+3c26b643-974d-45fc-8b69-33180257fa4c,11/30/2027 11:30:00,Primary Budget Surplus,LOW,BRL
+173302f8-0426-4831-899f-d0c1619666b9,11/30/2027 12:00:00,Unemployment Rate,LOW,BRL

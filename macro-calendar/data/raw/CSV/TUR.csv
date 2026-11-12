@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-9eeb273e-e278-4248-ac01-683dd4f7342e,11/10/2026 07:00:00,Industrial Production (YoY),LOW,TRY
 59890735-761c-4182-85c9-930130bba01d,11/12/2026 11:00:00,CBRT Quarterly Inflation Report,LOW,TRY
 e1dab8e7-3b5e-4717-9042-39c4e4218724,11/13/2026 07:00:00,Current Account Balance,LOW,TRY
 67f9b5b0-ce61-4a1f-b22d-d5953e023984,11/16/2026 08:00:00,Budget Balance,LOW,TRY
@@ -57,6 +56,7 @@ d560b7a0-d5dd-494a-b17e-69554a4a6193,02/12/2027 07:00:00,Current Account Balance
 77593c6a-2630-464e-85db-67a20e6298a8,02/22/2027 08:00:00,Foreign Arrivals,LOW,TRY
 11f22027-503b-49de-b4a1-56e69c424896,02/26/2027 07:00:00,Economic Confidence Index,LOW,TRY
 74eda1ed-1b34-400e-85e1-9ec4ec0a6a50,02/26/2027 07:00:00,Trade Balance,LOW,TRY
+0ec54dd5-8ed1-402a-8969-155f10a5943f,02/26/2027 07:00:00,Unemployment Rate,LOW,TRY
 d879466d-551a-4f0d-8459-a6d70cfe5081,03/01/2027 07:00:00,Quarterly Gross Domestic Product,LOW,TRY
 1e6c8fbe-4f40-4780-8ecf-34a69d7149af,03/04/2027 07:00:00,Exports,LOW,TRY
 b7772c33-02ff-49be-b83b-cf07b3615cac,03/05/2027 07:00:00,Consumer Price Index (MoM),LOW,TRY
@@ -64,12 +64,12 @@ b7772c33-02ff-49be-b83b-cf07b3615cac,03/05/2027 07:00:00,Consumer Price Index (M
 99995372-e065-4e59-b3c6-72dfe61ccadf,03/05/2027 14:30:00,Treasury Cash Balance,LOW,TRY
 de00a779-d968-424f-a015-d5597834a10f,03/10/2027 07:00:00,Industrial Production (YoY),LOW,TRY
 ca834e12-3c8e-4f4a-9679-de217f04e91f,03/12/2027 07:00:00,Current Account Balance,LOW,TRY
-d0feff7c-3deb-405a-973a-91d4e4c9225b,03/18/2027 11:00:00,CBRT Quarterly Inflation Report,LOW,TRY
 d48000d9-bc80-48b1-ab02-3ef9c999ea20,03/19/2027 07:00:00,Capacity Utilization,LOW,TRY
 b3f6c3c5-9108-48fd-9d5e-866af938eea6,03/19/2027 07:00:00,Manufacturing Confidence,LOW,TRY
 0aeddd9e-48a6-464d-a993-a99c5399d985,03/22/2027 08:00:00,Foreign Arrivals,LOW,TRY
 95b6f8bf-6775-4f67-a350-330a1810826c,03/30/2027 07:00:00,Economic Confidence Index,LOW,TRY
 a163239d-ae56-46d9-af91-9d08a1983fa9,03/30/2027 07:00:00,Trade Balance,LOW,TRY
+5c2437a3-3446-4a3b-9aa2-7f430d8a914b,03/31/2027 07:00:00,Unemployment Rate,LOW,TRY
 b38d7fa3-f1bc-4cde-b811-28010ff87f71,04/02/2027 07:00:00,Exports,LOW,TRY
 ae91fa81-1d4c-476a-bc74-7dea45ee4d84,04/05/2027 07:00:00,Consumer Price Index (MoM),LOW,TRY
 5083631c-9182-412e-9d0e-c64ab8c588c7,04/05/2027 07:00:00,Consumer Price Index (YoY),MEDIUM,TRY
@@ -78,9 +78,9 @@ ae91fa81-1d4c-476a-bc74-7dea45ee4d84,04/05/2027 07:00:00,Consumer Price Index (M
 f44a90f9-05bd-49f4-a0fa-a05edbce58cf,04/13/2027 07:00:00,Current Account Balance,LOW,TRY
 f07ebf2a-52ad-4725-b403-8e2c91fdce66,04/22/2027 07:00:00,Capacity Utilization,LOW,TRY
 6cc2aeb0-c324-484e-9a00-d9552fbea6dd,04/22/2027 07:00:00,Manufacturing Confidence,LOW,TRY
-b03b34b3-5ddc-42dd-a303-0dc973f07993,04/22/2027 11:00:00,CBRT Quarterly Inflation Report,LOW,TRY
 82f1d150-e0ba-471f-bbea-45776d9c6479,04/28/2027 07:00:00,Trade Balance,LOW,TRY
 dd32303f-e26b-4d03-8f07-5dfc058b3b73,04/29/2027 07:00:00,Economic Confidence Index,LOW,TRY
+7593e03a-6213-4792-9291-eb8a1bf410ff,04/30/2027 07:00:00,Unemployment Rate,LOW,TRY
 b3154107-1653-4c51-9a4f-99a1b8599fa9,04/30/2027 08:00:00,Foreign Arrivals,LOW,TRY
 93c01655-089f-4d98-b7da-9b6b8a99fe89,05/03/2027 07:00:00,Consumer Price Index (MoM),LOW,TRY
 29884462-013b-4d58-b551-bb677a952d5b,05/03/2027 07:00:00,Consumer Price Index (YoY),MEDIUM,TRY
@@ -88,24 +88,26 @@ b3154107-1653-4c51-9a4f-99a1b8599fa9,04/30/2027 08:00:00,Foreign Arrivals,LOW,TR
 8f94b778-fd49-4509-99b1-500b0b326031,05/06/2027 14:30:00,Treasury Cash Balance,LOW,TRY
 ac5baa5f-6547-4b1a-9501-99baf1348bda,05/10/2027 07:00:00,Industrial Production (YoY),LOW,TRY
 d951baef-3854-469a-992d-4497cab34c8a,05/13/2027 07:00:00,Current Account Balance,LOW,TRY
+d0feff7c-3deb-405a-973a-91d4e4c9225b,05/13/2027 11:00:00,CBRT Quarterly Inflation Report,LOW,TRY
 a250b404-acdf-47d7-bb05-2b505bad28a9,05/21/2027 07:00:00,Capacity Utilization,LOW,TRY
 07a40b1e-2db1-461b-916e-b1cb1f786e7d,05/21/2027 07:00:00,Manufacturing Confidence,LOW,TRY
 de6044be-ec70-427b-b35b-90b12de5e3e1,05/28/2027 07:00:00,Economic Confidence Index,LOW,TRY
 8e8dd4d8-cedc-48a6-be89-ab0330250993,05/31/2027 07:00:00,Quarterly Gross Domestic Product,LOW,TRY
 dd6e7957-010c-4a0b-a30b-46de9f453807,05/31/2027 07:00:00,Trade Balance,LOW,TRY
+7618643e-f979-4f9d-b772-c321a7429a50,05/31/2027 07:00:00,Unemployment Rate,LOW,TRY
 3ed88242-3e1c-4e5f-bb86-ade432dc2346,05/31/2027 08:00:00,Foreign Arrivals,LOW,TRY
 a582e461-4f1e-42c6-848e-b4496831b167,06/03/2027 07:00:00,Exports,LOW,TRY
 1b30ff4b-efbf-4630-b887-35e15eb97da3,06/04/2027 07:00:00,Consumer Price Index (MoM),LOW,TRY
 2d178382-4618-4a43-a952-64e201e9b210,06/04/2027 07:00:00,Consumer Price Index (YoY),MEDIUM,TRY
 d57c181c-d4d9-4cf0-b3c3-609213b1cfce,06/08/2027 14:30:00,Treasury Cash Balance,LOW,TRY
 7cf2003e-16cd-439b-8c26-394e380a308a,06/10/2027 07:00:00,Industrial Production (YoY),LOW,TRY
-6a149f81-96dc-478c-8468-315285e7b682,06/10/2027 11:00:00,CBRT Quarterly Inflation Report,LOW,TRY
 bcabb9d6-8ab5-435d-ac3f-1497d57d10c4,06/11/2027 07:00:00,Current Account Balance,LOW,TRY
 11faf43a-ee4e-47a1-a608-9c74030aec2f,06/21/2027 08:00:00,Foreign Arrivals,LOW,TRY
 417c1f4a-ca48-4ed3-a6c3-a0f310f7c5a5,06/24/2027 07:00:00,Capacity Utilization,LOW,TRY
 25ce8bf6-deff-4ce2-96f6-c69d2b55b7ca,06/24/2027 07:00:00,Manufacturing Confidence,LOW,TRY
 3330fba7-12e8-456b-adbf-3e9fa7cba48a,06/30/2027 07:00:00,Economic Confidence Index,LOW,TRY
 4f34fbc0-f154-4492-97ad-169d5000b193,06/30/2027 07:00:00,Trade Balance,LOW,TRY
+7b94def0-f9cd-4488-afed-7a0ede461930,06/30/2027 07:00:00,Unemployment Rate,LOW,TRY
 37dd7aa7-80fd-49d1-8540-aa675d9015d2,07/02/2027 07:00:00,Exports,LOW,TRY
 a9799420-05d7-49f3-ab58-edea5065e593,07/05/2027 07:00:00,Consumer Price Index (MoM),LOW,TRY
 33cca015-194f-4365-be2e-9490045fbdf5,07/05/2027 07:00:00,Consumer Price Index (YoY),MEDIUM,TRY
@@ -116,12 +118,14 @@ b6066d15-dde0-4a5b-9b57-e742842ebe63,07/21/2027 07:00:00,Capacity Utilization,LO
 094e2721-379a-4f09-9e12-60463f30e9b9,07/21/2027 07:00:00,Manufacturing Confidence,LOW,TRY
 dca8dcc2-66d2-4005-a1cf-456c5a59d404,07/29/2027 07:00:00,Economic Confidence Index,LOW,TRY
 2276c4a7-2088-42f4-a81a-4c1068dc4ab4,07/29/2027 07:00:00,Trade Balance,LOW,TRY
+429aa531-5023-4125-8c90-3dc8d8c8915c,07/30/2027 07:00:00,Unemployment Rate,LOW,TRY
 805951f3-46a6-413c-8e70-f31d26ee98b0,07/30/2027 08:00:00,Foreign Arrivals,LOW,TRY
 c9e94dcc-e079-483f-aa15-84826a778481,08/03/2027 07:00:00,Consumer Price Index (MoM),LOW,TRY
 4992243d-f030-4701-ad34-0e3428c7cda6,08/03/2027 07:00:00,Consumer Price Index (YoY),MEDIUM,TRY
 68fa481b-c13a-4ace-b97a-eb2b239a82ee,08/03/2027 07:00:00,Exports,LOW,TRY
 574024e5-7c15-4a9f-8edf-2d1fa03c9ee5,08/06/2027 14:30:00,Treasury Cash Balance,LOW,TRY
 4b628983-d6e3-4269-b754-a52ddf5daddb,08/12/2027 07:00:00,Industrial Production (YoY),LOW,TRY
+b03b34b3-5ddc-42dd-a303-0dc973f07993,08/12/2027 11:00:00,CBRT Quarterly Inflation Report,LOW,TRY
 8274dc04-6c67-42f2-ba36-1e3771aa0ca2,08/13/2027 07:00:00,Current Account Balance,LOW,TRY
 a6485227-c0e6-4b9e-828e-f3b54e314a12,08/20/2027 07:00:00,Capacity Utilization,LOW,TRY
 d7411594-90e8-41c7-8b00-bedafff09511,08/20/2027 07:00:00,Manufacturing Confidence,LOW,TRY
@@ -129,6 +133,7 @@ b4cbe6d8-1cf3-445e-a5e0-c1a4be0ffc4a,08/23/2027 08:00:00,Foreign Arrivals,LOW,TR
 75d08e58-e1ce-44ab-910d-87a3467f2dad,08/30/2027 07:00:00,Economic Confidence Index,LOW,TRY
 5860930c-8c49-40cb-b60e-2348fa6345cc,08/30/2027 07:00:00,Trade Balance,LOW,TRY
 74a424f7-91ff-4535-b898-8213ffa584c9,08/31/2027 07:00:00,Quarterly Gross Domestic Product,LOW,TRY
+43f0f8f3-d492-4ddd-baf8-bc4c1220b524,08/31/2027 07:00:00,Unemployment Rate,LOW,TRY
 60f2c391-074f-4250-a9d2-6e02063d72bf,09/03/2027 07:00:00,Consumer Price Index (MoM),LOW,TRY
 22834483-aa7f-47d0-8482-a7ab290e315a,09/03/2027 07:00:00,Consumer Price Index (YoY),MEDIUM,TRY
 e74a48c2-6a50-449e-9d72-af06d4873def,09/03/2027 07:00:00,Exports,LOW,TRY
@@ -139,6 +144,7 @@ fb51cad5-f293-48e5-9f96-3ea817d40181,09/13/2027 07:00:00,Current Account Balance
 4c51344b-717e-4f32-be71-d7ca278d805d,09/21/2027 07:00:00,Manufacturing Confidence,LOW,TRY
 0cd63775-cea7-40ea-a1da-45acde0a3fdd,09/30/2027 07:00:00,Economic Confidence Index,LOW,TRY
 591bcc26-a7f4-4287-b6ba-c8ddb09e6cf1,09/30/2027 07:00:00,Trade Balance,LOW,TRY
+4d584352-b0cb-4f4b-8ac4-ee26a314238b,09/30/2027 07:00:00,Unemployment Rate,LOW,TRY
 fd4be196-491a-4176-9ba6-bd44c10b539e,09/30/2027 08:00:00,Foreign Arrivals,LOW,TRY
 d45e98f9-540c-4c62-9e2a-e0afe7e580cc,10/04/2027 07:00:00,Consumer Price Index (MoM),LOW,TRY
 dc9b758e-cdff-49d5-8d38-350de9fb4844,10/04/2027 07:00:00,Consumer Price Index (YoY),MEDIUM,TRY
@@ -151,10 +157,12 @@ f3bc7356-50ab-4399-8f32-0ecb9490bb96,10/13/2027 07:00:00,Current Account Balance
 0c526387-80d1-44f0-98c1-f07acd56bf1d,10/25/2027 08:00:00,Foreign Arrivals,LOW,TRY
 3b35cab7-9259-4ced-8c6e-685943a87f4c,10/28/2027 07:00:00,Economic Confidence Index,LOW,TRY
 35b3a261-c80e-4ecd-b8da-10d13870bcbc,10/28/2027 07:00:00,Trade Balance,LOW,TRY
+be90c47d-2076-49e3-b092-0f31fb66a758,10/29/2027 07:00:00,Unemployment Rate,LOW,TRY
 6bcc5fb7-d989-401e-8169-92c6a0ca9bbc,11/03/2027 07:00:00,Consumer Price Index (MoM),LOW,TRY
 81771013-5fd1-45d4-9a05-a25082c31dbc,11/03/2027 07:00:00,Consumer Price Index (YoY),MEDIUM,TRY
 6f5a660e-76c5-4bf7-8f89-9c279229d489,11/04/2027 07:00:00,Exports,LOW,TRY
 35169d50-e5ae-490b-8636-6cc37f955e64,11/05/2027 14:30:00,Treasury Cash Balance,LOW,TRY
+6a149f81-96dc-478c-8468-315285e7b682,11/11/2027 11:00:00,CBRT Quarterly Inflation Report,LOW,TRY
 7e44e0be-69e3-4497-bf18-100f9f0eb005,11/12/2027 07:00:00,Current Account Balance,LOW,TRY
 6dfe2929-dfb6-4ef9-b681-a93f0cca0104,11/12/2027 07:00:00,Industrial Production (YoY),LOW,TRY
 1b5808ca-6845-4584-9218-c91842cf7d8f,11/22/2027 07:00:00,Capacity Utilization,LOW,TRY
@@ -162,4 +170,5 @@ d8e40c01-5a55-4465-97c1-138caf627501,11/22/2027 07:00:00,Manufacturing Confidenc
 59d781c2-1642-4cee-b321-45fc6b49ddf4,11/29/2027 07:00:00,Economic Confidence Index,LOW,TRY
 b7d0f95c-2894-413d-8f78-475eb8e131cf,11/30/2027 07:00:00,Quarterly Gross Domestic Product,LOW,TRY
 85780d0b-4886-4cb0-adff-4131493b744d,11/30/2027 07:00:00,Trade Balance,LOW,TRY
+7957379d-e2c6-4883-a6ec-4380e965f5c7,11/30/2027 07:00:00,Unemployment Rate,LOW,TRY
 0097fff7-0811-457d-8028-dbc2e0a63a93,11/30/2027 08:00:00,Foreign Arrivals,LOW,TRY
