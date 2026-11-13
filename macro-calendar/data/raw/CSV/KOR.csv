@@ -1,6 +1,4 @@
 Id,Start,Name,Impact,Currency
-966d201e-183a-459a-b387-678556fbfbd9,11/12/2026 21:00:00,Export Price Growth (YoY),LOW,KRW
-c3ba7129-e762-4727-bafc-48c96fff09a7,11/12/2026 21:00:00,Import Price Growth (YoY),LOW,KRW
 2e217763-8301-4e32-997a-1437190a82c9,11/15/2026 23:55:00,Trade Balance,LOW,KRW
 a8f92528-eebc-41ab-804d-39c1b9748696,11/16/2026 03:00:00,Money Supply Growth,LOW,KRW
 15c62517-a177-4d30-841c-d1d8ef438ea2,11/19/2026 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
@@ -15,7 +13,7 @@ da13dcd0-3bb2-42e0-87a5-644a69ccb7f1,12/01/2026 00:00:00,Trade Balance,LOW,KRW
 ff6fe553-f8ca-4843-a7ba-f3bce516c146,12/01/2026 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
 d3691977-e60b-40b9-923a-aed4b1998874,12/01/2026 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
 aabad44f-5571-4320-a148-a5d2e5432f08,12/01/2026 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
-e85a4be4-8b1b-43d9-b07b-e87c01d9245b,12/02/2026 21:00:00,FX Reserves,LOW,KRW
+e85a4be4-8b1b-43d9-b07b-e87c01d9245b,12/03/2026 21:00:00,FX Reserves,LOW,KRW
 ad8d8680-401a-4f7f-a933-8af297958559,12/07/2026 23:00:00,Current Account Balance,LOW,KRW
 bf33e13c-eb58-440b-8cb0-2f0e2b96d10f,12/08/2026 23:00:00,"Gross Domestic Product Growth (QoQ) ",MEDIUM,KRW
 92eff390-d78f-4581-9812-3e6a5aaa13b9,12/08/2026 23:00:00,Gross Domestic Product Growth (YoY),LOW,KRW
@@ -53,61 +51,201 @@ caaabc7d-137e-4ac8-bca6-b86d9342cb09,01/21/2027 21:00:00,Producer Price Index Gr
 f4b2a93a-43c3-47c9-9897-aa697c490f56,01/28/2027 23:00:00,Industrial Output (YoY),LOW,KRW
 c6ed15bf-adc4-443f-9edb-8fd1ac9442ca,01/28/2027 23:00:00,Industrial Output Growth,LOW,KRW
 510554fe-6515-4274-bc07-2d9a5f2c2fa6,01/28/2027 23:00:00,Service Sector Output,LOW,KRW
+a040d732-dfdb-49e3-a722-596664677de3,02/01/2027 00:00:00,Trade Balance,LOW,KRW
+5108b697-5c39-454d-8be4-4fb022bfdb51,02/01/2027 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
+84e813e9-433a-4b8d-b0e8-008497e7e8fb,02/02/2027 21:00:00,FX Reserves,LOW,KRW
 18bc3524-d841-4812-af95-b707492b02ca,02/02/2027 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
 bd9d47af-6fb1-4f70-a50f-80b0c64b3da4,02/02/2027 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
 4273432e-a374-4fa6-a959-9cc19cc0a2af,02/04/2027 23:00:00,Current Account Balance,LOW,KRW
+bc4cffb0-cd97-4042-8da1-9814dab77d9d,02/14/2027 23:00:00,Unemployment Rate,LOW,KRW
+ce033e79-edd1-4ff3-a813-a7ac5c02e3b4,02/14/2027 23:55:00,Trade Balance,LOW,KRW
+83b74b9e-7fff-47e8-bc34-87974363a01b,02/15/2027 03:00:00,Money Supply Growth,LOW,KRW
+f2f6f09b-6c47-447d-aea6-dc566eb1d67f,02/15/2027 21:00:00,Export Price Growth (YoY),LOW,KRW
+051d9c96-fac7-49f4-a92c-abed8fecb4a0,02/15/2027 21:00:00,Import Price Growth (YoY),LOW,KRW
+b4a2aa13-4d22-49dc-b498-fcdb20984f76,02/17/2027 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
+207389cf-4e71-442f-aa45-1cf2846a0497,02/17/2027 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
 94f7f45e-0814-47d6-abf4-c325ff425930,02/24/2027 21:00:00,BOK Manufacturing BSI,LOW,KRW
 bd529c6f-b8a5-4fc7-8a36-3e8acde8795e,02/24/2027 21:00:00,Consumer Sentiment Index,LOW,KRW
 9da26d05-3eb4-47d9-bf5b-13c2962b9145,02/25/2027 01:00:00,BoK Interest Rate Decision,MEDIUM,KRW
+351a01e0-e540-4daa-a7fb-92fff317c0af,03/01/2027 00:00:00,Trade Balance,LOW,KRW
+e0eed222-a424-44a1-89ab-f15a94bedf3f,03/01/2027 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
 8792726b-227e-4efb-a664-b483e58b6d3c,03/01/2027 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
 094d7e84-4306-4e79-a053-dc67cc0a267c,03/01/2027 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
+faa01eed-3d4d-4d84-b849-09274d9742be,03/02/2027 23:00:00,Industrial Output (YoY),LOW,KRW
+1da60241-6c79-41e1-984c-6fcb51d39491,03/02/2027 23:00:00,Industrial Output Growth,LOW,KRW
+1e784c68-6b6b-4ef1-80b2-f1d3fc3b1651,03/02/2027 23:00:00,Service Sector Output,LOW,KRW
+22e70dac-1b89-484a-89f2-f3e9ee4c8428,03/03/2027 21:00:00,FX Reserves,LOW,KRW
 70efbcd8-937e-4dd2-acd2-c6603a10808c,03/03/2027 23:00:00,"Gross Domestic Product Growth (QoQ) ",MEDIUM,KRW
 8e9651db-a530-4cf5-b051-7c8be1d127b7,03/03/2027 23:00:00,Gross Domestic Product Growth (YoY),LOW,KRW
 299e878c-2f8c-457f-845f-f7f44092e1e6,03/04/2027 23:00:00,Current Account Balance,LOW,KRW
+f2171bff-855e-4c81-b640-d43f50e213c6,03/11/2027 23:00:00,Unemployment Rate,LOW,KRW
+7dae14f9-1298-44ec-9012-3bd042ebfed3,03/14/2027 23:55:00,Trade Balance,LOW,KRW
+6bc50aec-cab0-4515-a446-29210bb7e9c5,03/15/2027 03:00:00,Money Supply Growth,LOW,KRW
+e912b87e-4eb0-40b1-bb95-bee0ee5e80a1,03/15/2027 21:00:00,Export Price Growth (YoY),LOW,KRW
+21a79d75-9a7f-4140-ad4a-3e5ba23163f0,03/15/2027 21:00:00,Import Price Growth (YoY),LOW,KRW
+1443a856-2e31-4faa-97ae-b3cb993e6968,03/17/2027 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
+321ad9f2-b19a-42f7-9f03-c944919127fb,03/17/2027 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
 cf8ebb21-b815-4dbf-b029-6c255b393581,03/24/2027 21:00:00,Consumer Sentiment Index,LOW,KRW
 cbe7f40b-0e52-419e-ac71-15dd4da8033a,03/25/2027 21:00:00,BOK Manufacturing BSI,LOW,KRW
+473c16d2-e2d5-4c66-86b1-0be70f480894,03/30/2027 23:00:00,Industrial Output (YoY),LOW,KRW
+c4063c43-e810-4667-90ae-33a0f19f0738,03/30/2027 23:00:00,Industrial Output Growth,LOW,KRW
+131a7291-cd2b-4eae-bd1a-b81b7096b28a,03/30/2027 23:00:00,Service Sector Output,LOW,KRW
+38a26150-3977-47de-98bf-9fbc2c04f7c7,04/01/2027 00:00:00,Trade Balance,LOW,KRW
+574a64e0-2006-4bd5-8857-94b60569d500,04/01/2027 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
 b11feade-35b3-4aa9-80a9-16f77328891a,04/01/2027 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
 b15d53e3-9948-4417-837b-8f4825d317a9,04/01/2027 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
+5f5b53f0-ec9a-455a-a553-b73cafac66cd,04/06/2027 21:00:00,FX Reserves,LOW,KRW
 de0905ae-703c-4bee-9439-1efafe230806,04/07/2027 23:00:00,Current Account Balance,LOW,KRW
 f41b5b22-1be4-439b-a7cd-3033815a4cee,04/09/2027 01:00:00,BoK Interest Rate Decision,MEDIUM,KRW
+5260dca1-bc7d-4988-8451-c18fb67bbddf,04/13/2027 21:00:00,Export Price Growth (YoY),LOW,KRW
+b7794cd9-8489-4c70-832c-700bbe98aee1,04/13/2027 21:00:00,Import Price Growth (YoY),LOW,KRW
+1642af37-3b6e-4f61-b811-cc74b2978a95,04/14/2027 03:00:00,Money Supply Growth,LOW,KRW
+f88f95e9-161c-4a59-a18d-762570c27664,04/14/2027 23:00:00,Unemployment Rate,LOW,KRW
+1de9c86f-54c7-4a6e-862e-be4afa948195,04/14/2027 23:55:00,Trade Balance,LOW,KRW
+5edca178-2fd6-4030-9979-9462c2644a27,04/20/2027 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
+cc85663a-40a1-4cfc-a507-17a2a8b3f759,04/20/2027 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
 70a88304-427e-44c6-9e5e-4b0e1bda6f0e,04/22/2027 21:00:00,Consumer Sentiment Index,LOW,KRW
+15ba48d6-b26b-475f-84a2-842c90e924b9,04/22/2027 23:00:00,"Gross Domestic Product Growth (QoQ) ",MEDIUM,KRW
+d4855ff2-4ed6-4c0a-9544-daa971935116,04/22/2027 23:00:00,Gross Domestic Product Growth (YoY),LOW,KRW
 29b91240-ef26-4fb9-a0d5-f8104ab78472,04/28/2027 21:00:00,BOK Manufacturing BSI,LOW,KRW
+a5092ae3-9cbb-4f3e-9473-7c1a04611eba,04/29/2027 23:00:00,Industrial Output (YoY),LOW,KRW
+f5302657-f136-457b-9f10-7e123b89cead,04/29/2027 23:00:00,Industrial Output Growth,LOW,KRW
+182fa7b1-d1e6-48c5-99c3-1445fcccb05a,04/29/2027 23:00:00,Service Sector Output,LOW,KRW
+5e21856f-bc34-4504-9a03-8ba709654037,05/01/2027 00:00:00,Trade Balance,LOW,KRW
+674e4d87-f8ca-4c1e-8e70-b072f3c38748,05/03/2027 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
+6bd5151f-c716-4a98-b8fd-f57518c2c924,05/04/2027 21:00:00,FX Reserves,LOW,KRW
 1e3570d7-097d-403b-90fd-28dd11c732b2,05/04/2027 23:00:00,Current Account Balance,LOW,KRW
 c8e340b4-d222-456d-916e-89c53d3d6f63,05/05/2027 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
 91424ac0-573f-4fbd-a364-0af2a036427a,05/05/2027 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
+080136e5-4b77-48bc-ba3d-01689716d5ab,05/11/2027 23:00:00,Unemployment Rate,LOW,KRW
+4e2ad0ee-6551-420d-b6c4-c92ebbaf0121,05/12/2027 21:00:00,Export Price Growth (YoY),LOW,KRW
+032cc899-6c70-4e08-8796-c8de3246f38f,05/12/2027 21:00:00,Import Price Growth (YoY),LOW,KRW
+f2ef1ffe-e6d3-4d91-96c3-0c1cd075b8b8,05/13/2027 03:00:00,Money Supply Growth,LOW,KRW
+f6e6bd62-ca66-4a9e-9e13-1e42203cbba9,05/15/2027 23:55:00,Trade Balance,LOW,KRW
+8897fb41-fed6-4a2a-be44-36c777d1de1b,05/19/2027 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
+060a8a9d-21b9-4eb1-8ca2-be9fc8f50823,05/19/2027 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
 25be9e8c-4d65-4d93-b6a7-2e96349fd95e,05/27/2027 01:00:00,BoK Interest Rate Decision,MEDIUM,KRW
 4da01120-81fa-4ddb-bbf2-3d3efa083a4e,05/27/2027 21:00:00,BOK Manufacturing BSI,LOW,KRW
 141cca01-6f76-4db0-9bf1-d7b5db4717d5,05/27/2027 21:00:00,Consumer Sentiment Index,LOW,KRW
+b2dc2d0d-8caf-452a-b690-798dabaa5d78,05/31/2027 23:00:00,Industrial Output (YoY),LOW,KRW
+9e294314-0951-464a-a178-3700febf56e3,05/31/2027 23:00:00,Industrial Output Growth,LOW,KRW
+029f529e-6b75-4a2f-bc5c-dfe22a629015,05/31/2027 23:00:00,Service Sector Output,LOW,KRW
+b86c7b6d-a008-4507-9b9a-376ef1dcdf91,06/01/2027 00:00:00,Trade Balance,LOW,KRW
+0bee462c-81a2-45e2-a5e1-86bfcabbd30a,06/01/2027 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
 3e8b1c4d-695b-417a-aae0-086e5e999ec3,06/01/2027 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
 363867d0-c53a-4e4a-ba4a-3bb9fde7a24b,06/01/2027 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
+32429a27-2787-4cd3-b28a-8a4564e44072,06/03/2027 21:00:00,FX Reserves,LOW,KRW
 6694befb-793e-442f-82bd-e6b44070d328,06/07/2027 23:00:00,Current Account Balance,LOW,KRW
+a4a4b63e-153b-45c9-9749-77061c23ebdc,06/07/2027 23:00:00,"Gross Domestic Product Growth (QoQ) ",MEDIUM,KRW
+35bf72df-8fcb-4bd7-a8a0-bc6125f979a7,06/07/2027 23:00:00,Gross Domestic Product Growth (YoY),LOW,KRW
+ac69b2a2-f473-4886-8a12-b188e663cd67,06/14/2027 21:00:00,Export Price Growth (YoY),LOW,KRW
+2a6cda3a-9f4b-4fe5-bfca-3a47bd7879c6,06/14/2027 21:00:00,Import Price Growth (YoY),LOW,KRW
+09d0bd2d-70b9-473a-988f-d3e81c4ee4d6,06/14/2027 23:00:00,Unemployment Rate,LOW,KRW
+63e198dd-5cbf-4cdf-a428-78ead26cdc78,06/14/2027 23:55:00,Trade Balance,LOW,KRW
+07d9bfdb-fb72-496d-bd82-7c84c5263220,06/15/2027 03:00:00,Money Supply Growth,LOW,KRW
+6b4b51e6-8371-4650-8708-1e14c1c75345,06/21/2027 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
+353a8629-22cd-4dc8-8ac6-f2a74543f5ea,06/21/2027 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
 2def4998-477e-4835-b5b5-deb7e8cdba0f,06/24/2027 21:00:00,Consumer Sentiment Index,LOW,KRW
 af24fe79-a102-49ff-953f-f204e00ad7b6,06/29/2027 21:00:00,BOK Manufacturing BSI,LOW,KRW
+1b4440a9-bfd7-4285-9547-57356b18f83c,06/30/2027 23:00:00,Industrial Output (YoY),LOW,KRW
+d2aee1e9-982e-4729-8061-7a4c880fc932,06/30/2027 23:00:00,Industrial Output Growth,LOW,KRW
+9cfa7712-0054-448a-880c-bc6d1beef7d1,06/30/2027 23:00:00,Service Sector Output,LOW,KRW
+89d7702e-9e8e-4f89-aa41-6a5c5cc0b392,07/01/2027 00:00:00,Trade Balance,LOW,KRW
+08e127f1-3491-4f34-876e-c09baad1476d,07/01/2027 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
 6178c0ee-3c24-490d-a58f-c0333a54de92,07/01/2027 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
 3ff8b8c2-b63f-419d-9aa3-71c7cbe7f37a,07/01/2027 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
+d6b3ccc0-2cad-4e9a-9cc3-e840d104bb62,07/05/2027 21:00:00,FX Reserves,LOW,KRW
 98681016-4f51-4329-888a-74da25523c24,07/06/2027 23:00:00,Current Account Balance,LOW,KRW
+062bab26-487f-44c0-a7c0-7209f52e59d9,07/12/2027 23:00:00,Unemployment Rate,LOW,KRW
+38950719-b63b-4716-953e-e931231fd06f,07/14/2027 21:00:00,Export Price Growth (YoY),LOW,KRW
+1eb19b86-d152-40a1-a8d2-4f3ac6b0e77c,07/14/2027 21:00:00,Import Price Growth (YoY),LOW,KRW
+25f7d030-0c54-4f6a-917a-d31c3597224b,07/14/2027 23:55:00,Trade Balance,LOW,KRW
 58262e38-af16-4c69-afca-1f72b29f2dea,07/15/2027 01:00:00,BoK Interest Rate Decision,MEDIUM,KRW
+47149894-4588-4340-bb4f-5ce734931fde,07/15/2027 03:00:00,Money Supply Growth,LOW,KRW
+49a791c1-25dc-4b2c-8a44-883a609b5659,07/21/2027 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
+57ca52d7-df77-41a2-bdda-7e26b72ea798,07/21/2027 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
+d2330452-e2b1-4b65-b626-c7136354a915,07/22/2027 23:00:00,"Gross Domestic Product Growth (QoQ) ",MEDIUM,KRW
+ff852502-da36-4edb-aa5a-2a99d113ab5c,07/22/2027 23:00:00,Gross Domestic Product Growth (YoY),LOW,KRW
 48258394-35df-4a81-92fb-ae182dd8e751,07/27/2027 21:00:00,Consumer Sentiment Index,LOW,KRW
 5bd5d4ed-806c-4897-9394-85dc2c750cd6,07/29/2027 21:00:00,BOK Manufacturing BSI,LOW,KRW
+c58138a6-caf8-48c5-9565-5be33c1caceb,07/29/2027 23:00:00,Industrial Output (YoY),LOW,KRW
+f47d153e-92ae-4d73-bcd9-c70f76f6be90,07/29/2027 23:00:00,Industrial Output Growth,LOW,KRW
+30c9f8b3-805f-4300-b1c3-0d95a6b43632,07/29/2027 23:00:00,Service Sector Output,LOW,KRW
+3aecd96f-48fb-4e16-8cb7-45185ea6353f,08/01/2027 00:00:00,Trade Balance,LOW,KRW
+164fb4c0-afc7-481d-b221-bef8d17fb60e,08/02/2027 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
 947951e1-dfe3-4bf9-b7f3-3aeaca827652,08/03/2027 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
 3ca5fb52-5e08-4d85-bbb0-87f797e43b6f,08/03/2027 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
+3e628d50-d98a-4183-b067-30810a3763eb,08/04/2027 21:00:00,FX Reserves,LOW,KRW
 f292c35a-23e7-483c-aed5-6b4cf235e092,08/04/2027 23:00:00,Current Account Balance,LOW,KRW
+34407538-1732-4fa9-b3e5-91e885ec6bec,08/11/2027 23:00:00,Unemployment Rate,LOW,KRW
+9a03fccc-7ec6-4ac4-9cd3-cb1690d27c85,08/12/2027 21:00:00,Export Price Growth (YoY),LOW,KRW
+090b6e57-73c4-424b-a063-1243d4704691,08/12/2027 21:00:00,Import Price Growth (YoY),LOW,KRW
+8eeb7709-76c6-48ef-bbf7-154f942e90ca,08/15/2027 23:55:00,Trade Balance,LOW,KRW
+cc04c40a-dc9c-4068-b147-2842a4c8ba9c,08/16/2027 03:00:00,Money Supply Growth,LOW,KRW
+a7de4d0d-65eb-4ac0-9368-9e6b95f2e173,08/19/2027 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
+004b3442-7050-4dc5-96a4-543ea122278d,08/19/2027 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
 8964b06f-9026-40ff-bee6-b2346264352d,08/24/2027 21:00:00,Consumer Sentiment Index,LOW,KRW
 b53b812d-7894-4751-b6c6-5d3924ad4544,08/26/2027 01:00:00,BoK Interest Rate Decision,MEDIUM,KRW
 13fd951f-da98-46a1-89b7-bdc163a4a420,08/26/2027 21:00:00,BOK Manufacturing BSI,LOW,KRW
+25ac7fdc-4e57-4066-b33a-ea4bbe0e1e3c,08/30/2027 23:00:00,Industrial Output (YoY),LOW,KRW
+f041d1d7-bd9f-4cda-847f-6ed32407df8e,08/30/2027 23:00:00,Industrial Output Growth,LOW,KRW
+3571da8a-9a0d-4031-8e2a-8e9c56408f3d,08/30/2027 23:00:00,Service Sector Output,LOW,KRW
+d14d2d57-025d-4816-8d46-18c470e9ff9d,09/01/2027 00:00:00,Trade Balance,LOW,KRW
+c5d65f44-ed21-4db9-9d50-baa1a40059c7,09/01/2027 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
 7847f10c-c282-4ff3-b541-6b6f379e3518,09/01/2027 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
 f8aab338-3137-4341-b32a-dde536ae9026,09/01/2027 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
+5c395a48-5553-41f0-93eb-5109a54a99ed,09/02/2027 21:00:00,FX Reserves,LOW,KRW
 a58a56b6-fd72-418c-9e0a-e671ff8dae0a,09/07/2027 23:00:00,Current Account Balance,LOW,KRW
+ffa27b43-44f1-4a6d-bac5-49d8e2c671a7,09/08/2027 23:00:00,"Gross Domestic Product Growth (QoQ) ",MEDIUM,KRW
+ddf832de-7b35-44d6-b65b-1a78858bad3c,09/08/2027 23:00:00,Gross Domestic Product Growth (YoY),LOW,KRW
+04792f6a-85d7-4a96-a5f5-58b865c6613f,09/13/2027 21:00:00,Export Price Growth (YoY),LOW,KRW
+cb01c828-5bda-4d02-b723-268cbdfa2d60,09/13/2027 21:00:00,Import Price Growth (YoY),LOW,KRW
+5dee5665-61a9-47e4-a080-8e8ceab4695b,09/14/2027 03:00:00,Money Supply Growth,LOW,KRW
+033b82a7-4ec6-4a08-8537-c96d77a75b8e,09/14/2027 23:00:00,Unemployment Rate,LOW,KRW
+f080c54c-4b8b-4c95-b0ae-55a108c9886e,09/15/2027 23:55:00,Trade Balance,LOW,KRW
+24bc3022-3c6e-4a1b-905e-0e16b4632328,09/21/2027 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
+be047aca-6ea3-41ee-8cee-b30c2f01efb5,09/21/2027 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
 274cf095-be2d-4607-8541-0cb6e4e97bd8,09/27/2027 21:00:00,Consumer Sentiment Index,LOW,KRW
 6274c0a1-1ae5-4b85-9626-f71939c9e224,09/28/2027 21:00:00,BOK Manufacturing BSI,LOW,KRW
+4274dea1-50a7-4419-baa3-106e8f2f2ca0,09/30/2027 23:00:00,Industrial Output (YoY),LOW,KRW
+d8eeba70-4f5b-4770-927c-2b4974f3ac44,09/30/2027 23:00:00,Industrial Output Growth,LOW,KRW
+ad6dd5bb-4f01-4f68-9dbd-bd9334c3d867,09/30/2027 23:00:00,Service Sector Output,LOW,KRW
+065cc392-db8e-4e26-b07f-9096df38fd48,10/01/2027 00:00:00,Trade Balance,LOW,KRW
+25ae3aef-a94a-49b3-80d6-25bf5439bb23,10/01/2027 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
+eb85b448-6096-4e57-b7ae-963a421397a4,10/04/2027 21:00:00,FX Reserves,LOW,KRW
 cbae16e4-e2ba-4149-914c-e4339164d0f0,10/04/2027 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
 059cf4be-f597-46dc-8c2a-f7b99119831d,10/04/2027 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
 0c73f67e-2016-47b8-b8c2-f0ed8af1ccd4,10/06/2027 23:00:00,Current Account Balance,LOW,KRW
+0122a489-08d6-4fff-a66f-1b8491fa1be3,10/10/2027 23:00:00,Unemployment Rate,LOW,KRW
+9aa65e1e-43e3-477b-bbcf-f0f66bc983a2,10/14/2027 03:00:00,Money Supply Growth,LOW,KRW
+760cfd3e-1aa8-4428-90f6-7d2b64d1ff9f,10/14/2027 21:00:00,Export Price Growth (YoY),LOW,KRW
+b8dd1999-3c31-411f-83fc-69cc25a40008,10/14/2027 21:00:00,Import Price Growth (YoY),LOW,KRW
+a9e8b37d-7c8a-4a96-b5cb-5ac06d2e74db,10/14/2027 23:55:00,Trade Balance,LOW,KRW
 de352e38-6afc-4393-83b3-a9d12b1f403c,10/15/2027 01:00:00,BoK Interest Rate Decision,MEDIUM,KRW
+ab8dcab8-167f-47dc-8b03-4f0324444f6d,10/19/2027 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
+9c2ad5d1-b306-40ad-a73a-76dd06ab8d4b,10/19/2027 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
+6debfba1-e0c8-4cfe-b8ee-76d101ce6be6,10/25/2027 23:00:00,"Gross Domestic Product Growth (QoQ) ",MEDIUM,KRW
+fb9709be-a0e6-4155-b96b-dff9c80b9580,10/25/2027 23:00:00,Gross Domestic Product Growth (YoY),LOW,KRW
 ef7b48dd-374d-42e7-b4a5-8b1a6b5c8bc7,10/27/2027 21:00:00,BOK Manufacturing BSI,LOW,KRW
 10c5d1cd-665e-46dd-98e5-d7ea1b6e4378,10/27/2027 21:00:00,Consumer Sentiment Index,LOW,KRW
+2b9d2e69-50a4-4c21-89d3-027082d8a0b3,10/28/2027 23:00:00,Industrial Output (YoY),LOW,KRW
+5e9af0ad-b60a-4413-ac8d-831258c4aaf9,10/28/2027 23:00:00,Industrial Output Growth,LOW,KRW
+30e10dfd-6ceb-46f1-bb7c-2eb46a9ea335,10/28/2027 23:00:00,Service Sector Output,LOW,KRW
+47aeb349-95f3-4956-af1c-fd66755ab712,11/01/2027 00:00:00,Trade Balance,LOW,KRW
+1f9402f3-9a21-4b9e-aabf-79e47d5f492d,11/01/2027 00:30:00,S&P Global Manufacturing PMI,LOW,KRW
+eaf07821-be73-4d49-8284-e24efc3259a1,11/02/2027 21:00:00,FX Reserves,LOW,KRW
 a17a9f5a-6b89-4b3a-acd4-34a2d2bafe2c,11/02/2027 23:00:00,Consumer Price Index Growth (MoM),LOW,KRW
 aa658ede-fd26-483b-8e0b-a9dbdbaaeebd,11/02/2027 23:00:00,Consumer Price Index Growth (YoY),LOW,KRW
 dccbe3f3-9b1c-43b6-adc9-42d5c20c0d17,11/04/2027 23:00:00,Current Account Balance,LOW,KRW
+d00812c4-f7b2-4933-967a-272b999ac178,11/14/2027 23:00:00,Unemployment Rate,LOW,KRW
+41c413d6-72cf-4b8c-b2ab-1ad95d05d824,11/14/2027 23:55:00,Trade Balance,LOW,KRW
+9487aa12-9d05-4f11-8bcf-69ca95c7757e,11/15/2027 03:00:00,Money Supply Growth,LOW,KRW
+50dafef1-89d6-4278-b5d2-5c3c181a3402,11/15/2027 21:00:00,Export Price Growth (YoY),LOW,KRW
+d2d34bce-7ea4-4a11-a93c-3bcb7161485c,11/15/2027 21:00:00,Import Price Growth (YoY),LOW,KRW
+28459b7b-f5c6-4eb4-a4e8-8d11265c6ff2,11/22/2027 21:00:00,Producer Price Index Growth (MoM),LOW,KRW
+89fc7b6c-47e0-4652-9d1a-e08a97b060a4,11/22/2027 21:00:00,Producer Price Index Growth (YoY),LOW,KRW
 b42525d2-f1b3-4bdc-956d-68ef3454dbee,11/24/2027 21:00:00,Consumer Sentiment Index,LOW,KRW
 c90e6b36-5e23-474c-b57e-f3ccd25c67ec,11/25/2027 21:00:00,BOK Manufacturing BSI,LOW,KRW
+e9bcb839-920d-427e-af2d-c973c5d150af,11/30/2027 23:00:00,Industrial Output (YoY),LOW,KRW
+329897e4-f5ad-440d-91ca-665f5ec45099,11/30/2027 23:00:00,Industrial Output Growth,LOW,KRW
+ae59e6ad-504f-42f6-93cc-99dfe14482a8,11/30/2027 23:00:00,Service Sector Output,LOW,KRW

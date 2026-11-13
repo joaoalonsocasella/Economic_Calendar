@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-7a7bbf93-7920-46bb-b787-0bb60a3bad8e,11/12/2026 00:00:00,Consumer Inflation Expectations,MEDIUM,AUD,Release,0.14,Confidence
 81a241b1-00e1-4dab-bd48-a566dcdc3ff6,11/16/2026 20:30:00,CFTC AUD NC Net Positions,LOW,AUD,Release,0.09,Money and Credit
 de69cd0f-eb7f-4cb7-ac24-f33d4bcae5aa,11/17/2026 00:00:00,RBA Governor Bullock speech,MEDIUM,AUD,Speech,0.13,Monetary Policy
 995b3aa2-796e-4bc3-9da3-8936d9f1a079,11/17/2026 00:30:00,RBA Meeting Minutes,MEDIUM,AUD,Speech,0.13,Monetary Policy
@@ -33,6 +32,7 @@ f568dfd6-71e9-4908-b7f8-99b9e60cc3cd,12/01/2026 00:30:00,Building Permits (MoM),
 c1064cac-a0cb-41cb-8bb4-c2e6607a5bc8,12/01/2026 00:30:00,Building Permits (YoY),LOW,AUD,Release,0.07,Housing
 35e23a31-6e0d-44f0-bdcb-127f06fc5412,12/01/2026 00:30:00,Current Account Balance,MEDIUM,AUD,Release,0.11,Trade and External
 bddb9bd8-3631-41f9-8d74-167dfdcb5b59,12/01/2026 05:30:00,RBA Commodity Index SDR (YoY),HIGH,AUD,Release,0.19,Inflation
+9b729735-d828-4720-a61f-64bbb06b52ac,12/01/2026 08:15:00,RBA Governor Bullock speech,MEDIUM,AUD,Speech,0.13,Monetary Policy
 6579f749-0fe7-4e19-aa01-1cdd79472031,12/01/2026 22:00:00,Ai Group Construction PMI,HIGH,AUD,Release,0.17,Growth
 020afe1d-f50b-4adc-b8a0-125719d2bcbc,12/01/2026 22:00:00,Ai Group Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
 e6807620-d23d-4391-ae7d-d11c6978d792,12/01/2026 22:00:00,AiG Industry Index,HIGH,AUD,Release,0.17,Growth

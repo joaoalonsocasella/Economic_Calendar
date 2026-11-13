@@ -1,9 +1,8 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-376b6da9-aa82-42b4-bc87-36264aeb5a21,11/12/2026 10:30:00,Consumer Price Index (YoY),HIGH,INR,Release,0.19,Inflation
+28fc3fb7-ffd8-4bd9-a27c-5803a1b76a38,11/13/2026 09:15:00,Trade Deficit Government,MEDIUM,INR,Release,0.11,Trade and External
 b51c7a8e-c7f6-4f76-94fe-bac96f0dbde8,11/13/2026 11:30:00,Bank Loan Growth,LOW,INR,Release,0.09,Money and Credit
 fafc1be9-743c-4b88-8d21-85602197c2f2,11/13/2026 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
 be78f249-ce88-4e1d-8d16-abab47bd6197,11/16/2026 06:30:00,WPI Inflation,HIGH,INR,Release,0.19,Inflation
-28fc3fb7-ffd8-4bd9-a27c-5803a1b76a38,11/16/2026 11:00:00,Trade Deficit Government,MEDIUM,INR,Release,0.11,Trade and External
 8b6d691d-8191-4a89-a882-3c45a5532589,11/20/2026 11:30:00,Bank Loan Growth,LOW,INR,Release,0.09,Money and Credit
 e20aa01c-ede7-471c-ba50-1fd39ab88dc5,11/20/2026 11:30:00,"FX Reserves, USD",LOW,INR,Release,0.09,Money and Credit
 3a3ed2bb-3d50-4dad-91c8-12d189a8ac93,11/20/2026 11:30:00,Infrastructure Output (YoY),HIGH,INR,Release,0.19,Inflation

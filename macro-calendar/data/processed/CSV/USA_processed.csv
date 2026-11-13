@@ -1,35 +1,23 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-1e7adfad-5c5d-4a80-9590-78f4421bae72,11/12/2026 13:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
-ede3cb20-255d-46a8-ab72-b4551790d64d,11/12/2026 13:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
-9107e1a9-135c-43f3-9913-2b58f0a2049b,11/12/2026 13:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
-34652fb5-cf8a-47cc-b003-ad48165bf92a,11/12/2026 14:00:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-1f1b4ba6-5abc-4338-8f62-414d47de15d9,11/12/2026 15:00:00,Existing Home Sales (MoM),LOW,USD,Release,0.07,Housing
-39a5cbcc-bc44-41c3-916d-58b3a7c51611,11/12/2026 15:00:00,Existing Home Sales Change (MoM),LOW,USD,Release,0.07,Housing
-1b35ecaa-91ac-4ae7-b418-e399bdbb834f,11/12/2026 15:00:00,Fed's Barr speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-aa6d33ea-53f2-4be9-84a7-83b22bbe33d1,11/12/2026 16:15:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-36b8fb69-adf0-45bf-8993-c3c499f33337,11/12/2026 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
-3c4dcd95-aa1c-4aa1-be53-d8d70e6fb67e,11/12/2026 17:00:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
-3f41783f-5fcd-471f-b8f3-efffce820663,11/12/2026 17:00:00,EIA Distillate Stocks Change,HIGH,USD,Release,0.18,Labor Market
-66bf2a98-a745-4857-a0ef-b71bea9a23c6,11/12/2026 17:00:00,EIA Gasoline Stocks Change,HIGH,USD,Release,0.18,Labor Market
-e64c26db-341e-4cb6-a671-152d438e4452,11/12/2026 17:00:00,EIA Heating Oil Stocks Change,HIGH,USD,Release,0.18,Labor Market
-d5421a5e-4da4-4d0c-a616-7e287bc3db79,11/12/2026 18:00:00,30-Year Bond Auction,LOW,USD,Release,0.09,Money and Credit
-fe364bdb-fc6b-4573-8e90-0a13292d56da,11/12/2026 18:10:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-41ca579d-014c-4cc5-bc9d-851d72692c71,11/12/2026 18:30:00,Fed's Schmid speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-849a9a10-92f4-46e8-820d-65af826f7b10,11/12/2026 19:00:00,Monthly Budget Statement,HIGH,USD,Release,0.2,Monetary Policy
-4924d4fe-67e7-4aed-8712-40ccc8815b62,11/12/2026 23:30:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
 6f17fd45-9b35-417e-a00d-4a386d9d9689,11/13/2026 13:30:00,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
 d1406aec-376e-4fe4-b6bd-dc009573b31e,11/13/2026 13:30:00,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
 b09590d2-def1-4e53-a19f-a8cfd91acccf,11/13/2026 13:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
 4b4a258c-07b2-4107-b8e4-335180759526,11/13/2026 13:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
+56d6527f-628c-4ef2-a60f-119a3826558c,11/13/2026 13:45:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+d11cd5a3-d518-43f4-9a35-ae0e3145d2d0,11/13/2026 14:00:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+42eed563-80c3-4903-9394-19bf8a41b71c,11/13/2026 14:45:00,Fed's Logan speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 944a7ecc-0ee6-4d45-8cc2-2c9edf300a88,11/13/2026 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
+3d2eb124-881a-42d7-b3d6-06687e9f234f,11/13/2026 15:30:00,Fed's Collins speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 84d4b4ff-3f55-4a31-83a3-e88926159ce1,11/13/2026 15:50:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 03c2e6a2-5ce4-4e7c-9609-f34d62682565,11/13/2026 17:00:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 2f12a50d-4063-4525-bc0e-999ff134f446,11/13/2026 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
 87bdf970-6ce3-4de6-9c45-776b65438038,11/14/2026 00:00:00,Fed's Jefferson speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+35b9bb1d-e178-412f-94aa-80209779a916,11/16/2026 10:00:00,Fed's Barr speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 01643b1f-4e19-4d7c-a600-4abf43426409,11/16/2026 13:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
 301f726b-b92b-41cf-9b18-38b878ad9990,11/16/2026 14:05:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
 95f282e1-241d-40f4-bc8f-23eb079f7f1a,11/16/2026 16:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 a65a4c99-405d-4179-b79b-35d48661aa70,11/16/2026 16:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
+21c13dbb-a1bd-4d13-ac26-943f4895c984,11/16/2026 17:00:00,Fed's Chair Warsh speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 ce1fce68-abbd-4c55-a0f4-71996e1f16b2,11/16/2026 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 0c505796-7303-4439-9d25-659784fed0da,11/16/2026 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
 702da271-ed8e-4879-a0b5-41e5a88a10f7,11/16/2026 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
@@ -44,6 +32,7 @@ ac1c75fb-1878-4ce4-8903-c93f4c411dc4,11/17/2026 13:30:00,Export Price Index (YoY
 9e7b2e58-e6d0-417d-b9d7-56ea5eedecec,11/17/2026 13:30:00,Retail Sales Control Group,HIGH,USD,Release,0.17,Growth
 837638b4-f9c6-4f3b-bcff-e134eb83c20e,11/17/2026 13:30:00,Retail Sales ex Autos (MoM),HIGH,USD,Release,0.17,Growth
 c1e77c92-8222-4722-8ab0-738dddc3fd19,11/17/2026 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
+971e65d0-a58c-4520-b32e-b13c6379f362,11/17/2026 14:10:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 3b3b4edf-9d0a-44c7-b75e-e9240d1898f2,11/17/2026 14:15:00,Capacity Utilization,HIGH,USD,Release,0.2,Monetary Policy
 8f7d19b2-f146-48b2-a2b0-142df3a4cbdb,11/17/2026 14:15:00,Industrial Production (MoM),HIGH,USD,Release,0.17,Growth
 9810e98b-c0a3-484b-90ce-d8e092641af9,11/17/2026 14:30:00,Fed's Hammack speech,MEDIUM,USD,Speech,0.13,Monetary Policy
@@ -63,6 +52,7 @@ afd78c23-8b8d-4565-96be-6a602aa6856f,11/18/2026 15:00:00,Pending Home Sales (MoM
 f1011f08-aeaa-44b9-bb07-d47a8146952e,11/18/2026 15:30:00,EIA Gasoline Stocks Change,HIGH,USD,Release,0.18,Labor Market
 86b406a1-cdf5-4426-8b13-ab84a92fd886,11/18/2026 15:30:00,EIA Heating Oil Stocks Change,HIGH,USD,Release,0.18,Labor Market
 125becc3-8f58-48df-b7a2-87763af4bf53,11/18/2026 18:00:00,20-Year Bond Auction,LOW,USD,Release,0.09,Money and Credit
+878add9c-46df-4cab-bda5-11446daa8664,11/18/2026 18:35:00,Fed's Barr speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 d97b15ef-1df0-4a15-b58a-326c46646d1a,11/18/2026 19:00:00,FOMC Minutes,MEDIUM,USD,Speech,0.13,Monetary Policy
 7b0d9481-5e90-4e18-bb91-798e1b9e64d3,11/18/2026 19:30:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
 0144b396-e220-4a2f-bbfa-8872cb43a4fd,11/18/2026 21:00:00,Net Long-Term TIC Flows,MEDIUM,USD,Release,0.11,Trade and External
@@ -76,11 +66,14 @@ a82b91db-a309-45e5-b2e4-072f8a2632a8,11/19/2026 16:00:00,Kansas Fed Manufacturin
 e0606729-853d-41d8-84e5-30af4b281e45,11/19/2026 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 ac8c385e-7a49-407e-98ee-467d9ad2b959,11/19/2026 17:30:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 a3ba1622-0568-4da2-8dd3-ed64e899bd2a,11/19/2026 18:00:00,10-year TIPS Auction,LOW,USD,Release,0.09,Money and Credit
+0f9fbbd2-3103-41c9-9d1d-38e4a1fc78c6,11/19/2026 19:15:00,Fed's Barr speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 55a0d0ae-95a2-4f94-a5c1-abc01bce4e97,11/19/2026 23:30:00,Fed's Paulson speech,MEDIUM,USD,Speech,0.13,Monetary Policy
+cf0fc744-9e8a-4f14-96b2-8463cd944887,11/20/2026 13:25:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 327a2365-a1ac-4567-b2ba-2dad26b47ef1,11/20/2026 15:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
 00ca8cbc-5856-4362-96a4-5afeb41711b6,11/20/2026 15:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
 4a6697ae-befa-4bc0-802a-90772eadff1b,11/20/2026 15:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
 96e1a763-8236-4aa0-ab99-153eb80fd0ff,11/20/2026 15:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
+330a0fe7-0652-47e1-90e2-e4da4f9744b2,11/20/2026 17:15:00,Fed's Cook speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 2552ffa0-f778-47c8-9371-26f1f4fb2f5f,11/20/2026 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
 4b8228cb-669b-402e-9550-f038f8058c2f,11/20/2026 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 ccf3a457-3594-4cd1-82de-f68b40f6c904,11/20/2026 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
