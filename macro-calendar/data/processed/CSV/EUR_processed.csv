@@ -1,15 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-7b78d08f-3b85-4645-9a4e-b103a7bdf817,11/13/2026 00:00:00,EU leaders summit,HIGH,EUR,Speech,0.552,Monetary Policy
-a936e47f-d6c2-4d0c-b441-2d18e4048201,11/13/2026 06:15:00,ECB's Sleijpen speech,HIGH,EUR,Speech,0.552,Monetary Policy
-0387d81f-72e7-4a27-93b2-3c2387d1b885,11/13/2026 06:50:00,ECB's Elderson speech,HIGH,EUR,Speech,0.552,Monetary Policy
-a25ce9e9-80d5-47d7-a38f-7815f8a019b5,11/13/2026 07:10:00,ECB's Schnabel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-24e93735-2e92-4ede-917f-9844e2abec21,11/13/2026 10:00:00,Employment Change (QoQ),HIGH,EUR,Release,0.765,Labor Market
-f12f314b-136d-4b0a-aedf-7c6c34cf66a8,11/13/2026 10:00:00,Employment Change (YoY),HIGH,EUR,Release,0.765,Labor Market
-42732327-a6be-4523-b5f2-daf10564e1dc,11/13/2026 10:00:00,Gross Domestic Product s.a. (QoQ),HIGH,EUR,Release,0.722,Growth
-66647372-8e1f-4ef5-80c7-39dc2f5a15ab,11/13/2026 10:00:00,Gross Domestic Product s.a. (YoY),HIGH,EUR,Release,0.722,Growth
-fbecd244-828f-4426-a55f-743896ab0c7b,11/13/2026 10:00:00,Trade Balance n.s.a.,HIGH,EUR,Release,0.468,Trade and External
-2e4397e8-33be-4a2c-b1cd-f5de23322d4e,11/13/2026 10:00:00,Trade Balance s.a.,HIGH,EUR,Release,0.468,Trade and External
-de9b4c93-1608-4633-b95d-f2cfd441786f,11/13/2026 16:15:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
 0a4774b8-8138-4915-a253-d6fc1ef69d00,11/16/2026 08:15:00,ECB's Vujčić speech,HIGH,EUR,Speech,0.552,Monetary Policy
 8f7c0048-deb3-41d0-85e3-ef3303e1df4a,11/16/2026 10:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
 927be783-8aae-4e60-bfc9-7366c3608c10,11/16/2026 10:00:00,Industrial Production w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth

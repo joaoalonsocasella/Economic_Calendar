@@ -1,16 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-6f17fd45-9b35-417e-a00d-4a386d9d9689,11/13/2026 13:30:00,Producer Price Index (MoM),HIGH,USD,Release,0.19,Inflation
-d1406aec-376e-4fe4-b6bd-dc009573b31e,11/13/2026 13:30:00,Producer Price Index (YoY),HIGH,USD,Release,0.19,Inflation
-b09590d2-def1-4e53-a19f-a8cfd91acccf,11/13/2026 13:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD,Release,0.19,Inflation
-4b4a258c-07b2-4107-b8e4-335180759526,11/13/2026 13:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD,Release,0.11,Trade and External
-56d6527f-628c-4ef2-a60f-119a3826558c,11/13/2026 13:45:00,Fed's Goolsbee speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-d11cd5a3-d518-43f4-9a35-ae0e3145d2d0,11/13/2026 14:00:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-42eed563-80c3-4903-9394-19bf8a41b71c,11/13/2026 14:45:00,Fed's Logan speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-944a7ecc-0ee6-4d45-8cc2-2c9edf300a88,11/13/2026 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
-3d2eb124-881a-42d7-b3d6-06687e9f234f,11/13/2026 15:30:00,Fed's Collins speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-84d4b4ff-3f55-4a31-83a3-e88926159ce1,11/13/2026 15:50:00,Fed's Bowman speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-03c2e6a2-5ce4-4e7c-9609-f34d62682565,11/13/2026 17:00:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-2f12a50d-4063-4525-bc0e-999ff134f446,11/13/2026 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
 87bdf970-6ce3-4de6-9c45-776b65438038,11/14/2026 00:00:00,Fed's Jefferson speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 35b9bb1d-e178-412f-94aa-80209779a916,11/16/2026 10:00:00,Fed's Barr speech,MEDIUM,USD,Speech,0.13,Monetary Policy
 01643b1f-4e19-4d7c-a600-4abf43426409,11/16/2026 13:30:00,NY Empire State Manufacturing Index,HIGH,USD,Release,0.17,Growth
