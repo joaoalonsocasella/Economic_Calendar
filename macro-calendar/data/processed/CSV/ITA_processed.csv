@@ -3,23 +3,23 @@ c9940811-429b-48e0-9799-be27961305b1,11/17/2026 09:00:00,Consumer Price Index (E
 5c9b41a3-da4c-44a5-9612-fd1309449ef6,11/17/2026 09:00:00,Consumer Price Index (EU Norm) (YoY),HIGH,EUR,Release,0.807,Inflation
 f8180d55-e56c-498a-b24a-47a7043097cd,11/17/2026 09:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 e3b597f1-6870-4796-b9db-6d3a031cfbc2,11/17/2026 09:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-b637e479-07f9-4baa-8c24-0da8992fdf20,11/26/2026 09:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
-3df90316-b9fb-4cfd-8764-44f5e8c22987,11/26/2026 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 ebb83e1d-f64a-4d5a-a800-e117dfb2a87c,11/27/2026 09:00:00,Industrial Sales n.s.a. (YoY),HIGH,EUR,Release,0.722,Growth
 49b7f55b-3825-435e-92e1-6efa68d0f0a3,11/27/2026 09:00:00,Industrial Sales s.a. (MoM),HIGH,EUR,Release,0.722,Growth
-0aeb3470-2572-45ff-a556-2416838426ae,11/27/2026 09:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
+0aeb3470-2572-45ff-a556-2416838426ae,11/27/2026 10:00:00,Trade Balance non-EU,HIGH,EUR,Release,0.468,Trade and External
 5593c4a6-5eac-46e7-a3dc-378f76c5277a,11/27/2026 10:30:00,10-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
 8874e511-c03e-4764-abf9-a5dc479c6f06,11/27/2026 10:30:00,5-y Bond Auction,HIGH,EUR,Release,0.383,Money and Credit
-2a7f9bb7-8152-4e86-bf89-fa2300b12bc1,11/30/2026 09:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
+b637e479-07f9-4baa-8c24-0da8992fdf20,11/30/2026 09:00:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+3df90316-b9fb-4cfd-8764-44f5e8c22987,11/30/2026 09:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 64586637-e46e-4652-bcd4-c6bef6fc5bfc,11/30/2026 10:00:00,Consumer Price Index (EU Norm) (MoM),HIGH,EUR,Release,0.807,Inflation
 80417baf-7adc-407f-af87-c89911570002,11/30/2026 10:00:00,Consumer Price Index (EU Norm) (YoY),HIGH,EUR,Release,0.807,Inflation
 f2954435-9c84-4814-a710-8561be0c990b,11/30/2026 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 1c0c0143-7f27-4ca5-9cc2-1234ac7ec10a,11/30/2026 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-d0867e88-70c8-46fc-9259-5c410ffda31b,11/30/2026 10:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
-ca1b69d3-f387-43e4-bd8c-079844eba7b5,11/30/2026 10:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+d0867e88-70c8-46fc-9259-5c410ffda31b,11/30/2026 11:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+ca1b69d3-f387-43e4-bd8c-079844eba7b5,11/30/2026 11:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 2e8c9a4a-c743-4e7f-aa13-3854c1b7bc57,12/01/2026 08:45:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 76bf1933-ff14-47af-bed3-c59fcfae6eae,12/01/2026 09:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 f8dd066f-e845-4c21-981d-ff35810a82f6,12/01/2026 09:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
+2a7f9bb7-8152-4e86-bf89-fa2300b12bc1,12/02/2026 09:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
 4e140149-18a4-42dc-9b08-795c2ceeadae,12/03/2026 08:45:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
 4f77ad4b-94bc-4eb9-a922-6bf6bd74235a,12/04/2026 09:00:00,Retail Sales n.s.a (YoY),HIGH,EUR,Release,0.722,Growth
 0a36bf3b-1fad-47f6-a632-d2723f3d370e,12/04/2026 09:00:00,Retail Sales s.a. (MoM),HIGH,EUR,Release,0.722,Growth

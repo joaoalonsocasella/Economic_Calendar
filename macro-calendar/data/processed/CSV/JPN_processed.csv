@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-14be18ad-4b90-4333-ab99-e5a653d86ef7,11/15/2026 23:50:00,Gross Domestic Product (QoQ),HIGH,JPY,Release,0.17,Growth
-c3e9601f-befa-4e20-a252-c329d3b1e372,11/15/2026 23:50:00,Gross Domestic Product Annualized,HIGH,JPY,Release,0.17,Growth
-7dca6a59-68c6-4e4e-b575-e91c9d464f6d,11/15/2026 23:50:00,Gross Domestic Product Deflator (YoY),HIGH,JPY,Release,0.19,Inflation
 888a2f71-99ec-4a3d-b1dd-0f0cef90187f,11/16/2026 04:00:00,BoJ's Takata speech,MEDIUM,JPY,Speech,0.13,Monetary Policy
 3684c6b3-0b08-4bcf-aeb7-616c40049433,11/16/2026 04:30:00,Capacity Utilization,HIGH,JPY,Release,0.2,Monetary Policy
 c56d97ec-3983-49fc-9653-9addc9067c04,11/16/2026 04:30:00,Industrial Production (MoM),HIGH,JPY,Release,0.17,Growth
@@ -31,22 +28,22 @@ f9247b5f-e13a-4755-98b6-eebee022361a,11/26/2026 05:00:00,Leading Economic Index,
 d16db09d-8335-4950-941d-edc6d2cf9203,11/26/2026 23:30:00,Tokyo CPI ex Fresh Food (YoY),HIGH,JPY,Release,0.19,Inflation
 a255919c-70ac-409d-a6d8-1ce7733f4a6f,11/26/2026 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth
 7ead6b8b-b9d8-4868-8fc0-12b6198f7dde,11/26/2026 23:50:00,Foreign Investment in Japan Stocks,HIGH,JPY,Release,0.17,Growth
+0cd6f031-b059-4214-8727-4f68b2fe8834,11/29/2026 23:50:00,Industrial Production (MoM),HIGH,JPY,Release,0.17,Growth
+67e0ad5b-f0da-423f-b604-53d34146e9db,11/29/2026 23:50:00,Industrial Production (YoY),HIGH,JPY,Release,0.17,Growth
+ef1deda7-3f98-4e12-9f39-d9c58fff0935,11/29/2026 23:50:00,Large Retailer Sales,MEDIUM,JPY,Release,0.14,Confidence
+73544f82-358e-4198-ba30-f1d9f42b457a,11/29/2026 23:50:00,Retail Trade (YoY),MEDIUM,JPY,Release,0.11,Trade and External
+10af5562-4fd3-42ac-9f34-7d543bbaf482,11/29/2026 23:50:00,Retail Trade s.a (MoM),MEDIUM,JPY,Release,0.11,Trade and External
 47bd7710-68d7-4b6c-ac7d-531b3be86ff0,11/30/2026 01:05:00,BoJ Governor Ueda speech,MEDIUM,JPY,Speech,0.13,Monetary Policy
 8f895f9f-dd54-4b8b-a5ea-32f801c99ad5,11/30/2026 05:00:00,Annualized Housing Starts,LOW,JPY,Release,0.07,Housing
 aab2bb3f-7151-4bed-b851-14585e3bfd1f,11/30/2026 05:00:00,Construction Orders (YoY),HIGH,JPY,Release,0.17,Growth
-f74ee8d1-164c-4501-8f7c-2b92c8c7a884,11/30/2026 05:00:00,Consumer Confidence Index,MEDIUM,JPY,Release,0.14,Confidence
 bd1ee578-4406-4643-91e3-d63408d2d67a,11/30/2026 05:00:00,Housing Starts (YoY),LOW,JPY,Release,0.07,Housing
 e6850255-a1db-4348-b55b-c073b4a0d762,11/30/2026 20:30:00,CFTC JPY NC Net Positions,LOW,JPY,Release,0.09,Money and Credit
 6dbb35b7-71bd-4bb6-9158-8dda124b01d5,11/30/2026 23:30:00,Jobs / Applicants Ratio,HIGH,JPY,Release,0.18,Labor Market
 30db7c3b-25bf-4c01-9ec8-bba458ee0f4d,11/30/2026 23:30:00,Unemployment Rate,HIGH,JPY,Release,0.18,Labor Market
 ba2de1ee-94bf-42fc-b87c-7ea50df20865,11/30/2026 23:50:00,Capital Spending,HIGH,JPY,Release,0.17,Growth
-0cd6f031-b059-4214-8727-4f68b2fe8834,11/30/2026 23:50:00,Industrial Production (MoM),HIGH,JPY,Release,0.17,Growth
-67e0ad5b-f0da-423f-b604-53d34146e9db,11/30/2026 23:50:00,Industrial Production (YoY),HIGH,JPY,Release,0.17,Growth
-ef1deda7-3f98-4e12-9f39-d9c58fff0935,11/30/2026 23:50:00,Large Retailer Sales,MEDIUM,JPY,Release,0.14,Confidence
-73544f82-358e-4198-ba30-f1d9f42b457a,11/30/2026 23:50:00,Retail Trade (YoY),MEDIUM,JPY,Release,0.11,Trade and External
-10af5562-4fd3-42ac-9f34-7d543bbaf482,11/30/2026 23:50:00,Retail Trade s.a (MoM),MEDIUM,JPY,Release,0.11,Trade and External
 1bb9fab1-1117-413f-85b2-a75d1589a16a,12/01/2026 00:30:00,Jibun Bank Manufacturing PMI,HIGH,JPY,Release,0.17,Growth
 5cd772e1-60ab-4bcf-aab6-ee7474a7bf65,12/01/2026 23:50:00,Monetary Base (YoY),HIGH,JPY,Release,0.2,Monetary Policy
+f74ee8d1-164c-4501-8f7c-2b92c8c7a884,12/02/2026 05:00:00,Consumer Confidence Index,MEDIUM,JPY,Release,0.14,Confidence
 1ffdc879-e568-482e-a6b7-2f63e33b71d3,12/02/2026 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth
 cac08cdf-3cb4-42b7-b3ff-71a25b7c3e6a,12/02/2026 23:50:00,Foreign Investment in Japan Stocks,HIGH,JPY,Release,0.17,Growth
 5c173fc2-5dfa-49c6-82fd-3ce90624a64d,12/03/2026 00:30:00,Jibun Bank Services PMI,HIGH,JPY,Release,0.17,Growth

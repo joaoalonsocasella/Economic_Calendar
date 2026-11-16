@@ -19,7 +19,9 @@ cb1199a6-a407-4dd6-a102-7dd39ece0607,11/18/2026 07:00:00,PPI Core Output (MoM) n
 4155c088-f4af-438a-ab19-3e2d24465225,11/18/2026 07:00:00,Producer Price Index - Output (YoY) n.s.a,HIGH,GBP,Release,0.19,Inflation
 466c391d-2db6-4699-b96f-0096eb9183f9,11/18/2026 07:00:00,Retail Price Index (MoM),HIGH,GBP,Release,0.19,Inflation
 2eadfd6e-4b50-424d-bde3-74c97ca93e63,11/18/2026 07:00:00,Retail Price Index (YoY),HIGH,GBP,Release,0.19,Inflation
+56b39c0c-5f50-42ef-9667-bd127b9e3715,11/18/2026 07:30:00,BoE's Governor Bailey speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 3d904a98-be27-4658-842a-f66693be0b3e,11/18/2026 09:30:00,DCLG House Price Index (YoY),LOW,GBP,Release,0.07,Housing
+21fd66af-9799-4b0f-b522-1b3cf46b6837,11/18/2026 15:00:00,BoE's Governor Bailey speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 08a5281c-800b-4f16-b290-b1187b9ee781,11/20/2026 00:01:00,GfK Consumer Confidence,MEDIUM,GBP,Release,0.14,Confidence
 f9a7ae50-7922-4d43-b11e-9e97880cc3eb,11/20/2026 07:00:00,Public Sector Net Borrowing,LOW,GBP,Release,0.09,Money and Credit
 ea2929cb-b55a-4ab6-9f2e-78bb35c1d03f,11/20/2026 07:00:00,Retail Sales (MoM),HIGH,GBP,Release,0.17,Growth
@@ -30,6 +32,7 @@ b5fa24bb-ea69-4acd-a624-037d64b84be9,11/20/2026 07:00:00,Retail Sales ex-Fuel (Y
 a9888f8e-95f9-4c9a-9b90-b97fb7297e50,11/23/2026 09:30:00,S&P Global Composite PMI,HIGH,GBP,Release,0.17,Growth
 1ed4cc35-28ae-4071-b6e0-1db1e148a577,11/23/2026 09:30:00,S&P Global Manufacturing PMI,HIGH,GBP,Release,0.17,Growth
 26c102b0-281c-4bae-bacd-c1b18129a2cb,11/23/2026 09:30:00,S&P Global Services PMI,HIGH,GBP,Release,0.17,Growth
+910bc7c2-e4b5-4ea2-b3bd-7b84dc6be5c7,11/23/2026 13:00:00,BoE's Pill speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 1dac1be3-d968-41ed-9aa4-602e31d8e6ea,11/26/2026 10:30:00,Financial Stability Report,HIGH,GBP,Release,0.2,Monetary Policy
 c51d89ac-b0e3-429e-9e55-9b6a61e08ccf,11/26/2026 10:30:00,FPC Meeting Minutes,HIGH,GBP,Release,0.2,Monetary Policy
 296ccec6-4627-452d-b262-087b01d91970,11/26/2026 10:30:00,FPC Statement,MEDIUM,GBP,Speech,0.13,Monetary Policy
