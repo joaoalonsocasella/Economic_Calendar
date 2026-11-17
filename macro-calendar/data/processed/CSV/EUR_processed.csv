@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-0a4774b8-8138-4915-a253-d6fc1ef69d00,11/16/2026 08:15:00,ECB's Vujčić speech,HIGH,EUR,Speech,0.552,Monetary Policy
-8f7c0048-deb3-41d0-85e3-ef3303e1df4a,11/16/2026 10:00:00,Industrial Production s.a. (MoM),HIGH,EUR,Release,0.722,Growth
-927be783-8aae-4e60-bfc9-7366c3608c10,11/16/2026 10:00:00,Industrial Production w.d.a. (YoY),HIGH,EUR,Release,0.722,Growth
-73d74942-3c1c-443a-9bad-4f6ac79c9815,11/16/2026 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 d6c3563e-8350-4fb1-89a2-cef5d0f13d6c,11/17/2026 09:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
 1e92729f-6968-4b8f-bf07-797ff1718ace,11/17/2026 10:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
 8a42390f-d31d-4581-95b5-adb4542f6919,11/17/2026 18:30:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy

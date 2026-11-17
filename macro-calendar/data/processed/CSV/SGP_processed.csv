@@ -1,7 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 b308cb8d-7e5e-4d42-bfd5-491de0869cae,11/23/2026 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
-80d96dac-4e73-46b3-8cd7-7648d947b090,11/25/2026 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
-8de8f382-92c3-4d66-b36a-403450cc0004,11/25/2026 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth
+80d96dac-4e73-46b3-8cd7-7648d947b090,11/24/2026 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
+8de8f382-92c3-4d66-b36a-403450cc0004,11/24/2026 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth
 07729677-7b0a-4f7b-aaef-75740905b479,11/26/2026 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
 5a3d9a15-7655-4f14-8e80-5ad3f2aac18c,11/26/2026 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
 69489ca6-0aa5-406e-9391-cbc70891b9c3,12/02/2026 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
@@ -16,11 +16,100 @@ bcb6dc8c-1580-45b0-90a5-333da10b27cd,12/23/2026 05:00:00,Industrial Production (
 0bc08af3-e7e4-48e4-bae3-f16f3f74fd20,01/05/2027 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
 395ff6a3-c54b-45ce-84e3-75d5b7a9dbac,01/05/2027 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
 3338c387-c212-43bb-b840-4671f4260db2,01/07/2027 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
-a0bfc75f-90bf-49d9-a622-0e765839606f,01/12/2027 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
-75d0e4a4-1e29-44fa-881d-d1b792e9a585,01/12/2027 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth
+a0bfc75f-90bf-49d9-a622-0e765839606f,01/14/2027 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
+75d0e4a4-1e29-44fa-881d-d1b792e9a585,01/14/2027 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth
 12dac2ad-20fa-4f4a-af9e-f775d29cc1a6,01/25/2027 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
 e5354a33-5a2a-4f39-af94-982e5f3bae0e,01/26/2027 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
 db1ba667-4dc5-45a4-8917-419b712fe59e,01/26/2027 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
 eae75737-e69d-4dea-814c-36b1ae0ad5cb,01/28/2027 01:30:00,Unemployment rate,HIGH,SGD,Release,0.18,Labor Market
-f888fba5-fe21-447f-a5e5-1f18fc70087f,02/26/2027 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
-b66704c6-7502-46e7-927c-994e6af95dab,02/26/2027 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth
+866fe7cc-ca55-46d9-9ffa-e7e97897d322,02/02/2027 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
+9f1a72ea-00bb-48ab-b47e-4be90bbdfcc4,02/05/2027 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
+3cc3c624-3be2-4624-af30-9d93fd5e8eea,02/05/2027 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
+f646af76-417f-4e74-bb9a-526d7ff6c196,02/08/2027 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
+7d23519c-d25b-4e8b-9c8c-257f761a66bd,02/23/2027 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
+f888fba5-fe21-447f-a5e5-1f18fc70087f,02/25/2027 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
+b66704c6-7502-46e7-927c-994e6af95dab,02/25/2027 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth
+dfa1a9a8-83cc-4c72-aff4-6a99c7ec6147,02/26/2027 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
+6589e8b7-5df9-4cca-8e78-b2660cf5fd83,02/26/2027 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
+faa8bed6-fb2c-4c88-ae5e-c52bc09b8249,03/02/2027 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
+5c3bd681-b5ee-4dc2-a411-6683d450ca98,03/05/2027 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
+de2d4357-a6a8-4f12-81fa-2e3fa740b364,03/05/2027 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
+6ceb709e-eeeb-4220-9ba9-8baa354bf074,03/08/2027 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
+cf2c5aad-8085-4a51-80e6-d7b7e16a272e,03/19/2027 01:30:00,Unemployment rate,HIGH,SGD,Release,0.18,Labor Market
+c95b922f-98ec-47e4-bc8c-01481ae6d5f1,03/23/2027 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
+1c90ff5e-3141-44a9-a0e8-f8ce31c1a427,03/29/2027 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
+2083913f-23f4-46a5-958c-60fd772d1b66,03/29/2027 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
+d235c505-6212-4c58-b926-ec33ebb5caa6,04/02/2027 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
+2987ad80-e01f-4800-8e1c-77d526e556bb,04/05/2027 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
+5f70e8dc-f295-4013-a179-7b1c9d76416d,04/05/2027 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
+719f0c6b-0426-48a5-800c-a8790b1c193b,04/07/2027 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
+b3f4d790-56ef-4f9b-bcb2-a3f2ceda83a9,04/14/2027 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
+4f5f8c8e-69a2-41b7-84cb-337994c65149,04/14/2027 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth
+441c3cdc-ba4f-4f2e-aec2-3d51425e20a0,04/23/2027 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
+fa7f14ae-20d8-4cf6-bea4-cbecbf7ae805,04/26/2027 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
+94934508-e637-418e-a215-84bdd25b5923,04/26/2027 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
+690152db-aa66-4d87-a1d0-29db5718cff5,04/29/2027 01:30:00,Unemployment rate,HIGH,SGD,Release,0.18,Labor Market
+e520346b-1544-4625-b530-8a9b19042007,05/04/2027 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
+80ba3790-aa5e-4e06-ba03-17ad8c1594e9,05/05/2027 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
+f78f0d55-a74c-4660-8dff-151033f40fbb,05/05/2027 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
+c06e9f6a-bb3d-4c0e-add6-b59b67507edb,05/07/2027 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
+7b6e0ae2-f3c9-44e0-b4b5-88e84b079835,05/24/2027 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
+8e0140bc-7d3c-42d9-a8d2-d3d7ae06a6d4,05/26/2027 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
+6572dbb5-1338-4397-8782-faab83268251,05/26/2027 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth
+bd290e8a-6e03-4e00-b51b-1894409fe337,05/26/2027 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
+62871616-3665-4113-bfa6-25e65c514991,05/26/2027 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
+1f798ba7-28ef-4144-a06d-266bf5e8d255,06/02/2027 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
+b7a80045-9ce6-4de2-8ae3-53ed251c0dad,06/07/2027 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
+41bb368f-1e5b-4a2d-9de7-820740e7fe73,06/07/2027 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
+fe3a94c2-5f16-4f76-955b-ef66ed5f932c,06/07/2027 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
+25d234bb-85cd-492e-9537-8c064ceadc95,06/15/2027 01:30:00,Unemployment rate,HIGH,SGD,Release,0.18,Labor Market
+73abef47-3154-4dd9-8feb-802d0cf3022c,06/23/2027 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
+6bee7f7a-988f-426c-bbf2-095da62cace9,06/28/2027 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
+c6d4f2e5-0fde-4e46-8e8d-8f1977940a54,06/28/2027 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
+713ad282-9388-496c-b03f-bc9c33051336,07/02/2027 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
+d8b80975-0e86-4537-ac28-5605ac9ab7e4,07/05/2027 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
+eb3b2fb6-8693-4125-96b3-96fca135bc03,07/05/2027 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
+ef191d42-1d82-4733-8c94-99a0fe919ddc,07/07/2027 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
+0c866348-e174-4285-914b-82548ec5d7c0,07/14/2027 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
+b7b83614-cce6-4fff-a76d-c95dba8d8ff3,07/14/2027 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth
+f1cc9635-5a65-4fdf-8714-fbe53a417ed5,07/23/2027 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
+7597a758-e567-417a-804a-d20683082fb9,07/26/2027 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
+62041f6f-c43e-4fbb-bd5b-1ce155be75cc,07/26/2027 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
+4595f8da-3d8b-4b7f-a204-684130f927ba,07/29/2027 01:30:00,Unemployment rate,HIGH,SGD,Release,0.18,Labor Market
+30497db7-a1a7-4865-8c13-c1692b1804c1,08/03/2027 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
+10236d84-18bb-45a8-b67b-7ad03240297c,08/05/2027 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
+5f64127f-5344-44dc-86a0-186f28cf945b,08/05/2027 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
+f32cd29e-6e15-47cc-bc81-7bcbab753770,08/06/2027 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
+1f16a9b4-a2cb-4c74-9ef2-3b106c0f55e7,08/23/2027 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
+51678354-8d6d-43f5-9646-fed4416927f9,08/25/2027 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
+0e7639d5-681b-434f-b73c-c3216f6a0874,08/25/2027 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth
+ebce18ff-e21a-4868-8866-cede1e39d19a,08/26/2027 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
+08f808be-e9d9-490f-817c-0d9680a11c3c,08/26/2027 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
+8570367f-eca9-493e-84e8-96fb5fe97e4e,09/02/2027 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
+083151e9-a73c-4297-8658-0edd0ca9be2d,09/06/2027 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
+97e7c719-37f2-423a-be6c-679e7f97260e,09/06/2027 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
+91820199-f66d-4735-b6fd-6e2b7b15599b,09/07/2027 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
+9a080b33-744f-4af4-9757-13c753bd52e5,09/21/2027 01:30:00,Unemployment rate,HIGH,SGD,Release,0.18,Labor Market
+ac016b87-4a3c-42f5-b994-8cfcabe9f3c9,09/23/2027 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
+127a4bd5-3d6a-42e7-a5dd-5dcefbb8c494,09/27/2027 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
+694d9d5d-1ae8-40b5-b15c-1cf9a6521cd4,09/27/2027 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
+69f41b15-96db-4a82-b1ed-e48dc4809569,10/04/2027 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
+da97c7fa-25ac-44be-a13e-7920bac89515,10/05/2027 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
+dbd2578b-9d33-4e21-bd6d-56db04047bde,10/05/2027 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
+da4170f2-6719-451d-a406-f42e529a86d9,10/07/2027 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
+22d42f2a-2c61-4c69-b0ae-0179a7618937,10/14/2027 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
+6c34486b-6e03-4a06-ae13-67d6265850c9,10/14/2027 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth
+31202c50-844a-4b6d-958e-8be3ea8640de,10/25/2027 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
+fcb2f4e5-4571-4db8-985a-81696878c5a1,10/26/2027 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
+6e7d69ee-d546-4a2b-a425-75fa619b19a5,10/26/2027 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth
+005df4f7-beb4-4ae9-a807-d3c16f83c901,10/29/2027 01:30:00,Unemployment rate,HIGH,SGD,Release,0.18,Labor Market
+dc002d60-f682-47f4-9b98-c66b3b4a206f,11/02/2027 13:00:00,Manufacturing PMI,HIGH,SGD,Release,0.17,Growth
+3a6d5b85-2946-42eb-9743-0a9581e10023,11/05/2027 05:00:00,Retail Sales (MoM),HIGH,SGD,Release,0.17,Growth
+10f6f087-caec-479e-80d0-a9f044c0a333,11/05/2027 05:00:00,Retail Sales (YoY),HIGH,SGD,Release,0.17,Growth
+f15a5580-834b-4d5e-98dd-c5d04e1d483c,11/08/2027 09:00:00,Foreign Reserves (MoM),LOW,SGD,Release,0.09,Money and Credit
+64268a11-7768-4b76-8930-951ba482475e,11/12/2027 01:30:00,Unemployment rate,HIGH,SGD,Release,0.18,Labor Market
+5401e1d8-0cd4-42a7-89f5-3dfbff3a4d29,11/23/2027 05:00:00,Consumer Price Index (YoY),HIGH,SGD,Release,0.19,Inflation
+b2eb7408-5c76-415d-bc41-624fd50e84aa,11/24/2027 00:00:00,Gross Domestic Product (QoQ),HIGH,SGD,Release,0.17,Growth
+d2931d7d-4ede-49d2-82b2-dffe0bd151ba,11/24/2027 00:00:00,Gross Domestic Product (YoY),HIGH,SGD,Release,0.17,Growth
+18dee265-f4d4-4761-bd1a-ab5d56a7e348,11/29/2027 05:00:00,Industrial Production (MoM),HIGH,SGD,Release,0.17,Growth
+96062a91-4523-4555-adf2-6b6f7db92d6f,11/29/2027 05:00:00,Industrial Production (YoY),HIGH,SGD,Release,0.17,Growth

@@ -22,6 +22,7 @@ d96d0ba5-6d2d-4611-a58d-a26539977552,01/08/2027 03:00:00,Foreign Reserves,LOW,ID
 013f27df-566c-454e-8a8e-da79bd01ddfc,01/12/2027 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
 d63b8908-da20-4a52-81e1-f0174bab8391,01/12/2027 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
 f66646b2-056e-4657-bdad-3d92dd90b1ab,01/20/2027 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
+667928fe-e7c9-4d13-804c-369f67fd35cc,02/01/2027 03:00:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 f6c7d129-5e22-42ec-a8ea-a0b1c579403b,02/01/2027 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 23ee3c29-24cd-49a4-8d51-994ff047cbfd,02/01/2027 04:00:00,Imports,MEDIUM,IDR,Release,0.11,Trade and External
 7363206f-528e-4b67-a727-6a9fbf38575e,02/01/2027 04:00:00,Inflation (MoM),HIGH,IDR,Release,0.19,Inflation
@@ -29,78 +30,113 @@ f6c7d129-5e22-42ec-a8ea-a0b1c579403b,02/01/2027 04:00:00,Core Inflation (YoY),HI
 1bf698fc-d715-4fe3-b316-d0dc4392a12a,02/01/2027 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
 98f0e951-6a14-4a09-8d3b-de5fbe027407,02/05/2027 04:00:00,Gross Domestic Product (QoQ),HIGH,IDR,Release,0.17,Growth
 8f99e4bc-b0f5-4641-a3a4-8f3d2aed6d64,02/05/2027 04:00:00,Gross Domestic Product (YoY),HIGH,IDR,Release,0.17,Growth
+cfca772b-30f4-4537-a2b9-79e0efa20191,02/08/2027 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
+99d92a3a-aace-4085-80f5-14ec6f21fac6,02/09/2027 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
 0ffbe627-f725-425e-8f2b-527792b93560,02/10/2027 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
 610b3c6d-ebce-45d9-b813-1bef6a464107,02/18/2027 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
+da5ef2fc-b9b6-4c60-9a54-e5c318f2968b,03/01/2027 03:00:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 8224d840-6f73-4eaf-a121-a21c3fbe7018,03/01/2027 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
-2fdbd713-4721-41cd-9d3c-962e40391cc2,03/01/2027 04:00:00,Exports,MEDIUM,IDR,Release,0.11,Trade and External
 254b7a6b-d2a7-48a3-8fe8-f98e5094d7d4,03/01/2027 04:00:00,Exports,MEDIUM,IDR,Release,0.11,Trade and External
+2fdbd713-4721-41cd-9d3c-962e40391cc2,03/01/2027 04:00:00,Exports,MEDIUM,IDR,Release,0.11,Trade and External
 f65eadcc-0ba2-4740-bdb5-7e98f8549151,03/01/2027 04:00:00,Imports,MEDIUM,IDR,Release,0.11,Trade and External
 79303dd4-7d5f-4905-bdbd-b67bd0a08ef8,03/01/2027 04:00:00,Inflation (MoM),HIGH,IDR,Release,0.19,Inflation
 94f8ece1-9c68-47f0-8cf3-b700f57f4f1a,03/01/2027 04:00:00,Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 d800292f-3f2f-4b04-96e6-647391632164,03/01/2027 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
+5d09fd6b-9c03-4279-b4e6-74f4a966cd79,03/08/2027 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
+4902a891-95b4-4bf5-b27a-84ed7de350f4,03/09/2027 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
 e4429fab-9bac-4ea6-8b45-80acc391cb70,03/10/2027 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
 8ce42482-b367-4f98-8b73-d92a989eafec,03/16/2027 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
+171fafd9-fe0a-4036-a53f-1d670e65c7b4,04/01/2027 03:00:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 d4a8e1e8-96e0-48a2-a1fb-3e926ad87427,04/01/2027 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 e0b5bbe0-52d2-46fe-b24c-34750c6e3b47,04/01/2027 04:00:00,Exports,MEDIUM,IDR,Release,0.11,Trade and External
 a1ce5344-6cbe-4ede-8695-474b2d58d434,04/01/2027 04:00:00,Imports,MEDIUM,IDR,Release,0.11,Trade and External
 63723363-6f36-46cd-8037-4651f4f41c4f,04/01/2027 04:00:00,Inflation (MoM),HIGH,IDR,Release,0.19,Inflation
 dddafadd-24a8-4e7f-9d39-61a47af7266d,04/01/2027 04:00:00,Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 566fb86a-c12c-4dda-b18d-ea67b21d94f9,04/01/2027 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
+3104da12-7ada-4c5b-86af-1323820b1fba,04/07/2027 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
 17ad36f0-8b8b-4db7-9664-802be49b4929,04/08/2027 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
+6c6e035c-7baa-443f-bc71-3a7beb29fcfe,04/12/2027 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
 6974723b-076b-4d26-a5e7-87d82fe72ede,04/21/2027 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
+ea1ff630-ae83-4420-9905-2ced9ff08aa6,05/03/2027 03:00:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 f4aed95f-6531-47e2-b8ac-16a5df43adc1,05/03/2027 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 00bc9d0b-13a8-4110-a253-92d5e5f1b8e4,05/03/2027 04:00:00,Exports,MEDIUM,IDR,Release,0.11,Trade and External
 6a447577-baea-4439-b256-34e8951a7078,05/03/2027 04:00:00,Imports,MEDIUM,IDR,Release,0.11,Trade and External
 7ec2ed7d-9eba-44e1-8d46-ef75767cbe24,05/03/2027 04:00:00,Inflation (MoM),HIGH,IDR,Release,0.19,Inflation
 17425ef7-02b4-49f1-9237-3386d9ff7846,05/03/2027 04:00:00,Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 576a1fba-2cb3-4c18-8309-4e0d3182c3c5,05/03/2027 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
+35345db7-cee1-4bd3-a979-ae92803f30f1,05/05/2027 04:00:00,Gross Domestic Product (QoQ),HIGH,IDR,Release,0.17,Growth
+6380cdc6-560c-4f74-8ae8-480db5c69fe9,05/05/2027 04:00:00,Gross Domestic Product (YoY),HIGH,IDR,Release,0.17,Growth
+75b34db6-b8eb-45c5-a6c1-792328db3a5a,05/06/2027 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
 c18fa50e-9484-4549-9241-b456009f30ca,05/11/2027 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
+87ad1ac8-668a-41c0-b84d-f0803940f172,05/11/2027 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
 d46dde66-6b09-4201-bcff-06e491b05a8d,05/19/2027 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
+4bf876d1-07f3-4685-8c26-5809c764044e,06/01/2027 03:00:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 dbfde42f-ad5b-4b03-bcbe-a3f0b3e68dbe,06/01/2027 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 29a233a6-969f-4bc1-8e01-395495c3a1ce,06/01/2027 04:00:00,Exports,MEDIUM,IDR,Release,0.11,Trade and External
 3de76210-494b-41a2-9f65-e5dfb2de1a05,06/01/2027 04:00:00,Imports,MEDIUM,IDR,Release,0.11,Trade and External
 9318b269-da56-404a-9f0f-252a749e8794,06/01/2027 04:00:00,Inflation (MoM),HIGH,IDR,Release,0.19,Inflation
 f3b14e64-56eb-4d8f-bc24-d08e5359469a,06/01/2027 04:00:00,Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 54ccaa45-0a74-447a-b0c7-a0098a1f026d,06/01/2027 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
+26561849-64f6-49f2-8869-17e5c5985c39,06/07/2027 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
 22820b93-dcf1-47ec-83a4-f28c92765eaf,06/09/2027 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
+ccb3e703-c154-4288-a04a-97f079654e39,06/09/2027 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
 cc5b18bd-0d7c-4008-9175-345689c3c876,06/17/2027 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
+976b31a5-47ae-4adc-92de-36b99340b602,07/01/2027 03:00:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 26ba797c-b9d3-4bbb-80ca-658f4c3910e0,07/01/2027 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 0b9a1dce-c911-476f-a959-153eaf24e28a,07/01/2027 04:00:00,Exports,MEDIUM,IDR,Release,0.11,Trade and External
 05673ef2-e45b-44d6-b055-6e47ee0ce84e,07/01/2027 04:00:00,Imports,MEDIUM,IDR,Release,0.11,Trade and External
 0623ed23-ab4d-44b9-8d07-9bc53f5913c8,07/01/2027 04:00:00,Inflation (MoM),HIGH,IDR,Release,0.19,Inflation
 f6581970-1d33-4ad6-8473-eb0cd0ef5c44,07/01/2027 04:00:00,Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 2357be85-c30f-4751-8f64-a4356c9bd376,07/01/2027 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
+dcf5eed6-8e3c-4ffa-90d2-7402af888607,07/06/2027 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
 8d0e3d59-85e1-43d3-acd1-ef6b0c855d4f,07/08/2027 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
+6e94b2e1-4989-417f-9c4c-870059d886a7,07/09/2027 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
 78f6fc49-93a1-4e53-88bb-84a10968bfe9,07/21/2027 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
+e88034b1-0b2a-4148-b865-5bed3b6a99cb,08/02/2027 03:00:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 c79175be-e093-4520-aa31-abf3862ceda6,08/02/2027 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 e65f753d-3ced-4b66-831f-6a0899d89db6,08/02/2027 04:00:00,Exports,MEDIUM,IDR,Release,0.11,Trade and External
 a1c9cb71-19a6-4ffb-a9c6-f16a9ae0e872,08/02/2027 04:00:00,Imports,MEDIUM,IDR,Release,0.11,Trade and External
 d384b3ea-3ee4-4d0a-88bb-6cbe71a22b92,08/02/2027 04:00:00,Inflation (MoM),HIGH,IDR,Release,0.19,Inflation
 08009088-ceb9-45f9-8585-1c15f25fa803,08/02/2027 04:00:00,Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 bb7adf73-a1e4-4b1a-b606-9f93fa71e08c,08/02/2027 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
+40165595-bc0d-4c1e-9291-e49daf08f11e,08/05/2027 04:00:00,Gross Domestic Product (QoQ),HIGH,IDR,Release,0.17,Growth
+1e1e8e9f-1442-45a3-9794-5213f587ef66,08/05/2027 04:00:00,Gross Domestic Product (YoY),HIGH,IDR,Release,0.17,Growth
+fd9e35eb-e2fc-48b0-bb6e-9f905e2211c9,08/06/2027 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
 8624f0f6-556d-40da-96c6-b8ac20d3d5bc,08/10/2027 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
+effd590c-4a9e-4015-8c6c-18093a09c387,08/10/2027 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
 5ebed181-72ec-445d-b74a-d1095265f344,08/18/2027 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
+69f3d479-267d-49bd-8bcf-2a1d5406843c,09/01/2027 03:00:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 3a170556-e483-4203-8595-b3f3d5e10c15,09/01/2027 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 05cca673-a340-489e-bb59-2bb6d6aa34d0,09/01/2027 04:00:00,Exports,MEDIUM,IDR,Release,0.11,Trade and External
 d59839f1-2b81-482c-9909-7fc069ad7c2a,09/01/2027 04:00:00,Imports,MEDIUM,IDR,Release,0.11,Trade and External
 88904415-433b-4cc5-b9a5-38dfc9b9ba93,09/01/2027 04:00:00,Inflation (MoM),HIGH,IDR,Release,0.19,Inflation
 2cb9b28b-86cd-4794-a96b-cafb056fdbfa,09/01/2027 04:00:00,Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 152300e8-94be-45a4-a764-0c9bbf89aec8,09/01/2027 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
+c04f7aa3-b595-4aae-839b-52375adc4d65,09/08/2027 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
 6defa157-0563-4e69-b61b-eb0a1ad5c7f2,09/09/2027 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
+767bcafa-9d0f-42c4-a1c2-31ec24c698ba,09/09/2027 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
 e61fbb16-15ae-44c5-848c-3d6b6c8f76e8,09/22/2027 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
+426c27fb-ee38-43f9-9839-007f48543753,10/01/2027 03:00:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 ce31623f-a38a-4fb8-8e16-757120f1ca25,10/01/2027 04:00:00,Exports,MEDIUM,IDR,Release,0.11,Trade and External
 4cf0cd87-a0f3-4b59-ac89-1a657d9b56f2,10/01/2027 04:00:00,Imports,MEDIUM,IDR,Release,0.11,Trade and External
 95dfb41d-a06d-4f5d-813f-c0b891ca7ee6,10/01/2027 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
 49907044-ff53-4404-9c67-c06de9ba5df3,10/04/2027 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 60be928a-c341-4fa7-b2ac-48f4878c1394,10/04/2027 04:00:00,Inflation (MoM),HIGH,IDR,Release,0.19,Inflation
 5ec5109a-966c-4164-a9ed-f7b20ff3f896,10/04/2027 04:00:00,Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
+31c2bda1-3140-454e-b96f-24a4a60513fd,10/07/2027 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
 83d736d3-b489-4650-a469-e6b42e4d78a4,10/11/2027 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
+a3658de6-607a-4240-9e6e-986c615322a6,10/12/2027 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
 45494c0f-dd03-45fd-829c-684ebdf72583,10/20/2027 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy
+5b468d1f-46ed-45ff-8c27-995c53713d67,11/01/2027 03:00:00,S&P Global Manufacturing PMI,HIGH,IDR,Release,0.17,Growth
 a62c1e2f-404f-4365-8a49-9c050c22935b,11/01/2027 04:00:00,Exports,MEDIUM,IDR,Release,0.11,Trade and External
 4a58b771-11ca-45b0-8b43-9ca432971dbe,11/01/2027 04:00:00,Imports,MEDIUM,IDR,Release,0.11,Trade and External
 8f357c71-ebe5-4271-b2a0-fa03b1df5163,11/01/2027 04:00:00,Trade Balance,MEDIUM,IDR,Release,0.11,Trade and External
 7880a2d1-572e-4a35-a09f-05198fcd29c9,11/02/2027 04:00:00,Core Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
 139fa5f3-733c-4d75-af41-12b5abd3731e,11/02/2027 04:00:00,Inflation (MoM),HIGH,IDR,Release,0.19,Inflation
 5741cba9-6433-4f63-936a-da80e094f559,11/02/2027 04:00:00,Inflation (YoY),HIGH,IDR,Release,0.19,Inflation
+ceaf8252-2234-4201-adbc-06337503993a,11/05/2027 04:00:00,Gross Domestic Product (QoQ),HIGH,IDR,Release,0.17,Growth
+60f26faa-3a49-45d9-8546-220d844dc2a5,11/05/2027 04:00:00,Gross Domestic Product (YoY),HIGH,IDR,Release,0.17,Growth
+9a812adb-23e6-461a-9f85-09014b734e7e,11/08/2027 03:00:00,Foreign Reserves,LOW,IDR,Release,0.09,Money and Credit
 f7f247dd-1c7f-449c-9256-7b4fc18c3372,11/10/2027 03:00:00,Consumer Confidence,MEDIUM,IDR,Release,0.14,Confidence
+dee132c4-fcd0-476e-a673-e6ee75acc99f,11/10/2027 03:00:00,Retail Sales (YoY),HIGH,IDR,Release,0.17,Growth
 34603783-7d0e-4164-a299-3b467c86db19,11/17/2027 07:30:00,Bank Indonesia Rate,HIGH,IDR,Release,0.2,Monetary Policy

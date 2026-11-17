@@ -37,6 +37,7 @@ b87050de-7085-456a-bacb-0296df00ff50,01/07/2027 12:00:00,Consumer Confidence,MED
 49d77d51-1601-46cc-9107-c38c74e31526,01/07/2027 12:00:00,Consumer Confidence s.a,MEDIUM,MXN,Release,0.14,Confidence
 ce91d64c-97f6-4fb5-936a-cd0932de85bd,01/07/2027 12:00:00,Core Inflation,HIGH,MXN,Release,0.19,Inflation
 e97c49d3-3c77-475c-99d2-61a272b6411b,01/07/2027 12:00:00,Headline Inflation,HIGH,MXN,Release,0.19,Inflation
+4fe30f0e-4535-48c2-aa56-ec0560cc99d8,01/07/2027 15:00:00,Banxico Monetary Policy Meeting Minutes,HIGH,MXN,Release,0.2,Monetary Policy
 66e52359-3847-4d1a-97ea-206d3e2b15a6,01/11/2027 12:00:00,Industrial Output (MoM),HIGH,MXN,Release,0.17,Growth
 9a6a97b6-6568-4804-b9f7-3648e32273d0,01/11/2027 12:00:00,Industrial Output (YoY),HIGH,MXN,Release,0.17,Growth
 ce5c47d0-faaf-4b26-b2f4-7f44a8ae710c,01/21/2027 12:00:00,Retail Sales (MoM),HIGH,MXN,Release,0.17,Growth
@@ -50,9 +51,121 @@ f4860445-156a-43b3-83eb-04b0e7e9be5e,01/27/2027 12:00:00,"Trade Balance s/a, $",
 d5f044f3-3a10-44cf-972a-b7aa853583bd,01/29/2027 12:00:00,Gross Domestic Product (QoQ),HIGH,MXN,Release,0.17,Growth
 23637762-9280-43f7-bd22-7a4e2b46859d,01/29/2027 12:00:00,Gross Domestic Product (YoY),HIGH,MXN,Release,0.17,Growth
 085a6e4f-a808-49fa-9263-d2494f56667f,01/29/2027 21:00:00,"Fiscal Balance, pesos",MEDIUM,MXN,Release,0.11,Trade and External
-f18084a6-4354-498c-bade-37a95b2d4392,02/22/2027 12:00:00,Gross Domestic Product (QoQ),HIGH,MXN,Release,0.17,Growth
-e5b6ed03-7433-45d4-961c-20d44a607218,02/22/2027 12:00:00,Gross Domestic Product (YoY),HIGH,MXN,Release,0.17,Growth
+98cfe63e-e8b9-4069-9f45-c70e687f868b,02/05/2027 12:00:00,Consumer Confidence,MEDIUM,MXN,Release,0.14,Confidence
+38c54f80-b738-487c-a174-8e95de0ac7c3,02/05/2027 12:00:00,Consumer Confidence s.a,MEDIUM,MXN,Release,0.14,Confidence
+2cd8cb83-447c-45c3-8db9-0c064a409028,02/09/2027 12:00:00,12-Month Inflation,HIGH,MXN,Release,0.19,Inflation
+70ce3464-94f9-4763-be02-2a6088ae5fac,02/09/2027 12:00:00,Core Inflation,HIGH,MXN,Release,0.19,Inflation
+44641549-bed3-414d-9b9c-cbbfc47c7138,02/09/2027 12:00:00,Headline Inflation,HIGH,MXN,Release,0.19,Inflation
+39cf7c34-e321-4563-80dc-60ef08709475,02/11/2027 19:00:00,Banxico Interest Rate Decision,HIGH,MXN,Release,0.2,Monetary Policy
+4c2f8289-8a87-4be4-a95d-56d218106b39,02/24/2027 12:00:00,1st half-month Core Inflation,HIGH,MXN,Release,0.19,Inflation
+ac2d5292-a3fd-4bbd-96d0-cbcd768d55eb,02/24/2027 12:00:00,1st half-month Inflation,HIGH,MXN,Release,0.19,Inflation
+f18084a6-4354-498c-bade-37a95b2d4392,02/24/2027 12:00:00,Gross Domestic Product (QoQ),HIGH,MXN,Release,0.17,Growth
+e5b6ed03-7433-45d4-961c-20d44a607218,02/24/2027 12:00:00,Gross Domestic Product (YoY),HIGH,MXN,Release,0.17,Growth
 3b0228b0-2a54-4856-9353-aafff5872984,02/25/2027 15:00:00,Accumulated Current Account/GDP,MEDIUM,MXN,Release,0.11,Trade and External
+58393df0-3e6e-4c20-965e-9832724737f5,02/25/2027 15:00:00,Banxico Monetary Policy Meeting Minutes,HIGH,MXN,Release,0.2,Monetary Policy
 e5f64c6a-f33a-49af-8918-5e5e87249712,02/25/2027 15:00:00,"Current Account, $ (QoQ)",MEDIUM,MXN,Release,0.11,Trade and External
+dab46e21-073b-4942-8612-01f6025d15b8,03/02/2027 21:00:00,"Fiscal Balance, pesos",MEDIUM,MXN,Release,0.11,Trade and External
+b569aede-4231-4aef-bda1-7fd442046b09,03/08/2027 12:00:00,Consumer Confidence,MEDIUM,MXN,Release,0.14,Confidence
+1f5f0a24-0f93-49b8-bae8-e7de924b31a0,03/08/2027 12:00:00,Consumer Confidence s.a,MEDIUM,MXN,Release,0.14,Confidence
+eb2eaad2-09ef-4723-97ba-72991cedc327,03/09/2027 12:00:00,12-Month Inflation,HIGH,MXN,Release,0.19,Inflation
+34e2dd46-4240-4219-80e8-4c20d6bfb3cc,03/09/2027 12:00:00,Core Inflation,HIGH,MXN,Release,0.19,Inflation
+3a29d8b6-591b-4cb9-8666-5642e5594ee2,03/09/2027 12:00:00,Headline Inflation,HIGH,MXN,Release,0.19,Inflation
+b5b4280e-c237-47ec-8077-9914dd78933c,03/18/2027 19:00:00,Banxico Interest Rate Decision,HIGH,MXN,Release,0.2,Monetary Policy
 3f763118-854d-414e-9bdd-f66ec01a47bb,03/19/2027 12:00:00,Private Spending (QoQ),HIGH,MXN,Release,0.17,Growth
 43f588ae-147f-4dc8-ba10-e5dc8ff111c5,03/19/2027 12:00:00,Private Spending (YoY),HIGH,MXN,Release,0.17,Growth
+46f22305-eb8e-4c9c-9421-c9ed2a460239,03/23/2027 12:00:00,1st half-month Core Inflation,HIGH,MXN,Release,0.19,Inflation
+2ba2cfcb-9f98-42e5-888b-98197c3f0ca9,03/23/2027 12:00:00,1st half-month Inflation,HIGH,MXN,Release,0.19,Inflation
+d411e274-2e0c-43f7-90a8-f06209d6cebd,03/30/2027 21:00:00,"Fiscal Balance, pesos",MEDIUM,MXN,Release,0.11,Trade and External
+446bf234-b42f-41cc-87c9-c1968663e090,04/01/2027 15:00:00,Banxico Monetary Policy Meeting Minutes,HIGH,MXN,Release,0.2,Monetary Policy
+40e00a24-a0fd-401c-85e1-6d81f2322f80,04/07/2027 12:00:00,Consumer Confidence,MEDIUM,MXN,Release,0.14,Confidence
+a649a7f0-7eb8-471c-a646-813c5526f838,04/07/2027 12:00:00,Consumer Confidence s.a,MEDIUM,MXN,Release,0.14,Confidence
+af74cf1f-6a34-45e1-a232-a55f2728b390,04/08/2027 12:00:00,12-Month Inflation,HIGH,MXN,Release,0.19,Inflation
+ee0b3a1d-b98c-4279-b1f4-cf6555b4af4a,04/08/2027 12:00:00,Core Inflation,HIGH,MXN,Release,0.19,Inflation
+8b664564-1dc5-4818-bc78-3ebe3d8b55b2,04/08/2027 12:00:00,Headline Inflation,HIGH,MXN,Release,0.19,Inflation
+8f1a0f1e-522e-45ea-8829-2e82d70b5e7e,04/22/2027 12:00:00,1st half-month Core Inflation,HIGH,MXN,Release,0.19,Inflation
+5af7a39c-e6f7-48d5-88b6-b878258e81b0,04/22/2027 12:00:00,1st half-month Inflation,HIGH,MXN,Release,0.19,Inflation
+4a40af8c-cd32-4176-928e-554ddad7a8a6,04/29/2027 21:00:00,"Fiscal Balance, pesos",MEDIUM,MXN,Release,0.11,Trade and External
+9c64a12a-8b75-420e-bdf1-25a1015734d0,04/30/2027 12:00:00,Gross Domestic Product (QoQ),HIGH,MXN,Release,0.17,Growth
+4b47a0b4-bbd1-4acd-9f37-48bd00e7bdf0,04/30/2027 12:00:00,Gross Domestic Product (YoY),HIGH,MXN,Release,0.17,Growth
+952dffcf-e6f6-4019-9f21-4a8c54a0480f,05/06/2027 12:00:00,Consumer Confidence,MEDIUM,MXN,Release,0.14,Confidence
+ac08b671-68f7-42e7-8248-7683975c1b51,05/06/2027 12:00:00,Consumer Confidence s.a,MEDIUM,MXN,Release,0.14,Confidence
+f45ead5f-3860-4dc6-838d-e0b9c70687f3,05/06/2027 19:00:00,Banxico Interest Rate Decision,HIGH,MXN,Release,0.2,Monetary Policy
+283e4bf8-0e4c-43db-8bab-bfdda3858c9c,05/07/2027 12:00:00,12-Month Inflation,HIGH,MXN,Release,0.19,Inflation
+0f86b248-e6e5-404b-be71-6e8437c4db3f,05/07/2027 12:00:00,Core Inflation,HIGH,MXN,Release,0.19,Inflation
+94d0faea-2f42-46b0-8af5-039d9122b72d,05/07/2027 12:00:00,Headline Inflation,HIGH,MXN,Release,0.19,Inflation
+b98f8275-ca31-44ae-bc89-d4f980dc8999,05/20/2027 15:00:00,Banxico Monetary Policy Meeting Minutes,HIGH,MXN,Release,0.2,Monetary Policy
+51182793-8be9-4bb8-8a61-bc2c93e45ceb,05/24/2027 12:00:00,1st half-month Core Inflation,HIGH,MXN,Release,0.19,Inflation
+af286fe7-d77a-4796-b9a1-65b9a38b8e19,05/24/2027 12:00:00,1st half-month Inflation,HIGH,MXN,Release,0.19,Inflation
+b10f7bba-e78b-4193-a487-6704125a7bab,05/24/2027 12:00:00,Gross Domestic Product (QoQ),HIGH,MXN,Release,0.17,Growth
+f3237343-403f-4b09-8422-358f58a8a110,05/24/2027 12:00:00,Gross Domestic Product (YoY),HIGH,MXN,Release,0.17,Growth
+9c6d07fd-2506-4099-9df2-44230223b6fb,05/25/2027 15:00:00,Accumulated Current Account/GDP,MEDIUM,MXN,Release,0.11,Trade and External
+d4dd5cf0-6bdc-4957-ada9-12ca134e34f9,05/25/2027 15:00:00,"Current Account, $ (QoQ)",MEDIUM,MXN,Release,0.11,Trade and External
+bbbcb2b9-8013-4a31-887f-60225767caf5,05/31/2027 21:00:00,"Fiscal Balance, pesos",MEDIUM,MXN,Release,0.11,Trade and External
+8b3d0af4-1f0a-48bd-9f55-29d1fd99f2b6,06/04/2027 12:00:00,Consumer Confidence,MEDIUM,MXN,Release,0.14,Confidence
+260aa81b-9e73-4300-ab9f-6d611288e638,06/04/2027 12:00:00,Consumer Confidence s.a,MEDIUM,MXN,Release,0.14,Confidence
+46f83adb-55ca-4430-bb81-993bceb910fc,06/09/2027 12:00:00,12-Month Inflation,HIGH,MXN,Release,0.19,Inflation
+49200736-d5c5-46e7-a398-4f1841d5de3b,06/09/2027 12:00:00,Core Inflation,HIGH,MXN,Release,0.19,Inflation
+4c2f95b2-7397-43c5-b5b8-c8e448aca4a6,06/09/2027 12:00:00,Headline Inflation,HIGH,MXN,Release,0.19,Inflation
+8db7587d-f8a1-4c91-87a9-7472de4a1f7a,06/24/2027 12:00:00,1st half-month Core Inflation,HIGH,MXN,Release,0.19,Inflation
+6491f182-ca9b-4c31-b0f9-fcc3ec8f3810,06/24/2027 12:00:00,1st half-month Inflation,HIGH,MXN,Release,0.19,Inflation
+1bc12b6d-510c-41af-b76e-56934fdd1d37,06/24/2027 19:00:00,Banxico Interest Rate Decision,HIGH,MXN,Release,0.2,Monetary Policy
+40f346cb-5da1-4877-81ff-7166b0cb80ba,06/29/2027 21:00:00,"Fiscal Balance, pesos",MEDIUM,MXN,Release,0.11,Trade and External
+7ee8950e-5c74-43a4-a628-f5e485c744ee,07/06/2027 12:00:00,Consumer Confidence,MEDIUM,MXN,Release,0.14,Confidence
+e4b51d14-e344-4b2a-b670-f1271396fa1e,07/06/2027 12:00:00,Consumer Confidence s.a,MEDIUM,MXN,Release,0.14,Confidence
+5d903a84-2d2e-4cc7-b847-6a0635a14373,07/08/2027 12:00:00,12-Month Inflation,HIGH,MXN,Release,0.19,Inflation
+db223942-090a-42de-8861-eaf271fb2c01,07/08/2027 12:00:00,Core Inflation,HIGH,MXN,Release,0.19,Inflation
+dcefcf24-4765-468a-bdca-901d09a6c046,07/08/2027 12:00:00,Headline Inflation,HIGH,MXN,Release,0.19,Inflation
+4ce941c1-3974-47d7-8bff-414212d6b1c0,07/08/2027 15:00:00,Banxico Monetary Policy Meeting Minutes,HIGH,MXN,Release,0.2,Monetary Policy
+9696ba6c-a646-473e-8f7d-5f2a2ec895c9,07/22/2027 12:00:00,1st half-month Core Inflation,HIGH,MXN,Release,0.19,Inflation
+c17855c0-cf38-450b-8b24-127711c9e5c1,07/22/2027 12:00:00,1st half-month Inflation,HIGH,MXN,Release,0.19,Inflation
+e5d4c331-b596-4a3c-a373-ee3a88ba8134,07/29/2027 21:00:00,"Fiscal Balance, pesos",MEDIUM,MXN,Release,0.11,Trade and External
+014c23b7-9cc6-4dc5-a3a2-8d9477fb4fd1,07/30/2027 12:00:00,Gross Domestic Product (QoQ),HIGH,MXN,Release,0.17,Growth
+170dbf32-abd9-40ac-9668-b79152551255,07/30/2027 12:00:00,Gross Domestic Product (YoY),HIGH,MXN,Release,0.17,Growth
+eae366a9-9aab-4722-bb35-e9591da1d60e,08/06/2027 12:00:00,Consumer Confidence,MEDIUM,MXN,Release,0.14,Confidence
+3eab281b-ceed-4773-be6e-e7146f1842e1,08/06/2027 12:00:00,Consumer Confidence s.a,MEDIUM,MXN,Release,0.14,Confidence
+a43c4fe3-9cc2-49f5-9e21-e7da244e498a,08/09/2027 12:00:00,12-Month Inflation,HIGH,MXN,Release,0.19,Inflation
+4aacef0f-9d34-4baf-b9c1-1f4bd7980aff,08/09/2027 12:00:00,Core Inflation,HIGH,MXN,Release,0.19,Inflation
+6d54718d-f449-4092-af0d-e86809beff2a,08/09/2027 12:00:00,Headline Inflation,HIGH,MXN,Release,0.19,Inflation
+3fa888f6-5647-4ba7-a36a-b86edc96f492,08/12/2027 19:00:00,Banxico Interest Rate Decision,HIGH,MXN,Release,0.2,Monetary Policy
+7e5c30ad-296a-4ab8-8d1e-76efe2893bdd,08/23/2027 12:00:00,Gross Domestic Product (QoQ),HIGH,MXN,Release,0.17,Growth
+60126092-05e6-46cc-9071-7f33d939aad2,08/23/2027 12:00:00,Gross Domestic Product (YoY),HIGH,MXN,Release,0.17,Growth
+5830920c-8a24-49f0-b486-ce056a13d7b8,08/24/2027 12:00:00,1st half-month Core Inflation,HIGH,MXN,Release,0.19,Inflation
+a4688579-5a82-496a-ad7f-bce1949c2fd0,08/24/2027 12:00:00,1st half-month Inflation,HIGH,MXN,Release,0.19,Inflation
+6bbc69f5-0010-4e12-b531-92cc4d5307b2,08/25/2027 15:00:00,Accumulated Current Account/GDP,MEDIUM,MXN,Release,0.11,Trade and External
+a11772cd-ad06-47ae-810d-179dbe555bfb,08/25/2027 15:00:00,"Current Account, $ (QoQ)",MEDIUM,MXN,Release,0.11,Trade and External
+2f56faf9-f91d-4f68-b61e-1421a05c69e9,08/26/2027 15:00:00,Banxico Monetary Policy Meeting Minutes,HIGH,MXN,Release,0.2,Monetary Policy
+a0ce9ffb-fc00-4ae4-bfd0-76149d0b07a8,08/31/2027 21:00:00,"Fiscal Balance, pesos",MEDIUM,MXN,Release,0.11,Trade and External
+2d31f2f8-a894-441d-bdfa-e6b669805d2a,09/08/2027 12:00:00,Consumer Confidence,MEDIUM,MXN,Release,0.14,Confidence
+70719307-7655-43c5-8227-3523c86660cb,09/08/2027 12:00:00,Consumer Confidence s.a,MEDIUM,MXN,Release,0.14,Confidence
+d0d7e414-42ad-4b08-918c-0418d8d29a48,09/09/2027 12:00:00,12-Month Inflation,HIGH,MXN,Release,0.19,Inflation
+df5e9384-457f-4a3f-9493-1b4ff691ba87,09/09/2027 12:00:00,Core Inflation,HIGH,MXN,Release,0.19,Inflation
+a6c0b3bf-bb8a-4ebd-bef6-0a0ab93d26ae,09/09/2027 12:00:00,Headline Inflation,HIGH,MXN,Release,0.19,Inflation
+114fad55-aa1e-4726-aa44-7ab28a0dbc66,09/23/2027 12:00:00,1st half-month Core Inflation,HIGH,MXN,Release,0.19,Inflation
+b68c8547-eaef-4fa9-bba2-bcaf12ebd497,09/23/2027 12:00:00,1st half-month Inflation,HIGH,MXN,Release,0.19,Inflation
+f7e748c8-3b20-419d-a173-eb6145c615cb,09/23/2027 19:00:00,Banxico Interest Rate Decision,HIGH,MXN,Release,0.2,Monetary Policy
+11cdc4c8-3410-4ef2-88ad-284985f6c1f8,09/29/2027 21:00:00,"Fiscal Balance, pesos",MEDIUM,MXN,Release,0.11,Trade and External
+e325c527-6d67-45c2-874d-24dae82ecf04,10/07/2027 12:00:00,12-Month Inflation,HIGH,MXN,Release,0.19,Inflation
+af3a93fb-e2db-4818-9e60-6ec572b9cde6,10/07/2027 12:00:00,Consumer Confidence,MEDIUM,MXN,Release,0.14,Confidence
+87361eec-8198-4d60-9b88-d1beaa75cb59,10/07/2027 12:00:00,Consumer Confidence s.a,MEDIUM,MXN,Release,0.14,Confidence
+e87e7350-1a2c-4233-be34-6f0fde2ca1eb,10/07/2027 12:00:00,Core Inflation,HIGH,MXN,Release,0.19,Inflation
+1d890624-cf92-4bff-891e-18a50a92b17e,10/07/2027 12:00:00,Headline Inflation,HIGH,MXN,Release,0.19,Inflation
+37dbb73c-1451-4791-b1a3-1db093bfeef4,10/07/2027 15:00:00,Banxico Monetary Policy Meeting Minutes,HIGH,MXN,Release,0.2,Monetary Policy
+551c8969-7b93-447e-8d1c-6291487c8777,10/22/2027 12:00:00,1st half-month Core Inflation,HIGH,MXN,Release,0.19,Inflation
+0071bad3-0ddb-45fb-a0fc-64af1d5c89e2,10/22/2027 12:00:00,1st half-month Inflation,HIGH,MXN,Release,0.19,Inflation
+959f00cd-6c32-4143-b198-e94c3ebae368,10/29/2027 12:00:00,Gross Domestic Product (QoQ),HIGH,MXN,Release,0.17,Growth
+62bf6db6-4b91-4e0e-a631-3b8e8add608c,10/29/2027 12:00:00,Gross Domestic Product (YoY),HIGH,MXN,Release,0.17,Growth
+eebf2cc5-2d17-40e5-aec1-86ff3fb07d10,10/29/2027 21:00:00,"Fiscal Balance, pesos",MEDIUM,MXN,Release,0.11,Trade and External
+51d6ffd6-2566-40e6-bebe-f3f9ad161d77,11/04/2027 12:00:00,Consumer Confidence,MEDIUM,MXN,Release,0.14,Confidence
+4d8efbaf-f4fd-4a67-bbfa-3ab484b85e2a,11/04/2027 12:00:00,Consumer Confidence s.a,MEDIUM,MXN,Release,0.14,Confidence
+db117fba-26de-4383-b834-d6f7530f89fa,11/04/2027 19:00:00,Banxico Interest Rate Decision,HIGH,MXN,Release,0.2,Monetary Policy
+8519e86e-3966-4eaf-b509-9a29cb119b44,11/08/2027 12:00:00,12-Month Inflation,HIGH,MXN,Release,0.19,Inflation
+c5a27536-607d-448c-a712-899a582a9fb2,11/08/2027 12:00:00,Core Inflation,HIGH,MXN,Release,0.19,Inflation
+4a78d566-e590-4916-9d18-509f8b3821ec,11/08/2027 12:00:00,Headline Inflation,HIGH,MXN,Release,0.19,Inflation
+9f027683-82b0-4245-ab43-e6d34a28a234,11/18/2027 15:00:00,Banxico Monetary Policy Meeting Minutes,HIGH,MXN,Release,0.2,Monetary Policy
+b43d28bc-81a1-40bf-9200-dc283e54f31e,11/23/2027 12:00:00,1st half-month Core Inflation,HIGH,MXN,Release,0.19,Inflation
+9263646d-bf37-4107-9a85-e7517ddb7da8,11/23/2027 12:00:00,1st half-month Inflation,HIGH,MXN,Release,0.19,Inflation
+4b3b22e3-a956-407a-bb2c-e3424e2aa135,11/23/2027 12:00:00,Gross Domestic Product (QoQ),HIGH,MXN,Release,0.17,Growth
+43bd3a62-73b6-4d57-b7ec-caa9b3b28280,11/23/2027 12:00:00,Gross Domestic Product (YoY),HIGH,MXN,Release,0.17,Growth
+e4571ac2-9e2c-450a-874e-e6a16f2f1aa5,11/25/2027 15:00:00,Accumulated Current Account/GDP,MEDIUM,MXN,Release,0.11,Trade and External
+a093aa5e-abf5-4e40-ad34-a56b03ae0975,11/25/2027 15:00:00,"Current Account, $ (QoQ)",MEDIUM,MXN,Release,0.11,Trade and External
+cb59a6b3-0bb0-4e69-9502-b828a4215a16,11/30/2027 21:00:00,"Fiscal Balance, pesos",MEDIUM,MXN,Release,0.11,Trade and External
