@@ -26,13 +26,13 @@ e3f982bb-b826-4a2e-9a53-a48952a95465,12/23/2026 07:00:00,Producer Price Index (M
 6aa39237-e88c-4f66-bdf7-e32566fc6a1b,12/23/2026 07:00:00,Producer Price Index (YoY),LOW,SEK
 ede491a9-a57c-433e-a428-3040d6d1d101,12/28/2026 07:00:00,Trade Balance (MoM),LOW,SEK
 394f0ec6-0a3b-4bb1-b619-d5a4f381dfef,01/04/2027 07:30:00,Manufacturing PMI,LOW,SEK
-603c3753-9f25-44ff-953f-96989eb34842,01/07/2027 07:00:00,Consumer Price Index (MoM),LOW,SEK
-57a1eae1-84e8-492e-b9f7-d6597d90b2a4,01/07/2027 07:00:00,Consumer Price Index (YoY),LOW,SEK
+603c3753-9f25-44ff-953f-96989eb34842,01/08/2027 07:00:00,Consumer Price Index (MoM),LOW,SEK
+57a1eae1-84e8-492e-b9f7-d6597d90b2a4,01/08/2027 07:00:00,Consumer Price Index (YoY),LOW,SEK
 970f2efd-8c0a-4a89-95ec-4bd55e11a1a7,01/08/2027 07:00:00,Industrial Production Value (MoM),LOW,SEK
 c073da06-5668-4877-861c-e58a62cd553c,01/08/2027 07:00:00,Industrial Production Value (YoY),LOW,SEK
 dbcb2609-f858-483a-9e55-65d5ef3f6aaa,01/08/2027 07:00:00,New Orders Manufacturing (YoY),LOW,SEK
-5298bf0f-1726-4fea-9598-85a7a867171a,01/14/2027 07:00:00,Consumer Price Index (MoM),LOW,SEK
-3e16e2f6-5c8e-4e7f-b99c-7eef7a133b67,01/14/2027 07:00:00,Consumer Price Index (YoY),LOW,SEK
+5298bf0f-1726-4fea-9598-85a7a867171a,01/15/2027 07:00:00,Consumer Price Index (MoM),LOW,SEK
+3e16e2f6-5c8e-4e7f-b99c-7eef7a133b67,01/15/2027 07:00:00,Consumer Price Index (YoY),LOW,SEK
 1c04762c-8f0d-416a-9600-9915f4c24675,01/20/2027 07:00:00,Unemployment Rate,LOW,SEK
 0c32cad5-bebd-4899-b9da-d25625760bff,01/26/2027 07:00:00,Producer Price Index (MoM),LOW,SEK
 e5837a1c-25da-47bb-9ac7-b1132ee525a2,01/26/2027 07:00:00,Producer Price Index (YoY),LOW,SEK
@@ -40,6 +40,58 @@ e5837a1c-25da-47bb-9ac7-b1132ee525a2,01/26/2027 07:00:00,Producer Price Index (Y
 e18224df-c589-4c41-842b-30b7dac8e488,01/29/2027 07:00:00,Retail Sales (MoM),LOW,SEK
 4372f53a-ce80-4761-bedf-bfebd81712a7,01/29/2027 07:00:00,Retail Sales (YoY),LOW,SEK
 7982f2d1-50f3-4fae-aed8-a5a25771845b,01/29/2027 08:00:00,Consumer Confidence (MoM),LOW,SEK
+0a5081e9-bdb7-4263-b721-7cc2af893149,02/05/2027 07:00:00,Consumer Price Index (MoM),LOW,SEK
+f7fde323-48cc-4305-a7c9-e6d15041b3e3,02/05/2027 07:00:00,Consumer Price Index (YoY),LOW,SEK
+98fcfb59-c42b-4f1b-99b3-68cffb19e8b7,02/17/2027 07:00:00,Consumer Price Index (MoM),LOW,SEK
+6264eb52-aa6a-451a-92b5-dd4663790448,02/17/2027 07:00:00,Consumer Price Index (YoY),LOW,SEK
 6a637163-b940-41a7-9773-84b7ef85b8d0,02/26/2027 07:00:00,Gross Domestic Product (QoQ),LOW,SEK
 fd879236-6a55-42b3-b563-8d1bcb1527e0,02/26/2027 07:00:00,Gross Domestic Product (YoY),LOW,SEK
+7ff3402a-2077-4b50-94b9-d9065e622bd2,02/26/2027 08:00:00,Consumer Confidence (MoM),LOW,SEK
 7572c594-7876-4cce-a509-29678c579e5b,03/05/2027 07:00:00,Current Account (QoQ),LOW,SEK
+6f219ab2-08d9-40df-8817-b3eebe1b2d69,03/08/2027 07:00:00,Consumer Price Index (MoM),LOW,SEK
+e21ebb1d-4b7b-4c11-9192-3a994d97bc87,03/08/2027 07:00:00,Consumer Price Index (YoY),LOW,SEK
+0f4b80de-735d-4c4b-83fe-59f62fb3a7b6,03/15/2027 07:00:00,Consumer Price Index (MoM),LOW,SEK
+7c629317-ddd8-49d9-bdaf-5ef1ce78d281,03/15/2027 07:00:00,Consumer Price Index (YoY),LOW,SEK
+5e29591b-4232-4f96-955b-60b0dea0391c,03/29/2027 07:00:00,Consumer Confidence (MoM),LOW,SEK
+3b035e17-f4aa-4fdf-a4ad-86356005f8c6,04/06/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
+b815fd80-809b-4f3d-9703-2a4772677fad,04/06/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+ae8f4fac-54df-41d3-be25-96063e218133,04/13/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
+a48ca02c-3cea-4fdb-904c-5fde7be94a9a,04/13/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+d42e5c39-dd4e-4699-b299-13e909c46004,04/29/2027 07:00:00,Consumer Confidence (MoM),LOW,SEK
+a9873f77-ebca-4d37-a5d8-76d8a7892757,05/07/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
+a217e019-a3ce-49cb-8b4e-96ce587a879a,05/07/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+47bbb9fc-8da5-46a4-a0dc-725f5b71c6ad,05/14/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
+d58c83f4-7e61-43ae-8a37-9106b2560664,05/14/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+e7b88163-1a16-42cd-b653-0a78c423b27d,05/28/2027 07:00:00,Consumer Confidence (MoM),LOW,SEK
+372d383d-fe5e-4dba-a2e8-df73399a5884,06/04/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
+f10105bf-3cfb-4859-8624-244dd64b47a9,06/04/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+df31119e-53b8-4eab-a6f0-996f09413096,06/04/2027 06:00:00,Current Account (QoQ),LOW,SEK
+38683328-6cd7-4a71-9fbd-65cce3f5cbd1,06/11/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
+75583a31-846f-495a-9707-83e2b51f2e2e,06/11/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+adb79c3a-66d3-4fe1-b40d-fe806df32669,06/30/2027 07:00:00,Consumer Confidence (MoM),LOW,SEK
+1023d9c1-7953-4c26-94d5-d343497a3729,07/07/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
+41fc5bc1-e5a7-4e92-a508-de488e6b740c,07/07/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+5edb5e0a-7aa2-4683-bb2c-ff75a18efef1,07/14/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
+9a25d00f-6a0b-4a3b-889b-c4ff8b755f0c,07/14/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+b34d24b9-fbf7-429b-9bb3-2f3778b35e27,07/29/2027 07:00:00,Consumer Confidence (MoM),LOW,SEK
+7425e799-5c66-4a80-8a5a-df076bffc5ca,08/05/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
+bb6b6132-808e-47b5-be4e-2f0c3bb8c30c,08/05/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+af4950fd-514f-4a39-bf0c-57586abbee40,08/12/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
+ffe9115f-1153-4681-acab-d9452363cb1d,08/12/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+bc112e58-9827-4fb6-aba7-e493f64bbcdb,08/27/2027 07:00:00,Consumer Confidence (MoM),LOW,SEK
+4b4003ab-fa1d-4366-a575-b29bcdf042ba,09/03/2027 06:00:00,Current Account (QoQ),LOW,SEK
+6b26f398-5128-48fe-b063-5973d355e3e1,09/07/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
+01866a86-22ae-4289-8c0f-00e2c5c0c373,09/07/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+126fb61f-da47-424b-8c12-8ca9393e4a9d,09/14/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
+6279b994-4c0e-4304-8666-af8fc2d1ace1,09/14/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+26cd3ad1-b9a0-4c3b-9524-7dd0ad1de105,09/30/2027 07:00:00,Consumer Confidence (MoM),LOW,SEK
+661d2635-9cb0-47df-95e5-e3345d8713b4,10/07/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
+53439fb8-df6a-4595-b16d-64b53a001569,10/07/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+ae0d0072-21f9-4165-95b1-58bf72ed80e7,10/14/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
+647f2010-e256-4e27-bfa3-2c7035ec60e4,10/14/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+17952cc6-33cc-4f60-bc99-2e5095d67f5b,10/29/2027 07:00:00,Consumer Confidence (MoM),LOW,SEK
+c3dd1ff4-e63a-4fe6-afa1-5931f6b357a3,11/05/2027 07:00:00,Consumer Price Index (MoM),LOW,SEK
+53132b74-383c-48b5-8542-9663a9626069,11/05/2027 07:00:00,Consumer Price Index (YoY),LOW,SEK
+9f25f341-0fdb-40f1-81d5-cf85c32e50ad,11/12/2027 07:00:00,Consumer Price Index (MoM),LOW,SEK
+4de61d87-af7d-462a-bc10-542e9d0a59a7,11/12/2027 07:00:00,Consumer Price Index (YoY),LOW,SEK
+3ab1eac6-fc91-48ce-91ad-dfa9a8782fca,11/26/2027 08:00:00,Consumer Confidence (MoM),LOW,SEK

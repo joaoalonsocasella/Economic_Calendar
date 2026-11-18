@@ -1,8 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-937c0af9-66ed-4b95-aab7-dca04d27e3e4,11/17/2026 02:00:00,RBNZ Inflation Expectations (QoQ),HIGH,NZD,Release,0.19,Inflation
-388b82b4-a0cb-4e70-a678-3771e8c4a6e8,11/17/2026 15:03:33,GDT Price Index,MEDIUM,NZD,Release,0.11,Trade and External
-25829276-c094-431c-8f28-d6f87b639d6e,11/17/2026 21:45:00,Producer Price Index - Input (QoQ),HIGH,NZD,Release,0.19,Inflation
-4fbbcd0e-e2a5-48eb-a0ad-b624ada01657,11/17/2026 21:45:00,Producer Price Index - Output (QoQ),HIGH,NZD,Release,0.19,Inflation
 33fb0f31-d418-4127-aab7-033597520af6,11/18/2026 18:00:00,RBNZ's Breman speech,HIGH,NZD,Release,0.2,Monetary Policy
 4cd122cb-00a7-496d-9a27-d77c167568c2,11/18/2026 21:45:00,Exports,MEDIUM,NZD,Release,0.11,Trade and External
 a7757169-08d7-4c1b-8332-9aa51a6ae24b,11/18/2026 21:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External

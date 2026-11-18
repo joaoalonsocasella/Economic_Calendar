@@ -1,9 +1,5 @@
 Id,Start,Name,Impact,Currency
-0e95ba3b-1441-4e14-bede-1fd7ade10267,11/17/2026 04:30:00,Tertiary Industry Index (MoM),LOW,JPY
-37602ca6-9d42-4a43-b2e9-8412fcd8add6,11/17/2026 23:50:00,Adjusted Merchandise Trade Balance,MEDIUM,JPY
-e422a8fb-7cba-448d-8e9b-e6ef9d7ef6b1,11/17/2026 23:50:00,Exports (YoY),MEDIUM,JPY
-924fd09c-5d2a-45dd-ab0a-ce76d22c8c5f,11/17/2026 23:50:00,Imports (YoY),MEDIUM,JPY
-75cf18c1-58c2-441d-97d5-597d2bb65d3b,11/17/2026 23:50:00,Merchandise Trade Balance Total,MEDIUM,JPY
+fe018b8e-5f10-41ac-9883-7edb3ce51a0c,11/18/2026 01:00:00,BoJ Governor Ueda speech,HIGH,JPY
 42a1ea17-f349-45a0-a6e0-87c47507cdec,11/18/2026 23:50:00,Foreign Bond Investment,LOW,JPY
 cc6cfdd5-7a86-47a4-97c6-29247b127f95,11/18/2026 23:50:00,Foreign Investment in Japan Stocks,LOW,JPY
 ae555443-9a6b-4666-a4c7-7a30089a838f,11/18/2026 23:50:00,Machinery Orders (MoM),LOW,JPY

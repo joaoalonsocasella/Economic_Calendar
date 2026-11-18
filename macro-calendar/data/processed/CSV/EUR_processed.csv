@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d6c3563e-8350-4fb1-89a2-cef5d0f13d6c,11/17/2026 09:00:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
-1e92729f-6968-4b8f-bf07-797ff1718ace,11/17/2026 10:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR,Release,0.595,Confidence
-8a42390f-d31d-4581-95b5-adb4542f6919,11/17/2026 18:30:00,ECB's Lane speech,HIGH,EUR,Release,0.85,Monetary Policy
 a07bbfa2-e08b-4bb8-bf4b-10ad74ea23c3,11/18/2026 02:45:00,ECB's Escrivá speech,HIGH,EUR,Speech,0.552,Monetary Policy
 ce771c04-08c6-4389-8658-e2401fd6a78a,11/18/2026 09:00:00,EU Financial Stability Review,HIGH,EUR,Speech,0.552,Monetary Policy
 07e372a3-7dfc-420e-83ef-862b459c7a77,11/18/2026 10:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR,Release,0.595,Confidence
