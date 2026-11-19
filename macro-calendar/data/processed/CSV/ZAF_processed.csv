@@ -1,8 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d6a871c2-2cb0-4c54-9a69-a3736c06f348,11/18/2026 08:00:00,Consumer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
-e30000aa-bc40-4e84-a12d-18d7933958fc,11/18/2026 08:00:00,Consumer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
-7b348fbe-3c00-45e9-99d8-c6a5f5d172e9,11/18/2026 11:00:00,Retail Sales (YoY),HIGH,ZAR,Release,0.17,Growth
-e85883ad-2da4-4d43-8c5b-da8888d81c63,11/19/2026 13:00:00,SARB Interest Rate Decision,HIGH,ZAR,Release,0.2,Monetary Policy
+e85883ad-2da4-4d43-8c5b-da8888d81c63,11/19/2026 13:10:00,SARB Interest Rate Decision,HIGH,ZAR,Release,0.2,Monetary Policy
 b1f54691-9c62-4608-a682-cf6816e1054d,11/26/2026 09:30:00,Producer Price Index (MoM),HIGH,ZAR,Release,0.19,Inflation
 e08e2e36-e3b3-4a77-b060-5a36f1b50d3a,11/26/2026 09:30:00,Producer Price Index (YoY),HIGH,ZAR,Release,0.19,Inflation
 196989ad-ce5a-48e2-8d35-88a07d05af47,11/30/2026 06:00:00,M3 Money Supply (YoY),HIGH,ZAR,Release,0.19,Inflation

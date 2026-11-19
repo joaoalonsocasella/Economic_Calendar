@@ -1,24 +1,4 @@
 Id,Start,Name,Impact,Currency
-9f3ec2d3-23e0-478c-8f1a-f88efda23d5a,11/18/2026 12:00:00,MBA Mortgage Applications,LOW,USD
-64b9736d-9b77-4ffb-a61b-ad043e5dbf82,11/18/2026 12:30:00,Fed's Waller speech,MEDIUM,USD
-4a6eb810-1a77-41d3-913e-34753160e15c,11/18/2026 13:30:00,Building Permits (MoM),MEDIUM,USD
-d164006c-55c3-4c5f-8014-ec55ddd4698a,11/18/2026 13:30:00,Building Permits Change,LOW,USD
-d44d06ba-95b8-4ff4-add7-bcd65964fb5a,11/18/2026 13:30:00,Housing Starts (MoM),MEDIUM,USD
-a08bc30a-a62d-40b4-914e-a48edbcc09ef,11/18/2026 13:30:00,Housing Starts Change,LOW,USD
-afd78c23-8b8d-4565-96be-6a602aa6856f,11/18/2026 15:00:00,Pending Home Sales (MoM),MEDIUM,USD
-85ed3fb2-8647-4b2e-949a-97cc284cf176,11/18/2026 15:00:00,Pending Home Sales (YoY),LOW,USD
-7595b1bc-753e-4d65-927a-2ed94deae7bd,11/18/2026 15:30:00,EIA Crude Oil Stocks Change,LOW,USD
-00c99173-cd4c-4855-ae6f-3efed0642769,11/18/2026 15:30:00,EIA Distillate Stocks Change,LOW,USD
-f1011f08-aeaa-44b9-bb07-d47a8146952e,11/18/2026 15:30:00,EIA Gasoline Stocks Change,LOW,USD
-86b406a1-cdf5-4426-8b13-ab84a92fd886,11/18/2026 15:30:00,EIA Heating Oil Stocks Change,LOW,USD
-14bf3fdd-e831-43d7-89a7-1190f70ed47e,11/18/2026 17:15:00,Fed's Daly speech,MEDIUM,USD
-125becc3-8f58-48df-b7a2-87763af4bf53,11/18/2026 18:00:00,20-Year Bond Auction,LOW,USD
-878add9c-46df-4cab-bda5-11446daa8664,11/18/2026 18:35:00,Fed's Barr speech,MEDIUM,USD
-d97b15ef-1df0-4a15-b58a-326c46646d1a,11/18/2026 19:00:00,FOMC Minutes,HIGH,USD
-7b0d9481-5e90-4e18-bb91-798e1b9e64d3,11/18/2026 19:30:00,Fed's Williams speech,MEDIUM,USD
-0144b396-e220-4a2f-bbfa-8872cb43a4fd,11/18/2026 21:00:00,Net Long-Term TIC Flows,LOW,USD
-a192b245-9e73-4944-ae35-d32c18c15b5e,11/18/2026 21:00:00,Total Net TIC Flows,LOW,USD
-d47f2556-813d-4d36-83ea-ac6c9b4909c8,11/18/2026 21:15:00,Fed's Kashkari speech,MEDIUM,USD
 cf9710da-4da3-4c08-869f-f8d452ba009a,11/19/2026 13:30:00,Continuing Jobless Claims,LOW,USD
 f63465a7-efe9-47d1-baef-8c1a6558e837,11/19/2026 13:30:00,Initial Jobless Claims,MEDIUM,USD
 963163ee-c4cd-44e1-9554-45297f47c825,11/19/2026 13:30:00,Initial Jobless Claims 4-week average,LOW,USD

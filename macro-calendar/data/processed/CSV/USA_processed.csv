@@ -1,24 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-9f3ec2d3-23e0-478c-8f1a-f88efda23d5a,11/18/2026 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
-64b9736d-9b77-4ffb-a61b-ad043e5dbf82,11/18/2026 12:30:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-4a6eb810-1a77-41d3-913e-34753160e15c,11/18/2026 13:30:00,Building Permits (MoM),LOW,USD,Release,0.07,Housing
-d164006c-55c3-4c5f-8014-ec55ddd4698a,11/18/2026 13:30:00,Building Permits Change,LOW,USD,Release,0.07,Housing
-d44d06ba-95b8-4ff4-add7-bcd65964fb5a,11/18/2026 13:30:00,Housing Starts (MoM),LOW,USD,Release,0.07,Housing
-a08bc30a-a62d-40b4-914e-a48edbcc09ef,11/18/2026 13:30:00,Housing Starts Change,LOW,USD,Release,0.07,Housing
-afd78c23-8b8d-4565-96be-6a602aa6856f,11/18/2026 15:00:00,Pending Home Sales (MoM),LOW,USD,Release,0.07,Housing
-85ed3fb2-8647-4b2e-949a-97cc284cf176,11/18/2026 15:00:00,Pending Home Sales (YoY),LOW,USD,Release,0.07,Housing
-7595b1bc-753e-4d65-927a-2ed94deae7bd,11/18/2026 15:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
-00c99173-cd4c-4855-ae6f-3efed0642769,11/18/2026 15:30:00,EIA Distillate Stocks Change,HIGH,USD,Release,0.18,Labor Market
-f1011f08-aeaa-44b9-bb07-d47a8146952e,11/18/2026 15:30:00,EIA Gasoline Stocks Change,HIGH,USD,Release,0.18,Labor Market
-86b406a1-cdf5-4426-8b13-ab84a92fd886,11/18/2026 15:30:00,EIA Heating Oil Stocks Change,HIGH,USD,Release,0.18,Labor Market
-14bf3fdd-e831-43d7-89a7-1190f70ed47e,11/18/2026 17:15:00,Fed's Daly speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-125becc3-8f58-48df-b7a2-87763af4bf53,11/18/2026 18:00:00,20-Year Bond Auction,LOW,USD,Release,0.09,Money and Credit
-878add9c-46df-4cab-bda5-11446daa8664,11/18/2026 18:35:00,Fed's Barr speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-d97b15ef-1df0-4a15-b58a-326c46646d1a,11/18/2026 19:00:00,FOMC Minutes,MEDIUM,USD,Speech,0.13,Monetary Policy
-7b0d9481-5e90-4e18-bb91-798e1b9e64d3,11/18/2026 19:30:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
-0144b396-e220-4a2f-bbfa-8872cb43a4fd,11/18/2026 21:00:00,Net Long-Term TIC Flows,MEDIUM,USD,Release,0.11,Trade and External
-a192b245-9e73-4944-ae35-d32c18c15b5e,11/18/2026 21:00:00,Total Net TIC Flows,MEDIUM,USD,Release,0.11,Trade and External
-d47f2556-813d-4d36-83ea-ac6c9b4909c8,11/18/2026 21:15:00,Fed's Kashkari speech,HIGH,USD,Release,0.2,Monetary Policy
 cf9710da-4da3-4c08-869f-f8d452ba009a,11/19/2026 13:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 f63465a7-efe9-47d1-baef-8c1a6558e837,11/19/2026 13:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 963163ee-c4cd-44e1-9554-45297f47c825,11/19/2026 13:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market

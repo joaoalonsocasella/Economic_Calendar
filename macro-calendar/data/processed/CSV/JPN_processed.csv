@@ -1,9 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-fe018b8e-5f10-41ac-9883-7edb3ce51a0c,11/18/2026 01:00:00,BoJ Governor Ueda speech,MEDIUM,JPY,Speech,0.13,Monetary Policy
-42a1ea17-f349-45a0-a6e0-87c47507cdec,11/18/2026 23:50:00,Foreign Bond Investment,HIGH,JPY,Release,0.17,Growth
-cc6cfdd5-7a86-47a4-97c6-29247b127f95,11/18/2026 23:50:00,Foreign Investment in Japan Stocks,HIGH,JPY,Release,0.17,Growth
-ae555443-9a6b-4666-a4c7-7a30089a838f,11/18/2026 23:50:00,Machinery Orders (MoM),HIGH,JPY,Release,0.17,Growth
-867bef46-9ac5-436a-8f67-4d6cb38a0703,11/18/2026 23:50:00,Machinery Orders (YoY),HIGH,JPY,Release,0.17,Growth
+129d2c8d-fb91-431f-9ef6-1e99bd4d723f,11/19/2026 01:30:00,BoJ Governor Ueda speech,MEDIUM,JPY,Speech,0.13,Monetary Policy
 2c361dfb-838f-4797-bb41-fb7ff6d6922d,11/19/2026 23:30:00,National Consumer Price Index (YoY),HIGH,JPY,Release,0.19,Inflation
 28a062e3-2a8c-4bb8-be4c-63f6c44732d9,11/19/2026 23:30:00,"National CPI ex Food, Energy (YoY)",HIGH,JPY,Release,0.19,Inflation
 9560be50-5920-4977-9e63-4e9f0683f3eb,11/19/2026 23:30:00,National CPI ex Fresh Food (YoY),HIGH,JPY,Release,0.19,Inflation

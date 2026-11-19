@@ -30,68 +30,170 @@ ede491a9-a57c-433e-a428-3040d6d1d101,12/28/2026 07:00:00,Trade Balance (MoM),LOW
 57a1eae1-84e8-492e-b9f7-d6597d90b2a4,01/08/2027 07:00:00,Consumer Price Index (YoY),LOW,SEK
 970f2efd-8c0a-4a89-95ec-4bd55e11a1a7,01/08/2027 07:00:00,Industrial Production Value (MoM),LOW,SEK
 c073da06-5668-4877-861c-e58a62cd553c,01/08/2027 07:00:00,Industrial Production Value (YoY),LOW,SEK
-dbcb2609-f858-483a-9e55-65d5ef3f6aaa,01/08/2027 07:00:00,New Orders Manufacturing (YoY),LOW,SEK
+dbcb2609-f858-483a-9e55-65d5ef3f6aaa,01/12/2027 07:00:00,New Orders Manufacturing (YoY),LOW,SEK
 5298bf0f-1726-4fea-9598-85a7a867171a,01/15/2027 07:00:00,Consumer Price Index (MoM),LOW,SEK
 3e16e2f6-5c8e-4e7f-b99c-7eef7a133b67,01/15/2027 07:00:00,Consumer Price Index (YoY),LOW,SEK
 1c04762c-8f0d-416a-9600-9915f4c24675,01/20/2027 07:00:00,Unemployment Rate,LOW,SEK
 0c32cad5-bebd-4899-b9da-d25625760bff,01/26/2027 07:00:00,Producer Price Index (MoM),LOW,SEK
 e5837a1c-25da-47bb-9ac7-b1132ee525a2,01/26/2027 07:00:00,Producer Price Index (YoY),LOW,SEK
-08a1f728-dd25-4243-b7e7-f19bad5d8012,01/28/2027 07:00:00,Trade Balance (MoM),LOW,SEK
+08a1f728-dd25-4243-b7e7-f19bad5d8012,01/27/2027 07:00:00,Trade Balance (MoM),LOW,SEK
 e18224df-c589-4c41-842b-30b7dac8e488,01/29/2027 07:00:00,Retail Sales (MoM),LOW,SEK
 4372f53a-ce80-4761-bedf-bfebd81712a7,01/29/2027 07:00:00,Retail Sales (YoY),LOW,SEK
 7982f2d1-50f3-4fae-aed8-a5a25771845b,01/29/2027 08:00:00,Consumer Confidence (MoM),LOW,SEK
+77bd8bf4-a04d-468d-96f3-c717d3d6be09,02/01/2027 07:30:00,Manufacturing PMI,LOW,SEK
+209844b7-f2fc-4be8-ac1f-cbe26d5be49d,02/03/2027 08:30:00,Riksbank Interest Rate Decision,MEDIUM,SEK
 0a5081e9-bdb7-4263-b721-7cc2af893149,02/05/2027 07:00:00,Consumer Price Index (MoM),LOW,SEK
 f7fde323-48cc-4305-a7c9-e6d15041b3e3,02/05/2027 07:00:00,Consumer Price Index (YoY),LOW,SEK
+38a0d392-8fad-4117-8195-ceae9d12a142,02/10/2027 07:00:00,Industrial Production Value (MoM),LOW,SEK
+c146e936-28af-4a11-8c1d-822f7d40df6b,02/10/2027 07:00:00,Industrial Production Value (YoY),LOW,SEK
+82b2a0ed-3de1-4f3a-8f4b-8f492ddbaad0,02/10/2027 07:00:00,New Orders Manufacturing (YoY),LOW,SEK
 98fcfb59-c42b-4f1b-99b3-68cffb19e8b7,02/17/2027 07:00:00,Consumer Price Index (MoM),LOW,SEK
 6264eb52-aa6a-451a-92b5-dd4663790448,02/17/2027 07:00:00,Consumer Price Index (YoY),LOW,SEK
 6a637163-b940-41a7-9773-84b7ef85b8d0,02/26/2027 07:00:00,Gross Domestic Product (QoQ),LOW,SEK
 fd879236-6a55-42b3-b563-8d1bcb1527e0,02/26/2027 07:00:00,Gross Domestic Product (YoY),LOW,SEK
+f8ac3960-2a43-4772-a588-9a4a1cd5c392,02/26/2027 07:00:00,Producer Price Index (MoM),LOW,SEK
+df3ed70b-306b-41ea-9348-1d5f99945123,02/26/2027 07:00:00,Producer Price Index (YoY),LOW,SEK
+deef1cc0-09d7-4b8e-afb9-86bd998f0de4,02/26/2027 07:00:00,Retail Sales (MoM),LOW,SEK
+912080bf-2aa6-4173-9aa4-b1c06e5e681f,02/26/2027 07:00:00,Retail Sales (YoY),LOW,SEK
+e41418c3-f3b2-4e22-871b-8a3bcaa303a9,02/26/2027 07:00:00,Trade Balance (MoM),LOW,SEK
 7ff3402a-2077-4b50-94b9-d9065e622bd2,02/26/2027 08:00:00,Consumer Confidence (MoM),LOW,SEK
+edf02377-6519-419f-9158-2241677c74b6,03/01/2027 07:30:00,Manufacturing PMI,LOW,SEK
 7572c594-7876-4cce-a509-29678c579e5b,03/05/2027 07:00:00,Current Account (QoQ),LOW,SEK
 6f219ab2-08d9-40df-8817-b3eebe1b2d69,03/08/2027 07:00:00,Consumer Price Index (MoM),LOW,SEK
 e21ebb1d-4b7b-4c11-9192-3a994d97bc87,03/08/2027 07:00:00,Consumer Price Index (YoY),LOW,SEK
+a3010d84-b725-473e-87a3-6e5f813d89cc,03/10/2027 07:00:00,Industrial Production Value (MoM),LOW,SEK
+6ab62efb-0546-4f47-993a-2467e7f95536,03/10/2027 07:00:00,Industrial Production Value (YoY),LOW,SEK
 0f4b80de-735d-4c4b-83fe-59f62fb3a7b6,03/15/2027 07:00:00,Consumer Price Index (MoM),LOW,SEK
 7c629317-ddd8-49d9-bdaf-5ef1ce78d281,03/15/2027 07:00:00,Consumer Price Index (YoY),LOW,SEK
+ff800a1a-aeb4-441c-bc83-e305a7cec728,03/24/2027 08:30:00,Riksbank Interest Rate Decision,MEDIUM,SEK
+2c324d44-61ec-475e-90b4-88848a13da52,03/25/2027 07:00:00,Producer Price Index (MoM),LOW,SEK
+255f4c34-166b-4a4f-97d9-e47eb86a5d88,03/25/2027 07:00:00,Producer Price Index (YoY),LOW,SEK
 5e29591b-4232-4f96-955b-60b0dea0391c,03/29/2027 07:00:00,Consumer Confidence (MoM),LOW,SEK
+dc8af17d-327a-45e0-9854-1211dafd48bd,03/30/2027 06:00:00,Retail Sales (MoM),LOW,SEK
+926f04d6-6ff7-4782-90c9-767aa6803a04,03/30/2027 06:00:00,Retail Sales (YoY),LOW,SEK
+9b802f75-3d36-4f98-9643-09b94a4f20d0,03/30/2027 06:00:00,Trade Balance (MoM),LOW,SEK
+afed429b-5ce8-4346-8090-193340184a61,04/01/2027 06:30:00,Manufacturing PMI,LOW,SEK
 3b035e17-f4aa-4fdf-a4ad-86356005f8c6,04/06/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
 b815fd80-809b-4f3d-9703-2a4772677fad,04/06/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+1c31cdac-e3f3-424e-8cc5-40767cc07aff,04/09/2027 06:00:00,Industrial Production Value (MoM),LOW,SEK
+27a1ffa1-a145-42c6-bb7a-87a93be93307,04/09/2027 06:00:00,Industrial Production Value (YoY),LOW,SEK
+276b7335-cc5a-4f38-8f5d-deeb5b34d7b3,04/09/2027 06:00:00,New Orders Manufacturing (YoY),LOW,SEK
 ae8f4fac-54df-41d3-be25-96063e218133,04/13/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
 a48ca02c-3cea-4fdb-904c-5fde7be94a9a,04/13/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+6536f48b-3d84-4150-ba2a-6a333ad316ad,04/26/2027 06:00:00,Producer Price Index (MoM),LOW,SEK
+839269bd-a187-4bc6-a7a3-2555e172ca61,04/26/2027 06:00:00,Producer Price Index (YoY),LOW,SEK
+7fc5d5ed-c682-4cfe-a8e2-86bf8398ddce,04/27/2027 06:00:00,Trade Balance (MoM),LOW,SEK
+cff19956-adc0-4908-866f-a164c99df6eb,04/29/2027 06:00:00,Retail Sales (MoM),LOW,SEK
+ae5f979c-90e1-4b3c-b1e0-fabb1ba0004a,04/29/2027 06:00:00,Retail Sales (YoY),LOW,SEK
 d42e5c39-dd4e-4699-b299-13e909c46004,04/29/2027 07:00:00,Consumer Confidence (MoM),LOW,SEK
+06f92d63-4e09-4a43-8c91-3a8fddd1ef98,05/03/2027 06:30:00,Manufacturing PMI,LOW,SEK
+718e5346-7b14-4ecb-a40d-872077264a07,05/05/2027 07:30:00,Riksbank Interest Rate Decision,MEDIUM,SEK
 a9873f77-ebca-4d37-a5d8-76d8a7892757,05/07/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
 a217e019-a3ce-49cb-8b4e-96ce587a879a,05/07/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+11374c88-f9dc-44cd-be57-f0a8c58e5278,05/10/2027 06:00:00,Industrial Production Value (MoM),LOW,SEK
+c3a1c753-ebc9-4645-8d6f-eef42b7ae48a,05/10/2027 06:00:00,Industrial Production Value (YoY),LOW,SEK
+981fd417-bfde-464a-904f-db44445ee47c,05/10/2027 06:00:00,New Orders Manufacturing (YoY),LOW,SEK
 47bbb9fc-8da5-46a4-a0dc-725f5b71c6ad,05/14/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
 d58c83f4-7e61-43ae-8a37-9106b2560664,05/14/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+003534be-fa55-4af8-b65d-10bee044a76f,05/25/2027 06:00:00,Producer Price Index (MoM),LOW,SEK
+04483caf-26e4-435b-b44d-a8c6db357a1f,05/25/2027 06:00:00,Producer Price Index (YoY),LOW,SEK
+ca8ed72c-8a39-47e1-808d-4ea0a2699fa8,05/27/2027 06:00:00,Trade Balance (MoM),LOW,SEK
+0622415f-2d91-48b7-a8ae-481920c02ae5,05/28/2027 06:00:00,Gross Domestic Product (QoQ),LOW,SEK
+804803c7-c371-4116-acae-b2a3da47eadc,05/28/2027 06:00:00,Gross Domestic Product (YoY),LOW,SEK
+f3028a10-bae9-45e7-aab9-75c212e13724,05/28/2027 06:00:00,Retail Sales (MoM),LOW,SEK
+1162c712-2008-444a-a36d-a89774140720,05/28/2027 06:00:00,Retail Sales (YoY),LOW,SEK
 e7b88163-1a16-42cd-b653-0a78c423b27d,05/28/2027 07:00:00,Consumer Confidence (MoM),LOW,SEK
+c8e723ab-5de0-4e94-b97b-a5b6f45890d4,06/01/2027 06:30:00,Manufacturing PMI,LOW,SEK
 372d383d-fe5e-4dba-a2e8-df73399a5884,06/04/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
 f10105bf-3cfb-4859-8624-244dd64b47a9,06/04/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
 df31119e-53b8-4eab-a6f0-996f09413096,06/04/2027 06:00:00,Current Account (QoQ),LOW,SEK
+72736cb8-3fdb-4744-8334-2ad1cd0f3719,06/10/2027 06:00:00,Industrial Production Value (MoM),LOW,SEK
+b897a727-8aea-43b9-924e-161825ca8647,06/10/2027 06:00:00,Industrial Production Value (YoY),LOW,SEK
+49e870b6-3605-43ab-84f0-86dcaae3435d,06/10/2027 06:00:00,New Orders Manufacturing (YoY),LOW,SEK
 38683328-6cd7-4a71-9fbd-65cce3f5cbd1,06/11/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
 75583a31-846f-495a-9707-83e2b51f2e2e,06/11/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+eea9ccc4-f424-45eb-88ae-a9e4c5fd22e3,06/22/2027 07:30:00,Riksbank Interest Rate Decision,MEDIUM,SEK
+7f443238-ac67-474f-8997-903944add0dd,06/24/2027 06:00:00,Producer Price Index (MoM),LOW,SEK
+b5c5fa27-a0a0-4f5e-a397-f6a5170ce0a4,06/24/2027 06:00:00,Producer Price Index (YoY),LOW,SEK
+9b9f00b0-6aa1-4dcd-a8e2-a9ce63b3904d,06/28/2027 06:00:00,Trade Balance (MoM),LOW,SEK
+2d9e45f6-4a06-4b5f-ac90-3398ee4fae7d,06/30/2027 06:00:00,Retail Sales (MoM),LOW,SEK
+67a31d42-7f36-4720-b83e-4116af233798,06/30/2027 06:00:00,Retail Sales (YoY),LOW,SEK
 adb79c3a-66d3-4fe1-b40d-fe806df32669,06/30/2027 07:00:00,Consumer Confidence (MoM),LOW,SEK
+339712bc-0fad-40a8-b667-800f893a2cbe,07/01/2027 06:30:00,Manufacturing PMI,LOW,SEK
 1023d9c1-7953-4c26-94d5-d343497a3729,07/07/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
 41fc5bc1-e5a7-4e92-a508-de488e6b740c,07/07/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+12a147b0-621c-4727-892d-9e342c742418,07/09/2027 06:00:00,Industrial Production Value (MoM),LOW,SEK
+eeda5e97-c180-4de8-81bf-3690ea2e88ed,07/09/2027 06:00:00,Industrial Production Value (YoY),LOW,SEK
+fe9089b1-4337-4c3c-9421-947490e8c3a8,07/09/2027 06:00:00,New Orders Manufacturing (YoY),LOW,SEK
 5edb5e0a-7aa2-4683-bb2c-ff75a18efef1,07/14/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
 9a25d00f-6a0b-4a3b-889b-c4ff8b755f0c,07/14/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+bc214a36-288f-450f-9c6b-1766c2eb673c,07/23/2027 06:00:00,Producer Price Index (MoM),LOW,SEK
+f4581701-b068-49e8-b83c-98f81e3b8a11,07/23/2027 06:00:00,Producer Price Index (YoY),LOW,SEK
+6459eef0-1660-44bd-b988-064c527e6652,07/27/2027 06:00:00,Trade Balance (MoM),LOW,SEK
 b34d24b9-fbf7-429b-9bb3-2f3778b35e27,07/29/2027 07:00:00,Consumer Confidence (MoM),LOW,SEK
+14828723-b73e-40f9-b574-f55429234917,07/30/2027 06:00:00,Retail Sales (MoM),LOW,SEK
+ed487ad9-6324-4ed9-8193-ca7420f6f3b9,07/30/2027 06:00:00,Retail Sales (YoY),LOW,SEK
+b9d618a3-adbe-4b46-a838-32352b11623f,08/02/2027 06:30:00,Manufacturing PMI,LOW,SEK
 7425e799-5c66-4a80-8a5a-df076bffc5ca,08/05/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
 bb6b6132-808e-47b5-be4e-2f0c3bb8c30c,08/05/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+d86e5676-6f37-4283-9e24-725e362e031e,08/10/2027 06:00:00,Industrial Production Value (MoM),LOW,SEK
+ec174ccd-19cc-4a03-996c-0b5e19ab5af8,08/10/2027 06:00:00,Industrial Production Value (YoY),LOW,SEK
+b3531fff-bbba-4c1f-9b6a-a814c39e817c,08/10/2027 06:00:00,New Orders Manufacturing (YoY),LOW,SEK
 af4950fd-514f-4a39-bf0c-57586abbee40,08/12/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
 ffe9115f-1153-4681-acab-d9452363cb1d,08/12/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+be81f8e9-979e-469a-949c-fafd5f6b9678,08/18/2027 07:30:00,Riksbank Interest Rate Decision,MEDIUM,SEK
+3a3e91c2-64ff-4238-b75d-ee642fc8551c,08/25/2027 06:00:00,Producer Price Index (MoM),LOW,SEK
+1ad768f6-1e8f-48c2-b3ce-e7ebe25aa916,08/25/2027 06:00:00,Producer Price Index (YoY),LOW,SEK
+66c95cb1-0cd5-47b2-87e6-ef4ab1da1bce,08/26/2027 06:00:00,Trade Balance (MoM),LOW,SEK
+9fccc406-6cbd-44df-9996-59842bf367d5,08/27/2027 06:00:00,Gross Domestic Product (QoQ),LOW,SEK
+39e7f760-7d30-40d9-8d2f-31dbed1c9fff,08/27/2027 06:00:00,Gross Domestic Product (YoY),LOW,SEK
 bc112e58-9827-4fb6-aba7-e493f64bbcdb,08/27/2027 07:00:00,Consumer Confidence (MoM),LOW,SEK
+290d02d3-6a6f-4985-8df5-5f71b97fb746,08/30/2027 06:00:00,Retail Sales (MoM),LOW,SEK
+54da80b7-24f6-449d-b299-18e10887d9be,08/30/2027 06:00:00,Retail Sales (YoY),LOW,SEK
+e111abb2-30cc-4d66-8d8a-89e25b038c20,09/01/2027 06:30:00,Manufacturing PMI,LOW,SEK
 4b4003ab-fa1d-4366-a575-b29bcdf042ba,09/03/2027 06:00:00,Current Account (QoQ),LOW,SEK
 6b26f398-5128-48fe-b063-5973d355e3e1,09/07/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
 01866a86-22ae-4289-8c0f-00e2c5c0c373,09/07/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+a517e1a9-ba4f-41a5-8289-6bb28c630afc,09/10/2027 06:00:00,Industrial Production Value (MoM),LOW,SEK
+e8e4a58d-5141-4746-939e-f6dc7c59d502,09/10/2027 06:00:00,Industrial Production Value (YoY),LOW,SEK
+b17935a5-ba83-468f-b076-dec1c8964d85,09/10/2027 06:00:00,New Orders Manufacturing (YoY),LOW,SEK
 126fb61f-da47-424b-8c12-8ca9393e4a9d,09/14/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
 6279b994-4c0e-4304-8666-af8fc2d1ace1,09/14/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+b560cc60-ca83-4dcd-983a-f05593b08a6e,09/22/2027 07:30:00,Riksbank Interest Rate Decision,MEDIUM,SEK
+40ca2aa6-a408-4acc-a175-290761542581,09/24/2027 06:00:00,Producer Price Index (MoM),LOW,SEK
+1d3b1d1c-8d02-4e2c-b352-9c6d51c6d15a,09/24/2027 06:00:00,Producer Price Index (YoY),LOW,SEK
+c83d3a29-e5c3-4426-8f41-37f1f3dbe48e,09/28/2027 06:00:00,Trade Balance (MoM),LOW,SEK
+6015f3db-c54b-43f9-955f-d61a98e30335,09/30/2027 06:00:00,Retail Sales (MoM),LOW,SEK
+4d9105f8-23bf-427a-b550-aae0639dd2f9,09/30/2027 06:00:00,Retail Sales (YoY),LOW,SEK
 26cd3ad1-b9a0-4c3b-9524-7dd0ad1de105,09/30/2027 07:00:00,Consumer Confidence (MoM),LOW,SEK
+3b8b8bb2-80f6-4a28-9bfd-5e2f81ddff81,10/01/2027 06:30:00,Manufacturing PMI,LOW,SEK
 661d2635-9cb0-47df-95e5-e3345d8713b4,10/07/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
 53439fb8-df6a-4595-b16d-64b53a001569,10/07/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+c139c8dd-078f-4b8b-b1c1-e10f21089ea5,10/08/2027 06:00:00,Industrial Production Value (MoM),LOW,SEK
+e77d5f2a-e2e3-42ea-9fde-6c168ec9a32c,10/08/2027 06:00:00,Industrial Production Value (YoY),LOW,SEK
+bf13377a-ce0d-420b-84ac-38b37b06fd39,10/08/2027 06:00:00,New Orders Manufacturing (YoY),LOW,SEK
 ae0d0072-21f9-4165-95b1-58bf72ed80e7,10/14/2027 06:00:00,Consumer Price Index (MoM),LOW,SEK
 647f2010-e256-4e27-bfa3-2c7035ec60e4,10/14/2027 06:00:00,Consumer Price Index (YoY),LOW,SEK
+f9fd10eb-5dbd-4a60-9234-7a971c4155e7,10/26/2027 06:00:00,Producer Price Index (MoM),LOW,SEK
+375b4035-84fe-4909-8b5e-1be12bf35fa8,10/26/2027 06:00:00,Producer Price Index (YoY),LOW,SEK
+b0e84d70-4a21-4edd-8ab4-75bcda9697ea,10/27/2027 06:00:00,Trade Balance (MoM),LOW,SEK
+4871a923-c490-4bd7-a43a-5e7ab21d0982,10/29/2027 06:00:00,Retail Sales (MoM),LOW,SEK
+3850a6f0-aa5d-4f7a-9eec-88ec9cb49b1c,10/29/2027 06:00:00,Retail Sales (YoY),LOW,SEK
 17952cc6-33cc-4f60-bc99-2e5095d67f5b,10/29/2027 07:00:00,Consumer Confidence (MoM),LOW,SEK
+2f62d758-82d9-4694-b257-a5b4f22830af,11/01/2027 07:30:00,Manufacturing PMI,LOW,SEK
+bbd4e51a-394a-4292-a164-a471d1d8172e,11/03/2027 08:30:00,Riksbank Interest Rate Decision,MEDIUM,SEK
 c3dd1ff4-e63a-4fe6-afa1-5931f6b357a3,11/05/2027 07:00:00,Consumer Price Index (MoM),LOW,SEK
 53132b74-383c-48b5-8542-9663a9626069,11/05/2027 07:00:00,Consumer Price Index (YoY),LOW,SEK
+5fc40b90-89d3-495d-a821-994aa7965305,11/10/2027 07:00:00,Industrial Production Value (MoM),LOW,SEK
+1b3bba10-eab8-4b2b-9a8e-ae9376f799df,11/10/2027 07:00:00,Industrial Production Value (YoY),LOW,SEK
+40f8fe95-7db1-49c6-be00-f8fce6adeeaa,11/10/2027 07:00:00,New Orders Manufacturing (YoY),LOW,SEK
 9f25f341-0fdb-40f1-81d5-cf85c32e50ad,11/12/2027 07:00:00,Consumer Price Index (MoM),LOW,SEK
 4de61d87-af7d-462a-bc10-542e9d0a59a7,11/12/2027 07:00:00,Consumer Price Index (YoY),LOW,SEK
+39cf293d-5961-4bec-8ff7-958b806fac05,11/26/2027 07:00:00,Producer Price Index (MoM),LOW,SEK
+f5c4ef0e-3b62-4652-9f0b-d5038f4fe525,11/26/2027 07:00:00,Producer Price Index (YoY),LOW,SEK
 3ab1eac6-fc91-48ce-91ad-dfa9a8782fca,11/26/2027 08:00:00,Consumer Confidence (MoM),LOW,SEK
+17c1c5e4-dbba-4480-896e-a27b27b8cf04,11/29/2027 07:00:00,Gross Domestic Product (QoQ),LOW,SEK
+4419dc80-498b-4c20-9df5-b5bc750eb458,11/29/2027 07:00:00,Gross Domestic Product (YoY),LOW,SEK
+f0547bd6-eec7-4b03-8970-3843e4158e5f,11/29/2027 07:00:00,Trade Balance (MoM),LOW,SEK
+12674ffe-a02e-4620-b7c8-4cb5a314c308,11/30/2027 07:00:00,Retail Sales (MoM),LOW,SEK
+bcdcbbb1-6a31-47dc-b83e-27727575e4b3,11/30/2027 07:00:00,Retail Sales (YoY),LOW,SEK

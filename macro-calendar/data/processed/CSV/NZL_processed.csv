@@ -1,9 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-33fb0f31-d418-4127-aab7-033597520af6,11/18/2026 18:00:00,RBNZ's Breman speech,HIGH,NZD,Release,0.2,Monetary Policy
-4cd122cb-00a7-496d-9a27-d77c167568c2,11/18/2026 21:45:00,Exports,MEDIUM,NZD,Release,0.11,Trade and External
-a7757169-08d7-4c1b-8332-9aa51a6ae24b,11/18/2026 21:45:00,Imports,MEDIUM,NZD,Release,0.11,Trade and External
-0298b4c8-3be8-4315-8820-b450bc1657ba,11/18/2026 21:45:00,Trade Balance NZD (MoM),MEDIUM,NZD,Release,0.11,Trade and External
-6cc67f79-b6df-4fcd-a756-3f183a3d7f57,11/18/2026 21:45:00,Trade Balance NZD (YoY),MEDIUM,NZD,Release,0.11,Trade and External
 1a3fdd65-7c7a-4d11-bca3-7ee18470ec08,11/20/2026 02:00:00,Credit Card Spending (YoY),HIGH,NZD,Release,0.17,Growth
 98010b47-18ea-48a7-80e6-8867fc32d5c7,11/22/2026 21:45:00,Retail Sales (QoQ),HIGH,NZD,Release,0.17,Growth
 e5d9066a-a5ff-47fb-96c5-a9a35fac7f28,11/22/2026 21:45:00,Retail Sales ex Autos (QoQ),HIGH,NZD,Release,0.17,Growth

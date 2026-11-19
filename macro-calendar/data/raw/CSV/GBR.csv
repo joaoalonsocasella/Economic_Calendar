@@ -1,18 +1,4 @@
 Id,Start,Name,Impact,Currency
-493f07f9-cedc-46fd-9045-a3e311035ed2,11/18/2026 07:00:00,Consumer Price Index (MoM),HIGH,GBP
-8a6c1138-c1a6-425a-8867-81470e479d4f,11/18/2026 07:00:00,Consumer Price Index (YoY),HIGH,GBP
-7c53447e-694a-4ffc-b0a8-acf33f38a1e4,11/18/2026 07:00:00,Core Consumer Price Index (YoY),HIGH,GBP
-cb1199a6-a407-4dd6-a102-7dd39ece0607,11/18/2026 07:00:00,PPI Core Output (MoM) n.s.a,MEDIUM,GBP
-1745dfd0-5ca3-41e7-a104-2ccb33356169,11/18/2026 07:00:00,"PPI Core Output (YoY) n.s.a ",MEDIUM,GBP
-3bbf23cf-fbf2-4b45-90cd-d387a0f6f0c0,11/18/2026 07:00:00,Producer Price Index - Input (MoM) n.s.a,LOW,GBP
-8e482c4a-4afe-4e4e-b15a-85efb8955267,11/18/2026 07:00:00,Producer Price Index - Input (YoY) n.s.a,LOW,GBP
-3e64759a-10b2-4604-aaeb-e4f63f312d5c,11/18/2026 07:00:00,Producer Price Index - Output (MoM) n.s.a,MEDIUM,GBP
-4155c088-f4af-438a-ab19-3e2d24465225,11/18/2026 07:00:00,Producer Price Index - Output (YoY) n.s.a,LOW,GBP
-466c391d-2db6-4699-b96f-0096eb9183f9,11/18/2026 07:00:00,Retail Price Index (MoM),MEDIUM,GBP
-2eadfd6e-4b50-424d-bde3-74c97ca93e63,11/18/2026 07:00:00,Retail Price Index (YoY),MEDIUM,GBP
-56b39c0c-5f50-42ef-9667-bd127b9e3715,11/18/2026 07:30:00,BoE's Governor Bailey speech,HIGH,GBP
-3d904a98-be27-4658-842a-f66693be0b3e,11/18/2026 09:30:00,DCLG House Price Index (YoY),LOW,GBP
-21fd66af-9799-4b0f-b522-1b3cf46b6837,11/18/2026 15:00:00,BoE's Governor Bailey speech,HIGH,GBP
 08a5281c-800b-4f16-b290-b1187b9ee781,11/20/2026 00:01:00,GfK Consumer Confidence,MEDIUM,GBP
 f9a7ae50-7922-4d43-b11e-9e97880cc3eb,11/20/2026 07:00:00,Public Sector Net Borrowing,LOW,GBP
 ea2929cb-b55a-4ab6-9f2e-78bb35c1d03f,11/20/2026 07:00:00,Retail Sales (MoM),HIGH,GBP
