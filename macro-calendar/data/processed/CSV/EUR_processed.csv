@@ -1,10 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-244d2baa-45bb-43f1-964d-d33b352e499f,11/20/2026 03:10:00,ECB's Cipollone speech,HIGH,EUR,Speech,0.552,Monetary Policy
-7be59cc3-34bd-47a2-933e-47e1f7959a40,11/20/2026 08:30:00,ECB's President Lagarde speech,HIGH,EUR,Speech,0.552,Monetary Policy
-69b2fc75-c800-4f5b-8d40-be0da46eaeaa,11/20/2026 10:00:00,Negotiated Wage Rates (QoQ),HIGH,EUR,Release,0.765,Labor Market
-b54a8763-d018-4e85-91c2-36eaa52a57a9,11/20/2026 13:00:00,ECB's Nagel speech,HIGH,EUR,Speech,0.552,Monetary Policy
-00483e59-4e05-4420-b7fe-0aa378f3d364,11/20/2026 15:00:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
-8389529f-b528-4e84-874e-92e1f0ac2b55,11/20/2026 20:30:00,CFTC EUR NC Net Positions,HIGH,EUR,Release,0.383,Money and Credit
 0f97f635-db4e-4427-8679-f4edb8e667ed,11/23/2026 09:00:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
 51783004-8bad-4e6a-aa3e-4b5d3d40177e,11/23/2026 09:00:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 a5eeb932-1402-4286-9e63-c971f439b036,11/23/2026 09:00:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth

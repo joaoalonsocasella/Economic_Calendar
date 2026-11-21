@@ -1,14 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-cf0fc744-9e8a-4f14-96b2-8463cd944887,11/20/2026 13:25:00,Fed's Waller speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-327a2365-a1ac-4567-b2ba-2dad26b47ef1,11/20/2026 15:00:00,Michigan Consumer Expectations Index,MEDIUM,USD,Release,0.14,Confidence
-00ca8cbc-5856-4362-96a4-5afeb41711b6,11/20/2026 15:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD,Release,0.14,Confidence
-4a6697ae-befa-4bc0-802a-90772eadff1b,11/20/2026 15:00:00,UoM 1-year Consumer Inflation Expectations,MEDIUM,USD,Release,0.14,Confidence
-96e1a763-8236-4aa0-ab99-153eb80fd0ff,11/20/2026 15:00:00,UoM 5-year Consumer Inflation Expectation,MEDIUM,USD,Release,0.14,Confidence
-330a0fe7-0652-47e1-90e2-e4da4f9744b2,11/20/2026 17:15:00,Fed's Cook speech,MEDIUM,USD,Speech,0.13,Monetary Policy
-2552ffa0-f778-47c8-9371-26f1f4fb2f5f,11/20/2026 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External
-4b8228cb-669b-402e-9550-f038f8058c2f,11/20/2026 20:30:00,CFTC Gold NC Net Positions,LOW,USD,Release,0.09,Money and Credit
-ccf3a457-3594-4cd1-82de-f68b40f6c904,11/20/2026 20:30:00,CFTC Oil NC Net Positions,MEDIUM,USD,Release,0.11,Trade and External
-f8c140e2-577f-4541-bb5e-c7c41a90715d,11/20/2026 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 acc78656-3c1c-455a-9869-ffe5eecc6dfa,11/23/2026 13:30:00,Chicago Fed National Activity Index ,HIGH,USD,Release,0.17,Growth
 33fcbcec-bb02-40f2-90f1-438687744ff6,11/23/2026 14:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
 59eea359-055e-432e-abb9-1631399881f4,11/23/2026 14:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
