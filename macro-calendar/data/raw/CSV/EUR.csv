@@ -23,8 +23,8 @@ da727b9a-3fe6-4fc6-bf4c-89c90830fa0a,11/27/2026 13:00:00,ECB's Nagel speech,MEDI
 1371f6a9-710d-46bc-9fe4-58eac188d11c,12/01/2026 09:00:00,HCOB Manufacturing PMI,LOW,EUR
 6ca97029-5fe1-45f4-8ca7-8f32a6abf812,12/01/2026 10:00:00,Core Harmonized Index of Consumer Prices (MoM),HIGH,EUR
 5f477094-400c-4edc-aac7-6b3b1b1dfd43,12/01/2026 10:00:00,Core Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+e74661dc-6d8d-4dca-a3fe-d6356704db85,12/01/2026 10:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR
 13df1ec8-04bc-421d-8bbc-0643492628ef,12/01/2026 10:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
-e74661dc-6d8d-4dca-a3fe-d6356704db85,12/02/2026 10:00:00,Harmonized Index of Consumer Prices (MoM),HIGH,EUR
 df78383c-0af0-424a-b1c0-c6b25eead7a7,12/02/2026 10:00:00,Unemployment Rate,MEDIUM,EUR
 129c809d-0606-4574-b429-82556f1af5bf,12/03/2026 09:00:00,HCOB Composite PMI,MEDIUM,EUR
 66f63689-e946-4950-a127-8d02318934bf,12/03/2026 09:00:00,HCOB Services PMI,LOW,EUR
@@ -38,6 +38,7 @@ db076a7c-7501-446d-858f-796fda3dde6d,12/07/2026 10:00:00,Employment Change (QoQ)
 878e419b-f3ca-4504-9ab0-78db2f62ff78,12/07/2026 10:00:00,Employment Change (YoY),LOW,EUR
 6d89c89f-4cbb-49df-869d-bbb6814b2d55,12/07/2026 10:00:00,Gross Domestic Product s.a. (QoQ),MEDIUM,EUR
 a24055a4-860f-40fa-923e-e9c1984b34f9,12/07/2026 10:00:00,Gross Domestic Product s.a. (YoY),MEDIUM,EUR
+b6c03ace-2203-45cb-8f8b-66004810fa3f,12/11/2026 07:00:00,Eurogroup Meeting,MEDIUM,EUR
 d3d3b2c7-c851-4854-8631-a0ffa03099af,12/11/2026 20:30:00,CFTC EUR NC Net Positions,LOW,EUR
 3874bc47-a202-48f1-b2e9-d5aaf5143036,12/15/2026 10:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
 4ba52647-b91d-4b3a-af2c-caf18aa6959f,12/15/2026 10:00:00,Industrial Production w.d.a. (YoY),LOW,EUR

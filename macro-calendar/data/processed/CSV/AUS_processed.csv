@@ -1,7 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-a926f3d0-db88-435a-a8e3-fab155a42c5d,11/22/2026 22:00:00,S&P Global Composite PMI,HIGH,AUD,Release,0.17,Growth
-a641756d-6823-41bd-a718-f0ec43117d2e,11/22/2026 22:00:00,S&P Global Manufacturing PMI,HIGH,AUD,Release,0.17,Growth
-a4de42eb-925a-409b-9ea1-6e16f3b975e8,11/22/2026 22:00:00,S&P Global Services PMI,HIGH,AUD,Release,0.17,Growth
 ae1b9bdb-6be9-4afe-b9c4-77dc84fc31c1,11/25/2026 00:30:00,Construction Work Done,HIGH,AUD,Release,0.17,Growth
 2a49076f-9167-4fb5-9362-267931312e02,11/25/2026 00:30:00,Consumer Price Index (MoM),HIGH,AUD,Release,0.19,Inflation
 ec0afe2e-a6f6-44d6-b72a-fb7ec7709405,11/25/2026 00:30:00,Consumer Price Index (YoY),HIGH,AUD,Release,0.19,Inflation

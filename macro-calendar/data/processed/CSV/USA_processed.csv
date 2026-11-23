@@ -101,13 +101,16 @@ c2c478ae-e74d-420c-8018-bae6478592d8,12/04/2026 20:30:00,CFTC Gold NC Net Positi
 4996b99e-a1a3-4508-bd56-7c85b7576346,12/04/2026 20:30:00,CFTC S&P 500 NC Net Positions,LOW,USD,Release,0.09,Money and Credit
 c094b0ac-12ba-4a09-9b40-dd97ad7d5f3f,12/07/2026 16:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
 0c6360ac-d845-4876-87d8-cf9494eb0673,12/07/2026 16:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
+68274342-5ddb-4262-ade1-b53dce8c682b,12/07/2026 18:00:00,3-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 95c065c3-b682-42bd-ae41-21bbc6a1b015,12/07/2026 20:00:00,Consumer Credit Change,MEDIUM,USD,Release,0.14,Confidence
 b075d5b9-3046-4a73-b8ba-e55afa265308,12/08/2026 11:00:00,NFIB Business Optimism Index,MEDIUM,USD,Release,0.14,Confidence
 9e1b8daa-8791-4cbf-a0cb-5943d9b4d58f,12/08/2026 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 a7a90641-9d13-4d25-8cd2-90331459b803,12/08/2026 13:30:00,Goods and Services Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
 b38acafa-32e0-494a-a7cf-488f00fd336e,12/08/2026 13:30:00,Goods Trade Balance,MEDIUM,USD,Release,0.11,Trade and External
+e893c262-adfd-44cc-b11b-5848b55b4f4f,12/08/2026 13:30:00,Nonfarm Productivity,HIGH,USD,Release,0.18,Labor Market
+ce4cf7f1-8a42-4559-bb1e-5af9214da5ff,12/08/2026 13:30:00,Unit Labor Costs,HIGH,USD,Release,0.18,Labor Market
 979e28e7-e9fb-4543-874f-2474b25ed70a,12/08/2026 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
-68274342-5ddb-4262-ade1-b53dce8c682b,12/08/2026 18:00:00,3-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
+07139a1f-47ee-4fd4-83f6-e40e65d9e87a,12/08/2026 18:00:00,10-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 3756a950-1510-4589-ad39-506702bbbecf,12/08/2026 21:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 9525ea7a-3f9c-44a0-8fc7-79850c46f03f,12/09/2026 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 0f7b3fd9-c981-4560-823e-51cc16958b88,12/09/2026 15:00:00,Existing Home Sales (MoM),LOW,USD,Release,0.07,Housing
@@ -117,7 +120,6 @@ f5d53f83-bce8-4077-b0fe-8fb9d1968e25,12/09/2026 15:30:00,EIA Crude Oil Stocks Ch
 07285ef1-dc00-4bc6-8b9f-5098f8e94b58,12/09/2026 15:30:00,EIA Distillate Stocks Change,HIGH,USD,Release,0.18,Labor Market
 554bf10b-19a4-4ed0-b5ca-e2c5e7c9a496,12/09/2026 15:30:00,EIA Gasoline Stocks Change,HIGH,USD,Release,0.18,Labor Market
 d9f79102-a351-48df-962a-62d1fd7dbfa7,12/09/2026 15:30:00,EIA Heating Oil Stocks Change,HIGH,USD,Release,0.18,Labor Market
-07139a1f-47ee-4fd4-83f6-e40e65d9e87a,12/09/2026 18:00:00,10-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 0f5a2e3a-6db9-4a82-9624-600da78dde70,12/09/2026 19:00:00,Fed Interest Rate Decision,MEDIUM,USD,Speech,0.13,Monetary Policy
 aaa8dbe3-191c-4112-bc06-658211f04879,12/09/2026 19:00:00,Fed Monetary Policy Statement,MEDIUM,USD,Speech,0.13,Monetary Policy
 ac41acfc-a738-4066-bd15-2dd1cee91dd8,12/09/2026 19:00:00,FOMC Economic Projections,MEDIUM,USD,Speech,0.13,Monetary Policy
@@ -136,8 +138,6 @@ d7957d51-b4f6-40da-b91a-51c273ac6ae2,12/10/2026 13:30:00,Consumer Price Index ex
 fc429950-62db-4450-8f35-448cdfaa4270,12/10/2026 13:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 582021b2-95d8-4ee5-8acc-e1a0b5b69c7b,12/10/2026 13:30:00,Initial Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 52b7c44d-458b-4c66-ae64-d4e25c1adad7,12/10/2026 13:30:00,Initial Jobless Claims 4-week average,HIGH,USD,Release,0.18,Labor Market
-e893c262-adfd-44cc-b11b-5848b55b4f4f,12/10/2026 13:30:00,Nonfarm Productivity,HIGH,USD,Release,0.18,Labor Market
-ce4cf7f1-8a42-4559-bb1e-5af9214da5ff,12/10/2026 13:30:00,Unit Labor Costs,HIGH,USD,Release,0.18,Labor Market
 7c49b037-32f8-4890-b41a-3a0735ffc3ee,12/10/2026 15:30:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 f5ec4377-2232-47b7-8097-529b7d150ff5,12/10/2026 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 56efb0fb-c915-4402-9e1d-960629807476,12/10/2026 17:00:00,USDA WASDE Report,HIGH,USD,Release,0.2,Monetary Policy
