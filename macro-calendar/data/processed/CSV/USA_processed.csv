@@ -1,19 +1,11 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-acc78656-3c1c-455a-9869-ffe5eecc6dfa,11/23/2026 13:30:00,Chicago Fed National Activity Index ,HIGH,USD,Release,0.17,Growth
-33fcbcec-bb02-40f2-90f1-438687744ff6,11/23/2026 14:45:00,S&P Global Composite PMI,HIGH,USD,Release,0.17,Growth
-59eea359-055e-432e-abb9-1631399881f4,11/23/2026 14:45:00,S&P Global Manufacturing PMI,HIGH,USD,Release,0.17,Growth
-5a045d8e-2e1e-4b3c-85fb-78586fa73d89,11/23/2026 14:45:00,S&P Global Services PMI,HIGH,USD,Release,0.17,Growth
-8948cd5e-a5f8-43e6-9a82-dd9a0fbb8455,11/23/2026 16:30:00,3-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
-6e5b3e7e-638d-468a-85eb-9d2dbf29ed32,11/23/2026 16:30:00,6-Month Bill Auction,LOW,USD,Release,0.09,Money and Credit
-b18f94c5-eb8c-4fef-bcb2-be3cf93bafe3,11/23/2026 18:00:00,2-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-9d888694-5c9a-4c4c-97ee-f049afb764cf,11/23/2026 21:00:00,Fed's Williams speech,HIGH,USD,Release,0.2,Monetary Policy
 3e2e32f4-4bd8-4efc-b96e-1c35186181c3,11/24/2026 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
 77a1d0a3-3649-43ce-a99c-733e0fcc0ccd,11/24/2026 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
 45df6d9f-d144-4565-b449-e0af73c41ad7,11/24/2026 14:00:00,Housing Price Index (MoM),LOW,USD,Release,0.07,Housing
 f6043a02-e058-4735-a8c3-727a3c444ced,11/24/2026 14:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD,Release,0.07,Housing
 691231f9-7b47-4f94-9576-61f33b9a1aa2,11/24/2026 15:00:00,Consumer Confidence,MEDIUM,USD,Release,0.14,Confidence
 56cfa3ab-182b-4f66-b907-e02a786dc22a,11/24/2026 15:00:00,Richmond Fed Manufacturing Index,HIGH,USD,Release,0.17,Growth
-90dac270-bf08-468e-bdf0-47e6f53149dc,11/24/2026 15:30:00,52-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
+90dac270-bf08-468e-bdf0-47e6f53149dc,11/24/2026 16:30:00,52-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 90ca48e8-e391-450e-952b-939881dafec1,11/24/2026 18:00:00,5-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 995c5516-e50f-4512-97c2-a0c0aa2ce207,11/24/2026 21:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 6f34cc0e-7451-4f7e-8acc-36ca7fc95e63,11/25/2026 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit

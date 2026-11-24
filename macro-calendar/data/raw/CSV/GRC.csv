@@ -3,8 +3,8 @@ af485211-867d-424f-a9bc-7eb6fdef6b98,11/30/2026 10:00:00,Producer Price Index (Y
 78585626-dfe6-4137-b494-ba8efead62fb,11/30/2026 10:00:00,Retail Sales (YoY),LOW,EUR
 35124808-effc-4544-8e98-2bf8b8e7d001,12/01/2026 09:00:00,S&P Global Manufacturing PMI,LOW,EUR
 13855db2-c8a7-43ea-a2a2-dabda33f2fa2,12/01/2026 10:00:00,Unemployment Rate (MoM),LOW,EUR
-fdc009a3-be90-46a2-878f-0017e23078fd,12/03/2026 10:00:00,Unemployment Rate (QoQ),LOW,EUR
 f33cd575-2d5a-442c-976c-6d72168f5528,12/07/2026 10:00:00,Gross Domestic Product s.a (YoY),LOW,EUR
+fdc009a3-be90-46a2-878f-0017e23078fd,12/07/2026 10:00:00,Unemployment Rate (QoQ),LOW,EUR
 441e619e-47aa-4eb5-8910-9104f76e18d2,12/09/2026 10:00:00,Consumer Price Index - Harmonized (YoY),LOW,EUR
 a92fffbd-c448-447f-b9ce-691c0181992b,12/09/2026 10:00:00,Consumer Price Index (YoY),LOW,EUR
 92e7053e-fb42-4826-8988-832e54644d14,12/10/2026 10:00:00,Industrial Production (YoY),LOW,EUR
@@ -13,42 +13,95 @@ bbd03bb1-615f-48c5-9c6f-a288dee760e1,12/21/2026 09:00:00,Current Account (YoY),L
 4d171e07-b939-42a5-a2eb-a1ff4190347c,12/31/2026 10:00:00,Retail Sales (YoY),LOW,EUR
 6b8cbab3-15cb-4fa2-a44e-2cb9f5289a61,01/04/2027 09:00:00,S&P Global Manufacturing PMI,LOW,EUR
 23a4e6f1-a45d-42aa-bd29-9a19089da93c,01/04/2027 10:00:00,Unemployment Rate (MoM),LOW,EUR
-fed373aa-d914-43b4-9ce3-d168ae254df4,01/08/2027 10:00:00,Industrial Production (YoY),LOW,EUR
+fed373aa-d914-43b4-9ce3-d168ae254df4,01/11/2027 10:00:00,Industrial Production (YoY),LOW,EUR
 a59802e5-6838-4a5c-bf68-a1c24ad88f68,01/13/2027 10:00:00,Consumer Price Index - Harmonized (YoY),LOW,EUR
 7ef9eb6a-9918-4a69-a7ef-801df29f6ef4,01/13/2027 10:00:00,Consumer Price Index (YoY),LOW,EUR
 4cf21dca-6754-45a9-98c7-431afece7ff3,01/21/2027 09:00:00,Current Account (YoY),LOW,EUR
 eeb695b9-64c3-493d-a010-3577cdbfa98e,01/29/2027 10:00:00,Producer Price Index (YoY),LOW,EUR
 7062a067-c091-4025-8dbb-2bc3c9edf34b,01/29/2027 10:00:00,Retail Sales (YoY),LOW,EUR
-0478051c-1adf-4078-abb1-dfdf2f1996ae,01/29/2027 10:00:00,Unemployment Rate (MoM),LOW,EUR
+a2f7fe8d-51db-4353-b725-ae1d68d80c5c,02/01/2027 09:00:00,S&P Global Manufacturing PMI,LOW,EUR
+0478051c-1adf-4078-abb1-dfdf2f1996ae,02/01/2027 10:00:00,Unemployment Rate (MoM),LOW,EUR
+bf4fc4eb-2966-46ef-8387-671e341779a9,02/10/2027 10:00:00,Industrial Production (YoY),LOW,EUR
 d4f18c0d-0ad4-403e-afcb-1a89f442a9bf,02/12/2027 10:00:00,Consumer Price Index - Harmonized (YoY),LOW,EUR
 f975b5ff-a6e2-4f7e-b8c5-0bed969e917c,02/12/2027 10:00:00,Consumer Price Index (YoY),LOW,EUR
 5417433e-2e95-4bda-a4dd-fefcbe8818f1,02/19/2027 09:00:00,Current Account (YoY),LOW,EUR
+532f591f-20ab-4dc7-87b1-7e2b2af8a104,02/26/2027 10:00:00,Producer Price Index (YoY),LOW,EUR
+6ba498ca-3d48-4622-87cf-a4a0b24fa5cf,02/26/2027 10:00:00,Retail Sales (YoY),LOW,EUR
+3d25bd72-90e4-45ce-8a07-057db2f57a72,03/01/2027 09:00:00,S&P Global Manufacturing PMI,LOW,EUR
+00aa34dc-05b8-4103-b1c5-bfb37d25bb27,03/03/2027 10:00:00,Unemployment Rate (MoM),LOW,EUR
 7e1ac3d4-35d0-4d45-91f8-0457ad222894,03/05/2027 10:00:00,Gross Domestic Product s.a (YoY),LOW,EUR
 64b2271e-c1da-4cc7-bd05-c2c7eb38bdd4,03/05/2027 10:00:00,Unemployment Rate (QoQ),LOW,EUR
 c696f725-53b1-453b-a25c-a24c69a421a9,03/10/2027 10:00:00,Consumer Price Index - Harmonized (YoY),LOW,EUR
 86adfc48-1214-496f-bebe-85e04e338771,03/10/2027 10:00:00,Consumer Price Index (YoY),LOW,EUR
+3def0293-cf87-4b30-bdbd-5294802ca22f,03/10/2027 10:00:00,Industrial Production (YoY),LOW,EUR
 2de86de0-f23f-4f73-94a1-c5f55a12a383,03/19/2027 09:00:00,Current Account (YoY),LOW,EUR
+47db96e4-d903-4119-b1e2-0920fe0cdf1a,03/30/2027 09:00:00,Producer Price Index (YoY),LOW,EUR
+25002e9b-7041-4108-a4e7-df99be8d8832,03/31/2027 09:00:00,Retail Sales (YoY),LOW,EUR
+04c4a211-78f9-44f6-a7c5-674b69197eb0,03/31/2027 09:00:00,Unemployment Rate (MoM),LOW,EUR
+9cd76330-1565-443d-ab0e-dbedfabdc3bb,04/01/2027 08:00:00,S&P Global Manufacturing PMI,LOW,EUR
 d5ddeff3-fed2-4862-8875-d624702ab36c,04/09/2027 09:00:00,Consumer Price Index - Harmonized (YoY),LOW,EUR
 3004cc2e-ed8b-45c6-b27f-db54388d068d,04/09/2027 09:00:00,Consumer Price Index (YoY),LOW,EUR
+71487a58-2c1c-441d-933a-a2b59c6491d8,04/09/2027 09:00:00,Industrial Production (YoY),LOW,EUR
 32327f6f-2cdf-4fcc-894a-7d606bc4218d,04/20/2027 08:00:00,Current Account (YoY),LOW,EUR
+326367ef-27b8-45f6-b17c-c4ebd30eb10a,04/28/2027 09:00:00,Producer Price Index (YoY),LOW,EUR
+97a87b46-303e-4efb-9cd1-b2d21625b9f0,04/29/2027 09:00:00,Retail Sales (YoY),LOW,EUR
+3c16ee41-d882-456e-931b-9a669cdc0181,04/29/2027 09:00:00,Unemployment Rate (MoM),LOW,EUR
+2eae2665-01ec-46d2-bc41-d9e216ff94a2,05/03/2027 08:00:00,S&P Global Manufacturing PMI,LOW,EUR
 2eea3089-3b1d-4a96-bc9a-ecff4c6d85be,05/10/2027 09:00:00,Consumer Price Index - Harmonized (YoY),LOW,EUR
 384622b1-9995-4834-a11f-0b56661222ac,05/10/2027 09:00:00,Consumer Price Index (YoY),LOW,EUR
+e01cb642-21af-4e23-9be7-bc6a8c03b8e3,05/11/2027 09:00:00,Industrial Production (YoY),LOW,EUR
 7e07992c-6419-4652-822b-e10af1e74666,05/21/2027 08:00:00,Current Account (YoY),LOW,EUR
+d5dd7bd8-8ddd-4ff5-ab0e-2e1b6c328423,05/28/2027 09:00:00,Producer Price Index (YoY),LOW,EUR
+b1eb6b08-28ce-4261-8102-38343872db85,05/31/2027 09:00:00,Retail Sales (YoY),LOW,EUR
+f42a33e3-c4ab-4100-96ec-1a172249a49e,05/31/2027 09:00:00,Unemployment Rate (MoM),LOW,EUR
+7f01ce27-8e2d-4c51-9480-137fea523703,06/01/2027 08:00:00,S&P Global Manufacturing PMI,LOW,EUR
+9ed7be3a-1913-46af-b9fc-58c5380758c2,06/07/2027 09:00:00,Gross Domestic Product s.a (YoY),LOW,EUR
+cd56f304-f214-46eb-8c34-ae9bd05e32bf,06/07/2027 09:00:00,Unemployment Rate (QoQ),LOW,EUR
 2125dab5-b9ae-4e02-96b1-a493d2107df4,06/10/2027 09:00:00,Consumer Price Index - Harmonized (YoY),LOW,EUR
 aa159f2e-3d65-446c-9031-f3a049c37ff0,06/10/2027 09:00:00,Consumer Price Index (YoY),LOW,EUR
+3b7cabd7-f52a-48fb-ad47-70000462698a,06/10/2027 09:00:00,Industrial Production (YoY),LOW,EUR
 a2f1e167-b50f-4008-9c3d-e0492da40232,06/21/2027 08:00:00,Current Account (YoY),LOW,EUR
+ef827c54-fe8e-4576-8461-c8293c8209ad,06/30/2027 09:00:00,Producer Price Index (YoY),LOW,EUR
+fb73379d-104d-4b38-a064-4fa238eff2d6,06/30/2027 09:00:00,Retail Sales (YoY),LOW,EUR
+aeb05491-9032-4ac8-93b3-d5b89e88257c,07/01/2027 08:00:00,S&P Global Manufacturing PMI,LOW,EUR
+b40761eb-f205-4327-b2df-672e45e2e979,07/01/2027 09:00:00,Unemployment Rate (MoM),LOW,EUR
 8bb1b5bb-69c4-4167-a314-1a4e7dea3127,07/09/2027 09:00:00,Consumer Price Index - Harmonized (YoY),LOW,EUR
 1bb3551b-fc09-49fd-bb51-852d2fcc146b,07/09/2027 09:00:00,Consumer Price Index (YoY),LOW,EUR
+8e697d11-9666-44d6-a035-ca96b1509032,07/09/2027 09:00:00,Industrial Production (YoY),LOW,EUR
 407cf819-6292-4736-8462-3a00d7ebb8fb,07/20/2027 08:00:00,Current Account (YoY),LOW,EUR
+367f577c-1d7e-4704-b6e8-dae99f57efa3,07/29/2027 09:00:00,Unemployment Rate (MoM),LOW,EUR
+c09d21e2-1867-4490-abce-377042c87ac6,07/30/2027 09:00:00,Producer Price Index (YoY),LOW,EUR
+4a955603-14de-4a0a-986f-d232a769113b,07/30/2027 09:00:00,Retail Sales (YoY),LOW,EUR
+0b7b0db8-ddbd-4826-9199-b411e478a47d,08/02/2027 08:00:00,S&P Global Manufacturing PMI,LOW,EUR
 7638e7b1-8a1b-49f3-935c-bcd2acdeeb33,08/09/2027 09:00:00,Consumer Price Index - Harmonized (YoY),LOW,EUR
 7a8cd4ca-82da-4483-9d50-372f3a18183c,08/09/2027 09:00:00,Consumer Price Index (YoY),LOW,EUR
+cdc18ac2-7a4e-4f9a-9a37-615a7ad05dfb,08/10/2027 09:00:00,Industrial Production (YoY),LOW,EUR
 16cf0daf-eef9-42dd-bee1-6f873ac59f84,08/20/2027 08:00:00,Current Account (YoY),LOW,EUR
+6f9440c0-5789-4eca-8e2d-49378aaff9f8,08/30/2027 09:00:00,Producer Price Index (YoY),LOW,EUR
+1e26c451-ac5d-4d5e-8903-8e575d97d056,08/31/2027 09:00:00,Retail Sales (YoY),LOW,EUR
+b61b4b21-99e4-4247-805d-d54f61674a5a,08/31/2027 09:00:00,Unemployment Rate (MoM),LOW,EUR
+0bbb5b90-dc70-45f1-8dcf-eb4ed5590849,09/01/2027 08:00:00,S&P Global Manufacturing PMI,LOW,EUR
+8c5ef3c8-f1a5-4034-b3aa-454ac97b17b2,09/07/2027 09:00:00,Gross Domestic Product s.a (YoY),LOW,EUR
+62c7918f-78d0-4e63-9c67-a4d87c8804a9,09/07/2027 09:00:00,Unemployment Rate (QoQ),LOW,EUR
 56bf5933-766d-4006-8981-fb67b3b67542,09/10/2027 09:00:00,Consumer Price Index - Harmonized (YoY),LOW,EUR
 939d04de-6aa0-4703-b0f4-4e89c4b55519,09/10/2027 09:00:00,Consumer Price Index (YoY),LOW,EUR
+609aaa9a-0bc5-4937-9e39-2534556f7036,09/10/2027 09:00:00,Industrial Production (YoY),LOW,EUR
 9aa56a28-b305-46e9-8fbd-92ecd18cec31,09/20/2027 08:00:00,Current Account (YoY),LOW,EUR
+573e455e-12c8-4b16-9797-35e12b04271d,09/29/2027 09:00:00,Unemployment Rate (MoM),LOW,EUR
+2e56225f-3d4a-4439-8129-da6efcc7fb0a,09/30/2027 09:00:00,Producer Price Index (YoY),LOW,EUR
+44ae9b6c-1151-42cd-8c0f-be93cf6cd9c1,09/30/2027 09:00:00,Retail Sales (YoY),LOW,EUR
+5d1ad4e8-0d21-4a4a-abce-101cfaf4da29,10/01/2027 08:00:00,S&P Global Manufacturing PMI,LOW,EUR
 6c6c4077-4af2-4d54-be99-3ee27a9f9c90,10/08/2027 09:00:00,Consumer Price Index - Harmonized (YoY),LOW,EUR
 be4e38bf-7404-409c-ad0a-6ed1890cbbbb,10/08/2027 09:00:00,Consumer Price Index (YoY),LOW,EUR
+9ef7d65c-705f-4018-8d8c-645a528d47ba,10/08/2027 09:00:00,Industrial Production (YoY),LOW,EUR
 2b6adba7-9884-42d7-9f9d-be5c755ac4ad,10/19/2027 08:00:00,Current Account (YoY),LOW,EUR
+23e6da4e-155c-418e-9ed3-5a658411a220,10/29/2027 09:00:00,Producer Price Index (YoY),LOW,EUR
+4d229570-ab56-4ae5-bed2-7ae4c94dfc79,10/29/2027 09:00:00,Retail Sales (YoY),LOW,EUR
+58c03b90-3744-412a-a83b-54c9a152bca1,11/01/2027 09:00:00,S&P Global Manufacturing PMI,LOW,EUR
+27fcc0e3-89c5-456a-b727-35587078183d,11/01/2027 10:00:00,Unemployment Rate (MoM),LOW,EUR
 1766b201-8b08-41c3-8a89-f2b227f015b0,11/10/2027 10:00:00,Consumer Price Index - Harmonized (YoY),LOW,EUR
 43e621bb-1dc0-4169-8756-adc8afdc7215,11/10/2027 10:00:00,Consumer Price Index (YoY),LOW,EUR
+8fe26fdb-6282-4240-b3f8-5d2dd63a7252,11/10/2027 10:00:00,Industrial Production (YoY),LOW,EUR
 8b13cb04-3f48-4385-a9e8-1b21f7ef4554,11/19/2027 09:00:00,Current Account (YoY),LOW,EUR
+22408971-61de-494a-9569-d6d234a4e9fc,11/30/2027 10:00:00,Producer Price Index (YoY),LOW,EUR
+82125490-141e-4663-9ebd-6884206db1f8,11/30/2027 10:00:00,Retail Sales (YoY),LOW,EUR

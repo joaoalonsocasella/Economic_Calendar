@@ -3,8 +3,8 @@ e096248e-9644-4eb8-ab4e-8ca3450f567a,11/27/2026 09:30:00,Business Confidence,HIG
 6f512b39-f775-42c6-8806-a7c23398b428,11/27/2026 09:30:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 bbb5e27b-14c0-469e-ac9f-706953d59f93,11/30/2026 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 539b635f-dc33-4cc1-9a52-e5e77fef5edb,11/30/2026 11:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-f4fd5fe8-cd5a-45c7-b1f3-d84a9f167d61,11/30/2026 11:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
-e0b60185-fbd1-48e5-882e-83b67b01648d,11/30/2026 11:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
+7de18350-f502-41ff-8758-673985324e20,11/30/2026 11:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+20aae72c-25e6-4406-b238-7a0ddca3b25f,11/30/2026 11:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
 158383f3-447c-4001-9d14-968bd32ee7af,12/10/2026 11:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
 ae7c297d-92ea-466e-b264-ef76f6d5194b,12/14/2026 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 f5d32790-2f7a-4ea6-9645-101e5bd47ff0,12/14/2026 11:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
@@ -16,11 +16,108 @@ b80a0d9b-a1c8-4c05-8f2d-a5afdf1c0827,12/31/2026 11:00:00,Consumer Price Index (Y
 81a21b0b-f02d-48c6-90e4-419e464dcd49,01/08/2027 11:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
 453c1e3c-eba6-4783-84b0-cd9303a185a9,01/12/2027 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 a22155f5-b667-4476-9644-1b8c97053b97,01/12/2027 11:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-2039678b-f875-4b29-bbcb-dc2f95b8b800,01/19/2027 11:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
-26dd514b-edea-4987-91e2-0dd6bac64b1a,01/29/2027 09:30:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
-b5f60847-98c1-429d-8659-b1f3a34df67f,01/29/2027 09:30:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
-a6e7580a-8650-4b22-ade1-2d4d3069dc18,01/29/2027 09:30:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+2039678b-f875-4b29-bbcb-dc2f95b8b800,01/18/2027 11:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+26dd514b-edea-4987-91e2-0dd6bac64b1a,01/28/2027 09:30:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+b5f60847-98c1-429d-8659-b1f3a34df67f,01/28/2027 09:30:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+9554cce3-670e-479c-a697-1a4679e03f54,01/29/2027 09:30:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 2bf6c47d-f28d-4326-a6dc-3e42d00c91ca,01/29/2027 09:30:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
 516d0dc7-570e-4f28-ad5e-ad13a1451b89,01/29/2027 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 bcb0ffcf-a765-499e-ac94-f7b1ac9ad1b9,01/29/2027 11:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+ad81a555-45fa-4cd2-92e0-425e35fcf9e2,02/08/2027 11:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+1d50b03a-e970-4ef3-9a0d-c309cda729f2,02/10/2027 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+481fcb7d-ebe6-4e43-8ee8-e1c72864bf64,02/10/2027 11:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 1aa3fdae-9cdd-4337-ad27-3717ced3a4c4,02/10/2027 11:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+e6839bdd-336b-4841-839d-03b9834a3b98,02/18/2027 11:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+53e47a0c-7684-41fc-945d-f38631dac8bb,02/25/2027 09:30:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+dd127f88-9047-4210-8da4-53f9250a41b6,02/25/2027 09:30:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+3bd5a0fd-9cfd-4eda-b8b9-0670adf99982,02/26/2027 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+c8f20ca7-bb30-4335-99e0-f264413b37db,02/26/2027 11:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+32dc0582-0dfd-41a4-a44e-f4700bf367a7,02/26/2027 11:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+963395be-5aee-45ee-aa03-4db3b74a28c0,02/26/2027 11:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
+c97b9c5d-f4c3-4b66-a41f-b35005c316b5,03/09/2027 11:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+a2816397-0764-469d-83ba-32fa3eb575d8,03/12/2027 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+4f4e5fd0-7986-45fb-953c-6147e69a5cb3,03/12/2027 11:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+dd98007b-56a9-43a5-8fe7-26bceb1e5ddd,03/18/2027 11:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+33f7d404-2f17-4f4a-8cf3-c8b2ea5ddaba,03/30/2027 08:30:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+b1a614fb-cdfc-409b-9583-2c1e4f78b43a,03/30/2027 08:30:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+8cbe6619-148f-400d-873c-4129dcbea385,03/31/2027 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+5046ed0c-2db9-47a5-8e4e-017eb1b3db68,03/31/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+07ef3908-0b8d-4cd6-a6e3-198ca29462b7,04/08/2027 10:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+42521df4-2c45-4511-a0da-0bd815c6daa1,04/13/2027 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+580f55fe-1d70-42c9-b248-88df0c366ecc,04/13/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+cf683c39-7592-4735-bd74-3d099f17bf83,04/19/2027 10:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+632b52e4-052e-4d8a-a365-acbb6ba416f7,04/29/2027 08:30:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+71a2c62f-5612-4905-a201-e018c95141ba,04/29/2027 08:30:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+74e53b72-0406-48e7-879c-f9a1fecf6bfc,04/30/2027 08:30:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+963b35ac-7c43-4479-a638-2d2d130b313d,04/30/2027 08:30:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
+6bf2f319-bb93-4c90-88cc-a4e2373307b7,04/30/2027 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+e5172798-6ad8-47ce-a265-00cd8390c82a,04/30/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+e8a54236-28f2-4a0c-8360-992adf25b2a5,05/06/2027 10:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+0a3fd16b-3268-4012-b26f-ab447ff8038d,05/07/2027 10:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+d0b4a018-67f5-4b20-8879-4776ad569148,05/12/2027 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+a548423c-8206-4d79-bb0c-8421a08e106d,05/12/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+2d875bef-8edb-4848-ab33-32bd1135621d,05/17/2027 10:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+81aa6209-a585-41d7-9c4f-c555c772dedd,05/28/2027 08:30:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+28c5f65d-4cd5-4e07-9a85-75e167b53b99,05/28/2027 08:30:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+f1b61d50-0c70-49d8-938d-6ea79ff0860d,05/31/2027 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+92f5263b-7abb-4c05-8d87-6d35c6d42515,05/31/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+c885a9a8-9825-4899-b35c-44b5a96c1568,05/31/2027 10:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+0b3fafca-b664-45e7-aed1-b29bc669d427,05/31/2027 10:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
+132ebab8-f829-42e4-b25e-685e4eea73fc,06/10/2027 10:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+d50b21b1-5969-42bf-92ee-04dfdb539bc9,06/11/2027 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+d8fe97b5-84f6-4326-b869-cc1d3e747001,06/11/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+0b9a6fd5-ac6e-4cda-9b02-098545327a16,06/18/2027 10:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+6d154827-3be2-4bb4-bca1-0d85fb3e6333,06/29/2027 08:30:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+ec200cd2-bfb2-425a-bd62-1d536c0fb133,06/29/2027 08:30:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+5ff08ed5-ba7c-48b3-82bf-2a9a3823a5c7,06/30/2027 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+b83fd39e-fa75-4a4c-b01e-705e181364fb,06/30/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+2a3ab506-f638-4f1f-a65b-c9cbb5ddbecd,07/09/2027 10:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+e3ddefe7-fcde-4b83-b918-78860459553a,07/12/2027 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+e6e3c0f2-ec77-4c6e-8abe-1b21b0b973ea,07/12/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+47d46993-c4ad-42ef-b8af-696d00c0c285,07/19/2027 10:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+09d7e354-bef4-4437-8eef-b4d2662f5a4f,07/29/2027 08:30:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+c8a294b8-3e4a-4810-a367-fdcc1ee10a06,07/29/2027 08:30:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+8eea5f6c-34a4-4f9e-afe7-67d48c4acee9,07/30/2027 08:30:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+d0ca1955-1c34-4b1c-9a9a-a5da502f8b96,07/30/2027 08:30:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
+880d6074-7042-4936-b792-d10d0a02ef10,07/30/2027 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+fdcde452-91f5-4c82-a9ed-ee733462b709,07/30/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+ce5ec2fc-69b8-44e7-b643-0fc06445b38f,08/05/2027 10:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+d356025e-520a-4895-a81a-a2709dfbd696,08/09/2027 10:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+c4f37f54-c9e7-4091-89ba-f594fc8be612,08/13/2027 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+62ecec99-4518-4e98-9e66-6e422469ddc3,08/13/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+d45039c3-c81d-4bfa-9201-eef2f15a9f14,08/20/2027 10:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+bb96e1f9-22ef-499a-86e6-d5b10ed21ae6,08/30/2027 08:30:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+e202ba14-3440-46eb-8913-21611853b1d3,08/30/2027 08:30:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+e8d5121d-1823-46fb-98e7-c24909905d11,08/31/2027 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+3a37d709-8a76-4e15-809d-bf5c47313498,08/31/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+356bbe7a-466a-4282-8e8e-8597d9fa3c63,08/31/2027 10:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+373b7d1c-094f-47b2-93a7-a279fa623f8f,08/31/2027 10:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
+ec4812bb-86d2-441f-891e-2666826bde35,09/09/2027 10:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+c914049b-3ff0-4784-9364-5a7a5d0540d8,09/10/2027 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+60c81175-8837-44a6-a4f5-24186c95ab78,09/10/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+366d43f0-20ee-42e8-be1c-dc9d22ee22cb,09/20/2027 10:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+7eedd84b-66e0-432b-9de7-a96dc58f778c,09/29/2027 08:30:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+f5395676-afe0-4f85-bf6a-0a5e06603e7d,09/29/2027 08:30:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+93911149-8308-4dd9-9cad-f1b32969e829,09/30/2027 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+29fd7748-4beb-405a-9c4f-87958895f4e5,09/30/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+fc5831bf-83bc-4131-ad6c-561648f9878f,10/08/2027 10:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+b05986f5-217c-4725-a6e4-af75a5fd522c,10/11/2027 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+7778e634-8930-4703-b500-90d2dd3fafeb,10/11/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+f556e736-af64-48c6-bfdc-46da095fa19e,10/18/2027 10:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+4cde2666-5962-4f06-8a18-70bbe02e626e,10/29/2027 08:30:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+e92da40d-14f1-4521-9292-736c67ca66f3,10/29/2027 08:30:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+0c5d2ad0-ecea-4a8c-af95-482206dc12d5,10/29/2027 08:30:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+886789af-52d2-4217-ba80-249fc6cb8408,10/29/2027 08:30:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
+a4814325-88ac-4e62-a147-5269ba99b912,10/29/2027 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+d1edc003-d813-4087-b855-eeeedfa9d43b,10/29/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+73c154c3-89eb-4034-a547-954775ec42ac,11/03/2027 11:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+3639ab8d-97df-4f34-8b3e-c84d91e9ab19,11/09/2027 11:00:00,Global Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+225bb5df-476d-421c-88da-d0488abcf844,11/12/2027 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+af9ca892-ac47-44df-ac48-dcdf7bdd114d,11/12/2027 11:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+68fd8247-a2bd-464c-81be-ccee6696f94b,11/19/2027 11:00:00,Current Account Balance,HIGH,EUR,Release,0.468,Trade and External
+c1063559-792c-4562-b0f3-ea6ea38a9a97,11/29/2027 09:30:00,Business Confidence,HIGH,EUR,Release,0.595,Confidence
+87c50495-7288-4775-8c73-ff6b9027cc9d,11/29/2027 09:30:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+a6072ed0-66a2-40f1-ab2f-de0b896c41cb,11/30/2027 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+afc63c2e-7f99-414e-9d7a-be65ae6d1dfa,11/30/2027 11:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+44242225-c820-4703-a7d2-4b2a77d8dd73,11/30/2027 11:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+d918f566-ed66-4937-beed-fb92e593b422,11/30/2027 11:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
