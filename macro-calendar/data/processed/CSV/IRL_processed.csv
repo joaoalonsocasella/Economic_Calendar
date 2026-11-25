@@ -1,7 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 0b9024aa-89da-41d3-a22b-06b0d4131d2c,11/26/2026 00:01:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
-d115b0b8-4f72-4294-8668-80b8c4cf6367,11/30/2026 11:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
-0fcf9960-57a2-4c09-b91c-0d70fe57a577,11/30/2026 11:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+d115b0b8-4f72-4294-8668-80b8c4cf6367,11/27/2026 11:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
+0fcf9960-57a2-4c09-b91c-0d70fe57a577,11/27/2026 11:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
 9359a8e5-7874-4c31-9aa6-b6606ede25ac,12/01/2026 01:01:00,AIB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 e84e1913-8ae2-4e57-a205-d79ea925be6c,12/03/2026 01:01:00,AIB Services PMI,HIGH,EUR,Release,0.722,Growth
 930c2614-8273-4569-bcaf-f7f987ba6c62,12/04/2026 11:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
@@ -22,5 +22,99 @@ fb29ad3c-e124-4bb7-922f-d39bf01442e7,01/14/2027 11:00:00,HICP (MoM),HIGH,EUR,Rel
 a950d124-d169-4cb0-98b4-2285d8dfadf4,01/28/2027 00:01:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
 e89d8f01-3918-47ad-8646-3d4bc58cb60a,01/29/2027 11:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
 3ad7f552-7570-45e3-9bb8-03bc1ff28c4c,01/29/2027 11:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+3761e316-3466-43ee-a2fb-41411c969678,02/01/2027 01:01:00,AIB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+56eaf5f7-07d7-46e8-80aa-a9acf39f84b0,02/03/2027 01:01:00,AIB Services PMI,HIGH,EUR,Release,0.722,Growth
+b276a193-3dd7-434a-b5ad-7afa8e8d383d,02/18/2027 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+a3d4d50e-e747-4834-a3f1-fd95874038c7,02/18/2027 11:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+92a763e5-5d59-42cb-9c99-d78a9ac2d280,02/18/2027 11:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+e15d9686-4319-4746-a421-65274a0c0d7b,02/18/2027 11:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+739522ea-68cf-4bf2-aad5-d9731c1e9398,02/26/2027 00:01:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+ffa2da2a-36c1-4eb6-af15-2e76ca217da1,02/26/2027 11:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
+f8609032-a312-4e89-8b36-ae0a544ac86b,02/26/2027 11:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+535c8ec0-0f99-4750-bce3-d03fc308a05c,03/01/2027 01:01:00,AIB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+9f921372-86f0-424a-a663-9064b4df56eb,03/03/2027 01:01:00,AIB Services PMI,HIGH,EUR,Release,0.722,Growth
 23668705-6993-44b3-a641-89def88db155,03/04/2027 11:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 16602a86-fa88-4c52-92fe-a6ae878969ef,03/04/2027 11:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
+1f837395-aafe-46f9-aeee-76d1429bd6a7,03/11/2027 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+7a91b9bf-bcb7-4eef-add7-70cf6b59b429,03/11/2027 11:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+46c43db3-6b0d-4a5f-8fc4-e1735bbf1f0f,03/11/2027 11:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+e5f315b9-22ca-4dfa-a38b-871e5b98286e,03/11/2027 11:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+6114889b-b58f-4460-9476-4f7b833371ae,03/29/2027 10:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
+913b4fff-e796-4a8f-b72c-93f0b8fd94dd,03/29/2027 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+6fb4ed8f-ca39-4838-b193-0f96821d0f8b,03/30/2027 23:01:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+978fd90e-2d71-4ac8-8223-2f1fb92f24c6,04/01/2027 00:01:00,AIB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+f0e156b3-00fd-4867-9136-765db47ef069,04/05/2027 00:01:00,AIB Services PMI,HIGH,EUR,Release,0.722,Growth
+dbd2b56e-0f29-41e4-b155-2beb65fd9673,04/08/2027 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+821d794e-4b00-4a42-9694-0298d7f6f968,04/08/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+fd161033-50c7-43ce-9dce-7c777cd01138,04/08/2027 10:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+8647ad71-fe72-4ab7-b7d6-485321f26163,04/08/2027 10:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+65fbeba8-8d14-4734-9901-77c142607404,04/28/2027 23:01:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+5f0e4e7b-e9a1-4cd2-bb77-50d303dd2d8f,04/30/2027 10:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
+9e593753-5a73-45b8-bfae-21d039c3b2a6,04/30/2027 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+22d8e90d-cb7b-43a0-ae02-c39c1d9578a4,05/03/2027 00:01:00,AIB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+6aacdd61-0453-4411-937b-f677a4cb06d7,05/05/2027 00:01:00,AIB Services PMI,HIGH,EUR,Release,0.722,Growth
+f533add3-8c09-4010-9bc8-94d830ef7c72,05/13/2027 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+4241d648-f4f0-4d7c-bb15-37bc9d1bca34,05/13/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+0ffc63ea-e1c8-4944-afd0-e5668e204840,05/13/2027 10:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+f6f62043-c75d-4828-9e67-024ed2b543d4,05/13/2027 10:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+f89dc92f-f04b-49f1-ac7b-349c4ecc0e85,05/27/2027 23:01:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+a2f36afb-1edb-41d9-93b9-76a7db1d047b,05/28/2027 10:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
+1801deb2-9dc7-4d3d-adda-4b77ccead478,05/28/2027 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+588a09b1-f56d-480f-8fd9-f6fd983f3cce,06/01/2027 00:01:00,AIB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+36fa3b96-dc6d-48dd-bd01-377af34a633e,06/03/2027 00:01:00,AIB Services PMI,HIGH,EUR,Release,0.722,Growth
+1c2f92e3-14af-4a56-a6ad-72efcd8c3d39,06/04/2027 10:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+aa04cd73-0aa6-4e5c-bc6b-00058239811a,06/04/2027 10:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
+f18c65fc-e8f0-4b07-a01c-7cbf505a2951,06/10/2027 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+841ed969-9b00-4a32-9d5a-a7218f6f64e5,06/10/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+cfff6a64-4a39-400a-911f-c1d6cd325356,06/10/2027 10:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+7d9ab6e5-232a-4826-82cd-cc091f1ec943,06/10/2027 10:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+a8344358-480e-4fd0-af59-f005e847a6b3,06/28/2027 10:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
+29695e04-2e74-495c-91ce-9d2338a2c3a2,06/28/2027 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+0b1e26e4-9703-462f-a03f-d1c7a0bc10bf,06/29/2027 23:01:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+c521eb0e-e56b-45c2-90d5-8ef70ba11587,07/01/2027 00:01:00,AIB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+5533197e-4061-47cf-8df5-9179a5df3d21,07/05/2027 00:01:00,AIB Services PMI,HIGH,EUR,Release,0.722,Growth
+d6e61e46-34ed-467f-bfb2-ee1d1c4a2c1d,07/08/2027 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+6594a35e-240b-40c1-a052-362e9b09e1e1,07/08/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+c84e2577-57f3-4daf-872a-34118606a99b,07/08/2027 10:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+0f25d768-7113-436c-8c5c-8112472ae26c,07/08/2027 10:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+5ca036cf-ed18-40ef-a2e9-a17e589ae988,07/28/2027 23:01:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+525588d8-d4cc-403f-b0e9-bd8531833980,07/30/2027 10:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
+d9358564-ae00-4e86-8acb-f3f65226ae2d,07/30/2027 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+a6b9f3cb-7c10-43f3-9864-5790e53179ea,08/02/2027 00:01:00,AIB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+3d637085-a2ad-4a0a-8eff-a947912e2407,08/04/2027 00:01:00,AIB Services PMI,HIGH,EUR,Release,0.722,Growth
+b95f2074-5d21-4e76-8c21-ee4e914d6c7d,08/12/2027 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+f75d9003-2a3b-4ff3-8331-a193463d336b,08/12/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+490dd4ba-b788-4f42-8739-1711936afa73,08/12/2027 10:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+c3d09dfe-3c7d-4144-b78d-37d0ca9d7526,08/12/2027 10:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+71c224d9-26cf-4ab9-b770-8f4e0d6f8d52,08/27/2027 10:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
+5284a6f3-3fc0-492c-b154-f5d869c021a8,08/27/2027 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+fd393860-7285-42ef-bc85-e41e8f3e91e0,08/30/2027 23:01:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+4fcac7ca-9382-4241-ae26-d785839d7f4a,09/01/2027 00:01:00,AIB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+467a5ab3-7e54-48cc-84f9-85b2b51f2135,09/03/2027 00:01:00,AIB Services PMI,HIGH,EUR,Release,0.722,Growth
+05fc9f64-a67a-4e43-9fbf-3086b072f629,09/06/2027 10:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+b20adced-6d4e-4e49-a3cf-a97d6b6a5f07,09/06/2027 10:00:00,Gross Domestic Product (YoY),HIGH,EUR,Release,0.722,Growth
+b0a05f05-ffa6-466d-9652-6a6d91dce5c3,09/09/2027 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+dff363bc-4b76-4d9b-939d-d586b0d93d59,09/09/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+39242db9-d19e-49d6-b52b-a40c91fbd0f4,09/09/2027 10:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+f24b97ee-0b2e-4dea-9508-594959e25ef9,09/09/2027 10:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+689314e4-bd60-4d69-8401-71c0f444a475,09/27/2027 10:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
+c8878559-f899-4aec-9825-523c4adc6089,09/27/2027 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+6740aa44-495d-4722-82b0-b43e0b72a57c,09/28/2027 23:01:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+8473c719-6dd5-4e66-b747-9e27fbb40a32,10/01/2027 00:01:00,AIB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+a7e9db1d-53aa-4f86-b40b-1f5acaef44eb,10/05/2027 00:01:00,AIB Services PMI,HIGH,EUR,Release,0.722,Growth
+64877fdf-c160-48e6-9fa0-2b43ab43d0de,10/14/2027 10:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+89fcd57d-6af7-4818-a130-475db541d1ba,10/14/2027 10:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+a35a48c1-5de5-489b-a6a7-368163735af5,10/14/2027 10:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+a468e3c2-d0d5-4166-82b8-2d3bac8720e2,10/14/2027 10:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+9d9ff557-0411-478a-a8e7-5577c20935f2,10/28/2027 23:01:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence
+bcdebeb3-b028-4670-b2a1-400d4b1613b8,10/29/2027 10:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
+064889fe-0d8b-4ce8-ad77-0f0a1098e33d,10/29/2027 10:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+a632deda-2325-4da4-9a54-a474a1e8f81c,11/01/2027 01:01:00,AIB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+fb737ab5-7007-4328-8cc6-40dedbc1d17f,11/03/2027 01:01:00,AIB Services PMI,HIGH,EUR,Release,0.722,Growth
+9da56932-decc-4141-bfba-e6196116060c,11/11/2027 11:00:00,Consumer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+d02fcb74-35d9-4a7d-a0c9-199e67c31346,11/11/2027 11:00:00,Consumer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+04861555-a5d6-427b-849e-a4c5201ebcdf,11/11/2027 11:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+16b60426-71e6-4f5c-b0fd-20513a04b54b,11/11/2027 11:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+b1f86ecb-aa50-4be4-9bd6-1b2b4402faef,11/29/2027 11:00:00,Retail Sales (MoM),HIGH,EUR,Release,0.722,Growth
+37b6a848-32e7-447c-8ddc-593f9547f0ab,11/29/2027 11:00:00,Retail Sales (YoY),HIGH,EUR,Release,0.722,Growth
+ea30ca9f-2e22-4fc9-8e71-31398400337c,11/30/2027 00:01:00,Consumer Confidence,HIGH,EUR,Release,0.595,Confidence

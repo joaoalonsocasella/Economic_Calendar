@@ -4,7 +4,7 @@ d379d930-b08b-4db5-81f1-6939be02e29b,11/26/2026 09:00:00,UniCredit Bank Manufact
 1fcddf0c-c545-4c87-ab61-50972da80edd,11/30/2026 08:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 4b9103d4-731e-484b-8889-fff815d6859e,12/01/2026 08:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
 1eb0800f-05d4-407a-956b-b22710b34e28,12/01/2026 08:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
-745e6494-a11f-4c4a-9e19-c45deef07dcb,12/04/2026 08:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+745e6494-a11f-4c4a-9e19-c45deef07dcb,12/03/2026 08:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 fca048fb-6f08-4830-b1ef-94da72bb1410,12/07/2026 08:00:00,Wholesale Prices n.s.a (MoM),HIGH,EUR,Release,0.722,Growth
 1603846e-99ca-432b-982a-a4ebc0311d47,12/07/2026 08:00:00,Wholesale Prices n.s.a (YoY),HIGH,EUR,Release,0.468,Trade and External
 ab7cf5e0-938d-4210-8ce9-863073494fad,12/09/2026 08:00:00,Trade Balance,HIGH,EUR,Release,0.468,Trade and External
@@ -23,6 +23,12 @@ d026b3d3-8b6f-4682-bf6e-51ae7fad419c,01/07/2027 08:00:00,Wholesale Prices n.s.a 
 ea5da8a4-cb84-4de3-9ec5-15ab8b98d3db,01/19/2027 08:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
 6431166d-ea11-4752-b033-c613c3e115aa,01/19/2027 08:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
 a31869a3-1a9b-4b11-82ec-4b9fef2aac67,01/28/2027 09:00:00,UniCredit Bank Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+799dbc77-51b3-4903-8196-6ff5a562f9de,01/29/2027 08:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 fe69c6bc-cae7-44db-9c89-1a4800dffd04,01/29/2027 08:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 83afe22d-c470-4d76-b177-6b015d7ab548,01/29/2027 08:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
-bcd4a1b4-6642-4109-8f86-a63ecb06551b,03/05/2027 08:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+bcd4a1b4-6642-4109-8f86-a63ecb06551b,03/03/2027 08:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+75d381c7-6d67-4e63-83c7-23c12b4e8f7b,04/30/2027 07:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+c73d0d3e-3fa9-46fe-8640-f60a5b854392,06/03/2027 07:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+eaa69859-16a3-48e1-9c71-9a794c69ac68,07/30/2027 07:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+2a3f5de3-00e3-4e78-9505-7c47b38011a0,09/03/2027 07:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+c995b2dc-733a-4c3a-a2de-a39e7e3c616a,10/29/2027 07:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth

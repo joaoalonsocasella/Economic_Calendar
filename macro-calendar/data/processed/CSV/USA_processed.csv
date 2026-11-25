@@ -1,13 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-3e2e32f4-4bd8-4efc-b96e-1c35186181c3,11/24/2026 13:15:00,ADP Employment Change 4-week average,HIGH,USD,Release,0.18,Labor Market
-77a1d0a3-3649-43ce-a99c-733e0fcc0ccd,11/24/2026 13:55:00,Redbook Index (YoY),HIGH,USD,Release,0.17,Growth
-45df6d9f-d144-4565-b449-e0af73c41ad7,11/24/2026 14:00:00,Housing Price Index (MoM),LOW,USD,Release,0.07,Housing
-f6043a02-e058-4735-a8c3-727a3c444ced,11/24/2026 14:00:00,S&P/Case-Shiller Home Price Indices (YoY),LOW,USD,Release,0.07,Housing
-691231f9-7b47-4f94-9576-61f33b9a1aa2,11/24/2026 15:00:00,Consumer Confidence,MEDIUM,USD,Release,0.14,Confidence
-56cfa3ab-182b-4f66-b907-e02a786dc22a,11/24/2026 15:00:00,Richmond Fed Manufacturing Index,HIGH,USD,Release,0.17,Growth
-90dac270-bf08-468e-bdf0-47e6f53149dc,11/24/2026 16:30:00,52-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
-90ca48e8-e391-450e-952b-939881dafec1,11/24/2026 18:00:00,5-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
-995c5516-e50f-4512-97c2-a0c0aa2ce207,11/24/2026 21:30:00,API Weekly Crude Oil Stock,MEDIUM,USD,Release,0.11,Trade and External
 6f34cc0e-7451-4f7e-8acc-36ca7fc95e63,11/25/2026 12:00:00,MBA Mortgage Applications,LOW,USD,Release,0.09,Money and Credit
 20dfc7e8-8e4a-4d0a-866d-2c68fdb38d38,11/25/2026 13:30:00,Continuing Jobless Claims,HIGH,USD,Release,0.18,Labor Market
 319c9a4d-abe6-44dc-80c3-463a5bc94fee,11/25/2026 13:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD,Release,0.19,Inflation
@@ -26,13 +17,13 @@ fc222e03-3dc7-4d6b-85f8-881142da406b,11/25/2026 13:30:00,Personal Consumption Ex
 16ac5fe0-fb21-4eed-ae36-143031d9d8cf,11/25/2026 13:30:00,Personal Consumption Expenditures Prices (QoQ),HIGH,USD,Release,0.17,Growth
 993d60c4-5fd3-49f5-ac03-2fecf2b26fdb,11/25/2026 13:30:00,Personal Income (MoM),HIGH,USD,Release,0.17,Growth
 8f3f6de5-8547-450d-a059-abe6708a16d5,11/25/2026 13:30:00,Personal Spending,HIGH,USD,Release,0.17,Growth
+bd1b0059-dcb4-4658-9766-8eebab5f47bd,11/25/2026 15:00:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 6938e25d-18c2-425a-9bab-27d70845a03e,11/25/2026 15:00:00,New Home Sales (MoM),LOW,USD,Release,0.07,Housing
 7d45507d-7398-47e0-8231-0f1c156a066b,11/25/2026 15:00:00,New Home Sales Change (MoM),LOW,USD,Release,0.07,Housing
 f6161bfd-b117-4df4-bdea-043b22ff9788,11/25/2026 15:30:00,EIA Crude Oil Stocks Change,MEDIUM,USD,Release,0.11,Trade and External
 343458d9-b023-4b56-ae6f-91b4211983ef,11/25/2026 15:30:00,EIA Distillate Stocks Change,HIGH,USD,Release,0.18,Labor Market
 b0959f76-684e-4b32-a590-eda6993c79c2,11/25/2026 15:30:00,EIA Gasoline Stocks Change,HIGH,USD,Release,0.18,Labor Market
 f91a1070-345b-457a-856d-cd5feee69b96,11/25/2026 15:30:00,EIA Heating Oil Stocks Change,HIGH,USD,Release,0.18,Labor Market
-bd1b0059-dcb4-4658-9766-8eebab5f47bd,11/25/2026 16:30:00,4-Week Bill Auction,LOW,USD,Release,0.09,Money and Credit
 b9cad217-8b58-4c24-9de6-ac048123e6e4,11/25/2026 17:00:00,EIA Natural Gas Storage Change,HIGH,USD,Release,0.18,Labor Market
 620ffa8e-169a-4fbb-9ff6-71925900c1bb,11/25/2026 18:00:00,7-Year Note Auction,LOW,USD,Release,0.09,Money and Credit
 2e8f5d63-3d8b-4d4a-89bd-ad984e0f2bf4,11/25/2026 18:00:00,Baker Hughes US Oil Rig Count,MEDIUM,USD,Release,0.11,Trade and External

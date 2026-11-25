@@ -1,6 +1,9 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d831bf31-5d73-4da0-8323-166beb0cff0c,11/24/2026 12:30:00,BoE's Greene speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 8ffc8e1b-1e35-4c34-bf38-bb1ac97e73d5,11/25/2026 14:15:00,BoE Monetary Policy Report Hearings,MEDIUM,GBP,Speech,0.13,Monetary Policy
+033c6d2b-f653-4410-b4cf-db710c6fb290,11/25/2026 14:15:00,BoE's Governor Bailey speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
+f537e509-f575-4605-b168-d6be73c772b5,11/25/2026 14:20:00,BoE's Dhingra speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
+5f00ac2d-f010-4caf-b6b6-8e5e0b46e0c2,11/25/2026 14:20:00,BoE's Lombardelli speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
+6773cb29-2312-41c3-a94a-e8785f603f76,11/25/2026 14:20:00,BoE's Mann speech,MEDIUM,GBP,Speech,0.13,Monetary Policy
 1dac1be3-d968-41ed-9aa4-602e31d8e6ea,11/26/2026 10:30:00,Financial Stability Report,HIGH,GBP,Release,0.2,Monetary Policy
 c51d89ac-b0e3-429e-9e55-9b6a61e08ccf,11/26/2026 10:30:00,FPC Meeting Minutes,HIGH,GBP,Release,0.2,Monetary Policy
 296ccec6-4627-452d-b262-087b01d91970,11/26/2026 10:30:00,FPC Statement,MEDIUM,GBP,Speech,0.13,Monetary Policy
