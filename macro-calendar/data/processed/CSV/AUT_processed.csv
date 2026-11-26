@@ -20,15 +20,124 @@ e9b470e1-9a3d-4b19-a811-076fc57296a6,12/30/2026 08:00:00,Producer Price Index (M
 d026b3d3-8b6f-4682-bf6e-51ae7fad419c,01/07/2027 08:00:00,Wholesale Prices n.s.a (YoY),HIGH,EUR,Release,0.468,Trade and External
 450dde71-201c-4780-8c2a-e1c298870387,01/08/2027 08:00:00,Industrial Production (YoY),HIGH,EUR,Release,0.722,Growth
 3da70986-e540-4e9c-8200-7c98434a674e,01/08/2027 08:00:00,Trade Balance,HIGH,EUR,Release,0.468,Trade and External
-ea5da8a4-cb84-4de3-9ec5-15ab8b98d3db,01/19/2027 08:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
-6431166d-ea11-4752-b033-c613c3e115aa,01/19/2027 08:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+ea5da8a4-cb84-4de3-9ec5-15ab8b98d3db,01/18/2027 08:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+6431166d-ea11-4752-b033-c613c3e115aa,01/18/2027 08:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
 a31869a3-1a9b-4b11-82ec-4b9fef2aac67,01/28/2027 09:00:00,UniCredit Bank Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 799dbc77-51b3-4903-8196-6ff5a562f9de,01/29/2027 08:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 fe69c6bc-cae7-44db-9c89-1a4800dffd04,01/29/2027 08:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 83afe22d-c470-4d76-b177-6b015d7ab548,01/29/2027 08:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+9c9021db-1e3f-4d29-bcf5-819f79308c0c,02/01/2027 08:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
+cef8952a-0a47-491d-a4ca-d81dcc24c51b,02/01/2027 08:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+5509071b-b501-4f3a-8418-12f881ce5cb7,02/05/2027 08:00:00,Wholesale Prices n.s.a (MoM),HIGH,EUR,Release,0.722,Growth
+79fccf37-eaf2-4394-bcbc-996128e11531,02/05/2027 08:00:00,Wholesale Prices n.s.a (YoY),HIGH,EUR,Release,0.468,Trade and External
+7d856c31-b783-45e5-be96-9b4f42d799c1,02/08/2027 08:00:00,Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+a01a7aa6-a3d3-47c5-a884-89ecbf63e4b6,02/10/2027 08:00:00,Industrial Production (YoY),HIGH,EUR,Release,0.722,Growth
+02b336a0-f780-4d66-87e2-f4781ab0755a,02/25/2027 08:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+a2e10879-c392-4df0-bffa-c2e82f5ab781,02/25/2027 08:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+e9f0aa08-9ba4-4da6-91ba-af9e89430ad3,02/26/2027 08:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+5872cc3a-e1cd-411b-975c-decd96569505,02/26/2027 08:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+57175aca-28f1-4af0-8cec-bbea7a9136d5,02/26/2027 09:00:00,UniCredit Bank Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+9d5e1f9c-49d2-4a8e-b8f8-41050243815b,03/01/2027 08:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
+64d72a2d-6341-4e0e-ab41-497eb2edf693,03/01/2027 08:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
 bcd4a1b4-6642-4109-8f86-a63ecb06551b,03/03/2027 08:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+0fe0ab37-1564-4ee8-b726-2e2def092a90,03/05/2027 08:00:00,Wholesale Prices n.s.a (MoM),HIGH,EUR,Release,0.722,Growth
+ca6183c2-d8fb-41dd-bee3-18750828db27,03/05/2027 08:00:00,Wholesale Prices n.s.a (YoY),HIGH,EUR,Release,0.468,Trade and External
+32b6bd50-66e0-492e-946f-ba286ab88b30,03/10/2027 08:00:00,Industrial Production (YoY),HIGH,EUR,Release,0.722,Growth
+21b102e3-d1be-4c18-980f-8e32dc8c366d,03/10/2027 08:00:00,Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+7c46d2ef-de3b-4988-92f7-e9b2a9931a05,03/18/2027 08:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+80f25642-a6c6-405b-8ab6-18a0f921154a,03/18/2027 08:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+55aebd0e-9765-4853-ad67-6e8af155785d,03/29/2027 08:00:00,UniCredit Bank Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+cd2549a8-618f-40a5-b646-ef2dad5a5774,03/30/2027 07:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+78038e32-2649-4107-a647-03aa712e5e8d,03/30/2027 07:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+56bdebe4-88fd-4b5c-88e3-a20907e7c5fc,04/01/2027 07:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
+4d7c5106-e101-44ce-a1dd-a8f6ca1049b2,04/01/2027 07:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+9123c192-5ddd-49c9-bda6-0a36663cb430,04/07/2027 07:00:00,Wholesale Prices n.s.a (MoM),HIGH,EUR,Release,0.722,Growth
+77918ed8-0596-416b-9d0b-24cc5773964c,04/07/2027 07:00:00,Wholesale Prices n.s.a (YoY),HIGH,EUR,Release,0.468,Trade and External
+59557528-2c9a-40aa-8175-30db970188a1,04/09/2027 07:00:00,Industrial Production (YoY),HIGH,EUR,Release,0.722,Growth
+af1f69cf-92fb-4809-b6be-d926129eee58,04/12/2027 07:00:00,Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+9aedfc8b-6ba9-4bff-bfc7-f26ac5ab7ee0,04/16/2027 07:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+a7b20df8-d1c0-4a73-a4d2-56cd123e3d58,04/16/2027 07:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+c283f60f-c1af-44e1-b62f-b9b44965faf8,04/29/2027 08:00:00,UniCredit Bank Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 75d381c7-6d67-4e63-83c7-23c12b4e8f7b,04/30/2027 07:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+5c3bb0ec-e56f-49f3-bcff-f6b9f2c097a5,04/30/2027 07:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+ef703ebb-cda3-4972-85ed-676d99d79b54,04/30/2027 07:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+d5a159ee-95bf-4565-a0f3-7847f30cc230,05/03/2027 07:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
+da24a0ed-fe89-4bcb-a395-131807deabbb,05/03/2027 07:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+8e25c2e2-3677-4956-8d3f-59835f9bebc9,05/05/2027 07:00:00,Wholesale Prices n.s.a (MoM),HIGH,EUR,Release,0.722,Growth
+6b52aebc-cb1e-49a5-b898-db18769502be,05/05/2027 07:00:00,Wholesale Prices n.s.a (YoY),HIGH,EUR,Release,0.468,Trade and External
+88baab63-4840-4bf3-b089-dbc3ea814498,05/07/2027 07:00:00,Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+3ea8833c-d00e-4bcf-a3e6-b55e512989d6,05/10/2027 07:00:00,Industrial Production (YoY),HIGH,EUR,Release,0.722,Growth
+b3adcb64-9aac-46e7-99c7-e568c533c88b,05/20/2027 07:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+c2df35fb-60d4-4f7e-bed1-7de7e9321b6d,05/20/2027 07:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+de960973-6241-4153-86ec-792cbf0869ee,05/27/2027 08:00:00,UniCredit Bank Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+398e3d30-af0c-4573-8241-82778039fd72,05/28/2027 07:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+bb156bfa-a9b0-452e-a80e-bd83059f5dd1,05/28/2027 07:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+6d7b4165-c7dc-4d8c-8ecf-15d7e8bd52d2,06/01/2027 07:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
+69979b99-5d21-4b7f-87ac-34262fe19540,06/01/2027 07:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
 c73d0d3e-3fa9-46fe-8640-f60a5b854392,06/03/2027 07:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+b4865cf8-1e11-42b5-a28c-0e597678084c,06/07/2027 07:00:00,Wholesale Prices n.s.a (MoM),HIGH,EUR,Release,0.722,Growth
+b22dce94-8743-45c4-bcf3-02c78dabadb1,06/07/2027 07:00:00,Wholesale Prices n.s.a (YoY),HIGH,EUR,Release,0.468,Trade and External
+699e1303-fdf0-4533-b07f-09d439ea2d38,06/09/2027 07:00:00,Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+64841bbc-6ba2-4a99-848f-9897fe14355e,06/10/2027 07:00:00,Industrial Production (YoY),HIGH,EUR,Release,0.722,Growth
+b641f6bf-da06-466e-9a5f-23729dc54a88,06/17/2027 07:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+d0be3437-ae3a-4bae-8ddf-21b6c8029ae1,06/17/2027 07:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+65b9dbe2-1e25-4317-a17d-6986e5129b00,06/29/2027 07:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+aefeccd9-4f28-45ad-9dbe-b04174abc322,06/29/2027 07:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+8075209d-ee40-4a32-83c6-468b15e73fec,06/29/2027 08:00:00,UniCredit Bank Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+ff23178b-41da-4e2d-b87c-b8bb5410d68f,07/01/2027 07:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
+c10de556-d5e6-467d-9a2e-723c47123a00,07/01/2027 07:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+a7bbf237-b126-4c57-8ce5-e1c0055d258f,07/07/2027 07:00:00,Wholesale Prices n.s.a (MoM),HIGH,EUR,Release,0.722,Growth
+2a41ac82-9bc4-4c97-8049-8737e8d5e9ca,07/07/2027 07:00:00,Wholesale Prices n.s.a (YoY),HIGH,EUR,Release,0.468,Trade and External
+57feb3d2-5cfa-41a0-a3c2-d85ebb79f4a7,07/09/2027 07:00:00,Industrial Production (YoY),HIGH,EUR,Release,0.722,Growth
+8179e592-0a38-47f0-9950-0d239eaf8615,07/09/2027 07:00:00,Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+ed6520fa-ae09-44e5-9056-8e54d0dd61cd,07/16/2027 07:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+00d9da66-3983-4777-b3f3-1f2ed9ec4a3e,07/16/2027 07:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+63caabbe-afce-4ffd-b752-15d2a37f3821,07/29/2027 07:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+2c005196-900d-446e-b3f8-9b026575c9b7,07/29/2027 07:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+21baab42-bba6-4bb9-90e5-61656668e7b0,07/29/2027 08:00:00,UniCredit Bank Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 eaa69859-16a3-48e1-9c71-9a794c69ac68,07/30/2027 07:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+1de5f8c2-e247-4bf2-ada0-1a0b22a51278,08/02/2027 07:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
+45ce4338-0975-49c8-a2ce-31cf5f7dcfd5,08/02/2027 07:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+a0c01759-3b99-4be7-92bc-cb427ff559c6,08/06/2027 07:00:00,Wholesale Prices n.s.a (MoM),HIGH,EUR,Release,0.722,Growth
+5b42acb2-cd11-4592-bf38-6f9a09aad916,08/06/2027 07:00:00,Wholesale Prices n.s.a (YoY),HIGH,EUR,Release,0.468,Trade and External
+5a2fb3d6-8375-42c2-aa33-6dde1146a2ae,08/09/2027 07:00:00,Industrial Production (YoY),HIGH,EUR,Release,0.722,Growth
+4465af19-d487-4890-be7a-db5ba6193381,08/09/2027 07:00:00,Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+c08703f3-7902-4bf7-ad6b-b80a6bf7f877,08/19/2027 07:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+086d9b77-8c21-4bb3-b306-66360f72a0d1,08/19/2027 07:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+62d23c68-d6ec-406b-bb46-0ab6aa1ba4ba,08/26/2027 08:00:00,UniCredit Bank Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+76bae06b-944f-4376-a0c1-93c15876ed35,08/30/2027 07:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+bf5b0e31-df62-4579-b641-5b623d5cbc7b,08/30/2027 07:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+d45a00ce-5c3d-4675-9258-bb64b1d69f18,09/01/2027 07:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
+575237aa-a98c-4d6e-b5a2-e97908acd692,09/01/2027 07:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
 2a3f5de3-00e3-4e78-9505-7c47b38011a0,09/03/2027 07:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+6df51973-e06f-4cea-a75e-bf25046019fd,09/07/2027 07:00:00,Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+f27d3bb1-2fcb-4956-b9af-9842b0ca6376,09/07/2027 07:00:00,Wholesale Prices n.s.a (MoM),HIGH,EUR,Release,0.722,Growth
+bd9ea086-d5ef-4fec-82eb-d11c198b323a,09/07/2027 07:00:00,Wholesale Prices n.s.a (YoY),HIGH,EUR,Release,0.468,Trade and External
+6eb99586-2a67-48d1-adc3-867750f7a7e2,09/08/2027 07:00:00,Industrial Production (YoY),HIGH,EUR,Release,0.722,Growth
+05b40993-965d-4af5-bc67-ab73021d647d,09/17/2027 07:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+50a1e27c-b786-40f5-907d-8f5e8fa2ad59,09/17/2027 07:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+23301c2e-cbe2-454c-aef3-4ab27291cbc0,09/29/2027 07:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+5f27333a-3f11-432f-8fbe-34ad6a9d4ca4,09/29/2027 07:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+38fb5b16-45bb-40f0-b469-d0bd58339586,10/01/2027 07:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
+b3462c20-b11f-4a50-bb97-280fd79d6154,10/01/2027 07:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+7de9ca1e-86a1-46ee-93cd-7dce15ab9e5d,10/06/2027 07:00:00,Wholesale Prices n.s.a (MoM),HIGH,EUR,Release,0.722,Growth
+42e03147-fdcd-42b0-a70b-7c44a8153b67,10/06/2027 07:00:00,Wholesale Prices n.s.a (YoY),HIGH,EUR,Release,0.468,Trade and External
+a1ddb2fb-ce85-4ca8-9d95-8a8bc2b98637,10/08/2027 07:00:00,Industrial Production (YoY),HIGH,EUR,Release,0.722,Growth
+35166370-284f-4c00-a4b2-beb0925edc3d,10/08/2027 07:00:00,Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+4eb81fc7-0b80-4f88-986d-f20e8fdd3ec0,10/18/2027 07:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+bfb5b773-839f-4281-8671-b7c9d301fc05,10/18/2027 07:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+d7891e73-2fe7-4eea-bf10-2c47b5cf6abc,10/28/2027 07:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+dd13ae43-e026-4dc5-9cb5-de4c1d754b9d,10/28/2027 07:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+5f0fb5d3-21c7-4169-ba00-2d4870507295,10/28/2027 08:00:00,UniCredit Bank Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 c995b2dc-733a-4c3a-a2de-a39e7e3c616a,10/29/2027 07:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+7ef6a5f4-0e2e-4d83-b3e2-425333acbafb,11/01/2027 08:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
+3fcb9053-4a30-4c28-b4da-c15d243b1bac,11/01/2027 08:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+97565017-5fd7-4c62-880c-fea87de8cbfa,11/05/2027 08:00:00,Wholesale Prices n.s.a (MoM),HIGH,EUR,Release,0.722,Growth
+89f08636-b299-4fb7-843b-31c64330f7d1,11/05/2027 08:00:00,Wholesale Prices n.s.a (YoY),HIGH,EUR,Release,0.468,Trade and External
+75c1e3af-d593-4808-a259-ccdfecef8a3f,11/09/2027 08:00:00,Industrial Production (YoY),HIGH,EUR,Release,0.722,Growth
+e1cd49ee-70f7-4e12-8175-8520373cbf6d,11/10/2027 08:00:00,Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+888fd1db-5450-4c2b-a21e-e5fd316cf257,11/17/2027 08:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+45be4bba-8abb-46fa-abbf-6095ffa64947,11/17/2027 08:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+d6da98ce-f067-44a4-8c03-9d6460692fb5,11/29/2027 08:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+1a4ac1fd-09e5-4890-a57b-a284de120e87,11/29/2027 08:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
+b52c885c-2d1b-4d4d-90d8-ef5a542e210c,11/29/2027 09:00:00,UniCredit Bank Manufacturing PMI,HIGH,EUR,Release,0.722,Growth

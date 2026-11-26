@@ -1,17 +1,17 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
 180978d1-1e2a-4fbe-8afe-c804ee3db38b,11/26/2026 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
-3b702c7d-59c0-4efd-a5fd-371e16835af8,11/26/2026 16:00:00,Industrial Output,HIGH,RUB,Release,0.17,Growth
-c2088338-53d7-4fef-ac13-0c2fff89bb5c,11/26/2026 16:00:00,Producer Price Index (MoM),HIGH,RUB,Release,0.19,Inflation
-1cffee5f-b7b9-42d6-9b76-b79078f6cc3e,11/26/2026 16:00:00,Producer Price Index (YoY),HIGH,RUB,Release,0.19,Inflation
 e745e032-06b1-428c-96a0-eb52f175c8ee,12/01/2026 06:00:00,S&P Global Manufacturing PMI,HIGH,RUB,Release,0.17,Growth
 c61287c4-65e9-4de0-b45b-11ce0b57ce3c,12/02/2026 16:00:00,Unemployment Rate,HIGH,RUB,Release,0.18,Labor Market
 17026439-3a74-4668-8580-21dcce13072d,12/03/2026 06:00:00,S&P Global Services PMI,HIGH,RUB,Release,0.17,Growth
 f5cad169-e318-4612-80f5-fd6e45998a0f,12/03/2026 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
+3b702c7d-59c0-4efd-a5fd-371e16835af8,12/03/2026 16:00:00,Industrial Output,HIGH,RUB,Release,0.17,Growth
 a76c0098-786a-4a3b-a22f-2eea9ddfb19f,12/09/2026 16:00:00,Consumer Price Index (MoM),HIGH,RUB,Release,0.19,Inflation
 db859a0c-76ea-4893-8bb4-21bf39d94f94,12/10/2026 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 2d240ce5-85a1-483a-a1f7-f509a6478fc7,12/11/2026 14:00:00,Foreign Trade,MEDIUM,RUB,Release,0.11,Trade and External
 74f9b31c-18ca-47a0-b873-1f9801da510d,12/16/2026 16:00:00,Producer Price Index (MoM),HIGH,RUB,Release,0.19,Inflation
+c2088338-53d7-4fef-ac13-0c2fff89bb5c,12/16/2026 16:00:00,Producer Price Index (MoM),HIGH,RUB,Release,0.19,Inflation
 3b5e9f0b-e733-44cd-87e8-3313ba6411bd,12/16/2026 16:00:00,Producer Price Index (YoY),HIGH,RUB,Release,0.19,Inflation
+1cffee5f-b7b9-42d6-9b76-b79078f6cc3e,12/16/2026 16:00:00,Producer Price Index (YoY),HIGH,RUB,Release,0.19,Inflation
 1aee8c21-ddba-4786-b634-47383b17f421,12/17/2026 13:00:00,Central Bank Reserves $,LOW,RUB,Release,0.09,Money and Credit
 4eee4749-f0f7-4228-a3e8-a383394154a9,12/18/2026 10:30:00,Interest Rate Decision,HIGH,RUB,Release,0.2,Monetary Policy
 b626883b-708b-423f-90ec-e88853168fc6,12/23/2026 16:00:00,Industrial Output,HIGH,RUB,Release,0.17,Growth
