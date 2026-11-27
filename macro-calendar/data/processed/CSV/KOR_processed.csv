@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e69e6575-c56a-426c-96fa-7723153c9a81,11/26/2026 01:00:00,BoK Interest Rate Decision,HIGH,KRW,Release,0.2,Monetary Policy
 adee17f9-571f-4556-acc1-aa79fa7a2962,11/29/2026 23:00:00,Industrial Output (YoY),HIGH,KRW,Release,0.17,Growth
 f3a004c2-49bd-4900-aff4-7d26fcf217ba,11/29/2026 23:00:00,Industrial Output Growth,HIGH,KRW,Release,0.17,Growth
 4ac9a118-7102-42df-b1c2-7f66ae9d0a51,11/29/2026 23:00:00,Service Sector Output,LOW,KRW,Release,0.09,Money and Credit
@@ -243,3 +242,25 @@ c90e6b36-5e23-474c-b57e-f3ccd25c67ec,11/25/2027 21:00:00,BOK Manufacturing BSI,H
 e9bcb839-920d-427e-af2d-c973c5d150af,11/30/2027 23:00:00,Industrial Output (YoY),HIGH,KRW,Release,0.17,Growth
 329897e4-f5ad-440d-91ca-665f5ec45099,11/30/2027 23:00:00,Industrial Output Growth,HIGH,KRW,Release,0.17,Growth
 ae59e6ad-504f-42f6-93cc-99dfe14482a8,11/30/2027 23:00:00,Service Sector Output,LOW,KRW,Release,0.09,Money and Credit
+87c34e6d-6cf8-4538-8b66-d74344585a94,12/01/2027 00:00:00,Trade Balance,MEDIUM,KRW,Release,0.11,Trade and External
+27667b3a-89f9-422d-96ea-6ec727ab8e9f,12/01/2027 00:30:00,S&P Global Manufacturing PMI,HIGH,KRW,Release,0.17,Growth
+410c9595-1bcd-4a57-bdc9-c42a6c1b4919,12/01/2027 23:00:00,Consumer Price Index Growth (MoM),HIGH,KRW,Release,0.19,Inflation
+29c8e717-edc8-4e9b-9ceb-e88b8bcbfcea,12/01/2027 23:00:00,Consumer Price Index Growth (YoY),HIGH,KRW,Release,0.19,Inflation
+3dcff441-1f57-4f64-aa08-8d0640f98f72,12/02/2027 21:00:00,FX Reserves,LOW,KRW,Release,0.09,Money and Credit
+edcb26be-caf5-42e9-a253-f1baf68d4835,12/06/2027 23:00:00,Current Account Balance,MEDIUM,KRW,Release,0.11,Trade and External
+59db6b58-a9a1-4000-ad5a-e5899f495aac,12/06/2027 23:00:00,Gross Domestic Product Growth (QoQ) ,HIGH,KRW,Release,0.17,Growth
+7f1b1c40-c92c-4f15-9e9a-b544be361400,12/06/2027 23:00:00,Gross Domestic Product Growth (YoY),HIGH,KRW,Release,0.17,Growth
+60308901-5260-494d-a5fc-4501d70785b8,12/13/2027 23:00:00,Unemployment Rate,HIGH,KRW,Release,0.18,Labor Market
+b6e2b519-4905-45a5-b921-80319aada6d4,12/14/2027 21:00:00,Export Price Growth (YoY),MEDIUM,KRW,Release,0.11,Trade and External
+d943be10-95c4-48fc-9e0e-18a42759f1e9,12/14/2027 21:00:00,Import Price Growth (YoY),MEDIUM,KRW,Release,0.11,Trade and External
+5f1f4e61-2524-4a5e-b6bc-1622fd35d34c,12/15/2027 03:00:00,Money Supply Growth,HIGH,KRW,Release,0.2,Monetary Policy
+024492cf-f022-411f-b31b-25aa5eaca175,12/15/2027 23:55:00,Trade Balance,MEDIUM,KRW,Release,0.11,Trade and External
+b02b9f3e-503f-423f-8298-7b1d37e93545,12/21/2027 21:00:00,Producer Price Index Growth (MoM),HIGH,KRW,Release,0.19,Inflation
+38d76a0f-c21c-4a99-a66f-0c1bc00c38de,12/21/2027 21:00:00,Producer Price Index Growth (YoY),HIGH,KRW,Release,0.19,Inflation
+ebaaffe5-083d-43cf-bcb5-3e85784c6b59,12/23/2027 21:00:00,BOK Manufacturing BSI,HIGH,KRW,Release,0.17,Growth
+f4db6b01-2399-4c68-8fd1-cb97c100ae76,12/23/2027 21:00:00,Consumer Sentiment Index,MEDIUM,KRW,Release,0.14,Confidence
+30b7b0c4-635b-4166-b80b-a5c6d0d02596,12/30/2027 23:00:00,Consumer Price Index Growth (MoM),HIGH,KRW,Release,0.19,Inflation
+c83a79e3-0fc8-4182-908f-2590586219e3,12/30/2027 23:00:00,Consumer Price Index Growth (YoY),HIGH,KRW,Release,0.19,Inflation
+2247a529-1026-42cf-9514-6706278dac7e,12/30/2027 23:00:00,Industrial Output (YoY),HIGH,KRW,Release,0.17,Growth
+895a6803-a0e2-4d81-bc03-3d9af2899533,12/30/2027 23:00:00,Industrial Output Growth,HIGH,KRW,Release,0.17,Growth
+2fa88d24-5c08-48fc-8ba1-17814bedd7b1,12/30/2027 23:00:00,Service Sector Output,LOW,KRW,Release,0.09,Money and Credit

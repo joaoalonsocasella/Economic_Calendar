@@ -1,6 +1,4 @@
 Id,Start,Name,Impact,Currency
-07729677-7b0a-4f7b-aaef-75740905b479,11/26/2026 05:00:00,Industrial Production (MoM),LOW,SGD
-5a3d9a15-7655-4f14-8e80-5ad3f2aac18c,11/26/2026 05:00:00,Industrial Production (YoY),LOW,SGD
 69489ca6-0aa5-406e-9391-cbc70891b9c3,12/02/2026 13:00:00,Manufacturing PMI,LOW,SGD
 5f01fdea-ea7f-42a0-b18e-8bbc1ca022f3,12/04/2026 05:00:00,Retail Sales (MoM),LOW,SGD
 8c4372e3-d7e3-4cb5-88fe-4f2d8f801c1f,12/04/2026 05:00:00,Retail Sales (YoY),LOW,SGD
@@ -110,3 +108,10 @@ b2eb7408-5c76-415d-bc41-624fd50e84aa,11/24/2027 00:00:00,Gross Domestic Product 
 d2931d7d-4ede-49d2-82b2-dffe0bd151ba,11/24/2027 00:00:00,Gross Domestic Product (YoY),LOW,SGD
 18dee265-f4d4-4761-bd1a-ab5d56a7e348,11/29/2027 05:00:00,Industrial Production (MoM),LOW,SGD
 96062a91-4523-4555-adf2-6b6f7db92d6f,11/29/2027 05:00:00,Industrial Production (YoY),LOW,SGD
+629c5749-20f2-4ff8-a9d4-0d114712a016,12/02/2027 13:00:00,Manufacturing PMI,LOW,SGD
+15871b40-9a88-4681-bd2c-1edcfd7c56bd,12/06/2027 05:00:00,Retail Sales (MoM),LOW,SGD
+106065bd-c5eb-4045-8208-de6d2f2c4b8e,12/06/2027 05:00:00,Retail Sales (YoY),LOW,SGD
+46c9c8c1-f33d-43c5-914f-3e0f7c006398,12/07/2027 09:00:00,Foreign Reserves (MoM),LOW,SGD
+dae2c805-65ad-4dff-b1f8-9c94c1b2f06b,12/23/2027 05:00:00,Consumer Price Index (YoY),LOW,SGD
+15a2ac47-a632-44a7-ba37-a18f00c011af,12/27/2027 05:00:00,Industrial Production (MoM),LOW,SGD
+eecfcea4-c763-4efd-bb63-2064152b9c89,12/27/2027 05:00:00,Industrial Production (YoY),LOW,SGD

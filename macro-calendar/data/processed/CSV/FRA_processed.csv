@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-9b9be037-3b6a-4089-aecc-9f33a5153d46,11/26/2026 07:45:00,Producer Prices (MoM),HIGH,EUR,Release,0.807,Inflation
 e913ace4-4ff2-4e9b-8735-d8de89faac32,11/27/2026 07:45:00,Consumer Price Index (EU norm) (MoM),HIGH,EUR,Release,0.807,Inflation
 175022b4-8dba-48ca-94f2-48e25dc57a5f,11/27/2026 07:45:00,Consumer Price Index (EU norm) (YoY),HIGH,EUR,Release,0.807,Inflation
 3d0bb973-05bc-4475-a6c1-07ba26a1e5ec,11/27/2026 07:45:00,Consumer Spending (MoM),HIGH,EUR,Release,0.722,Growth
@@ -278,3 +277,20 @@ ba4e6543-0b7e-43ed-b378-013f83fdde39,11/23/2027 08:15:00,HCOB Services PMI,HIGH,
 1ca2291d-50e4-40a8-be69-cacf651b9146,11/30/2027 07:45:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
 c4619197-9bf3-43c9-bb9e-1655e15d6c11,11/30/2027 07:45:00,Nonfarm Payrolls (QoQ),HIGH,EUR,Release,0.765,Labor Market
 d5880f15-a816-4e51-8e22-76b542fa7576,11/30/2027 07:45:00,Producer Prices (MoM),HIGH,EUR,Release,0.807,Inflation
+ddb214cf-41c0-4e2b-b5a0-e10331de0cfa,12/01/2027 08:50:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+7e43799e-8cf3-4408-8f0d-f5e8e28d3860,12/03/2027 07:45:00,Budget Balance,HIGH,EUR,Release,0.468,Trade and External
+0c71d44c-5b28-4dc6-9360-ae70bf32a0e4,12/03/2027 08:50:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
+5b88cbbb-cb65-4405-a171-2352de242ab4,12/03/2027 08:50:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+bdb26181-12c7-4047-8135-c9eccf8bb738,12/07/2027 07:45:00,"Exports, EUR",HIGH,EUR,Release,0.468,Trade and External
+3058d3e9-2609-45a9-ae44-244cea85d3d1,12/07/2027 07:45:00,"Imports, EUR",HIGH,EUR,Release,0.468,Trade and External
+0866b9c2-8ba6-40bd-a74d-c1075e136a0e,12/07/2027 07:45:00,Trade Balance EUR,HIGH,EUR,Release,0.468,Trade and External
+7cccca2e-01f4-40f7-bc42-fd3f234d3c51,12/08/2027 07:45:00,Current Account,HIGH,EUR,Release,0.468,Trade and External
+05a77d75-ca47-4a89-8166-2ba27317290d,12/09/2027 07:45:00,Industrial Output (MoM),HIGH,EUR,Release,0.722,Growth
+d4290272-7073-4daa-a255-b9c2ec2fe9e2,12/14/2027 07:45:00,Consumer Price Index (EU norm) (MoM),HIGH,EUR,Release,0.807,Inflation
+64d36f6b-7d77-471e-ad1f-4ef7d6e2d568,12/14/2027 07:45:00,Consumer Price Index (EU norm) (YoY),HIGH,EUR,Release,0.807,Inflation
+931d9f8a-18c8-470a-a9e6-1f10defcb808,12/14/2027 07:45:00,Inflation ex-tobacco (MoM),HIGH,EUR,Release,0.807,Inflation
+1bb2f952-5e93-4266-b8e0-44051e2dbdbf,12/16/2027 08:15:00,HCOB Composite PMI,HIGH,EUR,Release,0.722,Growth
+145a4e64-3631-4d5c-a39c-6ad8448aae40,12/16/2027 08:15:00,HCOB Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+0aedeb99-66ee-4d17-a0b0-82a0048dee83,12/16/2027 08:15:00,HCOB Services PMI,HIGH,EUR,Release,0.722,Growth
+be4905d9-3674-4924-b683-2b93422bdd27,12/17/2027 07:45:00,Business Climate in Manufacturing,HIGH,EUR,Release,0.595,Confidence
+fdc27764-e97d-4a3d-8be7-ba4e2fdc0956,12/17/2027 07:45:00,Producer Prices (MoM),HIGH,EUR,Release,0.807,Inflation

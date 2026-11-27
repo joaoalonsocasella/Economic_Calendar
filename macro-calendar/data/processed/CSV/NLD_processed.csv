@@ -5,7 +5,7 @@ e693f7f4-c392-428d-89ba-dcfef2608116,12/01/2026 06:00:00,Nevi Manufacturing PMI,
 c9e85af1-036a-4907-8637-ad7418b7d1df,12/09/2026 05:30:00,Consumer Spending Volume,HIGH,EUR,Release,0.595,Confidence
 bec972e5-fc97-4ca2-bb97-daec8d5b422b,12/10/2026 05:30:00,Manufacturing Output (MoM),HIGH,EUR,Release,0.722,Growth
 d0410e00-8ed9-4915-8b07-8b8a4d659648,12/17/2026 05:30:00,Unemployment Rate s.a (3M),HIGH,EUR,Release,0.765,Labor Market
-9f1873e2-a47b-4e28-82b1-5097d52471fd,12/22/2026 05:30:00,Consumer Confidence Adj,HIGH,EUR,Release,0.595,Confidence
+9f1873e2-a47b-4e28-82b1-5097d52471fd,12/21/2026 05:30:00,Consumer Confidence Adj,HIGH,EUR,Release,0.595,Confidence
 662f1f43-89d1-41b3-a504-f5f62308a80d,12/24/2026 06:30:00,Gross Domestic Product n.s.a (YoY),HIGH,EUR,Release,0.722,Growth
 6c63ca6b-f4f1-4d5c-8724-46ad80fe61e4,12/24/2026 06:30:00,Gross Domestic Product s.a (QoQ) ,HIGH,EUR,Release,0.722,Growth
 91c876c8-3e31-44b7-8420-f15fee745740,01/04/2027 06:00:00,Nevi Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
@@ -17,3 +17,36 @@ db40d2a7-93f9-45d6-a468-5b4453f5d964,01/21/2027 05:30:00,Unemployment Rate s.a (
 f5b1e6fc-3a4e-49b1-af15-7348fb2fbfc4,01/22/2027 05:30:00,Consumer Confidence Adj,HIGH,EUR,Release,0.595,Confidence
 3cdb80bf-af37-436b-80ab-6e3fbf372b7a,01/29/2027 08:30:00,Gross Domestic Product n.s.a (YoY),HIGH,EUR,Release,0.722,Growth
 c5fb3edf-5be0-4373-9125-dfb40d24c587,01/29/2027 08:30:00,Gross Domestic Product s.a (QoQ) ,HIGH,EUR,Release,0.722,Growth
+0e8e300e-8d54-48ba-a02f-9055075e47be,02/08/2027 05:30:00,Consumer Spending Volume,HIGH,EUR,Release,0.595,Confidence
+a006cea8-0c49-4d15-aa44-9bd863563427,02/09/2027 05:30:00,Consumer Price Index n.s.a (YoY),HIGH,EUR,Release,0.807,Inflation
+6b252af4-a17e-45c4-9194-eb8ab93b68b8,02/22/2027 05:30:00,Consumer Confidence Adj,HIGH,EUR,Release,0.595,Confidence
+1fc90195-95a2-46cb-a479-0557c7a9002c,03/09/2027 05:30:00,Consumer Price Index n.s.a (YoY),HIGH,EUR,Release,0.807,Inflation
+a8facf1c-32a8-4f89-be47-6dc2873269f0,03/09/2027 05:30:00,Consumer Spending Volume,HIGH,EUR,Release,0.595,Confidence
+55d90754-7582-4301-98de-c388eebf55bd,03/22/2027 05:30:00,Consumer Confidence Adj,HIGH,EUR,Release,0.595,Confidence
+ada54cd4-1b7b-46bb-bc0d-e61ac81411c5,04/08/2027 04:30:00,Consumer Price Index n.s.a (YoY),HIGH,EUR,Release,0.807,Inflation
+23fd7aa0-5f46-4e9f-86d4-d8b0f16935e1,04/08/2027 04:30:00,Consumer Spending Volume,HIGH,EUR,Release,0.595,Confidence
+a84a7cde-dd70-488f-af4e-f5efc2ef16fb,04/22/2027 04:30:00,Consumer Confidence Adj,HIGH,EUR,Release,0.595,Confidence
+2e1492eb-49d3-491d-868d-01d80e9e8f05,05/06/2027 04:30:00,Consumer Spending Volume,HIGH,EUR,Release,0.595,Confidence
+c4015280-8385-4e4a-9f4f-4e37a702999a,05/10/2027 04:30:00,Consumer Price Index n.s.a (YoY),HIGH,EUR,Release,0.807,Inflation
+f7927d0e-3eeb-4d39-804c-a0596a3adf35,05/21/2027 04:30:00,Consumer Confidence Adj,HIGH,EUR,Release,0.595,Confidence
+af155abf-4b41-4418-a637-3c0be684c1f9,06/09/2027 04:30:00,Consumer Spending Volume,HIGH,EUR,Release,0.595,Confidence
+de2c095e-0b55-428c-a06e-305c74519130,06/11/2027 04:30:00,Consumer Price Index n.s.a (YoY),HIGH,EUR,Release,0.807,Inflation
+5c4a4572-1e0c-4d6f-8d34-d2b1194284af,06/22/2027 04:30:00,Consumer Confidence Adj,HIGH,EUR,Release,0.595,Confidence
+1271d37a-c3b8-4837-9fce-385235ca71e8,07/08/2027 04:30:00,Consumer Price Index n.s.a (YoY),HIGH,EUR,Release,0.807,Inflation
+0e9c2572-262f-4966-b8e1-9b5c9fc1845f,07/08/2027 04:30:00,Consumer Spending Volume,HIGH,EUR,Release,0.595,Confidence
+018056b2-ce05-476c-8f9f-769281157206,07/23/2027 04:30:00,Consumer Confidence Adj,HIGH,EUR,Release,0.595,Confidence
+d1feff43-bfd7-4e22-8180-dd4c868088e6,08/06/2027 04:30:00,Consumer Spending Volume,HIGH,EUR,Release,0.595,Confidence
+345640ba-224e-4849-97b3-9d5c08f6295f,08/10/2027 04:30:00,Consumer Price Index n.s.a (YoY),HIGH,EUR,Release,0.807,Inflation
+a25058fe-8c70-497b-96f0-33368fa8b87a,08/23/2027 04:30:00,Consumer Confidence Adj,HIGH,EUR,Release,0.595,Confidence
+670d6fe0-5f4a-4d34-bd3d-1fba19634685,09/07/2027 04:30:00,Consumer Spending Volume,HIGH,EUR,Release,0.595,Confidence
+c959d964-fdba-4c94-bb6f-c60c539c6070,09/09/2027 04:30:00,Consumer Price Index n.s.a (YoY),HIGH,EUR,Release,0.807,Inflation
+37b0b2cd-ce67-4827-924f-bc5fab6ec648,09/23/2027 04:30:00,Consumer Confidence Adj,HIGH,EUR,Release,0.595,Confidence
+86de96fe-c589-4b49-898a-ceb85be1924e,10/08/2027 04:30:00,Consumer Price Index n.s.a (YoY),HIGH,EUR,Release,0.807,Inflation
+d2ddc739-66ac-4b0d-8ed5-24e8e60fb87b,10/08/2027 04:30:00,Consumer Spending Volume,HIGH,EUR,Release,0.595,Confidence
+cf963858-f10c-457d-b59e-2c40352b5a41,10/22/2027 04:30:00,Consumer Confidence Adj,HIGH,EUR,Release,0.595,Confidence
+8f776417-ff46-4240-ae85-5e0759c0d1b2,11/09/2027 05:30:00,Consumer Spending Volume,HIGH,EUR,Release,0.595,Confidence
+9c18a55f-e6c7-4d7d-a92c-8b679af55d4a,11/11/2027 05:30:00,Consumer Price Index n.s.a (YoY),HIGH,EUR,Release,0.807,Inflation
+319341ae-ea5d-4574-acb6-75cbd5cfdfc4,11/23/2027 05:30:00,Consumer Confidence Adj,HIGH,EUR,Release,0.595,Confidence
+1b2526ef-48df-4517-8508-d80353c17af0,12/08/2027 05:30:00,Consumer Spending Volume,HIGH,EUR,Release,0.595,Confidence
+b1c32fde-74fd-41a0-8485-4c59fa248ba7,12/09/2027 05:30:00,Consumer Price Index n.s.a (YoY),HIGH,EUR,Release,0.807,Inflation
+01c1b4c1-5da6-405a-85c0-980b4f90cb14,12/22/2027 05:30:00,Consumer Confidence Adj,HIGH,EUR,Release,0.595,Confidence

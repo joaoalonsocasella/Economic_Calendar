@@ -1,5 +1,4 @@
 Id,Start,Name,Impact,Currency
-91147c54-976a-48e9-b537-2c8b613c49ab,11/26/2026 07:00:00,GfK Consumer Confidence Survey,MEDIUM,EUR
 398272df-ff99-4199-9881-410812af33f7,11/27/2026 08:55:00,Unemployment Change,MEDIUM,EUR
 ba51343f-b6de-4ae5-b99c-7e03a7cc0aa2,11/27/2026 08:55:00,Unemployment Rate s.a.,MEDIUM,EUR
 3033ecec-c2de-46c8-8c72-88871aabc101,11/30/2026 07:00:00,Import Price Index (MoM),LOW,EUR
@@ -659,3 +658,34 @@ f3e7fac9-b222-4499-bbda-49fadcdce8eb,11/30/2027 13:00:00,Consumer Price Index (M
 2c50e97a-c2e5-498b-a06c-d3a4bf53dd74,11/30/2027 13:00:00,Consumer Price Index (YoY),HIGH,EUR
 1ce855bc-00d1-469b-8438-475086803536,11/30/2027 13:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
 2ce220b8-edfb-4762-bbe9-b9be017631a5,11/30/2027 13:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+a2bee78c-8cba-4626-b580-eb0b421d8a33,12/01/2027 08:30:00,HCOB Manufacturing PMI,MEDIUM,EUR
+41aa47ea-6f02-465a-88f0-4eba9fed1be2,12/03/2027 08:30:00,HCOB Composite PMI,MEDIUM,EUR
+cef68213-26f0-429a-803b-7c82048b05d2,12/03/2027 08:30:00,HCOB Services PMI,MEDIUM,EUR
+f5deba77-2784-43da-be25-88d4bf8f829d,12/06/2027 07:00:00,Factory Orders n.s.a. (YoY),MEDIUM,EUR
+7261bc27-f066-4fd5-bb5e-7ef42c819c41,12/06/2027 07:00:00,Factory Orders s.a. (MoM),MEDIUM,EUR
+106b96fd-84de-49c9-b7e1-e59fd573ef09,12/09/2027 07:00:00,Exports (MoM),LOW,EUR
+80655187-bc85-4873-ad44-f514acc19985,12/09/2027 07:00:00,Imports (MoM),LOW,EUR
+ebb8b759-0cba-41ac-b204-07ac3c7b47e8,12/09/2027 07:00:00,Industrial Production n.s.a. w.d.a. (YoY),MEDIUM,EUR
+cb455084-6854-463f-b8fc-bd7f4b8b5588,12/09/2027 07:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
+0f2933d5-2922-45e4-ad01-f0c875ba531f,12/09/2027 07:00:00,Trade Balance s.a.,MEDIUM,EUR
+2bc943be-59b0-4748-84e8-0eb5426cbb53,12/10/2027 07:00:00,Consumer Price Index (MoM),LOW,EUR
+ecae4189-2e06-4753-b39a-0145e7ba0a3b,12/10/2027 07:00:00,Consumer Price Index (YoY),LOW,EUR
+8e555396-1039-4806-bfd7-697e3ba1334c,12/10/2027 07:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
+053ed421-f620-496a-916e-754c655b4ae8,12/10/2027 07:00:00,Harmonized Index of Consumer Prices (YoY),HIGH,EUR
+d5cb9011-49ab-4972-ae4b-c4b0c078c280,12/10/2027 13:30:00,Current Account n.s.a.,LOW,EUR
+e99dedb8-359d-4e99-b20c-6a4463c4a2cc,12/14/2027 07:00:00,Wholesale Price Index (MoM),LOW,EUR
+ffb3e750-45f1-4ba6-a39e-d8d0dee74796,12/14/2027 07:00:00,Wholesale Price Index (YoY),LOW,EUR
+5d18d492-a76b-46e8-8f4b-8faedc27027b,12/16/2027 08:30:00,HCOB Composite PMI,HIGH,EUR
+1a51632c-5543-4393-840d-4476e53e25da,12/16/2027 08:30:00,HCOB Manufacturing PMI,HIGH,EUR
+0123d0dc-ebb3-4292-8e5d-bf5cb905d64c,12/16/2027 08:30:00,HCOB Services PMI,HIGH,EUR
+f75f22f0-706f-4df7-9a8f-3ad7255b7dae,12/17/2027 09:00:00,IFO – Business Climate,MEDIUM,EUR
+ed776085-5b08-475c-bcf3-0bbd9a8d0ef4,12/17/2027 09:00:00,IFO – Current Assessment,MEDIUM,EUR
+99839c06-8d3b-4d3a-a362-1e6c532ade65,12/17/2027 09:00:00,IFO – Expectations,MEDIUM,EUR
+30e4ba18-82af-4d33-bf22-a7925f2b689f,12/20/2027 07:00:00,GfK Consumer Confidence Survey,MEDIUM,EUR
+ffc52ffc-db2f-4d03-b4e4-5633b735e1f0,12/20/2027 07:00:00,Producer Price Index (MoM),MEDIUM,EUR
+39593520-ab8b-47d2-8451-5a5b0c44beb0,12/20/2027 07:00:00,Producer Price Index (YoY),MEDIUM,EUR
+2e091524-bb23-4244-81d3-d14fbfc9c9ca,12/20/2027 11:00:00,German Buba Monthly Report,LOW,EUR
+f9aac26c-9b3c-4e57-be83-eaedf50f8100,12/21/2027 10:00:00,ZEW Survey – Current Situation,MEDIUM,EUR
+b3bf0539-25bc-4262-a425-ab7fb864fe03,12/21/2027 10:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
+20d14777-390e-4169-8a17-6e64c3904809,12/23/2027 07:00:00,Import Price Index (MoM),LOW,EUR
+b2af5f9c-3b63-4305-8d51-e52540256f3b,12/23/2027 07:00:00,Import Price Index (YoY),LOW,EUR

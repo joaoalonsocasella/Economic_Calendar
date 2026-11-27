@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-24b95e22-7dc4-4d35-8737-e6d3b11f5df4,11/26/2026 07:30:00,Employment Level (QoQ),HIGH,CHF,Release,0.18,Labor Market
 e177fb2f-d4de-4e96-b621-7b6749ed99b0,11/30/2026 07:00:00,Gross Domestic Product (QoQ),HIGH,CHF,Release,0.17,Growth
 fbafba6c-58c7-44ee-a5cb-36c6d011bf93,11/30/2026 07:00:00,Gross Domestic Product (YoY),HIGH,CHF,Release,0.17,Growth
 a648af5b-4aae-4aba-9bf7-0112eedec34b,11/30/2026 08:00:00,KOF Leading Indicator,MEDIUM,CHF,Release,0.14,Confidence
@@ -202,3 +201,21 @@ bdeed49c-6dd0-44a8-b98b-af9d8ca3b133,11/18/2027 07:00:00,Trade Balance,MEDIUM,CH
 e833f15e-5434-448f-a7aa-14d70f0c9590,11/29/2027 07:00:00,Gross Domestic Product (QoQ),HIGH,CHF,Release,0.17,Growth
 cfbbf3ad-89cb-4a17-b79b-7a80326e56c3,11/29/2027 07:00:00,Gross Domestic Product (YoY),HIGH,CHF,Release,0.17,Growth
 dccd8c1a-f554-46aa-8575-0f1324e4c1f1,11/30/2027 08:00:00,KOF Leading Indicator,MEDIUM,CHF,Release,0.14,Confidence
+ec24a0cd-301f-4418-87e2-d1ce94b5b226,12/01/2027 07:30:00,Consumer Price Index (MoM),HIGH,CHF,Release,0.19,Inflation
+d00954da-f016-461b-84a8-6d58b01c6d56,12/01/2027 07:30:00,Consumer Price Index (YoY),HIGH,CHF,Release,0.19,Inflation
+76942c96-0635-45e1-a0a8-a3718e858cab,12/01/2027 07:30:00,Real Retail Sales (YoY),HIGH,CHF,Release,0.17,Growth
+7d581e58-ca2f-4fde-ba7a-bfdc8ac45111,12/01/2027 08:30:00,SVME - Purchasing Managers' Index,MEDIUM,CHF,Release,0.14,Confidence
+565ee031-026f-4c95-8baa-979f6b4eacde,12/09/2027 08:00:00,Foreign Currency Reserves,LOW,CHF,Release,0.09,Money and Credit
+8f87078e-3dfd-41ff-8b56-92559faad010,12/09/2027 08:00:00,Unemployment Rate s.a (MoM),HIGH,CHF,Release,0.18,Labor Market
+10b849d7-f06d-4b79-9d1f-e8895a73a7a5,12/14/2027 07:00:00,Producer and Import Prices (MoM),HIGH,CHF,Release,0.19,Inflation
+355716d9-8771-4d28-bdb3-97a4fa6c535d,12/14/2027 07:00:00,Producer and Import Prices (YoY),HIGH,CHF,Release,0.19,Inflation
+16db51ba-ae57-49f1-8f52-330db875e33a,12/16/2027 07:00:00,Exports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
+1065017c-fe17-411e-8dd0-078eb4e1c6cf,12/16/2027 07:00:00,Imports (MoM),MEDIUM,CHF,Release,0.11,Trade and External
+4e6063cd-f58f-41d6-8922-4c233fce2049,12/16/2027 07:00:00,Trade Balance,MEDIUM,CHF,Release,0.11,Trade and External
+6b0a6a81-c574-461c-a225-a4af15a8e0c8,12/16/2027 08:00:00,SECO Economic Forecasts,MEDIUM,CHF,Release,0.14,Confidence
+f0e6570c-ef1a-4cbf-beb2-9e9cc1d4613f,12/16/2027 08:30:00,SNB Interest Rate Decision,HIGH,CHF,Release,0.2,Monetary Policy
+8fcd5cea-c6ca-4ba6-8bec-cc8a57e57152,12/16/2027 08:30:00,SNB Monetary Policy Assessment,MEDIUM,CHF,Speech,0.13,Monetary Policy
+9b4daf73-9622-488d-b8e9-22b3235a1c78,12/16/2027 09:00:00,SNB Press Conference,MEDIUM,CHF,Speech,0.13,Monetary Policy
+5cc64f63-fae2-4ce6-bbb0-c7ce905a8405,12/22/2027 14:00:00,SNB Quarterly Bulletin,HIGH,CHF,Release,0.2,Monetary Policy
+a4f57fb5-4677-48ca-9bc1-ca7f509b2ec5,12/29/2027 09:00:00,ZEW Survey – Expectations,MEDIUM,CHF,Release,0.14,Confidence
+a899a00d-9a90-4f18-b3b6-7dd246040c21,12/30/2027 08:00:00,KOF Leading Indicator,MEDIUM,CHF,Release,0.14,Confidence

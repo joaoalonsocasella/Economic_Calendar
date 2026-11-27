@@ -1,6 +1,4 @@
 Id,Start,Name,Impact,Currency
-52ef682d-397a-42df-a367-7f0ecf16faba,11/26/2026 11:32:24,Current Account,LOW,BRL
-258e8859-916c-4e75-b42a-047de6992331,11/26/2026 12:00:00,Mid-month Inflation,LOW,BRL
 b44fc910-4159-4b1c-878a-573a70322441,11/27/2026 11:00:00,Inflation Index/IGP-M,LOW,BRL
 e7736f8b-3e38-4d07-8075-8f843008ffac,11/27/2026 12:00:00,Unemployment Rate,LOW,BRL
 6eeee796-a98f-49ed-bee1-4706c3cb4b33,11/30/2026 11:30:00,Nominal Budget Balance,LOW,BRL
@@ -166,3 +164,18 @@ e1292c26-fd6f-48e0-9fbf-ebbc0bfec1a4,11/26/2027 12:00:00,Mid-month Inflation,LOW
 eb1cfee6-8a26-485c-933b-a6c2bbd1a983,11/30/2027 11:30:00,Nominal Budget Balance,LOW,BRL
 3c26b643-974d-45fc-8b69-33180257fa4c,11/30/2027 11:30:00,Primary Budget Surplus,LOW,BRL
 173302f8-0426-4831-899f-d0c1619666b9,11/30/2027 12:00:00,Unemployment Rate,LOW,BRL
+8bd60404-6f56-4a79-aa8b-684f03eeb9af,12/01/2027 13:00:00,S&P Global Manufacturing PMI,LOW,BRL
+53dd1937-c421-4a62-8546-d045d826f32a,12/02/2027 08:00:00,Fipe's IPC Inflation,LOW,BRL
+f77935dc-61a5-475b-bf1f-4b5b0f61cea3,12/02/2027 12:00:00,Industrial Output (MoM),LOW,BRL
+6fd0481e-41e9-4d3b-9bc6-83851a6b23f7,12/02/2027 12:00:00,Industrial Output (YoY),LOW,BRL
+7bc1da06-02bf-404a-9f6a-22ab2eda69f0,12/03/2027 12:00:00,Gross Domestic Product (QoQ),LOW,BRL
+da775d82-00fa-4528-9d9a-463bf93da891,12/03/2027 12:00:00,Gross Domestic Product (YoY),LOW,BRL
+b758dce2-bada-4e55-acc9-d56bcc26efc0,12/08/2027 21:00:00,Interest Rate Decision,LOW,BRL
+bf0fcc68-0877-46b2-9eca-28c902316932,12/10/2027 12:00:00,IPCA Inflation,LOW,BRL
+9648b600-2e4b-4029-bc03-5bf73d2bdf16,12/14/2027 12:00:00,Retail Sales (MoM),LOW,BRL
+4c014b88-f973-4647-9df7-7ebe82a58666,12/23/2027 11:30:00,Current Account,LOW,BRL
+7fb9ff2b-3f09-4635-9349-100a5f2fc116,12/23/2027 12:00:00,Mid-month Inflation,LOW,BRL
+d0eff1b3-05c4-45a1-ab20-1244bff1cf95,12/29/2027 12:00:00,Unemployment Rate,LOW,BRL
+05dbf78c-5185-4d8c-9019-f0a0fea90a80,12/30/2027 11:00:00,Inflation Index/IGP-M,LOW,BRL
+b6ad40a1-34c5-4cac-81d5-3d41b398e1c3,12/30/2027 11:30:00,Nominal Budget Balance,LOW,BRL
+0d954fcf-c8d3-40d8-a1ba-46fb28895b32,12/30/2027 11:30:00,Primary Budget Surplus,LOW,BRL

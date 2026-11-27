@@ -1,6 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-e6a93840-dd26-4545-962d-425bb127f4fd,11/26/2026 12:00:00,Jobless Rate,HIGH,MXN,Release,0.18,Labor Market
-8430309f-36ba-4e4b-b7f7-a4aecab0ca29,11/26/2026 12:00:00,Jobless Rate s.a,HIGH,MXN,Release,0.18,Labor Market
 990221b1-b09e-4ddf-a14d-c4c04cc009a2,11/27/2026 12:00:00,"Trade Balance s/a, $",MEDIUM,MXN,Release,0.11,Trade and External
 9b38a215-8bf9-4cd2-8b13-94f4de177170,11/27/2026 12:00:00,"Trade Balance, $",MEDIUM,MXN,Release,0.11,Trade and External
 8eea2fd1-9d60-499d-a6e5-9bb8581f5598,11/30/2026 21:00:00,"Fiscal Balance, pesos",MEDIUM,MXN,Release,0.11,Trade and External
@@ -244,3 +242,22 @@ bdd08e63-f93d-4107-a197-5aafd680a9d5,11/25/2027 12:00:00,Jobless Rate s.a,HIGH,M
 e4571ac2-9e2c-450a-874e-e6a16f2f1aa5,11/25/2027 15:00:00,Accumulated Current Account/GDP,MEDIUM,MXN,Release,0.11,Trade and External
 a093aa5e-abf5-4e40-ad34-a56b03ae0975,11/25/2027 15:00:00,"Current Account, $ (QoQ)",MEDIUM,MXN,Release,0.11,Trade and External
 cb59a6b3-0bb0-4e69-9502-b828a4215a16,11/30/2027 21:00:00,"Fiscal Balance, pesos",MEDIUM,MXN,Release,0.11,Trade and External
+dbb52b49-0780-470d-a461-d2e0252c3038,12/06/2027 12:00:00,Consumer Confidence,MEDIUM,MXN,Release,0.14,Confidence
+9a7fcfd2-c846-494a-a298-7fc787ca82d1,12/06/2027 12:00:00,Consumer Confidence s.a,MEDIUM,MXN,Release,0.14,Confidence
+7a3cad71-9af8-4eb2-9a20-337c7e50868b,12/09/2027 12:00:00,12-Month Inflation,HIGH,MXN,Release,0.19,Inflation
+eeee4315-b046-4e80-8fca-c435b3f95f91,12/09/2027 12:00:00,Core Inflation,HIGH,MXN,Release,0.19,Inflation
+2bb05cca-4e1a-49d8-aeaa-5e684fd45ee8,12/09/2027 12:00:00,Headline Inflation,HIGH,MXN,Release,0.19,Inflation
+75c072a7-d898-462e-8f83-3b328f87176b,12/10/2027 12:00:00,Industrial Output (MoM),HIGH,MXN,Release,0.17,Growth
+0628ead1-955e-4da9-93c3-01151f99758a,12/10/2027 12:00:00,Industrial Output (YoY),HIGH,MXN,Release,0.17,Growth
+d0dfa864-feab-493e-b6b0-79d72c09bb1c,12/16/2027 19:00:00,Banxico Interest Rate Decision,HIGH,MXN,Release,0.2,Monetary Policy
+2f0f4c20-78ba-487a-8850-1d67d83202fe,12/22/2027 12:00:00,1st half-month Core Inflation,HIGH,MXN,Release,0.19,Inflation
+3a09165c-084d-4afd-a826-4bae8e7ed69d,12/22/2027 12:00:00,1st half-month Inflation,HIGH,MXN,Release,0.19,Inflation
+5bb0450c-a3bc-4bbc-857b-35351d83dd9a,12/22/2027 12:00:00,Private Spending (QoQ),HIGH,MXN,Release,0.17,Growth
+c8bfe5c0-031d-4da6-a1ac-801684b2a5ef,12/22/2027 12:00:00,Private Spending (YoY),HIGH,MXN,Release,0.17,Growth
+c5c1b18c-a799-4c7a-9d13-b528927e938d,12/22/2027 12:00:00,Retail Sales (MoM),HIGH,MXN,Release,0.17,Growth
+98dabf53-0a0f-42ce-96b5-7eb09a4dfcbe,12/22/2027 12:00:00,Retail Sales (YoY),HIGH,MXN,Release,0.17,Growth
+07b89bb0-67c3-416b-949a-0e67702065c5,12/23/2027 12:00:00,"Trade Balance s/a, $",MEDIUM,MXN,Release,0.11,Trade and External
+4ad7f9fb-c01f-4110-95c3-919344746698,12/23/2027 12:00:00,"Trade Balance, $",MEDIUM,MXN,Release,0.11,Trade and External
+d1f3496d-77fd-495a-9466-f18bfeb3d372,12/24/2027 12:00:00,Jobless Rate,HIGH,MXN,Release,0.18,Labor Market
+fddc6727-f6ee-4e6a-9d97-8086f7a530f1,12/24/2027 12:00:00,Jobless Rate s.a,HIGH,MXN,Release,0.18,Labor Market
+a5db8108-ac3b-4d98-ada2-c126c9f3aead,12/30/2027 21:00:00,"Fiscal Balance, pesos",MEDIUM,MXN,Release,0.11,Trade and External

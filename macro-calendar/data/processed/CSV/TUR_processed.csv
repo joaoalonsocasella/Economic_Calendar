@@ -1,5 +1,5 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-8712259b-284f-47ae-8331-13c4fefdefc6,11/30/2026 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
+8712259b-284f-47ae-8331-13c4fefdefc6,11/27/2026 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
 eae12420-fd02-48fd-a8f1-6540bf67130e,11/30/2026 07:00:00,Trade Balance,MEDIUM,TRY,Release,0.11,Trade and External
 dcd22221-b55b-4df6-86bd-149ac30e99ec,11/30/2026 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
 ae6e19ef-a111-42d9-9cce-3bb754d3de3c,12/01/2026 07:00:00,Quarterly Gross Domestic Product,HIGH,TRY,Release,0.17,Growth
@@ -165,3 +165,15 @@ b7d0f95c-2894-413d-8f78-475eb8e131cf,11/30/2027 07:00:00,Quarterly Gross Domesti
 85780d0b-4886-4cb0-adff-4131493b744d,11/30/2027 07:00:00,Trade Balance,MEDIUM,TRY,Release,0.11,Trade and External
 7957379d-e2c6-4883-a6ec-4380e965f5c7,11/30/2027 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market
 0097fff7-0811-457d-8028-dbc2e0a63a93,11/30/2027 08:00:00,Foreign Arrivals,MEDIUM,TRY,Release,0.11,Trade and External
+d56aefeb-8366-4c86-975b-9c24797686d4,12/03/2027 07:00:00,Consumer Price Index (MoM),HIGH,TRY,Release,0.19,Inflation
+4598c3d3-441e-40c6-a762-8e75052eddb3,12/03/2027 07:00:00,Consumer Price Index (YoY),HIGH,TRY,Release,0.19,Inflation
+da1acc69-57bd-4918-b610-55beb6d24728,12/03/2027 07:00:00,Exports,MEDIUM,TRY,Release,0.11,Trade and External
+1914c255-2a9b-46bc-af9c-7d70b3c00626,12/07/2027 14:30:00,Treasury Cash Balance,MEDIUM,TRY,Release,0.11,Trade and External
+54564fa2-0ccb-4745-b769-4a63940f876b,12/10/2027 07:00:00,Industrial Production (YoY),HIGH,TRY,Release,0.17,Growth
+f3d8f1f4-a45c-4aa5-a404-cf997a9b1628,12/13/2027 07:00:00,Current Account Balance,MEDIUM,TRY,Release,0.11,Trade and External
+7fdbcdbc-9d97-46f2-8a15-117e3ceaf05c,12/20/2027 08:00:00,Foreign Arrivals,MEDIUM,TRY,Release,0.11,Trade and External
+61923e6e-9ef8-4cef-bb83-5d71a22e12fe,12/22/2027 07:00:00,Capacity Utilization,HIGH,TRY,Release,0.2,Monetary Policy
+01a9164b-19c2-4acb-84cc-5d6796d37e96,12/22/2027 07:00:00,Manufacturing Confidence,MEDIUM,TRY,Release,0.14,Confidence
+962a5c2d-ca31-4839-905e-2c2aea65af30,12/30/2027 07:00:00,Economic Confidence Index,MEDIUM,TRY,Release,0.14,Confidence
+b052d4f9-7382-4469-9c32-bbfb573f904d,12/30/2027 07:00:00,Trade Balance,MEDIUM,TRY,Release,0.11,Trade and External
+874e8c36-e93a-45f6-bb18-3f6a36190f1c,12/31/2027 07:00:00,Unemployment Rate,HIGH,TRY,Release,0.18,Labor Market

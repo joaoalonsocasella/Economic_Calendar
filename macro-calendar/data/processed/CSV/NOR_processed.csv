@@ -1,9 +1,7 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-da563423-10b6-4232-ac62-e39c90e8de99,11/26/2026 07:00:00,Gross Domestic Product Growth,LOW,NOK,Release,0.09,Money and Credit
-1fc7f231-61d2-43cd-9cfd-9e654acd952a,11/26/2026 07:00:00,Gross Domestic Product Growth Mainland,LOW,NOK,Release,0.09,Money and Credit
+7b659571-c28c-4a9f-89d0-5fa20cf67b8b,11/27/2026 07:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
 783782c0-3815-4032-bf3e-cd51ba881952,11/27/2026 07:00:00,Retail Sales ,HIGH,NOK,Release,0.17,Growth
-7b659571-c28c-4a9f-89d0-5fa20cf67b8b,11/27/2026 09:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
-d4b74452-bc78-4dec-9c18-4038104769bb,11/27/2026 09:00:00,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
+d4b74452-bc78-4dec-9c18-4038104769bb,11/27/2026 09:00:11,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
 0733ac92-b31f-497d-9113-2de9a5bc3259,12/02/2026 07:00:00,Current Account,MEDIUM,NOK,Release,0.11,Trade and External
 a38597d8-6f03-447c-b4f2-69fe36ce9962,12/07/2026 07:00:00,Manufacturing Output,HIGH,NOK,Release,0.17,Growth
 074fe9b5-744a-4fac-a685-d9ed302a07f4,12/09/2026 07:00:00,Producer Price Index (YoY),HIGH,NOK,Release,0.19,Inflation
@@ -154,3 +152,18 @@ fb752d2f-82b2-4072-8d49-37c1e4ff30f1,11/23/2027 07:00:00,Credit Indicator,LOW,NO
 ead552c8-f0ce-41a9-8542-770c305a7167,11/26/2027 07:00:00,Gross Domestic Product Growth,LOW,NOK,Release,0.09,Money and Credit
 c78b4116-34e3-4fbe-95c5-c6a77e1f9f66,11/26/2027 07:00:00,Gross Domestic Product Growth Mainland,LOW,NOK,Release,0.09,Money and Credit
 4ab2a784-ee28-47ee-8f2c-03eb76adb324,11/26/2027 07:00:00,Retail Sales ,HIGH,NOK,Release,0.17,Growth
+abdbb3cc-d709-4add-90be-69c3ab0669ec,12/02/2027 07:00:00,Current Account,MEDIUM,NOK,Release,0.11,Trade and External
+b8547e25-ca46-4230-b608-c3093ba08652,12/03/2027 09:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
+572a224e-e523-4bc6-b8d2-9729a1cba0f4,12/03/2027 09:00:00,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
+55fe69f1-4da3-4302-8679-090187239d1e,12/07/2027 07:00:00,Manufacturing Output,HIGH,NOK,Release,0.17,Growth
+8563136f-41a1-4279-97b0-fab41ba293dd,12/09/2027 07:00:00,Consumer Price Index (MoM),HIGH,NOK,Release,0.19,Inflation
+132dd669-3923-4c2b-a6c4-27f18e5d7023,12/09/2027 07:00:00,Consumer Price Index (YoY),HIGH,NOK,Release,0.19,Inflation
+cdaeb7cb-7e60-42ba-a20b-5a7a12de95ce,12/09/2027 07:00:00,Core Inflation (MoM),HIGH,NOK,Release,0.19,Inflation
+220a1679-e5c6-4591-99d7-cf023666d192,12/09/2027 07:00:00,Core Inflation (YoY),HIGH,NOK,Release,0.19,Inflation
+b323cb38-24a0-4947-baab-723f4c68f492,12/09/2027 07:00:00,Producer Price Index (YoY),HIGH,NOK,Release,0.19,Inflation
+ce57abe7-f4b2-4892-9fe8-d4b53764d3f2,12/15/2027 07:00:00,Trade Balance,MEDIUM,NOK,Release,0.11,Trade and External
+3dc52e3c-9d32-4d32-9109-87875c5f4dfa,12/16/2027 09:00:00,Norges Bank Interest Rate Decision,HIGH,NOK,Release,0.2,Monetary Policy
+a42e9aec-d46d-41bc-8073-f754feb2ca80,12/17/2027 09:00:00,Registered Unemployment n.s.a,HIGH,NOK,Release,0.18,Labor Market
+50cf17ea-d826-44ab-921e-a0b3a2a252bf,12/17/2027 09:00:00,Registered Unemployment s.a,HIGH,NOK,Release,0.18,Labor Market
+a0920453-d5ed-4c10-85e3-c89a30e9e18c,12/23/2027 07:00:00,Credit Indicator,LOW,NOK,Release,0.09,Money and Credit
+8c37887d-469a-4b78-b2f6-1adef28585b1,12/27/2027 07:00:00,Retail Sales ,HIGH,NOK,Release,0.17,Growth

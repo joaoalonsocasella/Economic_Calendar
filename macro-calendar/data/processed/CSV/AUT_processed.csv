@@ -1,5 +1,4 @@
 ﻿Id,Start,Name,Impact,Currency,Event_Type,Impact_score,MacroCateg
-d379d930-b08b-4db5-81f1-6939be02e29b,11/26/2026 09:00:00,UniCredit Bank Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
 21594f47-0907-465a-9c3f-bc2f4153fce3,11/30/2026 08:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 1fcddf0c-c545-4c87-ab61-50972da80edd,11/30/2026 08:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 4b9103d4-731e-484b-8889-fff815d6859e,12/01/2026 08:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
@@ -141,3 +140,15 @@ e1cd49ee-70f7-4e12-8175-8520373cbf6d,11/10/2027 08:00:00,Trade Balance,HIGH,EUR,
 d6da98ce-f067-44a4-8c03-9d6460692fb5,11/29/2027 08:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
 1a4ac1fd-09e5-4890-a57b-a284de120e87,11/29/2027 08:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
 b52c885c-2d1b-4d4d-90d8-ef5a542e210c,11/29/2027 09:00:00,UniCredit Bank Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+8f799fcf-aa73-40e4-9500-6a90cadb5a97,12/01/2027 08:00:00,Unemployment,HIGH,EUR,Release,0.765,Labor Market
+07f24d8b-7435-44a7-bbdc-b8ee32483575,12/01/2027 08:00:00,Unemployment Rate,HIGH,EUR,Release,0.765,Labor Market
+4e7a954e-0d46-4247-9bd7-791e6afdb829,12/03/2027 08:00:00,Gross Domestic Product (QoQ),HIGH,EUR,Release,0.722,Growth
+02366413-20d8-4267-acd6-3d55b1882bb3,12/07/2027 08:00:00,Wholesale Prices n.s.a (MoM),HIGH,EUR,Release,0.722,Growth
+d3aa4c60-7f48-47d3-830d-67deab901795,12/07/2027 08:00:00,Wholesale Prices n.s.a (YoY),HIGH,EUR,Release,0.468,Trade and External
+2bf9da85-c079-42c6-96cd-4a5a5300e88f,12/09/2027 08:00:00,Trade Balance,HIGH,EUR,Release,0.468,Trade and External
+ddc831d9-3064-4747-8835-81f5691cd63d,12/10/2027 08:00:00,Industrial Production (YoY),HIGH,EUR,Release,0.722,Growth
+8f861b19-75f1-4587-8598-a895639b5feb,12/17/2027 08:00:00,HICP (MoM),HIGH,EUR,Release,0.807,Inflation
+dd8b1153-6b99-4e2b-bf54-046af54f6c16,12/17/2027 08:00:00,HICP (YoY),HIGH,EUR,Release,0.807,Inflation
+726f21f4-eb9f-44c6-a749-0cbcf7fbb39f,12/29/2027 09:00:00,UniCredit Bank Manufacturing PMI,HIGH,EUR,Release,0.722,Growth
+2366b17a-de76-47f5-b2fe-ad9a13bb80fc,12/30/2027 08:00:00,Producer Price Index (MoM),HIGH,EUR,Release,0.807,Inflation
+0ac7d404-c63e-435c-8d2c-db2824298b02,12/30/2027 08:00:00,Producer Price Index (YoY),HIGH,EUR,Release,0.807,Inflation
